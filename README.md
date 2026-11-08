@@ -19,28 +19,21 @@ The target count refers to movies that pass these conditions, not the number of 
 ## Collection Pipeline
 
 ```mermaid
-flowchart TB
-    subgraph COLLECTION["Movie collection and document preparation"]
-        direction LR
-        A["TMDB credential"] --> B["Search each year<br/>by popularity"]
-        B --> C["Fetch and save<br/>raw metadata"]
-        C --> D{"English and<br/>zh-CN or zh-TW?"}
-        D -->|"Accepted"| E["accepted_movies.json"]
-        E --> F["Prepare English<br/>retrieval documents"]
-    end
-
-    subgraph EVALUATION["Query preparation and baseline evaluation"]
-        direction LR
-        G["Create Chinese queries<br/>and relevance labels"] --> H["Random and BM25<br/>baselines"]
-        H --> I["MRR and Recall@10<br/>preliminary results"]
-        I --> J["Checkpoint 1<br/>November 9, 2026"]
-    end
-
-    F --> G
+flowchart LR
+    A["TMDB<br/>credential"] --> B["Search each year<br/>by popularity"]
+    B --> C["Fetch and save<br/>raw metadata"]
+    C --> D{"English and<br/>zh-CN or zh-TW?"}
+    D -->|"Accepted"| E["accepted_movies<br/>manifest"]
+    D -->|"Rejected"| R["Record<br/>rejection reason"]
+    E --> F["Prepare English<br/>retrieval documents"]
+    F --> G["Create Chinese queries<br/>and relevance labels"]
+    G --> H["Random and BM25<br/>baselines"]
+    H --> I["MRR and Recall@10<br/>preliminary results"]
+    I --> J["Checkpoint 1<br/>November 9, 2026"]
 
     classDef completed fill:#d9ead3,stroke:#38761d,stroke-width:2px,color:#000000;
     classDef checkpoint fill:#fff2cc,stroke:#bf9000,stroke-width:2px,color:#000000;
-    class A,B,C,D,E,F completed;
+    class A,B,C,D,E,F,R completed;
     class J checkpoint;
 ```
 
