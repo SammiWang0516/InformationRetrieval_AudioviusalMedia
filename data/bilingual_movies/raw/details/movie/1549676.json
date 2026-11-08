@@ -1,0 +1,558 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 1549676,
+  "imdb_id": "tt33268735",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Cure",
+  "overview": "When August finds shelter in an abandoned ranch home, he goes down memory lane of his trauma and what his scientist mother, Dr. Edwards, did to him. Do you challenge your morals if you can find the cure for humanity?",
+  "popularity": 0.7714,
+  "poster_path": "/4o5nOOlYViNAlHEkBOp3N1Hgidx.jpg",
+  "production_companies": [
+    {
+      "id": 279708,
+      "logo_path": null,
+      "name": "Goddard House Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-10-01",
+  "revenue": 0,
+  "runtime": 11,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Cure",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4636666,
+        "known_for_department": "Acting",
+        "name": "Tristan Wilder Hallett",
+        "original_name": "Tristan Wilder Hallett",
+        "popularity": 0.1614,
+        "profile_path": "/fJ5I18RfDKeievC8W36PhzYGtku.jpg",
+        "cast_id": 2,
+        "character": "Young August",
+        "credit_id": "68cf900053c8c12ce097d7cb",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2184812,
+        "known_for_department": "Acting",
+        "name": "Jace Greenwood",
+        "original_name": "Jace Greenwood",
+        "popularity": 0.2515,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Adult August",
+        "credit_id": "68cf903d2a67c0821f97d60e",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2728076,
+        "known_for_department": "Acting",
+        "name": "Leesa Neidel",
+        "original_name": "Leesa Neidel",
+        "popularity": 0.2073,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Dr. Edwards",
+        "credit_id": "68cf9025c523e569ff7495df",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5557174,
+        "known_for_department": "Acting",
+        "name": "Julia Watts",
+        "original_name": "Julia Watts",
+        "popularity": 0.1174,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Officer Kitch",
+        "credit_id": "68cf900b327949889b97d79d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5701788,
+        "known_for_department": "Acting",
+        "name": "Jillian Jennings",
+        "original_name": "Jillian Jennings",
+        "popularity": 0.1564,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Farm Girl / Zombie",
+        "credit_id": "68cf90681c2974ee42d41564",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5006897,
+        "known_for_department": "Acting",
+        "name": "Brent Longmire",
+        "original_name": "Brent Longmire",
+        "popularity": 0.1463,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Officer Campbell",
+        "credit_id": "68cf90544e7f97d8bdd414f7",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2959718,
+        "known_for_department": "Acting",
+        "name": "Matthew H. Torres",
+        "original_name": "Matthew H. Torres",
+        "popularity": 0.1569,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Simon",
+        "credit_id": "68cf9044eac6849073cd7468",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5701787,
+        "known_for_department": "Acting",
+        "name": "Dick Pryor",
+        "original_name": "Dick Pryor",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Director (voice)",
+        "credit_id": "68cf905d823fdcf127cd75c0",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4413052,
+        "known_for_department": "Directing",
+        "name": "Katie Hightower",
+        "original_name": "Katie Hightower",
+        "popularity": 0.1454,
+        "profile_path": null,
+        "credit_id": "68cf8fe8844a1f0e1efe9230",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5802572,
+        "known_for_department": "Writing",
+        "name": "Phillip Clickner",
+        "original_name": "Phillip Clickner",
+        "popularity": 0.0394,
+        "profile_path": null,
+        "credit_id": "690e2acb34eec9d9e7dd12db",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2184812,
+        "known_for_department": "Acting",
+        "name": "Jace Greenwood",
+        "original_name": "Jace Greenwood",
+        "popularity": 0.2515,
+        "profile_path": null,
+        "credit_id": "690e2aed540af423d04c753a",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5802572,
+        "known_for_department": "Writing",
+        "name": "Phillip Clickner",
+        "original_name": "Phillip Clickner",
+        "popularity": 0.0394,
+        "profile_path": null,
+        "credit_id": "690e2b01965b35bb239ab45d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3742715,
+        "known_for_department": "Acting",
+        "name": "Elise Greene",
+        "original_name": "Elise Greene",
+        "popularity": 0.2685,
+        "profile_path": "/yTSJ8Qayj8MVpYKXD5eYCk2bABD.jpg",
+        "credit_id": "690e2b2534eec9d9e7dd12e3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2184812,
+        "known_for_department": "Acting",
+        "name": "Jace Greenwood",
+        "original_name": "Jace Greenwood",
+        "popularity": 0.2515,
+        "profile_path": null,
+        "credit_id": "690e2b311c6955a1a5ce7bf8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4413052,
+        "known_for_department": "Directing",
+        "name": "Katie Hightower",
+        "original_name": "Katie Hightower",
+        "popularity": 0.1454,
+        "profile_path": null,
+        "credit_id": "690e2b4181395a6dd1d24d09",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5802554,
+        "known_for_department": "Sound",
+        "name": "Gabee Rolla-Danley",
+        "original_name": "Gabee Rolla-Danley",
+        "popularity": 0.0785,
+        "profile_path": null,
+        "credit_id": "690e2b55a3d94d8baa31a4b3",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2042772,
+        "known_for_department": "Camera",
+        "name": "Andrew Appleyard",
+        "original_name": "Andrew Appleyard",
+        "popularity": 0.1186,
+        "profile_path": "/xWQ1pjmsS8DaB6gHhhCE5vimWfQ.jpg",
+        "credit_id": "690e2b62ae981ceb3f9ab3a3",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2067112,
+        "known_for_department": "Production",
+        "name": "Michelle De Long",
+        "original_name": "Michelle De Long",
+        "popularity": 0.1549,
+        "profile_path": null,
+        "credit_id": "690e2b777548b11554c050a2",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5802577,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Clara Chlebanow",
+        "original_name": "Clara Chlebanow",
+        "popularity": 0.1076,
+        "profile_path": null,
+        "credit_id": "690e2b87380a6254f18743e1",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4313165,
+        "known_for_department": "Visual Effects",
+        "name": "Kamryn Lee",
+        "original_name": "Kamryn Lee",
+        "popularity": 0.1825,
+        "profile_path": null,
+        "credit_id": "690e2b9ac14a37294e4c72cb",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5802578,
+        "known_for_department": "Sound",
+        "name": "Madeline McFarland",
+        "original_name": "Madeline McFarland",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "690e2baa34eec9d9e7dd12f2",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5802580,
+        "known_for_department": "Crew",
+        "name": "Bradley M. Dunn",
+        "original_name": "Bradley M. Dunn",
+        "popularity": 0.0819,
+        "profile_path": null,
+        "credit_id": "690e2bba4f04bbcf4edd1232",
+        "department": "Crew",
+        "job": "Weapons Master"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5802581,
+        "known_for_department": "Crew",
+        "name": "Mason Cottrell",
+        "original_name": "Mason Cottrell",
+        "popularity": 0.0816,
+        "profile_path": null,
+        "credit_id": "690e2bcb41b0b93d78a0bd2a",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3761809,
+        "known_for_department": "Camera",
+        "name": "Kash Kirchner",
+        "original_name": "Kash Kirchner",
+        "popularity": 0.0874,
+        "profile_path": null,
+        "credit_id": "690e2bd8c1daa774efc05235",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5171390,
+        "known_for_department": "Camera",
+        "name": "Jacob Liao",
+        "original_name": "Jacob Liao",
+        "popularity": 0.1732,
+        "profile_path": null,
+        "credit_id": "690e2be7f2781b680931a57d",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5802580,
+        "known_for_department": "Crew",
+        "name": "Bradley M. Dunn",
+        "original_name": "Bradley M. Dunn",
+        "popularity": 0.0819,
+        "profile_path": null,
+        "credit_id": "690e2bf3c5c5faff3aa0bd45",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5802585,
+        "known_for_department": "Production",
+        "name": "Ariel Browne",
+        "original_name": "Ariel Browne",
+        "popularity": 0.0846,
+        "profile_path": null,
+        "credit_id": "690e2c0a2f9649b50a4c7603",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5802588,
+        "known_for_department": "Production",
+        "name": "Toyry Johnson",
+        "original_name": "Toyry Johnson",
+        "popularity": 0.1045,
+        "profile_path": null,
+        "credit_id": "690e2c1e7a7eb793f69ab680",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4609095,
+        "known_for_department": "Directing",
+        "name": "Chris Koenig",
+        "original_name": "Chris Koenig",
+        "popularity": 0.1342,
+        "profile_path": null,
+        "credit_id": "690e2c323c6c3c652c4c7455",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5802590,
+        "known_for_department": "Production",
+        "name": "Stacy Rose Lott",
+        "original_name": "Stacy Rose Lott",
+        "popularity": 0.0476,
+        "profile_path": null,
+        "credit_id": "690e2c411cbf4d16c0c0519e",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5802591,
+        "known_for_department": "Production",
+        "name": "Lori Lee McCollough",
+        "original_name": "Lori Lee McCollough",
+        "popularity": 0.088,
+        "profile_path": null,
+        "credit_id": "690e2c53f2781b680931a589",
+        "department": "Production",
+        "job": "Production Assistant"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 2754,
+        "name": "trauma"
+      },
+      {
+        "id": 253857,
+        "name": "scared"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "When August finds shelter in an abandoned ranch home, he goes down memory lane of his trauma and what his scientist mother, Dr. Edwards, did to him. Do you challenge your morals if you can find the cure for humanity?",
+          "runtime": 11,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt33268735",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 750,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/4o5nOOlYViNAlHEkBOp3N1Hgidx.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 500
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-10-01T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

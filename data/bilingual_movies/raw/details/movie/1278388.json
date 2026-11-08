@@ -1,0 +1,524 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1278388,
+  "imdb_id": null,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Profil Bas",
+  "overview": "Nina, a middle school student about to move into second grade, finds herself against her teachers for a grade that would save her future.",
+  "popularity": 2.3471,
+  "poster_path": "/nndkoqv6npLFrBvb5g6DwxEr1Qx.jpg",
+  "production_companies": [
+    {
+      "id": 197417,
+      "logo_path": null,
+      "name": "ESRA Paris",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2024-03-06",
+  "revenue": 0,
+  "runtime": 5,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Profil Bas",
+  "video": false,
+  "vote_average": 5.0,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2764693,
+        "known_for_department": "Acting",
+        "name": "Elisa de Lambert",
+        "original_name": "Elisa de Lambert",
+        "popularity": 0.8577,
+        "profile_path": "/cLi8ubregsb406oJSt2MYDzC0Qk.jpg",
+        "cast_id": 27,
+        "character": "Nina",
+        "credit_id": "6653dd777a9ee26a144caca5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4738029,
+        "known_for_department": "Acting",
+        "name": "Flavie Boucher",
+        "original_name": "Flavie Boucher",
+        "popularity": 0.0573,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Head Teacher",
+        "credit_id": "6653dda679bd871df7a0bfde",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4738031,
+        "known_for_department": "Acting",
+        "name": "Maximilien Mekki",
+        "original_name": "Maximilien Mekki",
+        "popularity": 0.3802,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Sports Teacher",
+        "credit_id": "6653de12f7dd290f41990ad3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1668203,
+        "known_for_department": "Acting",
+        "name": "Amélina Limousin",
+        "original_name": "Amélina Limousin",
+        "popularity": 0.111,
+        "profile_path": "/GNivMVL89Q1UsZ1mJJtDEEWx9u.jpg",
+        "cast_id": 30,
+        "character": "English Teacher",
+        "credit_id": "6653de40f7dd290f41990b14",
+        "order": 3
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 4738036,
+        "known_for_department": "Acting",
+        "name": "Tigrane Garabedian",
+        "original_name": "Tigrane Garabedian",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "French Teacher",
+        "credit_id": "6653de697fabdb3b7603d643",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4738037,
+        "known_for_department": "Acting",
+        "name": "Jonathan Elalouf",
+        "original_name": "Jonathan Elalouf",
+        "popularity": 0.269,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Math Teacher",
+        "credit_id": "6653de92f339150fd631991f",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4668870,
+        "known_for_department": "Directing",
+        "name": "Inès Morillon",
+        "original_name": "Inès Morillon",
+        "popularity": 0.1557,
+        "profile_path": null,
+        "credit_id": "6626a13daf9590017d6a9487",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4668872,
+        "known_for_department": "Production",
+        "name": "Maya Carquin",
+        "original_name": "Maya Carquin",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6626a164e295b401879c0cbc",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4668873,
+        "known_for_department": "Production",
+        "name": "Sarah Mirghane",
+        "original_name": "Sarah Mirghane",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "6626a17363d93700cf7136c8",
+        "department": "Production",
+        "job": "Producer's Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4668876,
+        "known_for_department": "Editing",
+        "name": "Armance Nicollas",
+        "original_name": "Armance Nicollas",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "credit_id": "6626a18caf9590017d6a94b7",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3714458,
+        "known_for_department": "Directing",
+        "name": "Camille Rico",
+        "original_name": "Camille Rico",
+        "popularity": 0.0383,
+        "profile_path": null,
+        "credit_id": "6626a1b863d937018774890e",
+        "department": "Writing",
+        "job": "Storyboard"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4668870,
+        "known_for_department": "Directing",
+        "name": "Inès Morillon",
+        "original_name": "Inès Morillon",
+        "popularity": 0.1557,
+        "profile_path": null,
+        "credit_id": "6626a1c6cb5c8e0164403037",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4668882,
+        "known_for_department": "Camera",
+        "name": "Charlotte D'Agostino",
+        "original_name": "Charlotte D'Agostino",
+        "popularity": 0.055,
+        "profile_path": null,
+        "credit_id": "6626a1ebcb5c8e016440304b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4668886,
+        "known_for_department": "Directing",
+        "name": "Maxime Boulan",
+        "original_name": "Maxime Boulan",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "6626a2072dda890187e3e968",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4669090,
+        "known_for_department": "Production",
+        "name": "Aubin Cotta",
+        "original_name": "Aubin Cotta",
+        "popularity": 0.0753,
+        "profile_path": null,
+        "credit_id": "6626b8f3258823017d930162",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4669094,
+        "known_for_department": "Production",
+        "name": "Ryan Dalmard",
+        "original_name": "Ryan Dalmard",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6626b94a62f335017ddb3946",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4669097,
+        "known_for_department": "Crew",
+        "name": "Arnaud Poisson-Dalle",
+        "original_name": "Arnaud Poisson-Dalle",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "6626b9ab221ba6017c16228c",
+        "department": "Crew",
+        "job": "Manager of Operations"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4669094,
+        "known_for_department": "Production",
+        "name": "Ryan Dalmard",
+        "original_name": "Ryan Dalmard",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6626b9c0b2681f013c72a380",
+        "department": "Crew",
+        "job": "Manager of Operations"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4669097,
+        "known_for_department": "Crew",
+        "name": "Arnaud Poisson-Dalle",
+        "original_name": "Arnaud Poisson-Dalle",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "6626b9d1e295b401879c1635",
+        "department": "Crew",
+        "job": "Machinist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4669103,
+        "known_for_department": "Camera",
+        "name": "Raphaël Patry",
+        "original_name": "Raphaël Patry",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6626ba60e295b401879c166e",
+        "department": "Camera",
+        "job": "First Assistant \"A\" Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4669109,
+        "known_for_department": "Lighting",
+        "name": "Léo Demazière",
+        "original_name": "Léo Demazière",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "6626ba962dda890187e3f70d",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4669097,
+        "known_for_department": "Crew",
+        "name": "Arnaud Poisson-Dalle",
+        "original_name": "Arnaud Poisson-Dalle",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "6633cd4d813cb60127871626",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4689749,
+        "known_for_department": "Crew",
+        "name": "Angel Dos Santos",
+        "original_name": "Angel Dos Santos",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6633cdd10f5265012bba686b",
+        "department": "Crew",
+        "job": "Script"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4668876,
+        "known_for_department": "Editing",
+        "name": "Armance Nicollas",
+        "original_name": "Armance Nicollas",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "credit_id": "6633ce1ac39266012b6db959",
+        "department": "Crew",
+        "job": "Script"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4668873,
+        "known_for_department": "Production",
+        "name": "Sarah Mirghane",
+        "original_name": "Sarah Mirghane",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "6633ce5166565a012c13eefa",
+        "department": "Crew",
+        "job": "Manager of Operations"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4689761,
+        "known_for_department": "Sound",
+        "name": "Noah Girardot",
+        "original_name": "Noah Girardot",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6633ced82a09bc012358b40d",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4668882,
+        "known_for_department": "Camera",
+        "name": "Charlotte D'Agostino",
+        "original_name": "Charlotte D'Agostino",
+        "popularity": 0.055,
+        "profile_path": null,
+        "credit_id": "6633cef1813cb60129870e16",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4669090,
+        "known_for_department": "Production",
+        "name": "Aubin Cotta",
+        "original_name": "Aubin Cotta",
+        "popularity": 0.0753,
+        "profile_path": null,
+        "credit_id": "6633cf1b470ead01281119b1",
+        "department": "Lighting",
+        "job": "Lighting Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4689762,
+        "known_for_department": "Sound",
+        "name": "Michel Zreiqy",
+        "original_name": "Michel Zreiqy",
+        "popularity": 0.065,
+        "profile_path": null,
+        "credit_id": "6633cf61358da7012d54bc0f",
+        "department": "Sound",
+        "job": "Sound Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Nina, a middle school student about to move into second grade, finds herself against her teachers for a grade that would save her future.",
+          "runtime": 5,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "fr",
+            "note": "",
+            "release_date": "2024-03-06T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

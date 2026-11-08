@@ -1,0 +1,608 @@
+{
+  "adult": false,
+  "backdrop_path": "/qJHWPnsZQ6IcZO0tcvK9x4IamGE.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1485025,
+  "imdb_id": "tt35996799",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Content",
+  "overview": "Shown through phones, laptops, & webcams, a seemingly polite director stalks and blackmails his actors into living a real-life horror movie.",
+  "popularity": 0.7013,
+  "poster_path": "/8AqWhctzuOdNMrXtlk4kj4bXaqq.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-09-01",
+  "revenue": 0,
+  "runtime": 88,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Thanks for sharing your location.",
+  "title": "Content",
+  "video": false,
+  "vote_average": 1.0,
+  "vote_count": 2,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5245756,
+        "known_for_department": "Acting",
+        "name": "Megan Boehmcke",
+        "original_name": "Megan Boehmcke",
+        "popularity": 0.3,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Margot",
+        "credit_id": "682e0a9b983ecdd9e9db3a0d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4273715,
+        "known_for_department": "Acting",
+        "name": "Alex Mills",
+        "original_name": "Alex Mills",
+        "popularity": 0.3328,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Teddy",
+        "credit_id": "682e0aa9933e88e062e257ac",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4273718,
+        "known_for_department": "Writing",
+        "name": "Adam Meilech",
+        "original_name": "Adam Meilech",
+        "popularity": 0.1506,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "AJ",
+        "credit_id": "682e0ab23c007aa7039e4232",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3597316,
+        "known_for_department": "Acting",
+        "name": "Vaune Suitt",
+        "original_name": "Vaune Suitt",
+        "popularity": 0.1098,
+        "profile_path": "/3oTBFP9bWE23hTDice7s9Lxj2TN.jpg",
+        "cast_id": 4,
+        "character": "Florence",
+        "credit_id": "682e0c18b3869d867de2563f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4716539,
+        "known_for_department": "Crew",
+        "name": "Griffin William Riley",
+        "original_name": "Griffin William Riley",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Pat",
+        "credit_id": "682e0c2bda70b514d6f569f4",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3940902,
+        "known_for_department": "Sound",
+        "name": "Alex Senti",
+        "original_name": "Alex Senti",
+        "popularity": 0.2805,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Che",
+        "credit_id": "682e0c393c007aa7039e4247",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4088951,
+        "known_for_department": "Acting",
+        "name": "Ashley Amato",
+        "original_name": "Ashley Amato",
+        "popularity": 0.2613,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Siobhan",
+        "credit_id": "682e0c4aa5e1b359b79e4219",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4273717,
+        "known_for_department": "Writing",
+        "name": "Logan Cleverly",
+        "original_name": "Logan Cleverly",
+        "popularity": 0.0753,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Don",
+        "credit_id": "682e0c59dd4fa4dc7f2f82c4",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5453254,
+        "known_for_department": "Acting",
+        "name": "Jess Hopkins",
+        "original_name": "Jess Hopkins",
+        "popularity": 0.1104,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Sam",
+        "credit_id": "682e0c6e2a7ca4b1958c1387",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4273710,
+        "known_for_department": "Acting",
+        "name": "Max Bennett Kelly",
+        "original_name": "Max Bennett Kelly",
+        "popularity": 0.2333,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Roommate",
+        "credit_id": "682e0c7e75274824c2e257e4",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85813,
+        "known_for_department": "Directing",
+        "name": "Dean Alioto",
+        "original_name": "Dean Alioto",
+        "popularity": 0.3265,
+        "profile_path": "/hup1Fu7LeXrliqpP69y4zfmVrwz.jpg",
+        "cast_id": 11,
+        "character": "Stranger #1",
+        "credit_id": "682e0c9c7e07d6ffec9e43fc",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5453256,
+        "known_for_department": "Acting",
+        "name": "Noah Marger",
+        "original_name": "Noah Marger",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Stranger #2",
+        "credit_id": "682e0cb9da43493afddb36ff",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5453257,
+        "known_for_department": "Acting",
+        "name": "Rachel Nach",
+        "original_name": "Rachel Nach",
+        "popularity": 0.0383,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Cinemidiots Host #1",
+        "credit_id": "682e0cd8da70b514d6f56a01",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5453258,
+        "known_for_department": "Acting",
+        "name": "Josh Schreck",
+        "original_name": "Josh Schreck",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Cinemidiots Host #2",
+        "credit_id": "682e0ce1bb2a3d77b7f5693b",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5150861,
+        "known_for_department": "Acting",
+        "name": "Mera Caulfield",
+        "original_name": "Mera Caulfield",
+        "popularity": 0.1387,
+        "profile_path": "/1VT0ikSiqJ03Bx4kqrlZHjAuI9Q.jpg",
+        "cast_id": 24,
+        "character": "Actress",
+        "credit_id": "682e0dc7f5ca8ac4a62f169c",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4273718,
+        "known_for_department": "Writing",
+        "name": "Adam Meilech",
+        "original_name": "Adam Meilech",
+        "popularity": 0.1506,
+        "profile_path": null,
+        "credit_id": "682e0cfc8de1323ad8db36e7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4273718,
+        "known_for_department": "Writing",
+        "name": "Adam Meilech",
+        "original_name": "Adam Meilech",
+        "popularity": 0.1506,
+        "profile_path": null,
+        "credit_id": "682e0d0663fc3c228a2f8046",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4273718,
+        "known_for_department": "Writing",
+        "name": "Adam Meilech",
+        "original_name": "Adam Meilech",
+        "popularity": 0.1506,
+        "profile_path": null,
+        "credit_id": "682e0d11437fadcc6f649c3a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4273717,
+        "known_for_department": "Writing",
+        "name": "Logan Cleverly",
+        "original_name": "Logan Cleverly",
+        "popularity": 0.0753,
+        "profile_path": null,
+        "credit_id": "682e0d1f69ebea95582f8162",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5453261,
+        "known_for_department": "Editing",
+        "name": "Stephanie Silva",
+        "original_name": "Stephanie Silva",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "682e0d59846aa0a86cdb370d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4273718,
+        "known_for_department": "Writing",
+        "name": "Adam Meilech",
+        "original_name": "Adam Meilech",
+        "popularity": 0.1506,
+        "profile_path": null,
+        "credit_id": "682e0d626299b61e73649892",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5453263,
+        "known_for_department": "Sound",
+        "name": "Evan Foley",
+        "original_name": "Evan Foley",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "682e0d7c7c8c04687e649a09",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4273710,
+        "known_for_department": "Acting",
+        "name": "Max Bennett Kelly",
+        "original_name": "Max Bennett Kelly",
+        "popularity": 0.2333,
+        "profile_path": null,
+        "credit_id": "682e0d8e5613abdd990be5b9",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4094262,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jake Porath",
+        "original_name": "Jake Porath",
+        "popularity": 0.1218,
+        "profile_path": null,
+        "credit_id": "682e0dae80692bab556499c6",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Effects Designer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 1936,
+        "name": "blackmail"
+      },
+      {
+        "id": 10333,
+        "name": "stalking"
+      },
+      {
+        "id": 163053,
+        "name": "found footage"
+      },
+      {
+        "id": 272745,
+        "name": "screenlife"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Shown through phones, laptops, & webcams, a seemingly polite director stalks and blackmails his actors into living a real-life horror movie.",
+          "runtime": 88,
+          "tagline": "Thanks for sharing your location.",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "NL",
+        "iso_639_1": "nl",
+        "name": "Nederlands",
+        "english_name": "Dutch",
+        "data": {
+          "homepage": "",
+          "overview": "Via telefoons, laptops en webcams zien we hoe een ogenschijnlijk beleefde regisseur zijn acteurs achtervolgt en chanteert om ze te dwingen een horrorfilm in het echt te beleven.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt35996799",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/qJHWPnsZQ6IcZO0tcvK9x4IamGE.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.777,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/4axcOUZSOVkXubJlznnXr80Igb6.jpg",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 1919
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/ypWvdF8NjNGzvoMW3jRRZfTZlL0.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      }
+    ],
+    "logos": [
+      {
+        "aspect_ratio": 6.672,
+        "height": 268,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/WqjAPd88m1HQiLaPhWYu9GsFK7.png",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1788
+      }
+    ],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/8AqWhctzuOdNMrXtlk4kj4bXaqq.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 2048,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/t6xMmhxfss2is1rlmnD6GhDn5Tk.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1365
+      },
+      {
+        "aspect_ratio": 0.758,
+        "height": 1425,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/dAa4EehtueZcO7hNK3Cl2UBhfeN.jpg",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 1080
+      },
+      {
+        "aspect_ratio": 0.758,
+        "height": 1280,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/mzl2Ht7ngxIYlctwjIVan7tZX5M.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 970
+      },
+      {
+        "aspect_ratio": 0.675,
+        "height": 1280,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/3BlbOfyUWshRxJVmVKWXfwYp1Qx.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 864
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "Grimmfest",
+            "release_date": "2025-11-01T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-04-27T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "HorrOrigins",
+            "release_date": "2025-09-01T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2026-04-27T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "1f-WPCCjbK4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "69e78aba1ede069d79b27bd2",
+        "published_at": "2026-04-10T07:59:24.000Z"
+      }
+    ]
+  }
+}

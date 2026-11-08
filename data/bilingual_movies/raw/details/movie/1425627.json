@@ -1,0 +1,189 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 1425627,
+  "imdb_id": null,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Vorher Nachher",
+  "overview": "Jan wants to film, Frank wants to be filmed. This needs to be set up and discussed.",
+  "popularity": 0.7436,
+  "poster_path": "/nJ8nywQCz3TN3PeMZKXxBLOEzWZ.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2025-03-28",
+  "revenue": 0,
+  "runtime": 6,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Before After",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1295176,
+        "known_for_department": "Directing",
+        "name": "Jan Soldat",
+        "original_name": "Jan Soldat",
+        "popularity": 0.2242,
+        "profile_path": null,
+        "credit_id": "6799f9b849fbe46901c0cf41",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1295176,
+        "known_for_department": "Directing",
+        "name": "Jan Soldat",
+        "original_name": "Jan Soldat",
+        "popularity": 0.2242,
+        "profile_path": null,
+        "credit_id": "6799f9c4a05b63435ca9701a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1295176,
+        "known_for_department": "Directing",
+        "name": "Jan Soldat",
+        "original_name": "Jan Soldat",
+        "popularity": 0.2242,
+        "profile_path": null,
+        "credit_id": "6799f9d10400ec6f45c0d01b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1895248,
+        "known_for_department": "Sound",
+        "name": "Lorenz Fischer",
+        "original_name": "Lorenz Fischer",
+        "popularity": 0.3244,
+        "profile_path": "/l2tkWloz4xY08AajLeeOTNjHa10.jpg",
+        "credit_id": "69de29390c681f559e70b840",
+        "department": "Sound",
+        "job": "Sound"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "https://jansoldat.wordpress.com/vorher-nachher/",
+          "overview": "Jan will filmen, Frank will gefilmt werden.\r Das will eingerichtet und besprochen werden.",
+          "runtime": 6,
+          "tagline": "Jan will filmen, Frank will gefilmt werden. Das will eingerichtet und besprochen werden.",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Jan wants to film, Frank wants to be filmed. This needs to be set up and discussed.",
+          "runtime": 6,
+          "tagline": "",
+          "title": "Before After"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "DE",
+        "title": "Before After",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.668,
+        "height": 782,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/nJ8nywQCz3TN3PeMZKXxBLOEzWZ.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 522
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "de",
+            "note": "",
+            "release_date": "2025-03-28T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

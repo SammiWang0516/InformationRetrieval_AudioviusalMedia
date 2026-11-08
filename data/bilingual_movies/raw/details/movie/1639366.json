@@ -1,0 +1,561 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1639366,
+  "imdb_id": "tt37981078",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "Rosario",
+  "overview": "Rosario is a coming-of-age tale that blends romance with the slow-burn tension of a Hitchcock mystery. Set during Holy Week in a provincial Filipino town, the story follows a young woman whose innocence is tested when her father invites a priest-in-training to live in their home. Underneath the romance lies an air of suspense, where faith, desire, and secrecy collide. With nods to classic cinema, Rosario explores the fragile line between devotion and temptation.",
+  "popularity": 0.7666,
+  "poster_path": "/10a8NpceeKbPiCmUoXYPVY0nAY1.jpg",
+  "production_companies": [
+    {
+      "id": 270021,
+      "logo_path": null,
+      "name": "Unsalted Films",
+      "origin_country": ""
+    },
+    {
+      "id": 297960,
+      "logo_path": null,
+      "name": "Articus Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2025-08-23",
+  "revenue": 0,
+  "runtime": 9,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Rosario",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3836471,
+        "known_for_department": "Acting",
+        "name": "Kate Jellyn",
+        "original_name": "Kate Jellyn",
+        "popularity": 0.2237,
+        "profile_path": "/fBkwPYo1geiRS5KmtQPIdemnWwk.jpg",
+        "cast_id": 1,
+        "character": "Rosario",
+        "credit_id": "69992a742140beddc2b2822d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5369136,
+        "known_for_department": "Acting",
+        "name": "Ariel Alud-ud",
+        "original_name": "Ariel Alud-ud",
+        "popularity": 0.1412,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Brother Mike",
+        "credit_id": "69992a83f9380e9cace8e868",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5417137,
+        "known_for_department": "Acting",
+        "name": "Edwin C. Rodriguez",
+        "original_name": "Edwin C. Rodriguez",
+        "popularity": 0.2234,
+        "profile_path": "/nGTGG0FUJ4VJT37N1kHSRPZypim.jpg",
+        "cast_id": 3,
+        "character": "Don Mariano",
+        "credit_id": "69992aa48e55193d6280e30c",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5417121,
+        "known_for_department": "Acting",
+        "name": "Meng Canlas",
+        "original_name": "Meng Canlas",
+        "popularity": 0.0849,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Tiya Maria",
+        "credit_id": "69992ab9322a0c1b3280e2e7",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6021457,
+        "known_for_department": "Acting",
+        "name": "Khaira Dominique",
+        "original_name": "Khaira Dominique",
+        "popularity": 0.0959,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Margarita",
+        "credit_id": "69992acbfa5437ac42590161",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5417064,
+        "known_for_department": "Writing",
+        "name": "Clark Cameron Marcelo",
+        "original_name": "Clark Cameron Marcelo",
+        "popularity": 0.3239,
+        "profile_path": null,
+        "credit_id": "69992af7d7c2ba399afc1bf9",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5417064,
+        "known_for_department": "Writing",
+        "name": "Clark Cameron Marcelo",
+        "original_name": "Clark Cameron Marcelo",
+        "popularity": 0.3239,
+        "profile_path": null,
+        "credit_id": "69992b06e1a8593cd06a2e21",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6199126,
+        "known_for_department": "Production",
+        "name": "Max Gleiser",
+        "original_name": "Max Gleiser",
+        "popularity": 0.1665,
+        "profile_path": null,
+        "credit_id": "69fe049940805b5aa58ab3a4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5417064,
+        "known_for_department": "Writing",
+        "name": "Clark Cameron Marcelo",
+        "original_name": "Clark Cameron Marcelo",
+        "popularity": 0.3239,
+        "profile_path": null,
+        "credit_id": "69fe04c50a5a480748878a1f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6199026,
+        "known_for_department": "Sound",
+        "name": "Gale Roxas-Formentera",
+        "original_name": "Gale Roxas-Formentera",
+        "popularity": 0.153,
+        "profile_path": null,
+        "credit_id": "69fe04dbfbb961c41f9bd62e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5417124,
+        "known_for_department": "Acting",
+        "name": "Gigi Suico",
+        "original_name": "Gigi Suico",
+        "popularity": 0.0553,
+        "profile_path": null,
+        "credit_id": "69fe04fe0a5a480748878a22",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6199126,
+        "known_for_department": "Production",
+        "name": "Max Gleiser",
+        "original_name": "Max Gleiser",
+        "popularity": 0.1665,
+        "profile_path": null,
+        "credit_id": "69fe055a5265bad68ff68420",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6199126,
+        "known_for_department": "Production",
+        "name": "Max Gleiser",
+        "original_name": "Max Gleiser",
+        "popularity": 0.1665,
+        "profile_path": null,
+        "credit_id": "69fe057a8cb147ea65878aaa",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5300307,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Melissa Antecia",
+        "original_name": "Melissa Antecia",
+        "popularity": 0.1034,
+        "profile_path": null,
+        "credit_id": "69fe05cec8f2f7cd6c878bbf",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5417124,
+        "known_for_department": "Acting",
+        "name": "Gigi Suico",
+        "original_name": "Gigi Suico",
+        "popularity": 0.0553,
+        "profile_path": null,
+        "credit_id": "69fe05eb2d7bb187ee90ccb1",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6021457,
+        "known_for_department": "Acting",
+        "name": "Khaira Dominique",
+        "original_name": "Khaira Dominique",
+        "popularity": 0.0959,
+        "profile_path": null,
+        "credit_id": "69fe05fed4cb62136f8ab32f",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5417135,
+        "known_for_department": "Acting",
+        "name": "Kevin Enriquez",
+        "original_name": "Kevin Enriquez",
+        "popularity": 0.3034,
+        "profile_path": null,
+        "credit_id": "69fe0619bd76e3eb13076bcd",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6199161,
+        "known_for_department": "Sound",
+        "name": "Delaram Khoshdel Khanachai",
+        "original_name": "Delaram Khoshdel Khanachai",
+        "popularity": 0.0777,
+        "profile_path": null,
+        "credit_id": "69fe064532f359c6859bd650",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6199161,
+        "known_for_department": "Sound",
+        "name": "Delaram Khoshdel Khanachai",
+        "original_name": "Delaram Khoshdel Khanachai",
+        "popularity": 0.0777,
+        "profile_path": null,
+        "credit_id": "69fe0664d4cb62136f8ab349",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6105009,
+        "known_for_department": "Lighting",
+        "name": "Rhaion Banag",
+        "original_name": "Rhaion Banag",
+        "popularity": 0.1226,
+        "profile_path": null,
+        "credit_id": "69fe0f1d40b76559378ab1ae",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6070577,
+        "known_for_department": "Camera",
+        "name": "Fabian Cardona",
+        "original_name": "Fabian Cardona",
+        "popularity": 0.0507,
+        "profile_path": null,
+        "credit_id": "69fe0f52e8f7178191076de9",
+        "department": "Art",
+        "job": "Swing"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6199236,
+        "known_for_department": "Art",
+        "name": "Ralph Daccache",
+        "original_name": "Ralph Daccache",
+        "popularity": 0.0475,
+        "profile_path": null,
+        "credit_id": "69fe0f760a01654b13347ea5",
+        "department": "Art",
+        "job": "Swing"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6199238,
+        "known_for_department": "Lighting",
+        "name": "Aditya Jagath",
+        "original_name": "Aditya Jagath",
+        "popularity": 0.0529,
+        "profile_path": null,
+        "credit_id": "69fe0f9455e88ba2fba5ebe2",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6199240,
+        "known_for_department": "Camera",
+        "name": "Allen Sam",
+        "original_name": "Allen Sam",
+        "popularity": 0.1577,
+        "profile_path": null,
+        "credit_id": "69fe0fb6c5f7a222db9bd686",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6036784,
+        "known_for_department": "Camera",
+        "name": "Kevin Vu",
+        "original_name": "Kevin Vu",
+        "popularity": 0.1679,
+        "profile_path": null,
+        "credit_id": "69fe0fd2e4be47689d90ccaa",
+        "department": "Camera",
+        "job": "BTS Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6199844,
+        "known_for_department": "Crew",
+        "name": "Ricky Emnace",
+        "original_name": "Ricky Emnace",
+        "popularity": 0.0766,
+        "profile_path": null,
+        "credit_id": "69fe55f50a8df70e9b50e6de",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6199126,
+        "known_for_department": "Production",
+        "name": "Max Gleiser",
+        "original_name": "Max Gleiser",
+        "popularity": 0.1665,
+        "profile_path": null,
+        "credit_id": "69fe560b3a1a6c6ee2878d4d",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6070577,
+        "known_for_department": "Camera",
+        "name": "Fabian Cardona",
+        "original_name": "Fabian Cardona",
+        "popularity": 0.0507,
+        "profile_path": null,
+        "credit_id": "69fe5625f9738c7a67e912c0",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6199026,
+        "known_for_department": "Sound",
+        "name": "Gale Roxas-Formentera",
+        "original_name": "Gale Roxas-Formentera",
+        "popularity": 0.153,
+        "profile_path": null,
+        "credit_id": "69fe563d1e632498b387de95",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6199848,
+        "known_for_department": "Production",
+        "name": "Amit Sharma",
+        "original_name": "Amit Sharma",
+        "popularity": 0.1323,
+        "profile_path": null,
+        "credit_id": "69fe56a2f4f83fca00a5eded",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6199852,
+        "known_for_department": "Crew",
+        "name": "Marc Desrochers",
+        "original_name": "Marc Desrochers",
+        "popularity": 0.0404,
+        "profile_path": "/ogurfH7iE902OuzqK5TTWMJ5yG0.jpg",
+        "credit_id": "69fe56d1389c5286b450e71a",
+        "department": "Crew",
+        "job": "Thanks"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 10683,
+        "name": "coming of age"
+      },
+      {
+        "id": 320552,
+        "name": "filipino mythology"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Rosario is a coming-of-age tale that blends romance with the slow-burn tension of a Hitchcock mystery. Set during Holy Week in a provincial Filipino town, the story follows a young woman whose innocence is tested when her father invites a priest-in-training to live in their home. Underneath the romance lies an air of suspense, where faith, desire, and secrecy collide. With nods to classic cinema, Rosario explores the fragile line between devotion and temptation.",
+          "runtime": 9,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt37981078",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/10a8NpceeKbPiCmUoXYPVY0nAY1.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "tl",
+            "note": "Siné 48 Hour Challenge",
+            "release_date": "2025-08-23T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

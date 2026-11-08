@@ -1,0 +1,657 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1574784,
+  "imdb_id": null,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_title": "Lascívia",
+  "overview": "",
+  "popularity": 0.7201,
+  "poster_path": "/pE4qJrBipSpT3aeb5QyT7lup6nd.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "release_date": "2025-11-14",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Lascívia",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4860161,
+        "known_for_department": "Acting",
+        "name": "Samires Costa",
+        "original_name": "Samires Costa",
+        "popularity": 0.1435,
+        "profile_path": "/uutzdSXxaPRkf1nxeZzXIGwdpJ4.jpg",
+        "cast_id": 46,
+        "character": "Helena",
+        "credit_id": "690b9409391e3ac52c934cc6",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4328949,
+        "known_for_department": "Acting",
+        "name": "Ecila Menezes",
+        "original_name": "Ecila Meneses",
+        "popularity": 0.0413,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Mãe",
+        "credit_id": "690a42cd01e412168424ec9c",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4433608,
+        "known_for_department": "Acting",
+        "name": "Karla da Fonseca Rodrigues",
+        "original_name": "Karla da Fonseca Rodrigues",
+        "popularity": 0.1378,
+        "profile_path": null,
+        "cast_id": 45,
+        "character": "Vampira",
+        "credit_id": "690b7f45e71e98b658071143",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5796412,
+        "known_for_department": "Directing",
+        "name": "Júlia Moreira",
+        "original_name": "Júlia Moreira",
+        "popularity": 0.0921,
+        "profile_path": null,
+        "credit_id": "690a42ebdcfc60660ab23407",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5796412,
+        "known_for_department": "Directing",
+        "name": "Júlia Moreira",
+        "original_name": "Júlia Moreira",
+        "popularity": 0.0921,
+        "profile_path": null,
+        "credit_id": "690a42fdcaa8f549deb2341d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5067259,
+        "known_for_department": "Art",
+        "name": "Luísa Bandeira",
+        "original_name": "Luísa Bandeira",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "credit_id": "690a4312feec5352a924ecaf",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4382271,
+        "known_for_department": "Camera",
+        "name": "Carlos Yuri de Souza Leal",
+        "original_name": "Carlos Yuri de Souza Leal",
+        "popularity": 0.194,
+        "profile_path": null,
+        "credit_id": "690a43d231cd2948b2ba3f79",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5075423,
+        "known_for_department": "Camera",
+        "name": "Bia Monteiro",
+        "original_name": "Bia Monteiro",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "690a43e1677e03dbbf223232",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4897526,
+        "known_for_department": "Art",
+        "name": "Laysa Ferreira",
+        "original_name": "Laysa Ferreira",
+        "popularity": 0.062,
+        "profile_path": null,
+        "credit_id": "690a4484fd40ea6e6c24ecb7",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2578815,
+        "known_for_department": "Directing",
+        "name": "Isaura Camelo",
+        "original_name": "Isaura Camelo",
+        "popularity": 0.0435,
+        "profile_path": null,
+        "credit_id": "690a449a5a466f2e5574b630",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4782994,
+        "known_for_department": "Production",
+        "name": "Lucí Dantas",
+        "original_name": "Lucí Dantas",
+        "popularity": 0.0359,
+        "profile_path": null,
+        "credit_id": "690a44b962f81823af223234",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4328944,
+        "known_for_department": "Directing",
+        "name": "Lênin Cabral",
+        "original_name": "Lênin Cabral",
+        "popularity": 0.077,
+        "profile_path": "/9wGdQlhJTAxu9hndvdc2tk8aYy2.jpg",
+        "credit_id": "690a45937d81b1172924ec9d",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5075410,
+        "known_for_department": "Directing",
+        "name": "Ingride Rodrigues",
+        "original_name": "Ingride Rodrigues",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "690a45a8b6e489fe48ba3f91",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4860194,
+        "known_for_department": "Directing",
+        "name": "Sandro Fernandes",
+        "original_name": "Sandro Fernandes",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "690a45bd9c5e3c4a9fba3f8b",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4860194,
+        "known_for_department": "Directing",
+        "name": "Sandro Fernandes",
+        "original_name": "Sandro Fernandes",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "690a45d3d1da37e589ba3f8f",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5796429,
+        "known_for_department": "Camera",
+        "name": "Marina Souza",
+        "original_name": "Marina Souza",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "690a460241c378bd2374b64c",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4897532,
+        "known_for_department": "Camera",
+        "name": "Lucas Leal",
+        "original_name": "Lucas Leal",
+        "popularity": 0.0508,
+        "profile_path": "/vXYzdR6EZVXZqb7AFeBxrbqpUJa.jpg",
+        "credit_id": "690a461c8d246273a224ec9e",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5060252,
+        "known_for_department": "Sound",
+        "name": "Pedro Lucas Rebouças",
+        "original_name": "Pedro Lucas Rebouças",
+        "popularity": 0.1426,
+        "profile_path": null,
+        "credit_id": "690a4697f2abd59cdf61c9a8",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4405410,
+        "known_for_department": "Camera",
+        "name": "Dan Jonathan",
+        "original_name": "Dan Jonathan",
+        "popularity": 0.0331,
+        "profile_path": null,
+        "credit_id": "690a4925fafc72914b22325a",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5060215,
+        "known_for_department": "Directing",
+        "name": "Sabrina Passos",
+        "original_name": "Sabrina Passos",
+        "popularity": 0.1042,
+        "profile_path": "/lzeY94fyi99BCmcEvbZhBSiwzWo.jpg",
+        "credit_id": "690a4a2b835b81ca8d61c9d8",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4328946,
+        "known_for_department": "Acting",
+        "name": "Luiza Eloy",
+        "original_name": "Luiza Eloy",
+        "popularity": 0.04,
+        "profile_path": null,
+        "credit_id": "690a4a75a3f3a95535e53c4c",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5060215,
+        "known_for_department": "Directing",
+        "name": "Sabrina Passos",
+        "original_name": "Sabrina Passos",
+        "popularity": 0.1042,
+        "profile_path": "/lzeY94fyi99BCmcEvbZhBSiwzWo.jpg",
+        "credit_id": "690a4ae82f4d6c105a61c9db",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5060223,
+        "known_for_department": "Crew",
+        "name": "Marco Antônio Savi",
+        "original_name": "Marco Antônio Savi",
+        "popularity": 0.0672,
+        "profile_path": null,
+        "credit_id": "690a4cc70c12f7dfe2b23415",
+        "department": "Directing",
+        "job": "Continuity"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5796504,
+        "known_for_department": "Lighting",
+        "name": "Cezário Correia",
+        "original_name": "Cezário Correia",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "690a4cef003e5486c0223250",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5128666,
+        "known_for_department": "Lighting",
+        "name": "Vito Moura",
+        "original_name": "Vito Moura",
+        "popularity": 0.0397,
+        "profile_path": null,
+        "credit_id": "690a4d58df01e10ae11a08b7",
+        "department": "Lighting",
+        "job": "Assistant Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4860194,
+        "known_for_department": "Directing",
+        "name": "Sandro Fernandes",
+        "original_name": "Sandro Fernandes",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "690a4d6ae6e01a0c3b1a0899",
+        "department": "Lighting",
+        "job": "Assistant Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4382151,
+        "known_for_department": "Directing",
+        "name": "LP Arruda",
+        "original_name": "LP Arruda",
+        "popularity": 0.2025,
+        "profile_path": null,
+        "credit_id": "690a4d958d246273a224ecb1",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4382151,
+        "known_for_department": "Directing",
+        "name": "LP Arruda",
+        "original_name": "LP Arruda",
+        "popularity": 0.2025,
+        "profile_path": null,
+        "credit_id": "690a4da9e6e01a0c3b1a089d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4382290,
+        "known_for_department": "Art",
+        "name": "Nikolas Vianna",
+        "original_name": "Nikolas Vianna",
+        "popularity": 0.0667,
+        "profile_path": "/mxc74ZmKFgjaKhvPYavxEjRNcOk.jpg",
+        "credit_id": "690a4db6ad9466c0911a08f8",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2882130,
+        "known_for_department": "Editing",
+        "name": "Pedro Dulci",
+        "original_name": "Pedro Dulci",
+        "popularity": 0.0966,
+        "profile_path": null,
+        "credit_id": "690a5a08faa8ced263ba3fcb",
+        "department": "Editing",
+        "job": "Color Grading"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1445389,
+        "known_for_department": "Sound",
+        "name": "Érico Paiva",
+        "original_name": "Érico Paiva",
+        "popularity": 0.0604,
+        "profile_path": null,
+        "credit_id": "690a5a18433aedead11a08d2",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1445389,
+        "known_for_department": "Sound",
+        "name": "Érico Paiva",
+        "original_name": "Érico Paiva",
+        "popularity": 0.0604,
+        "profile_path": null,
+        "credit_id": "690a5a2219052c78e6ad7d00",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5060218,
+        "known_for_department": "Production",
+        "name": "Guilherme Azim",
+        "original_name": "Guilherme Azim",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "690a5d49794d3c5aca24ed20",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5796495,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Drielle Pinheiro Batista",
+        "original_name": "Drielle Pinheiro Batista",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "690b65d2e3b14b8372d73138",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5796493,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Isabelle Bibiano",
+        "original_name": "Isabelle Bibiano",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "690b66003e3df38edc78a36e",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5796469,
+        "known_for_department": "Sound",
+        "name": "Lara Fontenele",
+        "original_name": "Lara Fontenele",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "690cf72ea07ed93f07dd0e6c",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4897515,
+        "known_for_department": "Writing",
+        "name": "Thamirys Araújo",
+        "original_name": "Thamirys Araújo",
+        "popularity": 0.1002,
+        "profile_path": null,
+        "credit_id": "690cf7402859dd97554c6f1f",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4328934,
+        "known_for_department": "Directing",
+        "name": "Kyra Gomes",
+        "original_name": "Kyra Gomes",
+        "popularity": 0.3056,
+        "profile_path": null,
+        "credit_id": "690cf755a04bfc56e49aafc7",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4860201,
+        "known_for_department": "Sound",
+        "name": "Suya Nóbrega",
+        "original_name": "Suya Nóbrega",
+        "popularity": 0.0413,
+        "profile_path": null,
+        "credit_id": "690cf76713e44dda0cdd0ea4",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5060235,
+        "known_for_department": "Art",
+        "name": "Larissa Menezes",
+        "original_name": "Larissa Menezes",
+        "popularity": 0.0313,
+        "profile_path": "/jHC8FNdIkDWPOn3gV3Wv1lfaBIJ.jpg",
+        "credit_id": "690f7e8f1265c9afcad251c6",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3793177,
+        "known_for_department": "Writing",
+        "name": "Dayanara Braga",
+        "original_name": "Dayanara Braga",
+        "popularity": 0.0417,
+        "profile_path": null,
+        "credit_id": "690f7eb1018a92d91ace83c6",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4328943,
+        "known_for_department": "Directing",
+        "name": "Emilia Rêgo",
+        "original_name": "Emília Rêgo",
+        "popularity": 0.0573,
+        "profile_path": "/utG3V2kvtY4jn2HvRMji1aaewlx.jpg",
+        "credit_id": "6aebb2fab0df13e9c92a9443",
+        "department": "Production",
+        "job": "Casting Coordinator"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "BR",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "homepage": "",
+          "overview": "Helena, uma jovem controlada pela mãe evangélica fervorosa, tem sua primeira menstruação tardiamente, logo após sonhar com uma vampira sedutora que desperta nela desejos até então reprimidos.",
+          "runtime": 17,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "pt",
+            "note": "Mostra Unifor de Cinema 2025",
+            "release_date": "2025-11-14T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

@@ -1,0 +1,394 @@
+{
+  "adult": false,
+  "backdrop_path": "/cLLuEAFuWOd8Dj5AXlZ6CZJNt2o.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1411436,
+  "imdb_id": null,
+  "origin_country": [
+    "AZ"
+  ],
+  "original_language": "az",
+  "original_title": "Sifariş",
+  "overview": "",
+  "popularity": 0.7798,
+  "poster_path": "/wDIFSWXfs5o7ArErISfDVv1aIhE.jpg",
+  "production_companies": [
+    {
+      "id": 262668,
+      "logo_path": "/4Pw6ZRV205JXYf6jieEs1Gz0lj7.png",
+      "name": "Lumiere Film LLC",
+      "origin_country": "AZ"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AZ",
+      "name": "Azerbaijan"
+    }
+  ],
+  "release_date": "2025-01-04",
+  "revenue": 0,
+  "runtime": 26,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Azerbaijani",
+      "iso_639_1": "az",
+      "name": "Azərbaycan"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Order",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3364514,
+        "known_for_department": "Acting",
+        "name": "Alikhan Rajabov",
+        "original_name": "Əlixan Rəcəbov",
+        "popularity": 0.359,
+        "profile_path": "/k8sCHHhoTTs5v5SGy2yQYyFRjfi.jpg",
+        "cast_id": 8,
+        "character": "Anar",
+        "credit_id": "6777411d496dd952c87242f5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2076894,
+        "known_for_department": "Acting",
+        "name": "Azer Aydemir",
+        "original_name": "Azər Aydəmir",
+        "popularity": 0.8459,
+        "profile_path": "/l09Mpk82sEDVAOLvydWmil0ruK0.jpg",
+        "cast_id": 9,
+        "character": "Mehman",
+        "credit_id": "67774124c11ee61dd8748dfd",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2697354,
+        "known_for_department": "Acting",
+        "name": "Elcan Rasulov",
+        "original_name": "Elcan Rəsulov",
+        "popularity": 0.2799,
+        "profile_path": "/xoMFxeusxDZ5jUGZxT6qb0nvAhq.jpg",
+        "cast_id": 10,
+        "character": "Etibar",
+        "credit_id": "67774136321a3a166a748b04",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3904641,
+        "known_for_department": "Acting",
+        "name": "Farida Shahbazova",
+        "original_name": "Fəridə Şahbazova",
+        "popularity": 0.273,
+        "profile_path": "/5ttJ3FnhRYvcgQW6Yo5LrihKXuT.jpg",
+        "cast_id": 11,
+        "character": "Qadın",
+        "credit_id": "67774141c11ee61dd8748e05",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2077649,
+        "known_for_department": "Acting",
+        "name": "Anar Almazov",
+        "original_name": "Anar Almazov",
+        "popularity": 0.0815,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Reklamdaki kişi",
+        "credit_id": "690d6a392d43dd68d6d249a1",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2081916,
+        "known_for_department": "Acting",
+        "name": "Sabina Mammadova",
+        "original_name": "Səbinə Məmmədova",
+        "popularity": 0.1729,
+        "profile_path": "/k4recwgsm8TGDTz88mCgjl5ybX0.jpg",
+        "cast_id": 14,
+        "character": "Reklamdaki qadın",
+        "credit_id": "682bb738832e03ca62e24f4f",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3364514,
+        "known_for_department": "Acting",
+        "name": "Alikhan Rajabov",
+        "original_name": "Əlixan Rəcəbov",
+        "popularity": 0.359,
+        "profile_path": "/k8sCHHhoTTs5v5SGy2yQYyFRjfi.jpg",
+        "credit_id": "67773db42b097b15a27489b8",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5155228,
+        "known_for_department": "Production",
+        "name": "Nicat Yusifzadə",
+        "original_name": "Nicat Yusifzadə",
+        "popularity": 0.0405,
+        "profile_path": null,
+        "credit_id": "67773debb55ff939be667f66",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2728017,
+        "known_for_department": "Production",
+        "name": "Ibrahim Heydarov",
+        "original_name": "İbrahim Heydərov",
+        "popularity": 0.4395,
+        "profile_path": "/dsvbhhXS0V6h7XEI5QTlQPNHaEq.jpg",
+        "credit_id": "67773e7a496dd952c87242a9",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3364514,
+        "known_for_department": "Acting",
+        "name": "Alikhan Rajabov",
+        "original_name": "Əlixan Rəcəbov",
+        "popularity": 0.359,
+        "profile_path": "/k8sCHHhoTTs5v5SGy2yQYyFRjfi.jpg",
+        "credit_id": "67773e8615521f83d96680e7",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2634249,
+        "known_for_department": "Camera",
+        "name": "Iman Imanov",
+        "original_name": "İman İmanov",
+        "popularity": 0.1322,
+        "profile_path": "/zzFjyWKDhYXs8h46sjP1Tg1OjXM.jpg",
+        "credit_id": "67773ea115521f83d9668101",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2728016,
+        "known_for_department": "Sound",
+        "name": "Sanan Gulahmadzadeh",
+        "original_name": "Sənan Güləhmədzadə",
+        "popularity": 0.3266,
+        "profile_path": null,
+        "credit_id": "67773eb1b55ff939be667f82",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2634249,
+        "known_for_department": "Camera",
+        "name": "Iman Imanov",
+        "original_name": "İman İmanov",
+        "popularity": 0.1322,
+        "profile_path": "/zzFjyWKDhYXs8h46sjP1Tg1OjXM.jpg",
+        "credit_id": "67773ecbab5ec4c3dc72479e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2634249,
+        "known_for_department": "Camera",
+        "name": "Iman Imanov",
+        "original_name": "İman İmanov",
+        "popularity": 0.1322,
+        "profile_path": "/zzFjyWKDhYXs8h46sjP1Tg1OjXM.jpg",
+        "credit_id": "682bb71b2a7ca4b1958c0b28",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4907934,
+        "known_for_department": "Camera",
+        "name": "Vusal Suleymanov",
+        "original_name": "Vüsal Süleymanov",
+        "popularity": 0.0556,
+        "profile_path": null,
+        "credit_id": "682bb7a44f17777272e24ee2",
+        "department": "Camera",
+        "job": "Focus Puller"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4241860,
+        "known_for_department": "Camera",
+        "name": "Elcin Mustafayev",
+        "original_name": "Elçin Mustafayev",
+        "popularity": 0.1124,
+        "profile_path": null,
+        "credit_id": "682bb7b58de1323ad8db2dc8",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4878305,
+        "known_for_department": "Lighting",
+        "name": "Ziyadkhan Khudiyev",
+        "original_name": "Ziyadxan Xudiyev",
+        "popularity": 0.1928,
+        "profile_path": null,
+        "credit_id": "682bb7cd050c90eded648fb8",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5379577,
+        "known_for_department": "Lighting",
+        "name": "Gunduz Ahmedov",
+        "original_name": "Gündüz Əmrahov",
+        "popularity": 0.0864,
+        "profile_path": null,
+        "credit_id": "682bb7d53850f0eb315b5e7e",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 263548,
+        "name": "short film"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 26,
+          "tagline": "",
+          "title": "Order"
+        }
+      },
+      {
+        "iso_3166_1": "AZ",
+        "iso_639_1": "az",
+        "name": "Azərbaycan",
+        "english_name": "Azerbaijani",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 26,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 810,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/cLLuEAFuWOd8Dj5AXlZ6CZJNt2o.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1440
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 810,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/mjwGrEw1znzCbEsIlF2kNIyguEx.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1440
+      }
+    ],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "az",
+            "note": "",
+            "release_date": "2025-01-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

@@ -1,0 +1,476 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "https://www.bbc.co.uk/programmes/m001wsn5",
+  "id": 1248239,
+  "imdb_id": "tt31540576",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Spud",
+  "overview": "Spud doesn't have much of a life outside of caring for her father. But that's okay. She doesn't feel bad about herself, despite what society says. But one day, everything changes.",
+  "popularity": 1.7873,
+  "poster_path": "/qncDm1bgIbAw7dVNTezTWAOKB2e.jpg",
+  "production_companies": [
+    {
+      "id": 72850,
+      "logo_path": "/yxpBlnD0yfROQ8uwzSu3kWm2fl5.png",
+      "name": "Lookout Point",
+      "origin_country": "GB"
+    },
+    {
+      "id": 3324,
+      "logo_path": "/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png",
+      "name": "BBC",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2024-02-29",
+  "revenue": 0,
+  "runtime": 17,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Spud",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1742631,
+        "known_for_department": "Acting",
+        "name": "Siobhán McSweeney",
+        "original_name": "Siobhán McSweeney",
+        "popularity": 0.6504,
+        "profile_path": "/jmV2i134wdzQzta68sQVJj855Ey.jpg",
+        "cast_id": 2,
+        "character": "Spud",
+        "credit_id": "65d63438ed2ac2017c353778",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17484,
+        "known_for_department": "Acting",
+        "name": "Dermot Crowley",
+        "original_name": "Dermot Crowley",
+        "popularity": 0.6246,
+        "profile_path": "/wQN9dvOXdecRtUAgOx8xSMC1gyh.jpg",
+        "cast_id": 3,
+        "character": "Da",
+        "credit_id": "65d63442ed2ac2017c353784",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2252509,
+        "known_for_department": "Acting",
+        "name": "Mary Coughlan",
+        "original_name": "Mary Coughlan",
+        "popularity": 0.0687,
+        "profile_path": "/5pDsF9CGWpFfD5RYN9zL9whTTzK.jpg",
+        "cast_id": 4,
+        "character": "Francey",
+        "credit_id": "65d6344ac5c1ef01648ae54b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3932379,
+        "known_for_department": "Acting",
+        "name": "Aisling Kearns",
+        "original_name": "Aisling Kearns",
+        "popularity": 0.1578,
+        "profile_path": "/hrBqvkJWlnhtj1y403IlP7ofJbe.jpg",
+        "cast_id": 11,
+        "character": "Anne",
+        "credit_id": "69d6d0d2c8c36ed37505b835",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1656683,
+        "known_for_department": "Acting",
+        "name": "Alex Murphy",
+        "original_name": "Alex Murphy",
+        "popularity": 0.7706,
+        "profile_path": "/z4E05D4YMYfDJ8ckb1y8fr6XW2I.jpg",
+        "cast_id": 12,
+        "character": "Colin",
+        "credit_id": "69d6d0f1142821733fc8a47b",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1742631,
+        "known_for_department": "Acting",
+        "name": "Siobhán McSweeney",
+        "original_name": "Siobhán McSweeney",
+        "popularity": 0.6504,
+        "profile_path": "/jmV2i134wdzQzta68sQVJj855Ey.jpg",
+        "credit_id": "65d63423fdf8b70163c687c5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1742631,
+        "known_for_department": "Acting",
+        "name": "Siobhán McSweeney",
+        "original_name": "Siobhán McSweeney",
+        "popularity": 0.6504,
+        "profile_path": "/jmV2i134wdzQzta68sQVJj855Ey.jpg",
+        "credit_id": "69d6d0064f1c666ca09fa187",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1740750,
+        "known_for_department": "Production",
+        "name": "Leah Draws",
+        "original_name": "Leah Draws",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "69d6d03ec5d65768f9c8a410",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2373351,
+        "known_for_department": "Production",
+        "name": "Pippa Brown",
+        "original_name": "Pippa Brown",
+        "popularity": 0.0723,
+        "profile_path": null,
+        "credit_id": "69d6d04820f9623d64b41e3b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2114096,
+        "known_for_department": "Production",
+        "name": "Tanya Qureshi",
+        "original_name": "Tanya Qureshi",
+        "popularity": 0.188,
+        "profile_path": null,
+        "credit_id": "69d6d053a1f4eb2707b41de9",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5454163,
+        "known_for_department": "Production",
+        "name": "Navi Lamba",
+        "original_name": "Navi Lamba",
+        "popularity": 0.0411,
+        "profile_path": null,
+        "credit_id": "69d6d05d1eb730d16b42858a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6128342,
+        "known_for_department": "Production",
+        "name": "Alicia Jones",
+        "original_name": "Alicia Jones",
+        "popularity": 0.0433,
+        "profile_path": null,
+        "credit_id": "69d6d0c415d7af1a1e428508",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2799374,
+        "known_for_department": "Editing",
+        "name": "Charlotte Gage",
+        "original_name": "Charlotte Gage",
+        "popularity": 0.0976,
+        "profile_path": null,
+        "credit_id": "69d6d119c8c36ed37505b83d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6128352,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Pia Gebauer",
+        "original_name": "Pia Gebauer",
+        "popularity": 0.0384,
+        "profile_path": null,
+        "credit_id": "69d6d129a269cdfa541c10e6",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6128355,
+        "known_for_department": "Production",
+        "name": "Bryony Wood",
+        "original_name": "Bryony Wood",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69d6d142d0998c7ffa05b7d7",
+        "department": "Production",
+        "job": "Production Executive"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2738487,
+        "known_for_department": "Directing",
+        "name": "Hannah Lewis",
+        "original_name": "Hannah Lewis",
+        "popularity": 0.0952,
+        "profile_path": null,
+        "credit_id": "69d6d157a1f4eb2707b41e17",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6128359,
+        "known_for_department": "Art",
+        "name": "Bracken Bollaan",
+        "original_name": "Bracken Bollaan",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69d6d1663d7ad1235d9fa14f",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5665453,
+        "known_for_department": "Sound",
+        "name": "Jason Pinches",
+        "original_name": "Jason Pinches",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69d6d173d490f3aec2428534",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4952857,
+        "known_for_department": "Sound",
+        "name": "James Spooner",
+        "original_name": "James Spooner",
+        "popularity": 0.0951,
+        "profile_path": null,
+        "credit_id": "69d6d18332f144c0841c0f96",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4640673,
+        "known_for_department": "Camera",
+        "name": "Charlie Bayley",
+        "original_name": "Charlie Bayley",
+        "popularity": 0.0442,
+        "profile_path": null,
+        "credit_id": "69d6d196038e5b8db99fa178",
+        "department": "Camera",
+        "job": "Camera Trainee"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6128364,
+        "known_for_department": "Camera",
+        "name": "Olly Courtney",
+        "original_name": "Olly Courtney",
+        "popularity": 0.0304,
+        "profile_path": null,
+        "credit_id": "69d6d1a3a1f4eb2707b41e2e",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3322662,
+        "known_for_department": "Camera",
+        "name": "Archie Muller",
+        "original_name": "Archie Muller",
+        "popularity": 0.178,
+        "profile_path": null,
+        "credit_id": "69d6d1af0e8a537186b41e0e",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5069375,
+        "known_for_department": "Acting",
+        "name": "Megan Townsend",
+        "original_name": "Megan Townsend",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "credit_id": "69d6d1eda269cdfa541c110a",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1620490,
+        "known_for_department": "Crew",
+        "name": "Jon Muschamp",
+        "original_name": "Jon Muschamp",
+        "popularity": 0.1045,
+        "profile_path": null,
+        "credit_id": "6ae3f2488619b0d1a43d1dd3",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 155209,
+        "name": "caregiver"
+      },
+      {
+        "id": 240303,
+        "name": "father daughter relationship"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "https://www.bbc.co.uk/programmes/m001wsn5",
+          "overview": "Spud doesn't have much of a life outside of caring for her father. But that's okay. She doesn't feel bad about herself, despite what society says. But one day, everything changes.",
+          "runtime": 17,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt31540576",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1350,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/8H84AR0RIpgDWuEv167gOJdxock.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 900
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1350,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/qncDm1bgIbAw7dVNTezTWAOKB2e.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 900
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "BBC Three",
+            "release_date": "2024-02-29T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

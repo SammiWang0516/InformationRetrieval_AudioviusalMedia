@@ -1,0 +1,926 @@
+{
+  "adult": false,
+  "backdrop_path": "/nJ0MYqTTZg4gk7fgVgIfAWJN4ZQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 1276210,
+  "imdb_id": "tt24695266",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Estación Rocafort",
+  "overview": "Laura has recently started working in the Barcelona subway. She has been assigned the old and quiet Rocafort station, but it won't be long before she discovers that this stop harbors a legend that will begin to haunt her: many people have died there in strange circumstances over the years and no one seems to be interested in knowing the truth.",
+  "popularity": 1.8386,
+  "poster_path": "/oY6KfZgplGCA4WszBgd5WV2VOKj.jpg",
+  "production_companies": [
+    {
+      "id": 137516,
+      "logo_path": null,
+      "name": "Showrunner Films",
+      "origin_country": "ES"
+    },
+    {
+      "id": 11068,
+      "logo_path": "/jOdUllzDZRFy0tPIFDEwpP4Mpv4.png",
+      "name": "Nostromo Pictures",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2024-09-06",
+  "revenue": 0,
+  "runtime": 89,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The hidden legend of the Barcelona subway.",
+  "title": "Last Stop: Rocafort St.",
+  "video": false,
+  "vote_average": 5.217,
+  "vote_count": 60,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3247405,
+        "known_for_department": "Acting",
+        "name": "Natalia Azahara",
+        "original_name": "Natalia Azahara",
+        "popularity": 0.6348,
+        "profile_path": "/ccsb7gTOsUcWLctzT9bfSBj7OkW.jpg",
+        "cast_id": 1,
+        "character": "Laura",
+        "credit_id": "662124ba9661fc0165ff9652",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19024,
+        "known_for_department": "Acting",
+        "name": "Javier Gutiérrez",
+        "original_name": "Javier Gutiérrez",
+        "popularity": 0.4787,
+        "profile_path": "/18iTctoABaPVUzS6fDKR4E8PPg5.jpg",
+        "cast_id": 2,
+        "character": "Román",
+        "credit_id": "662124d29661fc014bffd0e9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3240522,
+        "known_for_department": "Acting",
+        "name": "Valèria Sorolla",
+        "original_name": "Valèria Sorolla",
+        "popularity": 0.2225,
+        "profile_path": "/98NY4e2p2gEe6VH4l9lETxBAlGK.jpg",
+        "cast_id": 3,
+        "character": "Cris",
+        "credit_id": "662124e4ae38430187297b9a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2270206,
+        "known_for_department": "Acting",
+        "name": "Xavi Sáez",
+        "original_name": "Xavi Sáez",
+        "popularity": 0.7805,
+        "profile_path": "/y8TEc4i2sdERhtXjYDTT5jnakiI.jpg",
+        "cast_id": 18,
+        "character": "Andrés",
+        "credit_id": "665e22f957609b07d1c26ef1",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 568274,
+        "known_for_department": "Acting",
+        "name": "Francesc Albiol",
+        "original_name": "Francesc Albiol",
+        "popularity": 0.2916,
+        "profile_path": "/iCQMh267rKWN8Q1wqEdnRwDb7Hz.jpg",
+        "cast_id": 21,
+        "character": "Albert",
+        "credit_id": "67d8e1fb1bb4b5c58bc69ecf",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1373422,
+        "known_for_department": "Acting",
+        "name": "Aimar Vega",
+        "original_name": "Aimar Vega",
+        "popularity": 0.3621,
+        "profile_path": "/jWPoPWtcDDYNBA7RJjUZ1CnfgZ4.jpg",
+        "cast_id": 19,
+        "character": "Toni",
+        "credit_id": "665e23058afe3dc52f5144d3",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2275499,
+        "known_for_department": "Acting",
+        "name": "Tatín Revenga",
+        "original_name": "Tatín Revenga",
+        "popularity": 0.3385,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Luis",
+        "credit_id": "67d8e210562e832c97365177",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1074580,
+        "known_for_department": "Acting",
+        "name": "Jorge Cabrera",
+        "original_name": "Jorge Cabrera",
+        "popularity": 0.3625,
+        "profile_path": "/lE1wXFPu11zyxCroaVfYNryvsHn.jpg",
+        "cast_id": 20,
+        "character": "Elias Soro (Joven)",
+        "credit_id": "665e231910940a9d385144d3",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3197438,
+        "known_for_department": "Acting",
+        "name": "Laia Fontàn",
+        "original_name": "Laia Fontàn",
+        "popularity": 0.2149,
+        "profile_path": "/pUbLSBN8QB2QhFzLH85YB2zpt1Q.jpg",
+        "cast_id": 23,
+        "character": "Marga",
+        "credit_id": "67d8e2396a7b980436c6a0bb",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1980581,
+        "known_for_department": "Acting",
+        "name": "Miguel Angel Maciel",
+        "original_name": "Miguel Angel Maciel",
+        "popularity": 0.0917,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Profesor Héctor Sachieri",
+        "credit_id": "67d8e25fc5339eabc6364f03",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16870,
+        "known_for_department": "Acting",
+        "name": "Celso Bugallo",
+        "original_name": "Celso Bugallo",
+        "popularity": 0.4988,
+        "profile_path": "/qtwvr4et0jxNGKISJFDL0YmGRTY.jpg",
+        "cast_id": 25,
+        "character": "Elías Soro",
+        "credit_id": "67d8e2995f58e32f7e087f2c",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1048495,
+        "known_for_department": "Acting",
+        "name": "Albert Baró",
+        "original_name": "Albert Baró",
+        "popularity": 0.3493,
+        "profile_path": "/kGmqZn1ijhFoTMwnptbcLdl7qdv.jpg",
+        "cast_id": 16,
+        "character": "Román (Joven)",
+        "credit_id": "665e2215c01cec0af42f2740",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2561607,
+        "known_for_department": "Acting",
+        "name": "David M. Santana",
+        "original_name": "David M. Santana",
+        "popularity": 0.4193,
+        "profile_path": "/ztIE9RGxVVqnQmm9Gj9gnUJ6B4Z.jpg",
+        "cast_id": 17,
+        "character": "Mosso d'Esquadra",
+        "credit_id": "665e22985050daae1edad572",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2556046,
+        "known_for_department": "Acting",
+        "name": "Carlos Alcaide",
+        "original_name": "Carlos Alcaide",
+        "popularity": 1.843,
+        "profile_path": "/rl8fxgvKu56zxf5kIMGVTX3ju7Q.jpg",
+        "cast_id": 26,
+        "character": "Andrés (Joven)",
+        "credit_id": "6921d8ba289e1ba762186b99",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88084,
+        "known_for_department": "Directing",
+        "name": "Luis Prieto",
+        "original_name": "Luis Prieto",
+        "popularity": 0.6268,
+        "profile_path": "/myTjHjsyzWtQakUxswKOTfhL2KE.jpg",
+        "credit_id": "6621253b87ae7b0188d86774",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2719062,
+        "known_for_department": "Writing",
+        "name": "Iván Ledesma",
+        "original_name": "Iván Ledesma",
+        "popularity": 0.4223,
+        "profile_path": null,
+        "credit_id": "66212594960cde0187a6d893",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4660053,
+        "known_for_department": "Production",
+        "name": "Vicente Canales",
+        "original_name": "Vicente Canales",
+        "popularity": 0.0548,
+        "profile_path": null,
+        "credit_id": "662125543f48330186741561",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3497905,
+        "known_for_department": "Camera",
+        "name": "Marc Miró",
+        "original_name": "Marc Miró",
+        "popularity": 0.0992,
+        "profile_path": "/fa1RzU0mF3sCqjaZzh5s9PkTMx5.jpg",
+        "credit_id": "662125c0e640d60163c2dcee",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1518667,
+        "known_for_department": "Editing",
+        "name": "Beatriz Colomar",
+        "original_name": "Beatriz Colomar",
+        "popularity": 0.2773,
+        "profile_path": null,
+        "credit_id": "6621260032cc2b01480c658a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2006737,
+        "known_for_department": "Art",
+        "name": "Sarah Webster",
+        "original_name": "Sarah Webster",
+        "popularity": 0.0782,
+        "profile_path": null,
+        "credit_id": "662125e59661fc014bffd124",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 88084,
+        "known_for_department": "Directing",
+        "name": "Luis Prieto",
+        "original_name": "Luis Prieto",
+        "popularity": 0.6268,
+        "profile_path": "/myTjHjsyzWtQakUxswKOTfhL2KE.jpg",
+        "credit_id": "662125ae87ae7b0188d867b9",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2347858,
+        "known_for_department": "Directing",
+        "name": "Laura Díez",
+        "original_name": "Laura Díez",
+        "popularity": 0.2167,
+        "profile_path": null,
+        "credit_id": "6621262eae3843015528db11",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1054301,
+        "known_for_department": "Production",
+        "name": "Adrián Guerra",
+        "original_name": "Adrián Guerra",
+        "popularity": 0.3122,
+        "profile_path": "/4ZfybKJ722RJh8lnEY24TKgsCtt.jpg",
+        "credit_id": "6621257c8a88b20185ca5287",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4660054,
+        "known_for_department": "Production",
+        "name": "Julieta Videla",
+        "original_name": "Julieta Videla",
+        "popularity": 0.0578,
+        "profile_path": null,
+        "credit_id": "66212563ccde04018805b5ce",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1334525,
+        "known_for_department": "Production",
+        "name": "Núria Valls",
+        "original_name": "Núria Valls",
+        "popularity": 0.2497,
+        "profile_path": "/1Km7HpTOjHekU56pprHcYKxp6GX.jpg",
+        "credit_id": "6621256ee4b576014abbbfbd",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1152373,
+        "known_for_department": "Writing",
+        "name": "Ángel Agudo",
+        "original_name": "Ángel Agudo",
+        "popularity": 0.509,
+        "profile_path": "/3kj0cpNYzonA54NgSKZFZVOMCmq.jpg",
+        "credit_id": "6621259f960cde0187a6d89c",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Laura has recently started working in the Barcelona subway. She has been assigned the old and quiet Rocafort station, but it won't be long before she discovers that this stop harbors a legend that will begin to haunt her: many people have died there in strange circumstances over the years and no one seems to be interested in knowing the truth.",
+          "runtime": 89,
+          "tagline": "The hidden legend of the Barcelona subway.",
+          "title": "Last Stop: Rocafort St."
+        }
+      },
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Un misterio que durante años ha sacudido a la estación de Metro de Rocafort en Barcelona entra de lleno en la vida de Laura (Natalia Azahara) cuando empieza a trabajar en esta vieja y tranquila parada. No tardará en descubrir una leyenda que la empezará a perseguir: allí ha muerto mucha gente en extrañas circunstancias. Laura, decidida a descubrir la verdad, pedirá ayuda a Román (Javier Gutiérrez), un curtido expolicía que alberga sus propios demonios relacionados con el caso. Lo que sea que ocurre en la estación maldita sigue sucediendo a día de hoy. Irá a por ella, y a por todos los que la rodean.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "ca",
+        "name": "Català",
+        "english_name": "Catalan",
+        "data": {
+          "homepage": "",
+          "overview": "La pel·lícula s'endinsa a les entranyes del metro de Barcelona de la mà de Laura (Natalia Azahara), una noia que fa poc ha començat a treballar-hi. Li han assignat la vella i tranquil·la estació Rocafort, però no trigarà a descobrir que aquesta parada acull una llegenda que la començarà a perseguir: hi ha mort molta gent en estranyes circumstàncies al llarg dels anys i ningú sembla estar interessat a saber la veritat. La Laura demanarà ajuda a en Román (Javier Gutiérrez), un avesat expolicia que alberga els seus propis dimonis relacionats amb el cas de la Laura i que mirarà d'esbrinar què és el que està passant. A poc a poc, la Laura descobrirà que sigui el que sigui que passa allà baix segueix succeint i no es quedarà a l'estació Rocafort. Anirà a buscar-la, i a totes les persones que l'envolten.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "TW",
+        "iso_639_1": "zh",
+        "name": "普通话",
+        "english_name": "Mandarin",
+        "data": {
+          "homepage": "",
+          "overview": "多年前，一樁震撼巴塞隆納羅卡福特地鐵站的神祕事件，深深地影響了在這座古老而寂靜的車站工作的勞拉的生活。當她開始時發現這裡曾發生過多起離奇死亡事件，而其背後，隱藏著不為人知的祕密……",
+          "runtime": 0,
+          "tagline": "",
+          "title": "地下終劫站"
+        }
+      },
+      {
+        "iso_3166_1": "RU",
+        "iso_639_1": "ru",
+        "name": "Pусский",
+        "english_name": "Russian",
+        "data": {
+          "homepage": "",
+          "overview": "Лаура становится свидетелем несчастного случая в метро. После этого у нее начинаются страшные видения. Коллеги рассказывают, что у этой станции мрачная история, тут погибло много людей. Поскольку Лаура не верит в призраков и легенды о потустороннем, с помощью знакомого детектива она решает разобраться, что там происходит.",
+          "runtime": 89,
+          "tagline": "",
+          "title": "Подземная бездна"
+        }
+      },
+      {
+        "iso_3166_1": "RO",
+        "iso_639_1": "ro",
+        "name": "Română",
+        "english_name": "Romanian",
+        "data": {
+          "homepage": "",
+          "overview": "Laura a început recent să lucreze în metroul din Barcelona. A fost repartizată la vechea și liniștita stație Rocafort, dar nu va trece mult timp până când va descoperi că această stație ascunde o legendă care va începe să o bântuie: mulți oameni au murit acolo în circumstanțe ciudate de-a lungul anilor, iar nimeni nu pare interesat să afle adevărul.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "CN",
+        "iso_639_1": "zh",
+        "name": "普通话",
+        "english_name": "Mandarin",
+        "data": {
+          "homepage": "",
+          "overview": "多年前，一桩震惊巴塞罗那罗卡福特地铁站的神秘事件，彻底改变了在这座古老寂静车站工作的劳拉（娜塔莉亚·阿萨哈拉饰）的生活。当她发现这里曾发生多起离奇死亡事件时，背后隐藏的不为人知的秘密逐渐浮现……",
+          "runtime": 89,
+          "tagline": "",
+          "title": "罗卡福特站"
+        }
+      },
+      {
+        "iso_3166_1": "PL",
+        "iso_639_1": "pl",
+        "name": "Polski",
+        "english_name": "Polish",
+        "data": {
+          "homepage": "",
+          "overview": "Próbując zapomnieć o byłym chłopaku, Laura (Natalia Azahara) rozpoczyna pracę w metrze w Barcelonie, gdzie zostaje przydzielona do starej i cichej stacji Rocafort. Jedni nazywają ją przeklętą, inni idealnym miejscem samobójców, czego szybko doświadcza na własnej skórze, stając się świadkiem skoku motorniczego pod pociąg. Cierpiąc na koszmary oraz halucynacje, kontaktuje się z autorem pewnej książki Románem (Javier Gutierrez), prosząc go o pomoc. Nie wie, że mężczyzna jest też byłym policjantem, udręczonym nierozwiązanymi morderstwami z metra...",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Stacja śmierci"
+        }
+      },
+      {
+        "iso_3166_1": "IT",
+        "iso_639_1": "it",
+        "name": "Italiano",
+        "english_name": "Italian",
+        "data": {
+          "homepage": "",
+          "overview": "Laura è una ragazza giovane che ha da poco iniziato a lavorare per la rete metropolitana di Barcellona. Le hanno affidato la gestione della stazione di Rocafort, un luogo antico e apparentemente tranquillo, ma ben presto si renderà conto che questa fermata nasconde una leggenda inquietante che finirà per tormentarla.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Ultima fermata - Rocafort St."
+        }
+      },
+      {
+        "iso_3166_1": "NL",
+        "iso_639_1": "nl",
+        "name": "Nederlands",
+        "english_name": "Dutch",
+        "data": {
+          "homepage": "",
+          "overview": "Laura werkt sinds kort in de metro van Barcelona. Ze heeft het oude en rustige station van Rocafort toegewezen gekregen, maar het zal niet lang duren voordat ze ontdekt dat deze halte een legende herbergt die haar zal beginnen te achtervolgen: veel mensen zijn daar in de loop der jaren onder vreemde omstandigheden omgekomen en niemand lijkt geïnteresseerd te zijn in het kennen van de waarheid.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "MX",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Un misterio que durante años ha sacudido a la estación de Metro de Rocafort en Barcelona entra de lleno en la vida de Laura (Natalia Azahara) cuando empieza a trabajar en esta vieja y tranquila parada. No tardará en descubrir una leyenda que la empezará a perseguir: allí ha muerto mucha gente en extrañas circunstancias. Laura, decidida a descubrir la verdad, pedirá ayuda a Román (Javier Gutiérrez), un curtido expolicía que alberga sus propios demonios relacionados con el caso. Lo que sea que ocurre en la estación maldita sigue sucediendo a día de hoy. Irá a por ella, y a por todos los que la rodean.",
+          "runtime": 0,
+          "tagline": "La leyenda oculta del metro de Barcelona.",
+          "title": "Túnel Paranormal"
+        }
+      },
+      {
+        "iso_3166_1": "GR",
+        "iso_639_1": "el",
+        "name": "ελληνικά",
+        "english_name": "Greek",
+        "data": {
+          "homepage": "",
+          "overview": "Η Λάουρα έχει αρχίσει να εργάζεται στο μετρό της Βαρκελώνης και της έχει ανατεθεί ο παλιός και ήσυχος σταθμός Ροκαφόρτ. Δεν αργεί να ανακαλύψει ότι ο σταθμός αυτός είναι το κέντρο ενός ανατριχιαστικού αστικού μύθου: πολλοί άνθρωποι έχουν πεθάνει εκεί κάτω υπό περίεργες συνθήκες όλα αυτά τα χρόνια και κανείς δεν φαίνεται να ενδιαφέρεται να μάθει την αλήθεια.  Η κοπέλα ζητά τη βοήθεια ενός πρώην αστυνομικού, του Ρομάν, ο οποίος παθιάζεται με την υπόθεση, προσπαθώντας να ανακαλύψει το μυστικό που κρύβει. Όμως σύντομα συνειδητοποιεί πως ό,τι κι αν συνέβη εκεί κάτω, στις σήραγγες, συνεχίζεται ακάθεκτο, στοιχειώνοντας την ίδια και όλους γύρω της. Ο χρόνος τελειώνει...",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Τελευταίος Σταθμός Ρόκαφορτ"
+        }
+      },
+      {
+        "iso_3166_1": "CO",
+        "iso_639_1": "co",
+        "name": "",
+        "english_name": "Corsican",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "",
+          "overview": "Laura (Natalia Azahara) hat vor Kurzem eine Stelle bei der U-Bahn von Barcelona angetreten und wird der alten Station 'Rocafort' zugeteilt, um die eine unheimliche Legende rankt. Im Laufe der Jahre sind an diesem Ort viele Menschen unter mysteriösen Umständen ums Leben gekommen und niemand scheint an der Wahrheit interessiert zu sein. Nach und nach findet Laura mit Hilfe des Polizisten Román Azpuru (Javier Gutiérrez) heraus, dass was auch immer dort unten sein Unwesen treibt, nicht aufzuhalten ist...",
+          "runtime": 85,
+          "tagline": "Endstation: Tod",
+          "title": "Last Stop: Rocafort St."
+        }
+      },
+      {
+        "iso_3166_1": "BR",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "homepage": "",
+          "overview": "Segue Laura até as entranhas do metrô de Barcelona, que lhe foi atribuído na antiga e tranquila estação Rocafort, onde ela descobrirá uma lenda que começará a assombrá-la.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Estação Paranormal"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "TW",
+        "title": "地下終劫站",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "罗卡福特站",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "MX",
+        "title": "Túnel Paranormal",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt24695266",
+    "wikidata_id": "Q121225275",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/nJ0MYqTTZg4gk7fgVgIfAWJN4ZQ.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/4b3bseXK8pbIEy1kcqWsCa34gip.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 720,
+        "iso_3166_1": "TW",
+        "iso_639_1": "zh",
+        "file_path": "/x78tjqrNE0vD5RBxEGlbNYIRIR0.jpg",
+        "vote_average": 0.0,
+        "vote_count": 1,
+        "width": 1280
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 720,
+        "iso_3166_1": "TW",
+        "iso_639_1": "zh",
+        "file_path": "/ls42YbR9F7cuhtYAy9hA5baBhol.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1280
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 720,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/cn7abDYChHWxqT8VLnUEmPAPKj7.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1280
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/cxFv3mPwTYvGk0r09KOBJOu9JuA.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      }
+    ],
+    "logos": [
+      {
+        "aspect_ratio": 2.899,
+        "height": 276,
+        "iso_3166_1": "TW",
+        "iso_639_1": "zh",
+        "file_path": "/z1pFfCFkIm0flt93tDnEqg1Xgdm.png",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 800
+      },
+      {
+        "aspect_ratio": 2.889,
+        "height": 1225,
+        "iso_3166_1": "TW",
+        "iso_639_1": "zh",
+        "file_path": "/9nlmxpwgX8HEyljpylIqrDNdQln.png",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3539
+      }
+    ],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1350,
+        "iso_3166_1": "TW",
+        "iso_639_1": "zh",
+        "file_path": "/neZ6qRo6DQm8Sdq7QF3fTUflcPP.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 900
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": "TW",
+        "iso_639_1": "zh",
+        "file_path": "/gSQpd8i9l3Vqoid3ELW6Nre95Dg.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/pAESdqWa450bYRvvksfxShAhieJ.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 750,
+        "iso_3166_1": "TW",
+        "iso_639_1": "zh",
+        "file_path": "/uFkBIQGk57NBwiKXWNlqnZFuYyf.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 500
+      },
+      {
+        "aspect_ratio": 0.675,
+        "height": 1600,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/oY6KfZgplGCA4WszBgd5WV2VOKj.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1080
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "TW",
+        "iso_639_1": "zh",
+        "file_path": "/7TRUfyLXekbBsdYlcKTcJrg4AxQ.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.702,
+        "height": 2560,
+        "iso_3166_1": "TW",
+        "iso_639_1": "zh",
+        "file_path": "/liDtgjOaol4mxuQxmuE9Uym8hvo.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1797
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DvD",
+            "release_date": "2025-10-24T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-09-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "Mayhem Film Festival",
+            "release_date": "2024-10-20T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-06-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "B-15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-09-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "18+",
+            "descriptors": [],
+            "iso_639_1": "ru",
+            "note": "Экспонента",
+            "release_date": "2024-10-17T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "18+",
+            "descriptors": [],
+            "iso_639_1": "ru",
+            "note": "",
+            "release_date": "2024-11-21T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Last Stop: Rocafort St. (2024) | Trailer | Luis Prieto",
+        "key": "7RfssNlIQSA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "68f11307cea173d3876c69c5",
+        "published_at": "2025-09-25T21:07:03.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "LAST STOP: ROCAFORT ST. - Trailer",
+        "key": "934730969",
+        "site": "Vimeo",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "67053525bd7cd86da51d55dd",
+        "published_at": "2024-04-15T07:48:02.000Z"
+      }
+    ]
+  }
+}

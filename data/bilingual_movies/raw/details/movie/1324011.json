@@ -1,0 +1,716 @@
+{
+  "adult": false,
+  "backdrop_path": "/9iAW3f6F4X7ny7cHLnJImzn5n8N.jpg",
+  "belongs_to_collection": null,
+  "budget": 480000,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1324011,
+  "imdb_id": "tt34257047",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Alterlove",
+  "overview": "Paris, present day, in a typical bistro. A disillusioned young woman meets a charismatic man. They embark on a spontaneous and unconventional date, filled with lightness, destructive therapy, and deep conversations. As they explore the city together, they discover a connection that transcends norms and social expectations, challenging the meaning of love and relationships in the modern world.",
+  "popularity": 0.7256,
+  "poster_path": "/Hh8MC1gKIgT7WigAk7IKKO3ahV.jpg",
+  "production_companies": [
+    {
+      "id": 243846,
+      "logo_path": null,
+      "name": "Tizza Finance",
+      "origin_country": ""
+    },
+    {
+      "id": 243847,
+      "logo_path": null,
+      "name": "Annexe 3",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2025-04-23",
+  "revenue": 0,
+  "runtime": 90,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Alterlove",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3070663,
+        "known_for_department": "Acting",
+        "name": "Kim Higelin",
+        "original_name": "Kim Higelin",
+        "popularity": 0.4246,
+        "profile_path": "/6b2jB4S9M3hbOisr4jmd2S7WfyL.jpg",
+        "cast_id": 2,
+        "character": "Elle",
+        "credit_id": "6722ae813ac0e6a07ccbc687",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4283443,
+        "known_for_department": "Acting",
+        "name": "Victor Poirier",
+        "original_name": "Victor Poirier",
+        "popularity": 0.3288,
+        "profile_path": "/dxRrximyhw8rfNLDbr0hlrbe8DX.jpg",
+        "cast_id": 3,
+        "character": "Lui",
+        "credit_id": "6722aecc003c4b5b5b6433cf",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38559,
+        "known_for_department": "Acting",
+        "name": "Christopher Lambert",
+        "original_name": "Christopher Lambert",
+        "popularity": 3.4037,
+        "profile_path": "/nWcAHW2ZN4cP3VPWYH9WJCvhFvt.jpg",
+        "cast_id": 4,
+        "character": "The Taxi driver",
+        "credit_id": "6722af551d0b571b8a5c3296",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1869388,
+        "known_for_department": "Crew",
+        "name": "Gunther Van Severen",
+        "original_name": "Gunther Van Severen",
+        "popularity": 0.2343,
+        "profile_path": "/lcaFzW0pXMb1GVjM7UYm3PM25f6.jpg",
+        "cast_id": 5,
+        "character": "Gunther",
+        "credit_id": "672954700ce6d14a409e90af",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1079911,
+        "known_for_department": "Acting",
+        "name": "Jean-Adrien Espiasse",
+        "original_name": "Jean-Adrien Espiasse",
+        "popularity": 0.1387,
+        "profile_path": "/lUQoClP1BJLHpIgwuTkh9Tzehy2.jpg",
+        "cast_id": 6,
+        "character": "Présentateur karaoké",
+        "credit_id": "6729547c425bdcd2ace31a6d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 930289,
+        "known_for_department": "Acting",
+        "name": "Jérémy Kapone",
+        "original_name": "Jérémy Kapone",
+        "popularity": 0.3553,
+        "profile_path": "/hwT1VBt67OLAKjvNIDS7jyThOeX.jpg",
+        "cast_id": 7,
+        "character": "Jules",
+        "credit_id": "672954840ce6d14a409e90b6",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2356002,
+        "known_for_department": "Acting",
+        "name": "Ekaterina Rusnak",
+        "original_name": "Екатерина Руснак",
+        "popularity": 0.2324,
+        "profile_path": "/9w9DIEvMcSm1HLRJ826mqkbjJ93.jpg",
+        "cast_id": 8,
+        "character": "Welcomer 'in the dark'",
+        "credit_id": "6729548d60f5b9ecdff03e59",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1434708,
+        "known_for_department": "Acting",
+        "name": "Zoé Adjani",
+        "original_name": "Zoé Adjani",
+        "popularity": 0.3218,
+        "profile_path": "/rQOpD8kftCJkLZyWiIga4MYAoO0.jpg",
+        "cast_id": 9,
+        "character": "The subway girl",
+        "credit_id": "6729549b433c82ea267e4d4f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3112390,
+        "known_for_department": "Acting",
+        "name": "Lionel Fernandez",
+        "original_name": "Lionel Fernandez",
+        "popularity": 0.1011,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Charablablov",
+        "credit_id": "672954a60ce6d14a409e90dd",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2566731,
+        "known_for_department": "Acting",
+        "name": "Julien Naccache",
+        "original_name": "Julien Naccache",
+        "popularity": 0.1757,
+        "profile_path": "/w5e25vc8q7MOAlIX0KjdNwsoCKH.jpg",
+        "cast_id": 11,
+        "character": "Welcomer Fury Room",
+        "credit_id": "672954b4a8d9f9a0bc56c91f",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1494003,
+        "known_for_department": "Acting",
+        "name": "Isabelle Tanakil",
+        "original_name": "Isabelle Tanakil",
+        "popularity": 0.4891,
+        "profile_path": "/ih1pmoIEu84MdbeVhD28fku1Rfn.jpg",
+        "cast_id": 12,
+        "character": "The singer in Charablablah",
+        "credit_id": "672954bd0ce6d14a409e90e9",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2595049,
+        "known_for_department": "Acting",
+        "name": "Lumina Wang",
+        "original_name": "Lumina Wang",
+        "popularity": 0.1032,
+        "profile_path": "/8nwHNrKPv4ELgR3aRekP66uN57J.jpg",
+        "cast_id": 13,
+        "character": "The young woman yelling on the phone",
+        "credit_id": "672954c6a8d9f9a0bc56c924",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1187198,
+        "known_for_department": "Directing",
+        "name": "Jonathan Taïeb",
+        "original_name": "Jonathan Taïeb",
+        "popularity": 0.1617,
+        "profile_path": null,
+        "credit_id": "66abd9955b845b571f5a067c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1187198,
+        "known_for_department": "Directing",
+        "name": "Jonathan Taïeb",
+        "original_name": "Jonathan Taïeb",
+        "popularity": 0.1617,
+        "profile_path": null,
+        "credit_id": "67295730eb0fdd9cd84b08a4",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1422230,
+        "known_for_department": "Acting",
+        "name": "Boris Baum",
+        "original_name": "Boris Baum",
+        "popularity": 0.3844,
+        "profile_path": "/1whyhXvf5xQMwmnquYBpLdZGhcU.jpg",
+        "credit_id": "6729574e3bfdae56e245fdc0",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5041325,
+        "known_for_department": "Production",
+        "name": "David Obert",
+        "original_name": "David Obert",
+        "popularity": 0.0934,
+        "profile_path": null,
+        "credit_id": "672957553bfdae56e245fdce",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5041327,
+        "known_for_department": "Production",
+        "name": "Paul-Maxime Koskas",
+        "original_name": "Koskas Paul-Maxime",
+        "popularity": 0.0874,
+        "profile_path": null,
+        "credit_id": "6729576383e62f05c6b56821",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1187198,
+        "known_for_department": "Directing",
+        "name": "Jonathan Taïeb",
+        "original_name": "Jonathan Taïeb",
+        "popularity": 0.1617,
+        "profile_path": null,
+        "credit_id": "6729576883e62f05c6b5682e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4167881,
+        "known_for_department": "Camera",
+        "name": "Larry Rochefort",
+        "original_name": "Larry Rochefort",
+        "popularity": 0.1502,
+        "profile_path": null,
+        "credit_id": "672957a0a8d9f9a0bc56c9c3",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5041330,
+        "known_for_department": "Editing",
+        "name": "Anthony Robin",
+        "original_name": "Anthony Robin",
+        "popularity": 0.0832,
+        "profile_path": null,
+        "credit_id": "672957ab14d4a3997203363e",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5041332,
+        "known_for_department": "Art",
+        "name": "Izaac Lacoue-Labarthe",
+        "original_name": "Izaac Lacoue-Labarthe",
+        "popularity": 0.0908,
+        "profile_path": null,
+        "credit_id": "672957bacc1d12827d0c3f7b",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5041333,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Graziella Pilleux-Cacoub",
+        "original_name": "Graziella Pilleux-Cacoub",
+        "popularity": 0.167,
+        "profile_path": null,
+        "credit_id": "672957c114d4a3997203364c",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2450447,
+        "known_for_department": "Sound",
+        "name": "Jean-Philippe Boinot",
+        "original_name": "Jean-Philippe Boinot",
+        "popularity": 0.1359,
+        "profile_path": null,
+        "credit_id": "672957d0eb0fdd9cd84b0900",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4170524,
+        "known_for_department": "Sound",
+        "name": "Christophe Colson",
+        "original_name": "Christophe Colson",
+        "popularity": 0.0733,
+        "profile_path": null,
+        "credit_id": "672957dc50e15e8f5a58057d",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2493379,
+        "known_for_department": "Sound",
+        "name": "Rémi Gauthier",
+        "original_name": "Rémi Gauthier",
+        "popularity": 0.1123,
+        "profile_path": null,
+        "credit_id": "672957e850e15e8f5a580580",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2719276,
+        "known_for_department": "Sound",
+        "name": "Matthis Goldfain",
+        "original_name": "Matthis Goldfain",
+        "popularity": 0.0716,
+        "profile_path": null,
+        "credit_id": "672957f0cc1d12827d0c403e",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1940830,
+        "known_for_department": "Sound",
+        "name": "Benjamin Jaussaud",
+        "original_name": "Benjamin Jaussaud",
+        "popularity": 0.1146,
+        "profile_path": null,
+        "credit_id": "672957f714d4a39972033675",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2947729,
+        "known_for_department": "Sound",
+        "name": "Olivier Laporte",
+        "original_name": "Olivier Laporte",
+        "popularity": 0.0356,
+        "profile_path": null,
+        "credit_id": "672957ffeb0fdd9cd84b090e",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2255075,
+        "known_for_department": "Sound",
+        "name": "Marie Mazière",
+        "original_name": "Marie Mazière",
+        "popularity": 0.1935,
+        "profile_path": null,
+        "credit_id": "672958050ce6d14a409e91b6",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4190067,
+        "known_for_department": "Acting",
+        "name": "Coline Scagliola",
+        "original_name": "Coline Scagliola",
+        "popularity": 0.1217,
+        "profile_path": null,
+        "credit_id": "6729580c0ce6d14a409e91ba",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1958500,
+        "known_for_department": "Sound",
+        "name": "Alexandre Widmer",
+        "original_name": "Alexandre Widmer",
+        "popularity": 0.1975,
+        "profile_path": null,
+        "credit_id": "67295817eb0fdd9cd84b0917",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5041337,
+        "known_for_department": "Visual Effects",
+        "name": "François Le Bourhis",
+        "original_name": "François Le Bourhis",
+        "popularity": 0.082,
+        "profile_path": null,
+        "credit_id": "6729582750e15e8f5a5805a1",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4980358,
+        "known_for_department": "Lighting",
+        "name": "Tristan Charles",
+        "original_name": "Tristan Charles",
+        "popularity": 0.1465,
+        "profile_path": null,
+        "credit_id": "6729582e425bdcd2ace31b1e",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5041339,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ines-Eloy Velaine",
+        "original_name": "Ines-Eloy Velaine",
+        "popularity": 0.093,
+        "profile_path": null,
+        "credit_id": "672958360ce6d14a409e91d2",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4931602,
+        "known_for_department": "Editing",
+        "name": "Simon Philippe",
+        "original_name": "Simon Philippe",
+        "popularity": 0.0842,
+        "profile_path": null,
+        "credit_id": "6729584483e62f05c6b56872",
+        "department": "Editing",
+        "job": "Colorist"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Paris, present day, in a typical bistro. A disillusioned young woman meets a charismatic man. They embark on a spontaneous and unconventional date, filled with lightness, destructive therapy, and deep conversations. As they explore the city together, they discover a connection that transcends norms and social expectations, challenging the meaning of love and relationships in the modern world.",
+          "runtime": 90,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "",
+          "overview": "Paris, heute, ein typisches Bistro. Jade, eine desillusionierte junge Frau, lernt den charismatischen Leo kennen.  Die Beziehung ist spontan geprägt von Leichtigkeit, destruktiver Therapie und tiefgründigen Gesprächen. Während sie gemeinsam die Stadt erkunden, entdecken sie eine Verbindung, die Normen und gesellschaftliche Erwartungen überwindet und die Bedeutung von Liebe und Beziehungen in der modernen Welt in Frage stellt.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "Paris, de nos jours, dans un bistrot typique. Jade, une femme insatisfaite, rencontre Léo, un homme charismatique et non conventionnel. Ils se lancent dans une soirée de rendez-vous spontanée, et hors du commun, remplie de légèreté, de thérapie destructrice et de conversations profondes. En explorant la ville ensemble, ils découvrent une connexion qui transcende les normes et les attentes sociales, remettant en question le sens de l’amour et des relations dans le monde moderne.",
+          "runtime": 90,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "CN",
+        "iso_639_1": "zh",
+        "name": "普通话",
+        "english_name": "Mandarin",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "PL",
+        "iso_639_1": "pl",
+        "name": "Polski",
+        "english_name": "Polish",
+        "data": {
+          "homepage": "",
+          "overview": "Paryż, współczesny dzień, w typowym bistro. Jade (Kim Higelin), rozczarowana młoda kobieta, poznaje Leo (Victor Poirier), charyzmatycznego mężczyznę. Wyruszają na spontaniczną i niekonwencjonalną randkę, pełną lekkości, destrukcyjnej terapii i głębokich rozmów. Podczas gdy wspólnie eksplorują miasto, odkrywają więź, która przekracza normy i oczekiwania społeczne, kwestionując znaczenie miłości i związków we współczesnym świecie.",
+          "runtime": 90,
+          "tagline": "",
+          "title": "Alterlove"
+        }
+      },
+      {
+        "iso_3166_1": "CA",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt34257047",
+    "wikidata_id": "Q133869877",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/9iAW3f6F4X7ny7cHLnJImzn5n8N.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.75,
+        "height": 2533,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/Hh8MC1gKIgT7WigAk7IKKO3ahV.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1900
+      },
+      {
+        "aspect_ratio": 0.75,
+        "height": 2304,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/9BlEAlzmHdL1a6dyJmQ9vemRoBE.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1728
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/s8cYNxfHXsAIY0ZVPAGOkoMLcCD.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Hof Film Festival",
+            "release_date": "2024-10-25T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "fr",
+            "note": "",
+            "release_date": "2025-04-23T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

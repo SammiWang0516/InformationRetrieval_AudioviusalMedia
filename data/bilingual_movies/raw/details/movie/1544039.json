@@ -1,0 +1,522 @@
+{
+  "adult": false,
+  "backdrop_path": "/kDFQOLfl4clUJtbkYUcJXh8Kblb.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "",
+  "id": 1544039,
+  "imdb_id": null,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "I Am the Greatest",
+  "overview": "Daniel gets jostled on a crowded street and imagines teaching the stranger some manners. For Marie, a first date is one thing above all else: pure stress! What if he notices how disturbed she is...? Robert sees the other parents at the playground and is overcome with self-doubt. Alone in her room at night, Yara hears strange noises—a monster or her mom? Karsten is in the fast lane. Whoever slows down loses. Agathe seeks inner peace after a breakup, but the anger remains. And Lenny dreams of Mo, his idol—and of finally being seen.",
+  "popularity": 0.7683,
+  "poster_path": "/IXdLJ0gUPmDQSAh83OwQGTAVLW.jpg",
+  "production_companies": [
+    {
+      "id": 120797,
+      "logo_path": "/55knUsEMQF3I9zqKSfczcknOnzO.png",
+      "name": "BerghausWöbke Filmproduktion",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2025-09-29",
+  "revenue": 0,
+  "runtime": 96,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "I Am the Greatest",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 2,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1682097,
+        "known_for_department": "Acting",
+        "name": "Katharina Stark",
+        "original_name": "Katharina Stark",
+        "popularity": 0.4952,
+        "profile_path": "/3cwKbMriYdDDhPwSQTXTdMhG6p6.jpg",
+        "cast_id": 8,
+        "character": "Marie",
+        "credit_id": "68e7a358b2614f449e41dda3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40501,
+        "known_for_department": "Acting",
+        "name": "Mark Waschke",
+        "original_name": "Mark Waschke",
+        "popularity": 0.4048,
+        "profile_path": "/3oj00IFsIcWjcCCfwsFAnxFzssP.jpg",
+        "cast_id": 9,
+        "character": "Karsten Drechsler",
+        "credit_id": "68e7a38644362010e75f6272",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1376402,
+        "known_for_department": "Acting",
+        "name": "Christian Erdt",
+        "original_name": "Christian Erdt",
+        "popularity": 0.1188,
+        "profile_path": "/nyEfbOTUBN52FGdIUtmrHOfUwYv.jpg",
+        "cast_id": 10,
+        "character": "Daniel",
+        "credit_id": "68e7a3d1d5aa619af4b7ad29",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 71738,
+        "known_for_department": "Directing",
+        "name": "Nicolai Zeitler",
+        "original_name": "Nicolai Zeitler",
+        "popularity": 0.1554,
+        "profile_path": "/oTdA00FWHaZQz8P9UgzgffIBKhx.jpg",
+        "cast_id": 14,
+        "character": "Vater",
+        "credit_id": "68e7a52d02722dc81a4a95d3",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3156261,
+        "known_for_department": "Acting",
+        "name": "Ben Felipe",
+        "original_name": "Ben Felipe",
+        "popularity": 0.5347,
+        "profile_path": "/tY9Mci7C6EjA9z5Omcnl0x7rL4g.jpg",
+        "cast_id": 15,
+        "character": "Gabriel",
+        "credit_id": "68e7c93db25a0e889eaa14f7",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1813427,
+        "known_for_department": "Acting",
+        "name": "Friederike Ott",
+        "original_name": "Friederike Ott",
+        "popularity": 0.2701,
+        "profile_path": "/pqN99ABsLwcmzeMfdNIPKJ4Ubwi.jpg",
+        "cast_id": 21,
+        "character": "Mutter",
+        "credit_id": "68e7d4d4b2614f449e41de6f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3187966,
+        "known_for_department": "Acting",
+        "name": "Thapelo Mashiane",
+        "original_name": "Thapelo Mashiane",
+        "popularity": 0.3568,
+        "profile_path": "/7fFZ4ys1uEq3lMnlBA2BZ93Zsa2.jpg",
+        "cast_id": 17,
+        "character": "Mo",
+        "credit_id": "68e7c96eeea49f59374a979d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1824172,
+        "known_for_department": "Acting",
+        "name": "Alev Irmak",
+        "original_name": "Alev Irmak",
+        "popularity": 0.1799,
+        "profile_path": "/5MgmgSSbU1HLkDXn9D0Mca4FXGy.jpg",
+        "cast_id": 19,
+        "character": "Ariana",
+        "credit_id": "68e7c9d3e1bdc002bfe6a663",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1109575,
+        "known_for_department": "Acting",
+        "name": "Peter Trabner",
+        "original_name": "Peter Trabner",
+        "popularity": 0.1627,
+        "profile_path": "/rXKWKrId0bmx3hfBO3alTQ0vTI7.jpg",
+        "cast_id": 20,
+        "character": "Sam",
+        "credit_id": "68e7c9eaceda0dc405d84dff",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 69972,
+        "known_for_department": "Acting",
+        "name": "Martin Weigel",
+        "original_name": "Martin Weigel",
+        "popularity": 0.2604,
+        "profile_path": "/91KDM0nELY8OVigaYFPA2IqqIYv.jpg",
+        "cast_id": 16,
+        "character": "Fremder",
+        "credit_id": "68e7c9580b0d6853afaa16a9",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2725799,
+        "known_for_department": "Acting",
+        "name": "Carlo Schmitt",
+        "original_name": "Carlo Schmitt",
+        "popularity": 0.1469,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Lenny",
+        "credit_id": "68e7a462b6e3fe9fd6e6a70d",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 231840,
+        "known_for_department": "Acting",
+        "name": "Susanna Fernandes-Genebra",
+        "original_name": "Susanna Fernandes-Genebra",
+        "popularity": 0.1655,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Agathe",
+        "credit_id": "68e7c9bb2c9062f48f5f630a",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1890749,
+        "known_for_department": "Acting",
+        "name": "Julia Gleich",
+        "original_name": "Julia Gleich",
+        "popularity": 0.095,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Schnecki",
+        "credit_id": "68e7a40844362010e75f6281",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2501985,
+        "known_for_department": "Acting",
+        "name": "Luise Gleich",
+        "original_name": "Luise Gleich",
+        "popularity": 0.0521,
+        "profile_path": "/4dnrS5QRWxfdXCVPrq24Bg3kLd4.jpg",
+        "cast_id": 12,
+        "character": "Schnecki",
+        "credit_id": "68e7a4264727ae5e35b7ab64",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 71738,
+        "known_for_department": "Directing",
+        "name": "Nicolai Zeitler",
+        "original_name": "Nicolai Zeitler",
+        "popularity": 0.1554,
+        "profile_path": "/oTdA00FWHaZQz8P9UgzgffIBKhx.jpg",
+        "credit_id": "68c04dbfb2545dab0a1bd30f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3299358,
+        "known_for_department": "Directing",
+        "name": "Marlene Bischof",
+        "original_name": "Marlene Bischof",
+        "popularity": 0.1017,
+        "profile_path": "/jR3HeMYmClyfyBNrwAzBsUPSR3O.jpg",
+        "credit_id": "68c04dc6572c69d92498cbc4",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 71738,
+        "known_for_department": "Directing",
+        "name": "Nicolai Zeitler",
+        "original_name": "Nicolai Zeitler",
+        "popularity": 0.1554,
+        "profile_path": "/oTdA00FWHaZQz8P9UgzgffIBKhx.jpg",
+        "credit_id": "68c04dd53c2b162ba21f5cb1",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3299358,
+        "known_for_department": "Directing",
+        "name": "Marlene Bischof",
+        "original_name": "Marlene Bischof",
+        "popularity": 0.1017,
+        "profile_path": "/jR3HeMYmClyfyBNrwAzBsUPSR3O.jpg",
+        "credit_id": "68c04ddcc9b90846f106ae01",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2855841,
+        "known_for_department": "Camera",
+        "name": "Rebecca Meining",
+        "original_name": "Rebecca Meining",
+        "popularity": 0.0432,
+        "profile_path": null,
+        "credit_id": "68e7d526c263a4dd35b7acaf",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 71738,
+        "known_for_department": "Directing",
+        "name": "Nicolai Zeitler",
+        "original_name": "Nicolai Zeitler",
+        "popularity": 0.1554,
+        "profile_path": "/oTdA00FWHaZQz8P9UgzgffIBKhx.jpg",
+        "credit_id": "68e7d54c99ee67833d73da78",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5148741,
+        "known_for_department": "Production",
+        "name": "Anna-Malike Eigl",
+        "original_name": "Anna-Malike Eigl",
+        "popularity": 0.5437,
+        "profile_path": null,
+        "credit_id": "68e8e0669e831c29e3b7b15c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3000413,
+        "known_for_department": "Sound",
+        "name": "Giovanni Berg",
+        "original_name": "Giovanni Berg",
+        "popularity": 0.0583,
+        "profile_path": null,
+        "credit_id": "68e8e0c8c29c829b49aa1c08",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1589799,
+        "known_for_department": "Sound",
+        "name": "Richard Ruzicka",
+        "original_name": "Richard Ruzicka",
+        "popularity": 0.1854,
+        "profile_path": null,
+        "credit_id": "68e8e0d9f901918ef7aa1aee",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2844304,
+        "known_for_department": "Production",
+        "name": "Philipp Trauer",
+        "original_name": "Philipp Trauer",
+        "popularity": 0.178,
+        "profile_path": null,
+        "credit_id": "68e8e100cd3ae6868fe6ac07",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4526,
+        "known_for_department": "Production",
+        "name": "Thomas Wöbke",
+        "original_name": "Thomas Wöbke",
+        "popularity": 0.4305,
+        "profile_path": null,
+        "credit_id": "68e8e10a2274aec642d85726",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "https://www.zdf.de/serien/i-am-the-greatest-100",
+          "overview": "Daniel wird auf einer überfüllten Straße angerempelt und stellt sich vor, dem Fremden Manieren beizubringen. Ein erstes Date ist für Marie vor allem eins: purer Stress! Was, wenn er merkt, wie gestört sie ist...? Robert sieht die anderen Eltern auf dem Spielplatz und ertrinkt in Selbstzweifeln. Allein nachts in ihrem Zimmer hört Yara seltsame Geräusche – ein Monster oder ihre Mama? Karsten ist auf der Überholspur. Wer bremst, verliert. Agathe sucht nach einer Trennung inneren Frieden, doch die Wut bleibt. Und Lenny träumt von Mo, seinem Idol – und davon, endlich gesehen zu werden.",
+          "runtime": 96,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Daniel gets jostled on a crowded street and imagines teaching the stranger some manners. For Marie, a first date is one thing above all else: pure stress! What if he notices how disturbed she is...? Robert sees the other parents at the playground and is overcome with self-doubt. Alone in her room at night, Yara hears strange noises—a monster or her mom? Karsten is in the fast lane. Whoever slows down loses. Agathe seeks inner peace after a breakup, but the anger remains. And Lenny dreams of Mo, his idol—and of finally being seen.",
+          "runtime": 96,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "Une plongée dans le quotidien de sept personnages en butte à la pression et au chaos de notre époque. Sept tranches de vie au cours desquelles on découvre leurs pensées, leurs rêves et leurs fantasmes, alors qu'ils tentent de ne pas sombrer dans un monde qui les dépasse.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1552,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/kDFQOLfl4clUJtbkYUcJXh8Kblb.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 2759
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 2759,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/IXdLJ0gUPmDQSAh83OwQGTAVLW.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1839
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Filmfest Hamburg",
+            "release_date": "2025-09-29T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "ZDF",
+            "release_date": "2025-12-01T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

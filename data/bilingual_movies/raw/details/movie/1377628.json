@@ -1,0 +1,558 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.lefresnoy.net/en/exposition/1952/oeuvre/1963/",
+  "id": 1377628,
+  "imdb_id": "tt29007543",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "en",
+  "original_title": "After All",
+  "overview": "A therapist at a Berlin university navigates delicate emotional terrain as she provides solace to a grieving student grappling with the suicide of a trans woman on campus.",
+  "popularity": 1.4147,
+  "poster_path": "/fdIhBUQN0XgZeq8OdduxWEio1Ca.jpg",
+  "production_companies": [
+    {
+      "id": 11687,
+      "logo_path": "/gW6YiDdhkySff27C0m4JXu30879.png",
+      "name": "Le Fresnoy",
+      "origin_country": "FR"
+    },
+    {
+      "id": 242993,
+      "logo_path": null,
+      "name": "Octopoid Ltd",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2024-11-08",
+  "revenue": 0,
+  "runtime": 25,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "After All",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5023847,
+        "known_for_department": "Acting",
+        "name": "Chuning Dai",
+        "original_name": "Chuning Dai",
+        "popularity": 0.1484,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Ning Yang",
+        "credit_id": "671d1b9427bd57d91f62d140",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3941110,
+        "known_for_department": "Acting",
+        "name": "Antonia Elisa Sandrock",
+        "original_name": "Antonia Elisa Sandrock",
+        "popularity": 0.3485,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Therapist",
+        "credit_id": "671d1bae34c0fabd681cbd53",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3427173,
+        "known_for_department": "Directing",
+        "name": "Chongyan Liu",
+        "original_name": "Chongyan Liu",
+        "popularity": 0.1932,
+        "profile_path": "/l0C4lOhem8MdTp4ZLDOGjKTBAy9.jpg",
+        "credit_id": "671d1bd1c7802cc5035a353d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3427173,
+        "known_for_department": "Directing",
+        "name": "Chongyan Liu",
+        "original_name": "Chongyan Liu",
+        "popularity": 0.1932,
+        "profile_path": "/l0C4lOhem8MdTp4ZLDOGjKTBAy9.jpg",
+        "credit_id": "671d1bdcc7802cc5035a3546",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3427173,
+        "known_for_department": "Directing",
+        "name": "Chongyan Liu",
+        "original_name": "Chongyan Liu",
+        "popularity": 0.1932,
+        "profile_path": "/l0C4lOhem8MdTp4ZLDOGjKTBAy9.jpg",
+        "credit_id": "671d1be927bd57d91f62d198",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3427176,
+        "known_for_department": "Production",
+        "name": "Thomas Moore",
+        "original_name": "Thomas Moore",
+        "popularity": 0.0772,
+        "profile_path": null,
+        "credit_id": "671d1bfac7802cc5035a355e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5023861,
+        "known_for_department": "Production",
+        "name": "Le Fresnoy",
+        "original_name": "Le Fresnoy",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "671d1c8cb3d5cbb842f44246",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5023864,
+        "known_for_department": "Production",
+        "name": "Gerard Tierney",
+        "original_name": "Gerard Tierney",
+        "popularity": 0.038,
+        "profile_path": null,
+        "credit_id": "671d1cb8b3d5cbb842f44279",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3715540,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Guowen Li",
+        "original_name": "Guowen Li",
+        "popularity": 0.2147,
+        "profile_path": null,
+        "credit_id": "671d1cd1a4ac8a432c5c73d7",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3671788,
+        "known_for_department": "Camera",
+        "name": "Yadi Liu",
+        "original_name": "Yadi Liu",
+        "popularity": 0.2484,
+        "profile_path": null,
+        "credit_id": "671d1d02427c5c19f0261cef",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5023873,
+        "known_for_department": "Editing",
+        "name": "Jérôme Erhart",
+        "original_name": "Jérôme Erhart",
+        "popularity": 0.0731,
+        "profile_path": null,
+        "credit_id": "671d1d4e4be15469e70de47d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3719764,
+        "known_for_department": "Production",
+        "name": "Yelu Bao",
+        "original_name": "Yelu Bao",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "671d1d744be15469e70de4c3",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5023880,
+        "known_for_department": "Art",
+        "name": "Aixing Wang",
+        "original_name": "Aixing Wang",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "671d1db2a4ac8a432c5c745b",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3738443,
+        "known_for_department": "Production",
+        "name": "Bruno Morat",
+        "original_name": "Bruno Morat",
+        "popularity": 0.1638,
+        "profile_path": null,
+        "credit_id": "671d1dd04be15469e70de524",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5023884,
+        "known_for_department": "Directing",
+        "name": "Janitta Pel",
+        "original_name": "Janitta Pel",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "671d1df16e4210780f792b49",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2359308,
+        "known_for_department": "Sound",
+        "name": "Yannick Delmaire",
+        "original_name": "Yannick Delmaire",
+        "popularity": 0.0953,
+        "profile_path": null,
+        "credit_id": "671d1e1f6e4210780f792b82",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5023891,
+        "known_for_department": "Sound",
+        "name": "Victor Lenoir",
+        "original_name": "Victor Lenoir",
+        "popularity": 0.1082,
+        "profile_path": null,
+        "credit_id": "671d1e4c6e4210780f792bbe",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3021618,
+        "known_for_department": "Sound",
+        "name": "Erik Moore",
+        "original_name": "Erik Moore",
+        "popularity": 0.1884,
+        "profile_path": null,
+        "credit_id": "671d1ed034c0fabd681cbe3a",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2853193,
+        "known_for_department": "Sound",
+        "name": "Blandine Tourneux",
+        "original_name": "Blandine Tourneux",
+        "popularity": 0.1556,
+        "profile_path": null,
+        "credit_id": "671d1efd5d0de89042d94035",
+        "department": "Sound",
+        "job": "Sound Post Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5023910,
+        "known_for_department": "Visual Effects",
+        "name": "Aurélien Binauld",
+        "original_name": "Aurélien Binauld",
+        "popularity": 0.0532,
+        "profile_path": null,
+        "credit_id": "671d1f54a4ac8a432c5c754b",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5023912,
+        "known_for_department": "Crew",
+        "name": "Alexandre Peschmann",
+        "original_name": "Alexandre Peschmann",
+        "popularity": 0.109,
+        "profile_path": null,
+        "credit_id": "671d1fab5d0de89042d940b3",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4102470,
+        "known_for_department": "Camera",
+        "name": "Axelle Coquelet",
+        "original_name": "Axelle Coquelet",
+        "popularity": 0.0944,
+        "profile_path": null,
+        "credit_id": "671d1fc434c0fabd681cbeec",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3756887,
+        "known_for_department": "Camera",
+        "name": "Valentin Juhel",
+        "original_name": "Valentin Juhel",
+        "popularity": 0.1576,
+        "profile_path": null,
+        "credit_id": "671d1fe26d6b705dc8718e5f",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5023920,
+        "known_for_department": "Camera",
+        "name": "Léo Lefort",
+        "original_name": "Léo Lefort",
+        "popularity": 0.0342,
+        "profile_path": null,
+        "credit_id": "671d20035d0de89042d940c0",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1314521,
+        "known_for_department": "Editing",
+        "name": "Baptiste Evrard",
+        "original_name": "Baptiste Evrard",
+        "popularity": 0.1358,
+        "profile_path": null,
+        "credit_id": "671d2023a4ac8a432c5c7597",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3715564,
+        "known_for_department": "Directing",
+        "name": "Hongfan Zhang",
+        "original_name": "Hongfan Zhang",
+        "popularity": 0.1669,
+        "profile_path": null,
+        "credit_id": "671d203d6d6b705dc8718e96",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1998282,
+        "known_for_department": "Sound",
+        "name": "Nicolas Verhaeghe",
+        "original_name": "Nicolas Verhaeghe",
+        "popularity": 0.1521,
+        "profile_path": null,
+        "credit_id": "690a65de3dacfc6a65b69020",
+        "department": "Sound",
+        "job": "Sound Designer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 236,
+        "name": "suicide"
+      },
+      {
+        "id": 308814,
+        "name": "autofiction"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "https://www.lefresnoy.net/en/exposition/1952/oeuvre/1963/",
+          "overview": "A therapist at a Berlin university navigates delicate emotional terrain as she provides solace to a grieving student grappling with the suicide of a trans woman on campus.",
+          "runtime": 25,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "KR",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말",
+        "english_name": "Korean",
+        "data": {
+          "homepage": "",
+          "overview": "베를린 대학교의 한 상담사는 트랜스 여성의 자살로 슬픔에 잠긴 학생에게 위로를 건네며, 미묘한 감정적 지형을 헤쳐 나간다.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "애프터 올"
+        }
+      },
+      {
+        "iso_3166_1": "NL",
+        "iso_639_1": "nl",
+        "name": "Nederlands",
+        "english_name": "Dutch",
+        "data": {
+          "homepage": "",
+          "overview": "Korte film: Een therapeut aan een universiteit in Berlijn begeeft zich op gevoelig emotioneel terrein wanneer ze troost biedt aan een rouwende student die worstelt met de zelfmoord van een transgender vrouw op de campus.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "KR",
+        "title": "지나간 후에",
+        "type": "Korean"
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "事過方覺",
+        "type": "Mandarin Chinese"
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Après Tout",
+        "type": "French"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt29007543",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.707,
+        "height": 2829,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/fdIhBUQN0XgZeq8OdduxWEio1Ca.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Seoul International Pride Film Festival",
+            "release_date": "2024-11-08T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "After ALL_事過方覺_2023_Offcial Trailer",
+        "key": "796630327",
+        "site": "Vimeo",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "671d21e1e833d92ef060460e",
+        "published_at": "2023-02-07T13:28:42.000Z"
+      }
+    ]
+  }
+}

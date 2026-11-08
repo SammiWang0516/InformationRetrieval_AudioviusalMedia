@@ -1,0 +1,599 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 10000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "http://www.ryan-bode.com",
+  "id": 1512480,
+  "imdb_id": "tt37545849",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Vanishing Point",
+  "overview": "Lux searches for the eraser he needs to fix his drawing, but when his attempts to get his family's attention are ignored, he begins to disappear.",
+  "popularity": 0.7045,
+  "poster_path": "/uwjISpGcdBldS6irjLjyTYntFwe.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2025-05-01",
+  "revenue": 0,
+  "runtime": 10,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "Who cares?",
+  "title": "Vanishing Point",
+  "video": false,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5282774,
+        "known_for_department": "Acting",
+        "name": "Fedor Kuroedov",
+        "original_name": "Fedor Kuroedov",
+        "popularity": 0.1689,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Lux",
+        "credit_id": "687322cfaf6b528508ed7f1a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3552821,
+        "known_for_department": "Crew",
+        "name": "Shana Bode",
+        "original_name": "Shana Bode",
+        "popularity": 0.1415,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Nina",
+        "credit_id": "687322dbf42b429bf0c09541",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4053671,
+        "known_for_department": "Acting",
+        "name": "Reagan E. Sanchez",
+        "original_name": "Reagan E. Sanchez",
+        "popularity": 0.1219,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Jess",
+        "credit_id": "687322ec42ca3ce553c5ba19",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3025964,
+        "known_for_department": "Art",
+        "name": "Brian Bode",
+        "original_name": "Brian Bode",
+        "popularity": 0.0863,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Brad",
+        "credit_id": "687322ffbb64f77f4570500b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5560831,
+        "known_for_department": "Acting",
+        "name": "Nikanor Kuroedov",
+        "original_name": "Nikanor Kuroedov",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "",
+        "credit_id": "6873230a0ad7681110ed7b82",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5560832,
+        "known_for_department": "Acting",
+        "name": "Prohor Kuroedov",
+        "original_name": "Prohor Kuroedov",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "",
+        "credit_id": "6873231448bea9d2d054241f",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3025947,
+        "known_for_department": "Directing",
+        "name": "Ryan Bode",
+        "original_name": "Ryan Bode",
+        "popularity": 0.1439,
+        "profile_path": "/dBqITuDOnaSUC9BhNOYz7VqKAZG.jpg",
+        "credit_id": "68731f94615b980443ba35a0",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3025947,
+        "known_for_department": "Directing",
+        "name": "Ryan Bode",
+        "original_name": "Ryan Bode",
+        "popularity": 0.1439,
+        "profile_path": "/dBqITuDOnaSUC9BhNOYz7VqKAZG.jpg",
+        "credit_id": "68731faa0cd7da9b2ea10dc2",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3025947,
+        "known_for_department": "Directing",
+        "name": "Ryan Bode",
+        "original_name": "Ryan Bode",
+        "popularity": 0.1439,
+        "profile_path": "/dBqITuDOnaSUC9BhNOYz7VqKAZG.jpg",
+        "credit_id": "68731fddb8e689a75954280c",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 3025946,
+        "known_for_department": "Directing",
+        "name": "Evan Bode",
+        "original_name": "Evan Bode",
+        "popularity": 0.1969,
+        "profile_path": "/qukf1vRUSJmM5qcIENVqg8b9n2F.jpg",
+        "credit_id": "68731feb787b8e0829ed7c46",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4053671,
+        "known_for_department": "Acting",
+        "name": "Reagan E. Sanchez",
+        "original_name": "Reagan E. Sanchez",
+        "popularity": 0.1219,
+        "profile_path": null,
+        "credit_id": "68731ff80944d3129dc5b8bb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3025947,
+        "known_for_department": "Directing",
+        "name": "Ryan Bode",
+        "original_name": "Ryan Bode",
+        "popularity": 0.1439,
+        "profile_path": "/dBqITuDOnaSUC9BhNOYz7VqKAZG.jpg",
+        "credit_id": "68732006bd99d15f10a10ddf",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3552821,
+        "known_for_department": "Crew",
+        "name": "Shana Bode",
+        "original_name": "Shana Bode",
+        "popularity": 0.1415,
+        "profile_path": null,
+        "credit_id": "6873201684aaa432fda10dd8",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3025964,
+        "known_for_department": "Art",
+        "name": "Brian Bode",
+        "original_name": "Brian Bode",
+        "popularity": 0.0863,
+        "profile_path": null,
+        "credit_id": "68732022dd25edf63370545b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4053685,
+        "known_for_department": "Lighting",
+        "name": "Megan Jensen",
+        "original_name": "Megan Jensen",
+        "popularity": 0.1896,
+        "profile_path": "/qnx6mlSG7eYN0PgMdfkkGIWqEXM.jpg",
+        "credit_id": "6873202e6d007f066d105a79",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4050296,
+        "known_for_department": "Sound",
+        "name": "Hayden Celentano",
+        "original_name": "Hayden Celentano",
+        "popularity": 0.1838,
+        "profile_path": "/37yZtA4fMIUkpDwiro4TLvKlQ4r.jpg",
+        "credit_id": "6873203ca00c171021ba36d9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4691543,
+        "known_for_department": "Directing",
+        "name": "Kyra Zabretsky",
+        "original_name": "Kyra Zabretsky",
+        "popularity": 0.0369,
+        "profile_path": null,
+        "credit_id": "6873204b2d2399db8c5423bf",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 4050295,
+        "known_for_department": "Directing",
+        "name": "Emma Baker",
+        "original_name": "Emma Baker",
+        "popularity": 0.1038,
+        "profile_path": "/gEEnMHiA9foN3VshqtYy0vxlABc.jpg",
+        "credit_id": "687320565a3c40c60054242c",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 3025946,
+        "known_for_department": "Directing",
+        "name": "Evan Bode",
+        "original_name": "Evan Bode",
+        "popularity": 0.1969,
+        "profile_path": "/qukf1vRUSJmM5qcIENVqg8b9n2F.jpg",
+        "credit_id": "687320de0cd7da9b2ea10dca",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5222918,
+        "known_for_department": "Writing",
+        "name": "Kate Ohlweiler",
+        "original_name": "Kate Ohlweiler",
+        "popularity": 0.032,
+        "profile_path": "/oOmnYVpuLnXhfxHdq5CpdG4JhsK.jpg",
+        "credit_id": "687320f5a2223230c3ed81c3",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4691570,
+        "known_for_department": "Production",
+        "name": "Sofia Dixon",
+        "original_name": "Sofia Dixon",
+        "popularity": 0.0313,
+        "profile_path": "/29rhKxTdIBY1HsZ2KPnSUFoqHsN.jpg",
+        "credit_id": "6873210283ac9d3426c5ba23",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4053673,
+        "known_for_department": "Camera",
+        "name": "Kimberly Edelson",
+        "original_name": "Kimberly Edelson",
+        "popularity": 0.0949,
+        "profile_path": "/hWd9dJCHEPCdWqk5PHWV4I7iHqf.jpg",
+        "credit_id": "687321382fd1232682705707",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4053688,
+        "known_for_department": "Camera",
+        "name": "Diag Govender",
+        "original_name": "Diag Govender",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "68732153a1aab494bc70525a",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3413689,
+        "known_for_department": "Acting",
+        "name": "Daniel Mohseni",
+        "original_name": "Daniel Mohseni",
+        "popularity": 0.1166,
+        "profile_path": null,
+        "credit_id": "68732162a2223230c3ed81ca",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5388717,
+        "known_for_department": "Camera",
+        "name": "Nicholas Bond",
+        "original_name": "Nicholas Bond",
+        "popularity": 0.0254,
+        "profile_path": "/nVZzAkWIJU3SX1b63BOAo6iNKPu.jpg",
+        "credit_id": "68732178e17f31dc2ba10dfa",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4053676,
+        "known_for_department": "Visual Effects",
+        "name": "Andrew Buzby",
+        "original_name": "Andrew Buzby",
+        "popularity": 0.139,
+        "profile_path": null,
+        "credit_id": "6873218597e7a847f2ed7be0",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4814818,
+        "known_for_department": "Acting",
+        "name": "Tyler Gonzalez",
+        "original_name": "Tyler Gonzalez",
+        "popularity": 0.0611,
+        "profile_path": null,
+        "credit_id": "6873219277c0fd3edcc094fe",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5445663,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Cici Modin",
+        "original_name": "Cici Modin",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "687321bb14a3ea9170a97e47",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4050299,
+        "known_for_department": "Art",
+        "name": "Sam Bray",
+        "original_name": "Sam Bray",
+        "popularity": 0.1201,
+        "profile_path": null,
+        "credit_id": "687321d90cd7da9b2ea10ddf",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 3025946,
+        "known_for_department": "Directing",
+        "name": "Evan Bode",
+        "original_name": "Evan Bode",
+        "popularity": 0.1969,
+        "profile_path": "/qukf1vRUSJmM5qcIENVqg8b9n2F.jpg",
+        "credit_id": "687321e7f75eacd43f105ca4",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5069638,
+        "known_for_department": "Directing",
+        "name": "Taylor Parris Benjamin",
+        "original_name": "Taylor Parris Benjamin",
+        "popularity": 0.1765,
+        "profile_path": null,
+        "credit_id": "687321fdd150c3cc65a981a6",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5069638,
+        "known_for_department": "Directing",
+        "name": "Taylor Parris Benjamin",
+        "original_name": "Taylor Parris Benjamin",
+        "popularity": 0.1765,
+        "profile_path": null,
+        "credit_id": "68732211dafe4ca7fbc09490",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3025947,
+        "known_for_department": "Directing",
+        "name": "Ryan Bode",
+        "original_name": "Ryan Bode",
+        "popularity": 0.1439,
+        "profile_path": "/dBqITuDOnaSUC9BhNOYz7VqKAZG.jpg",
+        "credit_id": "68732221ee498f21056ea9c7",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3025943,
+        "known_for_department": "Writing",
+        "name": "Mia Stegner",
+        "original_name": "Mia Stegner",
+        "popularity": 0.1036,
+        "profile_path": "/inVL9e3HRdsBlCqGTwrGivtujqY.jpg",
+        "credit_id": "6873222e615b980443ba35a3",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3025947,
+        "known_for_department": "Directing",
+        "name": "Ryan Bode",
+        "original_name": "Ryan Bode",
+        "popularity": 0.1439,
+        "profile_path": "/dBqITuDOnaSUC9BhNOYz7VqKAZG.jpg",
+        "credit_id": "6873223c17deb888f6ba36ab",
+        "department": "Editing",
+        "job": "Color Grading"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3025947,
+        "known_for_department": "Directing",
+        "name": "Ryan Bode",
+        "original_name": "Ryan Bode",
+        "popularity": 0.1439,
+        "profile_path": "/dBqITuDOnaSUC9BhNOYz7VqKAZG.jpg",
+        "credit_id": "6873224988dc95a8ddba3689",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3404556,
+        "known_for_department": "Acting",
+        "name": "Julian Nowik",
+        "original_name": "Julian Nowik",
+        "popularity": 0.0747,
+        "profile_path": null,
+        "credit_id": "6873226c2766d73ce6705243",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "http://www.ryan-bode.com",
+          "overview": "Lux searches for the eraser he needs to fix his drawing, but when his attempts to get his family's attention are ignored, he begins to disappear.",
+          "runtime": 10,
+          "tagline": "Who cares?",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt37545849",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/uwjISpGcdBldS6irjLjyTYntFwe.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2025-05-01T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

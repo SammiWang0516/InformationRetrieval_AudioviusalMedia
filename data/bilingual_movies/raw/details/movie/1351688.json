@@ -1,0 +1,915 @@
+{
+  "adult": false,
+  "backdrop_path": "/vPdWJJ00A1qVrsVpezb0yOM5AEM.jpg",
+  "belongs_to_collection": null,
+  "budget": 25000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1351688,
+  "imdb_id": "tt31911908",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Screamwalkers",
+  "overview": "Young CJ Wyatt is in the center of the strange killings in her home town. CJ learns that each of her friend's murders gets the killer one step closer to her discovering the terrifying truth of the mysterious \"Screamwalkers\"",
+  "popularity": 1.3191,
+  "poster_path": "/qx79WjMtfs1IrIUXbGQN9XbSOVI.jpg",
+  "production_companies": [
+    {
+      "id": 239827,
+      "logo_path": null,
+      "name": "Hangnail Films",
+      "origin_country": ""
+    },
+    {
+      "id": 239828,
+      "logo_path": null,
+      "name": "Clean Rocket Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-04-20",
+  "revenue": 0,
+  "runtime": 62,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "You’re gonna need more than nine lives",
+  "title": "Screamwalkers",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4959117,
+        "known_for_department": "Acting",
+        "name": "Glenn McBride Jr",
+        "original_name": "Glenn McBride Jr",
+        "popularity": 0.1708,
+        "profile_path": "/2rEOvAkBWDgVVpzm160IRI9NWqx.jpg",
+        "cast_id": 2,
+        "character": "Detective Penny",
+        "credit_id": "66f1e6777300a5ba213bc356",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 98692,
+        "known_for_department": "Acting",
+        "name": "Sasha Graham",
+        "original_name": "Sasha Graham",
+        "popularity": 0.3199,
+        "profile_path": "/umuXx0zYGrUKDgIvJCpCcvyn1Y8.jpg",
+        "cast_id": 3,
+        "character": "Faith Buchanan",
+        "credit_id": "66f1e6e3583c56cdb12636b8",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4959121,
+        "known_for_department": "Acting",
+        "name": "Elizabeth Davoli",
+        "original_name": "Elizabeth Davoli",
+        "popularity": 0.0979,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "CJ Wyatt",
+        "credit_id": "66f1e71c02208c67c88d5052",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4959126,
+        "known_for_department": "Acting",
+        "name": "Celia Spero",
+        "original_name": "Celia Spero",
+        "popularity": 0.0337,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Olivia",
+        "credit_id": "66f1e7afde2d52dfbd8d57c8",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4292691,
+        "known_for_department": "Directing",
+        "name": "Rose Stark",
+        "original_name": "Rose Stark",
+        "popularity": 0.1582,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Beth",
+        "credit_id": "66f1e7c87300a5ba213bc3b0",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4365002,
+        "known_for_department": "Acting",
+        "name": "Andy Rowell",
+        "original_name": "Andy Rowell",
+        "popularity": 0.4158,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Eddie Reed",
+        "credit_id": "66f1e7fdfc009839148d4fdc",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4959130,
+        "known_for_department": "Acting",
+        "name": "Will Puntarich",
+        "original_name": "Will Puntarich",
+        "popularity": 0.1189,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Catface/ Copcat  killer",
+        "credit_id": "66f1e84002208c67c88d50cd",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4959135,
+        "known_for_department": "Acting",
+        "name": "Jason Seidl",
+        "original_name": "Jason Seidl",
+        "popularity": 0.187,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Max",
+        "credit_id": "66f1e8bcfc009839148d5025",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4959138,
+        "known_for_department": "Acting",
+        "name": "James Taffurelli",
+        "original_name": "James Taffurelli",
+        "popularity": 0.1198,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Reporter",
+        "credit_id": "66f1e8f8a97880148f3b4a63",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4959139,
+        "known_for_department": "Acting",
+        "name": "Lindsay Defranco",
+        "original_name": "Lindsay Defranco",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Photographer",
+        "credit_id": "66f1e922c237258e4c26bbe6",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4959140,
+        "known_for_department": "Acting",
+        "name": "Liam Marsiglianno",
+        "original_name": "Liam Marsiglianno",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Student",
+        "credit_id": "66f1e94c7ff2bf57cd26d766",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4959143,
+        "known_for_department": "Acting",
+        "name": "Cassidy Rose O’Brien",
+        "original_name": "Cassidy Rose O’Brien",
+        "popularity": 0.0795,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Curious Student",
+        "credit_id": "66f1e9a1fc009839148d5091",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4481851,
+        "known_for_department": "Acting",
+        "name": "Sean Amato",
+        "original_name": "Sean Amato",
+        "popularity": 0.2742,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Student",
+        "credit_id": "66f1e9da583c56cdb12636f1",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4959150,
+        "known_for_department": "Acting",
+        "name": "Deanna Naja",
+        "original_name": "Deanna Naja",
+        "popularity": 0.1559,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Teevee Emilyee",
+        "credit_id": "66f1ea56a97880148f3b4ac6",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4959152,
+        "known_for_department": "Acting",
+        "name": "Kaitlyn Jehle",
+        "original_name": "Kaitlyn Jehle",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Student",
+        "credit_id": "66f1ea81c237258e4c26bc54",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4959157,
+        "known_for_department": "Acting",
+        "name": "Julia Devita",
+        "original_name": "Julia Devita",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Emily",
+        "credit_id": "66f1eaacc237258e4c26bc63",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1895021,
+        "known_for_department": "Directing",
+        "name": "Dino Castelli",
+        "original_name": "Dino Castelli",
+        "popularity": 0.1364,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Detective Barnes",
+        "credit_id": "66f1eaf27300a5ba213bc49f",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3381916,
+        "known_for_department": "Acting",
+        "name": "Forrest Bennett",
+        "original_name": "Forrest Bennett",
+        "popularity": 0.1964,
+        "profile_path": "/njmH42DXcC3jpkUv4UryoIzGGmq.jpg",
+        "cast_id": 20,
+        "character": "Photographer",
+        "credit_id": "66f1eb0c583c56cdb126374c",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4959168,
+        "known_for_department": "Acting",
+        "name": "Kristen Calhoun",
+        "original_name": "Kristen Calhoun",
+        "popularity": 0.0995,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Reporter",
+        "credit_id": "66f1eb3d7300a5ba213bc4c4",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4764429,
+        "known_for_department": "Crew",
+        "name": "Steve Sapienza",
+        "original_name": "Steve Sapienza",
+        "popularity": 0.0304,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Havanasu Knight",
+        "credit_id": "66f1eb5e583c56cdb126376d",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4959176,
+        "known_for_department": "Acting",
+        "name": "Aidan P. Finnegan",
+        "original_name": "Aidan P. Finnegan",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Steve",
+        "credit_id": "66f1ebcf583c56cdb12637c8",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2936328,
+        "known_for_department": "Visual Effects",
+        "name": "Matt J. Weir",
+        "original_name": "Matt J. Weir",
+        "popularity": 0.2993,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Amenhotep",
+        "credit_id": "66f1ec09a97880148f3b4b97",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4959179,
+        "known_for_department": "Acting",
+        "name": "Joe Winchell",
+        "original_name": "Joe Winchell",
+        "popularity": 0.1127,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Teevee Stevee",
+        "credit_id": "66f1ec2c02208c67c88d515f",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4959183,
+        "known_for_department": "Acting",
+        "name": "Grace Lovell",
+        "original_name": "Grace Lovell",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Partygoer",
+        "credit_id": "66f1ec646c3b7a8d648e026f",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4959190,
+        "known_for_department": "Acting",
+        "name": "Bob Heckman",
+        "original_name": "Bob Heckman",
+        "popularity": 0.1954,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Officer",
+        "credit_id": "66f1ec8f7300a5ba213bc584",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4185271,
+        "known_for_department": "Acting",
+        "name": "Pete Bune",
+        "original_name": "Pete Bune",
+        "popularity": 0.0469,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Partygoer",
+        "credit_id": "6938cf1a28d8390d0e06a05f",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4302700,
+        "known_for_department": "Acting",
+        "name": "Ed Huether",
+        "original_name": "Ed Huether",
+        "popularity": 0.0665,
+        "profile_path": "/6sYIlksFZ3Zzpr4cn1A3enzCBXV.jpg",
+        "cast_id": 38,
+        "character": "Detective Guthrie",
+        "credit_id": "6ab4243b0d9c8212963627cf",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6123539,
+        "known_for_department": "Acting",
+        "name": "Ariann Huether",
+        "original_name": "Ariann Huether",
+        "popularity": 0.0345,
+        "profile_path": "/8aMujiLdwq71oFDZIi2mida3GcR.jpg",
+        "cast_id": 39,
+        "character": "Detective Hankin",
+        "credit_id": "6ab4246760d90cf89de9e389",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3073018,
+        "known_for_department": "Acting",
+        "name": "Jen Elyse Feldy",
+        "original_name": "Jen Elyse Feldy",
+        "popularity": 0.0972,
+        "profile_path": "/6KDXkmslEJBcPVqcYKA0McC2Tb5.jpg",
+        "cast_id": 41,
+        "character": "Detective Mendez",
+        "credit_id": "6adf5ea8a011eef61d0d2534",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6576703,
+        "known_for_department": "Acting",
+        "name": "Bernard Jackson",
+        "original_name": "Bernard Jackson",
+        "popularity": 0.0643,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "Charlie Gotham",
+        "credit_id": "6adf5fad9d05994a41c18a79",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6576707,
+        "known_for_department": "Acting",
+        "name": "Arabelis Griffin",
+        "original_name": "Arabelis Griffin",
+        "popularity": 0.0695,
+        "profile_path": null,
+        "cast_id": 43,
+        "character": "Mrs. Penny",
+        "credit_id": "6adf5ff0ae833158a7866ee2",
+        "order": 30
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6576710,
+        "known_for_department": "Acting",
+        "name": "Talia Griffin",
+        "original_name": "Talia Griffin",
+        "popularity": 0.1346,
+        "profile_path": null,
+        "cast_id": 44,
+        "character": "Penny's Daughter",
+        "credit_id": "6adf601710408526303f3675",
+        "order": 31
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6576718,
+        "known_for_department": "Acting",
+        "name": "Hunter Freel",
+        "original_name": "Hunter Freel",
+        "popularity": 0.1089,
+        "profile_path": null,
+        "cast_id": 45,
+        "character": "Student",
+        "credit_id": "6adf60a367d9517f0c0d22dc",
+        "order": 32
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6576729,
+        "known_for_department": "Acting",
+        "name": "Joseph Jenkins",
+        "original_name": "Joseph Jenkins",
+        "popularity": 0.1283,
+        "profile_path": null,
+        "cast_id": 46,
+        "character": "Mummy Technician",
+        "credit_id": "6adf614e0d60159dfdc187b2",
+        "order": 33
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6576730,
+        "known_for_department": "Acting",
+        "name": "Juliet King",
+        "original_name": "Juliet King",
+        "popularity": 0.0771,
+        "profile_path": null,
+        "cast_id": 47,
+        "character": "Halloween Kid 1",
+        "credit_id": "6adf6192a6862cdf644d7987",
+        "order": 34
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6576736,
+        "known_for_department": "Acting",
+        "name": "Kristen King",
+        "original_name": "Kristen King",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 48,
+        "character": "Halloween Mom",
+        "credit_id": "6adf61cd6b432e5fe58670f1",
+        "order": 35
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6576750,
+        "known_for_department": "Acting",
+        "name": "Madilyn King",
+        "original_name": "Madilyn King",
+        "popularity": 0.0643,
+        "profile_path": null,
+        "cast_id": 49,
+        "character": "Halloween Kid 1",
+        "credit_id": "6adf62664173896705866dcc",
+        "order": 36
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6576754,
+        "known_for_department": "Acting",
+        "name": "Peter King",
+        "original_name": "Peter King",
+        "popularity": 0.0643,
+        "profile_path": null,
+        "cast_id": 50,
+        "character": "Halloween Dad",
+        "credit_id": "6adf6298a011eef61d0d258d",
+        "order": 37
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6576762,
+        "known_for_department": "Acting",
+        "name": "Kimberly Marsh Morales",
+        "original_name": "Kimberly Marsh Morales",
+        "popularity": 0.134,
+        "profile_path": null,
+        "cast_id": 51,
+        "character": "Student",
+        "credit_id": "6adf6321f1c99875774d7b26",
+        "order": 38
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6576771,
+        "known_for_department": "Acting",
+        "name": "Micheal Stewart",
+        "original_name": "Micheal Stewart",
+        "popularity": 0.1283,
+        "profile_path": null,
+        "cast_id": 52,
+        "character": "Student",
+        "credit_id": "6adf63b45a405ae1dae1e7aa",
+        "order": 39
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6576791,
+        "known_for_department": "Acting",
+        "name": "Lizbeth Urena",
+        "original_name": "Lizbeth Urena",
+        "popularity": 0.1089,
+        "profile_path": null,
+        "cast_id": 54,
+        "character": "Student",
+        "credit_id": "6adf64fbc745742c130d2463",
+        "order": 40
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6576797,
+        "known_for_department": "Acting",
+        "name": "Luke John Vanderputten",
+        "original_name": "Luke John Vanderputten",
+        "popularity": 0.0899,
+        "profile_path": null,
+        "cast_id": 55,
+        "character": "Partygoer",
+        "credit_id": "6adf6582bfe032b5bd4d7b97",
+        "order": 41
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6576801,
+        "known_for_department": "Acting",
+        "name": "Brandon Zachman",
+        "original_name": "Brandon Zachman",
+        "popularity": 0.1089,
+        "profile_path": null,
+        "cast_id": 56,
+        "character": "Partygoer",
+        "credit_id": "6adf65b9c745742c130d249d",
+        "order": 42
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4185274,
+        "known_for_department": "Acting",
+        "name": "Sean King",
+        "original_name": "Sean King",
+        "popularity": 0.1075,
+        "profile_path": null,
+        "credit_id": "66f1ecfa02208c67c88d51e8",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4959130,
+        "known_for_department": "Acting",
+        "name": "Will Puntarich",
+        "original_name": "Will Puntarich",
+        "popularity": 0.1189,
+        "profile_path": null,
+        "credit_id": "66f1ed230315b91f463b3de7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4959190,
+        "known_for_department": "Acting",
+        "name": "Bob Heckman",
+        "original_name": "Bob Heckman",
+        "popularity": 0.1954,
+        "profile_path": null,
+        "credit_id": "66f1ed676c3b7a8d648e0331",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4185274,
+        "known_for_department": "Acting",
+        "name": "Sean King",
+        "original_name": "Sean King",
+        "popularity": 0.1075,
+        "profile_path": null,
+        "credit_id": "66f1edb302208c67c88d52a6",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2936328,
+        "known_for_department": "Visual Effects",
+        "name": "Matt J. Weir",
+        "original_name": "Matt J. Weir",
+        "popularity": 0.2993,
+        "profile_path": null,
+        "credit_id": "66f1f0f0c237258e4c26bea9",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4959138,
+        "known_for_department": "Acting",
+        "name": "James Taffurelli",
+        "original_name": "James Taffurelli",
+        "popularity": 0.1198,
+        "profile_path": null,
+        "credit_id": "66f1f117a97880148f3b4d2e",
+        "department": "Art",
+        "job": "Prop Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1895021,
+        "known_for_department": "Directing",
+        "name": "Dino Castelli",
+        "original_name": "Dino Castelli",
+        "popularity": 0.1364,
+        "profile_path": null,
+        "credit_id": "66f1f145c237258e4c26bed7",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4185271,
+        "known_for_department": "Acting",
+        "name": "Pete Bune",
+        "original_name": "Pete Bune",
+        "popularity": 0.0469,
+        "profile_path": null,
+        "credit_id": "6938cf6e71a04ab41faf02ab",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4185274,
+        "known_for_department": "Acting",
+        "name": "Sean King",
+        "original_name": "Sean King",
+        "popularity": 0.1075,
+        "profile_path": null,
+        "credit_id": "6adf5cba06bf5cf1e34d784c",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6576778,
+        "known_for_department": "Sound",
+        "name": "Howard Chirlin",
+        "original_name": "Howard Chirlin",
+        "popularity": 0.1089,
+        "profile_path": null,
+        "credit_id": "6adf645f501db1aaeec189f0",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 193576,
+        "name": "shot on video"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Young CJ Wyatt is in the center of the strange killings in her home town. CJ learns that each of her friend's murders gets the killer one step closer to her discovering the terrifying truth of the mysterious \"Screamwalkers\"",
+          "runtime": 62,
+          "tagline": "You’re gonna need more than nine lives",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt31911908",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/vPdWJJ00A1qVrsVpezb0yOM5AEM.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.668,
+        "height": 1498,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/qx79WjMtfs1IrIUXbGQN9XbSOVI.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.704,
+        "height": 1000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/n0K1wm6KKd2D7ZhqbCmgnLUQtqD.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 704
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2024-04-20T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2024-04-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "SCREAMWALKERS Teaser Trailer - Horror Movie 2024",
+        "key": "xHjDJCX0DKo",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "66f4a5975e85b3b68ebe7738",
+        "published_at": "2023-12-22T18:06:19.000Z"
+      }
+    ]
+  }
+}

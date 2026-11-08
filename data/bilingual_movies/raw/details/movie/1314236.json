@@ -1,0 +1,584 @@
+{
+  "adult": false,
+  "backdrop_path": "/wGPSKbaJ2jljPbl7HqfyP0t4Nl.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1314236,
+  "imdb_id": "tt10127964",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Perspectiva",
+  "overview": "In the near future, technology will allow us to see what's going to happen in our lives, creating an illusion of future by using our memories and cognitive processes. LookApp is a brand new app that, for some money, can show you the right path. Aaron, although very aware of the harm and the number of addicted victims, uses it against warnings due to his suspicions about his girlfriend and best friend's affair.",
+  "popularity": 1.5206,
+  "poster_path": "/e7jW5JDUsXQAgmCgNSvi0vnKqkI.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2024-07-12",
+  "revenue": 0,
+  "runtime": 90,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Perspectiva",
+  "video": false,
+  "vote_average": 7.4,
+  "vote_count": 6,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4817680,
+        "known_for_department": "Acting",
+        "name": "Miriam Velasco",
+        "original_name": "Miriam Velasco",
+        "popularity": 0.0887,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Aura",
+        "credit_id": "668ba2379f3f305a639a0887",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4817674,
+        "known_for_department": "Directing",
+        "name": "Ben Blas",
+        "original_name": "Ben Blas",
+        "popularity": 0.1088,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Aarón",
+        "credit_id": "668ba24bf7da32d9c9813822",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4817681,
+        "known_for_department": "Acting",
+        "name": "Jonás Torres",
+        "original_name": "Jonás Torres",
+        "popularity": 0.133,
+        "profile_path": "/2ZHxzHVhJ1MouEy7TgAPxj2YHeB.jpg",
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "668ba277701a6a165dae6945",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4817678,
+        "known_for_department": "Acting",
+        "name": "Bárbara Carramolino",
+        "original_name": "Bárbara Carramolino",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "LookApp (voice)",
+        "credit_id": "668ba212f6b5539461ba5789",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4817683,
+        "known_for_department": "Camera",
+        "name": "Federico Taus",
+        "original_name": "Federico Taus",
+        "popularity": 0.1994,
+        "profile_path": null,
+        "credit_id": "668ba2d63b2aede96a74a191",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4817685,
+        "known_for_department": "Sound",
+        "name": "Iván Herranz",
+        "original_name": "Iván Herranz",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "668ba2fb58d6285cc30b1a7a",
+        "department": "Sound",
+        "job": "Sound Post Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4817687,
+        "known_for_department": "Directing",
+        "name": "Lidia Hernando",
+        "original_name": "Lidia Hernando",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "668ba349878e46293098cc62",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3488484,
+        "known_for_department": "Directing",
+        "name": "Alba Lozano",
+        "original_name": "Alba Lozano",
+        "popularity": 0.3774,
+        "profile_path": "/lWsnCFkgkcYWOhVuDhSh47o86Gc.jpg",
+        "credit_id": "668ba41a701a6a165dae694c",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4817674,
+        "known_for_department": "Directing",
+        "name": "Ben Blas",
+        "original_name": "Ben Blas",
+        "popularity": 0.1088,
+        "profile_path": null,
+        "credit_id": "668ba1a42b9866ad1fe5db45",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3207357,
+        "known_for_department": "Art",
+        "name": "Paloma Ambel",
+        "original_name": "Paloma Ambel",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "668ba321e98ae355c7ae6a69",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3488484,
+        "known_for_department": "Directing",
+        "name": "Alba Lozano",
+        "original_name": "Alba Lozano",
+        "popularity": 0.3774,
+        "profile_path": "/lWsnCFkgkcYWOhVuDhSh47o86Gc.jpg",
+        "credit_id": "668ba42fa20db35a9aba59c5",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2875111,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Alba Fernández",
+        "original_name": "Alba Fernández",
+        "popularity": 0.4868,
+        "profile_path": null,
+        "credit_id": "668ba36b5987a075ffba5b2a",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4817699,
+        "known_for_department": "Crew",
+        "name": "Helena O'Wolf",
+        "original_name": "Helena O'Wolf",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "668ba4ec3eb5984302eaeb21",
+        "department": "Crew",
+        "job": "Post Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4817684,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Christian Aguilera",
+        "original_name": "Christian Aguilera",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "credit_id": "668ba2ec8c4b8ddff40b1aa9",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4817688,
+        "known_for_department": "Camera",
+        "name": "Antonio Albalate",
+        "original_name": "Antonio Albalate",
+        "popularity": 0.0816,
+        "profile_path": "/mjEJoh6XtOL2qcGViFV2M5vDC1S.jpg",
+        "credit_id": "668ba4a025619790f23d2e98",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4817674,
+        "known_for_department": "Directing",
+        "name": "Ben Blas",
+        "original_name": "Ben Blas",
+        "popularity": 0.1088,
+        "profile_path": null,
+        "credit_id": "668ba1acf7da32d9c9813818",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4817686,
+        "known_for_department": "Directing",
+        "name": "Adrián Conde",
+        "original_name": "Adrián Conde",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "668ba33456e0ceff68ae6a79",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2872930,
+        "known_for_department": "Sound",
+        "name": "Álex Aller",
+        "original_name": "Álex Aller",
+        "popularity": 0.1823,
+        "profile_path": null,
+        "credit_id": "668ba2c1b5429be957eaef1d",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4566928,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Araceli Polanco",
+        "original_name": "Araceli Polanco",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "668ba35cf3d84cf1eb98c4cd",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4817697,
+        "known_for_department": "Sound",
+        "name": "Elias Benítez",
+        "original_name": "Elias Benítez",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "668ba4b5f6b5539461ba579f",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4817674,
+        "known_for_department": "Directing",
+        "name": "Ben Blas",
+        "original_name": "Ben Blas",
+        "popularity": 0.1088,
+        "profile_path": null,
+        "credit_id": "668ba5047f392210f0ae6491",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4218156,
+        "known_for_department": "Sound",
+        "name": "Nacho Roca",
+        "original_name": "Nacho Roca",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "668ba30adeb75d089a0b1a76",
+        "department": "Sound",
+        "job": "Sound Post Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4817698,
+        "known_for_department": "Camera",
+        "name": "Noah Raphael",
+        "original_name": "Noah Raphael",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "668ba4c74ef4130916ba5610",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4817674,
+        "known_for_department": "Directing",
+        "name": "Ben Blas",
+        "original_name": "Ben Blas",
+        "popularity": 0.1088,
+        "profile_path": null,
+        "credit_id": "668ba4f81e24b317e0ca22fc",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4817675,
+        "known_for_department": "Directing",
+        "name": "Guillermo González Lanchares",
+        "original_name": "Guillermo González Lanchares",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "66ec0e65000000000069c47b",
+        "department": "Directing",
+        "job": "Co-Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 310,
+        "name": "artificial intelligence (a.i.)"
+      },
+      {
+        "id": 244256,
+        "name": "near future"
+      },
+      {
+        "id": 281237,
+        "name": "independent film"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "En un futuro cercano, la tecnología permite ver lo que sucederá en nuestras vidas creando una ilusión de futuro mediante el uso de nuestros recuerdos y procesos cognitivos. LookApp es una aplicación que funciona con una IA completamente nueva que promete mostrarte dónde estarás y así poder tomar las decisiones correctas en el presente. Aarón, aunque es consciente del potencial daño y del creciente número de víctimas adictas a la App, decide descargarla en contra de las advertencias debido a sus sospechas sobre una posible aventura de su novia con su mejor amigo.",
+          "runtime": 102,
+          "tagline": "Cree en lo que puedes ver",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "MX",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "En un futuro cercano, la tecnología permite ver lo que sucederá en nuestras vidas creando una ilusión de futuro mediante el uso de nuestros recuerdos y procesos cognitivos. LookApp es una aplicación que funciona con una IA completamente nueva que promete mostrarte dónde estarás y así poder tomar las decisiones correctas en el presente. Aarón, aunque es consciente del potencial daño y del creciente número de víctimas adictas a la App, decide descargarla en contra de las advertencias debido a sus sospechas sobre una posible aventura de su novia con su mejor amigo.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "In the near future, technology will allow us to see what's going to happen in our lives, creating an illusion of future by using our memories and cognitive processes. LookApp is a brand new app that, for some money, can show you the right path. Aaron, although very aware of the harm and the number of addicted victims, uses it against warnings due to his suspicions about his girlfriend and best friend's affair.",
+          "runtime": 90,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "RU",
+        "iso_639_1": "ru",
+        "name": "Pусский",
+        "english_name": "Russian",
+        "data": {
+          "homepage": "",
+          "overview": "В ближайшем будущем технологии позволят нам видеть, что произойдет в нашей жизни, создавая иллюзию будущего с помощью наших воспоминаний и когнитивных процессов. LookApp - это новое приложение, которое за определенные деньги может указать вам верный путь. Аарон, хотя и прекрасно осведомлен о вреде и количестве жертв, пристрастившихся к приложению, использует его вопреки предупреждениям из-за своих подозрений относительно романа своей девушки и лучшего друга.",
+          "runtime": 101,
+          "tagline": "",
+          "title": "Перспектива"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt10127964",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1611,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/wGPSKbaJ2jljPbl7HqfyP0t4Nl.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2864
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1611,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/1NtufsvKgPgjq1tE77cu9W2OFb1.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2864
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1617,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/zsbqjV5woZs3tIGxYBFvO9Laluk.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2875
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/b15huS9SWf7hgMmjbAmFJ0mcwYx.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 720,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/joszUTf3MB9miIZ2uNSpFuREx7M.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1280
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/b5AZZuuUi7nPAsXWBiZfnfI6kaC.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/2J1T0AMPgNMRJNXtnRau2lDklqI.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/7kB4Mrd95UALIn3XAKYCKJvoeuk.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/6LlZ4V55qFKY7STlnK9PSOTNgKi.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      }
+    ],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "Filmin",
+            "release_date": "2024-07-12T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

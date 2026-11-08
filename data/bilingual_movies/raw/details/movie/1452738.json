@@ -1,0 +1,207 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1452738,
+  "imdb_id": null,
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_title": "Pronto",
+  "overview": "",
+  "popularity": 1.6294,
+  "poster_path": "/d4Li37x5TJrVAjFUF39eUmXsM3I.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2024-06-10",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Pronto",
+  "video": false,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5319474,
+        "known_for_department": "Acting",
+        "name": "Steven Zambrano González",
+        "original_name": "Steven Zambrano González",
+        "popularity": 0.0511,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Chico",
+        "credit_id": "67df4edbb8e0fea93407c262",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5322289,
+        "known_for_department": "Acting",
+        "name": "Alma Baez",
+        "original_name": "Alma Baez",
+        "popularity": 0.4267,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Chica",
+        "credit_id": "67df4f18e4a9c8690607baff",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5322291,
+        "known_for_department": "Directing",
+        "name": "Cristian Beltrán",
+        "original_name": "Cristian Beltrán",
+        "popularity": 0.3448,
+        "profile_path": null,
+        "credit_id": "67df4f4bb8e0fea93407c2a9",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5322297,
+        "known_for_department": "Directing",
+        "name": "Uriel Cueva",
+        "original_name": "Uriel Cueva",
+        "popularity": 0.265,
+        "profile_path": null,
+        "credit_id": "67df50a74ce07d684e07b931",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5112044,
+        "known_for_department": "Camera",
+        "name": "Josué Meza Torres",
+        "original_name": "Josué Meza Torres",
+        "popularity": 0.0487,
+        "profile_path": null,
+        "credit_id": "67df513ac0b4387a6ec70641",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5322299,
+        "known_for_department": "Camera",
+        "name": "Andrea Hernández",
+        "original_name": "Andrea Hernández",
+        "popularity": 0.4793,
+        "profile_path": null,
+        "credit_id": "67df51cd7d0565af0207b107",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4757955,
+        "known_for_department": "Editing",
+        "name": "Raul Morales",
+        "original_name": "Raul Morales",
+        "popularity": 0.0835,
+        "profile_path": null,
+        "credit_id": "67df5250210fa80a0f4d8741",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "MX",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Un joven sueña con convertirse en un gran cineasta, entonces una joven llega y le dice que pronto lo logrará.",
+          "runtime": 1,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 859,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/d4Li37x5TJrVAjFUF39eUmXsM3I.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 573
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "",
+            "release_date": "2024-06-10T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

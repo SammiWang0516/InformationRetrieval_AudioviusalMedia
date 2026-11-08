@@ -1,0 +1,515 @@
+{
+  "adult": false,
+  "backdrop_path": "/k408hAJk2Ti9k40bIrIFX2PrnD7.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 1354780,
+  "imdb_id": "tt33399867",
+  "origin_country": [
+    "ID"
+  ],
+  "original_language": "id",
+  "original_title": "Malam Pertobatan",
+  "overview": "In the 1980s, security forces carry out secret operations known as “Petrus” to suppress rampant thuggery, spreading terror among notorious figures like Baron, Pange, and Bedul. Baron grows even more fearful when he hears that Pange and Bedul have already fallen victim to these mysterious shootings. Determined to change his ways, he seeks to make amends with his mother and turn his life around for his girlfriend, Ratna. But will he get the chance?",
+  "popularity": 1.5053,
+  "poster_path": "/56TbDl3Blrpp1VxY5lzO9Pdjdst.jpg",
+  "production_companies": [
+    {
+      "id": 148904,
+      "logo_path": "/7ahZZHdZfaLPou4XX6NWCFgaBgw.png",
+      "name": "KlikFilm Studios",
+      "origin_country": "ID"
+    },
+    {
+      "id": 244408,
+      "logo_path": null,
+      "name": "Limelight Production",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ID",
+      "name": "Indonesia"
+    }
+  ],
+  "release_date": "2024-09-22",
+  "revenue": 0,
+  "runtime": 82,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Based on true events in 1982.",
+  "title": "Malam Pertobatan",
+  "video": false,
+  "vote_average": 5.2,
+  "vote_count": 2,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2095812,
+        "known_for_department": "Acting",
+        "name": "Kaan Lativan",
+        "original_name": "Muhammad Khan",
+        "popularity": 0.4845,
+        "profile_path": "/lJjEBY9c235CJtTb2MmJXtFWXmX.jpg",
+        "cast_id": 1,
+        "character": "Baron",
+        "credit_id": "66e008cc0000000000588633",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1817169,
+        "known_for_department": "Acting",
+        "name": "Zulfa Maharani",
+        "original_name": "Zulfa Maharani",
+        "popularity": 0.3631,
+        "profile_path": "/bqHdour1CH2adzNqY3KgorxBc3A.jpg",
+        "cast_id": 2,
+        "character": "Ratna",
+        "credit_id": "66e008d1950adab68a6df26f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3119150,
+        "known_for_department": "Acting",
+        "name": "Seteng \"Sadja\" Yuniawan",
+        "original_name": "Seteng \"Sadja\" Yuniawan",
+        "popularity": 1.0364,
+        "profile_path": "/fxpMEzlwOrCnMWCcZTOmy9HK70W.jpg",
+        "cast_id": 3,
+        "character": "Gombloh",
+        "credit_id": "66e008e07049474c9b6df29e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2625548,
+        "known_for_department": "Acting",
+        "name": "Satrya Ghozali",
+        "original_name": "Satrya Ghozali",
+        "popularity": 0.0886,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Henricus",
+        "credit_id": "66e008e836e654fc296cc433",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1571485,
+        "known_for_department": "Acting",
+        "name": "Helmy Wilson",
+        "original_name": "Helmy Wilson",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Sony",
+        "credit_id": "66e008f04f3b6cd77d4f7487",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4933912,
+        "known_for_department": "Acting",
+        "name": "Patrick Simandjuntak",
+        "original_name": "Patrick Simandjuntak",
+        "popularity": 0.1455,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Pange",
+        "credit_id": "66e00900ca33c5636a6cc44b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4735081,
+        "known_for_department": "Acting",
+        "name": "Nina R. Sartono",
+        "original_name": "Nina R. Sartono",
+        "popularity": 0.2309,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Ibu Baron",
+        "credit_id": "66e0090a4f3b6cd77d4f748e",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3947766,
+        "known_for_department": "Acting",
+        "name": "Dinar Roos",
+        "original_name": "Dinar Roos",
+        "popularity": 0.1764,
+        "profile_path": "/z8jUJQTn4HxnvaVC8WBl3Lj58u1.jpg",
+        "cast_id": 24,
+        "character": "Ibu Dinar",
+        "credit_id": "675c1b8a0d945f8c438e4d80",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3914230,
+        "known_for_department": "Acting",
+        "name": "Yesyta Mayzahra",
+        "original_name": "Yesyta Mayzahra",
+        "popularity": 0.0925,
+        "profile_path": "/gjF4fcmZ3cv5KBBscLyEkqLluZg.jpg",
+        "cast_id": 26,
+        "character": "Titis",
+        "credit_id": "675c2011f1bf7a60dff9da41",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5116656,
+        "known_for_department": "Acting",
+        "name": "Edward Oktavianus",
+        "original_name": "Edward Oktavianus",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Tukang Becak",
+        "credit_id": "675c203b591e61e1b0bf18b9",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1759889,
+        "known_for_department": "Directing",
+        "name": "Dyan Sunu Prastowo",
+        "original_name": "Dyan Sunu Prastowo",
+        "popularity": 0.6365,
+        "profile_path": "/AjiBEwJybv8Tcz3bWfLzXrQOYfd.jpg",
+        "credit_id": "66e0091aa6c2c880410d9b30",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2969334,
+        "known_for_department": "Production",
+        "name": "Agung Haryanto",
+        "original_name": "Agung Haryanto",
+        "popularity": 0.1673,
+        "profile_path": null,
+        "credit_id": "66e00937466766a0fa4f7665",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3856180,
+        "known_for_department": "Production",
+        "name": "Mala Shinta",
+        "original_name": "Mala Shinta",
+        "popularity": 0.2672,
+        "profile_path": null,
+        "credit_id": "66e0094304ebdffd7e0d9912",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1669462,
+        "known_for_department": "Writing",
+        "name": "Budhita Arini",
+        "original_name": "Budhita Arini",
+        "popularity": 0.2052,
+        "profile_path": null,
+        "credit_id": "66e009596ab3e35258f1bf7b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4545072,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ressy Quin Nada Ersa",
+        "original_name": "Ressy Quin Nada Ersa",
+        "popularity": 0.1645,
+        "profile_path": null,
+        "credit_id": "66e009630000000000a46974",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2774641,
+        "known_for_department": "Art",
+        "name": "Ade Gimbal",
+        "original_name": "Ade Gimbal",
+        "popularity": 0.0561,
+        "profile_path": null,
+        "credit_id": "66e0097a6290a7de1028df62",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4933914,
+        "known_for_department": "Editing",
+        "name": "Aditya Respati",
+        "original_name": "Aditya Respati",
+        "popularity": 0.245,
+        "profile_path": null,
+        "credit_id": "66e00994749436aa992ba5f4",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4933915,
+        "known_for_department": "Camera",
+        "name": "Hawin Prasetyo",
+        "original_name": "Hawin Prasetyo",
+        "popularity": 0.0369,
+        "profile_path": null,
+        "credit_id": "66e009a50000000000a46a88",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2861361,
+        "known_for_department": "Sound",
+        "name": "Asyari Yudhi Irvansyah",
+        "original_name": "Asyari Yudhi Irvansyah",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "66e009b97d37fd14c49241a1",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2440884,
+        "known_for_department": "Sound",
+        "name": "Adi Karno",
+        "original_name": "Adi Karno",
+        "popularity": 0.2564,
+        "profile_path": null,
+        "credit_id": "66e009c80000000000e8d2ad",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3433415,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ade Hirani Tohir",
+        "original_name": "Ade Hirani Tohir",
+        "popularity": 0.0948,
+        "profile_path": null,
+        "credit_id": "66e009d80000000000588384",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2561657,
+        "known_for_department": "Production",
+        "name": "Agus Basuki",
+        "original_name": "Agus Basuki",
+        "popularity": 0.2962,
+        "profile_path": null,
+        "credit_id": "674c873b654ee6144ac1d258",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2094102,
+        "known_for_department": "Production",
+        "name": "Gilang Numerouno",
+        "original_name": "Gilang Numerouno",
+        "popularity": 0.2502,
+        "profile_path": "/yhtygAcn5RBRm9Yp60oACI1WsrP.jpg",
+        "credit_id": "674c875a83912195675455f4",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3916428,
+        "known_for_department": "Production",
+        "name": "Rahmi Suzi Elvira",
+        "original_name": "Rahmi Suzi Elvira",
+        "popularity": 0.2601,
+        "profile_path": "/f9xX9Mf1jIK3P854uezxbTyb8Tn.jpg",
+        "credit_id": "674c876552a9951a00982221",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5093182,
+        "known_for_department": "Writing",
+        "name": "Ranang Aji SP",
+        "original_name": "Ranang Aji SP",
+        "popularity": 0.1366,
+        "profile_path": null,
+        "credit_id": "674c879eec9dd90a038d1f9a",
+        "department": "Writing",
+        "job": "Author"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "In the 1980s, security forces carry out secret operations known as “Petrus” to suppress rampant thuggery, spreading terror among notorious figures like Baron, Pange, and Bedul. Baron grows even more fearful when he hears that Pange and Bedul have already fallen victim to these mysterious shootings. Determined to change his ways, he seeks to make amends with his mother and turn his life around for his girlfriend, Ratna. But will he get the chance?",
+          "runtime": 82,
+          "tagline": "Based on true events in 1982.",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt33399867",
+    "wikidata_id": "Q134081049",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/k408hAJk2Ti9k40bIrIFX2PrnD7.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.707,
+        "height": 2245,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/56TbDl3Blrpp1VxY5lzO9Pdjdst.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1587
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "ID",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Jakarta World Cinema",
+            "release_date": "2024-09-22T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "13+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Jogja-NETPAC Asian Film Festival",
+            "release_date": "2024-12-04T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "KlikFilm",
+            "release_date": "2024-12-08T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer 'Malam Pertobatan' | 21 - 28 September 2024 di Jakarta World Cinema",
+        "key": "cPFgfA8nSCY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "66e8ffb382ff873f7d1e86de",
+        "published_at": "2024-09-07T13:17:42.000Z"
+      }
+    ]
+  }
+}

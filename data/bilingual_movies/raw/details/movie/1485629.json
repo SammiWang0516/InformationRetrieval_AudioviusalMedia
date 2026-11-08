@@ -1,0 +1,775 @@
+{
+  "adult": false,
+  "backdrop_path": "/v1O9TEwPSDW7VS19B2Ll8WpspXF.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1485629,
+  "imdb_id": "tt37018900",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Self-Help",
+  "overview": "A young woman infiltrates a dangerous self-actualization community after her mother becomes entangled with its enigmatic leader.",
+  "popularity": 0.7516,
+  "poster_path": "/iCZ1q8IjWxruK0UuNtk7lVFPh4D.jpg",
+  "production_companies": [
+    {
+      "id": 45415,
+      "logo_path": "/dQYSpnKnUPXGT5QP0IMYHCLz26y.png",
+      "name": "Mainframe Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-10-31",
+  "revenue": 0,
+  "runtime": 85,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "You’re not who you think you are.",
+  "title": "Self-Help",
+  "video": false,
+  "vote_average": 5.7,
+  "vote_count": 5,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 999325,
+        "known_for_department": "Acting",
+        "name": "Landry Bender",
+        "original_name": "Landry Bender",
+        "popularity": 0.944,
+        "profile_path": "/oyB2v2GuSkgZZk0cGzpf5Ix43kL.jpg",
+        "cast_id": 5,
+        "character": "Olivia",
+        "credit_id": "682f666de8b30a8cbb1c20bf",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4177,
+        "known_for_department": "Acting",
+        "name": "Jake Weber",
+        "original_name": "Jake Weber",
+        "popularity": 2.4574,
+        "profile_path": "/z1RTh4qvyMFha8nKd5Uw1dKwkZz.jpg",
+        "cast_id": 4,
+        "character": "Curtis Clark",
+        "credit_id": "682f6662918d28af6163f819",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 935720,
+        "known_for_department": "Acting",
+        "name": "Madison Lintz",
+        "original_name": "Madison Lintz",
+        "popularity": 1.7354,
+        "profile_path": "/rr6tpaVVdeYAmZKl509HCizYFwg.jpg",
+        "cast_id": 6,
+        "character": "Sophie",
+        "credit_id": "682f7bce5b3914339e413151",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 92728,
+        "known_for_department": "Acting",
+        "name": "Amy Hargreaves",
+        "original_name": "Amy Hargreaves",
+        "popularity": 1.0332,
+        "profile_path": "/j7daK6A4Hbw64jAuuecL4alIXIa.jpg",
+        "cast_id": 7,
+        "character": "Rebecca",
+        "credit_id": "682f7bd4e5b8d0641305418a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1468289,
+        "known_for_department": "Acting",
+        "name": "Erik Bloomquist",
+        "original_name": "Erik Bloomquist",
+        "popularity": 0.2689,
+        "profile_path": "/syxkZ7XEWsSYNfMWH4jE1LPdc57.jpg",
+        "cast_id": 8,
+        "character": "Owen",
+        "credit_id": "682f7bd9b5fd941a5c2b6066",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1796442,
+        "known_for_department": "Acting",
+        "name": "Carol Cadby",
+        "original_name": "Carol Cadby",
+        "popularity": 0.162,
+        "profile_path": "/OMSVk0f7eI2szjNV7Geyalf2Zy.jpg",
+        "cast_id": 9,
+        "character": "Joanne",
+        "credit_id": "682f7bdf82f6a8a71141313f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1527775,
+        "known_for_department": "Acting",
+        "name": "Blaque Fowler",
+        "original_name": "Blaque Fowler",
+        "popularity": 0.2609,
+        "profile_path": "/qx95tjYVYbg3aLHfPjmRaxvSttA.jpg",
+        "cast_id": 10,
+        "character": "Andy",
+        "credit_id": "682f7be51fa0c455ba72ec65",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1468291,
+        "known_for_department": "Acting",
+        "name": "Adam Weppler",
+        "original_name": "Adam Weppler",
+        "popularity": 0.2509,
+        "profile_path": "/5ttP9Dt3rbmqIusfhaIGWSnePwu.jpg",
+        "cast_id": 11,
+        "character": "Clown Man",
+        "credit_id": "682f7be95ab3679e36b6a4f7",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4522148,
+        "known_for_department": "Acting",
+        "name": "Marlee Eaton",
+        "original_name": "Marlee Eaton",
+        "popularity": 0.1337,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Young Olivia",
+        "credit_id": "687d70bcff26beb16372c86a",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2238174,
+        "known_for_department": "Acting",
+        "name": "Nikolay Moss",
+        "original_name": "Nikolay Moss",
+        "popularity": 0.4381,
+        "profile_path": "/uSyRGtI2Au0yhQdNPxwwR7dzR2b.jpg",
+        "cast_id": 21,
+        "character": "Brian",
+        "credit_id": "687d70c248ea55973355cfc4",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2451059,
+        "known_for_department": "Acting",
+        "name": "James Nash",
+        "original_name": "James Nash",
+        "popularity": 0.1447,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Derek",
+        "credit_id": "687d70c8a9c1f6893e38d775",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4097686,
+        "known_for_department": "Acting",
+        "name": "Annette Saunders",
+        "original_name": "Annette Saunders",
+        "popularity": 0.1214,
+        "profile_path": "/3lX9yCA8dTdxTnazi9kCUqOqacJ.jpg",
+        "cast_id": 23,
+        "character": "Maid",
+        "credit_id": "687d70ce7ba2f888ac55cdae",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3720239,
+        "known_for_department": "Acting",
+        "name": "Ira Carmichael",
+        "original_name": "Ira Carmichael",
+        "popularity": 0.0568,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Gate Agent",
+        "credit_id": "687d70d4a571086a4055cd98",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4986588,
+        "known_for_department": "Acting",
+        "name": "Larry Dwyer",
+        "original_name": "Larry Dwyer",
+        "popularity": 0.4075,
+        "profile_path": "/3rSJvNWsoyytQJvCsbzghOxvuZq.jpg",
+        "cast_id": 39,
+        "character": "Truth Ambassador Follower",
+        "credit_id": "69600811ec738a0c47b542ae",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1468289,
+        "known_for_department": "Acting",
+        "name": "Erik Bloomquist",
+        "original_name": "Erik Bloomquist",
+        "popularity": 0.2689,
+        "profile_path": "/syxkZ7XEWsSYNfMWH4jE1LPdc57.jpg",
+        "credit_id": "682f65fe4878da82ac344051",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1468289,
+        "known_for_department": "Acting",
+        "name": "Erik Bloomquist",
+        "original_name": "Erik Bloomquist",
+        "popularity": 0.2689,
+        "profile_path": "/syxkZ7XEWsSYNfMWH4jE1LPdc57.jpg",
+        "credit_id": "682f663f7099bcf1345ed55f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1524090,
+        "known_for_department": "Production",
+        "name": "Carson Bloomquist",
+        "original_name": "Carson Bloomquist",
+        "popularity": 0.2658,
+        "profile_path": "/xDks8355pftkfbGSZ4jLZ8OmgfI.jpg",
+        "credit_id": "682f7bfff8293a2498a85bc8",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1868048,
+        "known_for_department": "Crew",
+        "name": "Mike Magilnick",
+        "original_name": "Mike Magilnick",
+        "popularity": 0.0636,
+        "profile_path": null,
+        "credit_id": "685b076ba856b1d57306f0f0",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3292842,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Molly Farrell-Savage",
+        "original_name": "Molly Farrell-Savage",
+        "popularity": 0.1263,
+        "profile_path": null,
+        "credit_id": "685b07c93c499250628145e3",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1524090,
+        "known_for_department": "Production",
+        "name": "Carson Bloomquist",
+        "original_name": "Carson Bloomquist",
+        "popularity": 0.2658,
+        "profile_path": "/xDks8355pftkfbGSZ4jLZ8OmgfI.jpg",
+        "credit_id": "685b07de10324ea86e2ca4a3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1468289,
+        "known_for_department": "Acting",
+        "name": "Erik Bloomquist",
+        "original_name": "Erik Bloomquist",
+        "popularity": 0.2689,
+        "profile_path": "/syxkZ7XEWsSYNfMWH4jE1LPdc57.jpg",
+        "credit_id": "685b07f2978577c8668145b0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3113010,
+        "known_for_department": "Art",
+        "name": "Shane Meador",
+        "original_name": "Shane Meador",
+        "popularity": 0.0735,
+        "profile_path": null,
+        "credit_id": "685b08018e9efb3595d3c45f",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 999325,
+        "known_for_department": "Acting",
+        "name": "Landry Bender",
+        "original_name": "Landry Bender",
+        "popularity": 0.944,
+        "profile_path": "/oyB2v2GuSkgZZk0cGzpf5Ix43kL.jpg",
+        "credit_id": "68e79f3e4a4c741ca3d84e9a",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 225294,
+        "known_for_department": "Production",
+        "name": "Jerry Daigle",
+        "original_name": "Jerry Daigle",
+        "popularity": 0.1785,
+        "profile_path": null,
+        "credit_id": "68e79f4943eab7be205f62a8",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 92728,
+        "known_for_department": "Acting",
+        "name": "Amy Hargreaves",
+        "original_name": "Amy Hargreaves",
+        "popularity": 1.0332,
+        "profile_path": "/j7daK6A4Hbw64jAuuecL4alIXIa.jpg",
+        "credit_id": "68e79f52a364cdc097e6a66a",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2207920,
+        "known_for_department": "Production",
+        "name": "William Kay",
+        "original_name": "William Kay",
+        "popularity": 0.0559,
+        "profile_path": null,
+        "credit_id": "68e79f5cceda0dc405d84d1a",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4309475,
+        "known_for_department": "Production",
+        "name": "Tyler LaValley",
+        "original_name": "Tyler LaValley",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "68e79f6452b5a4328a5f61b1",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3735367,
+        "known_for_department": "Production",
+        "name": "Chris Woodward",
+        "original_name": "Chris Woodward",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "68e79f6e2d810570fc30be41",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1524090,
+        "known_for_department": "Production",
+        "name": "Carson Bloomquist",
+        "original_name": "Carson Bloomquist",
+        "popularity": 0.2658,
+        "profile_path": "/xDks8355pftkfbGSZ4jLZ8OmgfI.jpg",
+        "credit_id": "68e79f8154369a5c8eaa15d8",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1468289,
+        "known_for_department": "Acting",
+        "name": "Erik Bloomquist",
+        "original_name": "Erik Bloomquist",
+        "popularity": 0.2689,
+        "profile_path": "/syxkZ7XEWsSYNfMWH4jE1LPdc57.jpg",
+        "credit_id": "68e79f88d9c7043f694a9493",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3735369,
+        "known_for_department": "Production",
+        "name": "Nick Peciaro",
+        "original_name": "Nick Peciaro",
+        "popularity": 0.0633,
+        "profile_path": null,
+        "credit_id": "68e79f9054369a5c8eaa15db",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4309475,
+        "known_for_department": "Production",
+        "name": "Tyler LaValley",
+        "original_name": "Tyler LaValley",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "68e79fabe50d10ead7e6a827",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5131558,
+        "known_for_department": "Art",
+        "name": "Mark D'Agostino",
+        "original_name": "Mark D'Agostino",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68e79fc07de6320d66e6a60d",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5639706,
+        "known_for_department": "Editing",
+        "name": "Vlad Chernolyasov",
+        "original_name": "Vlad Chernolyasov",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "68e79fdd64ea7b4f6bb7abb9",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1210567,
+        "known_for_department": "Sound",
+        "name": "Haim Mazar",
+        "original_name": "Haim Mazar",
+        "popularity": 0.1854,
+        "profile_path": "/gdoS5KsPiCUdAcyiFdRvLAasVTI.jpg",
+        "credit_id": "69586689556134230fc37bdc",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 3335,
+        "name": "halloween"
+      },
+      {
+        "id": 6158,
+        "name": "cult"
+      },
+      {
+        "id": 11615,
+        "name": "internet"
+      },
+      {
+        "id": 18054,
+        "name": "self help guru"
+      },
+      {
+        "id": 159028,
+        "name": "cult leader"
+      },
+      {
+        "id": 195730,
+        "name": "self-help"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "A young woman infiltrates a dangerous self-actualization community after her mother becomes entangled with its enigmatic leader.",
+          "runtime": 85,
+          "tagline": "You’re not who you think you are.",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "CN",
+        "iso_639_1": "zh",
+        "name": "普通话",
+        "english_name": "Mandarin",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": "助己会"
+        }
+      },
+      {
+        "iso_3166_1": "SE",
+        "iso_639_1": "sv",
+        "name": "svenska",
+        "english_name": "Swedish",
+        "data": {
+          "homepage": "",
+          "overview": "En ung kvinna infiltrerar ett farligt självförverkligande-samhälle efter att hennes mamma trasslar in sig i dess gåtfulla ledare.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "NL",
+        "iso_639_1": "nl",
+        "name": "Nederlands",
+        "english_name": "Dutch",
+        "data": {
+          "homepage": "",
+          "overview": "Een jonge vrouw infiltreert in een gevaarlijke zelfontplooiingsgemeenschap nadat haar moeder verstrikt raakt met de raadselachtige leider van de gemeenschap.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "PT",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "homepage": "",
+          "overview": "Os membros de uma comunidade online clandestina participam num retiro secreto para enfrentarem os seus medos e recuperarem o seu sentido de identidade. Mal sabem eles que os métodos invulgares do seu enigmático líder podem ser mortais.",
+          "runtime": 85,
+          "tagline": "",
+          "title": "Auto-Ajuda"
+        }
+      },
+      {
+        "iso_3166_1": "SA",
+        "iso_639_1": "ar",
+        "name": "العربية",
+        "english_name": "Arabic",
+        "data": {
+          "homepage": "",
+          "overview": "تتسلّل شابة إلى مجتمع خطير لتحقيق الذات بعد أن تورّطت أمّها مع زعيمه الغامض.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt37018900",
+    "wikidata_id": "Q136673337",
+    "facebook_id": "mainframepictures",
+    "instagram_id": "mainframepictures",
+    "twitter_id": "mainframepics"
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1800,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/v1O9TEwPSDW7VS19B2Ll8WpspXF.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 3200
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/iCZ1q8IjWxruK0UuNtk7lVFPh4D.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/6KF6p7JsIouZHj3eOwbvZDARnvU.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/udr8fg9iFgjz7UdyXavzrsNkaou.jpg",
+        "vote_average": 0.0,
+        "vote_count": 1,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "FI",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Night Visions Film Festival",
+            "release_date": "2026-03-27T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "FrightFest",
+            "release_date": "2025-08-23T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Chattanooga Film Festival",
+            "release_date": "2025-06-22T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2025-10-31T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-06T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Self-Help | Horror Movie Trailer | Horror Brains",
+        "key": "MJHtYT6CYsI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "68ee8392d0b103bc3c283099",
+        "published_at": "2025-10-14T17:05:53.000Z"
+      }
+    ]
+  }
+}

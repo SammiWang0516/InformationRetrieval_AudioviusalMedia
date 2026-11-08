@@ -1,0 +1,508 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 1000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1250831,
+  "imdb_id": null,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Dearly Beloved",
+  "overview": "Three best friends uncover an unlikely connection when one friend discovers he has been dating the dead aunt of his other friend.",
+  "popularity": 1.8688,
+  "poster_path": "/9DC8kj6TS63MvW3IX24cD7qYil8.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-02-28",
+  "revenue": 0,
+  "runtime": 6,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "Dearly Beloved",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3826922,
+        "known_for_department": "Acting",
+        "name": "J.J. Carroll",
+        "original_name": "J.J. Carroll",
+        "popularity": 0.2456,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Richard \"Char-Burger\" Breuger",
+        "credit_id": "65dd580d24b3330185b6f058",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4559981,
+        "known_for_department": "Acting",
+        "name": "Josh Klaasen",
+        "original_name": "Josh Klaasen",
+        "popularity": 0.1895,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "David Needles",
+        "credit_id": "65dd58205c564e014978ba9e",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4559983,
+        "known_for_department": "Acting",
+        "name": "Wesley Tavares",
+        "original_name": "Wesley Tavares",
+        "popularity": 0.1371,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Earl Patowski",
+        "credit_id": "65dd583539549a01874f152c",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4559978,
+        "known_for_department": "Writing",
+        "name": "Nathan Johnson",
+        "original_name": "Nathan Johnson",
+        "popularity": 0.3683,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Fist Bump Guy",
+        "credit_id": "65dd584939549a01874f1544",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4708721,
+        "known_for_department": "Directing",
+        "name": "Charlie Call",
+        "original_name": "Charlie Call",
+        "popularity": 0.2949,
+        "profile_path": "/n1NX0H6FkGgkiSDI7xGucYMj1Yj.jpg",
+        "cast_id": 13,
+        "character": "Uncle Jack Patowski",
+        "credit_id": "66bfb7a650532dab3d489cb1",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4889986,
+        "known_for_department": "Acting",
+        "name": "Linda Leal",
+        "original_name": "Linda Leal",
+        "popularity": 0.1798,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Aunt Alice",
+        "credit_id": "66bfb841d8d8cb8dd949e626",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4559978,
+        "known_for_department": "Writing",
+        "name": "Nathan Johnson",
+        "original_name": "Nathan Johnson",
+        "popularity": 0.3683,
+        "profile_path": null,
+        "credit_id": "65dd574b719aeb017be790f8",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4057212,
+        "known_for_department": "Directing",
+        "name": "Kristin Dick",
+        "original_name": "Kristin Dick",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "65dd5918c92c5d017c478e4b",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3820537,
+        "known_for_department": "Camera",
+        "name": "Adam Crampsey",
+        "original_name": "Adam Crampsey",
+        "popularity": 0.1736,
+        "profile_path": null,
+        "credit_id": "65dd5762eea34d017db1c16a",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3820534,
+        "known_for_department": "Production",
+        "name": "Aaron Margosian",
+        "original_name": "Aaron Margosian",
+        "popularity": 0.1966,
+        "profile_path": null,
+        "credit_id": "65dd56fa9ae6130186749e65",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3608178,
+        "known_for_department": "Camera",
+        "name": "Cameron Chee",
+        "original_name": "Cameron Chee",
+        "popularity": 0.1768,
+        "profile_path": null,
+        "credit_id": "65dd58dfa894d601870caa70",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4559993,
+        "known_for_department": "Production",
+        "name": "Joshua Labata",
+        "original_name": "Joshua Labata",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "65dd58c524b3330162b6a545",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3820551,
+        "known_for_department": "Lighting",
+        "name": "Joshua-jerzy Vallesteros",
+        "original_name": "Joshua-jerzy Vallesteros",
+        "popularity": 0.0681,
+        "profile_path": null,
+        "credit_id": "65ea10346a2227014a94d15a",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4889999,
+        "known_for_department": "Camera",
+        "name": "Jin Kim",
+        "original_name": "Jin Kim",
+        "popularity": 0.1186,
+        "profile_path": null,
+        "credit_id": "66bfb9d248ba16e0209da5b6",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3314155,
+        "known_for_department": "Camera",
+        "name": "Connaly Akiyama",
+        "original_name": "Connaly Akiyama",
+        "popularity": 0.0469,
+        "profile_path": null,
+        "credit_id": "66bfba8a416d719312ad738c",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2585575,
+        "known_for_department": "Camera",
+        "name": "Gunnar Goding",
+        "original_name": "Gunnar Goding",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "66bfba3559f0d28d109a0f8d",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4057256,
+        "known_for_department": "Art",
+        "name": "Bella Gonzales",
+        "original_name": "Bella Gonzales",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "66bfbb6a4d615bc382489c4b",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3826908,
+        "known_for_department": "Editing",
+        "name": "Cole Deppe",
+        "original_name": "Cole Deppe",
+        "popularity": 0.0705,
+        "profile_path": null,
+        "credit_id": "66bfba63bee3f7737b9da5b6",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4471263,
+        "known_for_department": "Production",
+        "name": "Analei Song",
+        "original_name": "Analei Song",
+        "popularity": 0.0452,
+        "profile_path": "/fK3TlVGff4KUNTdaWW8R6mbsGS6.jpg",
+        "credit_id": "66bfb94ba632513e671f36a0",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3820544,
+        "known_for_department": "Directing",
+        "name": "Grace Kling",
+        "original_name": "Grace Kling",
+        "popularity": 0.1498,
+        "profile_path": null,
+        "credit_id": "66bfb9e445684eef572a95fc",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4471264,
+        "known_for_department": "Production",
+        "name": "Bailey Roberts",
+        "original_name": "Bailey Roberts",
+        "popularity": 0.0973,
+        "profile_path": null,
+        "credit_id": "66bfbb4b1ab0afa35e489d5a",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4057217,
+        "known_for_department": "Camera",
+        "name": "Micah Ten Pas",
+        "original_name": "Micah Ten Pas",
+        "popularity": 0.0676,
+        "profile_path": null,
+        "credit_id": "66bfba260000dc40c197c54a",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4890005,
+        "known_for_department": "Sound",
+        "name": "Ethan Nelson",
+        "original_name": "Ethan Nelson",
+        "popularity": 0.0706,
+        "profile_path": null,
+        "credit_id": "66bfbae7092dbdb4d49a0d8e",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4057207,
+        "known_for_department": "Sound",
+        "name": "Ryan Jachetta",
+        "original_name": "Ryan Jachetta",
+        "popularity": 0.1906,
+        "profile_path": null,
+        "credit_id": "66bfbb1a4bafe2aa5181b807",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4495239,
+        "known_for_department": "Directing",
+        "name": "Amabel Theophila",
+        "original_name": "Amabel Theophila",
+        "popularity": 0.0783,
+        "profile_path": null,
+        "credit_id": "66bfb9a9f973d6250181b774",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4890010,
+        "known_for_department": "Crew",
+        "name": "Josh Sallee",
+        "original_name": "Josh Sallee",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "66bfbba1142ef42c6581b7e3",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2599308,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Lauren Good",
+        "original_name": "Lauren Good",
+        "popularity": 0.2013,
+        "profile_path": null,
+        "credit_id": "66bfbb87142ef42c6581b7d5",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Three best friends uncover an unlikely connection when one friend discovers he has been dating the dead aunt of his other friend.",
+          "runtime": 6,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.75,
+        "height": 2304,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/9DC8kj6TS63MvW3IX24cD7qYil8.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1728
+      },
+      {
+        "aspect_ratio": 0.75,
+        "height": 2304,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/uxNH1xBdpbwXB9PaWPTKQK6RJvR.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1728
+      },
+      {
+        "aspect_ratio": 0.75,
+        "height": 2304,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/zP7dpl5PHv1hxLk97F4PKzpQIcJ.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1728
+      },
+      {
+        "aspect_ratio": 0.75,
+        "height": 2304,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/dXWXR7GOY4IbM3GH1it8jwToNSe.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1728
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "PG-13",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2024-02-28T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "PG-13",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2024-09-01T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

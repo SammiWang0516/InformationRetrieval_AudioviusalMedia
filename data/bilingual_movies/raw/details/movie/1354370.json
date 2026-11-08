@@ -1,0 +1,411 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1354370,
+  "imdb_id": "tt29291347",
+  "origin_country": [
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_title": "Vänta",
+  "overview": "",
+  "popularity": 1.2095,
+  "poster_path": "/bh40grxMRpK6CwVGDFOJTDoohhD.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "2024-10-03",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Wait",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1832686,
+        "known_for_department": "Acting",
+        "name": "Mimmi Cyon",
+        "original_name": "Mimmi Cyon",
+        "popularity": 0.2386,
+        "profile_path": "/fVKXQ5hXyvpzIOYNUPUKRugrqXj.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "66dec980d1e719bac8c26112",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4932349,
+        "known_for_department": "Acting",
+        "name": "Paterne Irumva",
+        "original_name": "Paterne Irumva",
+        "popularity": 0.3681,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "66dec98672bdc762b8c260c3",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2459707,
+        "known_for_department": "Acting",
+        "name": "Jason Iskander",
+        "original_name": "Jason Iskander",
+        "popularity": 0.4127,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "66dec98ebc4e592aed72df65",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4932350,
+        "known_for_department": "Acting",
+        "name": "Bartlomiej Klonowski",
+        "original_name": "Bartlomiej Klonowski",
+        "popularity": 0.1453,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "66dec9946b244965206d4f80",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4208367,
+        "known_for_department": "Acting",
+        "name": "Alessandro Knezevic",
+        "original_name": "Alessandro Knezevic",
+        "popularity": 0.0358,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "66dec99a40fd7809180464d8",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4932351,
+        "known_for_department": "Acting",
+        "name": "Omana Lundqvist Simbizi",
+        "original_name": "Omana Lundqvist Simbizi",
+        "popularity": 0.4188,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "66dec9a140fd7809180464e2",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2998881,
+        "known_for_department": "Directing",
+        "name": "Martin Jenefeldt",
+        "original_name": "Martin Jenefeldt",
+        "popularity": 0.1741,
+        "profile_path": null,
+        "credit_id": "66dec975d9e13d57fef61ae5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2998881,
+        "known_for_department": "Directing",
+        "name": "Martin Jenefeldt",
+        "original_name": "Martin Jenefeldt",
+        "popularity": 0.1741,
+        "profile_path": null,
+        "credit_id": "66dec9ab0bcea093a7789af1",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3966531,
+        "known_for_department": "Production",
+        "name": "Jonas Wessman",
+        "original_name": "Jonas Wessman",
+        "popularity": 0.1123,
+        "profile_path": null,
+        "credit_id": "66dec9b8c15358f3584c2d92",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1629812,
+        "known_for_department": "Production",
+        "name": "Marie Lagerkvist",
+        "original_name": "Marie Lagerkvist",
+        "popularity": 0.1444,
+        "profile_path": null,
+        "credit_id": "66dec9c13bbe2c7b486d534f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2281003,
+        "known_for_department": "Crew",
+        "name": "Robin Trolin",
+        "original_name": "Robin Trolin",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "66dec9cd1a6274862f9e0047",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3100331,
+        "known_for_department": "Editing",
+        "name": "Alicia Lundahl",
+        "original_name": "Alicia Lundahl",
+        "popularity": 0.1557,
+        "profile_path": null,
+        "credit_id": "66dec9d6c4812daab29ac419",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3799766,
+        "known_for_department": "Sound",
+        "name": "Mari-Louise Nilebrink",
+        "original_name": "Mari-Louise Nilebrink",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "66dec9e5f4c20e232c046400",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2306843,
+        "known_for_department": "Editing",
+        "name": "Martin Steinberg",
+        "original_name": "Martin Steinberg",
+        "popularity": 0.2356,
+        "profile_path": null,
+        "credit_id": "66dec9f78098633ddfee6d7f",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4932354,
+        "known_for_department": "Sound",
+        "name": "Daniel Kadawatha",
+        "original_name": "Daniel Kadawatha",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "66deca101d61a544c034689f",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3074379,
+        "known_for_department": "Sound",
+        "name": "Tove Lidman",
+        "original_name": "Tove Lidman",
+        "popularity": 0.0802,
+        "profile_path": "/fMHfvl2S0HD4mjcP0qKsF6ul8pY.jpg",
+        "credit_id": "66deca20400c5c39e99ac002",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4634147,
+        "known_for_department": "Sound",
+        "name": "Therese Gylfe",
+        "original_name": "Therese Gylfe",
+        "popularity": 0.1936,
+        "profile_path": "/6ZZO2famIk4Qi91vZB86KEL5tEs.jpg",
+        "credit_id": "66deca2ada706543f53adb1a",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4932356,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Lolita Robles Cholima",
+        "original_name": "Lolita Robles Cholima",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "66deca41877ab6800b72df8b",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4932356,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Lolita Robles Cholima",
+        "original_name": "Lolita Robles Cholima",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "66deca46d49a1f5c68346d64",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "CZ",
+        "iso_639_1": "cs",
+        "name": "Český",
+        "english_name": "Czech",
+        "data": {
+          "homepage": "",
+          "overview": "Co by člověk pro druhého neudělal. Navíc když je čerstvě zamilovaný. Mladá Sofia za dramatických okolností rychle získává životní lekci ve slepé důvěřivosti, když se omylem nechá zatáhnout do nelegálního obchodu. Krátký švédský snímek na minimální ploše buduje strhující napětí a ležérní setkání dvou kamarádek rychle proměňuje v severskou detektivku.",
+          "runtime": 11,
+          "tagline": "",
+          "title": "Počkej"
+        }
+      },
+      {
+        "iso_3166_1": "SE",
+        "iso_639_1": "sv",
+        "name": "svenska",
+        "english_name": "Swedish",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Wait"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt29291347",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/bh40grxMRpK6CwVGDFOJTDoohhD.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Part of Young & Short: Co by, kdyby?",
+            "release_date": "2024-10-03T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Nordisk Panorama",
+            "release_date": "2023-09-21T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

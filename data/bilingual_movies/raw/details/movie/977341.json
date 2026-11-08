@@ -1,0 +1,947 @@
+{
+  "adult": false,
+  "backdrop_path": "/jaB7VzHKoPm5U4ck0KsFJ75dqp3.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 977341,
+  "imdb_id": "tt19383190",
+  "origin_country": [
+    "FR",
+    "CH",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "The Fire Within: A Requiem for Katia and Maurice Krafft",
+  "overview": "Filmmaker Werner Herzog combs through the film archives of volcanologists Katia and Maurice Krafft to create a film that celebrates their legacy.",
+  "popularity": 1.4148,
+  "poster_path": "/i1LgOPrUq40dvCVo5oWX0XNqoQa.jpg",
+  "production_companies": [
+    {
+      "id": 34514,
+      "logo_path": "/9LMZ2TZjny38GZuvOqBfowtIqJX.png",
+      "name": "Brian Leith Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 66331,
+      "logo_path": "/n2gAOEA4q6bUiaHwo2mKWHGA1wm.png",
+      "name": "Bonne Pioche",
+      "origin_country": "FR"
+    },
+    {
+      "id": 80027,
+      "logo_path": null,
+      "name": "Titan Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "CH",
+      "name": "Switzerland"
+    }
+  ],
+  "release_date": "2024-05-09",
+  "revenue": 0,
+  "runtime": 85,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Fire Within: A Requiem for Katia and Maurice Krafft",
+  "video": false,
+  "vote_average": 7.8,
+  "vote_count": 36,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6818,
+        "known_for_department": "Directing",
+        "name": "Werner Herzog",
+        "original_name": "Werner Herzog",
+        "popularity": 2.029,
+        "profile_path": "/qKlz1oM482Xf0jTPfLiR6qXlLYK.jpg",
+        "cast_id": 4,
+        "character": "Narrator (voice)",
+        "credit_id": "63394e10ab1bc70097f3b674",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1701876,
+        "known_for_department": "Acting",
+        "name": "Maurice Krafft",
+        "original_name": "Maurice Krafft",
+        "popularity": 0.164,
+        "profile_path": "/kiC18Hy7ppBqlzFVZy5JbfVmI7s.jpg",
+        "cast_id": 18,
+        "character": "Self (archive footage)",
+        "credit_id": "68ff395173e1763a7f938dad",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1701875,
+        "known_for_department": "Acting",
+        "name": "Katia Krafft",
+        "original_name": "Katia Krafft",
+        "popularity": 0.3878,
+        "profile_path": "/sCxeZATCPoVfOsHQXQ151u9VJqL.jpg",
+        "cast_id": 19,
+        "character": "Self (archive footage)",
+        "credit_id": "68ff3959b2bee3e9eebbf6dd",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6818,
+        "known_for_department": "Directing",
+        "name": "Werner Herzog",
+        "original_name": "Werner Herzog",
+        "popularity": 2.029,
+        "profile_path": "/qKlz1oM482Xf0jTPfLiR6qXlLYK.jpg",
+        "credit_id": "62855a84bf09d10068e50dab",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1948379,
+        "known_for_department": "Directing",
+        "name": "Cédric Chabloz",
+        "original_name": "Cédric Chabloz",
+        "popularity": 0.1076,
+        "profile_path": null,
+        "credit_id": "63ab9c5b7ef3811f6084c67a",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3761052,
+        "known_for_department": "Production",
+        "name": "Mandy Leith",
+        "original_name": "Mandy Leith",
+        "popularity": 0.0577,
+        "profile_path": null,
+        "credit_id": "63ab9bce699fb7008a367227",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1675065,
+        "known_for_department": "Production",
+        "name": "Peter Lown",
+        "original_name": "Peter Lown",
+        "popularity": 0.1407,
+        "profile_path": null,
+        "credit_id": "63ab9be7076ce8008ad7c09e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1574000,
+        "known_for_department": "Editing",
+        "name": "Marco Capalbo",
+        "original_name": "Marco Capalbo",
+        "popularity": 0.1897,
+        "profile_path": null,
+        "credit_id": "63ab9b4e699fb7007df558f8",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1959874,
+        "known_for_department": "Production",
+        "name": "Cedric Magnin",
+        "original_name": "Cedric Magnin",
+        "popularity": 0.0413,
+        "profile_path": null,
+        "credit_id": "63ab9c03c8113d00c88e4c20",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54902,
+        "known_for_department": "Sound",
+        "name": "Ernst Reijseger",
+        "original_name": "Ernst Reijseger",
+        "popularity": 0.1496,
+        "profile_path": "/2G9WjjNbjTv3XkYmduUhIAN8zQJ.jpg",
+        "credit_id": "63ab9b1209dda40081bb053c",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6818,
+        "known_for_department": "Directing",
+        "name": "Werner Herzog",
+        "original_name": "Werner Herzog",
+        "popularity": 2.029,
+        "profile_path": "/qKlz1oM482Xf0jTPfLiR6qXlLYK.jpg",
+        "credit_id": "63ab9ab95ad76b00e6f6e9b2",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3847917,
+        "known_for_department": "Production",
+        "name": "Julien Dumont",
+        "original_name": "Julien Dumont",
+        "popularity": 0.0799,
+        "profile_path": null,
+        "credit_id": "63ab9baac56d2d00d840fa02",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2545471,
+        "known_for_department": "Production",
+        "name": "Alexandre Soullier",
+        "original_name": "Alexandre Soullier",
+        "popularity": 0.2128,
+        "profile_path": null,
+        "credit_id": "63ab9c22c56d2d0096d1f59d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3847921,
+        "known_for_department": "Production",
+        "name": "Jess Winteringham",
+        "original_name": "Jess Winteringham",
+        "popularity": 0.0359,
+        "profile_path": null,
+        "credit_id": "63ab9c8c09dda400ad9dd25d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27619,
+        "known_for_department": "Camera",
+        "name": "Henning Brümmer",
+        "original_name": "Henning Brümmer",
+        "popularity": 0.0999,
+        "profile_path": null,
+        "credit_id": "63c47464595a56007ea7db4d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 2587,
+        "name": "married couple"
+      },
+      {
+        "id": 2878,
+        "name": "scientific study"
+      },
+      {
+        "id": 3347,
+        "name": "volcano"
+      },
+      {
+        "id": 5565,
+        "name": "biography"
+      },
+      {
+        "id": 9672,
+        "name": "based on true story"
+      },
+      {
+        "id": 7051,
+        "name": "volcanology"
+      },
+      {
+        "id": 154866,
+        "name": "archive footage"
+      },
+      {
+        "id": 163398,
+        "name": "volcanic eruption"
+      },
+      {
+        "id": 181239,
+        "name": "scientific expedition"
+      },
+      {
+        "id": 191519,
+        "name": "scientist hero"
+      },
+      {
+        "id": 206708,
+        "name": "forces of nature"
+      },
+      {
+        "id": 221355,
+        "name": "nature documentary"
+      },
+      {
+        "id": 228384,
+        "name": "female scientist"
+      },
+      {
+        "id": 239155,
+        "name": "planet earth"
+      },
+      {
+        "id": 239356,
+        "name": "scientist heroine"
+      },
+      {
+        "id": 242164,
+        "name": "scientific research"
+      },
+      {
+        "id": 268830,
+        "name": "life and career"
+      },
+      {
+        "id": 295812,
+        "name": "testimony"
+      },
+      {
+        "id": 325892,
+        "name": "science documentary"
+      },
+      {
+        "id": 345747,
+        "name": "biographical documentary"
+      },
+      {
+        "id": 347743,
+        "name": "scientific exploration"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "",
+          "overview": "Dokumentarfilm über die französischen Vulkanologen Katia und Maurice Krafft",
+          "runtime": 84,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Filmmaker Werner Herzog combs through the film archives of volcanologists Katia and Maurice Krafft to create a film that celebrates their legacy.",
+          "runtime": 85,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "KR",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말",
+        "english_name": "Korean",
+        "data": {
+          "homepage": "",
+          "overview": "1991년 6월 3일, 일본의 운젠 화산이 폭발하고 43명의 목숨을 앗아간다. 희생자들 중에는 프랑스의 화산학자 부부인 카티아와 모리스 크래프트도 포함되어 있었다. \"인페르노 속으로\"(2016)를 만들며 베르너 헤어조크 감독은 이들의 이야기에 매혹된다. 화산의 놀라운 풍경을 극히 가까운 거리에서 담은 사진과 영상으로 유명했던 그들이 남긴 200시간 분량의 푸티지를 바탕으로 그들에게 바치는 진혼곡을 만든다.",
+          "runtime": 86,
+          "tagline": "",
+          "title": "불 속의 연인: 카티아와 모리스 크래프트를 위한 진혼곡"
+        }
+      },
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "En s’emparant des captivantes archives cinématographiques des volcanologues Katia et Maurice Krafft, Werner Herzog célèbre avec poésie la vie, brutalement interrompue en 1991, de deux chercheurs et preneurs d’images à l’oeuvre unique.",
+          "runtime": 81,
+          "tagline": "",
+          "title": "Au cœur des volcans : Requiem pour Katia et Maurice Krafft"
+        }
+      },
+      {
+        "iso_3166_1": "CN",
+        "iso_639_1": "zh",
+        "name": "普通话",
+        "english_name": "Mandarin",
+        "data": {
+          "homepage": "",
+          "overview": "　　讲述了法国著名“火山夫妇”卡蒂亚和莫里斯的故事。卡蒂亚和莫里斯是火山学家，两人自幼爱上了火山，相同的志向与爱好让他们走到了一起。他们的一生致力于活火山研究，足迹遍及世界上所有的火山。1991年，两人登上了日本的云仙岳火山，葬身于突然爆发的火山之中。卡蒂亚和莫里斯留下了大量的录像档案，在抢救下来的影像资料中，可以看到即使在生命的最后一刻，他们还在做记录，播报着火山的喷发。",
+          "runtime": 0,
+          "tagline": "",
+          "title": "心火：写给火山夫妇的安魂曲"
+        }
+      },
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Werner Herzog rinde homenaje a los Krafft, una pareja de vulcanólogos franceses que falleció en las faldas del Monte Unzen, a través de las más de 200 horas de grabación que nos legaron.",
+          "runtime": 81,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "BR",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 84,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "IL",
+        "iso_639_1": "he",
+        "name": "עִבְרִית",
+        "english_name": "Hebrew",
+        "data": {
+          "homepage": "",
+          "overview": "סרטו עוצר הנשימה של ורנר הרצוג על זוג חוקרי הרי הגעש הצרפתיים – קטיה קראפט ו-מוריס קראפט. ב-3 ביוני, 1991, בשעה 15:18 התחילה להתפרץ מהר הגעש הפעיל אונזן, שבקיושו, יפן, זרימה פירוקלסטית – ענן של גזים וחלקיקים מחוממים שגולש במהירות של יותר מ-100 קמ”ש מלוע הר הגעש, ומכלה את כל מה שנקרה בדרכו. קראפט, הוולקנולוגים ויוצרי הקולנוע הצרפתים, נהרגו מיד – הם היו קרובים מדי. בני הזוג השאירו ארכיון של למעלה מ-200 שעות צילום חסרות תקדים ביופיים המרהיב והמהפנט.",
+          "runtime": 81,
+          "tagline": "",
+          "title": "האש שבפנים"
+        }
+      },
+      {
+        "iso_3166_1": "TW",
+        "iso_639_1": "zh",
+        "name": "普通话",
+        "english_name": "Mandarin",
+        "data": {
+          "homepage": "",
+          "overview": "火山學家夫妻檔卡蒂亞與莫里斯，翻山越嶺走訪世界各地，為火山留下難能可貴的紀錄。1991年，兩人在觀測時命喪於日本雲仙岳飛散的碎屑流中，留下大量的影像檔案素材，荷索就從這宿命性的死亡揭開故事序章。極具作者標誌性的旁白畫外音，搭配壯闊宏偉的古典樂章，磅礡且詩意地帶領觀眾看見夫妻倆所見證的景致。本是科學研究用的影像，在大師的精巧詮釋下，彷彿活出嶄新生命。",
+          "runtime": 0,
+          "tagline": "",
+          "title": "獻給火山戀人的安魂曲"
+        }
+      },
+      {
+        "iso_3166_1": "CZ",
+        "iso_639_1": "cs",
+        "name": "Český",
+        "english_name": "Czech",
+        "data": {
+          "homepage": "",
+          "overview": "Francouzský pár strávil dvě desetiletí natáčením průkopnických záběrů lávy a popela. Láska k soptícím obrům se jim však v roce 1991 stala osudnou.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Rekviem za manžele Krafftovy"
+        }
+      },
+      {
+        "iso_3166_1": "SE",
+        "iso_639_1": "sv",
+        "name": "svenska",
+        "english_name": "Swedish",
+        "data": {
+          "homepage": "",
+          "overview": "De legendariska vulkanforskarna Katia och Maurice Krafft dog i juni 1991 då de kom för nära ett vulkanutbrott. Ett moln av extremheta gaser och partiklar kom emot dem med en hastighet av 160 km/tim. De dog omedelbart. Efter sig lämnade de ett rikt arkiv av filmer från vulkaner de studerat. Det här är Werner Herzogs hyllning av deras liv.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Vulkanjägarna - den inre elden"
+        }
+      },
+      {
+        "iso_3166_1": "HK",
+        "iso_639_1": "zh",
+        "name": "普通话",
+        "english_name": "Mandarin",
+        "data": {
+          "homepage": "",
+          "overview": "火山學家夫妻檔卡蒂亞與莫里斯，翻山越嶺走訪世界各地，為火山留下難能可貴的紀錄。1991 年，兩人在觀測時命喪於日本雲仙岳飛散的碎屑流中，留下大量的影像檔案素材，荷索就從這宿命性的死亡揭開故事序章。極具作者標誌性的旁白畫外音，搭配壯闊宏偉的古典樂章，磅礡且詩意地帶領觀眾看見夫妻倆所見證的景緻。本是科學研究用的影像，在大師的精巧詮釋下，彷彿活出嶄新生命。",
+          "runtime": 0,
+          "tagline": "",
+          "title": "獻給火山戀人的安魂曲"
+        }
+      },
+      {
+        "iso_3166_1": "NL",
+        "iso_639_1": "nl",
+        "name": "Nederlands",
+        "english_name": "Dutch",
+        "data": {
+          "homepage": "",
+          "overview": "Filmmaker Werner Herzog pluist de filmarchieven van vulkanologen Katia en Maurice Krafft uit om een ​​film te maken die hun nalatenschap eert.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "SA",
+        "iso_639_1": "ar",
+        "name": "العربية",
+        "english_name": "Arabic",
+        "data": {
+          "homepage": "",
+          "overview": "يغوص مخرج شهير في أرشيف زوجين من علماء البراكين قضيا حياتهما في تصوير الثورات البركانية، ليصنع فيلمًا يحتفي بإرثهما.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "CZ",
+        "title": "Oheň uvnitř: Requiem za Katiu a Maurice Krafftovy",
+        "type": "festival title"
+      },
+      {
+        "iso_3166_1": "DE",
+        "title": "Die innere Glut: Requiem für Katia and Maurice Krafft",
+        "type": "alternative title"
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "The Fire Within: A Requiem for Katia and Maurice Krafft",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "TW",
+        "title": "獻給火山戀人的安魂曲",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "MX",
+        "title": "Fuego interior: Réquiem para Katia y Maurice Krafft",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt19383190",
+    "wikidata_id": "Q114200183",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 720,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/jaB7VzHKoPm5U4ck0KsFJ75dqp3.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1280
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/86mnLpEiCxpASsfuJhaBN6kfX93.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/6Ud5JQBEd3z0IraJ7jFbaUC4vKs.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/aH2S6WJ2hzC4sba5VOig4eatb2g.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1023,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/aEXlowYNXqapJl728ZVSeQhHpAr.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1819
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 720,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/8NaGDOidQ86M0ZL0Hogh86tp1Y0.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1280
+      },
+      {
+        "aspect_ratio": 1.78,
+        "height": 899,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/jVjTVpyl6jHoOfIHcwxDuHtt3OY.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1600
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 900,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/kKXlhlVX62OVnr5EmVyW2u47DVF.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1600
+      },
+      {
+        "aspect_ratio": 1.777,
+        "height": 1103,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/okFfcmAmzaDT0M4oEK3MP3oCg5k.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1960
+      }
+    ],
+    "logos": [
+      {
+        "aspect_ratio": 1.352,
+        "height": 162,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/nDoyV9NCTCkI1cuFH5HY87Oezqv.png",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 219
+      },
+      {
+        "aspect_ratio": 1.253,
+        "height": 1596,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/4XVg9qxgkNeaaoU38XhySDs3NYf.png",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1999
+      },
+      {
+        "aspect_ratio": 3.333,
+        "height": 123,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/eb1kWyya2FsacGlp9TZSjmVGQvW.png",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 410
+      }
+    ],
+    "posters": [
+      {
+        "aspect_ratio": 0.68,
+        "height": 1000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/i1LgOPrUq40dvCVo5oWX0XNqoQa.jpg",
+        "vote_average": 3.334,
+        "vote_count": 2,
+        "width": 680
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1080,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/9MmalcumZo0Xiw4eVT3VSewR0CM.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 720
+      },
+      {
+        "aspect_ratio": 0.704,
+        "height": 1200,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/65mOE3A3IYNCHDLJ2dVGN9UsO9m.jpg",
+        "vote_average": 2.278,
+        "vote_count": 3,
+        "width": 845
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1080,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/vYqTGF37LK4lKfeAFqbLfqgH2UT.jpg",
+        "vote_average": 1.222,
+        "vote_count": 3,
+        "width": 720
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1080,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/yul1SEym8kXNFRFScVyVCnMccp8.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 720
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/jtEGc5XAibdNnHjsAjW79x946AE.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 720
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Beijing International Film Festival",
+            "release_date": "2026-04-16T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-12-18T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-09-24T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Arte",
+            "release_date": "2022-10-01T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Sheffield DocFest",
+            "release_date": "2022-06-26T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "12A",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-05-09T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DMZ International Documentary Film Festival",
+            "release_date": "2022-09-23T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "",
+            "release_date": "2024-05-09T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Doclisboa",
+            "release_date": "2022-10-09T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TW",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Taipei Golden Horse Film Festival",
+            "release_date": "2023-11-09T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Telluride Film Festival",
+            "release_date": "2022-09-05T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DOC NYC",
+            "release_date": "2022-11-08T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2022-07-17T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Fire Within: Requiem for Katia and Maurice Krafft Trailer",
+        "key": "8SIUeLphLyI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "62c491f42bcf67004c1a9b91",
+        "published_at": "2022-05-31T10:00:35.000Z"
+      }
+    ]
+  }
+}

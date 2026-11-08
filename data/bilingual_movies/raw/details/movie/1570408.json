@@ -1,0 +1,513 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 1570408,
+  "imdb_id": null,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Upstanding Millars (of Society)",
+  "overview": "The Millars - Malta's most prominent artists and philanthropists - are winding down after celebrating their gold wedding anniversary, when they're interrupted by a knock in the middle of the night. A man humbly asks for their help. The Millars oblige, because their charity is bottomless - but so is their need to make art.",
+  "popularity": 0.771,
+  "poster_path": "/n9ZUCxChL4yCuwis1VEaV5TM7PP.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2025-11-01",
+  "revenue": 0,
+  "runtime": 14,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "The Millars. Salt of the Earth.",
+  "title": "The Upstanding Millars (of Society)",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2948744,
+        "known_for_department": "Acting",
+        "name": "Stephen Oliver",
+        "original_name": "Stephen Oliver",
+        "popularity": 0.3587,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Henry Millar",
+        "credit_id": "6900d22fc063bd436d3c01b0",
+        "order": 0
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5651670,
+        "known_for_department": "Acting",
+        "name": "Jeanette Smith",
+        "original_name": "Jeanette Smith",
+        "popularity": 0.0,
+        "profile_path": "/vbgEdSO89cnyMxr8KqtB28u63mb.jpg",
+        "cast_id": 2,
+        "character": "Celeste Millar",
+        "credit_id": "6900d24a71d570f2b23c00c0",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5779446,
+        "known_for_department": "Acting",
+        "name": "Maria Laura Vella Clark",
+        "original_name": "Maria Laura Vella Clark",
+        "popularity": 0.2279,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Journalist",
+        "credit_id": "6900d261c43d0599e293933b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4803212,
+        "known_for_department": "Acting",
+        "name": "Jonathan Vella",
+        "original_name": "Jonathan Vella",
+        "popularity": 0.1693,
+        "profile_path": "/uRqDedW4aQNmq5RS5gqSQTCaXm4.jpg",
+        "cast_id": 4,
+        "character": "Thomas",
+        "credit_id": "6900d2723b8126e622276711",
+        "order": 3
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 4953153,
+        "known_for_department": "Acting",
+        "name": "Eoin Kennedy",
+        "original_name": "Eoin Kennedy",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Fr Jacob McVeigh",
+        "credit_id": "6900d28acd4a8ddb15fb797f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5779449,
+        "known_for_department": "Acting",
+        "name": "Mark Anthony Bellizzi",
+        "original_name": "Mark Anthony Bellizzi",
+        "popularity": 0.1423,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Young Man",
+        "credit_id": "6900d2df1296e64ea43c0178",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5532400,
+        "known_for_department": "Acting",
+        "name": "Bernadette Grech",
+        "original_name": "Bernadette Grech",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "6900d2fe0890ed3f3a4e9226",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5779450,
+        "known_for_department": "Acting",
+        "name": "Cedric Fonk",
+        "original_name": "Cedric Fonk",
+        "popularity": 0.0756,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "6900d309075355b421c3e123",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5763116,
+        "known_for_department": "Production",
+        "name": "Jean Louis Fenech",
+        "original_name": "Jean Louis Fenech",
+        "popularity": 0.1511,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "",
+        "credit_id": "6900d315b9804d36a993934a",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5779453,
+        "known_for_department": "Acting",
+        "name": "Hazel Kennedy",
+        "original_name": "Hazel Kennedy",
+        "popularity": 0.1625,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "",
+        "credit_id": "6900d31f1c72bb22af939855",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5522277,
+        "known_for_department": "Editing",
+        "name": "Franco Rizzo",
+        "original_name": "Franco Rizzo",
+        "popularity": 0.0748,
+        "profile_path": "/nFQKyJsE5COOBgzNq1PdpmIis07.jpg",
+        "credit_id": "6900d34b85c21e21063c01c4",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5651703,
+        "known_for_department": "Writing",
+        "name": "Laura Chantler",
+        "original_name": "Laura Chantler",
+        "popularity": 0.3352,
+        "profile_path": null,
+        "credit_id": "6900d359fc794179504e91a8",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5651705,
+        "known_for_department": "Writing",
+        "name": "Franco Rizzo",
+        "original_name": "Franco Rizzo",
+        "popularity": 0.1067,
+        "profile_path": null,
+        "credit_id": "6900d368a231818d713c0299",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5522277,
+        "known_for_department": "Editing",
+        "name": "Franco Rizzo",
+        "original_name": "Franco Rizzo",
+        "popularity": 0.0748,
+        "profile_path": "/nFQKyJsE5COOBgzNq1PdpmIis07.jpg",
+        "credit_id": "6900d39b0be636983aa63874",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5779471,
+        "known_for_department": "Camera",
+        "name": "Luke Vella Clark",
+        "original_name": "Luke Vella Clark",
+        "popularity": 0.096,
+        "profile_path": null,
+        "credit_id": "6900d3ae85c21e21063c01d1",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5779475,
+        "known_for_department": "Art",
+        "name": "Richard Starkey",
+        "original_name": "Richard Starkey",
+        "popularity": 0.0692,
+        "profile_path": null,
+        "credit_id": "6900d3dbf04d333db3da06c2",
+        "department": "Art",
+        "job": "Assistant Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5532400,
+        "known_for_department": "Acting",
+        "name": "Bernadette Grech",
+        "original_name": "Bernadette Grech",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "6900d3f84b781d18059fb8af",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5763116,
+        "known_for_department": "Production",
+        "name": "Jean Louis Fenech",
+        "original_name": "Jean Louis Fenech",
+        "popularity": 0.1511,
+        "profile_path": null,
+        "credit_id": "6900d40980b5198765c3e127",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5651700,
+        "known_for_department": "Production",
+        "name": "Emma Brownrigg Fenech",
+        "original_name": "Emma Brownrigg Fenech",
+        "popularity": 0.1053,
+        "profile_path": null,
+        "credit_id": "6900d41c889df0b33f4e92b1",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5651703,
+        "known_for_department": "Writing",
+        "name": "Laura Chantler",
+        "original_name": "Laura Chantler",
+        "popularity": 0.3352,
+        "profile_path": null,
+        "credit_id": "6900d43e647bd7307a2ab394",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Effects Designer"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5651670,
+        "known_for_department": "Acting",
+        "name": "Jeanette Smith",
+        "original_name": "Jeanette Smith",
+        "popularity": 0.0,
+        "profile_path": "/vbgEdSO89cnyMxr8KqtB28u63mb.jpg",
+        "credit_id": "6900d45bcb68b77ea3bbfc4c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5651703,
+        "known_for_department": "Writing",
+        "name": "Laura Chantler",
+        "original_name": "Laura Chantler",
+        "popularity": 0.3352,
+        "profile_path": null,
+        "credit_id": "6900d466f6a353f52d93940f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5779489,
+        "known_for_department": "Visual Effects",
+        "name": "Stephen Dullaghan",
+        "original_name": "Stephen Dullaghan",
+        "popularity": 0.1579,
+        "profile_path": null,
+        "credit_id": "6900d4c1dcaa455cf09fba6d",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5464899,
+        "known_for_department": "Sound",
+        "name": "Ajay Oakley",
+        "original_name": "Ajay Oakley",
+        "popularity": 0.1146,
+        "profile_path": null,
+        "credit_id": "6918e95e47d1fab49c31d36c",
+        "department": "Sound",
+        "job": "Sound"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 3447,
+        "name": "charity"
+      },
+      {
+        "id": 10292,
+        "name": "gore"
+      },
+      {
+        "id": 10093,
+        "name": "priest"
+      },
+      {
+        "id": 14893,
+        "name": "art"
+      },
+      {
+        "id": 17363,
+        "name": "house of horrors"
+      },
+      {
+        "id": 181235,
+        "name": "color"
+      },
+      {
+        "id": 196135,
+        "name": "eccentric artist"
+      },
+      {
+        "id": 338101,
+        "name": "giallo inspired"
+      },
+      {
+        "id": 342783,
+        "name": "loving couple grow old together"
+      },
+      {
+        "id": 361094,
+        "name": "giallo"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "The Millars - Malta's most prominent artists and philanthropists - are winding down after celebrating their gold wedding anniversary, when they're interrupted by a knock in the middle of the night. A man humbly asks for their help. The Millars oblige, because their charity is bottomless - but so is their need to make art.",
+          "runtime": 14,
+          "tagline": "The Millars. Salt of the Earth.",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 2469,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/n9ZUCxChL4yCuwis1VEaV5TM7PP.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1646
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 2469,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/l7T7fkmd8pIk1TsrJ3QfbshdQsC.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1646
+      },
+      {
+        "aspect_ratio": 0.753,
+        "height": 1596,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/hqIU3lM2zzq1wJJnH2GM1fyDhB2.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1202
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1620,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/1UaaFKjxNeU39rkGuASDYmHgbJN.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1080
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "MT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2025-11-01T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

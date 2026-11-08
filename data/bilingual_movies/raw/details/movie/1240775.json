@@ -1,0 +1,384 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [],
+  "homepage": "",
+  "id": 1240775,
+  "imdb_id": null,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Feu Maman",
+  "overview": "",
+  "popularity": 1.361,
+  "poster_path": "/nfmGATA6MtZyWyJRAD0ahICSZ4o.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2024-02-01",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "Feu Maman",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1207499,
+        "known_for_department": "Acting",
+        "name": "Florence Coste",
+        "original_name": "Florence Coste",
+        "popularity": 0.4657,
+        "profile_path": "/m3dAZV1UbeJZarElcxdOZgLMb7x.jpg",
+        "cast_id": 1,
+        "character": "Emma",
+        "credit_id": "65c0dac7bf09d10163a792e7",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1964685,
+        "known_for_department": "Acting",
+        "name": "Hubert Roulleau",
+        "original_name": "Hubert Roulleau",
+        "popularity": 0.1012,
+        "profile_path": "/n53GlhmJpAMst5QsIhSxhYTrTJG.jpg",
+        "cast_id": 2,
+        "character": "Henri",
+        "credit_id": "65c0db02ba480201616bcfd9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4519273,
+        "known_for_department": "Acting",
+        "name": "Glasgow",
+        "original_name": "Glasgow",
+        "popularity": 0.0917,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Tempête",
+        "credit_id": "65c0db10a35c8e0130d4b8a3",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1207499,
+        "known_for_department": "Acting",
+        "name": "Florence Coste",
+        "original_name": "Florence Coste",
+        "popularity": 0.4657,
+        "profile_path": "/m3dAZV1UbeJZarElcxdOZgLMb7x.jpg",
+        "credit_id": "65c0db2f1dbc88017c20d28a",
+        "department": "Writing",
+        "job": "Scenario Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1207499,
+        "known_for_department": "Acting",
+        "name": "Florence Coste",
+        "original_name": "Florence Coste",
+        "popularity": 0.4657,
+        "profile_path": "/m3dAZV1UbeJZarElcxdOZgLMb7x.jpg",
+        "credit_id": "65c0db3943999b0163c79967",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4519274,
+        "known_for_department": "Directing",
+        "name": "Méryl Defieux",
+        "original_name": "Méryl Defieux",
+        "popularity": 0.125,
+        "profile_path": null,
+        "credit_id": "65c0dba4031deb0183f334d2",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4519275,
+        "known_for_department": "Crew",
+        "name": "Margaux Enea",
+        "original_name": "Margaux Enea",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "65c0dbcd5e120001821cb568",
+        "department": "Crew",
+        "job": "Script"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4519276,
+        "known_for_department": "Camera",
+        "name": "Rodolphe Juteau",
+        "original_name": "Rodolphe Juteau",
+        "popularity": 0.1202,
+        "profile_path": null,
+        "credit_id": "65c0dbebfc65380149e9ac35",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4519278,
+        "known_for_department": "Camera",
+        "name": "Cecile Malleck",
+        "original_name": "Cecile Malleck",
+        "popularity": 0.1026,
+        "profile_path": null,
+        "credit_id": "65c0dc4d1dbc8801631e4bf4",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4519279,
+        "known_for_department": "Sound",
+        "name": "Thibault Albouy",
+        "original_name": "Thibault Albouy",
+        "popularity": 0.086,
+        "profile_path": null,
+        "credit_id": "65c0dc659020120162cca2b4",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4519284,
+        "known_for_department": "Editing",
+        "name": "Yannick Grassi",
+        "original_name": "Yannick Grassi",
+        "popularity": 0.1049,
+        "profile_path": null,
+        "credit_id": "65c0dcc9902012017ccf25a3",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2403239,
+        "known_for_department": "Editing",
+        "name": "Charles Fréville",
+        "original_name": "Charles Fréville",
+        "popularity": 0.377,
+        "profile_path": null,
+        "credit_id": "65c0dcfbfc65380130e8ff5c",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4519289,
+        "known_for_department": "Crew",
+        "name": "Ludovic Lefèvre",
+        "original_name": "Ludovic Lefèvre",
+        "popularity": 0.1006,
+        "profile_path": null,
+        "credit_id": "65c0dd52902012017ccf265e",
+        "department": "Crew",
+        "job": "Mixing Engineer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 957741,
+        "known_for_department": "Directing",
+        "name": "Jérôme Navarro",
+        "original_name": "Jérôme Navarro",
+        "popularity": 0.3753,
+        "profile_path": "/h8uTpkAlfjgmdBJy60xiLsd0pth.jpg",
+        "credit_id": "65c0dd77ba480201826ea589",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4519292,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Camille Bonneau",
+        "original_name": "Camille Bonneau",
+        "popularity": 0.0956,
+        "profile_path": null,
+        "credit_id": "65c0dd8dbf09d10163a79568",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4103984,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sophie Pré",
+        "original_name": "Sophie Pré",
+        "popularity": 0.158,
+        "profile_path": null,
+        "credit_id": "65c0ddb05e120001611c5b4a",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4519295,
+        "known_for_department": "Crew",
+        "name": "François Baraize",
+        "original_name": "François Baraize",
+        "popularity": 0.1185,
+        "profile_path": null,
+        "credit_id": "65c0dde6a35c8e0130d4b99b",
+        "department": "Crew",
+        "job": "Prop Maker"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4519307,
+        "known_for_department": "Directing",
+        "name": "Pascal Barraud",
+        "original_name": "Pascal Barraud",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "65c0e0531dbc88017c20d7b9",
+        "department": "Directing",
+        "job": "Action Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4519317,
+        "known_for_department": "Crew",
+        "name": "Fannie Lejars",
+        "original_name": "Fannie Lejars",
+        "popularity": 0.0372,
+        "profile_path": null,
+        "credit_id": "65c0e0c4031deb0183f33bfa",
+        "department": "Crew",
+        "job": "Animal Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2025871,
+        "known_for_department": "Acting",
+        "name": "Axelle Dodier",
+        "original_name": "Axelle Dodier",
+        "popularity": 0.2129,
+        "profile_path": "/mOoGtoXRj3iNc1ZRlluubAoshJC.jpg",
+        "credit_id": "65c0e1d69020120162cca645",
+        "department": "Crew",
+        "job": "Floor Runner"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4519330,
+        "known_for_department": "Crew",
+        "name": "François Uhring",
+        "original_name": "François Uhring",
+        "popularity": 0.092,
+        "profile_path": null,
+        "credit_id": "65c0e2015cd16e017c9f9b16",
+        "department": "Crew",
+        "job": "Floor Runner"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "Emma s'occupe du cheval de sa mère, depuis la mort de celle-ci il y a des années. Quand il faut prendre la décision de le piquer, elle ne peut se résoudre à le laisser partir...",
+          "runtime": 2,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.695,
+        "height": 1424,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/nfmGATA6MtZyWyJRAD0ahICSZ4o.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 990
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "fr",
+            "note": "Nikon Film Festival",
+            "release_date": "2024-02-01T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

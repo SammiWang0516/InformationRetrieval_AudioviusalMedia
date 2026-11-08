@@ -1,0 +1,786 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1144162,
+  "imdb_id": "tt38390369",
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_title": "엄마없는 하늘아래",
+  "overview": "Four sisters in a salt village grieve losing both parents. With dad in a nursing home, the eldest carries their grief alone. Can they hold their family together?",
+  "popularity": 0.7772,
+  "poster_path": "/po93lyWprjp8HGHqibigLPXGzbw.jpg",
+  "production_companies": [
+    {
+      "id": 202752,
+      "logo_path": null,
+      "name": "Cinemaseoul Co.,Ltd.",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "release_date": "2025-09-11",
+  "revenue": 0,
+  "runtime": 126,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Under the Sky Without My Mom",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4129654,
+        "known_for_department": "Acting",
+        "name": "Lee Eun-su",
+        "original_name": "Lee Eun-su",
+        "popularity": 0.2592,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Ha-eun",
+        "credit_id": "6497b106bbd0b000adf08ef9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4126669,
+        "known_for_department": "Acting",
+        "name": "Oh Sang-cheol",
+        "original_name": "Oh Sang-cheol",
+        "popularity": 0.1941,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Kang Deok-bae",
+        "credit_id": "6497b119955c6500e65f4d1a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4126493,
+        "known_for_department": "Acting",
+        "name": "Yoo Young-mi",
+        "original_name": "Yoo Young-mi",
+        "popularity": 0.1646,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Sun-deok",
+        "credit_id": "6497b13bb3440900c54f23c5",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4129655,
+        "known_for_department": "Acting",
+        "name": "Kim Min-chae",
+        "original_name": "Kim Min-chae",
+        "popularity": 0.3366,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Seon-yeong",
+        "credit_id": "6497b150eb79c200ff00c0e4",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4129656,
+        "known_for_department": "Acting",
+        "name": "Park Min-hye",
+        "original_name": "Park Min-hye",
+        "popularity": 0.1875,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Mi-hye",
+        "credit_id": "6497b169bbd0b001066ebaae",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4129657,
+        "known_for_department": "Acting",
+        "name": "Jo Eun-so-ri",
+        "original_name": "Jo Eun-so-ri",
+        "popularity": 0.2899,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Sa-rang",
+        "credit_id": "6497b179bbd0b000adf08f43",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1253444,
+        "known_for_department": "Acting",
+        "name": "Jung Hye-sun",
+        "original_name": "정혜선",
+        "popularity": 0.8396,
+        "profile_path": "/e3lSCnxrHZa4wC4wNIYKLWCz4XD.jpg",
+        "cast_id": 19,
+        "character": "Hospital Director",
+        "credit_id": "6497b1b16f6a99013ddfaf75",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4129661,
+        "known_for_department": "Acting",
+        "name": "Park Cheol-min",
+        "original_name": "Park Cheol-min",
+        "popularity": 0.1176,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Chief Choi",
+        "credit_id": "6497b2a9b3440901398459a3",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5567820,
+        "known_for_department": "Acting",
+        "name": "Seo Rina",
+        "original_name": "서리나",
+        "popularity": 2.2539,
+        "profile_path": "/cAF6lQluwB0l6L0YsVtFVpXd5VM.jpg",
+        "cast_id": 48,
+        "character": "Director of the Public Health Center",
+        "credit_id": "6890dfc01584bf6c9f61f658",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4129665,
+        "known_for_department": "Acting",
+        "name": "Ji Jae-hun",
+        "original_name": "Ji Jae-hun",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Teacher Han",
+        "credit_id": "6497b373eb79c200ad719787",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4129667,
+        "known_for_department": "Acting",
+        "name": "Yeon Du-hong",
+        "original_name": "Yeon Du-hong",
+        "popularity": 0.0774,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Teacher Lee",
+        "credit_id": "6497b38bb3440900e271f5fe",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4129668,
+        "known_for_department": "Acting",
+        "name": "Kim Hong-seok",
+        "original_name": "Kim Hong-seok",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Principal",
+        "credit_id": "6497b3a9eb79c2011c520f8c",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4129669,
+        "known_for_department": "Acting",
+        "name": "Kim Hye-eun",
+        "original_name": "Kim Hye-eun",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Yeong-mi",
+        "credit_id": "6497b3c462f33500ca43797f",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4129671,
+        "known_for_department": "Acting",
+        "name": "Kim Su-jin",
+        "original_name": "Kim Su-jin",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Panhandler",
+        "credit_id": "6497b43f955c6500ac8927f6",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4129673,
+        "known_for_department": "Acting",
+        "name": "Choi Mi-Kyo",
+        "original_name": "Choi Mi-Kyo",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Shrink",
+        "credit_id": "6497b4d66f6a9900e5d2d763",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3078250,
+        "known_for_department": "Acting",
+        "name": "Park Sook Myung",
+        "original_name": "Park Sook Myung",
+        "popularity": 0.2289,
+        "profile_path": "/7SKcwJ41xSmsYBcwFs3o92l8DfX.jpg",
+        "cast_id": 28,
+        "character": "Deputy Governor",
+        "credit_id": "6497b530bbd0b001066ebd41",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4129674,
+        "known_for_department": "Acting",
+        "name": "Lee Han-na",
+        "original_name": "Lee Han-na",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Eok-tae's Mother",
+        "credit_id": "6497b54b6f6a990102fb9a4f",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4129675,
+        "known_for_department": "Acting",
+        "name": "Kim Deok-im",
+        "original_name": "Kim Deok-im",
+        "popularity": 0.0329,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Magician",
+        "credit_id": "6497b565b3440900e271f795",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4129676,
+        "known_for_department": "Acting",
+        "name": "Kim Chang-jo",
+        "original_name": "Kim Chang-jo",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Eok-tae's Father",
+        "credit_id": "6497b593bbd0b000adf09180",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4129677,
+        "known_for_department": "Acting",
+        "name": "Kim Seong-don",
+        "original_name": "Kim Seong-don",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Eun-jeong's Father",
+        "credit_id": "6497b5abb34409011c7b9bdf",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4129680,
+        "known_for_department": "Acting",
+        "name": "Oh Dae-cheon",
+        "original_name": "Oh Dae-cheon",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Mr. Koo",
+        "credit_id": "6497b5e46f43ec011c624607",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4126546,
+        "known_for_department": "Acting",
+        "name": "Kim Jae-geun",
+        "original_name": "Kim Jae-geun",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Mailman",
+        "credit_id": "6497b5fdb34409011c7b9c20",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4129681,
+        "known_for_department": "Acting",
+        "name": "Baek Gyeong-hun",
+        "original_name": "Baek Gyeong-hun",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Superintendent",
+        "credit_id": "6497b62bb3440900e271f83a",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4129682,
+        "known_for_department": "Acting",
+        "name": "Jeong Yeong-sin",
+        "original_name": "Jeong Yeong-sin",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Yeong-mi's mother",
+        "credit_id": "6497b63f6f6a9900e5d2d84a",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4129683,
+        "known_for_department": "Acting",
+        "name": "Kang Myeong-hye",
+        "original_name": "Kang Myeong-hye",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Chief of Violent Crimes Section",
+        "credit_id": "6497b67f6f6a990102fb9b0e",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4129684,
+        "known_for_department": "Acting",
+        "name": "Na Yu-ran",
+        "original_name": "Na Yu-ran",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Women's President",
+        "credit_id": "6497b6996f43ec00c5c6665d",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4129686,
+        "known_for_department": "Acting",
+        "name": "Lee Gyeong-seon",
+        "original_name": "Lee Gyeong-seon",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Seon-ho's Mother",
+        "credit_id": "6497b6b3eb79c200e29ee577",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4129688,
+        "known_for_department": "Acting",
+        "name": "Lim Dan-a",
+        "original_name": "Lim Dan-a",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Nursing Team Leader",
+        "credit_id": "6497b6d0bbd0b000adf0925f",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4129690,
+        "known_for_department": "Acting",
+        "name": "Lee Hye-ryeong",
+        "original_name": "Lee Hye-ryeong",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Shaman",
+        "credit_id": "6497b6f0b3440900ad529ec5",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4129691,
+        "known_for_department": "Acting",
+        "name": "Lee Hae-sun",
+        "original_name": "Lee Hae-sun",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "Restaurant Owner",
+        "credit_id": "6497b721eb79c2011c52123f",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4129692,
+        "known_for_department": "Acting",
+        "name": "Kim Mi-hyang",
+        "original_name": "Kim Mi-hyang",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "cast_id": 43,
+        "character": "Public Official",
+        "credit_id": "6497b7456f43ec01399a2b71",
+        "order": 30
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4129694,
+        "known_for_department": "Acting",
+        "name": "Lim Yeong",
+        "original_name": "Lim Yeong",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "cast_id": 44,
+        "character": "Nun",
+        "credit_id": "6497b759b3440900e271f908",
+        "order": 31
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2524602,
+        "known_for_department": "Acting",
+        "name": "Yoo Gwang-Soo",
+        "original_name": "Yoo Gwang-Soo",
+        "popularity": 0.0594,
+        "profile_path": null,
+        "cast_id": 45,
+        "character": "",
+        "credit_id": "6497b76db3440900e271f91a",
+        "order": 32
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2117354,
+        "known_for_department": "Acting",
+        "name": "Lee Jae-hee",
+        "original_name": "Lee Jae-hee",
+        "popularity": 0.0772,
+        "profile_path": null,
+        "cast_id": 46,
+        "character": "Seon-oh",
+        "credit_id": "6497b7f5eb79c200c56dadef",
+        "order": 33
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4129702,
+        "known_for_department": "Acting",
+        "name": "Jin A-rim",
+        "original_name": "Jin A-rim",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 47,
+        "character": "",
+        "credit_id": "6497b841b3440900ffec5403",
+        "order": 34
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4126669,
+        "known_for_department": "Acting",
+        "name": "Oh Sang-cheol",
+        "original_name": "Oh Sang-cheol",
+        "popularity": 0.1941,
+        "profile_path": null,
+        "credit_id": "6497af21bbd0b001066eb936",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4126690,
+        "known_for_department": "Production",
+        "name": "Choi Hyeon-sook",
+        "original_name": "Choi Hyeon-sook",
+        "popularity": 0.0372,
+        "profile_path": null,
+        "credit_id": "6497af01955c6500ac8924a5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4126727,
+        "known_for_department": "Directing",
+        "name": "Han So-ra",
+        "original_name": "Han So-ra",
+        "popularity": 0.0577,
+        "profile_path": null,
+        "credit_id": "6497afb4eb79c200e29ee06a",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4126686,
+        "known_for_department": "Writing",
+        "name": "Kim Hwa-jeong",
+        "original_name": "Kim Hwa-jeong",
+        "popularity": 0.1599,
+        "profile_path": null,
+        "credit_id": "6497afcbb3440900ffec4e15",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4129643,
+        "known_for_department": "Production",
+        "name": "Jang Dong-il",
+        "original_name": "Jang Dong-il",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "credit_id": "6497aec66f6a9900e5d2d3b7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4129647,
+        "known_for_department": "Directing",
+        "name": "Kim Hyeon",
+        "original_name": "Kim Hyeon",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "6497af9f955c6500e65f4c07",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3507308,
+        "known_for_department": "Directing",
+        "name": "Han Myeong-gu",
+        "original_name": "Han Myeong-gu",
+        "popularity": 0.1958,
+        "profile_path": "/wP1awRhjQetJz3EO1fXmXNebEfA.jpg",
+        "credit_id": "6497aea6eb79c200ad7194a2",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4129649,
+        "known_for_department": "Camera",
+        "name": "Shin Won-jung",
+        "original_name": "Shin Won-jung",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6497b01462f3350127466535",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4129652,
+        "known_for_department": "Sound",
+        "name": "Jeon Ye-jin",
+        "original_name": "Jeon Ye-jin",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6497b0786f6a9900c840b218",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4126691,
+        "known_for_department": "Production",
+        "name": "Bae Deok-gyu",
+        "original_name": "Bae Deok-gyu",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6497af17bbd0b000adf08de3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4129653,
+        "known_for_department": "Editing",
+        "name": "An Geon-woo",
+        "original_name": "An Geon-woo",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6497b08e6f6a9900e5d2d4b5",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4129651,
+        "known_for_department": "Lighting",
+        "name": "Lee Hyeong-woon",
+        "original_name": "Lee Hyeong-woon",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6497b069eb79c200ff00c057",
+        "department": "Lighting",
+        "job": "Lighting Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "KR",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말",
+        "english_name": "Korean",
+        "data": {
+          "homepage": "",
+          "overview": "고단한 하루의해가 넘어가면 갯벌위에 노을이 아름답게 부서지는 마을 장산리,이른아침 동틀 무렵이면 마을은 염전의 빛으로 인해 해같이 빛나고,초라하지만 이곳이 자신들만의 집을 천국같은 곳이라고 생각하며 살아가는 네자매가 있다. 강한 성격의 소유자 큰딸 하은이는 엄마와 아버지를 대신해 동생들을 보살피고,둘째 선영이는 언니와는 조금 다르게 철부지 성격을 가졌으며,언니들로 인해 마냥 행복하기만한 셋째 민혜와,교통사고의 후유증으로 인해 아버지(덕배)는 가족들에게 늘 미안한 마음뿐이다. 그리고 엄마의 뱃속에는 앞으로 막내(사랑이)가 태어날 준비를하고 만삭의 몸으로 엄마(순덕)는 오늘도 콩나물 공장을 나가 아이들의 해맑은 미소를 떠올리며 이마에 구슬땀을 흘린다.",
+          "runtime": 126,
+          "tagline": "네자매가 펼치는 따뜻한 감동 이야기",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Four sisters in a salt village grieve losing both parents. With dad in a nursing home, the eldest carries their grief alone. Can they hold their family together?",
+          "runtime": 126,
+          "tagline": "",
+          "title": "Under the Sky Without My Mom"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt38390369",
+    "wikidata_id": "Q141728297",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2017-01-28T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-09-11T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

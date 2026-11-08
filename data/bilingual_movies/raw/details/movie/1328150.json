@@ -1,0 +1,866 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1328150,
+  "imdb_id": null,
+  "origin_country": [
+    "PL"
+  ],
+  "original_language": "pl",
+  "original_title": "Zielony atrament",
+  "overview": "A rebellious audio engineering student is detained by the police for brandishing a firearm at the university. Her scientific career hangs in the balance, but Kasia gets one last chance from her supervisor. However, the conditions set by her professor for remaining at the university seem absurd.",
+  "popularity": 1.5271,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 236068,
+      "logo_path": null,
+      "name": "Pomorska Fundacja Filmowa w Gdyni",
+      "origin_country": "PL"
+    },
+    {
+      "id": 6480,
+      "logo_path": "/qJUUNzFYXNUDaisssBTV3Zdki9R.png",
+      "name": "Telewizja Polska",
+      "origin_country": "PL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    }
+  ],
+  "release_date": "2024-08-10",
+  "revenue": 0,
+  "runtime": 49,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Green Ink",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3794462,
+        "known_for_department": "Acting",
+        "name": "Aleksandra Piotrowska",
+        "original_name": "Aleksandra Piotrowska",
+        "popularity": 0.1632,
+        "profile_path": "/gixlrKWFkD17QlX5uhuHikPUpa7.jpg",
+        "cast_id": 14,
+        "character": "Kasia Majewska",
+        "credit_id": "66b7e7734cda61f36f59690e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1314047,
+        "known_for_department": "Acting",
+        "name": "Magdalena Zawadzka",
+        "original_name": "Magdalena Zawadzka",
+        "popularity": 0.528,
+        "profile_path": "/4ZlKfQP8r4YKiM1JlyAwpXkFjD3.jpg",
+        "cast_id": 15,
+        "character": "Marianna Sankiewicz's Avatar",
+        "credit_id": "66b7e79f4d372e4ba4262099",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1427401,
+        "known_for_department": "Acting",
+        "name": "Roman Gancarczyk",
+        "original_name": "Roman Gancarczyk",
+        "popularity": 0.3636,
+        "profile_path": "/qRhehArlbnXOcZV56QZwxvPo1td.jpg",
+        "cast_id": 16,
+        "character": "Professor",
+        "credit_id": "66b7e7b330dd4fe09a1a0486",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4878381,
+        "known_for_department": "Acting",
+        "name": "Aleksander Buchowiecki",
+        "original_name": "Aleksander Buchowiecki",
+        "popularity": 0.0901,
+        "profile_path": "/iyYsoZRyO1pRqcIEK6dqirYw2dQ.jpg",
+        "cast_id": 17,
+        "character": "Bartek",
+        "credit_id": "66b7e7d1e72f60481caa910a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3474945,
+        "known_for_department": "Acting",
+        "name": "Michał Kurek",
+        "original_name": "Michał Kurek",
+        "popularity": 0.1726,
+        "profile_path": "/llZFK9qjnaDdW2bjl2x2LFqet1y.jpg",
+        "cast_id": 18,
+        "character": "Krzysiek",
+        "credit_id": "66b7e7ddd8b6348a501a0496",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4878382,
+        "known_for_department": "Acting",
+        "name": "Marta Schmidt",
+        "original_name": "Marta Schmidt",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Magda",
+        "credit_id": "66b7e7f8e6d5e0fb482626c9",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4878383,
+        "known_for_department": "Acting",
+        "name": "Mikołaj Sikała",
+        "original_name": "Mikołaj Sikała",
+        "popularity": 0.3726,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Pianist",
+        "credit_id": "66b7e807ffd0572dbb283688",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4090043,
+        "known_for_department": "Acting",
+        "name": "Marek Tynda",
+        "original_name": "Marek Tynda",
+        "popularity": 0.1149,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Piotr",
+        "credit_id": "66b7e813d7672c6d9076e457",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3250495,
+        "known_for_department": "Acting",
+        "name": "Robert Ninkiewicz",
+        "original_name": "Robert Ninkiewicz",
+        "popularity": 0.0979,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Security Guard",
+        "credit_id": "66b7e82b5b96d9a5cff29f2a",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4878385,
+        "known_for_department": "Acting",
+        "name": "Nikodem Bogdański",
+        "original_name": "Nikodem Bogdański",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Security Guard",
+        "credit_id": "66b7e84797bf444823f29e44",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4167177,
+        "known_for_department": "Acting",
+        "name": "Sylwia Góra",
+        "original_name": "Sylwia Góra",
+        "popularity": 0.1457,
+        "profile_path": "/qrOUJvdYftVKSOtSFd5G4IULF1g.jpg",
+        "cast_id": 24,
+        "character": "Cleaning Lady",
+        "credit_id": "66b7e85a5f7d50f14a11cdaf",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1575916,
+        "known_for_department": "Acting",
+        "name": "Diana Zamojska",
+        "original_name": "Diana Zamojska",
+        "popularity": 0.5254,
+        "profile_path": "/hUz4cJqaw81vg76bJS2jvmnzWL5.jpg",
+        "cast_id": 25,
+        "character": "Ms. Ela",
+        "credit_id": "66b7e892f78f9b02ea4c15f0",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4367649,
+        "known_for_department": "Acting",
+        "name": "Małgorzata Oracz",
+        "original_name": "Małgorzata Oracz",
+        "popularity": 0.2187,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Ms. Krysia",
+        "credit_id": "66b7e8b76cc9ee7dc09ee202",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4878388,
+        "known_for_department": "Acting",
+        "name": "Wanli Gao",
+        "original_name": "Wanli Gao",
+        "popularity": 0.0442,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Student",
+        "credit_id": "66b7e8d6ffe0c67b149ee299",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4878389,
+        "known_for_department": "Acting",
+        "name": "Anton Uthayakumar Dinojan",
+        "original_name": "Anton Uthayakumar Dinojan",
+        "popularity": 0.0577,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Student",
+        "credit_id": "66b7e8ef7df2731965283e85",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4614261,
+        "known_for_department": "Acting",
+        "name": "Dorian Zypper",
+        "original_name": "Dorian Zypper",
+        "popularity": 0.09,
+        "profile_path": "/aEeLzVNx2Le4XPJ8zDjuz5yyDht.jpg",
+        "cast_id": 29,
+        "character": "Student Zenek",
+        "credit_id": "66b7e903466a551127283b5a",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4878390,
+        "known_for_department": "Acting",
+        "name": "Filip Wawrecki",
+        "original_name": "Filip Wawrecki",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Student Marcin",
+        "credit_id": "66b7e90e9c337b59c072c608",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4878391,
+        "known_for_department": "Acting",
+        "name": "Paweł Kiedrowski",
+        "original_name": "Paweł Kiedrowski",
+        "popularity": 0.0392,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Bartender",
+        "credit_id": "66b7e9260c5cb94fe0283618",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4878392,
+        "known_for_department": "Acting",
+        "name": "Jakub Poterała",
+        "original_name": "Jakub Poterała",
+        "popularity": 0.1039,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Student",
+        "credit_id": "66b7e9356f9cb4e2e6073578",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4104019,
+        "known_for_department": "Acting",
+        "name": "Natalia Sawicz",
+        "original_name": "Natalia Sawicz",
+        "popularity": 0.0435,
+        "profile_path": null,
+        "credit_id": "66b7e6ff97aa31008211cd72",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4878380,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Agnieszka Kanka",
+        "original_name": "Agnieszka Kanka",
+        "popularity": 0.0383,
+        "profile_path": null,
+        "credit_id": "66b7e748f329629997018595",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1575916,
+        "known_for_department": "Acting",
+        "name": "Diana Zamojska",
+        "original_name": "Diana Zamojska",
+        "popularity": 0.5254,
+        "profile_path": "/hUz4cJqaw81vg76bJS2jvmnzWL5.jpg",
+        "credit_id": "66b7e652613675977376e51a",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3772173,
+        "known_for_department": "Directing",
+        "name": "Paweł Wyszomirski",
+        "original_name": "Paweł Wyszomirski",
+        "popularity": 0.0779,
+        "profile_path": null,
+        "credit_id": "66b7e5c2013f50b977a8ca6c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3251816,
+        "known_for_department": "Camera",
+        "name": "Wojciech Ostrowski",
+        "original_name": "Wojciech Ostrowski",
+        "popularity": 0.0943,
+        "profile_path": null,
+        "credit_id": "66b7e676d16b7a7363f29e89",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4671373,
+        "known_for_department": "Editing",
+        "name": "Miłosz Dołgoruki",
+        "original_name": "Miłosz Dołgoruki",
+        "popularity": 0.0797,
+        "profile_path": null,
+        "credit_id": "66b7e6a78cbbfa1fa911cd6f",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4378863,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Oliwia Pawłowska",
+        "original_name": "Oliwia Pawłowska",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "66b7e728d955793cd2073cad",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4829208,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ida Cylwik",
+        "original_name": "Ida Cylwik",
+        "popularity": 0.0467,
+        "profile_path": null,
+        "credit_id": "66b7e738613675977376e528",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4878371,
+        "known_for_department": "Art",
+        "name": "Michał Kołodziej",
+        "original_name": "Michał Kołodziej",
+        "popularity": 0.0611,
+        "profile_path": null,
+        "credit_id": "66b7e6c03d7b7bdce5a7b87a",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3772173,
+        "known_for_department": "Directing",
+        "name": "Paweł Wyszomirski",
+        "original_name": "Paweł Wyszomirski",
+        "popularity": 0.0779,
+        "profile_path": null,
+        "credit_id": "66b7e621624bdbd3a01dbbae",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4480111,
+        "known_for_department": "Camera",
+        "name": "Sławomir Pultyn",
+        "original_name": "Sławomir Pultyn",
+        "popularity": 0.0449,
+        "profile_path": null,
+        "credit_id": "66b7e6644d15792d221dba4b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4878374,
+        "known_for_department": "Art",
+        "name": "Jakub Szlaszyński",
+        "original_name": "Jakub Szlaszyński",
+        "popularity": 0.0383,
+        "profile_path": null,
+        "credit_id": "66b7e6daf44005314c0738f0",
+        "department": "Art",
+        "job": "Assistant Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4155522,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Katarzyna Piątek",
+        "original_name": "Katarzyna Piątek",
+        "popularity": 0.0773,
+        "profile_path": null,
+        "credit_id": "66b7e714d8b6348a501a0488",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3628478,
+        "known_for_department": "Sound",
+        "name": "Tomasz Strzyżewski",
+        "original_name": "Tomasz Strzyżewski",
+        "popularity": 0.106,
+        "profile_path": null,
+        "credit_id": "66b86cd6d955793cd207622c",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4879172,
+        "known_for_department": "Sound",
+        "name": "Mateusz Gnys",
+        "original_name": "Mateusz Gnys",
+        "popularity": 0.0583,
+        "profile_path": null,
+        "credit_id": "66b86ced19c13a21529f006a",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3532228,
+        "known_for_department": "Production",
+        "name": "Joanna Pultyn",
+        "original_name": "Joanna Pultyn",
+        "popularity": 0.122,
+        "profile_path": null,
+        "credit_id": "66b86e527d739ff29e9f0021",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4110192,
+        "known_for_department": "Editing",
+        "name": "Natalia Jachec",
+        "original_name": "Natalia Jacheć",
+        "popularity": 0.0681,
+        "profile_path": null,
+        "credit_id": "66b86d863a0c107aca171027",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3532227,
+        "known_for_department": "Production",
+        "name": "Jerzy Rados",
+        "original_name": "Jerzy Rados",
+        "popularity": 0.2416,
+        "profile_path": null,
+        "credit_id": "66b86e74013f50b977a8ee86",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4879179,
+        "known_for_department": "Sound",
+        "name": "Omer Ege",
+        "original_name": "Omer Ege",
+        "popularity": 0.0494,
+        "profile_path": null,
+        "credit_id": "66b86d6230dd4fe09a1a2825",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2741817,
+        "known_for_department": "Acting",
+        "name": "Michalina Łaska",
+        "original_name": "Michalina Łaska",
+        "popularity": 0.038,
+        "profile_path": null,
+        "credit_id": "66b86e2ecc2917620f0df9ca",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4879191,
+        "known_for_department": "Crew",
+        "name": "Marek Kazmierski",
+        "original_name": "Marek Kazmierski",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "66b86e47340f0fed8ca7db79",
+        "department": "Crew",
+        "job": "Translator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4879173,
+        "known_for_department": "Sound",
+        "name": "Piotr Kaletowski",
+        "original_name": "Piotr Kaletowski",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "66b86d0a7df034b9c41a23de",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2565650,
+        "known_for_department": "Sound",
+        "name": "Diego Hevia",
+        "original_name": "Diego Hevia",
+        "popularity": 0.0522,
+        "profile_path": null,
+        "credit_id": "66b86d7a367c79b7530df9a8",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4879190,
+        "known_for_department": "Camera",
+        "name": "Anna Rezulak",
+        "original_name": "Anna Rezulak",
+        "popularity": 0.0449,
+        "profile_path": null,
+        "credit_id": "66b86e257df2731965285f91",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3532226,
+        "known_for_department": "Production",
+        "name": "Leszek Kopeć",
+        "original_name": "Leszek Kopeć",
+        "popularity": 0.1666,
+        "profile_path": null,
+        "credit_id": "66b86e677b027988d3bbfc19",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3626626,
+        "known_for_department": "Sound",
+        "name": "Krzysztof Chodkiewicz",
+        "original_name": "Krzysztof Chodkiewicz",
+        "popularity": 0.0638,
+        "profile_path": null,
+        "credit_id": "66b86d26cc2917620f0df9a8",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4157598,
+        "known_for_department": "Production",
+        "name": "Hanna Twardowska-Machnio",
+        "original_name": "Hanna Twardowska-Machnio",
+        "popularity": 0.0894,
+        "profile_path": null,
+        "credit_id": "66b86e929045aaa90a64df8e",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3767804,
+        "known_for_department": "Acting",
+        "name": "Jerzy Kobyliński",
+        "original_name": "Jerzy Kobyliński",
+        "popularity": 0.071,
+        "profile_path": null,
+        "credit_id": "66b86e9b522c3097d064df94",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4076821,
+        "known_for_department": "Directing",
+        "name": "Kamil Wilk",
+        "original_name": "Kamil Wilk",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "66b86e07783e397e48f2c32b",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3626626,
+        "known_for_department": "Sound",
+        "name": "Krzysztof Chodkiewicz",
+        "original_name": "Krzysztof Chodkiewicz",
+        "popularity": 0.0638,
+        "profile_path": null,
+        "credit_id": "66b86d41131e2bd3bd075739",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4879175,
+        "known_for_department": "Sound",
+        "name": "Christos Sevastiadis",
+        "original_name": "Christos Sevastiadis",
+        "popularity": 0.0589,
+        "profile_path": null,
+        "credit_id": "66b86d157d739ff29e9f0013",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4879187,
+        "known_for_department": "Editing",
+        "name": "Jakub Adamczyk",
+        "original_name": "Jakub Adamczyk",
+        "popularity": 0.1214,
+        "profile_path": null,
+        "credit_id": "66b86dfbeda4f0658a770789",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1122981,
+        "known_for_department": "Sound",
+        "name": "Leszek Możdżer",
+        "original_name": "Leszek Możdżer",
+        "popularity": 0.6409,
+        "profile_path": null,
+        "credit_id": "69bea6db1a0e65fd560e2a94",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "PL",
+        "iso_639_1": "pl",
+        "name": "Polski",
+        "english_name": "Polish",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 49,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "A rebellious audio engineering student is detained by the police for brandishing a firearm at the university. Her scientific career hangs in the balance, but Kasia gets one last chance from her supervisor. However, the conditions set by her professor for remaining at the university seem absurd.",
+          "runtime": 49,
+          "tagline": "",
+          "title": "Green Ink"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "PL",
+        "title": "Zielony atrament. Film o Mariannie Sankiewicz",
+        "type": "full title"
+      },
+      {
+        "iso_3166_1": "PL",
+        "title": "Zielony Atrament. 100 lat Marianny",
+        "type": "working title"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Gdynia Polish Film Festival",
+            "release_date": "2024-09-26T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Greenpoint Film Festival",
+            "release_date": "2024-08-10T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "XK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "PriFest - Prishtina International Film Festival",
+            "release_date": "2024-09-13T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

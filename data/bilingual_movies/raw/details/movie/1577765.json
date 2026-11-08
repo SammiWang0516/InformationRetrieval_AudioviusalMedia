@@ -1,0 +1,595 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1577765,
+  "imdb_id": null,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Dead on Distribution",
+  "overview": "A B-movie filmmaker attempts to get a distribution deal for his new slasher flick, but the lead actor has some unsavory ideas about how to promote the film after its poor reception.",
+  "popularity": 0.7601,
+  "poster_path": "/9CbEJJ4NIF3hcUkzvTDH4rbJcqX.jpg",
+  "production_companies": [
+    {
+      "id": 279911,
+      "logo_path": null,
+      "name": "Shot by Gretton",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2025-11-15",
+  "revenue": 0,
+  "runtime": 18,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "How far would you go to promote your own film?",
+  "title": "Dead on Distribution",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5806743,
+        "known_for_department": "Acting",
+        "name": "Brian M. Clarke",
+        "original_name": "Brian M. Clarke",
+        "popularity": 0.1391,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "William Flagg",
+        "credit_id": "6910ed856b90fdef55c05f99",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4197895,
+        "known_for_department": "Acting",
+        "name": "Jacob Poole",
+        "original_name": "Jacob Poole",
+        "popularity": 0.3578,
+        "profile_path": "/bYVqaVkl7V8wCOOl1Q3SN4zWFUV.jpg",
+        "cast_id": 22,
+        "character": "Danny Felt",
+        "credit_id": "6910ee1491a3814cebdd1c8c",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3212059,
+        "known_for_department": "Acting",
+        "name": "Kathryn Georghiou",
+        "original_name": "Kathryn Georghiou",
+        "popularity": 0.3751,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Margaret Sickle",
+        "credit_id": "6910eb434d06e33f414c7f5e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5806717,
+        "known_for_department": "Acting",
+        "name": "Gillian Shimwell",
+        "original_name": "Gillian Shimwell",
+        "popularity": 0.2117,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Lily the Secretary",
+        "credit_id": "6910eb530d1d06c2f031b074",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4197832,
+        "known_for_department": "Acting",
+        "name": "Callum Gascoyne",
+        "original_name": "Callum Gascoyne",
+        "popularity": 0.06,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Fangoria Journalist",
+        "credit_id": "6910eb6534eec9d9e7dd1eee",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6532862,
+        "known_for_department": "Acting",
+        "name": "Elena Brearley",
+        "original_name": "Elena Brearley",
+        "popularity": 0.0667,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Scream Queen",
+        "credit_id": "6ac6803b6e75a6b0de95e868",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5806720,
+        "known_for_department": "Acting",
+        "name": "Julia Zięba",
+        "original_name": "Julia Zięba",
+        "popularity": 0.1562,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Film Critic",
+        "credit_id": "6910eb9b7a7eb793f69ac3bf",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4197897,
+        "known_for_department": "Acting",
+        "name": "Elliott Tanner",
+        "original_name": "Elliott Tanner",
+        "popularity": 0.0899,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Film Critic",
+        "credit_id": "6910ebaadc7b73f47c31b194",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5806722,
+        "known_for_department": "Acting",
+        "name": "Tom Quinlan",
+        "original_name": "Tom Quinlan",
+        "popularity": 0.1016,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Film Critic",
+        "credit_id": "6910ebb4c7dda5c813a0c7e5",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5806724,
+        "known_for_department": "Acting",
+        "name": "Jessica Hall",
+        "original_name": "Jessica Hall",
+        "popularity": 0.0784,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Film Critic",
+        "credit_id": "6910ebce3174b11fc0c05d0a",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5806729,
+        "known_for_department": "Acting",
+        "name": "Ash Arnold",
+        "original_name": "Ash Arnold",
+        "popularity": 0.0741,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Film Critic",
+        "credit_id": "6910ec538ee8d331b8d25906",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5806732,
+        "known_for_department": "Acting",
+        "name": "Alice Whitehead",
+        "original_name": "Alice Whitehead",
+        "popularity": 0.1828,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Set Hand",
+        "credit_id": "6910eccaef8b0e08de874f0d",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4234141,
+        "known_for_department": "Acting",
+        "name": "Jason Spragg",
+        "original_name": "Jason Spragg",
+        "popularity": 0.1921,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Set Hand",
+        "credit_id": "6910ecd42f9649b50a4c820c",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5806734,
+        "known_for_department": "Acting",
+        "name": "James Green",
+        "original_name": "James Green",
+        "popularity": 0.032,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Set Hand",
+        "credit_id": "6910ece21913c5a927dd1ceb",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4197898,
+        "known_for_department": "Acting",
+        "name": "Paddy Moat",
+        "original_name": "Paddy Moat",
+        "popularity": 0.0422,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Restaurant Patron",
+        "credit_id": "6910ed064f04bbcf4edd1ec4",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5806738,
+        "known_for_department": "Acting",
+        "name": "Malcolm Richards",
+        "original_name": "Malcolm Richards",
+        "popularity": 0.1034,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Restaurant Patron",
+        "credit_id": "6910ed172f9649b50a4c8219",
+        "order": 15
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 2277827,
+        "known_for_department": "Writing",
+        "name": "Joyce Richards",
+        "original_name": "Joyce Richards",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Restaurant Patron",
+        "credit_id": "6910ed303137c7daf1874e48",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4197973,
+        "known_for_department": "Visual Effects",
+        "name": "Louis Jackson",
+        "original_name": "Louis Jackson",
+        "popularity": 0.1767,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Hotel Security",
+        "credit_id": "6910ed483137c7daf1874e59",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4202430,
+        "known_for_department": "Acting",
+        "name": "Jake Melville",
+        "original_name": "Jake Melville",
+        "popularity": 0.09,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Teacher",
+        "credit_id": "6910ed5608a6f1ef6631b1dc",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4197895,
+        "known_for_department": "Acting",
+        "name": "Jacob Poole",
+        "original_name": "Jacob Poole",
+        "popularity": 0.3578,
+        "profile_path": "/bYVqaVkl7V8wCOOl1Q3SN4zWFUV.jpg",
+        "credit_id": "6910ee793a7b019fa89ac1cc",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4197837,
+        "known_for_department": "Writing",
+        "name": "Paul Richards",
+        "original_name": "Paul Richards",
+        "popularity": 0.3526,
+        "profile_path": null,
+        "credit_id": "6910ee99591b1bb437a0c846",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4197822,
+        "known_for_department": "Directing",
+        "name": "Alasdair Gretton",
+        "original_name": "Alasdair Gretton",
+        "popularity": 0.3565,
+        "profile_path": "/pQU5xEi67RSzQAzdxnmiI7lmFAW.jpg",
+        "credit_id": "6910eec8e8d241e7b5c05c13",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4197822,
+        "known_for_department": "Directing",
+        "name": "Alasdair Gretton",
+        "original_name": "Alasdair Gretton",
+        "popularity": 0.3565,
+        "profile_path": "/pQU5xEi67RSzQAzdxnmiI7lmFAW.jpg",
+        "credit_id": "6910eedb91326c06e2dd1e14",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4197822,
+        "known_for_department": "Directing",
+        "name": "Alasdair Gretton",
+        "original_name": "Alasdair Gretton",
+        "popularity": 0.3565,
+        "profile_path": "/pQU5xEi67RSzQAzdxnmiI7lmFAW.jpg",
+        "credit_id": "6910eeecf1aaf2deb2ce86e9",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4197822,
+        "known_for_department": "Directing",
+        "name": "Alasdair Gretton",
+        "original_name": "Alasdair Gretton",
+        "popularity": 0.3565,
+        "profile_path": "/pQU5xEi67RSzQAzdxnmiI7lmFAW.jpg",
+        "credit_id": "6910eefda896a8bb22a0c9f5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5806720,
+        "known_for_department": "Acting",
+        "name": "Julia Zięba",
+        "original_name": "Julia Zięba",
+        "popularity": 0.1562,
+        "profile_path": null,
+        "credit_id": "6910ef0bea3b47df3c4c801a",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5760733,
+        "known_for_department": "Directing",
+        "name": "Ash Arnold",
+        "original_name": "Ash Arnold",
+        "popularity": 0.1167,
+        "profile_path": null,
+        "credit_id": "6910ef202f9649b50a4c8226",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4197841,
+        "known_for_department": "Sound",
+        "name": "Ewan Thomas",
+        "original_name": "Ewan Thomas",
+        "popularity": 0.3041,
+        "profile_path": null,
+        "credit_id": "6910ef3bc06532554ed25977",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5760734,
+        "known_for_department": "Camera",
+        "name": "Bisan Byadsi",
+        "original_name": "Bisan Byadsi",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6910ef9efe08b67726a0ca83",
+        "department": "Lighting",
+        "job": "Lighting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5806765,
+        "known_for_department": "Crew",
+        "name": "Alex Rutter",
+        "original_name": "Alex Rutter",
+        "popularity": 0.068,
+        "profile_path": null,
+        "credit_id": "6910f01b540af423d04c81eb",
+        "department": "Crew",
+        "job": "Technical Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3187229,
+        "known_for_department": "Directing",
+        "name": "Anton Arenko",
+        "original_name": "Anton Arenko",
+        "popularity": 0.1268,
+        "profile_path": "/vBOeRxA3y48IFwyYch6NpcywyTo.jpg",
+        "credit_id": "6910f0402075737f024c8065",
+        "department": "Art",
+        "job": "Location Scout"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 8201,
+        "name": "satire"
+      },
+      {
+        "id": 166323,
+        "name": "horror filmmaking"
+      },
+      {
+        "id": 189921,
+        "name": "video nasty"
+      },
+      {
+        "id": 200234,
+        "name": "shocking"
+      },
+      {
+        "id": 208289,
+        "name": "1980s"
+      },
+      {
+        "id": 314797,
+        "name": "underground cinema"
+      },
+      {
+        "id": 315058,
+        "name": "horror"
+      },
+      {
+        "id": 321464,
+        "name": "intense"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "A B-movie filmmaker attempts to get a distribution deal for his new slasher flick, but the lead actor has some unsavory ideas about how to promote the film after its poor reception.",
+          "runtime": 18,
+          "tagline": "How far would you go to promote your own film?",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.675,
+        "height": 2047,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/9CbEJJ4NIF3hcUkzvTDH4rbJcqX.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1382
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 2048,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/soI4LYkCw8p34hlCfWCFIba564A.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1365
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2025-11-15T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

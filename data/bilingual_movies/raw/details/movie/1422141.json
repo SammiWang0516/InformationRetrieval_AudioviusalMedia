@@ -1,0 +1,618 @@
+{
+  "adult": false,
+  "backdrop_path": "/5SiS9WRHbWwX9sTwe6oet6z7y47.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1422141,
+  "imdb_id": "tt35530808",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Ben's Sister",
+  "overview": "In 2015 during the last weekend before graduation in Mill Valley, California, Ben and his friends are hell-bent on winning the Senior Scavenger Hunt, which involves completing outrageous, sexual, and illegal tasks—all filmed and posted on Facebook. In their quest to win, Ben goes a bit overboard with his ex, and his friend’s end up roping in Emma, his freshman sister. Wanting to be cool and one of the guys, Emma gets sucked into their plan to rack up points without realizing it. Ben suddenly feels compelled to protect her, which sparks a dilemma: confront his friends at the Post-Scav Hunt party or play it cool and enjoy his final moments of high school with his bros.",
+  "popularity": 0.72,
+  "poster_path": "/wymFbQ80e1jH2mULTaeiwQNbISi.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-03-08",
+  "revenue": 0,
+  "runtime": 18,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Ben's Sister",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3246094,
+        "known_for_department": "Acting",
+        "name": "Ben Weinswig",
+        "original_name": "Ben Weinswig",
+        "popularity": 0.1629,
+        "profile_path": "/lRRs2cevvMxCy0dFecWZmlez0mP.jpg",
+        "cast_id": 1,
+        "character": "Ben",
+        "credit_id": "6791b23ce8b67ff833fa667c",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1900369,
+        "known_for_department": "Acting",
+        "name": "Michael Gandolfini",
+        "original_name": "Michael Gandolfini",
+        "popularity": 0.992,
+        "profile_path": "/949lN8eoD3oXx1TmpjzmPQvt2TI.jpg",
+        "cast_id": 2,
+        "character": "Chase",
+        "credit_id": "6791b242e8b67ff833fa6683",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3132260,
+        "known_for_department": "Acting",
+        "name": "Sam Rechner",
+        "original_name": "Sam Rechner",
+        "popularity": 1.0915,
+        "profile_path": "/cjFwkjJY7G2MxNnTzPuM1rPXG3G.jpg",
+        "cast_id": 3,
+        "character": "Ryder",
+        "credit_id": "6791b249e8b67ff833fa6697",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3869215,
+        "known_for_department": "Directing",
+        "name": "Brian Niles",
+        "original_name": "Brian Niles",
+        "popularity": 0.0806,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Sebi",
+        "credit_id": "6791b27d316dcc033746f57b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2894730,
+        "known_for_department": "Acting",
+        "name": "Charlie Brady",
+        "original_name": "Charlie Brady",
+        "popularity": 0.0891,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Jasper",
+        "credit_id": "6791b272e8b67ff833fa66db",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3756943,
+        "known_for_department": "Writing",
+        "name": "Emma Weinswig",
+        "original_name": "Emma Weinswig",
+        "popularity": 0.0535,
+        "profile_path": "/xq4kcxnK8EdibYLac8xbr1uB5c.jpg",
+        "cast_id": 4,
+        "character": "Emma",
+        "credit_id": "6791b250749b2bc5b546f624",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4532461,
+        "known_for_department": "Acting",
+        "name": "Alex Costello",
+        "original_name": "Alex Costello",
+        "popularity": 0.1131,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Lia",
+        "credit_id": "6791b26afaa345939446efdb",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2263919,
+        "known_for_department": "Acting",
+        "name": "Siena Werber",
+        "original_name": "Siena Werber",
+        "popularity": 0.1922,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Stella",
+        "credit_id": "6791b256749b2bc5b546f633",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1505505,
+        "known_for_department": "Acting",
+        "name": "Alexis G. Zall",
+        "original_name": "Alexis G. Zall",
+        "popularity": 0.3921,
+        "profile_path": "/bTCFZUDmE01mg9Mix8TqlgH8GnQ.jpg",
+        "cast_id": 6,
+        "character": "Lizzy",
+        "credit_id": "6791b25e6b3ef7d012b56eee",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2426025,
+        "known_for_department": "Acting",
+        "name": "Natalie Rousseau",
+        "original_name": "Natalie Rousseau",
+        "popularity": 0.1433,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Ava",
+        "credit_id": "6a19836fb3c735182b744fa5",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3844299,
+        "known_for_department": "Acting",
+        "name": "Emma Kuhlman",
+        "original_name": "Emma Kuhlman",
+        "popularity": 0.0996,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Tallulah",
+        "credit_id": "6a1983794cd66823706a07aa",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 984614,
+        "known_for_department": "Acting",
+        "name": "Miles Elliot",
+        "original_name": "Miles Elliot",
+        "popularity": 0.5118,
+        "profile_path": "/ik89FmZlL5V0eVXY6tdjvxzZtGc.jpg",
+        "cast_id": 32,
+        "character": "Additional Cast",
+        "credit_id": "67d3218171fc08868f7f4cdf",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2692492,
+        "known_for_department": "Acting",
+        "name": "Sophia Macy",
+        "original_name": "Sophia Macy",
+        "popularity": 0.1876,
+        "profile_path": "/dgKJ3f6qBeHOpIVkE6fGzuFbK0e.jpg",
+        "cast_id": 33,
+        "character": "Additional Cast",
+        "credit_id": "67d3218e705d6831173e05a0",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3756943,
+        "known_for_department": "Writing",
+        "name": "Emma Weinswig",
+        "original_name": "Emma Weinswig",
+        "popularity": 0.0535,
+        "profile_path": "/xq4kcxnK8EdibYLac8xbr1uB5c.jpg",
+        "credit_id": "6791b2916b3ef7d012b56f04",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3756943,
+        "known_for_department": "Writing",
+        "name": "Emma Weinswig",
+        "original_name": "Emma Weinswig",
+        "popularity": 0.0535,
+        "profile_path": "/xq4kcxnK8EdibYLac8xbr1uB5c.jpg",
+        "credit_id": "6791b297e5a0922053fa6a89",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1935220,
+        "known_for_department": "Camera",
+        "name": "Shane Bagwell",
+        "original_name": "Shane Bagwell",
+        "popularity": 0.1382,
+        "profile_path": null,
+        "credit_id": "67980e6b5dc8b3b72d2ae133",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3869227,
+        "known_for_department": "Editing",
+        "name": "Chelsea Eisen",
+        "original_name": "Chelsea Eisen",
+        "popularity": 0.1493,
+        "profile_path": null,
+        "credit_id": "67980e79c7b01b72c7241fde",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2660401,
+        "known_for_department": "Production",
+        "name": "Will Noyce",
+        "original_name": "Will Noyce",
+        "popularity": 0.4715,
+        "profile_path": "/jjGehzBOznjZUWVo6eXVHRtqQ4k.jpg",
+        "credit_id": "67980e87a6e41283f12b5049",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3756943,
+        "known_for_department": "Writing",
+        "name": "Emma Weinswig",
+        "original_name": "Emma Weinswig",
+        "popularity": 0.0535,
+        "profile_path": "/xq4kcxnK8EdibYLac8xbr1uB5c.jpg",
+        "credit_id": "67980e935dc8b3b72d2ae13a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4352610,
+        "known_for_department": "Sound",
+        "name": "underscores",
+        "original_name": "underscores",
+        "popularity": 0.0992,
+        "profile_path": "/6pYGq8V0CL8sj1oOBQmtwDyoCmr.jpg",
+        "credit_id": "67980ed50e1e0486d62b57d6",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1780752,
+        "known_for_department": "Sound",
+        "name": "Bobb Barito",
+        "original_name": "Bobb Barito",
+        "popularity": 0.172,
+        "profile_path": "/dFXYf8EWJmc2biHznJMyx9252Pn.jpg",
+        "credit_id": "67980ee00e1e0486d62b57df",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1935220,
+        "known_for_department": "Camera",
+        "name": "Shane Bagwell",
+        "original_name": "Shane Bagwell",
+        "popularity": 0.1382,
+        "profile_path": null,
+        "credit_id": "67980f2009c252e3ab23ef79",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2660401,
+        "known_for_department": "Production",
+        "name": "Will Noyce",
+        "original_name": "Will Noyce",
+        "popularity": 0.4715,
+        "profile_path": "/jjGehzBOznjZUWVo6eXVHRtqQ4k.jpg",
+        "credit_id": "67980f36c7b01b72c7242021",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4015866,
+        "known_for_department": "Art",
+        "name": "Annie Becker",
+        "original_name": "Annie Becker",
+        "popularity": 0.1226,
+        "profile_path": null,
+        "credit_id": "67980f63b99d7e78c78f1a38",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5207787,
+        "known_for_department": "Production",
+        "name": "Vlad Ponomar",
+        "original_name": "Vlad Ponomar",
+        "popularity": 0.096,
+        "profile_path": null,
+        "credit_id": "67980f9eba4f941f448f16fb",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3869227,
+        "known_for_department": "Editing",
+        "name": "Chelsea Eisen",
+        "original_name": "Chelsea Eisen",
+        "popularity": 0.1493,
+        "profile_path": null,
+        "credit_id": "67980fb816f0d960df23c690",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3756943,
+        "known_for_department": "Writing",
+        "name": "Emma Weinswig",
+        "original_name": "Emma Weinswig",
+        "popularity": 0.0535,
+        "profile_path": "/xq4kcxnK8EdibYLac8xbr1uB5c.jpg",
+        "credit_id": "67980fccba4f941f448f1720",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3742708,
+        "known_for_department": "Camera",
+        "name": "Luke Jamison",
+        "original_name": "Luke Jamison",
+        "popularity": 0.0724,
+        "profile_path": null,
+        "credit_id": "67980fddba4f941f448f1723",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3869214,
+        "known_for_department": "Camera",
+        "name": "Grace Gallagher",
+        "original_name": "Grace Gallagher",
+        "popularity": 0.0945,
+        "profile_path": null,
+        "credit_id": "67980ff016f0d960df23c697",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5207791,
+        "known_for_department": "Camera",
+        "name": "Chris Yellen",
+        "original_name": "Chris Yellen",
+        "popularity": 0.1839,
+        "profile_path": null,
+        "credit_id": "67980ffd0a30d6d059242d3e",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1579897,
+        "known_for_department": "Production",
+        "name": "Brad Powers",
+        "original_name": "Brad Powers",
+        "popularity": 0.1522,
+        "profile_path": null,
+        "credit_id": "6798100b16f0d960df23c6a2",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2070989,
+        "known_for_department": "Camera",
+        "name": "Garet Jatsek",
+        "original_name": "Garet Jatsek",
+        "popularity": 0.0921,
+        "profile_path": null,
+        "credit_id": "6798101c0a30d6d059242d45",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3470466,
+        "known_for_department": "Editing",
+        "name": "William Lancaster",
+        "original_name": "William Lancaster",
+        "popularity": 0.1891,
+        "profile_path": "/2CILzHvbSVOecCzqyECBEQQJ0We.jpg",
+        "credit_id": "67e301cb4c52746665dca9e4",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1935220,
+        "known_for_department": "Camera",
+        "name": "Shane Bagwell",
+        "original_name": "Shane Bagwell",
+        "popularity": 0.1382,
+        "profile_path": null,
+        "credit_id": "6a1993a51ed72727666a08fb",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2358421,
+        "known_for_department": "Editing",
+        "name": "Kaitlyn Battistelli",
+        "original_name": "Kaitlyn Battistelli",
+        "popularity": 0.0913,
+        "profile_path": null,
+        "credit_id": "6a384f9680398ce921285057",
+        "department": "Editing",
+        "job": "Colorist"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "In 2015 during the last weekend before graduation in Mill Valley, California, Ben and his friends are hell-bent on winning the Senior Scavenger Hunt, which involves completing outrageous, sexual, and illegal tasks—all filmed and posted on Facebook. In their quest to win, Ben goes a bit overboard with his ex, and his friend’s end up roping in Emma, his freshman sister. Wanting to be cool and one of the guys, Emma gets sucked into their plan to rack up points without realizing it. Ben suddenly feels compelled to protect her, which sparks a dilemma: confront his friends at the Post-Scav Hunt party or play it cool and enjoy his final moments of high school with his bros.",
+          "runtime": 18,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt35530808",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 720,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/5SiS9WRHbWwX9sTwe6oet6z7y47.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1280
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/wymFbQ80e1jH2mULTaeiwQNbISi.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "SXSW",
+            "release_date": "2025-03-08T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "LA's Rich and Successful Film Festival",
+            "release_date": "2025-09-13T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-05-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

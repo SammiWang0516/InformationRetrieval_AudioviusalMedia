@@ -1,0 +1,954 @@
+{
+  "adult": false,
+  "backdrop_path": "/3gCKRx54CsqVVaufdtyE8dI0Lhi.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1030282,
+  "imdb_id": "tt15388560",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "All Happy Families",
+  "overview": "The Landrys are blindsided by news of their son's behavior, and must rally to find their way amidst comical family dysfunction.",
+  "popularity": 1.5098,
+  "poster_path": "/4lpgOpSRs4K5wI8lyO7miMcLwn3.jpg",
+  "production_companies": [
+    {
+      "id": 123192,
+      "logo_path": "/fX1W5MurtT9DxfB3nqphJefpJ5g.png",
+      "name": "Chicago Media Angels",
+      "origin_country": "US"
+    },
+    {
+      "id": 123193,
+      "logo_path": "/hlraS6aElXs04QKmSOCyPj8sNkV.png",
+      "name": "Neon Heart Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 183321,
+      "logo_path": null,
+      "name": "Glass Bead Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 183322,
+      "logo_path": "/nGrB4bYbXYyXJf8TprEUEpKqYyd.png",
+      "name": "Lucky Number 8 Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 22823,
+      "logo_path": "/cYqeaQKWuzfcTXG5GhRdQLaZxIL.png",
+      "name": "Attic Light Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 183323,
+      "logo_path": "/qhHLRFF381CvThxqy3JLJCfZq5U.png",
+      "name": "Pogi Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 232785,
+      "logo_path": null,
+      "name": "Fair Enough Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 130282,
+      "logo_path": "/gNkbUXBvdTf4QQuAT6qhkJYiRXS.png",
+      "name": "Ten to the Six Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-09-20",
+  "revenue": 0,
+  "runtime": 90,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "All Happy Families",
+  "video": false,
+  "vote_average": 5.4,
+  "vote_count": 5,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 144009,
+        "known_for_department": "Acting",
+        "name": "Josh Radnor",
+        "original_name": "Josh Radnor",
+        "popularity": 1.9346,
+        "profile_path": "/rHx4D70iRUkka5kl9064kOvmSQs.jpg",
+        "cast_id": 1,
+        "character": "Graham Landry",
+        "credit_id": "6337225d42f19f0091ae716f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 59206,
+        "known_for_department": "Acting",
+        "name": "Becky Ann Baker",
+        "original_name": "Becky Ann Baker",
+        "popularity": 1.0409,
+        "profile_path": "/84fEZMqVMlcl9EaBeCLbrYhHn0x.jpg",
+        "cast_id": 3,
+        "character": "Sue Landry",
+        "credit_id": "633722822e2b2c008176c873",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80595,
+        "known_for_department": "Acting",
+        "name": "Rob Huebel",
+        "original_name": "Rob Huebel",
+        "popularity": 0.928,
+        "profile_path": "/uHz2fiBMRz2E6GmAH5sRJNvKHWI.jpg",
+        "cast_id": 2,
+        "character": "Will",
+        "credit_id": "6337226de9da6900795a67c4",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 778,
+        "known_for_department": "Acting",
+        "name": "John Ashton",
+        "original_name": "John Ashton",
+        "popularity": 0.8734,
+        "profile_path": "/8TzYptb6pPxZJXfrJIu0UoZTNkX.jpg",
+        "cast_id": 5,
+        "character": "Roy Landry",
+        "credit_id": "633722b56e0d72009b6b21f2",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2370465,
+        "known_for_department": "Acting",
+        "name": "Chandra Russell",
+        "original_name": "Chandra Russell",
+        "popularity": 0.1589,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Dana Allen",
+        "credit_id": "63372298b076e5007e5c722d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3722156,
+        "known_for_department": "Acting",
+        "name": "Ivy O'Brien",
+        "original_name": "Ivy O'Brien",
+        "popularity": 0.2366,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Evie Landry",
+        "credit_id": "633723250a517c007c42963c",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74487,
+        "known_for_department": "Acting",
+        "name": "David Pasquesi",
+        "original_name": "David Pasquesi",
+        "popularity": 0.5586,
+        "profile_path": "/oQplec891LMv0wndTtKh1bIS11Z.jpg",
+        "cast_id": 7,
+        "character": "Jerry",
+        "credit_id": "633722f4cba36f009a41c75d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1437844,
+        "known_for_department": "Acting",
+        "name": "Antoine McKay",
+        "original_name": "Antoine McKay",
+        "popularity": 0.5818,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Phil Love",
+        "credit_id": "6337237d255dba0079fed9f1",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 65017,
+        "known_for_department": "Acting",
+        "name": "Natalija Nogulich",
+        "original_name": "Natalija Nogulich",
+        "popularity": 0.9291,
+        "profile_path": "/axKrCucnVBd3Jdgrmse0GNlbaeC.jpg",
+        "cast_id": 9,
+        "character": "",
+        "credit_id": "6337235f6e0d72007b06c551",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 13023,
+        "known_for_department": "Acting",
+        "name": "Colleen Camp",
+        "original_name": "Colleen Camp",
+        "popularity": 2.2277,
+        "profile_path": "/t1IbM9x1vJOzg02tQr68x9F4gI3.jpg",
+        "cast_id": 6,
+        "character": "Lila",
+        "credit_id": "633722db255dba0079fed9c4",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1968282,
+        "known_for_department": "Acting",
+        "name": "Eliza Shin",
+        "original_name": "Eliza Shin",
+        "popularity": 0.3777,
+        "profile_path": "/vQcZ06dT6TeMrkig5ZSxlnVXuG9.jpg",
+        "cast_id": 13,
+        "character": "Connie",
+        "credit_id": "633723c06e0d720083d653ce",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1056235,
+        "known_for_department": "Acting",
+        "name": "Rodney Crowell",
+        "original_name": "Rodney Crowell",
+        "popularity": 0.2449,
+        "profile_path": "/4MQESspJw8U8Ah7EW34WkhNkUDc.jpg",
+        "cast_id": 11,
+        "character": "Dino",
+        "credit_id": "6337238fd363e5007a307400",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1264519,
+        "known_for_department": "Acting",
+        "name": "Cassie Kramer",
+        "original_name": "Cassie Kramer",
+        "popularity": 0.2052,
+        "profile_path": "/9b6e99A2CK0YTOo9fByKLLEz3KQ.jpg",
+        "cast_id": 26,
+        "character": "Maureen Hoyt",
+        "credit_id": "668456ac7c2e09dbe6023edb",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1762964,
+        "known_for_department": "Acting",
+        "name": "Lena Drake",
+        "original_name": "Lena Drake",
+        "popularity": 0.2992,
+        "profile_path": "/xiR4U8lvFxONui1QJqjXWEWCYZ8.jpg",
+        "cast_id": 12,
+        "character": "LeAnn",
+        "credit_id": "633723abb076e5007b25d3e4",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5816213,
+        "known_for_department": "Acting",
+        "name": "Abrial Bonilla",
+        "original_name": "Abrial Bonilla",
+        "popularity": 0.0675,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Brianna",
+        "credit_id": "692e5f03c83c1b11355124b9",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1160977,
+        "known_for_department": "Acting",
+        "name": "Liz Cardenas",
+        "original_name": "Liz Cardenas",
+        "popularity": 0.2924,
+        "profile_path": "/nJIQqFMQiFk3Y3Xy1GZw0owgz6C.jpg",
+        "cast_id": 42,
+        "character": "Claudia",
+        "credit_id": "692e5f1c154b9a8eea512599",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5850920,
+        "known_for_department": "Acting",
+        "name": "Ethan Clark",
+        "original_name": "Ethan Clark",
+        "popularity": 0.0539,
+        "profile_path": null,
+        "cast_id": 43,
+        "character": "Boat Tourist",
+        "credit_id": "692e5f3e4796ccf74a5122f4",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1031686,
+        "known_for_department": "Acting",
+        "name": "Meighan Gerachis",
+        "original_name": "Meighan Gerachis",
+        "popularity": 0.2558,
+        "profile_path": "/ucDR7J8dVQzDA1TIhNhU65obsHL.jpg",
+        "cast_id": 44,
+        "character": "Carla Triantafillou",
+        "credit_id": "692e5f5f6c463f17d0dc3407",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4582610,
+        "known_for_department": "Acting",
+        "name": "Katelyn Lane",
+        "original_name": "Katelyn Lane",
+        "popularity": 0.4037,
+        "profile_path": null,
+        "cast_id": 45,
+        "character": "Bar Patron",
+        "credit_id": "692e5f8457fd0ccff626f0a7",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1720634,
+        "known_for_department": "Acting",
+        "name": "Cassidy Slaughter-Mason",
+        "original_name": "Cassidy Slaughter-Mason",
+        "popularity": 0.214,
+        "profile_path": "/Uc7cjwLf3t49sURo4QbDGPv7An.jpg",
+        "cast_id": 46,
+        "character": "Maggie",
+        "credit_id": "692e5fad839356a8bd3ea813",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3739331,
+        "known_for_department": "Acting",
+        "name": "Luigi Sottile",
+        "original_name": "Luigi Sottile",
+        "popularity": 0.1604,
+        "profile_path": "/i4IIbcp3AVeNUD7Gq9FP6f6k3Mw.jpg",
+        "cast_id": 47,
+        "character": "Aaron",
+        "credit_id": "692e5fb8918597d5d7399068",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5850939,
+        "known_for_department": "Acting",
+        "name": "Meredith Aleigha Wells",
+        "original_name": "Meredith Aleigha Wells",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "cast_id": 48,
+        "character": "Trendy Restaurant Patron",
+        "credit_id": "692e5fd2c7865f0229e33e4d",
+        "order": 21
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1189226,
+        "known_for_department": "Acting",
+        "name": "Coburn Goss",
+        "original_name": "Coburn Goss",
+        "popularity": 0.3233,
+        "profile_path": "/8n9J0ifyGqtZf3ahdqIFrTCyke3.jpg",
+        "credit_id": "6337257142f19f007de45dab",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1160977,
+        "known_for_department": "Acting",
+        "name": "Liz Cardenas",
+        "original_name": "Liz Cardenas",
+        "popularity": 0.2924,
+        "profile_path": "/nJIQqFMQiFk3Y3Xy1GZw0owgz6C.jpg",
+        "credit_id": "6337248ecba36f00816e8fae",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1722188,
+        "known_for_department": "Production",
+        "name": "Ian Keiser",
+        "original_name": "Ian Keiser",
+        "popularity": 0.1809,
+        "profile_path": null,
+        "credit_id": "63372514f3b49a008372320e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 335,
+        "known_for_department": "Acting",
+        "name": "Michael Shannon",
+        "original_name": "Michael Shannon",
+        "popularity": 3.0859,
+        "profile_path": "/6mMczfjM8CiS1WuBOgo5Xom1TcR.jpg",
+        "credit_id": "633723dd2e2b2c00790ac1ac",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1743016,
+        "known_for_department": "Directing",
+        "name": "Haroula Rose",
+        "original_name": "Haroula Rose",
+        "popularity": 0.1773,
+        "profile_path": null,
+        "credit_id": "633723f8cba36f009a41c79e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1189226,
+        "known_for_department": "Acting",
+        "name": "Coburn Goss",
+        "original_name": "Coburn Goss",
+        "popularity": 0.3233,
+        "profile_path": "/8n9J0ifyGqtZf3ahdqIFrTCyke3.jpg",
+        "credit_id": "6337242d255dba0079feda19",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1743016,
+        "known_for_department": "Directing",
+        "name": "Haroula Rose",
+        "original_name": "Haroula Rose",
+        "popularity": 0.1773,
+        "profile_path": null,
+        "credit_id": "6337243ef8e98200903e7519",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3722183,
+        "known_for_department": "Production",
+        "name": "Mary Munez",
+        "original_name": "Mary Munez",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "63372540f3b49a008372321f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1743016,
+        "known_for_department": "Directing",
+        "name": "Haroula Rose",
+        "original_name": "Haroula Rose",
+        "popularity": 0.1773,
+        "profile_path": null,
+        "credit_id": "6337255542f19f007de45d9e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1122411,
+        "known_for_department": "Production",
+        "name": "Milan Chakraborty",
+        "original_name": "Milan Chakraborty",
+        "popularity": 0.2811,
+        "profile_path": null,
+        "credit_id": "657cf1785f2db104ebdd9d91",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2745274,
+        "known_for_department": "Production",
+        "name": "Rhianon Jones",
+        "original_name": "Rhianon Jones",
+        "popularity": 0.2497,
+        "profile_path": "/b1vEBE4LBT5CIzavDdBtoAdDfYY.jpg",
+        "credit_id": "657cf15c6b5fc2056aa7bef1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2421928,
+        "known_for_department": "Production",
+        "name": "Tristan Scott-Behrends",
+        "original_name": "Tristan Scott-Behrends",
+        "popularity": 0.3379,
+        "profile_path": null,
+        "credit_id": "657cf1665c5cc8055e958a30",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1827187,
+        "known_for_department": "Camera",
+        "name": "Johanna Coelho",
+        "original_name": "Johanna Coelho",
+        "popularity": 0.2997,
+        "profile_path": null,
+        "credit_id": "66845778b3054e3e1a81622f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4806958,
+        "known_for_department": "Production",
+        "name": "Marshall Cordell",
+        "original_name": "Marshall Cordell",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "668457ad25ca71c3c5775142",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 235701,
+        "known_for_department": "Sound",
+        "name": "Zac Rae",
+        "original_name": "Zac Rae",
+        "popularity": 0.2976,
+        "profile_path": null,
+        "credit_id": "6684573c1ed9271c091e6afe",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3945854,
+        "known_for_department": "Production",
+        "name": "Mark Glassgow",
+        "original_name": "Mark Glassgow",
+        "popularity": 0.0539,
+        "profile_path": null,
+        "credit_id": "66845801afdadff0ce9b2d63",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20299,
+        "known_for_department": "Editing",
+        "name": "Alex Márquez",
+        "original_name": "Alex Márquez",
+        "popularity": 0.3916,
+        "profile_path": null,
+        "credit_id": "66845764c6d339e3811b9c17",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2541441,
+        "known_for_department": "Production",
+        "name": "Ted Reilly",
+        "original_name": "Ted Reilly",
+        "popularity": 0.0758,
+        "profile_path": null,
+        "credit_id": "668457cede2dae1be5badc99",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3213801,
+        "known_for_department": "Directing",
+        "name": "Jack McWilliams",
+        "original_name": "Jack McWilliams",
+        "popularity": 0.0972,
+        "profile_path": null,
+        "credit_id": "668457b6cbbe2375babadd17",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2614029,
+        "known_for_department": "Art",
+        "name": "Ania Bista",
+        "original_name": "Ania Bista",
+        "popularity": 0.1156,
+        "profile_path": null,
+        "credit_id": "668457574edaa2272217a006",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4432207,
+        "known_for_department": "Editing",
+        "name": "Caralyn Moore",
+        "original_name": "Caralyn Moore",
+        "popularity": 0.0607,
+        "profile_path": null,
+        "credit_id": "6684576fead3fb472b8165a1",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4761812,
+        "known_for_department": "Production",
+        "name": "Vance Howard",
+        "original_name": "Vance Howard",
+        "popularity": 0.1504,
+        "profile_path": null,
+        "credit_id": "668457c4f0de4f1d09badcdd",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1806233,
+        "known_for_department": "Production",
+        "name": "Grace Hahn",
+        "original_name": "Grace Hahn",
+        "popularity": 0.0797,
+        "profile_path": null,
+        "credit_id": "6684572e25ca71c3c5775135",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4806957,
+        "known_for_department": "Production",
+        "name": "Susan Berghoef",
+        "original_name": "Susan Berghoef",
+        "popularity": 0.05,
+        "profile_path": null,
+        "credit_id": "668457a04f24e7e98217a9b3",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4154278,
+        "known_for_department": "Sound",
+        "name": "Oliver Hill",
+        "original_name": "Oliver Hill",
+        "popularity": 0.1057,
+        "profile_path": null,
+        "credit_id": "6684574c8098f8fa031b9951",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2838550,
+        "known_for_department": "Sound",
+        "name": "Alison Moses",
+        "original_name": "Alison Moses",
+        "popularity": 0.4209,
+        "profile_path": null,
+        "credit_id": "68ae17786d15d90753f38f63",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "The Landrys are blindsided by news of their son's behavior, and must rally to find their way amidst comical family dysfunction.",
+          "runtime": 90,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "NL",
+        "iso_639_1": "nl",
+        "name": "Nederlands",
+        "english_name": "Dutch",
+        "data": {
+          "homepage": "",
+          "overview": "De Landry's worden verblind door nieuws over het gedrag van hun zoon en moeten zich verzamelen om hun weg te vinden te midden van een komische familie disfunctie.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "RU",
+        "iso_639_1": "ru",
+        "name": "Pусский",
+        "english_name": "Russian",
+        "data": {
+          "homepage": "",
+          "overview": "Лэндри собираются отремонтировать семейный дом. Грэм возвращается к утраченной любви. Инцидент на вечеринке в честь выхода Сью на пенсию испытывает многолетний брак. В дом приезжает телезвезда Уилл. Шокирующие новости ставят под угрозу семейную идиллию.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Все счастливые семьи"
+        }
+      },
+      {
+        "iso_3166_1": "HU",
+        "iso_639_1": "hu",
+        "name": "Magyar",
+        "english_name": "Hungarian",
+        "data": {
+          "homepage": "",
+          "overview": "A Landry család története nem egy sztereotip középnyugati családé. A bájos dramedy főszereplője egy hanyatlóban lévő, még mindig a nagy áttörésre váró színész és író, akinek bátyja sorozatsztárként tündököl. Azon a hétvégén, amikor egy új bérlő költözne be gyerekkori otthonukba, a testvérek és szüleik váratlanul ismét egy fedél alatt találják magukat. Minden titok és sérelem a felszínre tör.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "One of these Days",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt15388560",
+    "wikidata_id": "Q123154371",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/3gCKRx54CsqVVaufdtyE8dI0Lhi.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/4lpgOpSRs4K5wI8lyO7miMcLwn3.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/avBBOGyKqkxKYYInHxZLEQHVeah.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/iy1a1cb6ER5q7nHGJBSAmVwOcCf.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/gFJfVbvvdtFPIlVNJYyEOwpamAD.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-03-14T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-03-14T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Mill Valley Film Festival",
+            "release_date": "2023-10-14T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-09-20T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-10-18T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "_oOpswogZO0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "66ec16e3e43f07de82eb9b60",
+        "published_at": "2024-09-04T17:05:43.000Z"
+      }
+    ]
+  }
+}

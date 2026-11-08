@@ -1,0 +1,656 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 1130601,
+  "imdb_id": "tt27665384",
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_title": "Placa-mãe",
+  "overview": "Nadi is an android with citizenship, who earns the right to adopt two children. However, a sensationalist politician, brings up several controversies about the case, in order to gain popularity for his candidacy for Senate president.",
+  "popularity": 1.3365,
+  "poster_path": "/mQytxHlGSqSs2oVQuC9ns91iiqk.jpg",
+  "production_companies": [
+    {
+      "id": 30779,
+      "logo_path": null,
+      "name": "O2 Play",
+      "origin_country": "BR"
+    },
+    {
+      "id": 200701,
+      "logo_path": null,
+      "name": "Espacial Filmes",
+      "origin_country": "BR"
+    },
+    {
+      "id": 240768,
+      "logo_path": null,
+      "name": "Flash Minas",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "release_date": "2024-10-03",
+  "revenue": 0,
+  "runtime": 106,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Motherboard",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4077046,
+        "known_for_department": "Acting",
+        "name": "Ana Paula Schneider",
+        "original_name": "Ana Paula Schneider",
+        "popularity": 0.7662,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Nadi (voice)",
+        "credit_id": "646cff8954a09801728b9b2d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4077041,
+        "known_for_department": "Acting",
+        "name": "Ana Júlia Silva Guimarães",
+        "original_name": "Ana Júlia Silva Guimarães",
+        "popularity": 0.1585,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Lina (voice)",
+        "credit_id": "646cff4554a0980155e3ad6e",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4077043,
+        "known_for_department": "Acting",
+        "name": "Vitor Gabriel Pereira",
+        "original_name": "Vitor Gabriel Pereira",
+        "popularity": 0.7593,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "David (voice)",
+        "credit_id": "646cff66c3514c2b0bf412ac",
+        "order": 2
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 2293220,
+        "known_for_department": "Acting",
+        "name": "Márcio Simões",
+        "original_name": "Márcio Simões",
+        "popularity": 0.0,
+        "profile_path": "/9ACZGLVYG1UBgOoT6lVmpFnNqIT.jpg",
+        "cast_id": 36,
+        "character": "Asafe (voice)",
+        "credit_id": "66ff3959fa3e69e0ef7cacca",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1969873,
+        "known_for_department": "Acting",
+        "name": "Margarida Peixoto",
+        "original_name": "Margarida Peixoto",
+        "popularity": 0.1444,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Noa (voice)",
+        "credit_id": "66ff3c839ebea19006f7f77b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 570527,
+        "known_for_department": "Acting",
+        "name": "Áurea Baptista",
+        "original_name": "Áurea Baptista",
+        "popularity": 0.7844,
+        "profile_path": "/ebKBzqdBK1YrzbeM6RIexwZQwE5.jpg",
+        "cast_id": 37,
+        "character": "Neusa (voice)",
+        "credit_id": "66ff3a00f878adfed0850b39",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1601348,
+        "known_for_department": "Acting",
+        "name": "Carlos Cunha Filho",
+        "original_name": "Carlos Cunha Filho",
+        "popularity": 0.1624,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Theon (voice)",
+        "credit_id": "66ff3a6367c6fb09fff7f0d4",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1873830,
+        "known_for_department": "Acting",
+        "name": "Marcello Crawshaw",
+        "original_name": "Marcello Crawshaw",
+        "popularity": 0.1727,
+        "profile_path": "/tTQER2Jt8FD7oHuTOwZ4IM3VOtj.jpg",
+        "cast_id": 4,
+        "character": "Apriel (voice)",
+        "credit_id": "646cff02706b9f011bb47521",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1742100,
+        "known_for_department": "Acting",
+        "name": "Cassiano Ranzolin",
+        "original_name": "Cassiano Ranzolin",
+        "popularity": 0.1544,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Lata Nova (voice)",
+        "credit_id": "66ff3d45e84eeb35a0f7f844",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4077037,
+        "known_for_department": "Acting",
+        "name": "Keka Bittencourt",
+        "original_name": "Keka Bittencourt",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Turbinada (voice)",
+        "credit_id": "646cfef4706b9f0172476726",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4077042,
+        "known_for_department": "Acting",
+        "name": "Teffy Marcondes",
+        "original_name": "Teffy Marcondes",
+        "popularity": 0.032,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Sabrina (voice)",
+        "credit_id": "646cff58d185720161937255",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4077036,
+        "known_for_department": "Acting",
+        "name": "Guilherme Barcellos",
+        "original_name": "Guilherme Barcellos",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "André (voice)",
+        "credit_id": "646cfee9d1857201802e8d88",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4077049,
+        "known_for_department": "Acting",
+        "name": "Zé Luiz Thomé",
+        "original_name": "Zé Luiz Thomé",
+        "popularity": 0.0337,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Presidente do Senado (voice)",
+        "credit_id": "646cffaa54a098011b2cd1e7",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 938641,
+        "known_for_department": "Directing",
+        "name": "Otto Guerra",
+        "original_name": "Otto Guerra",
+        "popularity": 0.5783,
+        "profile_path": "/6RLKBtROdVdzfI3IzT7jbGWWX5a.jpg",
+        "cast_id": 7,
+        "character": "Velho Corcunda (voice)",
+        "credit_id": "646cff3551e6ab013ab9832a",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4077040,
+        "known_for_department": "Acting",
+        "name": "Stevan Gaipo",
+        "original_name": "Stevan Gaipo",
+        "popularity": 0.0372,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Influenciador (voice)",
+        "credit_id": "646cff1d706b9f0172476742",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4979661,
+        "known_for_department": "Acting",
+        "name": "Gisela Habeyche",
+        "original_name": "Gisela Habeyche",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Candidata a Adoção (voice)",
+        "credit_id": "66ff3dd8f878adfed0850b70",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2279443,
+        "known_for_department": "Acting",
+        "name": "Martha Brito",
+        "original_name": "Martha Brito",
+        "popularity": 0.2498,
+        "profile_path": "/52kDinxqJ7dHZ09P0qM8lSJNPM.jpg",
+        "cast_id": 46,
+        "character": "Gringa / Mãe do Laboratório (voice)",
+        "credit_id": "66ff3e7d1592ef1ba984fdff",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4077044,
+        "known_for_department": "Acting",
+        "name": "Renan Rammé",
+        "original_name": "Renan Rammé",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Gringo / Sansão / Homero / Hippie (voice)",
+        "credit_id": "646cff732bcf6700e3bc8ade",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4077056,
+        "known_for_department": "Production",
+        "name": "Christopher Costa",
+        "original_name": "Christopher Costa",
+        "popularity": 0.0383,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "Figurante do Truco (voice)",
+        "credit_id": "66ff3e0afa3e69e0ef7cad09",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1193317,
+        "known_for_department": "Sound",
+        "name": "Kiko Ferraz",
+        "original_name": "Kiko Ferraz",
+        "popularity": 0.2047,
+        "profile_path": "/txmPZOpiXV8ma0IalSNN2dVcTYP.jpg",
+        "cast_id": 43,
+        "character": "Figurante do Truco 2 (voice)",
+        "credit_id": "66ff3e197830c1301e7ca374",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4077054,
+        "known_for_department": "Directing",
+        "name": "Igor Bastos",
+        "original_name": "Igor Bastos",
+        "popularity": 0.8064,
+        "profile_path": null,
+        "cast_id": 44,
+        "character": "Ice Blue (voice)",
+        "credit_id": "66ff3e35e4801491468503c3",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4979662,
+        "known_for_department": "Acting",
+        "name": "Kellen C. Silva",
+        "original_name": "Kellen C. Silva",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 45,
+        "character": "Senadora Kell (voice)",
+        "credit_id": "66ff3e577830c1301e7ca383",
+        "order": 21
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4077054,
+        "known_for_department": "Directing",
+        "name": "Igor Bastos",
+        "original_name": "Igor Bastos",
+        "popularity": 0.8064,
+        "profile_path": null,
+        "credit_id": "646d00ea2bcf67015584db11",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1193317,
+        "known_for_department": "Sound",
+        "name": "Kiko Ferraz",
+        "original_name": "Kiko Ferraz",
+        "popularity": 0.2047,
+        "profile_path": "/txmPZOpiXV8ma0IalSNN2dVcTYP.jpg",
+        "credit_id": "646d015fc3514c2b09b40228",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4077054,
+        "known_for_department": "Directing",
+        "name": "Igor Bastos",
+        "original_name": "Igor Bastos",
+        "popularity": 0.8064,
+        "profile_path": null,
+        "credit_id": "646d01a554a0980155e3ae2a",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4077054,
+        "known_for_department": "Directing",
+        "name": "Igor Bastos",
+        "original_name": "Igor Bastos",
+        "popularity": 0.8064,
+        "profile_path": null,
+        "credit_id": "646d01c2706b9f00fe543d36",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4077056,
+        "known_for_department": "Production",
+        "name": "Christopher Costa",
+        "original_name": "Christopher Costa",
+        "popularity": 0.0383,
+        "profile_path": null,
+        "credit_id": "66ff377fe4801491468502bf",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1761663,
+        "known_for_department": "Directing",
+        "name": "Sávio Leite",
+        "original_name": "Sávio Leite",
+        "popularity": 0.1709,
+        "profile_path": "/qznVM4vTzVGnzkbbLZeaJGFVuhh.jpg",
+        "credit_id": "66ff378ee84eeb35a0f7f726",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4077055,
+        "known_for_department": "Production",
+        "name": "Lázaro Camilo",
+        "original_name": "Lázaro Camilo",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "66ff37a29ebea19006f7f6ac",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4077058,
+        "known_for_department": "Art",
+        "name": "Elisa Guimarães",
+        "original_name": "Elisa Guimarães",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "66ff37b0925fdf925b7cacd2",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1193317,
+        "known_for_department": "Sound",
+        "name": "Kiko Ferraz",
+        "original_name": "Kiko Ferraz",
+        "popularity": 0.2047,
+        "profile_path": "/txmPZOpiXV8ma0IalSNN2dVcTYP.jpg",
+        "credit_id": "66ff37c29ebea19006f7f6c2",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1695684,
+        "known_for_department": "Sound",
+        "name": "Leo Henkin",
+        "original_name": "Leo Henkin",
+        "popularity": 0.2397,
+        "profile_path": "/29C88GSMowyBtUlhNPFukmLdEZS.jpg",
+        "credit_id": "66ff37cd9ebea19006f7f6d2",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1193317,
+        "known_for_department": "Sound",
+        "name": "Kiko Ferraz",
+        "original_name": "Kiko Ferraz",
+        "popularity": 0.2047,
+        "profile_path": "/txmPZOpiXV8ma0IalSNN2dVcTYP.jpg",
+        "credit_id": "66ff37e0fa3e69e0ef7cac70",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1856919,
+        "known_for_department": "Sound",
+        "name": "Chrístian Vaisz",
+        "original_name": "Chrístian Vaisz",
+        "popularity": 0.1623,
+        "profile_path": null,
+        "credit_id": "66ff37ee9ebea19006f7f6ea",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2210039,
+        "known_for_department": "Sound",
+        "name": "Ricardo Costa",
+        "original_name": "Ricardo Costa",
+        "popularity": 0.2755,
+        "profile_path": null,
+        "credit_id": "6a1bd19e0c931a0a5b0ec8c4",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 803,
+        "name": "android"
+      },
+      {
+        "id": 1399,
+        "name": "senate"
+      },
+      {
+        "id": 2393,
+        "name": "adoption"
+      },
+      {
+        "id": 10360,
+        "name": "prejudice"
+      },
+      {
+        "id": 14544,
+        "name": "robot"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "BR",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "homepage": "https://www.espacialfilmes.com.br/placa-mae/",
+          "overview": "Nadi, uma andróide com cidadania, ganha o direito de adotar duas crianças, David e Lina. Quando um mal entendido acontece, o menino David, com medo de se separar de sua irmã, foge. Enquanto o garoto lida com os perigos da cidade, Nadi tenta encontrá-lo.",
+          "runtime": 106,
+          "tagline": "",
+          "title": "Placa-mãe"
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Nadi is an android with citizenship, who earns the right to adopt two children. However, a sensationalist politician, brings up several controversies about the case, in order to gain popularity for his candidacy for Senate president.",
+          "runtime": 106,
+          "tagline": "",
+          "title": "Motherboard"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Motherboard",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt27665384",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Exibição no 1º Festival de Cinema de São Bernardo do Campo",
+            "release_date": "2023-11-29T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "10",
+            "descriptors": [],
+            "iso_639_1": "pt",
+            "note": "",
+            "release_date": "2024-10-03T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

@@ -1,0 +1,956 @@
+{
+  "adult": false,
+  "backdrop_path": "/wtCCDl3wxHMPmbB60geBsr0WQbZ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1128992,
+  "imdb_id": "tt32222167",
+  "origin_country": [
+    "PE"
+  ],
+  "original_language": "es",
+  "original_title": "Chabuca",
+  "overview": "The story of Ernesto Pimentel’s life, raised humbly after losing his mother, inspires him to create the iconic character La Chola Chabuca, an Andean figure who captivates all of Peru with her colourful skirts and high spirits.",
+  "popularity": 1.5358,
+  "poster_path": "/olmMIqztS1ClgqFixpbEGoAS2Qy.jpg",
+  "production_companies": [
+    {
+      "id": 14299,
+      "logo_path": "/bsVrNsJf9IbsgyFFxNmWpWr9z5i.png",
+      "name": "Tondero",
+      "origin_country": "PE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PE",
+      "name": "Peru"
+    }
+  ],
+  "release_date": "2024-04-11",
+  "revenue": 0,
+  "runtime": 113,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Based on the life of Ernesto Pimentel",
+  "title": "Chabuca",
+  "video": false,
+  "vote_average": 5.5,
+  "vote_count": 6,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4192957,
+        "known_for_department": "Acting",
+        "name": "Sergio Armasgo",
+        "original_name": "Sergio Armasgo",
+        "popularity": 0.1521,
+        "profile_path": "/8hrcx43lcsvjsDvPGHhIxCvfoUH.jpg",
+        "cast_id": 12,
+        "character": "Ernesto Pimentel",
+        "credit_id": "64c9d4a30cb33500ff418f33",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4382736,
+        "known_for_department": "Acting",
+        "name": "Izan Alcázar",
+        "original_name": "Izan Alcázar",
+        "popularity": 0.1237,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Young Ernesto",
+        "credit_id": "665ad8a4cee64e33f546721e",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4382752,
+        "known_for_department": "Acting",
+        "name": "Miguel Dávalos",
+        "original_name": "Miguel Dávalos",
+        "popularity": 0.6111,
+        "profile_path": "/syW4PuEnn0t5hWxDupGQLzU84vk.jpg",
+        "cast_id": 21,
+        "character": "André",
+        "credit_id": "6557e24022931a00e2667fb0",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1987508,
+        "known_for_department": "Acting",
+        "name": "Haydeé Cáceres",
+        "original_name": "Haydeé Cáceres",
+        "popularity": 0.2838,
+        "profile_path": "/boRwAhbUcAdUflM55my1PxFR0EN.jpg",
+        "cast_id": 13,
+        "character": "Estela",
+        "credit_id": "6557e039ca0e1700e3c89ed9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4180497,
+        "known_for_department": "Acting",
+        "name": "Gina Yangali",
+        "original_name": "Gina Yangali",
+        "popularity": 0.1267,
+        "profile_path": "/niGDaYcgK7GWDonX0blRZJ7ahxI.jpg",
+        "cast_id": 17,
+        "character": "Miluska",
+        "credit_id": "6557e08c7f054018d78f1500",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1961376,
+        "known_for_department": "Acting",
+        "name": "Brando Gallesi",
+        "original_name": "Brando Gallesi",
+        "popularity": 0.217,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Julio",
+        "credit_id": "6557e0a00816c700c3dc9add",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4382742,
+        "known_for_department": "Acting",
+        "name": "Alejandro Villagomez",
+        "original_name": "Alejandro Villagomez",
+        "popularity": 0.1529,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Josué",
+        "credit_id": "6557e113b5400214d06f1d26",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3202152,
+        "known_for_department": "Acting",
+        "name": "Renato Rueda",
+        "original_name": "Renato Rueda",
+        "popularity": 0.168,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Gabriel Sarmioni",
+        "credit_id": "665ada421f2ead229c2ff65a",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3646427,
+        "known_for_department": "Acting",
+        "name": "Gerson Del Carpio",
+        "original_name": "Gerson Del Carpio",
+        "popularity": 0.2624,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Coco",
+        "credit_id": "6557e11f0816c700e01a6fbe",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3246450,
+        "known_for_department": "Acting",
+        "name": "Liliana Alegría",
+        "original_name": "Liliana Alegría",
+        "popularity": 0.0958,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Sister Rosa",
+        "credit_id": "665adb307e1739f87c47e2cf",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1152454,
+        "known_for_department": "Acting",
+        "name": "Norka Ramírez",
+        "original_name": "Norka Ramírez",
+        "popularity": 0.1708,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Nelly",
+        "credit_id": "6557e045ca0e1700e3c89edf",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1471605,
+        "known_for_department": "Acting",
+        "name": "Rodrigo Palacios",
+        "original_name": "Rodrigo Palacios",
+        "popularity": 0.1011,
+        "profile_path": "/5lzyTROy00y4VgJjCEz0RDkxaxx.jpg",
+        "cast_id": 28,
+        "character": "Manager Son",
+        "credit_id": "665adc2d3c32cb1abfaf1090",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 147314,
+        "known_for_department": "Acting",
+        "name": "Gianfranco Brero",
+        "original_name": "Gianfranco Brero",
+        "popularity": 0.1881,
+        "profile_path": "/lIrPcGBtZ4WQl45TCLbFp7HAtLI.jpg",
+        "cast_id": 29,
+        "character": "Manager Father",
+        "credit_id": "665adc6d3dade6665c467282",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4748262,
+        "known_for_department": "Acting",
+        "name": "Sebastian Barreto",
+        "original_name": "Sebastian Barreto",
+        "popularity": 0.0553,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Ramiro",
+        "credit_id": "665adcca3c32cb1abfaf10e0",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4748266,
+        "known_for_department": "Acting",
+        "name": "Fernando Reynoso",
+        "original_name": "Fernando Reynoso",
+        "popularity": 0.0948,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Kevin",
+        "credit_id": "665add618c78c4f6a1592bf7",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2529238,
+        "known_for_department": "Acting",
+        "name": "Ebelin Ortiz",
+        "original_name": "Ebelin Ortiz",
+        "popularity": 0.4613,
+        "profile_path": "/xpDDFxU3UuIia5RxM5oT21FqgOn.jpg",
+        "cast_id": 32,
+        "character": "Yolanda",
+        "credit_id": "665ade8dc0fbf240f7af0c91",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4748269,
+        "known_for_department": "Acting",
+        "name": "Issa Ringgold",
+        "original_name": "Issa Ringgold",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Vicky",
+        "credit_id": "665adf013dade6665c4672f5",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1631554,
+        "known_for_department": "Acting",
+        "name": "Elsa Olivero",
+        "original_name": "Elsa Olivero",
+        "popularity": 0.1048,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Aunt Zoila",
+        "credit_id": "665adf5a05d63ad8214277c9",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1971627,
+        "known_for_department": "Acting",
+        "name": "Erick Elera",
+        "original_name": "Erick Elera",
+        "popularity": 0.1653,
+        "profile_path": "/bfeSPO6p7A9St1YsXHXPF7fBZlB.jpg",
+        "cast_id": 24,
+        "character": "Uncle David",
+        "credit_id": "661dc16d0816c70163ed5e60",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1085312,
+        "known_for_department": "Acting",
+        "name": "Ramón García",
+        "original_name": "Ramón García",
+        "popularity": 0.329,
+        "profile_path": "/ridDQMfFdTZ936ALAF6J8B70HO4.jpg",
+        "cast_id": 35,
+        "character": "Monsignor",
+        "credit_id": "665adfc5c0fbf240f7af0cd7",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4748287,
+        "known_for_department": "Acting",
+        "name": "Ricardo Combi",
+        "original_name": "Ricardo Combi",
+        "popularity": 0.1705,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Willy Ville",
+        "credit_id": "665ae4df10a4adc4cc591cac",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4748289,
+        "known_for_department": "Acting",
+        "name": "Emilio Montero Schwarz",
+        "original_name": "Emilio Montero Schwarz",
+        "popularity": 0.0468,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Carlos Caicho",
+        "credit_id": "665ae55410a4adc4cc591ccc",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1239649,
+        "known_for_department": "Acting",
+        "name": "Jorge Gutiérrez",
+        "original_name": "Jorge Gutiérrez",
+        "popularity": 0.1527,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Neighbor",
+        "credit_id": "665ae63953be7ee9cf2ff68b",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4748297,
+        "known_for_department": "Acting",
+        "name": "Pedro Ibañez",
+        "original_name": "Pedro Ibañez",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Dancer 2",
+        "credit_id": "665ae6f03ccd0f89c847dacf",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4748300,
+        "known_for_department": "Acting",
+        "name": "Juan Gerardo Delgado",
+        "original_name": "Juan Gerardo Delgado",
+        "popularity": 0.1248,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Dancer 3",
+        "credit_id": "665ae74c3dade6665c467408",
+        "order": 24
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3467885,
+        "known_for_department": "Crew",
+        "name": "Renzo Rivas",
+        "original_name": "Renzo Rivas",
+        "popularity": 0.131,
+        "profile_path": "/aYABaQRlYcaH9SHdUDpJKED1lfI.jpg",
+        "credit_id": "661c0a15a313b8018815dc1c",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1603915,
+        "known_for_department": "Editing",
+        "name": "Chino Pinto",
+        "original_name": "Chino Pinto",
+        "popularity": 0.0673,
+        "profile_path": null,
+        "credit_id": "661c0a523c887d013bf4919e",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3061999,
+        "known_for_department": "Directing",
+        "name": "Jorge Carmona",
+        "original_name": "Jorge Carmona",
+        "popularity": 0.3647,
+        "profile_path": null,
+        "credit_id": "6467b6dd2bcf670172b0b86e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1329589,
+        "known_for_department": "Production",
+        "name": "Miguel Valladares",
+        "original_name": "Miguel Valladares",
+        "popularity": 0.1752,
+        "profile_path": null,
+        "credit_id": "6467b6ec006b010105899c3c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2559806,
+        "known_for_department": "Production",
+        "name": "Jorge Constantino",
+        "original_name": "Jorge Constantino",
+        "popularity": 0.2266,
+        "profile_path": null,
+        "credit_id": "6467b700c3514c013a552262",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2870409,
+        "known_for_department": "Production",
+        "name": "Milagros Valladares Vives",
+        "original_name": "Milagros Valladares Vives",
+        "popularity": 0.1403,
+        "profile_path": null,
+        "credit_id": "6467b71b2bcf670172b0b885",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4070767,
+        "known_for_department": "Production",
+        "name": "Miluska Jacome",
+        "original_name": "Miluska Jacome",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6467b733a5046e018940d8d8",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3416124,
+        "known_for_department": "Acting",
+        "name": "Ernesto Pimentel Yesquén",
+        "original_name": "Ernesto Pimentel Yesquén",
+        "popularity": 0.0494,
+        "profile_path": null,
+        "credit_id": "6467b752d1857200e5a3864c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2603937,
+        "known_for_department": "Production",
+        "name": "Diego Vives",
+        "original_name": "Diego Vives",
+        "popularity": 0.3219,
+        "profile_path": null,
+        "credit_id": "6467b777a5046e018940d8ed",
+        "department": "Production",
+        "job": "Production Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2003290,
+        "known_for_department": "Writing",
+        "name": "Mariana Silva",
+        "original_name": "Mariana Silva",
+        "popularity": 0.2478,
+        "profile_path": null,
+        "credit_id": "6467b783c3514c01745b5284",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1781545,
+        "known_for_department": "Writing",
+        "name": "Christopher Vasquez",
+        "original_name": "Christopher Vasquez",
+        "popularity": 0.0553,
+        "profile_path": null,
+        "credit_id": "6467b7b02bcf670172b0b8ac",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3327661,
+        "known_for_department": "Writing",
+        "name": "Italo Cordano",
+        "original_name": "Italo Cordano",
+        "popularity": 0.1081,
+        "profile_path": null,
+        "credit_id": "6467b7be33a376013b3d7c55",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3201937,
+        "known_for_department": "Sound",
+        "name": "Isa Abad Pinedo",
+        "original_name": "Isa Abad Pinedo",
+        "popularity": 0.4803,
+        "profile_path": "/ifo5P83hQQoNMl0iG24b8ZPLA5r.jpg",
+        "credit_id": "66ce4cdf1b7fce73629628ee",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1442777,
+        "known_for_department": "Sound",
+        "name": "Rosa María Oliart",
+        "original_name": "Rosa María Oliart",
+        "popularity": 0.9901,
+        "profile_path": null,
+        "credit_id": "66ce4cf781f25c5887e2e0ab",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1442777,
+        "known_for_department": "Sound",
+        "name": "Rosa María Oliart",
+        "original_name": "Rosa María Oliart",
+        "popularity": 0.9901,
+        "profile_path": null,
+        "credit_id": "66ce4d67df990e87ced3ce9f",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3201937,
+        "known_for_department": "Sound",
+        "name": "Isa Abad Pinedo",
+        "original_name": "Isa Abad Pinedo",
+        "popularity": 0.4803,
+        "profile_path": "/ifo5P83hQQoNMl0iG24b8ZPLA5r.jpg",
+        "credit_id": "66ce4db43901a82b4849e2f1",
+        "department": "Sound",
+        "job": "Sound Post Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2728594,
+        "known_for_department": "Sound",
+        "name": "Alvaro Aparicio Pajares",
+        "original_name": "Alvaro Aparicio",
+        "popularity": 0.266,
+        "profile_path": null,
+        "credit_id": "66ce4de7d4c78f34cc66d593",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2728595,
+        "known_for_department": "Sound",
+        "name": "Vanessa Chuquiure",
+        "original_name": "Vanessa Chuquiure",
+        "popularity": 0.2364,
+        "profile_path": null,
+        "credit_id": "66ce4e09dba3e5a31b117cfa",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3472774,
+        "known_for_department": "Sound",
+        "name": "Valeria Elias Vizarreta",
+        "original_name": "Valeria Elias Vizarreta",
+        "popularity": 0.1485,
+        "profile_path": null,
+        "credit_id": "66ce4e405658192eda083655",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2728594,
+        "known_for_department": "Sound",
+        "name": "Alvaro Aparicio Pajares",
+        "original_name": "Alvaro Aparicio",
+        "popularity": 0.266,
+        "profile_path": null,
+        "credit_id": "69a8da25cb99aa7d49c2f399",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 824,
+        "name": "drag queen"
+      },
+      {
+        "id": 5565,
+        "name": "biography"
+      },
+      {
+        "id": 9672,
+        "name": "based on true story"
+      },
+      {
+        "id": 158718,
+        "name": "lgbt"
+      },
+      {
+        "id": 191458,
+        "name": "rise to fame"
+      },
+      {
+        "id": 255019,
+        "name": "lima, peru"
+      },
+      {
+        "id": 258533,
+        "name": "gay theme"
+      },
+      {
+        "id": 318113,
+        "name": "television host"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "The story of Ernesto Pimentel’s life, raised humbly after losing his mother, inspires him to create the iconic character La Chola Chabuca, an Andean figure who captivates all of Peru with her colourful skirts and high spirits.",
+          "runtime": 113,
+          "tagline": "Based on the life of Ernesto Pimentel",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "La historia de la vida de Ernesto Pimentel, criado con humildad tras perder a su madre, lo inspira a crear el personaje icónico La Chola Chabuca, una figura andina que cautiva a todo el Perú con sus faldas coloridas y su buen humor.",
+          "runtime": 113,
+          "tagline": "",
+          "title": "Chabuca"
+        }
+      },
+      {
+        "iso_3166_1": "MX",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "La historia de la vida de Ernesto Pimentel, criado con humildad tras perder a su madre, lo inspira a crear el personaje icónico La Chola Chabuca, una figura andina que cautiva a todo el Perú con sus faldas coloridas y su buen humor.",
+          "runtime": 113,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "L'histoire de la vie d'Ernesto Pimentel, élevé humblement après avoir perdu sa mère, lui inspire le personnage emblématique de La Chola Chabuca, une figure andine qui captive tout le Pérou avec ses jupes colorées et sa bonne humeur.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "BR",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "homepage": "",
+          "overview": "Neste filme biográfico, o apresentador Ernesto Pimentel desafia a opinião conservadora e decide se tornar Chabuca, uma mulher cheia de humor e charme.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "IT",
+        "iso_639_1": "it",
+        "name": "Italiano",
+        "english_name": "Italian",
+        "data": {
+          "homepage": "",
+          "overview": "La storia della vita del comico, presentatore televisivo, drag queen e attore peruviano Ernesto Pimentel, cresciuto in povertà dopo aver perso la madre, decide di creare il personaggio iconico La Chola Chabuca, una figura andina che affascina tutto il Perù con le sue gonne colorate e il suo senso dello humor.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt32222167",
+    "wikidata_id": "Q124540259",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1200,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/wtCCDl3wxHMPmbB60geBsr0WQbZ.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2133
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 720,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/tpUuYN7KNj8xmclPMYeZp8eomUA.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1280
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 720,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/8oM3I9Vr5gSmLgBEHQgC0wRFHbU.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1280
+      },
+      {
+        "aspect_ratio": 1.779,
+        "height": 989,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/zcG7SYNfA554HFlk1hTgXJOwYcJ.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1759
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 720,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/bAD6H7vE0OTdaxlAKtkZgpjWmu.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1280
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 720,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/pVpjtgSCRVvri2vqXdmAPiGLXKw.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1280
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 720,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/oZUKPHVDgeqkH5wL9ledWD7NfZ5.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1280
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/rgIpfMSQ2NXJiBzHRVIoWKlA8lg.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/yI0KfoTTvB5lwlhR5RYiAGRXdtH.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "PE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-04-11T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "CHABUCA, La Película -Trailer Oficial - Tondero",
+        "key": "CVcO1h3NrMk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "65cea8a0fdf8b70186669ce1",
+        "published_at": "2024-02-15T23:41:00.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Chabuca, La Película | Teaser Oficial | Tondero",
+        "key": "zbX5Q3hHQYg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": false,
+        "id": "6557e1b322931a01398dd592",
+        "published_at": "2023-11-17T14:00:54.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Chabuca | Teaser | Tondero",
+        "key": "YulTkR2t8xc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": false,
+        "id": "6467b883a5046e0168366179",
+        "published_at": "2022-10-07T13:30:10.000Z"
+      }
+    ]
+  }
+}

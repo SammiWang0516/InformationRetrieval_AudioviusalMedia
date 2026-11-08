@@ -1,0 +1,192 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 1726027,
+  "imdb_id": null,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Au cœur des Bleus",
+  "overview": "",
+  "popularity": 1.2391,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 35953,
+      "logo_path": "/n4OA4cWRIjyGPVz6y7BXydyHSKU.png",
+      "name": "TF1 Production",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2024-07-12",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Au cœur des Bleus",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19732,
+        "known_for_department": "Acting",
+        "name": "Didier Deschamps",
+        "original_name": "Didier Deschamps",
+        "popularity": 0.348,
+        "profile_path": "/d2el7oK37NqekLWGBCUCNAUNP60.jpg",
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "6a495fd751442b7625c6fe81",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2085463,
+        "known_for_department": "Acting",
+        "name": "Antoine Griezmann",
+        "original_name": "Antoine Griezmann",
+        "popularity": 0.2977,
+        "profile_path": "/g9WmaHFtvJXM1KWXnddJIO2aGgS.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "6a496119a8cba3f4b7998938",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2053049,
+        "known_for_department": "Acting",
+        "name": "Kylian Mbappé",
+        "original_name": "Kylian Mbappé",
+        "popularity": 0.9728,
+        "profile_path": "/dd4I6meFnEJbcsTbUV6uMOWqiNE.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "6a4961239d440a12d5099f40",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6326728,
+        "known_for_department": "Directing",
+        "name": "Bastien Achard-Lombard",
+        "original_name": "Bastien Achard-Lombard",
+        "popularity": 0.2504,
+        "profile_path": null,
+        "credit_id": "6a4960595cbd68b39f099ef6",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 13042,
+        "name": "football (soccer)"
+      },
+      {
+        "id": 333328,
+        "name": "sport"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "https://www.tf1.fr/tf1/au-coeur-des-bleus",
+          "overview": "Un documentaire exclusif sur le parcours de l'Équipe de France lors de l'Euro 2024. Des interviews exclusives, le discours fédérateur de Didier Deschamps juste avant le 1/8e de final, ou encore des images des vestiaires encore jamais révélées.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "https://www.tf1.fr/tf1/au-coeur-des-bleus",
+          "overview": "Eine exklusive Dokumentation über den Werdegang der französischen Nationalmannschaft bei der EM 2024. Exklusive Interviews, die motivierende Ansprache von Didier Deschamps kurz vor dem Achtelfinale sowie bisher unveröffentlichte Aufnahmen aus den Umkleideräumen.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": "Q140431461",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "fr",
+            "note": "TF1",
+            "release_date": "2024-07-12T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

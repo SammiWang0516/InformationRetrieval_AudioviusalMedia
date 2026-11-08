@@ -1,0 +1,184 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1234948,
+  "imdb_id": "tt26054976",
+  "origin_country": [
+    "CL"
+  ],
+  "original_language": "en",
+  "original_title": "Análogos",
+  "overview": "Blanca and José are a lonely old couple, whose routine of watching television is affected by an astronomical phenomenon. Blanca suffers from a degenerative disease and depends on José in everyday situations.",
+  "popularity": 1.264,
+  "poster_path": "/vpZ8t4stmhhEUSKPTdgsjeeiPF5.jpg",
+  "production_companies": [
+    {
+      "id": 219148,
+      "logo_path": null,
+      "name": "Olguin Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CL",
+      "name": "Chile"
+    }
+  ],
+  "release_date": "2024-01-25",
+  "revenue": 0,
+  "runtime": 81,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Análogos",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1021765,
+        "known_for_department": "Directing",
+        "name": "Jorge Olguín",
+        "original_name": "Jorge Olguín",
+        "popularity": 0.517,
+        "profile_path": "/4RZr7pE6jdN6u4EM5qAKf2byiUH.jpg",
+        "credit_id": "65b192f2fd140b00e8a01527",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Blanca and José are a lonely old couple, whose routine of watching television is affected by an astronomical phenomenon. Blanca suffers from a degenerative disease and depends on José in everyday situations.",
+          "runtime": 81,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 81,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "ES",
+        "title": "Los análogos",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "Gli analoghi",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt26054976",
+    "wikidata_id": "Q129566307",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/vpZ8t4stmhhEUSKPTdgsjeeiPF5.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.7,
+        "height": 1200,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/vFY2U7SZX8phshyVAPl8K7JYNjD.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 840
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "",
+            "release_date": "2023-12-06T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "",
+            "release_date": "2024-01-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

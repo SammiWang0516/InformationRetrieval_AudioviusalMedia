@@ -1,0 +1,334 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1571022,
+  "imdb_id": null,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Les excuses",
+  "overview": "Plot unknown",
+  "popularity": 0.7212,
+  "poster_path": "/6DhhK22eR7ldLXf2AnOZtLbQPQn.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2025-10-30",
+  "revenue": 0,
+  "runtime": 17,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Les excuses",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2174043,
+        "known_for_department": "Acting",
+        "name": "Garance Kim",
+        "original_name": "Garance Kim",
+        "popularity": 0.1132,
+        "profile_path": "/gBBpfixCSoonDVdr86T3A1e5KSc.jpg",
+        "cast_id": 1,
+        "character": "Alice Duchamp",
+        "credit_id": "690229f9bb149e128b01431d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5782098,
+        "known_for_department": "Acting",
+        "name": "Frédéric Nau",
+        "original_name": "Frédéric Nau",
+        "popularity": 0.186,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "André Damier",
+        "credit_id": "69022a19ab56044cf9935b23",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5782123,
+        "known_for_department": "Acting",
+        "name": "Dominique Michel",
+        "original_name": "Dominique Michel",
+        "popularity": 0.1038,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Madeleine",
+        "credit_id": "69022b5fbd3b18f7c7a8b79d",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5782125,
+        "known_for_department": "Directing",
+        "name": "Victor Touzé",
+        "original_name": "Victor Touzé",
+        "popularity": 0.0969,
+        "profile_path": null,
+        "credit_id": "69022b81b33bbe731957fd1f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5782125,
+        "known_for_department": "Directing",
+        "name": "Victor Touzé",
+        "original_name": "Victor Touzé",
+        "popularity": 0.0969,
+        "profile_path": null,
+        "credit_id": "69022b990410da4b99a8b778",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5782137,
+        "known_for_department": "Camera",
+        "name": "Ulysse Gilbert-Castel",
+        "original_name": "Ulysse Gilbert-Castel",
+        "popularity": 0.0469,
+        "profile_path": null,
+        "credit_id": "69022ca7bd3b18f7c7a8b7a8",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5782145,
+        "known_for_department": "Art",
+        "name": "Mathis Revellin",
+        "original_name": "Mathis Revellin",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69022d12a7388623c473b506",
+        "department": "Art",
+        "job": "Assistant Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3594370,
+        "known_for_department": "Sound",
+        "name": "Rémi Seffacene",
+        "original_name": "Rémi Seffacene",
+        "popularity": 0.1231,
+        "profile_path": null,
+        "credit_id": "69022d3710b4dabfc301427f",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5698208,
+        "known_for_department": "Sound",
+        "name": "Matthieu Fuchs",
+        "original_name": "Matthieu Fuchs",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69022d70365cab40d4f892ff",
+        "department": "Sound",
+        "job": "Sound Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4334389,
+        "known_for_department": "Directing",
+        "name": "Valentine Guégan",
+        "original_name": "Valentine Guégan",
+        "popularity": 0.1192,
+        "profile_path": null,
+        "credit_id": "69022d9e30fcf10e87c462e6",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2680420,
+        "known_for_department": "Editing",
+        "name": "Alexis Noël",
+        "original_name": "Alexis Noël",
+        "popularity": 0.0867,
+        "profile_path": null,
+        "credit_id": "69022dabcfea6658a742c448",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5248172,
+        "known_for_department": "Crew",
+        "name": "Lea Merle",
+        "original_name": "Lea Merle",
+        "popularity": 0.2656,
+        "profile_path": null,
+        "credit_id": "69022e149103347c010142d4",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5447407,
+        "known_for_department": "Directing",
+        "name": "Viktor Bernard",
+        "original_name": "Viktor Bernard",
+        "popularity": 0.046,
+        "profile_path": null,
+        "credit_id": "69022e3d853d016f6eb64eab",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2614055,
+        "known_for_department": "Camera",
+        "name": "Raimon Gaffier",
+        "original_name": "Raimon Gaffier",
+        "popularity": 0.1042,
+        "profile_path": null,
+        "credit_id": "69022eafcb1068247c57fd38",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4475414,
+        "known_for_department": "Sound",
+        "name": "Barttolo Labescau",
+        "original_name": "Barttolo Labescau",
+        "popularity": 0.1779,
+        "profile_path": null,
+        "credit_id": "69022f9e9103347c010142f3",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5782187,
+        "known_for_department": "Production",
+        "name": "Titouan Richard-Mériguet",
+        "original_name": "Titouan Richard-Mériguet",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69023030b81e9226b4935bb5",
+        "department": "Production",
+        "job": "Location Manager"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Plot unknown",
+          "runtime": 17,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.757,
+        "height": 988,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/6DhhK22eR7ldLXf2AnOZtLbQPQn.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 748
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "fr",
+            "note": "",
+            "release_date": "2025-10-30T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

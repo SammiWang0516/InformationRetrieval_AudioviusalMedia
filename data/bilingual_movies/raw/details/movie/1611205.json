@@ -1,0 +1,364 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 1000,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 1611205,
+  "imdb_id": null,
+  "origin_country": [
+    "RO"
+  ],
+  "original_language": "ro",
+  "original_title": "Malpraxis",
+  "overview": "Virgil, a quiet and somber man, rents an apartment overlooking a woman’s home. He watches her obsessively, waiting for the lover who will lead him to his ultimate revenge.",
+  "popularity": 0.7518,
+  "poster_path": "/qHFOdgU0tC6YVrqxWuhk4GCRC4X.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "RO",
+      "name": "Romania"
+    }
+  ],
+  "release_date": "2025-11-01",
+  "revenue": 0,
+  "runtime": 24,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Romanian",
+      "iso_639_1": "ro",
+      "name": "Română"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Malpraxis",
+  "video": false,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1936722,
+        "known_for_department": "Acting",
+        "name": "Dragoş Olaru",
+        "original_name": "Dragoş Olaru",
+        "popularity": 0.3315,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Virgil",
+        "credit_id": "695d59cf67f0f43987dd095f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1034687,
+        "known_for_department": "Acting",
+        "name": "Valeriu Andriuță",
+        "original_name": "Valeriu Andriuță",
+        "popularity": 0.2789,
+        "profile_path": "/AlyrK6JNl3fg6kEEhbs9jpeWvyy.jpg",
+        "cast_id": 2,
+        "character": "Gheorghe Morariu",
+        "credit_id": "695d59f780da64fe921794f3",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5922696,
+        "known_for_department": "Acting",
+        "name": "Buse Ozgul",
+        "original_name": "Buse Ozgul",
+        "popularity": 0.12,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Mistress",
+        "credit_id": "695d5a1b14614ea4bb1795aa",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 592234,
+        "known_for_department": "Acting",
+        "name": "Nicodim Ungureanu",
+        "original_name": "Nicodim Ungureanu",
+        "popularity": 0.2931,
+        "profile_path": "/t35jTdqQ3uTbCEHPhpAxapsRgnj.jpg",
+        "cast_id": 4,
+        "character": "Landlord",
+        "credit_id": "695d5a52a6c95f0d3c24d396",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5869175,
+        "known_for_department": "Directing",
+        "name": "Tudor Vele",
+        "original_name": "Tudor Vele",
+        "popularity": 0.0973,
+        "profile_path": "/n6gH86lNUwlauGxw7oIyYSmpQb3.jpg",
+        "credit_id": "695d5a7214614ea4bb1795be",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5922613,
+        "known_for_department": "Camera",
+        "name": "Stefan Precupanu",
+        "original_name": "Stefan Precupanu",
+        "popularity": 0.0765,
+        "profile_path": null,
+        "credit_id": "695d5a81a6c95f0d3c24d39e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5922707,
+        "known_for_department": "Sound",
+        "name": "Vlad-Alexandru Nohit",
+        "original_name": "Vlad Nohit",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "695d5a9d956119e4da64c006",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5922707,
+        "known_for_department": "Sound",
+        "name": "Vlad-Alexandru Nohit",
+        "original_name": "Vlad Nohit",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "695d5aa89d52b68a839f8acc",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5922711,
+        "known_for_department": "Writing",
+        "name": "Dănuț Beleuz",
+        "original_name": "Dănuț Beleuz",
+        "popularity": 0.1681,
+        "profile_path": null,
+        "credit_id": "695d5acf263f4c8e881794cd",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5869175,
+        "known_for_department": "Directing",
+        "name": "Tudor Vele",
+        "original_name": "Tudor Vele",
+        "popularity": 0.0973,
+        "profile_path": "/n6gH86lNUwlauGxw7oIyYSmpQb3.jpg",
+        "credit_id": "695d5ad9fe183c37c1dc3013",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4816440,
+        "known_for_department": "Directing",
+        "name": "Ștefan Oprea",
+        "original_name": "Ștefan Oprea",
+        "popularity": 0.0902,
+        "profile_path": null,
+        "credit_id": "695d5b18c9a6ea45e724d28f",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4477259,
+        "known_for_department": "Acting",
+        "name": "Andrei Giurgea",
+        "original_name": "Andrei Giurgea",
+        "popularity": 0.2917,
+        "profile_path": null,
+        "credit_id": "695d5b2cdca4ad800d24d336",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5922714,
+        "known_for_department": "Directing",
+        "name": "Andreea Nuță",
+        "original_name": "Andreea Nuță",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "695d5b468c83052cab64c12e",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5780872,
+        "known_for_department": "Directing",
+        "name": "Andu Paul",
+        "original_name": "Andu Paul",
+        "popularity": 0.1112,
+        "profile_path": "/slkHp9bhNH8NtkMfoyTrT9Dkx2w.jpg",
+        "credit_id": "695d5b59cac8e7f41d6bddc1",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5106085,
+        "known_for_department": "Directing",
+        "name": "Marco Manolescu",
+        "original_name": "Marco Manolescu",
+        "popularity": 0.0688,
+        "profile_path": null,
+        "credit_id": "695d5b70c9a6ea45e724d298",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3714777,
+        "known_for_department": "Camera",
+        "name": "Laurențiu Gabriel Harasim",
+        "original_name": "Laurențiu Gabriel Harasim",
+        "popularity": 0.1414,
+        "profile_path": null,
+        "credit_id": "695d5c2abf6c56e19124d1a7",
+        "department": "Lighting",
+        "job": "Gaffer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 1930,
+        "name": "kidnapping"
+      },
+      {
+        "id": 470,
+        "name": "spy"
+      },
+      {
+        "id": 9748,
+        "name": "revenge"
+      },
+      {
+        "id": 13006,
+        "name": "torture"
+      },
+      {
+        "id": 178649,
+        "name": "voyeurism"
+      },
+      {
+        "id": 180340,
+        "name": "voyeur"
+      },
+      {
+        "id": 252204,
+        "name": "revenge thriller"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Virgil, a quiet and somber man, rents an apartment overlooking a woman’s home. He watches her obsessively, waiting for the lover who will lead him to his ultimate revenge.",
+          "runtime": 24,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.707,
+        "height": 2829,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/qHFOdgU0tC6YVrqxWuhk4GCRC4X.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "RO",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "ro",
+            "note": "",
+            "release_date": "2025-11-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

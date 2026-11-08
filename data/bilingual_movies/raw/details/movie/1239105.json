@@ -1,0 +1,809 @@
+{
+  "adult": false,
+  "backdrop_path": "/qmnCqtgQ283ELB8vbGIZYejtjf5.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1239105,
+  "imdb_id": "tt32828113",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "La compañera",
+  "overview": "At her best friend’s burial, a young woman bumps into an old classmate she used to bully, unaware that she’s changed radically over the last ten years.",
+  "popularity": 1.9951,
+  "poster_path": "/lO15WSdpMV4qisky6slElrM9bK9.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2024-09-14",
+  "revenue": 0,
+  "runtime": 13,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "In the mood for a reunion?",
+  "title": "The Classmate",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3766377,
+        "known_for_department": "Acting",
+        "name": "Estrella Alonso",
+        "original_name": "Estrella Alonso",
+        "popularity": 0.4433,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Andrea",
+        "credit_id": "65bb8dadd7cd06017b53e4b8",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4512258,
+        "known_for_department": "Acting",
+        "name": "Leire Baglietto",
+        "original_name": "Leire Baglietto",
+        "popularity": 0.1697,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Marta",
+        "credit_id": "65bb8dd4459ad6017a6c5941",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4512261,
+        "known_for_department": "Acting",
+        "name": "Zamira Chevrestt",
+        "original_name": "Zamira Chevrestt",
+        "popularity": 0.0864,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Lourdes",
+        "credit_id": "65bb8e01c144dd0163fe4a57",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4512263,
+        "known_for_department": "Acting",
+        "name": "Rocío Herrero",
+        "original_name": "Rocío Herrero",
+        "popularity": 0.2832,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Sara",
+        "credit_id": "65bb8e157646fd0163bd7647",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4512265,
+        "known_for_department": "Directing",
+        "name": "Eduardo Maclean",
+        "original_name": "Eduardo Maclean",
+        "popularity": 0.2365,
+        "profile_path": "/i3YK6LKxyRJGZv5LorPV44dCozq.jpg",
+        "credit_id": "65bb8e4bd7cd06017b53e584",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4512266,
+        "known_for_department": "Directing",
+        "name": "Alejandro Maclean",
+        "original_name": "Alejandro Maclean",
+        "popularity": 0.3156,
+        "profile_path": "/Wu73yqp96uRy7YmEnFVNnSd5bd.jpg",
+        "credit_id": "65bb8e612d1e4001635b7f26",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4512266,
+        "known_for_department": "Directing",
+        "name": "Alejandro Maclean",
+        "original_name": "Alejandro Maclean",
+        "popularity": 0.3156,
+        "profile_path": "/Wu73yqp96uRy7YmEnFVNnSd5bd.jpg",
+        "credit_id": "65bb8f7ecffeed017cadde21",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4512291,
+        "known_for_department": "Camera",
+        "name": "Daniel Mayayo",
+        "original_name": "Daniel Mayayo",
+        "popularity": 0.0432,
+        "profile_path": null,
+        "credit_id": "65bb92adcffeed0259aca558",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4512265,
+        "known_for_department": "Directing",
+        "name": "Eduardo Maclean",
+        "original_name": "Eduardo Maclean",
+        "popularity": 0.2365,
+        "profile_path": "/i3YK6LKxyRJGZv5LorPV44dCozq.jpg",
+        "credit_id": "65bb8f93f031740149669b12",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4512295,
+        "known_for_department": "Editing",
+        "name": "Nuria Montero",
+        "original_name": "Nuria Montero",
+        "popularity": 0.0553,
+        "profile_path": null,
+        "credit_id": "65bb92f511c066017bd0810a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4512324,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Patricia Bautista",
+        "original_name": "Patricia Bautista",
+        "popularity": 0.0786,
+        "profile_path": null,
+        "credit_id": "65bb9716f0317401636728a7",
+        "department": "Crew",
+        "job": "Makeup Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4512292,
+        "known_for_department": "Art",
+        "name": "Ana Hidalgo Del Rey",
+        "original_name": "Ana Hidalgo Del Rey",
+        "popularity": 0.3994,
+        "profile_path": null,
+        "credit_id": "65bb92d52d1e40012f5ad59e",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4512310,
+        "known_for_department": "Production",
+        "name": "Chema Sinde",
+        "original_name": "Chema Sinde",
+        "popularity": 0.0713,
+        "profile_path": null,
+        "credit_id": "65bb9487d556970162a94e39",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3788773,
+        "known_for_department": "Sound",
+        "name": "Christian de Frutos",
+        "original_name": "Christian de Frutos",
+        "popularity": 0.0568,
+        "profile_path": null,
+        "credit_id": "65bb95cf459ad6017a6c60a3",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4512324,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Patricia Bautista",
+        "original_name": "Patricia Bautista",
+        "popularity": 0.0786,
+        "profile_path": null,
+        "credit_id": "65bb9644d7cd0601485329b9",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4512341,
+        "known_for_department": "Lighting",
+        "name": "Alejandro Martínez",
+        "original_name": "Alejandro Martínez",
+        "popularity": 0.0428,
+        "profile_path": null,
+        "credit_id": "65bb9807cffeed0163ad211f",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4401272,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Paula Gamero Escudero",
+        "original_name": "Paula Gamero Escudero",
+        "popularity": 0.1044,
+        "profile_path": null,
+        "credit_id": "65bb96f72b8a43017b1be4f9",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Effects Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4512307,
+        "known_for_department": "Lighting",
+        "name": "Ismael Chacón",
+        "original_name": "Ismael Chacón",
+        "popularity": 0.0952,
+        "profile_path": null,
+        "credit_id": "65bb942d11c066017bd081c8",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4512309,
+        "known_for_department": "Production",
+        "name": "Agustín Hernández",
+        "original_name": "Agustín Hernández",
+        "popularity": 0.0945,
+        "profile_path": null,
+        "credit_id": "65bb9476d7cd06017b53ead1",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4512316,
+        "known_for_department": "Sound",
+        "name": "Gabriel Jean-Charles",
+        "original_name": "Gabriel Jean-Charles",
+        "popularity": 0.0804,
+        "profile_path": null,
+        "credit_id": "65bb955cc144dd0149fd9f9c",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4512326,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Paula Santillana",
+        "original_name": "Paula Santillana",
+        "popularity": 0.1269,
+        "profile_path": null,
+        "credit_id": "65bb9651c144dd017cfefc2b",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3522499,
+        "known_for_department": "Camera",
+        "name": "Félix Botello",
+        "original_name": "Félix Botello",
+        "popularity": 0.1345,
+        "profile_path": null,
+        "credit_id": "65bb93adcffeed017cade249",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4512326,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Paula Santillana",
+        "original_name": "Paula Santillana",
+        "popularity": 0.1269,
+        "profile_path": null,
+        "credit_id": "65bb972c11c066017bd084b0",
+        "department": "Crew",
+        "job": "Makeup Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4337824,
+        "known_for_department": "Sound",
+        "name": "Fernando Millán Villalobos",
+        "original_name": "Fernando Millán Villalobos",
+        "popularity": 0.1238,
+        "profile_path": "/6QbfU7ZCC55XuGwFzjFsLuXvpD.jpg",
+        "credit_id": "65bb95e911c066017bd083b4",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4512306,
+        "known_for_department": "Camera",
+        "name": "Patricia Pickman",
+        "original_name": "Patricia Pickman",
+        "popularity": 0.0954,
+        "profile_path": null,
+        "credit_id": "65bb940c459ad6017a6c5eb8",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4512308,
+        "known_for_department": "Lighting",
+        "name": "Quino Morcate",
+        "original_name": "Quino Morcate",
+        "popularity": 0.1005,
+        "profile_path": null,
+        "credit_id": "65bb9447e18b9701629938ed",
+        "department": "Lighting",
+        "job": "Best Boy Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4512311,
+        "known_for_department": "Art",
+        "name": "Pablo Slim",
+        "original_name": "Pablo Slim",
+        "popularity": 0.086,
+        "profile_path": null,
+        "credit_id": "65bb94ac7646fd0184be1410",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4512291,
+        "known_for_department": "Camera",
+        "name": "Daniel Mayayo",
+        "original_name": "Daniel Mayayo",
+        "popularity": 0.0432,
+        "profile_path": null,
+        "credit_id": "65bb9c68d7cd06017b53f274",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4512265,
+        "known_for_department": "Directing",
+        "name": "Eduardo Maclean",
+        "original_name": "Eduardo Maclean",
+        "popularity": 0.2365,
+        "profile_path": "/i3YK6LKxyRJGZv5LorPV44dCozq.jpg",
+        "credit_id": "65bb9bfaf03174017c67cb90",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4401272,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Paula Gamero Escudero",
+        "original_name": "Paula Gamero Escudero",
+        "popularity": 0.1044,
+        "profile_path": null,
+        "credit_id": "65bb9cf7f031740163672a72",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4512263,
+        "known_for_department": "Acting",
+        "name": "Rocío Herrero",
+        "original_name": "Rocío Herrero",
+        "popularity": 0.2832,
+        "profile_path": null,
+        "credit_id": "65bb9c132d1e4001845c329f",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4512352,
+        "known_for_department": "Directing",
+        "name": "Florencia Rotundo",
+        "original_name": "Florencia Rotundo",
+        "popularity": 0.0575,
+        "profile_path": null,
+        "credit_id": "65bb9d87cffeed017cadeb2e",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3871178,
+        "known_for_department": "Directing",
+        "name": "Jorge Yebra",
+        "original_name": "Jorge Yebra",
+        "popularity": 0.0496,
+        "profile_path": null,
+        "credit_id": "65bb9d16d7cd060148532d07",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4002737,
+        "known_for_department": "Production",
+        "name": "Marcos Colombres",
+        "original_name": "Marcos Colombres",
+        "popularity": 0.0594,
+        "profile_path": null,
+        "credit_id": "65e4bbfc9451e701645a32d2",
+        "department": "Production",
+        "job": "Production Manager"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 10292,
+        "name": "gore"
+      },
+      {
+        "id": 6733,
+        "name": "bullying"
+      },
+      {
+        "id": 9748,
+        "name": "revenge"
+      },
+      {
+        "id": 12339,
+        "name": "slasher"
+      },
+      {
+        "id": 263548,
+        "name": "short film"
+      },
+      {
+        "id": 305998,
+        "name": "spanish horror"
+      },
+      {
+        "id": 315058,
+        "name": "horror"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "At her best friend’s burial, a young woman bumps into an old classmate she used to bully, unaware that she’s changed radically over the last ten years.",
+          "runtime": 13,
+          "tagline": "In the mood for a reunion?",
+          "title": "The Classmate"
+        }
+      },
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "En el entierro de su mejor amiga, Marta se cruza con una antigua compañera de clase a la que solían hacer bullying, inadvertida de que ha cambiado radicalmente en los últimos diez años.",
+          "runtime": 13,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "SA",
+        "iso_639_1": "ar",
+        "name": "العربية",
+        "english_name": "Arabic",
+        "data": {
+          "homepage": "",
+          "overview": "في جنازة صديقتها المقرّبة، تصادف شابة زميلة دراسة قديمة كانت تتنمر عليها، دون أن تعلم أنها تغيّرت جذريًا خلال السنوات العشر الماضية.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt32828113",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/qmnCqtgQ283ELB8vbGIZYejtjf5.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/7ehAmwA0Hw56iwzy7ZC0YqitQ2F.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      }
+    ],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Saskatoon Fantastic Film Festival",
+            "release_date": "2024-11-22T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "PUFA - Pucela Fantástica",
+            "release_date": "2024-07-04T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Noctámbulo Festival de Cine Fantástico",
+            "release_date": "2024-10-25T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Festival Terroríficamente Cortos",
+            "release_date": "2024-10-31T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Festival Algeciras Fantástika",
+            "release_date": "2024-11-04T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "CURTAS Film Fest",
+            "release_date": "2024-11-01T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Festival BaiDeFest",
+            "release_date": "2024-11-14T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Festival Torrerífico",
+            "release_date": "2024-10-26T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Kursaal Film Festival San Sebastián",
+            "release_date": "2024-09-14T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Navidades Sangrientas",
+            "release_date": "2024-12-25T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Cortos con Ñ",
+            "release_date": "2025-01-14T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Semana Cine Fantástico Girona Acocollona't",
+            "release_date": "2024-10-28T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Horror-on-Sea Film Festival",
+            "release_date": "2025-01-10T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "Horrorant International Film Festival",
+            "release_date": "2024-04-24T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "L'Aquila Film Festival",
+            "release_date": "2024-11-14T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Espanto Film Fest",
+            "release_date": "2024-10-24T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Morbido Festival",
+            "release_date": "2024-10-30T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "UY",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Montevideo Fantastic Film Festival",
+            "release_date": "2024-10-25T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "La compañera (2024) -Trailer-",
+        "key": "EXOl9kcqErU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "679109c6297a5d91d0775edd",
+        "published_at": "2024-10-28T23:50:08.000Z"
+      }
+    ]
+  }
+}

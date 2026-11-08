@@ -1,0 +1,985 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 10000,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.youtube.com/@SEEFICTION",
+  "id": 1410619,
+  "imdb_id": null,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Hotel Midnight",
+  "overview": "Ellie is determined to save Hotel Silver, the struggling hotel she inherited from her father. On a storm-ravaged night, the hotel unexpectedly fills with a group of mysterious guests, each with their own shadowy past. As the night unfolds, Ellie becomes entangled in a web of secrets, lies, and sinister motives.",
+  "popularity": 1.2927,
+  "poster_path": "/1VohOPPjmoA6DxUwLKLjc1wYTe3.jpg",
+  "production_companies": [
+    {
+      "id": 214617,
+      "logo_path": null,
+      "name": "Gotlands Folkhögskola",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "2024-12-16",
+  "revenue": 0,
+  "runtime": 90,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "Did you know that armadillos are bulletproof?",
+  "title": "Hotel Midnight",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5152306,
+        "known_for_department": "Acting",
+        "name": "Sophia Eriksson",
+        "original_name": "Sophia Eriksson",
+        "popularity": 0.2294,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Ellie Silver",
+        "credit_id": "67756fff3615c1a376127dff",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3423219,
+        "known_for_department": "Acting",
+        "name": "Andreas Grant",
+        "original_name": "Andreas Grant",
+        "popularity": 0.212,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Samuel Silver",
+        "credit_id": "677570283fc76ea58892cb92",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2640877,
+        "known_for_department": "Acting",
+        "name": "Jeanett Espedal",
+        "original_name": "Jeanett Espedal",
+        "popularity": 0.043,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Bianca",
+        "credit_id": "6775705409b80f9bb3127d66",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5152312,
+        "known_for_department": "Acting",
+        "name": "Matilde Feeley",
+        "original_name": "Matilde Feeley",
+        "popularity": 0.1311,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Flora",
+        "credit_id": "677570b4194b5816d7613ab2",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4652488,
+        "known_for_department": "Acting",
+        "name": "Robin Jurca",
+        "original_name": "Robin Jurca",
+        "popularity": 0.3328,
+        "profile_path": "/rsKjU82R4sBZx5367ISTTZ212qU.jpg",
+        "cast_id": 5,
+        "character": "Pål",
+        "credit_id": "677570d709b80f9bb3127dd8",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5152319,
+        "known_for_department": "Acting",
+        "name": "Sara Edberg",
+        "original_name": "Sara Edberg",
+        "popularity": 0.1019,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Rebecka",
+        "credit_id": "6775711f3fc76ea58892cc16",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5152324,
+        "known_for_department": "Acting",
+        "name": "Johan Millving",
+        "original_name": "Johan Millving",
+        "popularity": 0.0358,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Helmer",
+        "credit_id": "67757157bf10ff19846237a2",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5152329,
+        "known_for_department": "Acting",
+        "name": "Piamanda Mac Donald",
+        "original_name": "Piamanda Mac Donald",
+        "popularity": 0.3075,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Mona",
+        "credit_id": "67757192bf10ff19846237e1",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5152332,
+        "known_for_department": "Acting",
+        "name": "Tomas Lindström",
+        "original_name": "Tomas Lindström",
+        "popularity": 0.2154,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Roland",
+        "credit_id": "677571babf10ff1984623826",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1351733,
+        "known_for_department": "Acting",
+        "name": "Jerker Fahlström",
+        "original_name": "Jerker Fahlström",
+        "popularity": 0.1069,
+        "profile_path": "/ofmjn1OkT2iLhIlsKsI0oWbxDWA.jpg",
+        "cast_id": 10,
+        "character": "Jakob",
+        "credit_id": "677571dc7d1bc87de761d616",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5152340,
+        "known_for_department": "Acting",
+        "name": "Klara Söderstrand",
+        "original_name": "Klara Söderstrand",
+        "popularity": 0.1249,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Ulrika (voice)",
+        "credit_id": "6775724f3fc76ea58892ccd9",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4732875,
+        "known_for_department": "Art",
+        "name": "Noah Drottz Hägglund",
+        "original_name": "Noah Drottz Hägglund",
+        "popularity": 0.2372,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Sjuksköterska",
+        "credit_id": "677572bc3fc76ea58892cd49",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4732884,
+        "known_for_department": "Sound",
+        "name": "Linnea Martinsson",
+        "original_name": "Linnea Martinsson",
+        "popularity": 0.1067,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Maya (photo)",
+        "credit_id": "677572e4bf10ff19846239a6",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19867,
+        "known_for_department": "Acting",
+        "name": "Staffan Kihlbom",
+        "original_name": "Staffan Kihlbom",
+        "popularity": 0.2145,
+        "profile_path": "/fkJ9Htq6gDam7mbKWa9GDRcF9QE.jpg",
+        "credit_id": "6775731509b80f9bb3127e7e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2188443,
+        "known_for_department": "Directing",
+        "name": "Johan Bodell",
+        "original_name": "Johan Bodell",
+        "popularity": 0.0966,
+        "profile_path": null,
+        "credit_id": "67757334bf10ff1984623a06",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5152345,
+        "known_for_department": "Directing",
+        "name": "Babak Parham",
+        "original_name": "Babak Parham",
+        "popularity": 0.1534,
+        "profile_path": null,
+        "credit_id": "67757388194b5816d7613b2b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1649047,
+        "known_for_department": "Camera",
+        "name": "Simon Olsson",
+        "original_name": "Simon Olsson",
+        "popularity": 0.1144,
+        "profile_path": null,
+        "credit_id": "677573ef185486515d12915c",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3370952,
+        "known_for_department": "Camera",
+        "name": "Mårten Stenberg",
+        "original_name": "Mårten Stenberg",
+        "popularity": 0.131,
+        "profile_path": null,
+        "credit_id": "6775740b09b80f9bb3127ef1",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5152350,
+        "known_for_department": "Camera",
+        "name": "Erik Landerdahl",
+        "original_name": "Erik Landerdahl",
+        "popularity": 0.1063,
+        "profile_path": null,
+        "credit_id": "6775743a09b80f9bb3127f03",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5152352,
+        "known_for_department": "Camera",
+        "name": "Staffan Enström",
+        "original_name": "Staffan Enström",
+        "popularity": 0.0898,
+        "profile_path": null,
+        "credit_id": "677574aa09b80f9bb3127f5e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5152354,
+        "known_for_department": "Writing",
+        "name": "Matilda Savér",
+        "original_name": "Matilda Savér",
+        "popularity": 0.2615,
+        "profile_path": null,
+        "credit_id": "677575005b8f422b6012c905",
+        "department": "Writing",
+        "job": "Creative Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5152357,
+        "known_for_department": "Crew",
+        "name": "Clara Johansson",
+        "original_name": "Clara Johansson",
+        "popularity": 0.1544,
+        "profile_path": null,
+        "credit_id": "6775752a2efbf3b41d92ad1c",
+        "department": "Crew",
+        "job": "Creative Consultant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5152363,
+        "known_for_department": "Production",
+        "name": "Arvid Unsgaard",
+        "original_name": "Arvid Unsgaard",
+        "popularity": 0.1699,
+        "profile_path": null,
+        "credit_id": "6775756b5b8f422b6012c924",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5152340,
+        "known_for_department": "Acting",
+        "name": "Klara Söderstrand",
+        "original_name": "Klara Söderstrand",
+        "popularity": 0.1249,
+        "profile_path": null,
+        "credit_id": "677575877d1bc87de761d6de",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5152352,
+        "known_for_department": "Camera",
+        "name": "Staffan Enström",
+        "original_name": "Staffan Enström",
+        "popularity": 0.0898,
+        "profile_path": null,
+        "credit_id": "677575c21bd56c23e3926fd8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5152369,
+        "known_for_department": "Production",
+        "name": "Tåmas Persson",
+        "original_name": "Tåmas Persson",
+        "popularity": 0.1894,
+        "profile_path": null,
+        "credit_id": "677575fb7d1bc87de761d721",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4732935,
+        "known_for_department": "Production",
+        "name": "Tor Karlsson",
+        "original_name": "Tor Karlsson",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "677576283615c1a376127ea8",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5152354,
+        "known_for_department": "Writing",
+        "name": "Matilda Savér",
+        "original_name": "Matilda Savér",
+        "popularity": 0.2615,
+        "profile_path": null,
+        "credit_id": "67757672dd179c5b35926a8f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5152373,
+        "known_for_department": "Writing",
+        "name": "Klara Bengtsson",
+        "original_name": "Klara Bengtsson",
+        "popularity": 0.093,
+        "profile_path": null,
+        "credit_id": "677576ae7d1bc87de761d75e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5152374,
+        "known_for_department": "Writing",
+        "name": "David Bengtsson",
+        "original_name": "David Bengtsson",
+        "popularity": 0.1559,
+        "profile_path": null,
+        "credit_id": "677576d92efbf3b41d92ada5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5152375,
+        "known_for_department": "Writing",
+        "name": "Ronja Vågberg",
+        "original_name": "Ronja Vågberg",
+        "popularity": 0.1387,
+        "profile_path": null,
+        "credit_id": "67757704dd179c5b35926aba",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5152378,
+        "known_for_department": "Writing",
+        "name": "Emelie Nordin",
+        "original_name": "Emelie Nordin",
+        "popularity": 0.2307,
+        "profile_path": null,
+        "credit_id": "677577653fc76ea58892ce37",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5152381,
+        "known_for_department": "Writing",
+        "name": "Petronella Läckgren",
+        "original_name": "Petronella Läckgren",
+        "popularity": 0.1104,
+        "profile_path": null,
+        "credit_id": "677577ac185486515d1292b4",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5152382,
+        "known_for_department": "Writing",
+        "name": "Gabriella Werkander",
+        "original_name": "Gabriella Werkander",
+        "popularity": 0.2741,
+        "profile_path": null,
+        "credit_id": "677577c4185486515d1292c4",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5152383,
+        "known_for_department": "Writing",
+        "name": "Alma Svanholm",
+        "original_name": "Alma Svanholm",
+        "popularity": 0.3717,
+        "profile_path": null,
+        "credit_id": "677577e8185486515d1292d6",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5152384,
+        "known_for_department": "Writing",
+        "name": "Melisa Okiro",
+        "original_name": "Melisa Okiro",
+        "popularity": 0.1199,
+        "profile_path": null,
+        "credit_id": "677577fcbf10ff1984623b38",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1541473,
+        "known_for_department": "Directing",
+        "name": "Markus Walter",
+        "original_name": "Markus Walter",
+        "popularity": 0.2165,
+        "profile_path": null,
+        "credit_id": "6775781add179c5b35926b82",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4402076,
+        "known_for_department": "Camera",
+        "name": "Sofia Saunders",
+        "original_name": "Sofia Saunders",
+        "popularity": 0.0512,
+        "profile_path": null,
+        "credit_id": "677578a309b80f9bb3127fb1",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4402026,
+        "known_for_department": "Acting",
+        "name": "Christian Olin",
+        "original_name": "Christian Olin",
+        "popularity": 0.2287,
+        "profile_path": null,
+        "credit_id": "677578cdbf10ff1984623bf3",
+        "department": "Camera",
+        "job": "Focus Puller"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5152391,
+        "known_for_department": "Camera",
+        "name": "Qingzi Kärnfelt",
+        "original_name": "Qingzi Kärnfelt",
+        "popularity": 0.2153,
+        "profile_path": null,
+        "credit_id": "6775793209b80f9bb3128033",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4766536,
+        "known_for_department": "Acting",
+        "name": "Maximilian Lindkvist",
+        "original_name": "Maximilian Lindkvist",
+        "popularity": 0.1611,
+        "profile_path": null,
+        "credit_id": "67757985194b5816d7613bac",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4403318,
+        "known_for_department": "Directing",
+        "name": "Sol Vikman",
+        "original_name": "Sol Vikman",
+        "popularity": 0.1095,
+        "profile_path": null,
+        "credit_id": "677579a8dd179c5b35926bf9",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4607392,
+        "known_for_department": "Acting",
+        "name": "Simon Lindman",
+        "original_name": "Simon Lindman",
+        "popularity": 0.2294,
+        "profile_path": null,
+        "credit_id": "677579c23615c1a376127ef4",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5152398,
+        "known_for_department": "Directing",
+        "name": "Ali Mohammadi",
+        "original_name": "Ali Mohammadi",
+        "popularity": 0.1427,
+        "profile_path": null,
+        "credit_id": "677579f6194b5816d7613be4",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4572401,
+        "known_for_department": "Acting",
+        "name": "Andreas Borg",
+        "original_name": "Andreas Borg",
+        "popularity": 0.082,
+        "profile_path": null,
+        "credit_id": "67757a20bf10ff1984623c75",
+        "department": "Production",
+        "job": "Coordinating Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5152357,
+        "known_for_department": "Crew",
+        "name": "Clara Johansson",
+        "original_name": "Clara Johansson",
+        "popularity": 0.1544,
+        "profile_path": null,
+        "credit_id": "67757a40194b5816d7613c0c",
+        "department": "Production",
+        "job": "Coordinating Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2084877,
+        "known_for_department": "Art",
+        "name": "Cecilia Iversen",
+        "original_name": "Cecilia Iversen",
+        "popularity": 0.3091,
+        "profile_path": null,
+        "credit_id": "67757a8198f2f82fc492be4d",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4402066,
+        "known_for_department": "Art",
+        "name": "Edit Ädel",
+        "original_name": "Edit Ädel",
+        "popularity": 0.1324,
+        "profile_path": null,
+        "credit_id": "67757a9d7d1bc87de761d82c",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5152399,
+        "known_for_department": "Art",
+        "name": "Salome Långs",
+        "original_name": "Salome Långs",
+        "popularity": 0.2765,
+        "profile_path": null,
+        "credit_id": "67757acfbf10ff1984623c83",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4732875,
+        "known_for_department": "Art",
+        "name": "Noah Drottz Hägglund",
+        "original_name": "Noah Drottz Hägglund",
+        "popularity": 0.2372,
+        "profile_path": null,
+        "credit_id": "67757af33615c1a376127fa5",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4402082,
+        "known_for_department": "Lighting",
+        "name": "Jacob Friman",
+        "original_name": "Jacob Friman",
+        "popularity": 0.1481,
+        "profile_path": null,
+        "credit_id": "67757b2e7d1bc87de761d84d",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4402050,
+        "known_for_department": "Directing",
+        "name": "Felix Bartov",
+        "original_name": "Felix Bartov",
+        "popularity": 0.3136,
+        "profile_path": null,
+        "credit_id": "67757b552efbf3b41d92aeea",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4765614,
+        "known_for_department": "Camera",
+        "name": "Eric Aronsson",
+        "original_name": "Eric Aronsson",
+        "popularity": 0.0958,
+        "profile_path": null,
+        "credit_id": "67757b8a09b80f9bb3128108",
+        "department": "Lighting",
+        "job": "Best Boy Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4732884,
+        "known_for_department": "Sound",
+        "name": "Linnea Martinsson",
+        "original_name": "Linnea Martinsson",
+        "popularity": 0.1067,
+        "profile_path": null,
+        "credit_id": "67757bb03615c1a376128010",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5152404,
+        "known_for_department": "Sound",
+        "name": "Olle Lindblad",
+        "original_name": "Olle Lindblad",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67757be30f248e850812cfc1",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4732884,
+        "known_for_department": "Sound",
+        "name": "Linnea Martinsson",
+        "original_name": "Linnea Martinsson",
+        "popularity": 0.1067,
+        "profile_path": null,
+        "credit_id": "67757c0bbf10ff1984623d83",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5152405,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Finn Eklöf",
+        "original_name": "Finn Eklöf",
+        "popularity": 0.0907,
+        "profile_path": null,
+        "credit_id": "67757c333fc76ea58892cf51",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5152406,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sam Svärd",
+        "original_name": "Sam Svärd",
+        "popularity": 0.0497,
+        "profile_path": null,
+        "credit_id": "67757c473fc76ea58892cf5e",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5152407,
+        "known_for_department": "Editing",
+        "name": "Felix Rolfsson",
+        "original_name": "Felix Rolfsson",
+        "popularity": 0.1154,
+        "profile_path": null,
+        "credit_id": "67757ca3bf10ff1984623e21",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4765616,
+        "known_for_department": "Art",
+        "name": "Fillip Karlsson",
+        "original_name": "Fillip Karlsson",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67757cdc194b5816d7613c5c",
+        "department": "Editing",
+        "job": "Color Grading"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4402026,
+        "known_for_department": "Acting",
+        "name": "Christian Olin",
+        "original_name": "Christian Olin",
+        "popularity": 0.2287,
+        "profile_path": null,
+        "credit_id": "67757d223fc76ea58892cfe5",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 571694,
+        "known_for_department": "Acting",
+        "name": "Anders Nyström",
+        "original_name": "Anders Nyström",
+        "popularity": 0.3645,
+        "profile_path": "/dJclINDpbYbsnOtRe0r6w3PKj54.jpg",
+        "credit_id": "67757d817d1bc87de761d8ca",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3423219,
+        "known_for_department": "Acting",
+        "name": "Andreas Grant",
+        "original_name": "Andreas Grant",
+        "popularity": 0.212,
+        "profile_path": null,
+        "credit_id": "67757db94111599e3812e4eb",
+        "department": "Crew",
+        "job": "Compositor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 612,
+        "name": "hotel"
+      },
+      {
+        "id": 6625,
+        "name": "family secrets"
+      },
+      {
+        "id": 10093,
+        "name": "priest"
+      },
+      {
+        "id": 166519,
+        "name": "wild goose chase"
+      },
+      {
+        "id": 275311,
+        "name": "plot twist"
+      },
+      {
+        "id": 292185,
+        "name": "hostages"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "https://www.youtube.com/@SEEFICTION",
+          "overview": "Ellie is determined to save Hotel Silver, the struggling hotel she inherited from her father. On a storm-ravaged night, the hotel unexpectedly fills with a group of mysterious guests, each with their own shadowy past. As the night unfolds, Ellie becomes entangled in a web of secrets, lies, and sinister motives.",
+          "runtime": 90,
+          "tagline": "Did you know that armadillos are bulletproof?",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.682,
+        "height": 2921,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/1VohOPPjmoA6DxUwLKLjc1wYTe3.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1993
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "11",
+            "descriptors": [],
+            "iso_639_1": "sv",
+            "note": "",
+            "release_date": "2024-12-16T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

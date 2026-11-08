@@ -1,0 +1,585 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1489758,
+  "imdb_id": "tt36517051",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Smell of Sin",
+  "overview": "When a Catholic priest arrives at a hospital for routine last rites, he discovers the dying patient is someone from his past, a fellow Vietnam veteran. When long buried secrets surface, the priest realizes that some sins follow you home.",
+  "popularity": 0.7194,
+  "poster_path": "/xfSuahe5EGmOrs34tTf2g6ejfnA.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-05-31",
+  "revenue": 0,
+  "runtime": 6,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Smell of Sin",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34842,
+        "known_for_department": "Acting",
+        "name": "Tony Amendola",
+        "original_name": "Tony Amendola",
+        "popularity": 0.8457,
+        "profile_path": "/eGgQGEwO2vCqhFcmDfyyjctmWcl.jpg",
+        "cast_id": 1,
+        "character": "Father Beltran",
+        "credit_id": "6838c0830e7cbb03270388d0",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 85421,
+        "known_for_department": "Acting",
+        "name": "Time Winters",
+        "original_name": "Time Winters",
+        "popularity": 0.5883,
+        "profile_path": "/sqLSp5glrEbMpUaF7zIhuHmLL37.jpg",
+        "cast_id": 2,
+        "character": "Davis",
+        "credit_id": "6838c08d13b91a37ca2b8b9d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4337569,
+        "known_for_department": "Production",
+        "name": "Forest Lin",
+        "original_name": "Forest Lin",
+        "popularity": 0.3622,
+        "profile_path": "/nX0NlIr2rfz1safkNp8Bm7kpSwM.jpg",
+        "cast_id": 33,
+        "character": "Soldier #1",
+        "credit_id": "69874e53933384e05a8fc786",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5471470,
+        "known_for_department": "Acting",
+        "name": "Paul Oo",
+        "original_name": "Paul Oo",
+        "popularity": 0.1511,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Soldier #2",
+        "credit_id": "6838c0b7794f0e3db28393a0",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5471471,
+        "known_for_department": "Acting",
+        "name": "Myo Sett Paing",
+        "original_name": "Myo Sett Paing",
+        "popularity": 0.2592,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Soldier #3",
+        "credit_id": "6838c0c768a13bc0358394f1",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4139906,
+        "known_for_department": "Art",
+        "name": "Gabriel P. Gonzales",
+        "original_name": "Gabriel P. Gonzales",
+        "popularity": 0.1975,
+        "profile_path": null,
+        "credit_id": "6838c136e4057d9ee0038b24",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4688667,
+        "known_for_department": "Editing",
+        "name": "Eric Alirez",
+        "original_name": "eric alirez",
+        "popularity": 0.1997,
+        "profile_path": null,
+        "credit_id": "6838c1a7edb3e846e541561b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4487681,
+        "known_for_department": "Production",
+        "name": "Ehron Asher",
+        "original_name": "Ehron Asher",
+        "popularity": 0.1629,
+        "profile_path": null,
+        "credit_id": "6838c1bf94282ee2e483963e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5471478,
+        "known_for_department": "Production",
+        "name": "David Draper",
+        "original_name": "David Draper",
+        "popularity": 0.1667,
+        "profile_path": null,
+        "credit_id": "6838c207604f4403567312a9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4685904,
+        "known_for_department": "Production",
+        "name": "Jules Brown",
+        "original_name": "Jules Brown",
+        "popularity": 0.1031,
+        "profile_path": null,
+        "credit_id": "6838c23b0e931d3beeb6ca2b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4688667,
+        "known_for_department": "Editing",
+        "name": "Eric Alirez",
+        "original_name": "eric alirez",
+        "popularity": 0.1997,
+        "profile_path": null,
+        "credit_id": "6838c27513f5a194470566f8",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4688667,
+        "known_for_department": "Editing",
+        "name": "Eric Alirez",
+        "original_name": "eric alirez",
+        "popularity": 0.1997,
+        "profile_path": null,
+        "credit_id": "6838c2860c728a9ee28393ff",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5471484,
+        "known_for_department": "Art",
+        "name": "Adam Aguilar",
+        "original_name": "Adam Aguilar",
+        "popularity": 0.1958,
+        "profile_path": null,
+        "credit_id": "6838c2afb457cf5dd10568a8",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3889495,
+        "known_for_department": "Acting",
+        "name": "Caroline Buddendorf",
+        "original_name": "Caroline Buddendorf",
+        "popularity": 0.1628,
+        "profile_path": "/nixgc3AX0ofUsP7edAbKOs9xNTo.jpg",
+        "credit_id": "6838c2c08121cf5b6f731432",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1432033,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Heather Mages",
+        "original_name": "Heather Mages",
+        "popularity": 0.2255,
+        "profile_path": null,
+        "credit_id": "6838c2d7bff6f5cdd9eb46fb",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1374189,
+        "known_for_department": "Crew",
+        "name": "Mark Villalobos",
+        "original_name": "Mark Villalobos",
+        "popularity": 0.2392,
+        "profile_path": null,
+        "credit_id": "6838c2e6c4355807d303878e",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5471486,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Beatriz Mejia",
+        "original_name": "Beatriz Mejia",
+        "popularity": 0.2027,
+        "profile_path": null,
+        "credit_id": "6838c2fadd07645cc0038a95",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1686307,
+        "known_for_department": "Art",
+        "name": "Nicole Rene Miller",
+        "original_name": "Nicole Rene Miller",
+        "popularity": 0.2112,
+        "profile_path": "/gKy3FLd4FfPe1CoH5h3owfi6BQj.jpg",
+        "credit_id": "6838c30fc99b720399a88343",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3400617,
+        "known_for_department": "Acting",
+        "name": "Ronan Arthur",
+        "original_name": "Ronan Arthur",
+        "popularity": 0.1093,
+        "profile_path": "/z3jEeQBLiOhFJj7CRRbNUv8HOC5.jpg",
+        "credit_id": "6838c327f6c8d4483b2b87bb",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5471488,
+        "known_for_department": "Art",
+        "name": "Grant Elbert",
+        "original_name": "Grant Elbert",
+        "popularity": 0.1326,
+        "profile_path": null,
+        "credit_id": "6838c345226d8b2e862b885b",
+        "department": "Art",
+        "job": "Lead Set Dresser"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2497437,
+        "known_for_department": "Sound",
+        "name": "Nico Pierce",
+        "original_name": "Nico Pierce",
+        "popularity": 0.1021,
+        "profile_path": null,
+        "credit_id": "6838c35527de3ffb8e056696",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5471489,
+        "known_for_department": "Camera",
+        "name": "Joseph Timothy Adams",
+        "original_name": "Joseph Timothy Adams",
+        "popularity": 0.1492,
+        "profile_path": null,
+        "credit_id": "6838c3cdeb4d6a8cf3038718",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5471491,
+        "known_for_department": "Camera",
+        "name": "Avery Beck",
+        "original_name": "Avery Beck",
+        "popularity": 0.2896,
+        "profile_path": null,
+        "credit_id": "6838c3eba4f5e75043b6e99d",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5171781,
+        "known_for_department": "Camera",
+        "name": "Oliver Eldridge",
+        "original_name": "Oliver Eldridge",
+        "popularity": 0.1166,
+        "profile_path": null,
+        "credit_id": "6838c3fca61ef8421deb4662",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1844808,
+        "known_for_department": "Acting",
+        "name": "Austin Gelfman",
+        "original_name": "Austin Gelfman",
+        "popularity": 0.489,
+        "profile_path": "/doQMOQ2wa3hPqA8GYqEaB4dfBFt.jpg",
+        "credit_id": "6838c40fc4355807d303879f",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5471492,
+        "known_for_department": "Lighting",
+        "name": "Jacob Ortega",
+        "original_name": "Jacob Ortega",
+        "popularity": 0.1074,
+        "profile_path": null,
+        "credit_id": "6838c4290c728a9ee283940d",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5471493,
+        "known_for_department": "Camera",
+        "name": "Ashley Wern",
+        "original_name": "Ashley Wern",
+        "popularity": 0.0616,
+        "profile_path": null,
+        "credit_id": "6838c4377523b33b12a88644",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5171769,
+        "known_for_department": "Production",
+        "name": "kait eldridge",
+        "original_name": "kait eldridge",
+        "popularity": 0.1749,
+        "profile_path": null,
+        "credit_id": "6838c4485f647053e705667e",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5471494,
+        "known_for_department": "Sound",
+        "name": "Morph Choir",
+        "original_name": "Morph Choir",
+        "popularity": 0.1296,
+        "profile_path": null,
+        "credit_id": "6838c47359374be94e038aa8",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5471496,
+        "known_for_department": "Production",
+        "name": "Quade Draper",
+        "original_name": "Quade Draper",
+        "popularity": 0.0639,
+        "profile_path": null,
+        "credit_id": "6838c4a261f1fefb8beb488e",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5471497,
+        "known_for_department": "Production",
+        "name": "Dylan Gonzales",
+        "original_name": "Dylan Gonzales",
+        "popularity": 0.1598,
+        "profile_path": null,
+        "credit_id": "6838c4b094282ee2e4839657",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5471499,
+        "known_for_department": "Production",
+        "name": "Annika Hautmann",
+        "original_name": "Annika Hautmann",
+        "popularity": 0.176,
+        "profile_path": null,
+        "credit_id": "6838c4bf3a7f0b5781839342",
+        "department": "Production",
+        "job": "Producer's Assistant"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 447,
+        "name": "post-traumatic stress disorder (ptsd)"
+      },
+      {
+        "id": 1327,
+        "name": "war crimes"
+      },
+      {
+        "id": 3684,
+        "name": "religion and supernatural"
+      },
+      {
+        "id": 6152,
+        "name": "supernatural"
+      },
+      {
+        "id": 7412,
+        "name": "sin"
+      },
+      {
+        "id": 9748,
+        "name": "revenge"
+      },
+      {
+        "id": 11001,
+        "name": "religion"
+      },
+      {
+        "id": 273967,
+        "name": "war"
+      },
+      {
+        "id": 295907,
+        "name": "psychological horror"
+      },
+      {
+        "id": 315058,
+        "name": "horror"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "When a Catholic priest arrives at a hospital for routine last rites, he discovers the dying patient is someone from his past, a fellow Vietnam veteran. When long buried secrets surface, the priest realizes that some sins follow you home.",
+          "runtime": 6,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt36517051",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.666,
+        "height": 1501,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/xfSuahe5EGmOrs34tTf2g6ejfnA.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "Premiere screening in the Gorgazma Horror Shorts Video Show at Monsterpalooza 2025",
+            "release_date": "2025-05-31T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

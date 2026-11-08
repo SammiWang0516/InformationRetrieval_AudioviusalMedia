@@ -1,0 +1,178 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 1275757,
+  "imdb_id": null,
+  "origin_country": [
+    "RU"
+  ],
+  "original_language": "ru",
+  "original_title": "Лицо",
+  "overview": "The whole world is a theater, and the people in it are movie actors. Dulustan Mukhin, a simple guy from a Yakut village, once became a star. Hollywood is ahead. There are a couple of Yakut films behind. Now why not try yourself at Mosfilm? Moscow will amaze, inspire, but also ask the most important question: who are you?",
+  "popularity": 1.2968,
+  "poster_path": "/wp41urc6i69sgLuxYj7oKfNUj8J.jpg",
+  "production_companies": [
+    {
+      "id": 65960,
+      "logo_path": null,
+      "name": "Fishka Film",
+      "origin_country": "RU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "RU",
+      "name": "Russia"
+    }
+  ],
+  "release_date": "2024-04-22",
+  "revenue": 0,
+  "runtime": 62,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Face",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2372438,
+        "known_for_department": "Directing",
+        "name": "Sergey Dogorov",
+        "original_name": "Сергей Догоров",
+        "popularity": 0.5217,
+        "profile_path": null,
+        "credit_id": "661feaf6d18fb90164caf1c6",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2182577,
+        "known_for_department": "Directing",
+        "name": "Irina Vasilyeva",
+        "original_name": "Ирина Васильева",
+        "popularity": 0.5144,
+        "profile_path": null,
+        "credit_id": "661feb00a6fdaa014a6a60da",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "The whole world is a theater, and the people in it are movie actors. Dulustan Mukhin, a simple guy from a Yakut village, once became a star. Hollywood is ahead. There are a couple of Yakut films behind. Now why not try yourself at Mosfilm? Moscow will amaze, inspire, but also ask the most important question: who are you?",
+          "runtime": 62,
+          "tagline": "",
+          "title": "Face"
+        }
+      },
+      {
+        "iso_3166_1": "RU",
+        "iso_639_1": "ru",
+        "name": "Pусский",
+        "english_name": "Russian",
+        "data": {
+          "homepage": "",
+          "overview": "Дьулустан Мухин, простой парень из якутского села однажды стал звездой. Фотография его необычного лица попала на фотовыставки и обложки мировых журналов. Впереди Голливуд. Позади пара якутских фильмов. Теперь почему бы не попробовать себя на «Мосфильме»? Москва поразит, окрылит, но и задаст самый главный вопрос: кто ты?",
+          "runtime": 62,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "RU",
+        "title": "Litso",
+        "type": "transliteration"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 750,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/cT6BbvflgUCGVXa64298C2x0MmO.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 500
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Moscow International Film Festival",
+            "release_date": "2024-04-22T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "One Sixth International Film Festival",
+            "release_date": "2024-08-05T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

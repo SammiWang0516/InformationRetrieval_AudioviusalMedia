@@ -1,0 +1,514 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 200,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1544488,
+  "imdb_id": "tt37957816",
+  "origin_country": [
+    "AR"
+  ],
+  "original_language": "es",
+  "original_title": "Providencia",
+  "overview": "On a quiet afternoon, four desperate youths invade the house of a lonely old woman in search of money and food. But their improvised theft quickly spirals into something far more sinister: a silent human hunt.",
+  "popularity": 0.7114,
+  "poster_path": "/djn2taU38hQq3JYuUdy2LViUGk7.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    }
+  ],
+  "release_date": "2025-11-14",
+  "revenue": 0,
+  "runtime": 7,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Providence",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5681820,
+        "known_for_department": "Acting",
+        "name": "Lupe Salazar",
+        "original_name": "Lupe Salazar",
+        "popularity": 0.051,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Sonia",
+        "credit_id": "68c196fe1295813a1a06af37",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5681821,
+        "known_for_department": "Acting",
+        "name": "Aranza Vallejos Yunes",
+        "original_name": "Aranza Vallejos Yunes",
+        "popularity": 0.0787,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Anto",
+        "credit_id": "68c19713575a1efdb59bd392",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5681824,
+        "known_for_department": "Acting",
+        "name": "Fátima Solari",
+        "original_name": "Fátima Solari",
+        "popularity": 0.0669,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Lara",
+        "credit_id": "68c1984be823ec1c8c9c1579",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5681825,
+        "known_for_department": "Acting",
+        "name": "Gonzalo Arrúa",
+        "original_name": "Gonzalo Arrúa",
+        "popularity": 0.0906,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Juan",
+        "credit_id": "68c1986d4232fbfcd74e6b58",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5681823,
+        "known_for_department": "Acting",
+        "name": "Alexis Rojas",
+        "original_name": "Alexis Rojas",
+        "popularity": 0.0527,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Pedro",
+        "credit_id": "68c19821f896fc684b4e6dae",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4299717,
+        "known_for_department": "Production",
+        "name": "Yamila Palacios",
+        "original_name": "Yamila Palacios",
+        "popularity": 0.0671,
+        "profile_path": null,
+        "credit_id": "68c198a84232fbfcd74e6b62",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4299716,
+        "known_for_department": "Writing",
+        "name": "Sabina Bottazzi",
+        "original_name": "Sabina Bottazzi",
+        "popularity": 0.1141,
+        "profile_path": "/1aHBfOfdEzMVHptiEp6w8ZNeoge.jpg",
+        "credit_id": "68c198dd5c1e4967ea06b26a",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5681827,
+        "known_for_department": "Writing",
+        "name": "Constanza Falcón",
+        "original_name": "Constanza Falcón",
+        "popularity": 0.1337,
+        "profile_path": null,
+        "credit_id": "68c198ef6ebe98c71e4e6e1c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5034358,
+        "known_for_department": "Lighting",
+        "name": "Clara Luque",
+        "original_name": "Clara Luque",
+        "popularity": 0.157,
+        "profile_path": null,
+        "credit_id": "68c1990838ae4bfab51f62ba",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2814273,
+        "known_for_department": "Directing",
+        "name": "Leonel Vidaurre",
+        "original_name": "Leonel Vidaurre",
+        "popularity": 0.1838,
+        "profile_path": "/dVuVOGjkneoPjIVl0BKRVsPR9O3.jpg",
+        "credit_id": "68c199ccf7675287ff948a9e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5681829,
+        "known_for_department": "Writing",
+        "name": "Nubia Paz Saravia",
+        "original_name": "Nubia Paz Saravia",
+        "popularity": 0.2067,
+        "profile_path": null,
+        "credit_id": "68c199e4f7675287ff948aaa",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3254219,
+        "known_for_department": "Directing",
+        "name": "Facundo Vallejos Yunes",
+        "original_name": "Facundo Vallejos Yunes",
+        "popularity": 0.118,
+        "profile_path": "/rqEo8aKlDRV4EGeOh4Q7NfdwAWb.jpg",
+        "credit_id": "68c19a001cc83836311bd8e9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5681832,
+        "known_for_department": "Production",
+        "name": "Marcos  González",
+        "original_name": "Marcos  González",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68c19a1724af1eee5498cfef",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5034359,
+        "known_for_department": "Directing",
+        "name": "Agustín Gregoret",
+        "original_name": "Agustín Gregoret",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68c19a2c15d46e657098cd57",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5681823,
+        "known_for_department": "Acting",
+        "name": "Alexis Rojas",
+        "original_name": "Alexis Rojas",
+        "popularity": 0.0527,
+        "profile_path": null,
+        "credit_id": "68c19a62572c69d92498d142",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5034361,
+        "known_for_department": "Sound",
+        "name": "Nazarena Vallejos",
+        "original_name": "Nazarena Vallejos",
+        "popularity": 0.0488,
+        "profile_path": null,
+        "credit_id": "68c19a7d7d3a18031906aecc",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5034360,
+        "known_for_department": "Sound",
+        "name": "Zulema Romero",
+        "original_name": "Zulema Romero",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68c19a8aed29630cdd06b0a2",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5681839,
+        "known_for_department": "Camera",
+        "name": "Franco Reck",
+        "original_name": "Franco Reck",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68c19aa8450c5c74fd1bd757",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5034358,
+        "known_for_department": "Lighting",
+        "name": "Clara Luque",
+        "original_name": "Clara Luque",
+        "popularity": 0.157,
+        "profile_path": null,
+        "credit_id": "68c19ab90251feffce948723",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5681841,
+        "known_for_department": "Lighting",
+        "name": "Luciano Agostini",
+        "original_name": "Luciano Agostini",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "68c19b0be2761164679bd608",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5681842,
+        "known_for_department": "Camera",
+        "name": "Daiana Oliveras",
+        "original_name": "Daiana Oliveras",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68c19b20b6a42c807c1f6045",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2814273,
+        "known_for_department": "Directing",
+        "name": "Leonel Vidaurre",
+        "original_name": "Leonel Vidaurre",
+        "popularity": 0.1838,
+        "profile_path": "/dVuVOGjkneoPjIVl0BKRVsPR9O3.jpg",
+        "credit_id": "68c19b325e0d47b0758d012b",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5681844,
+        "known_for_department": "Directing",
+        "name": "Alejandra Ferreira",
+        "original_name": "Alejandra Ferreira",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68c19b507c22ace9274e71d8",
+        "department": "Directing",
+        "job": "Continuity"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4299716,
+        "known_for_department": "Writing",
+        "name": "Sabina Bottazzi",
+        "original_name": "Sabina Bottazzi",
+        "popularity": 0.1141,
+        "profile_path": "/1aHBfOfdEzMVHptiEp6w8ZNeoge.jpg",
+        "credit_id": "68c19b7b34f75d1e3e98cf4c",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5034363,
+        "known_for_department": "Art",
+        "name": "Carlos Zalazar Guzmán",
+        "original_name": "Carlos Zalazar Guzmán",
+        "popularity": 0.0426,
+        "profile_path": null,
+        "credit_id": "68c19b9e4232fbfcd74e6b6b",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5681829,
+        "known_for_department": "Writing",
+        "name": "Nubia Paz Saravia",
+        "original_name": "Nubia Paz Saravia",
+        "popularity": 0.2067,
+        "profile_path": null,
+        "credit_id": "68c2ca45d14b5c8b829bd90e",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5034366,
+        "known_for_department": "Camera",
+        "name": "Camila Giménez",
+        "original_name": "Camila Giménez",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "68c2ca57fcc5260ee09c18e6",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 6711,
+        "name": "crisis"
+      },
+      {
+        "id": 12339,
+        "name": "slasher"
+      },
+      {
+        "id": 284439,
+        "name": "blood"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Durante una tarde, 4 jóvenes hambrientos deciden entrar a robar a una casa dónde vive una solitaria anciana. Lo que empieza como un robo improvisado para conseguir dinero y comida termina convirtiéndose en una cacería humana silenciosa.",
+          "runtime": 7,
+          "tagline": "",
+          "title": "Providencia"
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "On a quiet afternoon, four desperate youths invade the house of a lonely old woman in search of money and food. But their improvised theft quickly spirals into something far more sinister: a silent human hunt.",
+          "runtime": 7,
+          "tagline": "",
+          "title": "Providence"
+        }
+      },
+      {
+        "iso_3166_1": "SA",
+        "iso_639_1": "ar",
+        "name": "العربية",
+        "english_name": "Arabic",
+        "data": {
+          "homepage": "",
+          "overview": "في ظهيرة هادئة، يقتحم أربعة شبان يائسين منزل عجوز وحيدة بحثاً عن المال والطعام. لكن سرقتهم المرتجلة سرعان ما تتحول إلى شيء أكثر شراً: مطاردة بشرية صامتة.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt37957816",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.707,
+        "height": 2245,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/djn2taU38hQq3JYuUdy2LViUGk7.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1587
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "",
+            "release_date": "2025-11-14T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

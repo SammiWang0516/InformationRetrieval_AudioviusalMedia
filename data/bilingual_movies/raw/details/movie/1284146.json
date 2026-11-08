@@ -1,0 +1,454 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 1284146,
+  "imdb_id": null,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Rebirth",
+  "overview": "When a thief discovers himself, he must come to terms with his new reality.",
+  "popularity": 1.7277,
+  "poster_path": "/iyYqIKqAYSwjR8nlwJy47aS9CYp.jpg",
+  "production_companies": [
+    {
+      "id": 206931,
+      "logo_path": null,
+      "name": "black rabbit productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2024-05-09",
+  "revenue": 0,
+  "runtime": 14,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "Man-Robot angry",
+  "title": "Rebirth",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4690325,
+        "known_for_department": "Acting",
+        "name": "Rem Liebert",
+        "original_name": "Rem Liebert",
+        "popularity": 0.0507,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Merrick",
+        "credit_id": "66340d6ec3926601296db4eb",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4623848,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Amanda Madeja",
+        "original_name": "Amanda Madeja",
+        "popularity": 0.0746,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "A.M.I.",
+        "credit_id": "66340d7a9590e30123baedb5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4671623,
+        "known_for_department": "Acting",
+        "name": "James Clare",
+        "original_name": "James Clare",
+        "popularity": 0.2376,
+        "profile_path": "/4Eb8xaL4vK9JJQ2vog5vuiSwWcb.jpg",
+        "cast_id": 5,
+        "character": "Darran",
+        "credit_id": "66340d82c3926601266dc202",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4466861,
+        "known_for_department": "Camera",
+        "name": "Joseph Bollinger",
+        "original_name": "Joseph Bollinger",
+        "popularity": 0.2285,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Guard 1",
+        "credit_id": "663bcdeef56a7dbb62dabe10",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4623833,
+        "known_for_department": "Sound",
+        "name": "Mark Sanchez",
+        "original_name": "Mark Sanchez",
+        "popularity": 0.2075,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Guard 2",
+        "credit_id": "663bcdf7b46c10f295a8dc4d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4623156,
+        "known_for_department": "Production",
+        "name": "Juan Camilo Gomez",
+        "original_name": "Juan Camilo Gomez",
+        "popularity": 0.4644,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Guard 3",
+        "credit_id": "663bce022b2fc81d0491b3fc",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4623829,
+        "known_for_department": "Sound",
+        "name": "Luke Manock",
+        "original_name": "Luke Manock",
+        "popularity": 0.3971,
+        "profile_path": null,
+        "credit_id": "66340d22ad59b5012b6d7274",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4623829,
+        "known_for_department": "Sound",
+        "name": "Luke Manock",
+        "original_name": "Luke Manock",
+        "popularity": 0.3971,
+        "profile_path": null,
+        "credit_id": "66340d1afe6c18012c2f823f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4443143,
+        "known_for_department": "Sound",
+        "name": "Brandon McLamb",
+        "original_name": "Brandon McLamb",
+        "popularity": 0.1853,
+        "profile_path": null,
+        "credit_id": "663bb4a7c87059acf567ec21",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4623833,
+        "known_for_department": "Sound",
+        "name": "Mark Sanchez",
+        "original_name": "Mark Sanchez",
+        "popularity": 0.2075,
+        "profile_path": null,
+        "credit_id": "663bb4975dac3aaab763f0db",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4235891,
+        "known_for_department": "Sound",
+        "name": "Thomas Ropp",
+        "original_name": "Thomas Ropp",
+        "popularity": 0.1481,
+        "profile_path": "/7kQqzHjpVKlbRQLQKDkXAq1jhex.jpg",
+        "credit_id": "663bb4b4404a53bdb70b6618",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4623156,
+        "known_for_department": "Production",
+        "name": "Juan Camilo Gomez",
+        "original_name": "Juan Camilo Gomez",
+        "popularity": 0.4644,
+        "profile_path": null,
+        "credit_id": "663bce7269d5e02a0b584bd3",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4623829,
+        "known_for_department": "Sound",
+        "name": "Luke Manock",
+        "original_name": "Luke Manock",
+        "popularity": 0.3971,
+        "profile_path": null,
+        "credit_id": "663bcea65661280d7df9ba10",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4690333,
+        "known_for_department": "Writing",
+        "name": "Raymond Martinez",
+        "original_name": "Raymond Martinez",
+        "popularity": 0.446,
+        "profile_path": null,
+        "credit_id": "663bce2b29f3abd1570db314",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4466861,
+        "known_for_department": "Camera",
+        "name": "Joseph Bollinger",
+        "original_name": "Joseph Bollinger",
+        "popularity": 0.2285,
+        "profile_path": null,
+        "credit_id": "663bce7c1a3d02a14077fbb8",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4443112,
+        "known_for_department": "Production",
+        "name": "Wendy Gaytan Marin",
+        "original_name": "Wendy Gaytan Marin",
+        "popularity": 0.2187,
+        "profile_path": null,
+        "credit_id": "663bce572bc41fae980db1f1",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4623829,
+        "known_for_department": "Sound",
+        "name": "Luke Manock",
+        "original_name": "Luke Manock",
+        "popularity": 0.3971,
+        "profile_path": null,
+        "credit_id": "663bceb8ac73ad8e60887b44",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4623848,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Amanda Madeja",
+        "original_name": "Amanda Madeja",
+        "popularity": 0.0746,
+        "profile_path": null,
+        "credit_id": "663bb4821dd0b624ed0b6dd2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4623195,
+        "known_for_department": "Acting",
+        "name": "Bryant Staff Jr.",
+        "original_name": "Bryant Staff Jr.",
+        "popularity": 0.299,
+        "profile_path": null,
+        "credit_id": "663bce1d3f9f6a66540db275",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4443110,
+        "known_for_department": "Editing",
+        "name": "Fatima Adawee",
+        "original_name": "Fatima Adawee",
+        "popularity": 0.0651,
+        "profile_path": null,
+        "credit_id": "663bce6b3f9f6a66540db281",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4623159,
+        "known_for_department": "Camera",
+        "name": "Nata Aguilar",
+        "original_name": "Nata Aguilar",
+        "popularity": 0.1536,
+        "profile_path": null,
+        "credit_id": "663bce4e9d7e0cf8c60db1bc",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4679961,
+        "known_for_department": "Camera",
+        "name": "Gianna Peredina",
+        "original_name": "Gianna Peredina",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "663bce43a8305594c5887a91",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4699884,
+        "known_for_department": "Camera",
+        "name": "Wyatt Chavez",
+        "original_name": "Wyatt Chavez",
+        "popularity": 0.2806,
+        "profile_path": null,
+        "credit_id": "663bce3ab82cd84c6df0388b",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4623829,
+        "known_for_department": "Sound",
+        "name": "Luke Manock",
+        "original_name": "Luke Manock",
+        "popularity": 0.3971,
+        "profile_path": null,
+        "credit_id": "663bce9bbdc22a4016010a26",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4700079,
+        "known_for_department": "Camera",
+        "name": "Anna Buan",
+        "original_name": "Anna Buan",
+        "popularity": 0.2408,
+        "profile_path": null,
+        "credit_id": "663bce8aa1c7ad7f91337aa7",
+        "department": "Camera",
+        "job": "Key Grip"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "When a thief discovers himself, he must come to terms with his new reality.",
+          "runtime": 14,
+          "tagline": "Man-Robot angry",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1600,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/iyYqIKqAYSwjR8nlwJy47aS9CYp.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1067
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2024-05-09T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

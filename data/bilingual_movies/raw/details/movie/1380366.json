@@ -1,0 +1,548 @@
+{
+  "adult": false,
+  "backdrop_path": "/w803Fz6I2LCl2OEPBmoDB2pdKFz.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1380366,
+  "imdb_id": "tt34740270",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Kirschen essen",
+  "overview": "Mara is a law student incapable of feeling emotions. How will she react, then, when she discovers that her rapist is a redeemed and happy man? How will she compare the law with her idea of justice?",
+  "popularity": 1.2548,
+  "poster_path": "/rryO5nAEdofWMyo3YkZRIfTc1pY.jpg",
+  "production_companies": [
+    {
+      "id": 296,
+      "logo_path": "/oPCnyumoJtIedjQoQin6zSSHkv8.png",
+      "name": "Filmakademie Baden-Württemberg",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2024-11-26",
+  "revenue": 0,
+  "runtime": 17,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Cherry on Top",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1832949,
+        "known_for_department": "Acting",
+        "name": "Michael Foerster",
+        "original_name": "Michael Foerster",
+        "popularity": 0.1351,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Kasimir",
+        "credit_id": "6877bb4becffb24031ba1aad",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1432056,
+        "known_for_department": "Acting",
+        "name": "Jule Hermann",
+        "original_name": "Jule Hermann",
+        "popularity": 0.7776,
+        "profile_path": "/peySKdemwkxvfROYaTnWy9AuEEC.jpg",
+        "cast_id": 3,
+        "character": "Mara",
+        "credit_id": "6877bb66c2f33ce5b105258f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1942380,
+        "known_for_department": "Acting",
+        "name": "Mona Kloos",
+        "original_name": "Mona Kloos",
+        "popularity": 0.3651,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Ines",
+        "credit_id": "6877bb795993317805779b33",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5568236,
+        "known_for_department": "Acting",
+        "name": "Marina Spalluto",
+        "original_name": "Marina Spalluto",
+        "popularity": 0.1574,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Verlobte",
+        "credit_id": "6877bb9373b4803f1a1ccff4",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4308733,
+        "known_for_department": "Acting",
+        "name": "Chieloka Jairus",
+        "original_name": "Chieloka Jairus",
+        "popularity": 0.116,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Date",
+        "credit_id": "6877bcd84c2aba1cab43d1d3",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4293911,
+        "known_for_department": "Writing",
+        "name": "Nandi Nastasja",
+        "original_name": "Nandi Nastasja",
+        "popularity": 0.3008,
+        "profile_path": null,
+        "credit_id": "6724706590004810fecb1e96",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4293911,
+        "known_for_department": "Writing",
+        "name": "Nandi Nastasja",
+        "original_name": "Nandi Nastasja",
+        "popularity": 0.3008,
+        "profile_path": null,
+        "credit_id": "6877bbb573b4803f1a1ccffa",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3298564,
+        "known_for_department": "Editing",
+        "name": "Emma Holzapfel",
+        "original_name": "Emma Holzapfel",
+        "popularity": 0.2154,
+        "profile_path": null,
+        "credit_id": "6877bbc661ecf37fb2779a40",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2622839,
+        "known_for_department": "Camera",
+        "name": "Benedict Uphoff",
+        "original_name": "Benedict Uphoff",
+        "popularity": 0.0919,
+        "profile_path": null,
+        "credit_id": "6877c006b87a36ea21cce294",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5568265,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jacqueline Koch",
+        "original_name": "Jacqueline Koch",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "6877c035660d52beabcce340",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4007018,
+        "known_for_department": "Lighting",
+        "name": "Leon Golz",
+        "original_name": "Leon Golz",
+        "popularity": 0.1346,
+        "profile_path": null,
+        "credit_id": "6877c04fc89b3ef8891661ad",
+        "department": "Lighting",
+        "job": "Lighting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5568267,
+        "known_for_department": "Lighting",
+        "name": "Fabian Nübling",
+        "original_name": "Fabian Nübling",
+        "popularity": 0.041,
+        "profile_path": null,
+        "credit_id": "6877c06344e6c351e1ba1aac",
+        "department": "Lighting",
+        "job": "Best Boy Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5568268,
+        "known_for_department": "Lighting",
+        "name": "Leon Streveld",
+        "original_name": "Leon Streveld",
+        "popularity": 0.0511,
+        "profile_path": null,
+        "credit_id": "6877c07096c78a53821cd02d",
+        "department": "Lighting",
+        "job": "Best Boy Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5568270,
+        "known_for_department": "Production",
+        "name": "Alexa Josef",
+        "original_name": "Alexa Josef",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "6877c0cc73b4803f1a1cd013",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4475935,
+        "known_for_department": "Art",
+        "name": "Viviane Franquinet",
+        "original_name": "Viviane Franquinet",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6877c0dc81bf3d10d205251a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5568271,
+        "known_for_department": "Production",
+        "name": "Carina Borgards",
+        "original_name": "Carina Borgards",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "6877c0f6ba78afbb0bcf1795",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5568272,
+        "known_for_department": "Crew",
+        "name": "Felix Glawion",
+        "original_name": "Felix Glawion",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "credit_id": "6877c110aac63692d01cd05f",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5568275,
+        "known_for_department": "Crew",
+        "name": "Ajda Jakomini",
+        "original_name": "Ajda Jakomini",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "6877c1244398ce7e5b6ab34f",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3560321,
+        "known_for_department": "Directing",
+        "name": "Maja Rode",
+        "original_name": "Maja Rode",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "6877c13281d9a8230ecf1717",
+        "department": "Crew",
+        "job": "Set Runner"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4154330,
+        "known_for_department": "Production",
+        "name": "Nikolai Paul",
+        "original_name": "Nikolai Paul",
+        "popularity": 0.1351,
+        "profile_path": null,
+        "credit_id": "6877c147afc0825695165e4e",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2856302,
+        "known_for_department": "Sound",
+        "name": "Patrick Kuhn Botelho",
+        "original_name": "Patrick Kuhn Botelho",
+        "popularity": 0.1242,
+        "profile_path": null,
+        "credit_id": "6877c158c1f57ed568165d3b",
+        "department": "Sound",
+        "job": "Music Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4516023,
+        "known_for_department": "Sound",
+        "name": "Till Kauffer",
+        "original_name": "Till Kauffer",
+        "popularity": 0.274,
+        "profile_path": null,
+        "credit_id": "6877c175749f3f78e4cce2fe",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4978015,
+        "known_for_department": "Sound",
+        "name": "Jonas Winkler",
+        "original_name": "Jonas Winkler",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "6877c1833379e1954543d218",
+        "department": "Sound",
+        "job": "Sound Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5216375,
+        "known_for_department": "Sound",
+        "name": "Daniel Erben",
+        "original_name": "Daniel Erben",
+        "popularity": 0.0514,
+        "profile_path": null,
+        "credit_id": "6877c190a53b6ea52743d1da",
+        "department": "Sound",
+        "job": "Sound Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5568282,
+        "known_for_department": "Sound",
+        "name": "Tim Kleinemeier",
+        "original_name": "Tim Kleinemeier",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6877c1a88617b3727e43d651",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3298564,
+        "known_for_department": "Editing",
+        "name": "Emma Holzapfel",
+        "original_name": "Emma Holzapfel",
+        "popularity": 0.2154,
+        "profile_path": null,
+        "credit_id": "6877c1d12c9614b021cce33b",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 516,
+        "name": "child abuse"
+      },
+      {
+        "id": 193551,
+        "name": "vigilantism"
+      },
+      {
+        "id": 262783,
+        "name": "traumatized child"
+      },
+      {
+        "id": 376243,
+        "name": "pädophilie"
+      },
+      {
+        "id": 376244,
+        "name": "gerechtigkeit"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "IT",
+        "iso_639_1": "it",
+        "name": "Italiano",
+        "english_name": "Italian",
+        "data": {
+          "homepage": "",
+          "overview": "Quando Mara, una studentessa di giurisprudenza analitica che non è riuscita a relazionarsi con nessuno né fisicamente né emotivamente a causa degli abusi subiti durante l'infanzia, si confronta con il nuovo interesse amoroso del suo pedofilo stupratore, si trova ad affrontare la questione di cosa sia la giustizia.",
+          "runtime": 17,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Mara is a law student incapable of feeling emotions. How will she react, then, when she discovers that her rapist is a redeemed and happy man? How will she compare the law with her idea of justice?",
+          "runtime": 17,
+          "tagline": "",
+          "title": "Cherry on Top"
+        }
+      },
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "",
+          "overview": "Als die Jurastudentin Mara, die sich seit einem Missbrauch in ihrer Kindheit sowohl körperlich als\r auch emotional auf niemanden einlassen kann, mit dem neuen Liebesglück ihres gesühnten\r Vergewaltigers konfrontiert wird, bedrängt sie die Frage nach Recht und Gerechtigkeit.",
+          "runtime": 17,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "DE",
+        "title": "Grautöne",
+        "type": "Working title"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt34740270",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/w803Fz6I2LCl2OEPBmoDB2pdKFz.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/m5LybdEwv0lgKtJjXllZ4Edlypa.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.708,
+        "height": 1572,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/sssS7d66Ml9jh6neV6KSNLogxcs.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1113
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1350,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/jbeMvXSxDfLl7Xt3POPGuettpe.jpg",
+        "vote_average": 0.166,
+        "vote_count": 2,
+        "width": 901
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Torino Film Festival ",
+            "release_date": "2024-11-26T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

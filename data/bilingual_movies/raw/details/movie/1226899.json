@@ -1,0 +1,726 @@
+{
+  "adult": false,
+  "backdrop_path": "/68qqaLBYaOcJkGHNAS3YCaKgt5T.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://caroleandgrey.com",
+  "id": 1226899,
+  "imdb_id": "tt30787657",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Carole & Grey",
+  "overview": "Best friends Carole and Grey go on an odyssey from Brooklyn to the Upper West Side to get Grey's Dog.",
+  "popularity": 1.4624,
+  "poster_path": "/19sxx0ff4tjAYqcRpFQTYCA3ZWn.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-11-21",
+  "revenue": 0,
+  "runtime": 70,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "In the big apple, Carole & Grey are dealing with some small potatoes",
+  "title": "Carole & Grey",
+  "video": false,
+  "vote_average": 1.0,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1461038,
+        "known_for_department": "Acting",
+        "name": "Jon Bass",
+        "original_name": "Jon Bass",
+        "popularity": 1.1635,
+        "profile_path": "/2eo9pMyPhA9mBaSrNlD6UP3Nkyw.jpg",
+        "cast_id": 1,
+        "character": "Grey",
+        "credit_id": "65986ff589b56101a4c37c7d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1621502,
+        "known_for_department": "Acting",
+        "name": "Mary Wiseman",
+        "original_name": "Mary Wiseman",
+        "popularity": 0.6035,
+        "profile_path": "/85uKEsrzJ0pWMDKKwAQtYdMbnq4.jpg",
+        "cast_id": 2,
+        "character": "Carole",
+        "credit_id": "659870007d550400f18104cf",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3031407,
+        "known_for_department": "Acting",
+        "name": "Rosaline Elbay",
+        "original_name": "Rosaline Elbay",
+        "popularity": 0.854,
+        "profile_path": "/pnWeiy0SG2IEkehiYXJHz9OYMge.jpg",
+        "cast_id": 3,
+        "character": "Silvie",
+        "credit_id": "659870120d11f20202ea24d0",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3797346,
+        "known_for_department": "Acting",
+        "name": "Dario Ladani Sanchez",
+        "original_name": "Dario Ladani Sanchez",
+        "popularity": 0.2311,
+        "profile_path": "/7GrU9QhKGrA0syv437YtnMjJk2j.jpg",
+        "cast_id": 4,
+        "character": "Dario",
+        "credit_id": "6598702b1d1bf400f39f3cfb",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3462010,
+        "known_for_department": "Acting",
+        "name": "Sebastian Arroyo",
+        "original_name": "Sebastian Arroyo",
+        "popularity": 0.1896,
+        "profile_path": "/6eacVFsVeiCdMLy1Dgrx4rXQZqi.jpg",
+        "cast_id": 5,
+        "character": "Soothsayer",
+        "credit_id": "6598703a6e938a00ee4c2cab",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3738768,
+        "known_for_department": "Acting",
+        "name": "Alex Mickiewicz",
+        "original_name": "Alex Mickiewicz",
+        "popularity": 0.2041,
+        "profile_path": "/9hAX3OP29kaBKdCvQ2YdIMhr7S.jpg",
+        "cast_id": 6,
+        "character": "Guy/Dude/Bro/Dada/Mike Wallace",
+        "credit_id": "6598704c89b56100efc6104b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1321244,
+        "known_for_department": "Acting",
+        "name": "Rhys Mitchell",
+        "original_name": "Rhys Mitchell",
+        "popularity": 0.7059,
+        "profile_path": "/wrKvnFvLPFV3AhQ3xSzA2xPkDHD.jpg",
+        "cast_id": 7,
+        "character": "Red",
+        "credit_id": "659870550d11f20202ea24eb",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2949021,
+        "known_for_department": "Acting",
+        "name": "Martin Urbano",
+        "original_name": "Martin Urbano",
+        "popularity": 0.3812,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Pamphlet Man",
+        "credit_id": "659870bb0d11f2014979c0b2",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 884,
+        "known_for_department": "Acting",
+        "name": "Steve Buscemi",
+        "original_name": "Steve Buscemi",
+        "popularity": 5.5214,
+        "profile_path": "/n0pZumkrcZrAPMoPq684RhYnjPV.jpg",
+        "cast_id": 9,
+        "character": "Shapeshifter",
+        "credit_id": "659870ce0d11f201a50667b1",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54883,
+        "known_for_department": "Acting",
+        "name": "Michael Buscemi",
+        "original_name": "Michael Buscemi",
+        "popularity": 0.7851,
+        "profile_path": "/1pawVXrm55KhXHE0jNASaZi6dBm.jpg",
+        "cast_id": 10,
+        "character": "Ronnie",
+        "credit_id": "659870f76e938a0148048dc1",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3100037,
+        "known_for_department": "Acting",
+        "name": "Shannon Lyons",
+        "original_name": "Shannon Lyons",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Hannah",
+        "credit_id": "67686f3f5d6e367c2b5ccacb",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5135677,
+        "known_for_department": "Acting",
+        "name": "Friday the Dog",
+        "original_name": "Friday the Dog",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Friday",
+        "credit_id": "67686f57231202807d0af3d9",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10980,
+        "known_for_department": "Acting",
+        "name": "Daniel Radcliffe",
+        "original_name": "Daniel Radcliffe",
+        "popularity": 4.4365,
+        "profile_path": "/uUFfo8RANo7tuckB6AZAnESne55.jpg",
+        "cast_id": 20,
+        "character": "Dan Radcliffe's Voice (voice)",
+        "credit_id": "67686f6c39fec6bcacc4c90d",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2391938,
+        "known_for_department": "Acting",
+        "name": "Natalie Liconti",
+        "original_name": "Natalie Liconti",
+        "popularity": 0.4573,
+        "profile_path": "/7rmhUO9hIKJ1bvjo0hayzwB7qFx.jpg",
+        "cast_id": 21,
+        "character": "Stalker",
+        "credit_id": "67686f8a231202807d0af40c",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5135684,
+        "known_for_department": "Acting",
+        "name": "Rachel Trail",
+        "original_name": "Rachel Trail",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Leader of Yo-Yo Gang",
+        "credit_id": "67686fa957f6a67c855ccc59",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5135686,
+        "known_for_department": "Acting",
+        "name": "Madeleine Rose",
+        "original_name": "Madeleine Rose",
+        "popularity": 0.0558,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Yo-Yo Gang Member",
+        "credit_id": "67686fdd46a5a438790af208",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2432349,
+        "known_for_department": "Camera",
+        "name": "Rhys Scarabosio",
+        "original_name": "Rhys Scarabosio",
+        "popularity": 0.2224,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Yo-Yo Gang Member",
+        "credit_id": "67686ff546a5a438790af234",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5135687,
+        "known_for_department": "Acting",
+        "name": "Meg Skidmore",
+        "original_name": "Meg Skidmore",
+        "popularity": 0.0425,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Yo-Yo Gang Member",
+        "credit_id": "6768700039fec6bcacc4c951",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5135688,
+        "known_for_department": "Acting",
+        "name": "Viktorija Mickute",
+        "original_name": "Viktorija Mickute",
+        "popularity": 0.032,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Lithuanian Woman",
+        "credit_id": "676870275d6e367c2b5ccb45",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2194206,
+        "known_for_department": "Editing",
+        "name": "Matt McBrayer",
+        "original_name": "Matt McBrayer",
+        "popularity": 0.204,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Viewer/Messager VO (voice)",
+        "credit_id": "6768704a73da5bccc5c4c7c2",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 45400,
+        "known_for_department": "Acting",
+        "name": "Greta Gerwig",
+        "original_name": "Greta Gerwig",
+        "popularity": 2.193,
+        "profile_path": "/dxKAhpkz4XNwmRzMG5QOpXjPZ1N.jpg",
+        "cast_id": 28,
+        "character": "Greta Gerwig",
+        "credit_id": "67687071231202807d0af457",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4784,
+        "known_for_department": "Acting",
+        "name": "Laura Dern",
+        "original_name": "Laura Dern",
+        "popularity": 3.2327,
+        "profile_path": "/gB9PnGEvxKg33OSlcqptQwTBwPE.jpg",
+        "cast_id": 29,
+        "character": "Laura Dern",
+        "credit_id": "6768707b39fec6bcacc4c983",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5135692,
+        "known_for_department": "Acting",
+        "name": "Doug Moffitt",
+        "original_name": "Doug Moffitt",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Litterbug",
+        "credit_id": "676870b2d5cc1f64cbc4c4bd",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5135696,
+        "known_for_department": "Acting",
+        "name": "Nona",
+        "original_name": "Nona",
+        "popularity": 0.0515,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Witch of Central Park",
+        "credit_id": "676870ea39fec6bcacc4c9bb",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5135700,
+        "known_for_department": "Acting",
+        "name": "Mark Mitchell",
+        "original_name": "Mark Mitchell",
+        "popularity": 0.0342,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Narrator",
+        "credit_id": "6768712546a5a438790af27e",
+        "order": 24
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1461038,
+        "known_for_department": "Acting",
+        "name": "Jon Bass",
+        "original_name": "Jon Bass",
+        "popularity": 1.1635,
+        "profile_path": "/2eo9pMyPhA9mBaSrNlD6UP3Nkyw.jpg",
+        "credit_id": "659871451d1bf400971a4fea",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3100037,
+        "known_for_department": "Acting",
+        "name": "Shannon Lyons",
+        "original_name": "Shannon Lyons",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "659872041d1bf4014d22941c",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1461038,
+        "known_for_department": "Acting",
+        "name": "Jon Bass",
+        "original_name": "Jon Bass",
+        "popularity": 1.1635,
+        "profile_path": "/2eo9pMyPhA9mBaSrNlD6UP3Nkyw.jpg",
+        "credit_id": "6598713a1d1bf402023c8f3a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2194206,
+        "known_for_department": "Editing",
+        "name": "Matt McBrayer",
+        "original_name": "Matt McBrayer",
+        "popularity": 0.204,
+        "profile_path": null,
+        "credit_id": "6598711e7d55040096352e9c",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2432349,
+        "known_for_department": "Camera",
+        "name": "Rhys Scarabosio",
+        "original_name": "Rhys Scarabosio",
+        "popularity": 0.2224,
+        "profile_path": null,
+        "credit_id": "6598716689b56101a4c37cf3",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3514243,
+        "known_for_department": "Camera",
+        "name": "Aaron Zimmerman",
+        "original_name": "Aaron Zimmerman",
+        "popularity": 0.0647,
+        "profile_path": null,
+        "credit_id": "6598719f89b56100948adf44",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5168272,
+        "known_for_department": "Sound",
+        "name": "J Blynn",
+        "original_name": "J Blynn",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "677f4c11c5d2e96e267b073c",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1802262,
+        "known_for_department": "Sound",
+        "name": "Matt Schoenfeld",
+        "original_name": "Matt Schoenfeld",
+        "popularity": 0.117,
+        "profile_path": null,
+        "credit_id": "677f4c1d7732209e17bb212d",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5135692,
+        "known_for_department": "Acting",
+        "name": "Doug Moffitt",
+        "original_name": "Doug Moffitt",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "677f4c2ec5d2e96e267b0743",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1461038,
+        "known_for_department": "Acting",
+        "name": "Jon Bass",
+        "original_name": "Jon Bass",
+        "popularity": 1.1635,
+        "profile_path": "/2eo9pMyPhA9mBaSrNlD6UP3Nkyw.jpg",
+        "credit_id": "677f4c3a12667968854e8ed7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2236265,
+        "known_for_department": "Camera",
+        "name": "Minka Farthing-Kohl",
+        "original_name": "Minka Farthing-Kohl",
+        "popularity": 0.1575,
+        "profile_path": null,
+        "credit_id": "6851e888662e4cee015ea56a",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "http://caroleandgrey.com",
+          "overview": "Best friends Carole and Grey go on an odyssey from Brooklyn to the Upper West Side to get Grey's Dog.",
+          "runtime": 70,
+          "tagline": "In the big apple, Carole & Grey are dealing with some small potatoes",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "NL",
+        "iso_639_1": "nl",
+        "name": "Nederlands",
+        "english_name": "Dutch",
+        "data": {
+          "homepage": "",
+          "overview": "Beste vriendinnen Carole en Gray gaan op een odyssee van Brooklyn naar de Upper West Side om Grey's Dog te halen.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "EE",
+        "iso_639_1": "et",
+        "name": "Eesti",
+        "english_name": "Estonian",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Carole ja Grey"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt30787657",
+    "wikidata_id": "Q138024667",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/68qqaLBYaOcJkGHNAS3YCaKgt5T.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.75,
+        "height": 2048,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/eTmlq2aSlOJnrOQ9TqMXrGGWtEN.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1536
+      },
+      {
+        "aspect_ratio": 0.75,
+        "height": 2048,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/gm2GqpOYuw9AC4ZNRrw301eMKDs.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1536
+      },
+      {
+        "aspect_ratio": 0.75,
+        "height": 2048,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/tDaPf7R73JdQ9VfMEuTyubwftaO.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1536
+      },
+      {
+        "aspect_ratio": 0.75,
+        "height": 2048,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/yAew4cIMr5GPVTA2ZTGAMraNl3W.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1536
+      },
+      {
+        "aspect_ratio": 0.75,
+        "height": 2048,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/8uTSdShJOkfDvyKINWt8LwVMz0q.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1536
+      },
+      {
+        "aspect_ratio": 0.75,
+        "height": 2048,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/40xtknmKru5wic2cEfgG7PQaWTb.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1536
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1821,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/19sxx0ff4tjAYqcRpFQTYCA3ZWn.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1214
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "EE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Tallinn Black Nights Film Festival",
+            "release_date": "2024-11-21T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Carole & Grey Teaser",
+        "key": "6tRnHFiRlzo",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": false,
+        "id": "664c9fcd1abdb1ad62552ecd",
+        "published_at": "2024-01-29T20:33:55.000Z"
+      }
+    ]
+  }
+}

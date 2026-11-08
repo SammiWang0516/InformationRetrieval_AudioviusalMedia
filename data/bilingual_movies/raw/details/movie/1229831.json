@@ -1,0 +1,815 @@
+{
+  "adult": false,
+  "backdrop_path": "/x4uIkekuPSBFyearXb1mdGpjl5J.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1229831,
+  "imdb_id": "tt24075348",
+  "origin_country": [
+    "FI",
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_title": "XXL",
+  "overview": "Siblings Enzo and Magda have drifted apart, and in an attempt to reconnect, Magda invites her brother on a trip to Helsinki. Over a weekend, the sibling duo encounters a series of eccentric characters and confronts situations that necessitate conversations about life, art and existence. Memories blend with the present, and dreams and reality merge for the two travelers adrift in the atmospheric city of Helsinki.",
+  "popularity": 1.9272,
+  "poster_path": "/lDU1TI5baS0yoyrk1dHZQXPrJyB.jpg",
+  "production_companies": [
+    {
+      "id": 181019,
+      "logo_path": "/32aabJVmCrxSM7kXxPD0WD78t1z.png",
+      "name": "POST POST",
+      "origin_country": "SE"
+    },
+    {
+      "id": 230318,
+      "logo_path": null,
+      "name": "MDEC",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FI",
+      "name": "Finland"
+    },
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "2024-11-01",
+  "revenue": 0,
+  "runtime": 77,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Finnish",
+      "iso_639_1": "fi",
+      "name": "suomi"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "XXL",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4705506,
+        "known_for_department": "Acting",
+        "name": "Astrid Drettner",
+        "original_name": "Astrid Drettner",
+        "popularity": 0.2937,
+        "profile_path": "/tI6hqumoTv9XHXdRvXv27SCZq8Z.jpg",
+        "cast_id": 3,
+        "character": "Magdalena",
+        "credit_id": "663ddc9db82cd84c6df1c106",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4705507,
+        "known_for_department": "Acting",
+        "name": "Georgios Giokotos",
+        "original_name": "Georgios Giokotos",
+        "popularity": 0.1922,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Enzo",
+        "credit_id": "663ddcbc0f2c7c19a6c7a472",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4705508,
+        "known_for_department": "Acting",
+        "name": "Ken Mai",
+        "original_name": "Ken Mai",
+        "popularity": 0.1004,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Butoh artist",
+        "credit_id": "663ddcc81deb49d1207f08ca",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4705509,
+        "known_for_department": "Acting",
+        "name": "Teri-Anne Brink",
+        "original_name": "Teri-Anne Brink",
+        "popularity": 0.0821,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Miss Wong",
+        "credit_id": "663ddcd691ead4bae330ba5e",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4705510,
+        "known_for_department": "Acting",
+        "name": "John Holm",
+        "original_name": "John Holm",
+        "popularity": 0.3516,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Alf",
+        "credit_id": "663ddce8842f8676d2a46d28",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4705511,
+        "known_for_department": "Acting",
+        "name": "Enkete Mungbaba",
+        "original_name": "Enkete Mungbaba",
+        "popularity": 0.1476,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Cemetery Caretaker",
+        "credit_id": "663ddd10532723af3a026906",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4705512,
+        "known_for_department": "Acting",
+        "name": "Marianne Lehtimäki",
+        "original_name": "Marianne Lehtimäki",
+        "popularity": 0.0983,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Museum Guide",
+        "credit_id": "663ddd1f91ead4bae330ba97",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2535093,
+        "known_for_department": "Acting",
+        "name": "Marianne Carlsson",
+        "original_name": "Marianne Carlsson",
+        "popularity": 0.0894,
+        "profile_path": "/gEHkz15Uru72f821cj9rWKUxJi1.jpg",
+        "cast_id": 10,
+        "character": "Marianne",
+        "credit_id": "663ddd2a63679ef9a0da7c7a",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2438954,
+        "known_for_department": "Acting",
+        "name": "Leila Aissat Isung",
+        "original_name": "Leila Aissat Isung",
+        "popularity": 0.0583,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Pawnbroker",
+        "credit_id": "663ddd3edbfb7359abcd9372",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1950404,
+        "known_for_department": "Sound",
+        "name": "Michael Cedlind",
+        "original_name": "Michael Cedlind",
+        "popularity": 0.087,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Cantor",
+        "credit_id": "663ddd54ddef6428e70f8d90",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 234260,
+        "known_for_department": "Acting",
+        "name": "Katja Kiuru",
+        "original_name": "Katja Kiuru",
+        "popularity": 0.4393,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Theatre Director",
+        "credit_id": "663f47de098b2a7ea125f324",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4707129,
+        "known_for_department": "Acting",
+        "name": "Farah Muse",
+        "original_name": "Farah Muse",
+        "popularity": 0.0435,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Car Mechanic",
+        "credit_id": "663f482fcc8e45299cb60ab9",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6005485,
+        "known_for_department": "Acting",
+        "name": "Roger Carlsson",
+        "original_name": "Roger Carlsson",
+        "popularity": 0.0942,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Rogga",
+        "credit_id": "699b212737d2e4062080ed0b",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6024544,
+        "known_for_department": "Acting",
+        "name": "Anita Holm",
+        "original_name": "Anita Holm",
+        "popularity": 0.0793,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "",
+        "credit_id": "699b215e84805f248e3743b5",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1906704,
+        "known_for_department": "Directing",
+        "name": "Kim Ekberg",
+        "original_name": "Kim Ekberg",
+        "popularity": 0.1714,
+        "profile_path": "/yJwjCeUWynlgGYDIpEmpGVx6LSz.jpg",
+        "credit_id": "65a0826db686b901246c089a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2199695,
+        "known_for_department": "Directing",
+        "name": "Sawandi Groskind",
+        "original_name": "Sawandi Groskind",
+        "popularity": 0.1687,
+        "profile_path": "/fmmwIn7zSlZbeny5nkmKfxye6Ci.jpg",
+        "credit_id": "65a08260ccde0401318b50cb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1950405,
+        "known_for_department": "Sound",
+        "name": "Johannes Hagman",
+        "original_name": "Johannes Hagman",
+        "popularity": 0.1126,
+        "profile_path": null,
+        "credit_id": "663dddf3b46c10f295aa460c",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1310860,
+        "known_for_department": "Directing",
+        "name": "Elisabeth Marjanović Cronvall",
+        "original_name": "Elisabeth Marjanovic Cronvall",
+        "popularity": 0.1179,
+        "profile_path": null,
+        "credit_id": "663ddd75d0674f2601dc86cc",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1950404,
+        "known_for_department": "Sound",
+        "name": "Michael Cedlind",
+        "original_name": "Michael Cedlind",
+        "popularity": 0.087,
+        "profile_path": null,
+        "credit_id": "663ddde7d13a3341ce7962e4",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3562035,
+        "known_for_department": "Crew",
+        "name": "Annika Miettinen",
+        "original_name": "Annika Miettinen",
+        "popularity": 0.1285,
+        "profile_path": null,
+        "credit_id": "663dddb4c0998ddfeb511dd8",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1906704,
+        "known_for_department": "Directing",
+        "name": "Kim Ekberg",
+        "original_name": "Kim Ekberg",
+        "popularity": 0.1714,
+        "profile_path": "/yJwjCeUWynlgGYDIpEmpGVx6LSz.jpg",
+        "credit_id": "663ddd813042f35be3fb293b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1906704,
+        "known_for_department": "Directing",
+        "name": "Kim Ekberg",
+        "original_name": "Kim Ekberg",
+        "popularity": 0.1714,
+        "profile_path": "/yJwjCeUWynlgGYDIpEmpGVx6LSz.jpg",
+        "credit_id": "66f665bcb9fd27627950a84b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2199695,
+        "known_for_department": "Directing",
+        "name": "Sawandi Groskind",
+        "original_name": "Sawandi Groskind",
+        "popularity": 0.1687,
+        "profile_path": "/fmmwIn7zSlZbeny5nkmKfxye6Ci.jpg",
+        "credit_id": "66f665cfb9fd27627950a859",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3564419,
+        "known_for_department": "Directing",
+        "name": "Saarlotta Virri",
+        "original_name": "Saarlotta Virri",
+        "popularity": 0.2242,
+        "profile_path": null,
+        "credit_id": "66f665f86cedbed01570b01c",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3076769,
+        "known_for_department": "Directing",
+        "name": "Maria Lundström",
+        "original_name": "Maria Lundström",
+        "popularity": 0.0376,
+        "profile_path": null,
+        "credit_id": "66f6660e6c9a68155070b70e",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4195716,
+        "known_for_department": "Directing",
+        "name": "Simon Öster",
+        "original_name": "Simon Öster",
+        "popularity": 0.0606,
+        "profile_path": null,
+        "credit_id": "66f666256c9a68155070b721",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3563765,
+        "known_for_department": "Art",
+        "name": "John Holm",
+        "original_name": "John Holm",
+        "popularity": 0.0511,
+        "profile_path": null,
+        "credit_id": "66f6665aaa7e5fa2029660f5",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3563767,
+        "known_for_department": "Camera",
+        "name": "Linus Enlund",
+        "original_name": "Linus Enlund",
+        "popularity": 0.0384,
+        "profile_path": null,
+        "credit_id": "66f66692b9d67aadec50a191",
+        "department": "Camera",
+        "job": "Focus Puller"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2572202,
+        "known_for_department": "Sound",
+        "name": "Thomas Jansson",
+        "original_name": "Thomas Jansson",
+        "popularity": 0.1007,
+        "profile_path": null,
+        "credit_id": "6a4182bd321a5dcb66d30208",
+        "department": "Sound",
+        "job": "Sound Designer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 380,
+        "name": "sibling relationship"
+      },
+      {
+        "id": 7640,
+        "name": "butoh"
+      },
+      {
+        "id": 11095,
+        "name": "cruise ship"
+      },
+      {
+        "id": 156063,
+        "name": "expatriate"
+      },
+      {
+        "id": 269764,
+        "name": "natural history museum"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Siblings Enzo and Magda have drifted apart, and in an attempt to reconnect, Magda invites her brother on a trip to Helsinki. Over a weekend, the sibling duo encounters a series of eccentric characters and confronts situations that necessitate conversations about life, art and existence. Memories blend with the present, and dreams and reality merge for the two travelers adrift in the atmospheric city of Helsinki.",
+          "runtime": 77,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "SE",
+        "iso_639_1": "sv",
+        "name": "svenska",
+        "english_name": "Swedish",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 77,
+          "tagline": "A Road trip through the mind...",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "LT",
+        "iso_639_1": "lt",
+        "name": "Lietuvių",
+        "english_name": "Lithuanian",
+        "data": {
+          "homepage": "",
+          "overview": "Norėdama atkurti nutrūkusį ryšį su broliu Enzo, Magda pakviečia jį kartu vykti į Helsinkį, kur ketina dalyvauti aktorių atrankoje. Brolis ir sesuo lanko turistines miesto vietas, jų maršrutą diktuoja netikėtos pažintys ir pokalbiai apie meną, poeziją, gyvenimą ir būtį. Mintyse jie irgi keliauja – atsiminimai susipina su dabartimi, sapnai – su tikrove. Režisieriai išradingai trina ribas tarp realizmo ir fantazijos, o sapnišką atmosferą sustiprina juosta nufilmuotas kaurismakiškasis Helsinkis. Karštligiškas, laisve kvėpuojantis kelio filmas – tvirtas ir gaivus kūrėjų žingsnis šiandienos švediškame kine.",
+          "runtime": 77,
+          "tagline": "",
+          "title": "XXL"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt24075348",
+    "wikidata_id": "Q130416362",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/x4uIkekuPSBFyearXb1mdGpjl5J.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/tjpz6ztpOVoPIwFFIzCZvxCtwI3.jpg",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.777,
+        "height": 922,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/lzhNdLBASKuRzK4tncAI9KAnDKQ.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1638
+      },
+      {
+        "aspect_ratio": 1.779,
+        "height": 921,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/e9uDcYcNLMLfwOJ9taRdcOJKT9S.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1638
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1466,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/lDU1TI5baS0yoyrk1dHZQXPrJyB.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 978
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 750,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/mFZ3KDoWTbeS7v5YJKvWMMEZvGH.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 500
+      },
+      {
+        "aspect_ratio": 0.696,
+        "height": 1466,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/kzscs0FH8SrqaHTk8Urhx5UVS7O.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1020
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Festifreak",
+            "release_date": "2024-10-24T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "48ª Mostra Internacional de Cinema São Paulo",
+            "release_date": "2024-11-20T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "FICCI",
+            "release_date": "2025-04-02T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Novos Cinemas Pontevedra",
+            "release_date": "2024-11-11T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FI",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Kokkolan kinojuhlat",
+            "release_date": "2024-09-18T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "FIDMarseille",
+            "release_date": "2024-06-27T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LT",
+        "release_dates": [
+          {
+            "certification": "N-13",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Scanorama Film Festival",
+            "release_date": "2024-11-15T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Transmutación Festival de Cine Contemporáneo",
+            "release_date": "2024-10-20T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Oslo Pix",
+            "release_date": "2024-08-28T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Warsaw film festival",
+            "release_date": "2024-10-10T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Este Film Festival",
+            "release_date": "2025-05-30T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Göteborg Film Festival",
+            "release_date": "2024-01-27T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "Btl",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-11-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "XXL Trailer",
+        "key": "vI2303qDHPw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "66f6dda1de21a6b78250d334",
+        "published_at": "2024-01-22T11:50:00.000Z"
+      }
+    ]
+  }
+}

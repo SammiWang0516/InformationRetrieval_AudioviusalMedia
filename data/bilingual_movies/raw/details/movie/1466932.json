@@ -1,0 +1,631 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1466932,
+  "imdb_id": null,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "fr",
+  "original_title": "Dernière neige",
+  "overview": "",
+  "popularity": 0.7117,
+  "poster_path": "/5gPp0oZqtIkFfUObhcM6SoYcn6q.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2025-04-26",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Dernière neige",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3997530,
+        "known_for_department": "Acting",
+        "name": "Roxane Lavoie",
+        "original_name": "Roxane Lavoie",
+        "popularity": 0.0435,
+        "profile_path": "/6MS09Wav4gBQNB2dA0AJFaAaSOU.jpg",
+        "cast_id": 1,
+        "character": "Élie",
+        "credit_id": "680344a461b1c4bb329a54b9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3997529,
+        "known_for_department": "Acting",
+        "name": "Charlène Beaubien",
+        "original_name": "Charlène Beaubien",
+        "popularity": 0.1467,
+        "profile_path": "/fsV7CENB7El1eKsDgRAN43PV40c.jpg",
+        "cast_id": 2,
+        "character": "Camille",
+        "credit_id": "680344b161b1c4bb329a54c3",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4578293,
+        "known_for_department": "Acting",
+        "name": "Ophélie Anna",
+        "original_name": "Ophélie Anna",
+        "popularity": 0.0359,
+        "profile_path": "/qD1wcVJ8WpnWpUlkS8RyqbDBBky.jpg",
+        "cast_id": 3,
+        "character": "Chloé",
+        "credit_id": "680344c665c00a25a5d96bbf",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4947825,
+        "known_for_department": "Writing",
+        "name": "Joseph Asselin",
+        "original_name": "Joseph Asselin",
+        "popularity": 0.3427,
+        "profile_path": "/7cNbgX1fJdGtIRG9Ffuf5w74OZt.jpg",
+        "credit_id": "680344fcb13410cdc7993307",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4947825,
+        "known_for_department": "Writing",
+        "name": "Joseph Asselin",
+        "original_name": "Joseph Asselin",
+        "popularity": 0.3427,
+        "profile_path": "/7cNbgX1fJdGtIRG9Ffuf5w74OZt.jpg",
+        "credit_id": "68034533d317be5e5c9958e6",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4947833,
+        "known_for_department": "Directing",
+        "name": "Briana Legault",
+        "original_name": "Briana Legault",
+        "popularity": 0.0361,
+        "profile_path": "/evTwAtB0Td2QPXAXJmyWcp7o1cn.jpg",
+        "credit_id": "68034590b13410cdc7993314",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4610738,
+        "known_for_department": "Camera",
+        "name": "Raphaël Lévy",
+        "original_name": "Raphaël Lévy",
+        "popularity": 0.0901,
+        "profile_path": null,
+        "credit_id": "680345a8e506a8e3a0ad6ae5",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4947874,
+        "known_for_department": "Sound",
+        "name": "Audrey Savaria",
+        "original_name": "Audrey Savaria",
+        "popularity": 0.1832,
+        "profile_path": null,
+        "credit_id": "680345f6391b927019d916b9",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4610743,
+        "known_for_department": "Sound",
+        "name": "Lambert Livernoche",
+        "original_name": "Lambert Livernoche",
+        "popularity": 0.1534,
+        "profile_path": null,
+        "credit_id": "680346345570cba9e1ad0e4d",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4947874,
+        "known_for_department": "Sound",
+        "name": "Audrey Savaria",
+        "original_name": "Audrey Savaria",
+        "popularity": 0.1832,
+        "profile_path": null,
+        "credit_id": "680346535570cba9e1ad0e54",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4610743,
+        "known_for_department": "Sound",
+        "name": "Lambert Livernoche",
+        "original_name": "Lambert Livernoche",
+        "popularity": 0.1534,
+        "profile_path": null,
+        "credit_id": "68034667e03207d0b1d95405",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4610744,
+        "known_for_department": "Sound",
+        "name": "Shaymaa Kassem",
+        "original_name": "Shaymaa Kassem",
+        "popularity": 0.1016,
+        "profile_path": null,
+        "credit_id": "68034677e03207d0b1d9540c",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4643635,
+        "known_for_department": "Art",
+        "name": "Annabelle Marquet",
+        "original_name": "Annabelle Marquet",
+        "popularity": 0.1184,
+        "profile_path": null,
+        "credit_id": "6803473ae506a8e3a0ad6b4c",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4610744,
+        "known_for_department": "Sound",
+        "name": "Shaymaa Kassem",
+        "original_name": "Shaymaa Kassem",
+        "popularity": 0.1016,
+        "profile_path": null,
+        "credit_id": "6803474ce03207d0b1d95420",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4947821,
+        "known_for_department": "Directing",
+        "name": "Laurent Piché",
+        "original_name": "Laurent Piché",
+        "popularity": 0.2774,
+        "profile_path": null,
+        "credit_id": "680347852368b12b17993b8a",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4610741,
+        "known_for_department": "Crew",
+        "name": "Alix Turri",
+        "original_name": "Alix Turri",
+        "popularity": 0.1565,
+        "profile_path": null,
+        "credit_id": "680347ded317be5e5c995943",
+        "department": "Directing",
+        "job": "Continuity"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4610741,
+        "known_for_department": "Crew",
+        "name": "Alix Turri",
+        "original_name": "Alix Turri",
+        "popularity": 0.1565,
+        "profile_path": null,
+        "credit_id": "680347efe03207d0b1d9543b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4610746,
+        "known_for_department": "Crew",
+        "name": "Flore-Anne Routhier",
+        "original_name": "Flore-Anne Routhier",
+        "popularity": 0.1024,
+        "profile_path": null,
+        "credit_id": "68034860391b927019d9171f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4947874,
+        "known_for_department": "Sound",
+        "name": "Audrey Savaria",
+        "original_name": "Audrey Savaria",
+        "popularity": 0.1832,
+        "profile_path": null,
+        "credit_id": "680348ade03207d0b1d9545e",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4610743,
+        "known_for_department": "Sound",
+        "name": "Lambert Livernoche",
+        "original_name": "Lambert Livernoche",
+        "popularity": 0.1534,
+        "profile_path": null,
+        "credit_id": "680348c0e4753425efad6459",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4610744,
+        "known_for_department": "Sound",
+        "name": "Shaymaa Kassem",
+        "original_name": "Shaymaa Kassem",
+        "popularity": 0.1016,
+        "profile_path": null,
+        "credit_id": "680348d4b113ff8723d9c624",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5381435,
+        "known_for_department": "Sound",
+        "name": "Shawn De Leemans",
+        "original_name": "Shawn De Leemans",
+        "popularity": 0.0772,
+        "profile_path": null,
+        "credit_id": "680348f84315ae6d9aacf97d",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4947825,
+        "known_for_department": "Writing",
+        "name": "Joseph Asselin",
+        "original_name": "Joseph Asselin",
+        "popularity": 0.3427,
+        "profile_path": "/7cNbgX1fJdGtIRG9Ffuf5w74OZt.jpg",
+        "credit_id": "680ef5d60c125a95530f77c8",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4947833,
+        "known_for_department": "Directing",
+        "name": "Briana Legault",
+        "original_name": "Briana Legault",
+        "popularity": 0.0361,
+        "profile_path": "/evTwAtB0Td2QPXAXJmyWcp7o1cn.jpg",
+        "credit_id": "680ef5e4f769f0af6a814d1f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5249393,
+        "known_for_department": "Production",
+        "name": "Raphaëlle Depolla",
+        "original_name": "Raphaëlle Depolla",
+        "popularity": 0.1083,
+        "profile_path": null,
+        "credit_id": "680ef6f571dedcb8aceb2133",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4610746,
+        "known_for_department": "Crew",
+        "name": "Flore-Anne Routhier",
+        "original_name": "Flore-Anne Routhier",
+        "popularity": 0.1024,
+        "profile_path": null,
+        "credit_id": "680ef72af769f0af6a814d52",
+        "department": "Camera",
+        "job": "Additional Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5401421,
+        "known_for_department": "Camera",
+        "name": "Simone Lacerte",
+        "original_name": "Simone Lacerte",
+        "popularity": 0.2041,
+        "profile_path": null,
+        "credit_id": "680ef8285a9b78d272814001",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5377314,
+        "known_for_department": "Sound",
+        "name": "Thomas Gendron-Laberge",
+        "original_name": "Thomas Gendron-Laberge",
+        "popularity": 0.1135,
+        "profile_path": null,
+        "credit_id": "680ef83471dedcb8aceb21e6",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5249491,
+        "known_for_department": "Crew",
+        "name": "Nina Cottereau",
+        "original_name": "Nina Cottereau",
+        "popularity": 0.0438,
+        "profile_path": null,
+        "credit_id": "680ef83f5a9b78d272814004",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2880110,
+        "known_for_department": "Camera",
+        "name": "Francis Ouellette",
+        "original_name": "Francis Ouellette",
+        "popularity": 0.0716,
+        "profile_path": "/wsvvSdlfeu6SXq1OUgpByiExljE.jpg",
+        "credit_id": "680ef85c4603571ead0f7cbb",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2999953,
+        "known_for_department": "Camera",
+        "name": "John Cumberland",
+        "original_name": "John Cumberland",
+        "popularity": 0.1933,
+        "profile_path": null,
+        "credit_id": "680ef871930c895e280f7768",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5377323,
+        "known_for_department": "Editing",
+        "name": "Sandrine Dancose",
+        "original_name": "Sandrine Dancose",
+        "popularity": 0.0365,
+        "profile_path": null,
+        "credit_id": "680ef87eeb1d4b06de0f7b43",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4702135,
+        "known_for_department": "Sound",
+        "name": "Raphaëlle Marty",
+        "original_name": "Raphaëlle Marty",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "680ef88b930c895e280f776d",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5377311,
+        "known_for_department": "Camera",
+        "name": "Hubert Pichette",
+        "original_name": "Hubert Pichette",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "680ef89671dedcb8aceb21ff",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4696158,
+        "known_for_department": "Directing",
+        "name": "Loïc Grenon-Turcotte",
+        "original_name": "Loïc Grenon-Turcotte",
+        "popularity": 0.147,
+        "profile_path": null,
+        "credit_id": "680ef8ae0c125a95530f77d8",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3711544,
+        "known_for_department": "Camera",
+        "name": "Lucrezia Galli",
+        "original_name": "Lucrezia Galli",
+        "popularity": 0.0879,
+        "profile_path": null,
+        "credit_id": "680ef8be10d1e453d2eb208a",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4702135,
+        "known_for_department": "Sound",
+        "name": "Raphaëlle Marty",
+        "original_name": "Raphaëlle Marty",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "680ef909930c895e280f7799",
+        "department": "Camera",
+        "job": "Set Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4610727,
+        "known_for_department": "Directing",
+        "name": "Juliette Brey",
+        "original_name": "Juliette Brey",
+        "popularity": 0.049,
+        "profile_path": null,
+        "credit_id": "680ef919930c895e280f77b6",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4610737,
+        "known_for_department": "Art",
+        "name": "Emmy Pilotte",
+        "original_name": "Emmy Pilotte",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "680ef94c10d1e453d2eb20ac",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5401425,
+        "known_for_department": "Sound",
+        "name": "Julia Larochelle",
+        "original_name": "Julia Larochelle",
+        "popularity": 0.0544,
+        "profile_path": null,
+        "credit_id": "680ef96d5a9b78d2728140c5",
+        "department": "Sound",
+        "job": "Music Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "CA",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "Élie est confrontée à ses anxiétés lors de l'anniversaire de sa meilleure amie, chez qui elle est hébergée. Coincée au pied du mur, elle prendra une décision qui pourrait lui coûter son amie.",
+          "runtime": 14,
+          "tagline": "Les bons mots au bon moment",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "fr",
+            "note": "",
+            "release_date": "2025-04-26T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

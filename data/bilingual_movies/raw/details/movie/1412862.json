@@ -1,0 +1,822 @@
+{
+  "adult": false,
+  "backdrop_path": "/gDGW6Ow9O1KsuRvRvDlQIhcAbj4.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1412862,
+  "imdb_id": "tt33088059",
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_title": "Zugzwang",
+  "overview": "Selim and Muazzez are a happily married couple who infuse every moment of their lives with joy by turning situations into games and competitions without ever compromising their love and respect for each other. One fateful day, Muazzez makes a blunder that hurts Selim. Feeling disrespected, Selim reacts with an exaggerated display of anger, leading to an abrupt breakup. During their months-long period of ambiguous separation, Selim discovers his kidneys have failed.",
+  "popularity": 0.719,
+  "poster_path": "/2jslP3zA10EbDq0DKylsvU8ZXdB.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "release_date": "2025-01-05",
+  "revenue": 0,
+  "runtime": 18,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Zugzwang",
+  "video": false,
+  "vote_average": 1.5,
+  "vote_count": 2,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2056294,
+        "known_for_department": "Acting",
+        "name": "Hakan Emre Ünal",
+        "original_name": "Hakan Emre Ünal",
+        "popularity": 0.1358,
+        "profile_path": "/zd3owfztQctu3QKoGDZCknI6mYB.jpg",
+        "cast_id": 1,
+        "character": "Selim",
+        "credit_id": "677ac32e8fd6f5109d72b729",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3530860,
+        "known_for_department": "Production",
+        "name": "Ecem Gündoğan",
+        "original_name": "Ecem Gündoğan",
+        "popularity": 0.1037,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Muazzez",
+        "credit_id": "677ac34415521f83d966f8ad",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3454870,
+        "known_for_department": "Acting",
+        "name": "Ömer Faruk Yıldırım",
+        "original_name": "Ömer Faruk Yıldırım",
+        "popularity": 0.1475,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Doğan",
+        "credit_id": "677aed366d7ca00e7872bde2",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4201542,
+        "known_for_department": "Acting",
+        "name": "Bora Aksu",
+        "original_name": "Bora Aksu",
+        "popularity": 0.0452,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Kemal",
+        "credit_id": "677aed3d25e0e91c5774f4b1",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2022601,
+        "known_for_department": "Acting",
+        "name": "Ahmet Kaynak",
+        "original_name": "Ahmet Kaynak",
+        "popularity": 0.1453,
+        "profile_path": "/6aF7NavpVSGiNZRmYC7JhEQWqQn.jpg",
+        "cast_id": 27,
+        "character": "Doktor",
+        "credit_id": "677aed4425e0e91c5774f4bb",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2899214,
+        "known_for_department": "Directing",
+        "name": "Muhammed Günaydın",
+        "original_name": "Muhammed Günaydın",
+        "popularity": 0.1208,
+        "profile_path": null,
+        "credit_id": "677acde0f6bc9716e8727a90",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2899214,
+        "known_for_department": "Directing",
+        "name": "Muhammed Günaydın",
+        "original_name": "Muhammed Günaydın",
+        "popularity": 0.1208,
+        "profile_path": null,
+        "credit_id": "677acdf56d7ca00e7872b910",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3530860,
+        "known_for_department": "Production",
+        "name": "Ecem Gündoğan",
+        "original_name": "Ecem Gündoğan",
+        "popularity": 0.1037,
+        "profile_path": null,
+        "credit_id": "677ace094bf0f0e3b474ab0f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5160595,
+        "known_for_department": "Editing",
+        "name": "Serkan Demirci",
+        "original_name": "Serkan Demirci",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "677ace98816b2810d166f74e",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2899214,
+        "known_for_department": "Directing",
+        "name": "Muhammed Günaydın",
+        "original_name": "Muhammed Günaydın",
+        "popularity": 0.1208,
+        "profile_path": null,
+        "credit_id": "677acea638d26a2a6372b9ad",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1473059,
+        "known_for_department": "Camera",
+        "name": "Barbaros Engin",
+        "original_name": "Barbaros Engin",
+        "popularity": 0.0581,
+        "profile_path": null,
+        "credit_id": "677ae93c15521f83d966fe3d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2147765,
+        "known_for_department": "Editing",
+        "name": "Tunçer Sengün",
+        "original_name": "Tunçer Sengün",
+        "popularity": 0.1011,
+        "profile_path": null,
+        "credit_id": "677ae94e6d7ca00e7872bd47",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2899214,
+        "known_for_department": "Directing",
+        "name": "Muhammed Günaydın",
+        "original_name": "Muhammed Günaydın",
+        "popularity": 0.1208,
+        "profile_path": null,
+        "credit_id": "677aea651a2df59ad375075a",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5160749,
+        "known_for_department": "Sound",
+        "name": "Ozan Demir",
+        "original_name": "Ozan Demir",
+        "popularity": 0.0941,
+        "profile_path": null,
+        "credit_id": "677aea73816b2810d166f9be",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5160750,
+        "known_for_department": "Sound",
+        "name": "Can Pehlivan",
+        "original_name": "Can Pehlivan",
+        "popularity": 0.0447,
+        "profile_path": null,
+        "credit_id": "677aea7c4bf0f0e3b474b3bb",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5160749,
+        "known_for_department": "Sound",
+        "name": "Ozan Demir",
+        "original_name": "Ozan Demir",
+        "popularity": 0.0941,
+        "profile_path": null,
+        "credit_id": "677aea8655d4b38f9366fee0",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5160750,
+        "known_for_department": "Sound",
+        "name": "Can Pehlivan",
+        "original_name": "Can Pehlivan",
+        "popularity": 0.0447,
+        "profile_path": null,
+        "credit_id": "677aea8eeca85bd50872816f",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3530875,
+        "known_for_department": "Production",
+        "name": "Berk Batuhan Kibar",
+        "original_name": "Berk Batuhan Kibar",
+        "popularity": 0.0619,
+        "profile_path": null,
+        "credit_id": "677aea99eca85bd50872817b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5160752,
+        "known_for_department": "Directing",
+        "name": "Serpil Dere Keskin",
+        "original_name": "Serpil Dere Keskin",
+        "popularity": 0.0433,
+        "profile_path": null,
+        "credit_id": "677aeaac4bf0f0e3b474b3e4",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5160768,
+        "known_for_department": "Production",
+        "name": "Cüneyt Uçar",
+        "original_name": "Cüneyt Uçar",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "677aed592b097b15a274eb31",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5160769,
+        "known_for_department": "Production",
+        "name": "Yusufcan Piyade",
+        "original_name": "Yusufcan Piyade",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "677aed62830a8f4cc766b822",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5160771,
+        "known_for_department": "Art",
+        "name": "Yusuf Alperen Koçkesen",
+        "original_name": "Yusuf Alperen Koçkesen",
+        "popularity": 0.0436,
+        "profile_path": null,
+        "credit_id": "677aed6b2b097b15a274eb47",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5160772,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Selen Aygün",
+        "original_name": "Selen Aygün",
+        "popularity": 0.1068,
+        "profile_path": null,
+        "credit_id": "677aed7a830a8f4cc766b83d",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4123745,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Fulya Demirci",
+        "original_name": "Fulya Demirci",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "677aed89830a8f4cc766b851",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5160776,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Özlem Günaydın",
+        "original_name": "Özlem Günaydın",
+        "popularity": 0.0571,
+        "profile_path": null,
+        "credit_id": "677aed962b097b15a274eb72",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5160776,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Özlem Günaydın",
+        "original_name": "Özlem Günaydın",
+        "popularity": 0.0571,
+        "profile_path": null,
+        "credit_id": "677aeda12b097b15a274eb79",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5160780,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Serpil Günaydın",
+        "original_name": "Serpil Günaydın",
+        "popularity": 0.0658,
+        "profile_path": null,
+        "credit_id": "677aedaaf6bc9716e8727fe3",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5160781,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Yalçın Günaydın",
+        "original_name": "Yalçın Günaydın",
+        "popularity": 0.043,
+        "profile_path": null,
+        "credit_id": "677aedb22b097b15a274eb88",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5160782,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Yalçın Günaydın",
+        "original_name": "Yalçın Günaydın",
+        "popularity": 0.0423,
+        "profile_path": null,
+        "credit_id": "677aedb2830a8f4cc766b87f",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3530861,
+        "known_for_department": "Art",
+        "name": "Ece Aşıcı",
+        "original_name": "Ece Aşıcı",
+        "popularity": 0.0707,
+        "profile_path": null,
+        "credit_id": "677aedbbcf4d59c84f7238aa",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2899366,
+        "known_for_department": "Sound",
+        "name": "İlkin Kitapçı",
+        "original_name": "İlkin Kitapçı",
+        "popularity": 0.0827,
+        "profile_path": null,
+        "credit_id": "677aedc915521f83d966ffb2",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5160749,
+        "known_for_department": "Sound",
+        "name": "Ozan Demir",
+        "original_name": "Ozan Demir",
+        "popularity": 0.0941,
+        "profile_path": null,
+        "credit_id": "677aedd34bf0f0e3b474b431",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3552653,
+        "known_for_department": "Camera",
+        "name": "Sergen Ormanyaran",
+        "original_name": "Sergen Ormanyaran",
+        "popularity": 0.1788,
+        "profile_path": null,
+        "credit_id": "677aede2f6bc9716e8728008",
+        "department": "Camera",
+        "job": "Focus Puller"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5160787,
+        "known_for_department": "Camera",
+        "name": "Hasan Şengül",
+        "original_name": "Hasan Şengül",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "677aedeb6d7ca00e7872be22",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5160788,
+        "known_for_department": "Camera",
+        "name": "Özkan Naroğlu",
+        "original_name": "Özkan Naroğlu",
+        "popularity": 0.0449,
+        "profile_path": null,
+        "credit_id": "677aedf9c5070b8a46667cd9",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3328557,
+        "known_for_department": "Directing",
+        "name": "Arda Yalçın",
+        "original_name": "Arda Yalçın",
+        "popularity": 0.0449,
+        "profile_path": null,
+        "credit_id": "677aee032b097b15a274ebaf",
+        "department": "Camera",
+        "job": "Jimmy Jib Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3484414,
+        "known_for_department": "Lighting",
+        "name": "Orhan Sever",
+        "original_name": "Orhan Sever",
+        "popularity": 0.048,
+        "profile_path": null,
+        "credit_id": "677aee1c15521f83d966ffcc",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3516319,
+        "known_for_department": "Lighting",
+        "name": "Cem Şimşek",
+        "original_name": "Cem Şimşek",
+        "popularity": 0.0827,
+        "profile_path": null,
+        "credit_id": "677aee326d7ca00e7872be35",
+        "department": "Lighting",
+        "job": "Best Boy Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4941149,
+        "known_for_department": "Lighting",
+        "name": "Mert Ateş",
+        "original_name": "Mert Ateş",
+        "popularity": 0.0504,
+        "profile_path": null,
+        "credit_id": "677aee3c15521f83d966ffd8",
+        "department": "Lighting",
+        "job": "Best Boy Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2864121,
+        "known_for_department": "Camera",
+        "name": "Selim Alan",
+        "original_name": "Selim Alan",
+        "popularity": 0.0426,
+        "profile_path": null,
+        "credit_id": "677aee5d2b097b15a274ebe1",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5160790,
+        "known_for_department": "Production",
+        "name": "Ceyhun Ceylan",
+        "original_name": "Ceyhun Ceylan",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "677aee6c830a8f4cc766b8b3",
+        "department": "Production",
+        "job": "Grip Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5160791,
+        "known_for_department": "Production",
+        "name": "Ufuk Dalgıç",
+        "original_name": "Ufuk Dalgıç",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "677aee732b097b15a274ebef",
+        "department": "Production",
+        "job": "Grip Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5160792,
+        "known_for_department": "Production",
+        "name": "Kadir Engin",
+        "original_name": "Kadir Engin",
+        "popularity": 0.0538,
+        "profile_path": null,
+        "credit_id": "677aee7c2b097b15a274ebf9",
+        "department": "Production",
+        "job": "Grip Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3025555,
+        "known_for_department": "Editing",
+        "name": "Ciwan Zengin",
+        "original_name": "Ciwan Zengin",
+        "popularity": 0.1377,
+        "profile_path": null,
+        "credit_id": "677aee87c5070b8a46667cf1",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4384059,
+        "known_for_department": "Editing",
+        "name": "Cihangir Ay",
+        "original_name": "Cihangir Ay",
+        "popularity": 0.0501,
+        "profile_path": null,
+        "credit_id": "677aeea7f6bc9716e872802e",
+        "department": "Editing",
+        "job": "Color Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5160797,
+        "known_for_department": "Visual Effects",
+        "name": "Mustafa Altıkardeş",
+        "original_name": "Mustafa Altıkardeş",
+        "popularity": 0.0444,
+        "profile_path": null,
+        "credit_id": "677aeeb22b097b15a274ec2f",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Selim and Muazzez are a happily married couple who infuse every moment of their lives with joy by turning situations into games and competitions without ever compromising their love and respect for each other. One fateful day, Muazzez makes a blunder that hurts Selim. Feeling disrespected, Selim reacts with an exaggerated display of anger, leading to an abrupt breakup. During their months-long period of ambiguous separation, Selim discovers his kidneys have failed.",
+          "runtime": 18,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "TR",
+        "iso_639_1": "tr",
+        "name": "Türkçe",
+        "english_name": "Turkish",
+        "data": {
+          "homepage": "",
+          "overview": "Selim ve Muazzez severek evlenmiş, birbirlerine saygıda ve sevgide asla eksiklik göstermeden her durumu bir oyun, bir rekabet malzemesine çevirerek hayatı eğlenceli hale getirmeyi başarmış bir çifttir. Muazzez bir gün bir davette istemeyerek de olsa Selim’i incitecek bir gaf yapar. Bunu saygısızlık olarak addeden Selim öfkenin dozunu kaçırır ve birden taşan bir kahve gibi pat diye ayrılırlar. Aylarca süren ama adı konamayan bu ayrılık sürecinde Selim iki böbreğinin de iflas ettiğini öğrenir.",
+          "runtime": 18,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "NL",
+        "iso_639_1": "nl",
+        "name": "Nederlands",
+        "english_name": "Dutch",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt33088059",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/gDGW6Ow9O1KsuRvRvDlQIhcAbj4.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/11sTk5bSqgift6ceftFFneRPeB8.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/93OdTJmTS3RhnR6j7uXxipmviFT.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/oaVvv7dwP1Ol7kTeb491O0taLci.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/WkGwEQfX9pIArrpy40jpmbtR41.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/2jslP3zA10EbDq0DKylsvU8ZXdB.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/rBkJ2pREUIXjT8dHYj4g1DL0j8U.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "TR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "tr",
+            "note": "MUBI",
+            "release_date": "2025-01-05T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

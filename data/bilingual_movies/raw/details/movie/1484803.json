@@ -1,0 +1,504 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 3000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1484803,
+  "imdb_id": null,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Ophelia",
+  "overview": "In the wake of her best friend's untimely death, Robin receives an unexpected gift: her late friend's pet mouse. As she grapples with grief and guilt, Robin is led on a journey of healing, acceptance, and the enduring bonds of friendship.",
+  "popularity": 0.7076,
+  "poster_path": "/iPBGKy39FspEfLj79oq3vGdhniR.jpg",
+  "production_companies": [
+    {
+      "id": 262954,
+      "logo_path": null,
+      "name": "blacKThumb",
+      "origin_country": ""
+    },
+    {
+      "id": 262953,
+      "logo_path": null,
+      "name": "DriverCart Studios",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2025-05-09",
+  "revenue": 0,
+  "runtime": 14,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Ophelia",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5452284,
+        "known_for_department": "Acting",
+        "name": "Ana Paty Mendoza",
+        "original_name": "Ana Paty Mendoza",
+        "popularity": 0.1177,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Robin",
+        "credit_id": "682d66e26299b61e73649629",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5452294,
+        "known_for_department": "Acting",
+        "name": "Jacqui Valdivia",
+        "original_name": "Jacqui Valdivia",
+        "popularity": 0.1361,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Amelie",
+        "credit_id": "682d6723de9c68edac8c108a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5452295,
+        "known_for_department": "Acting",
+        "name": "Yanin Loza",
+        "original_name": "Yanin Loza",
+        "popularity": 0.1703,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Elena",
+        "credit_id": "682d673a425c06076e2f13bf",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5417201,
+        "known_for_department": "Acting",
+        "name": "Josie Wald",
+        "original_name": "Josie Wald",
+        "popularity": 0.371,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Marie",
+        "credit_id": "682d66eff6cf2076f3e25662",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5452286,
+        "known_for_department": "Camera",
+        "name": "Kylee Windes",
+        "original_name": "Kylee Windes",
+        "popularity": 0.121,
+        "profile_path": null,
+        "credit_id": "682d6761b6024603140be052",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5452286,
+        "known_for_department": "Camera",
+        "name": "Kylee Windes",
+        "original_name": "Kylee Windes",
+        "popularity": 0.121,
+        "profile_path": null,
+        "credit_id": "682d676f363fe5d2f6e25543",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5452286,
+        "known_for_department": "Camera",
+        "name": "Kylee Windes",
+        "original_name": "Kylee Windes",
+        "popularity": 0.121,
+        "profile_path": null,
+        "credit_id": "682d677fc264ae36296495b1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5417249,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Taryn Kanoelani",
+        "original_name": "Taryn Kanoelani",
+        "popularity": 0.0912,
+        "profile_path": null,
+        "credit_id": "682d679012e0392f7d6497c7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5417249,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Taryn Kanoelani",
+        "original_name": "Taryn Kanoelani",
+        "popularity": 0.0912,
+        "profile_path": null,
+        "credit_id": "682d679d75274824c2e254ae",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5452296,
+        "known_for_department": "Sound",
+        "name": "Brad Becker",
+        "original_name": "Brad Becker",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "682d67c6a9abf722132f7d36",
+        "department": "Sound",
+        "job": "Music Score Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5417226,
+        "known_for_department": "Art",
+        "name": "Kyle Gill",
+        "original_name": "Kyle Gill",
+        "popularity": 0.3045,
+        "profile_path": null,
+        "credit_id": "682d67dac78f4532bf2f7db6",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5452297,
+        "known_for_department": "Art",
+        "name": "Tule Striplen",
+        "original_name": "Tule Striplen",
+        "popularity": 0.0413,
+        "profile_path": null,
+        "credit_id": "682d67e617f4b9cfc8db35f9",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5417225,
+        "known_for_department": "Directing",
+        "name": "Andy M",
+        "original_name": "Andy M",
+        "popularity": 0.3247,
+        "profile_path": "/yAKIXF1HuuPQaXTCW3fiEwmuZzT.jpg",
+        "credit_id": "682d680400d1cec6c1db33e5",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5452298,
+        "known_for_department": "Sound",
+        "name": "Joshua Quintal",
+        "original_name": "Joshua Quintal",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "682d6816de9c68edac8c1096",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5452298,
+        "known_for_department": "Sound",
+        "name": "Joshua Quintal",
+        "original_name": "Joshua Quintal",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "682d6822cc923137c06498e9",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5452298,
+        "known_for_department": "Sound",
+        "name": "Joshua Quintal",
+        "original_name": "Joshua Quintal",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "682d683112e0392f7d6497cc",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5417251,
+        "known_for_department": "Production",
+        "name": "Fernanda Arana",
+        "original_name": "Fernanda Arana",
+        "popularity": 0.2041,
+        "profile_path": null,
+        "credit_id": "682d686700d1cec6c1db33e8",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5452289,
+        "known_for_department": "Sound",
+        "name": "Julian Holmes",
+        "original_name": "Julian Holmes",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "682d6875363fe5d2f6e2554b",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5452299,
+        "known_for_department": "Camera",
+        "name": "Arlo Logue",
+        "original_name": "Arlo Logue",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "682d6893983ecdd9e9db367a",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5417246,
+        "known_for_department": "Visual Effects",
+        "name": "Nathan Maylath",
+        "original_name": "Nathan Maylath",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "682d68a515a01d5a44e25686",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5452300,
+        "known_for_department": "Camera",
+        "name": "Chase McCrystal",
+        "original_name": "Chase McCrystal",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "682d68b764ff813d3b9e3e09",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5452301,
+        "known_for_department": "Lighting",
+        "name": "Balthazar Ramos Sessumes",
+        "original_name": "Balthazar Ramos Sessumes",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "682d68d046b87340b12f7dfb",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5417201,
+        "known_for_department": "Acting",
+        "name": "Josie Wald",
+        "original_name": "Josie Wald",
+        "popularity": 0.371,
+        "profile_path": null,
+        "credit_id": "682d68eb9c392c1e61f56700",
+        "department": "Camera",
+        "job": "BTS Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5452302,
+        "known_for_department": "Camera",
+        "name": "Omarion Williams",
+        "original_name": "Omarion Williams",
+        "popularity": 0.0365,
+        "profile_path": null,
+        "credit_id": "682d68ff846aa0a86cdb345a",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5452304,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jadyn Wizelman",
+        "original_name": "Jadyn Wizelman",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "682d6915a5e1b359b79e3fde",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5417220,
+        "known_for_department": "Art",
+        "name": "Lexie Bruce",
+        "original_name": "Lexie Bruce",
+        "popularity": 0.3542,
+        "profile_path": null,
+        "credit_id": "682d6928de9c68edac8c1099",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5452284,
+        "known_for_department": "Acting",
+        "name": "Ana Paty Mendoza",
+        "original_name": "Ana Paty Mendoza",
+        "popularity": 0.1177,
+        "profile_path": null,
+        "credit_id": "682d6937d5e676ea920be288",
+        "department": "Crew",
+        "job": "Translator"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 263548,
+        "name": "short film"
+      },
+      {
+        "id": 316421,
+        "name": "drama"
+      },
+      {
+        "id": 352354,
+        "name": "drivercart sudios"
+      },
+      {
+        "id": 352356,
+        "name": "blackthumb"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "In the wake of her best friend's untimely death, Robin receives an unexpected gift: her late friend's pet mouse. As she grapples with grief and guilt, Robin is led on a journey of healing, acceptance, and the enduring bonds of friendship.",
+          "runtime": 14,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.75,
+        "height": 1280,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/iPBGKy39FspEfLj79oq3vGdhniR.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 960
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2025-05-09T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

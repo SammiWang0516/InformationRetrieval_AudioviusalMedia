@@ -1,0 +1,938 @@
+{
+  "adult": false,
+  "backdrop_path": "/135pnESJqaitPL1DTaGXXq3Lvlu.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "https://www.amazon.co.uk/dp/B0DCJSQPRZ",
+  "id": 1388232,
+  "imdb_id": "tt34059852",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Jack in Time for Christmas",
+  "overview": "Christmas is approaching and Jack Whitehall is racing to get home in time to spend it with his family. Stranded on the other side of the world, he enlists the help of some famous faces and embarks on a far-fetched quest across the globe. His cast of celebrity do-gooders includes Jimmy Fallon, Dave Bautista, Rebel Wilson, Tom Davis, and Michael Bublé. But will they get him back in time for Christmas?",
+  "popularity": 1.3462,
+  "poster_path": "/ezLjq19a1LAWfX5rTMqA2MHEe0.jpg",
+  "production_companies": [
+    {
+      "id": 121194,
+      "logo_path": "/kU0akgE33j22dZforum4Iidxurb.png",
+      "name": "Workerbee",
+      "origin_country": "GB"
+    },
+    {
+      "id": 43252,
+      "logo_path": "/gaV5QhiG1JGra1C4FDc8LOCwX0P.png",
+      "name": "Jackpot Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2024-12-02",
+  "revenue": 0,
+  "runtime": 65,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Jack in Time for Christmas",
+  "video": false,
+  "vote_average": 4.9,
+  "vote_count": 33,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 212285,
+        "known_for_department": "Acting",
+        "name": "Jack Whitehall",
+        "original_name": "Jack Whitehall",
+        "popularity": 1.6877,
+        "profile_path": "/qBHLpjH3Dad9ZoZsrcMplIPwkHC.jpg",
+        "cast_id": 1,
+        "character": "Self",
+        "credit_id": "6736921bd63fed5826cf3dc2",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 543530,
+        "known_for_department": "Acting",
+        "name": "Dave Bautista",
+        "original_name": "Dave Bautista",
+        "popularity": 4.9148,
+        "profile_path": "/snk6JiXOOoRjPtHU5VMoy6qbd32.jpg",
+        "cast_id": 3,
+        "character": "Self",
+        "credit_id": "6736922e80fda6e3e374533b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21860,
+        "known_for_department": "Acting",
+        "name": "Michael Bublé",
+        "original_name": "Michael Bublé",
+        "popularity": 0.5874,
+        "profile_path": "/mXGgDOQE0fm1BaRERamaq3kGev3.jpg",
+        "cast_id": 2,
+        "character": "Self",
+        "credit_id": "67369223d63fed5826cf3dc8",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1793784,
+        "known_for_department": "Acting",
+        "name": "Daisy May Cooper",
+        "original_name": "Daisy May Cooper",
+        "popularity": 0.7908,
+        "profile_path": "/zKNeFdabIRzhN9AmjsY2L6gC006.jpg",
+        "cast_id": 6,
+        "character": "Taxi Driver",
+        "credit_id": "6736925148e9d2cf01a8905d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1464254,
+        "known_for_department": "Acting",
+        "name": "Tom Davis",
+        "original_name": "Tom Davis",
+        "popularity": 1.5098,
+        "profile_path": "/n7JqvXrpPsbpfeelPpZ5R8HTWMG.jpg",
+        "cast_id": 7,
+        "character": "Self",
+        "credit_id": "6736925cce49410032c1dfab",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11669,
+        "known_for_department": "Acting",
+        "name": "Jimmy Fallon",
+        "original_name": "Jimmy Fallon",
+        "popularity": 3.4295,
+        "profile_path": "/h9kYouEP6VrM8GkS2jl7jMDKbwu.jpg",
+        "cast_id": 5,
+        "character": "Self",
+        "credit_id": "6736924048e9d2cf01a8904f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 221581,
+        "known_for_department": "Acting",
+        "name": "Rebel Wilson",
+        "original_name": "Rebel Wilson",
+        "popularity": 1.793,
+        "profile_path": "/yuyRg1WaY616Uux3vP9ONsUjQTS.jpg",
+        "cast_id": 4,
+        "character": "Self",
+        "credit_id": "67369239d63fed5826cf3dd4",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105265,
+        "known_for_department": "Acting",
+        "name": "Zachary Vazquez",
+        "original_name": "Zachary Vazquez",
+        "popularity": 0.3248,
+        "profile_path": "/abuADRRP8FnyMCEVm9JvsMF5KbO.jpg",
+        "cast_id": 19,
+        "character": "Limo Driver (uncredited)",
+        "credit_id": "6759371cd5cfa9c87d8907b2",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5112319,
+        "known_for_department": "Acting",
+        "name": "Beat Hefti",
+        "original_name": "Beat Hefti",
+        "popularity": 0.1198,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Self (uncredited)",
+        "credit_id": "6759236b6c535886ee2f4e03",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2515236,
+        "known_for_department": "Acting",
+        "name": "Roxy Horner",
+        "original_name": "Roxy Horner",
+        "popularity": 0.0692,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Self (uncredited)",
+        "credit_id": "67369369ce49410032c1dff0",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3665736,
+        "known_for_department": "Directing",
+        "name": "Phil Ashton",
+        "original_name": "Phil Ashton",
+        "popularity": 0.1232,
+        "profile_path": null,
+        "credit_id": "674e269daf6b3e0182a1c6dd",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1226945,
+        "known_for_department": "Production",
+        "name": "Richard Ackerman",
+        "original_name": "Richard Ackerman",
+        "popularity": 0.2265,
+        "profile_path": null,
+        "credit_id": "674e26aa4f6e6c2abff5e308",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3422191,
+        "known_for_department": "Writing",
+        "name": "Clyde Holcroft",
+        "original_name": "Clyde Holcroft",
+        "popularity": 0.3074,
+        "profile_path": null,
+        "credit_id": "67588af97acfd278c6dda1de",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4761567,
+        "known_for_department": "Writing",
+        "name": "James Kettle",
+        "original_name": "James Kettle",
+        "popularity": 0.1685,
+        "profile_path": null,
+        "credit_id": "67588b007680b1177f3abe0a",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1493333,
+        "known_for_department": "Writing",
+        "name": "Freddy Syborn",
+        "original_name": "Freddy Syborn",
+        "popularity": 0.2492,
+        "profile_path": "/91y4RabawyrpQQ0cFHtE3LSUYz1.jpg",
+        "credit_id": "67588b073877b929f82f7e44",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3554819,
+        "known_for_department": "Camera",
+        "name": "Ben Bee",
+        "original_name": "Ben Bee",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "credit_id": "67588b3cabc1edadc0c554bd",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2378250,
+        "known_for_department": "Camera",
+        "name": "Doug Camberis",
+        "original_name": "Doug Camberis",
+        "popularity": 0.0684,
+        "profile_path": null,
+        "credit_id": "67588b43abc1edadc0c554c4",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2075961,
+        "known_for_department": "Crew",
+        "name": "Nik Porter",
+        "original_name": "Nik Porter",
+        "popularity": 0.1451,
+        "profile_path": null,
+        "credit_id": "67588b4b3688459d7589b176",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1550530,
+        "known_for_department": "Camera",
+        "name": "Jackie Teboul",
+        "original_name": "Jackie Teboul",
+        "popularity": 0.1704,
+        "profile_path": null,
+        "credit_id": "67588b5031f9d1c8f2372ee5",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "https://www.amazon.co.uk/dp/B0DCJSQPRZ",
+          "overview": "Christmas is approaching and Jack Whitehall is racing to get home in time to spend it with his family. Stranded on the other side of the world, he enlists the help of some famous faces and embarks on a far-fetched quest across the globe. His cast of celebrity do-gooders includes Jimmy Fallon, Dave Bautista, Rebel Wilson, Tom Davis, and Michael Bublé. But will they get him back in time for Christmas?",
+          "runtime": 65,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "BR",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "homepage": "",
+          "overview": "Com o Natal se aproximando, Jack Whitehall está correndo contra o tempo para chegar em casa e passar o feriado com a sua família. Preso do outro lado do mundo, ele conta com a ajuda de celebridades como Jimmy Fallon, Dave Bautista, Rebel Wilson, Tom Davis e Michael Bublé para embarcar em uma missão improvável ao redor do globo. Mas será que vão conseguir fazê-lo chegar a tempo para o Natal?",
+          "runtime": 66,
+          "tagline": "",
+          "title": "Jack Chega A Tempo Para O Natal"
+        }
+      },
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "",
+          "overview": "Weihnachten steht vor der Tür. Jack Whitehall fährt nach Hause, um das Fest mit seiner Familie zu verbringen. Am anderen Ende der Welt nimmt er Hilfe einiger berühmter Persönlichkeiten in Anspruch und macht sich auf eine Reise rund um die Erde. Zu seinen Mitstreitern gehören Jimmy Fallon, Dave Bautista, Rebel Wilson, Tom Davis und Michael Bublé. Kommt er rechtzeitig vor Weihnachten nach Hause?",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Jack - Rechtzeitig Zu Hause Zu Weihnachten"
+        }
+      },
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "Noël approche, et Jack Whitehall s'empresse de rentrer à temps pour passer les fêtes en famille. Bloqué à l'autre bout du monde, il fait appel à des célébrités pour l'aider lors de cette aventure farfelue autour du globe. Parmi ses célèbres bienfaiteurs, on retrouve Jimmy Fallon, Dave Bautista, Rebel Wilson, Tom Davis et Michael Bublé, mais réussiront-ils à le ramener chez lui à temps pour Noël ?",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Jack Whitehall Mission Noël"
+        }
+      },
+      {
+        "iso_3166_1": "HR",
+        "iso_639_1": "hr",
+        "name": "Hrvatski",
+        "english_name": "Croatian",
+        "data": {
+          "homepage": "",
+          "overview": "Jack Whitehall zaglibi u SAD-u sa samo četiri dana da se vrati u UK za Božić. Kako vrijeme odmiče, Jack kreće na nevjerojatno i, neki bi rekli, nevjerojatno putovanje koje uključuje avione, vlakove, pse i saonice. Usput se zabavi pridružuju neki od njegovih slavnih prijatelja, pružajući ruku (ili kopito) dok se Jack snalazi u božićnom kaosu i pokušava na vrijeme stići kući.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Jack putuje kući za Božić"
+        }
+      },
+      {
+        "iso_3166_1": "PL",
+        "iso_639_1": "pl",
+        "name": "Polski",
+        "english_name": "Polish",
+        "data": {
+          "homepage": "",
+          "overview": "Zbliżają się Święta i Jack Whitehall spieszy się do domu, by spędzić czas z rodziną. Utknął po drugiej stronie świata, więc angażuje do pomocy znane osobistości i wyrusza w szaloną podróż. Wśród gości pojawią się takie gwiazdy jak Jimmy Fallon, Dave Bautista, Rebel Wilson, Tom Davis i Michael Bublé. Jednak czy pomogą mu wrócić do domu na Święta?",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Jack wraca do domu na święta"
+        }
+      },
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Se acerca Navidad y Jack Whitehall quiere llegar a casa a tiempo para estar con su familia. Atrapado en la otra punta del mundo, consigue la ayuda de algunos rostros famosos y se embarca en una aventura disparatada por todo el planeta. Su elenco de ayudantes famosos incluye a Jimmy Fallon, Dave Bautista, Rebel Wilson, Tom Davis y Michael Bublé, pero ¿conseguirán que llegue a tiempo para Navidad?",
+          "runtime": 0,
+          "tagline": "",
+          "title": "A tiempo para Navidad"
+        }
+      },
+      {
+        "iso_3166_1": "IT",
+        "iso_639_1": "it",
+        "name": "Italiano",
+        "english_name": "Italian",
+        "data": {
+          "homepage": "",
+          "overview": "Manca poco al Natale e Jack Whitehall deve lanciarsi in una corsa contro il tempo per passarlo con la sua famiglia. Rimasto bloccato dall’altra parte del mondo, si fa aiutare da delle celebrità e intraprende un viaggio incredibile. Il cast di benefattori famosi comprende Jimmy Fallon, Dave Bautista, Rebel Wilson, Tom Davis e Michael Bublé, ma riusciranno a farlo tornare a casa in tempo per Natale?",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Jack Whitehall Missione Natale"
+        }
+      },
+      {
+        "iso_3166_1": "CZ",
+        "iso_639_1": "cs",
+        "name": "Český",
+        "english_name": "Czech",
+        "data": {
+          "homepage": "",
+          "overview": "Jack Whitehall uvízne v USA a má pouhé čtyři dny na to, aby se na Vánoce vrátil do Spojeného království. Čas běží, a tak se Jack vydává na neuvěřitelnou a někdo by řekl, že i nepravděpodobnou cestu zahrnující letadla, vlaky, husky a boby. Cestou se k němu přidají i jeho slavní přátelé, kteří mu podají pomocnou ruku (nebo kopyta!), když se Jack snaží proplout vánočním chaosem a dostat se včas domů.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "MX",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Se acerca Navidad y Jack Whitehall quiere llegar a casa a tiempo para estar con su familia. Atrapado en la otra punta del mundo, consigue la ayuda de algunos rostros famosos y se embarca en una aventura disparatada por todo el planeta. Su elenco de ayudantes famosos incluye a Jimmy Fallon, Dave Bautista, Rebel Wilson, Tom Davis y Michael Bublé, pero ¿conseguirán que llegue a tiempo para Navidad?",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Jack llega a tiempo para navidad"
+        }
+      },
+      {
+        "iso_3166_1": "GE",
+        "iso_639_1": "ka",
+        "name": "ქართული",
+        "english_name": "Georgian",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": "ჯეკი შობის დროს"
+        }
+      },
+      {
+        "iso_3166_1": "NL",
+        "iso_639_1": "nl",
+        "name": "Nederlands",
+        "english_name": "Dutch",
+        "data": {
+          "homepage": "",
+          "overview": "Het is bijna Kerstmis en Jack Whitehall haast zich naar huis om op tijd thuis te zijn. Hij is gestrand aan de andere kant van de wereld en gaat op een ietwat vergezochte reis. Hij schakelt de hulp in van een paar bekende gezichten, waaronder Jimmy Fallon, Dave Bautista, Rebel Wilson, Tom Davis en Michael Bublé. Maar lukt het hem om op tijd thuis te zijn voor kerst?",
+          "runtime": 66,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "DK",
+        "iso_639_1": "da",
+        "name": "Dansk",
+        "english_name": "Danish",
+        "data": {
+          "homepage": "",
+          "overview": "Julen nærmer sig, og Jack Whitehall kæmper for at komme hjem og fejre jul med sin familie. Desværre strander han på den modsatte side af kloden, men med hjælp fra diverse kendisser begiver han sig ud på en rejse på tværs af planeten. Han får blandt andet hjælp af Jimmy Fallon, Dave Bautista, Rebel Wilson, Tom Davis og Michael Bublé, men får de ham hjem til jul?",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "FI",
+        "iso_639_1": "fi",
+        "name": "suomi",
+        "english_name": "Finnish",
+        "data": {
+          "homepage": "",
+          "overview": "Joulu lähestyy, ja Jack Whitehall kiirehtii kotiin viettääkseen joulun perheensä kanssa. Kun hän jää jumiin toiselle puolelle maapalloa, hän värvää avuksi kuuluisuuksia ja rientää huikealle kotimatkalle ympäri maailmaa. Hänen kuuluisia auttajiaan ovat muun muassa Jimmy Fallon, Dave Bautista, Rebel Wilson, Tom Davis ja Michael Bublé, mutta saavatko he hänet ajoissa kotiin?",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "CA",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "Noël approche, et Jack Whitehall s'empresse de rentrer à temps pour passer les fêtes en famille. Bloqué à l'autre bout du monde, il fait appel à des célébrités pour l'aider lors de cette aventure farfelue autour du globe. Parmi ses célèbres bienfaiteurs, on retrouve Jimmy Fallon, Dave Bautista, Rebel Wilson, Tom Davis et Michael Bublé, mais réussiront-ils à le ramener chez lui à temps pour Noël ?",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Jack Whitehall Mission Noël"
+        }
+      },
+      {
+        "iso_3166_1": "IN",
+        "iso_639_1": "hi",
+        "name": "हिन्दी",
+        "english_name": "Hindi",
+        "data": {
+          "homepage": "",
+          "overview": "क्रिसमस पास आ रहा है और जैक व्हाइटहॉल समय पर घर पहुँचकर घरवालों के साथ क्रिसमस मनाने की कोशिश में जुटा है। दुनिया के दूसरे छोर पर फँसे होने के कारण वह कुछ मशहूर हस्तियों से मदद लेता है और दुनिया भर के मुश्किल सफ़र पर निकल पड़ता है। उसकी मदद करने वाले भले सेलेब्रिटी हैं जिम्मी फ़ैलन, डेव बॉटीस्टा, रिबेल विल्सन, टॉम डेविस, और माइकल बूब्ले, पर क्या वे उसे क्रिसमस तक घर पहुँचा पाएँगे।",
+          "runtime": 0,
+          "tagline": "",
+          "title": "जैक इन टाइम फ़ॉर क्रिसमस"
+        }
+      },
+      {
+        "iso_3166_1": "JP",
+        "iso_639_1": "ja",
+        "name": "日本語",
+        "english_name": "Japanese",
+        "data": {
+          "homepage": "",
+          "overview": "クリスマスが間近に迫り、ジャック・ホワイトホールは家族とクリスマスを過ごそうと大急ぎで家に帰ろうとしていた。ところが地球の裏側で足止めされてしまったため、有名人たちの助けを借りて世界を股にかけた奇想天外な大冒険に出発することに。ジャックを助ける“心優しき”セレブたちは、ジミー・ファロン、デイヴ・バウティスタ、レベル・ウィルソン、トム・デイヴィス、マイケル・ブーブレなど。彼らはジャックをクリスマスまでに帰宅させることができるのか。",
+          "runtime": 0,
+          "tagline": "",
+          "title": "ジャック･イン･タイム フォー･クリスマス"
+        }
+      },
+      {
+        "iso_3166_1": "NO",
+        "iso_639_1": "no",
+        "name": "Norsk",
+        "english_name": "Norwegian",
+        "data": {
+          "homepage": "",
+          "overview": "Julen nærmer seg, og Jack Whitehall skynder seg for å komme hjem i tide til å tilbringe den med familien sin. Strandet på den andre siden av verden, søker han hjelp fra noen kjente fjes og legger ut på en eventyrlig reise rundt om i verden. Kjendisvennene hans inkluderer Jimmy Fallon, Dave Bautista, Rebel Wilson, Tom Davis og Michael Bublé, men vil de klare å få ham hjem i tide til jul?",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Jack I Tide Til Jul"
+        }
+      },
+      {
+        "iso_3166_1": "SE",
+        "iso_639_1": "sv",
+        "name": "svenska",
+        "english_name": "Swedish",
+        "data": {
+          "homepage": "",
+          "overview": "Julen närmar sig och Jack Whitehall skyndar sig att komma hem för att tillbringa den med släkten. Strandsatt på andra sidan världen värvar han några kända ansikten och påbörjar en otrolig resa runt hela klotet. Hans ensemble av berömda välgörare inkluderar Jimmy Fallon, Dave Bautista, Rebel Wilson, Tom Davis och Michael Bublé, men får de hem honom i tid till julen?",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Jack I Tid Till Julen"
+        }
+      },
+      {
+        "iso_3166_1": "TR",
+        "iso_639_1": "tr",
+        "name": "Türkçe",
+        "english_name": "Turkish",
+        "data": {
+          "homepage": "",
+          "overview": "Noel yaklaşmaktadır ve Jack Whitehall tatili ailesiyle geçirmek için eve dönmeye çalışır. Dünyanın öbür ucunda mahsur kalınca ona yardım etmeleri için bazı ünlü isimleri ikna etmeyi dener ve uzun yolculuğu boyunca abartılı bir arayışa girer. Ona yardım eden ünlüler arasında Jimmy Fallon, Dave Bautista, Rebel Wilson, Tom Davis ve Michael Bublé de vardır.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Jack'in Telaşı Noel İçin"
+        }
+      },
+      {
+        "iso_3166_1": "RU",
+        "iso_639_1": "ru",
+        "name": "Pусский",
+        "english_name": "Russian",
+        "data": {
+          "homepage": "",
+          "overview": "Джек Уайтхолл наперегонки со временем пытается добраться из США в Великобританию на Рождество. Бешеное четырехдневное путешествие наполненное праздничным хаосом и интересными встречами.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Джек в погоне за Рождеством"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "ES",
+        "title": "Jack llega a tiempo para Navidad",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt34059852",
+    "wikidata_id": "Q130409660",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/135pnESJqaitPL1DTaGXXq3Lvlu.jpg",
+        "vote_average": 2.278,
+        "vote_count": 3,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/tqJL0gNbqeeYHMm1xdtUmZCkG56.jpg",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 720,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/c9lwGx3XBlFZGQ1QkJYOe7mfBU3.jpg",
+        "vote_average": 1.222,
+        "vote_count": 3,
+        "width": 1280
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 720,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/7OmGHe9fDG9ipOsTSeJrjoJULDr.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1280
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/xLadQ2RtqYkYi6fEyxl17lTOHit.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/931DQdwxsrsV17liOWv3RR95Zyk.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/dFZFj1j1bAktUJYaGbxGJjy0A4d.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      }
+    ],
+    "logos": [
+      {
+        "aspect_ratio": 1.455,
+        "height": 380,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/pJlmIZD6U2Ds1XBQORnSzhHUuuz.png",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 553
+      }
+    ],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/ezLjq19a1LAWfX5rTMqA2MHEe0.jpg",
+        "vote_average": 3.334,
+        "vote_count": 2,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/5j9MxMx24tPuTSTuWMW1eZP1w1M.jpg",
+        "vote_average": 1.75,
+        "vote_count": 4,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/iQVVhD8IdFCPRyJcqtDRt57mjWE.jpg",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1440,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/9MFY42vDEZVnvF8CZYWgztkuU6s.jpg",
+        "vote_average": 0.166,
+        "vote_count": 2,
+        "width": 960
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 900,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/cXOQ1USeYwAoNQYoMaPr8SlVDkW.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 600
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/hbMIepN1On0MScvFZPpEeoQ9VTI.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AS",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Freevee / Prime Video",
+            "release_date": "2024-12-02T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "pt",
+            "note": "",
+            "release_date": "2024-12-02T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-12-02T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Prime Video",
+            "release_date": "2024-12-02T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Freevee / Prime Video",
+            "release_date": "2024-12-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Freevee / Prime Video",
+            "release_date": "2024-12-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MP",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Freevee / Prime Video",
+            "release_date": "2024-12-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Freevee / Prime Video",
+            "release_date": "2024-12-02T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SG",
+        "release_dates": [
+          {
+            "certification": "NC16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Prime Video",
+            "release_date": "2024-12-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Freevee / Prime Video",
+            "release_date": "2024-12-02T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "VI",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Freevee / Prime Video",
+            "release_date": "2024-12-02T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "84BEV7q6CcM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "673692cf48e9d2cf01a8909e",
+        "published_at": "2024-11-14T09:00:05.000Z"
+      }
+    ]
+  }
+}

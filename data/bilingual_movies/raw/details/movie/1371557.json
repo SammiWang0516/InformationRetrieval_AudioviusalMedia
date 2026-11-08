@@ -1,0 +1,813 @@
+{
+  "adult": false,
+  "backdrop_path": "/7ImhJ3UN2HPr7s96nsDzFeUWZaF.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "http://film-directory.britishcouncil.org/i-am-martin-parr",
+  "id": 1371557,
+  "imdb_id": "tt33985496",
+  "origin_country": [
+    "GB",
+    "FR"
+  ],
+  "original_language": "en",
+  "original_title": "I Am Martin Parr",
+  "overview": "Since the 1970s‚ Martin Parr has fearlessly held out his unique photographic mirror and given us some of the most extraordinary and unique visual clichés of modern times. Sometimes serious‚ often absurd but always playful‚ his insightful and often acrid commentary on consumer society has always been a subject of controversy and discussion.",
+  "popularity": 1.4201,
+  "poster_path": "/j91RP4cStadueVcVhWQEfNvetvS.jpg",
+  "production_companies": [
+    {
+      "id": 241832,
+      "logo_path": null,
+      "name": "Haut et Court Doc",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2024-10-17",
+  "revenue": 48010,
+  "runtime": 68,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "I Am Martin Parr",
+  "video": false,
+  "vote_average": 7.6,
+  "vote_count": 7,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1318964,
+        "known_for_department": "Acting",
+        "name": "Martin Parr",
+        "original_name": "Martin Parr",
+        "popularity": 0.3749,
+        "profile_path": "/jD786EQJyAlt0jggvcnNhmFDYZO.jpg",
+        "cast_id": 4,
+        "character": "Self",
+        "credit_id": "670e3d4fd5f93a3da0bc3446",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5757797,
+        "known_for_department": "Acting",
+        "name": "Susie Parr",
+        "original_name": "Susie Parr",
+        "popularity": 0.0723,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Self",
+        "credit_id": "68f41108550b4e44f88e6ee0",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1658351,
+        "known_for_department": "Acting",
+        "name": "Bruce Gilden",
+        "original_name": "Bruce Gilden",
+        "popularity": 0.2541,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Self",
+        "credit_id": "686fe4d6ba81d2d162ed6b45",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5757796,
+        "known_for_department": "Acting",
+        "name": "Tracy Marshall",
+        "original_name": "Tracy Marshall",
+        "popularity": 0.0848,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Self",
+        "credit_id": "68f410cdbe505d5dd3baf4ff",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2151204,
+        "known_for_department": "Acting",
+        "name": "Harry Gruyaert",
+        "original_name": "Harry Gruyaert",
+        "popularity": 0.13,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Self",
+        "credit_id": "68f411196235ca553e8e6eed",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5757798,
+        "known_for_department": "Acting",
+        "name": "Clémentine De La Féronnière",
+        "original_name": "Clémentine De La Féronnière",
+        "popularity": 0.133,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Self",
+        "credit_id": "68f411d29a6c95887a7e2dfa",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5757801,
+        "known_for_department": "Acting",
+        "name": "Charlotte King",
+        "original_name": "Charlotte King",
+        "popularity": 0.1034,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Self",
+        "credit_id": "68f412048b04664a484e6f3f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5757803,
+        "known_for_department": "Acting",
+        "name": "Mimi Mollica",
+        "original_name": "Mimi Mollica",
+        "popularity": 0.1471,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Self",
+        "credit_id": "68f412cc9a6c95887a7e2e06",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2806523,
+        "known_for_department": "Acting",
+        "name": "François Hébel",
+        "original_name": "François Hébel",
+        "popularity": 0.2847,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Self",
+        "credit_id": "686fe4f9172af16ba29a55d0",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1097736,
+        "known_for_department": "Acting",
+        "name": "Mark Bedford",
+        "original_name": "Mark Bedford",
+        "popularity": 0.2753,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Self",
+        "credit_id": "68f41445dfc63f757900d8de",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1248987,
+        "known_for_department": "Acting",
+        "name": "Grayson Perry",
+        "original_name": "Grayson Perry",
+        "popularity": 0.1715,
+        "profile_path": "/6rRyjQYlEfncRpHLxZwVYlIDbVX.jpg",
+        "cast_id": 19,
+        "character": "Self",
+        "credit_id": "68f419e6507408923c9a5bdf",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4410042,
+        "known_for_department": "Editing",
+        "name": "Kavi Pujari",
+        "original_name": "Kavi Pujari",
+        "popularity": 0.0438,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Self",
+        "credit_id": "68f415c66db661008d8e6e8e",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5757814,
+        "known_for_department": "Acting",
+        "name": "Louis Little",
+        "original_name": "Louis Little",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Self",
+        "credit_id": "68f4160d31bea1fd62baf4d4",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80536,
+        "known_for_department": "Acting",
+        "name": "David Walliams",
+        "original_name": "David Walliams",
+        "popularity": 2.0785,
+        "profile_path": "/abdmkEncVFg0pBrt8Li3mM3L4Sh.jpg",
+        "cast_id": 9,
+        "character": "Self",
+        "credit_id": "68f41048da6a073f20baf505",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5757833,
+        "known_for_department": "Acting",
+        "name": "Samantha McCoy",
+        "original_name": "Samantha McCoy",
+        "popularity": 0.0467,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Self",
+        "credit_id": "68f41a8f3adbe6d86b8d01e4",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5001622,
+        "known_for_department": "Directing",
+        "name": "Lee Shulman",
+        "original_name": "Lee Shulman",
+        "popularity": 0.3705,
+        "profile_path": "/diWPTojE8UvaRJNT30crSDK1Rr1.jpg",
+        "credit_id": "670e3cc00b800537d75cddd6",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 572240,
+        "known_for_department": "Acting",
+        "name": "Maxime Kathari",
+        "original_name": "Maxime Kathari",
+        "popularity": 0.1372,
+        "profile_path": null,
+        "credit_id": "670e3cef0b800537d75cdde6",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1703655,
+        "known_for_department": "Editing",
+        "name": "Raphaëlle Martin-Hölger",
+        "original_name": "Raphaëlle Martin-Hölger",
+        "popularity": 0.1359,
+        "profile_path": null,
+        "credit_id": "670e3cfed5f93a3da0bc3421",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3116382,
+        "known_for_department": "Production",
+        "name": "Emmanuelle Lepers",
+        "original_name": "Emmanuelle Lepers",
+        "popularity": 0.4965,
+        "profile_path": null,
+        "credit_id": "686fdcd517deb888f6ba27e7",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 1003,
+        "name": "photographer"
+      },
+      {
+        "id": 227302,
+        "name": "portrait of an artist"
+      },
+      {
+        "id": 282080,
+        "name": "documentary"
+      },
+      {
+        "id": 313730,
+        "name": "contemporary"
+      },
+      {
+        "id": 326015,
+        "name": "iconoclast"
+      },
+      {
+        "id": 345747,
+        "name": "biographical documentary"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "IT",
+        "iso_639_1": "it",
+        "name": "Italiano",
+        "english_name": "Italian",
+        "data": {
+          "homepage": "",
+          "overview": "Un documentario sul fotografo Martin Parr, diretto da Lee Shulman, ideatore dell'Anonymous Project, dedicato alla raccolta di scatti anonimi e amatoriali che in passato ha fatto dialogare con quelli di Parr.",
+          "runtime": 66,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "http://film-directory.britishcouncil.org/i-am-martin-parr",
+          "overview": "Since the 1970s‚ Martin Parr has fearlessly held out his unique photographic mirror and given us some of the most extraordinary and unique visual clichés of modern times. Sometimes serious‚ often absurd but always playful‚ his insightful and often acrid commentary on consumer society has always been a subject of controversy and discussion.",
+          "runtime": 68,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "ca",
+        "name": "Català",
+        "english_name": "Catalan",
+        "data": {
+          "homepage": "",
+          "overview": "Aquell home gran, discret i senzill, que passeja pel moll recolzat en un caminador i va fent fotos amb una càmera antiga és, encara que no ho sembli, un dels artistes més importants del nostre temps. Sardònic i proper, clarivident i poc amic de les paraules, Martin Parr ja era un mestre amb el blanc i negre, però va fer el salt al mític quan va passar-se al color. Ha retratat com ningú una societat britànica grotesca i entranyable, i les seves imatges dels turistes a la torre de Pisa o les sèries dels japonesos cansats i les parelles avorrides són fites de la fotografia contemporània. Els seus amics i familiars en parlen amb gran afecte i admiració, però si la pel·lícula prescindís d’aquests testimonis i només ens mostrés les imatges, seria igual de bona.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "https://www.hautetcourt.com/documentaires/i-am-martin-parr/",
+          "overview": "En 1994, Martin Parr rejoint l'agence Magnum, devenant l'un des photographes les plus emblématiques de son époque. Derrière ses clichés célèbres se cache un photographe audacieux et intransigeant dont l'obsession pour ses sujets, ses cadres et ses couleurs a révolutionné la photographie contemporaine. Ce road trip à travers l'Angleterre est l'occasion de dresser un portrait de l'inimitable Martin Parr. Après cinquante ans de carrière, le photographe reste un véritable iconoclaste, à la fois critique et espiègle, qui donne à voir la société sous un angle aussi percutant qu'inattendu.",
+          "runtime": 51,
+          "tagline": "",
+          "title": "I Am Martin Parr, le photographe so British"
+        }
+      },
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Desde los años 70, Martin Parr ha retratado con ironía y crudeza el impacto del consumo en nuestras vidas. Este documental nos acerca al fotógrafo inglés que revolucionó la fotografía contemporánea con sus imágenes incómodas y fascinantes. A través de un viaje por Inglaterra, descubrimos su agitada vida, su visión única y su legado como uno de los artistas más controvertidos de nuestro tiempo.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Yo soy Martin Parr"
+        }
+      },
+      {
+        "iso_3166_1": "PL",
+        "iso_639_1": "pl",
+        "name": "Polski",
+        "english_name": "Polish",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Nazywam się Martin Parr"
+        }
+      },
+      {
+        "iso_3166_1": "NL",
+        "iso_639_1": "nl",
+        "name": "Nederlands",
+        "english_name": "Dutch",
+        "data": {
+          "homepage": "",
+          "overview": "Sinds de jaren 1970 heeft Martin Parr onbevreesd zijn unieke fotografische spiegel uitgestoken en ons enkele van de meest buitengewone en unieke visuele clichés van de moderne tijd gegeven. Soms serieus' vaak absurd maar altijd speels' is zijn inzichtelijke en vaak scherpe commentaar op de consumptiemaatschappij altijd onderwerp van controverse en discussie geweest.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "HK",
+        "iso_639_1": "zh",
+        "name": "普通话",
+        "english_name": "Mandarin",
+        "data": {
+          "homepage": "",
+          "overview": "電影跟隨Martin Parr走遍英國，透過他標誌性的微距鏡頭，配上色彩鮮明光怪陸離的構圖，捕捉眾人最真實的一面。這種隨意的攝影手法，帶有濃厚諷刺意味的英式幽默，更成為他批判社會常態及消費主義的武器。  儘管Martin Parr作品遍佈世界各地，但他早期卻被人誤解輕視勞動階層而受爭議。80年代彩色紀錄運動與起，他順應潮流，摒棄黑白轉投彩色的複雜世界，但因彩色作品過於鮮明，使他加入Magnum攝影通訊社時遇上波折。他繼續利用獨特的攝影語言，改變當代紀實攝影，最後更獲得英國CBE勳銜，並登上Magnum主席之位。",
+          "runtime": 0,
+          "tagline": "",
+          "title": "怪雞Parr叔街拍日常"
+        }
+      },
+      {
+        "iso_3166_1": "SE",
+        "iso_639_1": "sv",
+        "name": "svenska",
+        "english_name": "Swedish",
+        "data": {
+          "homepage": "",
+          "overview": "Martin Parr är en av de mest framstående fotograferna i modern tid: en distanserad observatör av en alltmer absurd värld, en ironisk krönikör av brittisk kitsch, en skarp kritiker av konsumtionssamhället - men framför allt en historieberättare som balanserar mellan komedi och tragedi.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Jag är Martin Parr"
+        }
+      },
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "",
+          "overview": "Seit den 1970ern hält der englische Fotograf Martin Parr das Leben der Arbeiterklasse in Bildern fest, die zu einem Spiegel der Gesellschaft werden. Der Dokumentarfilm nimmt uns mit auf eine Zeitreise, indem er die originalen Aufnahmen mit dem heutigen Großbritannien in Kontrast setzt. Wir erfahren aber auch mehr über den Künstler, der hier selbst zu Wort kommt und Einblicke in seine Arbeit gibt.",
+          "runtime": 70,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "TR",
+        "iso_639_1": "tr",
+        "name": "Türkçe",
+        "english_name": "Turkish",
+        "data": {
+          "homepage": "",
+          "overview": "Martin Parr, 1970'lerden bu yana kendine özgü fotoğrafik aynasını korkusuzca bize tutarak modern zamanların en sıra dışı görsel klişelerinden bazılarını ortaya koymuştur. Bazen ciddi, çoğu zaman absürt ama her daim oyuncu bir üsluba sahip olan Parr'ın tüketim toplumuna dair keskin ve iğneleyici yorumları, her zaman tartışmalara konu olmuştur.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Ben, Martin Parr"
+        }
+      },
+      {
+        "iso_3166_1": "RU",
+        "iso_639_1": "ru",
+        "name": "Pусский",
+        "english_name": "Russian",
+        "data": {
+          "homepage": "",
+          "overview": "Рассказ о творчестве английского фотографа Мартина Парра, который прославился как мастер гротеска, фиксирующий будни британского пролетариата, и одновременно стал любимцем модной индустрии, оценившей его насмешливое отношение к гламуру и роскоши.",
+          "runtime": 68,
+          "tagline": "",
+          "title": "Я — Мартин Парр"
+        }
+      },
+      {
+        "iso_3166_1": "PT",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "homepage": "",
+          "overview": "Foi um dos melhores fotógrafos da última metade do século: por vezes terno, por vezes crítico e sempre travesso. Descubra Martin Parr através desta viagem íntima pela Inglaterra.",
+          "runtime": 68,
+          "tagline": "",
+          "title": "Eu sou Martin Parr"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt33985496",
+    "wikidata_id": "Q132732158",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/7ImhJ3UN2HPr7s96nsDzFeUWZaF.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/es2zWI2HycOvM0RFJ3kYmhAqZMk.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 720,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/az27ZzzBk1dUKMcrKNQl0q9dZ3.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1280
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 720,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/kmAKgTuXjoLNBFFogPYih6ri3pR.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1280
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 720,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/jh1jB5ngL57UULJv810phhsk9xN.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1280
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 720,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/yCDeWTbpbWmdnkQpBzBPwRF6wk0.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1280
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 720,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/wVGseCFjVVizaDQRV8C2WO0liZa.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1280
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 720,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/5Am843xeVL8ZxyCNf9w5D3r7FYO.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1280
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/j91RP4cStadueVcVhWQEfNvetvS.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/5wrxNNOsArNWXIOJGeF07AHabFS.jpg",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 1200
+      },
+      {
+        "aspect_ratio": 0.707,
+        "height": 2245,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/4OMPZWsxoODwmQU8UmiBb5pGEGB.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1587
+      },
+      {
+        "aspect_ratio": 0.707,
+        "height": 2245,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/bXiyNAnUbRsNL5PfrQhEGDLKOsB.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1587
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "M",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Russell Hobbs British Film Festival",
+            "release_date": "2025-11-10T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Munich International Film Festival",
+            "release_date": "2025-06-29T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-11-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-10-17T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "fr",
+            "note": "Avant-première à 19h30 au FIPADOC | Festival international du Film Documentaire à Biarritz",
+            "release_date": "2025-01-29T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "fr",
+            "note": "sur France•tv",
+            "release_date": "2025-01-30T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "fr",
+            "note": "à 23h00 sur France•5",
+            "release_date": "2025-02-14T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-02-21T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-03-24T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "MOViE MOViE: Life is Art 2025",
+            "release_date": "2025-06-14T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Festa del Cinema di Roma",
+            "release_date": "2024-10-17T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "I AM MARTIN PARR - International Trailer",
+        "key": "AKEFfxXxbvk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6710d76a6bffa14cf4112850",
+        "published_at": "2024-10-15T10:43:10.000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,775 @@
+{
+  "adult": false,
+  "backdrop_path": "/2YfYQ1nWLgscTRFdbcJnE3w8deP.jpg",
+  "belongs_to_collection": null,
+  "budget": 80,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1438851,
+  "imdb_id": null,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Cadáver Exquisito",
+  "overview": "Documentary about the eccentric figure of Mario Bazterrica Oliver. Following his recent death, various interviewees analyse, remember and portray, from multiple points of view, the importance and meaning of his person and his actions, which made him an important and not very popular person in Mallorca.",
+  "popularity": 0.7398,
+  "poster_path": "/6WYiKjhNnleMXnx5rX4I8QxmIXf.jpg",
+  "production_companies": [
+    {
+      "id": 176276,
+      "logo_path": null,
+      "name": "CEF",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2025-03-03",
+  "revenue": 0,
+  "runtime": 23,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Catalan",
+      "iso_639_1": "ca",
+      "name": "Català"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Although it may seem untrue, it happened.",
+  "title": "Exquisite Corpse",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5265186,
+        "known_for_department": "Acting",
+        "name": "Aina Núñez",
+        "original_name": "Aina Núñez",
+        "popularity": 0.1877,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Aina Núñez",
+        "credit_id": "67bb73e9bf521f190f0a78e8",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4994453,
+        "known_for_department": "Acting",
+        "name": "Joan Pere Jofre Pieras",
+        "original_name": "Joan Pere Jofre Pieras",
+        "popularity": 0.1791,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Pere Joan Joan Pere Mayol",
+        "credit_id": "67bb745a55e3994bbd46936b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5265188,
+        "known_for_department": "Acting",
+        "name": "Toni Terrades",
+        "original_name": "Toni Terrades",
+        "popularity": 0.1163,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Toni Terrades",
+        "credit_id": "67bb746606b5536bdc0ab988",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5265189,
+        "known_for_department": "Acting",
+        "name": "Jordi Llabrés",
+        "original_name": "Jordi Llabrés",
+        "popularity": 0.1817,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Jordi Llabrés",
+        "credit_id": "67bb747033d749cc39bea3b1",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4589547,
+        "known_for_department": "Directing",
+        "name": "Antoni Guiscafrè",
+        "original_name": "Antoni Guiscafrè",
+        "popularity": 0.1462,
+        "profile_path": "/joIireKOp3Cti6pXgSWr0HfXqDZ.jpg",
+        "cast_id": 5,
+        "character": "Antoni Guiscafrè Rosselló",
+        "credit_id": "67bb7485286bde3a090a6a92",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5265190,
+        "known_for_department": "Acting",
+        "name": "Lluís Gili Moreno",
+        "original_name": "Lluís Gili Moreno",
+        "popularity": 0.2359,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Lluís Gili Moreno",
+        "credit_id": "67bb7494286bde3a090a6abb",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5265191,
+        "known_for_department": "Acting",
+        "name": "Carlos Moralejo",
+        "original_name": "Carlos Moralejo",
+        "popularity": 0.0924,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Manuel",
+        "credit_id": "67bb749d55dd812fad468772",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5265192,
+        "known_for_department": "Acting",
+        "name": "Juanjo Buendía",
+        "original_name": "Juanjo Buendía",
+        "popularity": 0.2164,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Juanjo Buendía",
+        "credit_id": "67bb74ba33d749cc39bea3ca",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5265193,
+        "known_for_department": "Acting",
+        "name": "Elionor Sintes",
+        "original_name": "Elionor Sintes",
+        "popularity": 0.0726,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Elionor Sintes",
+        "credit_id": "67bb74e133d749cc39bea3ed",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5265194,
+        "known_for_department": "Acting",
+        "name": "Toni Horrach",
+        "original_name": "Toni Horrach",
+        "popularity": 0.0461,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Toni Horrach",
+        "credit_id": "67bb74efbd48e8924cbed10f",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2164813,
+        "known_for_department": "Acting",
+        "name": "David Ordinas",
+        "original_name": "David Ordinas",
+        "popularity": 0.1967,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "David Ordinas",
+        "credit_id": "67bb74fb33d749cc39bea402",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5265195,
+        "known_for_department": "Acting",
+        "name": "Daniel Higiénico",
+        "original_name": "Daniel Higiénico",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Daniel Higiénico",
+        "credit_id": "67bb750433d749cc39bea40e",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5265196,
+        "known_for_department": "Acting",
+        "name": "Maria del Mar Mas Fiol",
+        "original_name": "Maria del Mar Mas Fiol",
+        "popularity": 0.0359,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Maria del Mar Mas Fiol",
+        "credit_id": "67bb7569abeede36c4467ddd",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5265197,
+        "known_for_department": "Acting",
+        "name": "Víctor Barón Fresneda",
+        "original_name": "Víctor Barón Fresneda",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Víctor Barón Fresneda",
+        "credit_id": "67bb757aabeede36c4467dec",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4589532,
+        "known_for_department": "Directing",
+        "name": "Juan Ramón Jiménez",
+        "original_name": "Juan Ramón Jiménez",
+        "popularity": 0.06,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Juan Ramón Jiménez",
+        "credit_id": "67bb7584741152b0420aa9ef",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4067084,
+        "known_for_department": "Directing",
+        "name": "Andrés Burgos",
+        "original_name": "Andrés Burgos",
+        "popularity": 0.0696,
+        "profile_path": "/zyZPp8QTB2kievxpTWIoY3McazV.jpg",
+        "cast_id": 16,
+        "character": "Andrés Burgos",
+        "credit_id": "67bb7591a96dc18979beccee",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4067080,
+        "known_for_department": "Directing",
+        "name": "Marco Schweitzer",
+        "original_name": "Marco Schweitzer",
+        "popularity": 0.2778,
+        "profile_path": null,
+        "credit_id": "67bb75aea96dc18979beccf8",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4067080,
+        "known_for_department": "Directing",
+        "name": "Marco Schweitzer",
+        "original_name": "Marco Schweitzer",
+        "popularity": 0.2778,
+        "profile_path": null,
+        "credit_id": "67bb75c1abeede36c4467dfa",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4986246,
+        "known_for_department": "Directing",
+        "name": "Mayo Mora",
+        "original_name": "Mayo Mora",
+        "popularity": 0.0397,
+        "profile_path": null,
+        "credit_id": "67bb75fbbf521f190f0a7946",
+        "department": "Production",
+        "job": "Production Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3190053,
+        "known_for_department": "Editing",
+        "name": "Yago Viñas Pastor",
+        "original_name": "Yago Viñas Pastor",
+        "popularity": 0.1017,
+        "profile_path": "/v1As2RNR1LHj2ZvynQSG3gjOIjY.jpg",
+        "credit_id": "67bb7613bd48e8924cbed196",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3190053,
+        "known_for_department": "Editing",
+        "name": "Yago Viñas Pastor",
+        "original_name": "Yago Viñas Pastor",
+        "popularity": 0.1017,
+        "profile_path": "/v1As2RNR1LHj2ZvynQSG3gjOIjY.jpg",
+        "credit_id": "67bb7621741152b0420aaa0c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4986246,
+        "known_for_department": "Directing",
+        "name": "Mayo Mora",
+        "original_name": "Mayo Mora",
+        "popularity": 0.0397,
+        "profile_path": null,
+        "credit_id": "67bb78c1a96dc18979bece22",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4986181,
+        "known_for_department": "Directing",
+        "name": "Álvaro F. de Miguel",
+        "original_name": "Álvaro F. de Miguel",
+        "popularity": 0.1726,
+        "profile_path": null,
+        "credit_id": "67bb78f8a96dc18979bece31",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5265224,
+        "known_for_department": "Production",
+        "name": "Álvaro F. de Miguel",
+        "original_name": "Álvaro F. de Miguel",
+        "popularity": 0.0431,
+        "profile_path": null,
+        "credit_id": "67bb7900a96dc18979bece3e",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3545063,
+        "known_for_department": "Camera",
+        "name": "Pau Amer Canyelles",
+        "original_name": "Pau Amer Canyelles",
+        "popularity": 0.0563,
+        "profile_path": "/f7D1QLXV5Vh3DWBDPOXrpUdTIjp.jpg",
+        "credit_id": "67bb7916a96dc18979bece45",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4589525,
+        "known_for_department": "Lighting",
+        "name": "Albert Borrás Serra",
+        "original_name": "Albert Borrás Serra",
+        "popularity": 0.1415,
+        "profile_path": null,
+        "credit_id": "67bb7933bf521f190f0a79d5",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4589547,
+        "known_for_department": "Directing",
+        "name": "Antoni Guiscafrè",
+        "original_name": "Antoni Guiscafrè",
+        "popularity": 0.1462,
+        "profile_path": "/joIireKOp3Cti6pXgSWr0HfXqDZ.jpg",
+        "credit_id": "67bb7945bf521f190f0a79f0",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4589517,
+        "known_for_department": "Camera",
+        "name": "Martina Picasarri Benedetic",
+        "original_name": "Martina Picasarri Benedetic",
+        "popularity": 0.0715,
+        "profile_path": null,
+        "credit_id": "67bb7968bd48e8924cbed44c",
+        "department": "Camera",
+        "job": "Focus Puller"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4589547,
+        "known_for_department": "Directing",
+        "name": "Antoni Guiscafrè",
+        "original_name": "Antoni Guiscafrè",
+        "popularity": 0.1462,
+        "profile_path": "/joIireKOp3Cti6pXgSWr0HfXqDZ.jpg",
+        "credit_id": "67bb79acbf521f190f0a7a34",
+        "department": "Camera",
+        "job": "Data Wrangler"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4589547,
+        "known_for_department": "Directing",
+        "name": "Antoni Guiscafrè",
+        "original_name": "Antoni Guiscafrè",
+        "popularity": 0.1462,
+        "profile_path": "/joIireKOp3Cti6pXgSWr0HfXqDZ.jpg",
+        "credit_id": "67bb79b4a96dc18979bece9f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4986181,
+        "known_for_department": "Directing",
+        "name": "Álvaro F. de Miguel",
+        "original_name": "Álvaro F. de Miguel",
+        "popularity": 0.1726,
+        "profile_path": null,
+        "credit_id": "67bb79d2a96dc18979beceb8",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4986174,
+        "known_for_department": "Directing",
+        "name": "Jaume Tortella",
+        "original_name": "Jaume Tortella",
+        "popularity": 0.1319,
+        "profile_path": null,
+        "credit_id": "67bb79e1abeede36c4467f2e",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4589506,
+        "known_for_department": "Directing",
+        "name": "Caterina Llabrés Massanet",
+        "original_name": "Caterina Llabrés Massanet",
+        "popularity": 0.1993,
+        "profile_path": "/eYk2yfkBUn7LUGfQO4PFfWjZ1vp.jpg",
+        "credit_id": "67bb79f1bf521f190f0a7a65",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4589525,
+        "known_for_department": "Lighting",
+        "name": "Albert Borrás Serra",
+        "original_name": "Albert Borrás Serra",
+        "popularity": 0.1415,
+        "profile_path": null,
+        "credit_id": "67bba5ac41060a8d8fbe9baa",
+        "department": "Editing",
+        "job": "Editorial Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3190053,
+        "known_for_department": "Editing",
+        "name": "Yago Viñas Pastor",
+        "original_name": "Yago Viñas Pastor",
+        "popularity": 0.1017,
+        "profile_path": "/v1As2RNR1LHj2ZvynQSG3gjOIjY.jpg",
+        "credit_id": "67bba5d2741152b0420ab012",
+        "department": "Editing",
+        "job": "Editorial Consultant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5265542,
+        "known_for_department": "Sound",
+        "name": "Pau Barceló",
+        "original_name": "Pau Barceló",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67bba5fea23929ac28bef5a1",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3328620,
+        "known_for_department": "Sound",
+        "name": "Lucía Millán",
+        "original_name": "Lucía Millán",
+        "popularity": 0.1643,
+        "profile_path": null,
+        "credit_id": "67bba611bf521f190f0a814c",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5245238,
+        "known_for_department": "Sound",
+        "name": "Asier Moreno",
+        "original_name": "Asier Moreno",
+        "popularity": 0.0636,
+        "profile_path": null,
+        "credit_id": "67bba627abeede36c44688b4",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5245237,
+        "known_for_department": "Sound",
+        "name": "Lucía Gómez",
+        "original_name": "Lucía Gómez",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67bba641a23929ac28bef5aa",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5265546,
+        "known_for_department": "Sound",
+        "name": "Joel Eloy Jimenez",
+        "original_name": "Joel Eloy Jimenez",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67bba668a23929ac28bef5c3",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5265547,
+        "known_for_department": "Sound",
+        "name": "Gemma Llull",
+        "original_name": "Gemma Llull",
+        "popularity": 0.0461,
+        "profile_path": null,
+        "credit_id": "67bba67bbf521f190f0a816f",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5265548,
+        "known_for_department": "Sound",
+        "name": "Tomeu Ballester",
+        "original_name": "Tomeu Ballester",
+        "popularity": 0.0514,
+        "profile_path": null,
+        "credit_id": "67bba6a7bf521f190f0a8199",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5265549,
+        "known_for_department": "Crew",
+        "name": "Tomeu Ballester",
+        "original_name": "Tomeu Ballester",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67bba6c255e3994bbd469c66",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3545063,
+        "known_for_department": "Camera",
+        "name": "Pau Amer Canyelles",
+        "original_name": "Pau Amer Canyelles",
+        "popularity": 0.0563,
+        "profile_path": "/f7D1QLXV5Vh3DWBDPOXrpUdTIjp.jpg",
+        "credit_id": "67bba6f5741152b0420ab058",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4886991,
+        "known_for_department": "Production",
+        "name": "Paula Llabrés",
+        "original_name": "Paula Llabrés",
+        "popularity": 0.0654,
+        "profile_path": null,
+        "credit_id": "67c090fb10e79c3424a255c4",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5979602,
+        "known_for_department": "Art",
+        "name": "Irene Aguiló",
+        "original_name": "Irene Aguiló",
+        "popularity": 0.1385,
+        "profile_path": "/cOWksiZWED6eylkZMmDzHMu37mz.jpg",
+        "credit_id": "697fdde4a6a869dea88c3789",
+        "department": "Art",
+        "job": "Art Direction"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 9701,
+        "name": "controversy"
+      },
+      {
+        "id": 11800,
+        "name": "mockumentary"
+      },
+      {
+        "id": 194063,
+        "name": "messiah"
+      },
+      {
+        "id": 232244,
+        "name": "controversial artist"
+      },
+      {
+        "id": 257177,
+        "name": "famous"
+      },
+      {
+        "id": 295812,
+        "name": "testimony"
+      },
+      {
+        "id": 347475,
+        "name": "mario bazterrica oliver"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Documentary about the eccentric figure of Mario Bazterrica Oliver. Following his recent death, various interviewees analyse, remember and portray, from multiple points of view, the importance and meaning of his person and his actions, which made him an important and not very popular person in Mallorca.",
+          "runtime": 23,
+          "tagline": "Although it may seem untrue, it happened.",
+          "title": "Exquisite Corpse"
+        }
+      },
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Documental sobre la excéntrica figura de Mario Bazterrica Oliver. Tras su reciente fallecimiento, diversos entrevistados analizan, recuerdan y retratan, desde múltiples puntos de vista, la importancia y significado de su persona y de sus actos, que hicieron de él una importante y no muy querida persona en Mallorca.",
+          "runtime": 20,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "",
+            "release_date": "2025-03-03T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

@@ -1,0 +1,574 @@
+{
+  "adult": false,
+  "backdrop_path": "/hDeWcesHwm05TWvA850JbjTS6AG.jpg",
+  "belongs_to_collection": null,
+  "budget": 148,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1199655,
+  "imdb_id": "tt14902022",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "La Función",
+  "overview": "A man enters an apartment where a woman who seems to know him is waiting for him. The boundaries between fiction and reality disappear between his own life and the desire to live another.",
+  "popularity": 3.2452,
+  "poster_path": "/wJzbJnyuIyb2j6ks9gh0Ux4M8pP.jpg",
+  "production_companies": [
+    {
+      "id": 212546,
+      "logo_path": null,
+      "name": "San Pelícano Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2024-04-05",
+  "revenue": 0,
+  "runtime": 95,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Catalan",
+      "iso_639_1": "ca",
+      "name": "Català"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Show",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2356132,
+        "known_for_department": "Acting",
+        "name": "Luis Alberto Heras",
+        "original_name": "Luis Alberto Heras",
+        "popularity": 0.3163,
+        "profile_path": "/paq1IK2RkEdgXlGtkL8WGHO1yDd.jpg",
+        "cast_id": 1,
+        "character": "Luis",
+        "credit_id": "654364192866fa00fefd699d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1651928,
+        "known_for_department": "Acting",
+        "name": "Blanca Parés",
+        "original_name": "Blanca Parés",
+        "popularity": 0.3378,
+        "profile_path": "/rYxbnL5YuT4hA1gCdWvy9ON1w1R.jpg",
+        "cast_id": 2,
+        "character": "Blanca",
+        "credit_id": "6543642b2866fa0138a52510",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 143172,
+        "known_for_department": "Acting",
+        "name": "Núria Prims",
+        "original_name": "Núria Prims",
+        "popularity": 0.2205,
+        "profile_path": "/ajKBJxuDdK2C0kl1WH3iPEis3P7.jpg",
+        "cast_id": 3,
+        "character": "Madre",
+        "credit_id": "65436437e1ad7900ea57bdb5",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4030050,
+        "known_for_department": "Directing",
+        "name": "José Gasset",
+        "original_name": "José Gasset",
+        "popularity": 0.4748,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Nuevo espectador",
+        "credit_id": "67a62d85bf36040c5d85f918",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5231713,
+        "known_for_department": "Acting",
+        "name": "Gonzalo Leturia",
+        "original_name": "Gonzalo Leturia",
+        "popularity": 0.122,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Portero",
+        "credit_id": "67a62d94bf36040c5d85f92e",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3241605,
+        "known_for_department": "Acting",
+        "name": "Mateo Franco",
+        "original_name": "Mateo Franco",
+        "popularity": 0.0695,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Vecino pelea",
+        "credit_id": "67a62da70ca6bfa8042fc270",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5231714,
+        "known_for_department": "Acting",
+        "name": "Inés Gasset",
+        "original_name": "Inés Gasset",
+        "popularity": 0.4061,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Vecina pelea",
+        "credit_id": "67a62dbc4d536cb93266e9d1",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2245644,
+        "known_for_department": "Writing",
+        "name": "Mateo Kesselman",
+        "original_name": "Mateo Kesselman",
+        "popularity": 0.2562,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Vecino escaleras",
+        "credit_id": "67a62dd43b92fb06492fdaa2",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5231716,
+        "known_for_department": "Acting",
+        "name": "Luisa Gasset",
+        "original_name": "Luisa Gasset",
+        "popularity": 0.1163,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Niña calle",
+        "credit_id": "67a62de30ca6bfa8042fc299",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5231718,
+        "known_for_department": "Acting",
+        "name": "Andrea Loik",
+        "original_name": "Andrea Loik",
+        "popularity": 0.0702,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Mujer calle",
+        "credit_id": "67a62df33b92fb06492fdabb",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2016203,
+        "known_for_department": "Acting",
+        "name": "Félix Granado",
+        "original_name": "Félix Granado",
+        "popularity": 0.7735,
+        "profile_path": "/lzatPm2uE0gy8QRBxCFTkHWnsw2.jpg",
+        "cast_id": 23,
+        "character": "Hombre calle",
+        "credit_id": "67a62e093b92fb06492fdac9",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5231721,
+        "known_for_department": "Acting",
+        "name": "María Zaila Yeltu",
+        "original_name": "María Zaila Yeltu",
+        "popularity": 0.0607,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Dependienta",
+        "credit_id": "67a62e244d536cb93266ea03",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5231722,
+        "known_for_department": "Acting",
+        "name": "Sofía Gasset",
+        "original_name": "Sofía Gasset",
+        "popularity": 0.0623,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Clienta tienda",
+        "credit_id": "67a62e321fcbfee54d3009b8",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4030050,
+        "known_for_department": "Directing",
+        "name": "José Gasset",
+        "original_name": "José Gasset",
+        "popularity": 0.4748,
+        "profile_path": null,
+        "credit_id": "654365d71ac29200c4952580",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4352858,
+        "known_for_department": "Art",
+        "name": "Inés Ruiz de la Prada",
+        "original_name": "Inés Ruiz de la Prada",
+        "popularity": 0.1268,
+        "profile_path": null,
+        "credit_id": "654367112866fa0138a527a3",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4352858,
+        "known_for_department": "Art",
+        "name": "Inés Ruiz de la Prada",
+        "original_name": "Inés Ruiz de la Prada",
+        "popularity": 0.1268,
+        "profile_path": null,
+        "credit_id": "6543677a41a561336938e2d0",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2349814,
+        "known_for_department": "Art",
+        "name": "Carlota Wilmshurst",
+        "original_name": "Carlota Wilmshurst",
+        "popularity": 0.0788,
+        "profile_path": null,
+        "credit_id": "654367486beaea010b316f64",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3211948,
+        "known_for_department": "Camera",
+        "name": "Adrián Corés del Río",
+        "original_name": "Adrián Corés del Río",
+        "popularity": 0.1268,
+        "profile_path": null,
+        "credit_id": "654366189cc67b00df91b0ca",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4030050,
+        "known_for_department": "Directing",
+        "name": "José Gasset",
+        "original_name": "José Gasset",
+        "popularity": 0.4748,
+        "profile_path": null,
+        "credit_id": "654368541ac29200c4952794",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4352862,
+        "known_for_department": "Production",
+        "name": "Bárbara De Rueda",
+        "original_name": "Bárbara De Rueda",
+        "popularity": 0.0422,
+        "profile_path": null,
+        "credit_id": "65436835e1ad79010bcec1b3",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4352859,
+        "known_for_department": "Art",
+        "name": "Miguel Lantero",
+        "original_name": "Miguel Lantero",
+        "popularity": 0.0467,
+        "profile_path": null,
+        "credit_id": "654367646beaea010b316f84",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4030050,
+        "known_for_department": "Directing",
+        "name": "José Gasset",
+        "original_name": "José Gasset",
+        "popularity": 0.4748,
+        "profile_path": null,
+        "credit_id": "654365f7ed2ac200aeb06a3f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4352861,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Paloma Rita",
+        "original_name": "Paloma Rita",
+        "popularity": 0.1071,
+        "profile_path": null,
+        "credit_id": "654367cded2ac200c6434b9c",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4352860,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sara Ayala",
+        "original_name": "Sara Ayala",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "654367b9ed2ac2010000527a",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2526267,
+        "known_for_department": "Editing",
+        "name": "Juan Alba",
+        "original_name": "Juan Alba",
+        "popularity": 0.1742,
+        "profile_path": "/pBaeGqn1xkfZLajPIjZkJNXEPVG.jpg",
+        "credit_id": "67a606bb937d2e9b6066d204",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3302633,
+        "known_for_department": "Editing",
+        "name": "Oscar Montesinos",
+        "original_name": "Oscar Montesinos",
+        "popularity": 0.0937,
+        "profile_path": null,
+        "credit_id": "67a62e59df336f38ab85f255",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "https://www.verkami.com/projects/29213-la-funcion",
+          "overview": "Un hombre llega a un apartamento en donde le espera una mujer. Las fronteras entre la ficción y la realidad desparecen entre su propia vida y el deseo de vivir otra.",
+          "runtime": 95,
+          "tagline": "Cuando una función es más real que tu vida, tu vida se convierte en una función.",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "A man enters an apartment where a woman who seems to know him is waiting for him. The boundaries between fiction and reality disappear between his own life and the desire to live another.",
+          "runtime": 95,
+          "tagline": "",
+          "title": "The Show"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt14902022",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/hDeWcesHwm05TWvA850JbjTS6AG.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/qxcysU58QY5jrV2w451OUsv1C7y.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/ouHk4USDOojf5OxzdXVd4HyQJK.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/oWvc5KdQRnV13bRQD16Cu1s4KXx.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/uqdqSqyiehhKURRMC8DqJmIKtAX.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/aBkF95yOm7xxubYqeRzvEB05dW1.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1920
+      }
+    ],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "",
+            "release_date": "2024-04-05T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "Filmin",
+            "release_date": "2024-05-08T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "La función | José Gasset | Tráiler oficial | StyleFeelFree. SFF magazine",
+        "key": "NMajWP1qxB4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "67a6070443781b4bfa2ffecf",
+        "published_at": "2024-03-17T10:51:49.000Z"
+      }
+    ]
+  }
+}

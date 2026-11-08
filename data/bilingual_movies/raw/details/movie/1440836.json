@@ -1,0 +1,573 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 12500,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1440836,
+  "imdb_id": "tt33058321",
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_title": "Kraliçe",
+  "overview": "The matriarch of a traditional Turkish family tries to stop her eldest daughter’s divorce, only to confront the shifting values within her own home.",
+  "popularity": 0.7769,
+  "poster_path": "/oHBMRtGd3SyJ6NhgRLIfE3xJhgK.jpg",
+  "production_companies": [
+    {
+      "id": 172113,
+      "logo_path": null,
+      "name": "Gest Film Production",
+      "origin_country": "TR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "release_date": "2025-12-05",
+  "revenue": 0,
+  "runtime": 15,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Queen",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2055479,
+        "known_for_department": "Acting",
+        "name": "Süreyya Kilimci",
+        "original_name": "Süreyya Kilimci",
+        "popularity": 0.2068,
+        "profile_path": "/e1ewyDsNJKACcaO5PcVhDlIi5I2.jpg",
+        "cast_id": 1,
+        "character": "Grandmother",
+        "credit_id": "67c0b6d3c5de842b4ba251c0",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1578929,
+        "known_for_department": "Acting",
+        "name": "Nizam Namidar",
+        "original_name": "Nizam Namidar",
+        "popularity": 0.4303,
+        "profile_path": "/5jfOEkUKCAkPcBD10pm1bH1V8Xf.jpg",
+        "cast_id": 2,
+        "character": "Grandfather",
+        "credit_id": "67c0b6e3c93271491f35af76",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1962714,
+        "known_for_department": "Acting",
+        "name": "Ece Yaşar",
+        "original_name": "Ece Yaşar",
+        "popularity": 0.8846,
+        "profile_path": "/juXqjSoK0UW5aRFWrCdVRpgmqqY.jpg",
+        "cast_id": 3,
+        "character": "Aunt",
+        "credit_id": "67c0b6eec93271491f35af7a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3748464,
+        "known_for_department": "Acting",
+        "name": "Naz Göktan",
+        "original_name": "Naz Göktan",
+        "popularity": 0.4835,
+        "profile_path": "/6QFCdfuDFOYeaiwYbcO0FonMokS.jpg",
+        "cast_id": 4,
+        "character": "Mother",
+        "credit_id": "67c0b6f8e4a5b8bf00c8ece7",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5292216,
+        "known_for_department": "Acting",
+        "name": "Fatma Çelik",
+        "original_name": "Fatma Çelik",
+        "popularity": 0.0679,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Girl",
+        "credit_id": "67cd53083c25444882e2beec",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3885543,
+        "known_for_department": "Production",
+        "name": "Deniz Uymaz",
+        "original_name": "Deniz Uymaz",
+        "popularity": 0.0833,
+        "profile_path": "/3xf20jdWHrbtbDqcDZJFhDLxTXd.jpg",
+        "credit_id": "67c0b709c029139b0e35b8b1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3885543,
+        "known_for_department": "Production",
+        "name": "Deniz Uymaz",
+        "original_name": "Deniz Uymaz",
+        "popularity": 0.0833,
+        "profile_path": "/3xf20jdWHrbtbDqcDZJFhDLxTXd.jpg",
+        "credit_id": "67c0b729c5de842b4ba251cc",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2585914,
+        "known_for_department": "Production",
+        "name": "Burak Kaplan",
+        "original_name": "Burak Kaplan",
+        "popularity": 0.213,
+        "profile_path": "/dEwRpOi68GiXuwQmTKntjkaE0x0.jpg",
+        "credit_id": "67c0b736c5de842b4ba251dc",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3735219,
+        "known_for_department": "Directing",
+        "name": "Doğuş Algün",
+        "original_name": "Doğuş Algün",
+        "popularity": 0.1175,
+        "profile_path": "/ynESBVTsXYtscgsUo9fLi7pNO8V.jpg",
+        "credit_id": "67c0b758c93271491f35afb7",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3885543,
+        "known_for_department": "Production",
+        "name": "Deniz Uymaz",
+        "original_name": "Deniz Uymaz",
+        "popularity": 0.0833,
+        "profile_path": "/3xf20jdWHrbtbDqcDZJFhDLxTXd.jpg",
+        "credit_id": "67c0b765c5de842b4ba251e3",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4127115,
+        "known_for_department": "Production",
+        "name": "Zeynep Ünal",
+        "original_name": "Zeynep Ünal",
+        "popularity": 0.0376,
+        "profile_path": null,
+        "credit_id": "67c0b772c93271491f35afcc",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 572593,
+        "known_for_department": "Production",
+        "name": "Nimet Atasoy",
+        "original_name": "Nimet Atasoy",
+        "popularity": 0.1123,
+        "profile_path": null,
+        "credit_id": "67c0b781c5de842b4ba251f0",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4428630,
+        "known_for_department": "Camera",
+        "name": "Baturhan Kitay",
+        "original_name": "Baturhan Kitay",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "67c0b7a4c029139b0e35b8e3",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4006632,
+        "known_for_department": "Editing",
+        "name": "Mert Hasret Uymaz",
+        "original_name": "Mert Hasret Uymaz",
+        "popularity": 0.0401,
+        "profile_path": null,
+        "credit_id": "67c0b7b9bc6935a001a25ca3",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 572593,
+        "known_for_department": "Production",
+        "name": "Nimet Atasoy",
+        "original_name": "Nimet Atasoy",
+        "popularity": 0.1123,
+        "profile_path": null,
+        "credit_id": "67c0b7cd10e79c3424a25a86",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3126485,
+        "known_for_department": "Art",
+        "name": "Hüsniye Uludağ",
+        "original_name": "Hüsniye Uludağ",
+        "popularity": 0.1179,
+        "profile_path": null,
+        "credit_id": "67c0b7e1c029139b0e35b90a",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3792740,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Damla Taymaz",
+        "original_name": "Damla Taymaz",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67c0b7f1c029139b0e35b916",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4912438,
+        "known_for_department": "Visual Effects",
+        "name": "Fatma Nur Bilge",
+        "original_name": "Fatma Nur Bilge",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67c0b80d10e79c3424a25aaf",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5273475,
+        "known_for_department": "Production",
+        "name": "Güçhan Bora Aydoğan",
+        "original_name": "Güçhan Bora Aydoğan",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67c0b838e4a5b8bf00c8ed2e",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5273476,
+        "known_for_department": "Production",
+        "name": "Ömer Yavuzoğlu",
+        "original_name": "Ömer Yavuzoğlu",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67c0b857c029139b0e35b945",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5273478,
+        "known_for_department": "Art",
+        "name": "Atahan Yaşar",
+        "original_name": "Atahan Yaşar",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "67c0b87a591b238d2635863b",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5273479,
+        "known_for_department": "Art",
+        "name": "Esin Reçeloğlu",
+        "original_name": "Esin Reçeloğlu",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67c0b89610e79c3424a25aef",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2738070,
+        "known_for_department": "Sound",
+        "name": "Sertaç Toksöz",
+        "original_name": "Sertaç Toksöz",
+        "popularity": 0.0491,
+        "profile_path": null,
+        "credit_id": "67c0b97bc029139b0e35b9a0",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5273484,
+        "known_for_department": "Production",
+        "name": "Yunus Emre Can",
+        "original_name": "Yunus Emre Can",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67c0b99cc5de842b4ba25231",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5273486,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Buse Sezer",
+        "original_name": "Buse Sezer",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67c0b9b7c029139b0e35b9bf",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5273488,
+        "known_for_department": "Camera",
+        "name": "Nurmaviş Usta",
+        "original_name": "Nurmaviş Usta",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "67c0b9f0591b238d263586ab",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5273489,
+        "known_for_department": "Camera",
+        "name": "Kadir Saklı",
+        "original_name": "Kadir Saklı",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67c0ba16c5de842b4ba25258",
+        "department": "Camera",
+        "job": "Focus Puller"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5273492,
+        "known_for_department": "Lighting",
+        "name": "Sadık Say",
+        "original_name": "Sadık Say",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67c0ba41c029139b0e35ba12",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5273495,
+        "known_for_department": "Lighting",
+        "name": "Ercan Güngör",
+        "original_name": "Ercan Güngör",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67c0ba668c386c4e5bc8e6f0",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5273497,
+        "known_for_department": "Camera",
+        "name": "Kaan Özatalay",
+        "original_name": "Kaan Özatalay",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67c0ba91c5de842b4ba25290",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2295160,
+        "known_for_department": "Sound",
+        "name": "Mine Pakel",
+        "original_name": "Mine Pakel",
+        "popularity": 0.2071,
+        "profile_path": "/4xl2GNKpiJqEHFeM5MFqtSc3tDy.jpg",
+        "credit_id": "67c0baa2ab2d8b81ccc8d7f7",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5292218,
+        "known_for_department": "Sound",
+        "name": "Eren Güleşce",
+        "original_name": "Eren Güleşce",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67cd53d32bd21c806f10d9de",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2738070,
+        "known_for_department": "Sound",
+        "name": "Sertaç Toksöz",
+        "original_name": "Sertaç Toksöz",
+        "popularity": 0.0491,
+        "profile_path": null,
+        "credit_id": "684de3381c071dcb0d3df826",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 738,
+        "name": "sexuality"
+      },
+      {
+        "id": 4995,
+        "name": "aging"
+      },
+      {
+        "id": 298721,
+        "name": "women"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "The matriarch of a traditional Turkish family tries to stop her eldest daughter’s divorce, only to confront the shifting values within her own home.",
+          "runtime": 15,
+          "tagline": "",
+          "title": "The Queen"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt33058321",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.706,
+        "height": 1242,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/oHBMRtGd3SyJ6NhgRLIfE3xJhgK.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 877
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "16th Baku International Film Festival - Asian Talents Competition ",
+            "release_date": "2025-12-05T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

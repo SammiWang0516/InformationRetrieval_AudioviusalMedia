@@ -1,0 +1,199 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 1000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1533802,
+  "imdb_id": "tt36175463",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Chronobox",
+  "overview": "Sandra Bonheur enters the timeshop to buy some time. She and a Timekeeper are trying to find out available options, and that leads to unexpected fact.",
+  "popularity": 0.7799,
+  "poster_path": "/fQLgfGTMAvPgq9swlqbaksgzCj6.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2025-07-02",
+  "revenue": 0,
+  "runtime": 4,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Maybe the Time is cruel, but it knows how to have fun",
+  "title": "Chronobox",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5633033,
+        "known_for_department": "Acting",
+        "name": "Paule Sydr",
+        "original_name": "Paule Sydr",
+        "popularity": 0.2452,
+        "profile_path": "/h5kOX77jiHtrthaC2jvnAcCY08e.jpg",
+        "cast_id": 1,
+        "character": "Sandra",
+        "credit_id": "68a7cb6e1b2d15d2b2c56dde",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2960726,
+        "known_for_department": "Acting",
+        "name": "Alioune Badiane",
+        "original_name": "Alioune Badiane",
+        "popularity": 0.2582,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Eric",
+        "credit_id": "68a7cb7f104d502fc6c56d97",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5633033,
+        "known_for_department": "Acting",
+        "name": "Paule Sydr",
+        "original_name": "Paule Sydr",
+        "popularity": 0.2452,
+        "profile_path": "/h5kOX77jiHtrthaC2jvnAcCY08e.jpg",
+        "credit_id": "68a8341a5a9b0df47560d960",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5633033,
+        "known_for_department": "Acting",
+        "name": "Paule Sydr",
+        "original_name": "Paule Sydr",
+        "popularity": 0.2452,
+        "profile_path": "/h5kOX77jiHtrthaC2jvnAcCY08e.jpg",
+        "credit_id": "6981ca15ac93d85119e91cac",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5633033,
+        "known_for_department": "Acting",
+        "name": "Paule Sydr",
+        "original_name": "Paule Sydr",
+        "popularity": 0.2452,
+        "profile_path": "/h5kOX77jiHtrthaC2jvnAcCY08e.jpg",
+        "credit_id": "6981ca20580ba0700ae91aa7",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Sandra Bonheur enters the timeshop to buy some time. She and a Timekeeper are trying to find out available options, and that leads to unexpected fact.",
+          "runtime": 4,
+          "tagline": "Maybe the Time is cruel, but it knows how to have fun",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt36175463",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1503,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/fQLgfGTMAvPgq9swlqbaksgzCj6.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1002
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "RO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2025-07-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2025-08-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

@@ -1,0 +1,549 @@
+{
+  "adult": false,
+  "backdrop_path": "/szKIzhIvfQJaIIrAFmA1qTYaWg7.jpg",
+  "belongs_to_collection": null,
+  "budget": 83,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 1451571,
+  "imdb_id": null,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_title": "FELIZ 200!",
+  "overview": "",
+  "popularity": 0.703,
+  "poster_path": "/21BavJt6xfGWrNdt1EObnA31Ji9.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "release_date": "2025-05-25",
+  "revenue": 0,
+  "runtime": 17,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "FELIZ 200!",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5318238,
+        "known_for_department": "Acting",
+        "name": "Flavvio Lima",
+        "original_name": "Flavvio Lima",
+        "popularity": 0.0642,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Ícaro",
+        "credit_id": "67dcb4b31cda1dbb467a5667",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5095836,
+        "known_for_department": "Acting",
+        "name": "Itamê Jr.",
+        "original_name": "Itamê Jr.",
+        "popularity": 0.1761,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Hum-Ra",
+        "credit_id": "67dcb4ce0416875adc696b07",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5318239,
+        "known_for_department": "Acting",
+        "name": "Claudia Rodrigues",
+        "original_name": "Claudia Rodrigues",
+        "popularity": 0.0413,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Joana",
+        "credit_id": "67dcb5091cda1dbb467a568a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3693568,
+        "known_for_department": "Acting",
+        "name": "Jackson Guilherme",
+        "original_name": "Jackson Guilherme",
+        "popularity": 0.1561,
+        "profile_path": "/dHoG9xqJEyBPTuFJrqxU5mrm1iT.jpg",
+        "cast_id": 26,
+        "character": "Homem de Deus",
+        "credit_id": "67e77b31f1f5376875dd9eaf",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5318100,
+        "known_for_department": "Directing",
+        "name": "Pedro H. Cruz",
+        "original_name": "Pedro H. Cruz",
+        "popularity": 0.1796,
+        "profile_path": "/vPEAuv2vsLTwDTxY8XHnkKnWfs9.jpg",
+        "credit_id": "67dc993afcf1d59ae9af2a44",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4966488,
+        "known_for_department": "Editing",
+        "name": "Lethícia Queiroz",
+        "original_name": "Lethícia Queiroz",
+        "popularity": 0.1249,
+        "profile_path": null,
+        "credit_id": "67dc99a1db76d0433cf2cd68",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5318102,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Davi Falbo",
+        "original_name": "Davi Falbo",
+        "popularity": 0.0557,
+        "profile_path": null,
+        "credit_id": "67dc9a3f35089114526ba78d",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5318113,
+        "known_for_department": "Camera",
+        "name": "Ana",
+        "original_name": "Ana",
+        "popularity": 0.0531,
+        "profile_path": "/nfhyMXPNJXw5WRYSMHmIWDXouKJ.jpg",
+        "credit_id": "67dc9adedb76d0433cf2cdf8",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5318116,
+        "known_for_department": "Production",
+        "name": "Maria Eduarda Lino",
+        "original_name": "Maria Eduarda Lino",
+        "popularity": 0.0568,
+        "profile_path": "/sKbY4XMwClKurCqcpAknOxBzJuK.jpg",
+        "credit_id": "67dc9b64c20fb5a418af3257",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5318118,
+        "known_for_department": "Camera",
+        "name": "Andressa Dias",
+        "original_name": "Andressa Dias",
+        "popularity": 0.046,
+        "profile_path": "/uy6bync0eRLEIwGSzkPyHPLL2RR.jpg",
+        "credit_id": "67dc9b91fcf1d59ae9af2b15",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5133459,
+        "known_for_department": "Directing",
+        "name": "Isadora Rabelo",
+        "original_name": "Isadora Rabelo",
+        "popularity": 0.0678,
+        "profile_path": null,
+        "credit_id": "67dc9baa927d39deb3f2d5a1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5133471,
+        "known_for_department": "Production",
+        "name": "Gabrielly Silva",
+        "original_name": "Gabrielly Silva",
+        "popularity": 0.0394,
+        "profile_path": null,
+        "credit_id": "67dc9bd5faba16b5bdf2d0e8",
+        "department": "Production",
+        "job": "Producer's Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4965335,
+        "known_for_department": "Camera",
+        "name": "Abraão Guilherme",
+        "original_name": "Abraão Guilherme",
+        "popularity": 0.082,
+        "profile_path": "/2FpTgnWXJ80sck69UTwejbhCAMx.jpg",
+        "credit_id": "67dc9c1cfcf1d59ae9af2b33",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5318121,
+        "known_for_department": "Camera",
+        "name": "Arthur França",
+        "original_name": "Arthur França",
+        "popularity": 0.0819,
+        "profile_path": "/ifd6Z5MGlss6VDQOOel1PbiCPxJ.jpg",
+        "credit_id": "67dc9c9a927d39deb3f2d5d1",
+        "department": "Art",
+        "job": "Assistant Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4966486,
+        "known_for_department": "Production",
+        "name": "Isadora Gomes",
+        "original_name": "Isadora Gomes",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "67dc9d18db76d0433cf2ce21",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4966497,
+        "known_for_department": "Acting",
+        "name": "Luisa Wanderley",
+        "original_name": "Luisa Wanderley",
+        "popularity": 0.0363,
+        "profile_path": null,
+        "credit_id": "67dc9d47db76d0433cf2ce38",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4972211,
+        "known_for_department": "Acting",
+        "name": "Clara Souza",
+        "original_name": "Clara Souza",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67dc9d81c20fb5a418af32ab",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5318126,
+        "known_for_department": "Sound",
+        "name": "Monnica Vitória",
+        "original_name": "Monnica Vitória",
+        "popularity": 0.1754,
+        "profile_path": "/bkef2fDfs6VvsO7PpZKZXMnWYnG.jpg",
+        "credit_id": "67dc9e62fcf1d59ae9af2bb0",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5133502,
+        "known_for_department": "Camera",
+        "name": "Hadassa Valois",
+        "original_name": "Hadassa Valois",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67dc9e99843a9503366ba72d",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5210708,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ipê Arauja",
+        "original_name": "Ipê Arauja",
+        "popularity": 0.0761,
+        "profile_path": null,
+        "credit_id": "67dc9f24c20fb5a418af3330",
+        "department": "Visual Effects",
+        "job": "Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5318131,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Laís Vitória",
+        "original_name": "Laís Vitória",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "credit_id": "67dc9f6f35089114526ba976",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5318100,
+        "known_for_department": "Directing",
+        "name": "Pedro H. Cruz",
+        "original_name": "Pedro H. Cruz",
+        "popularity": 0.1796,
+        "profile_path": "/vPEAuv2vsLTwDTxY8XHnkKnWfs9.jpg",
+        "credit_id": "67dca0dd143da6410faf277f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4677632,
+        "known_for_department": "Art",
+        "name": "Isabella Alcântara",
+        "original_name": "Isabella Alcântara",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67dcb6484aa966ce8c696bcc",
+        "department": "Art",
+        "job": "Assistant Decorator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4966497,
+        "known_for_department": "Acting",
+        "name": "Luisa Wanderley",
+        "original_name": "Luisa Wanderley",
+        "popularity": 0.0363,
+        "profile_path": null,
+        "credit_id": "681676c4a5522004f5a21252",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5318100,
+        "known_for_department": "Directing",
+        "name": "Pedro H. Cruz",
+        "original_name": "Pedro H. Cruz",
+        "popularity": 0.1796,
+        "profile_path": "/vPEAuv2vsLTwDTxY8XHnkKnWfs9.jpg",
+        "credit_id": "681676ea0355b2e97af481c9",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4966488,
+        "known_for_department": "Editing",
+        "name": "Lethícia Queiroz",
+        "original_name": "Lethícia Queiroz",
+        "popularity": 0.1249,
+        "profile_path": null,
+        "credit_id": "68167700f2baa68a4e908255",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5318100,
+        "known_for_department": "Directing",
+        "name": "Pedro H. Cruz",
+        "original_name": "Pedro H. Cruz",
+        "popularity": 0.1796,
+        "profile_path": "/vPEAuv2vsLTwDTxY8XHnkKnWfs9.jpg",
+        "credit_id": "681677190b11eaaf62f48196",
+        "department": "Editing",
+        "job": "Color Grading"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 3133,
+        "name": "vampire"
+      },
+      {
+        "id": 11800,
+        "name": "mockumentary"
+      },
+      {
+        "id": 263548,
+        "name": "short film"
+      },
+      {
+        "id": 284439,
+        "name": "blood"
+      },
+      {
+        "id": 322268,
+        "name": "comedy"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "BR",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "homepage": "",
+          "overview": "O vampiro Ícaro grava um documentário sobre seu próprio aniversário de 200 anos junto com seu.... ajudante.... Hum-Ra.",
+          "runtime": 17,
+          "tagline": "Aniversário de um Vampiro",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "PT",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "homepage": "",
+          "overview": "O vampiro Ícaro tenta comemorar seu aniversário de 200 anos junto de seu servo mudo, Hum-Ra. Até que alguns imprevistos surgem na noite...",
+          "runtime": 17,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 17,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/szKIzhIvfQJaIIrAFmA1qTYaWg7.jpg",
+        "vote_average": 0.0,
+        "vote_count": 1,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/x0BW3Uz6P4ixlNZ1fGzjtY0C9iA.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.675,
+        "height": 2880,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/xkPknmZ0j8cjnEo8UEJLVULJ3gU.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1944
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "14",
+            "descriptors": [
+              "Inappropriate Language",
+              "Violence"
+            ],
+            "iso_639_1": "pt",
+            "note": "",
+            "release_date": "2025-05-25T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

@@ -1,0 +1,611 @@
+{
+  "adult": false,
+  "backdrop_path": "/8zS85wNA2HhawvxOaHX7ea9GGYV.jpg",
+  "belongs_to_collection": null,
+  "budget": 100,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1517316,
+  "imdb_id": null,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "en",
+  "original_title": "Laia",
+  "overview": "Four unknown characters are summoned to a meeting with a great purpose: to create a flawless script. However, the combination won't be as successful as Laia had imagined.",
+  "popularity": 0.7474,
+  "poster_path": "/teyjnhHPWx0kKGKHkJvFASnRI1l.jpg",
+  "production_companies": [
+    {
+      "id": 212283,
+      "logo_path": "/qk1X8pTVTkbi7dawJXcSzSPcn7k.png",
+      "name": "Limite",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2025-09-14",
+  "revenue": 0,
+  "runtime": 3,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Do you need me?",
+  "title": "Laia",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4346444,
+        "known_for_department": "Camera",
+        "name": "Sonia Ariza",
+        "original_name": "Sonia Ariza",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Laia",
+        "credit_id": "687fde6128a6b89656d9990d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5264685,
+        "known_for_department": "Acting",
+        "name": "Alejandro Nieto",
+        "original_name": "Alejandro Nieto",
+        "popularity": 0.0279,
+        "profile_path": "/cT0g3KomXr4siTJJkYeecLR4Ol5.jpg",
+        "cast_id": 2,
+        "character": "Climax",
+        "credit_id": "687fde7404999af3d452971a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2969957,
+        "known_for_department": "Acting",
+        "name": "Lukas Acuña",
+        "original_name": "Lukas Acuña",
+        "popularity": 0.3733,
+        "profile_path": "/owKT8br8iQwelREkLb47VFck822.jpg",
+        "cast_id": 3,
+        "character": "Plot Twist",
+        "credit_id": "687fde88ff26beb16372d3df",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4800926,
+        "known_for_department": "Acting",
+        "name": "Miguel Torregrosa",
+        "original_name": "Miguel Torregrosa",
+        "popularity": 0.19,
+        "profile_path": "/cSdSTvVZfcnj0pvnuKJWFJBioRV.jpg",
+        "cast_id": 4,
+        "character": "Spoiler",
+        "credit_id": "687fdeadfb5b9c1b3cf770d0",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4346432,
+        "known_for_department": "Directing",
+        "name": "Alejandro Mateos",
+        "original_name": "Alejandro Mateos",
+        "popularity": 0.2269,
+        "profile_path": "/mrSQ1gam4fNkh9DAL5oLPpdyIO.jpg",
+        "cast_id": 5,
+        "character": "Cliffhanger",
+        "credit_id": "687fdef5b1b942dfdc38e204",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5254254,
+        "known_for_department": "Writing",
+        "name": "Luis Perbej",
+        "original_name": "Luis Perbej",
+        "popularity": 0.0525,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Deus Er Máquina",
+        "credit_id": "687fdf0e8b3b81d3712450f6",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4346431,
+        "known_for_department": "Directing",
+        "name": "Elena de Aras",
+        "original_name": "Elena de Aras",
+        "popularity": 0.4197,
+        "profile_path": "/uHjm1g0MQTx1cAKRZRfHyqzLZpI.jpg",
+        "credit_id": "687fdf6ab94e667f8b529822",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4346444,
+        "known_for_department": "Camera",
+        "name": "Sonia Ariza",
+        "original_name": "Sonia Ariza",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "687fdf7b6585bd4edbd998d2",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5254254,
+        "known_for_department": "Writing",
+        "name": "Luis Perbej",
+        "original_name": "Luis Perbej",
+        "popularity": 0.0525,
+        "profile_path": null,
+        "credit_id": "687fdf86f56b89c49b52976f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4352871,
+        "known_for_department": "Directing",
+        "name": "Clara Godoy",
+        "original_name": "Clara Godoy",
+        "popularity": 0.0598,
+        "profile_path": null,
+        "credit_id": "687fdf90c74b327f5a38e35c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4346432,
+        "known_for_department": "Directing",
+        "name": "Alejandro Mateos",
+        "original_name": "Alejandro Mateos",
+        "popularity": 0.2269,
+        "profile_path": "/mrSQ1gam4fNkh9DAL5oLPpdyIO.jpg",
+        "credit_id": "687fdfaf6309222fee72d3e3",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5264685,
+        "known_for_department": "Acting",
+        "name": "Alejandro Nieto",
+        "original_name": "Alejandro Nieto",
+        "popularity": 0.0279,
+        "profile_path": "/cT0g3KomXr4siTJJkYeecLR4Ol5.jpg",
+        "credit_id": "687fdfc4fe85a1d5452450c7",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2969957,
+        "known_for_department": "Acting",
+        "name": "Lukas Acuña",
+        "original_name": "Lukas Acuña",
+        "popularity": 0.3733,
+        "profile_path": "/owKT8br8iQwelREkLb47VFck822.jpg",
+        "credit_id": "687fdfce93d069e3bd72d327",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4346439,
+        "known_for_department": "Art",
+        "name": "Julia Murné",
+        "original_name": "Julia Muñoz",
+        "popularity": 0.1435,
+        "profile_path": null,
+        "credit_id": "687fdfe239849ffe8dd9999c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4346436,
+        "known_for_department": "Camera",
+        "name": "Inés Montero",
+        "original_name": "Inés Montero",
+        "popularity": 0.1036,
+        "profile_path": null,
+        "credit_id": "687fdff8b94e667f8b529844",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4346431,
+        "known_for_department": "Directing",
+        "name": "Elena de Aras",
+        "original_name": "Elena de Aras",
+        "popularity": 0.4197,
+        "profile_path": "/uHjm1g0MQTx1cAKRZRfHyqzLZpI.jpg",
+        "credit_id": "687fe0093f1f6bc2bed997cb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5013813,
+        "known_for_department": "Art",
+        "name": "Aret Gordo",
+        "original_name": "Aret Gordo",
+        "popularity": 0.1854,
+        "profile_path": null,
+        "credit_id": "687fe01f90c737dad716aab2",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4719708,
+        "known_for_department": "Directing",
+        "name": "Carlos Fdez",
+        "original_name": "Carlos Fernandez Mas",
+        "popularity": 0.319,
+        "profile_path": "/2NAseWtTxsvTVthA50SgZVJF7Pd.jpg",
+        "credit_id": "687fe041f56b89c49b529773",
+        "department": "Crew",
+        "job": "Script"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4352871,
+        "known_for_department": "Directing",
+        "name": "Clara Godoy",
+        "original_name": "Clara Godoy",
+        "popularity": 0.0598,
+        "profile_path": null,
+        "credit_id": "687fe05c2e48947adff773be",
+        "department": "Production",
+        "job": "Production Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5013813,
+        "known_for_department": "Art",
+        "name": "Aret Gordo",
+        "original_name": "Aret Gordo",
+        "popularity": 0.1854,
+        "profile_path": null,
+        "credit_id": "687fe07d317a5cfe9cf771e1",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5050759,
+        "known_for_department": "Sound",
+        "name": "Álvaro Cabrera",
+        "original_name": "Álvaro Cabrera",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "687fe0f290d9bd73978a56fc",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5050759,
+        "known_for_department": "Sound",
+        "name": "Álvaro Cabrera",
+        "original_name": "Álvaro Cabrera",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "687fe104daa869ed6516abb2",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4346436,
+        "known_for_department": "Camera",
+        "name": "Inés Montero",
+        "original_name": "Inés Montero",
+        "popularity": 0.1036,
+        "profile_path": null,
+        "credit_id": "687fe128aaded2ad6652966d",
+        "department": "Art",
+        "job": "Assistant Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4346436,
+        "known_for_department": "Camera",
+        "name": "Inés Montero",
+        "original_name": "Inés Montero",
+        "popularity": 0.1036,
+        "profile_path": null,
+        "credit_id": "687fe13fe50e3bcc5516aa6c",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4346439,
+        "known_for_department": "Art",
+        "name": "Julia Murné",
+        "original_name": "Julia Muñoz",
+        "popularity": 0.1435,
+        "profile_path": null,
+        "credit_id": "687fe1544d77a048e438e3b0",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5254254,
+        "known_for_department": "Writing",
+        "name": "Luis Perbej",
+        "original_name": "Luis Perbej",
+        "popularity": 0.0525,
+        "profile_path": null,
+        "credit_id": "687fe1611600dcfb76244e66",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4352871,
+        "known_for_department": "Directing",
+        "name": "Clara Godoy",
+        "original_name": "Clara Godoy",
+        "popularity": 0.0598,
+        "profile_path": null,
+        "credit_id": "687fe18cdf411187b516a9cf",
+        "department": "Sound",
+        "job": "Sound Post Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4346452,
+        "known_for_department": "Sound",
+        "name": "Sara de Anele",
+        "original_name": "Sara de Anele",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "687fe19e7ba2f888ac55d83d",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4346439,
+        "known_for_department": "Art",
+        "name": "Julia Murné",
+        "original_name": "Julia Muñoz",
+        "popularity": 0.1435,
+        "profile_path": null,
+        "credit_id": "687fe1acef3c47ab8b55d7c6",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4352871,
+        "known_for_department": "Directing",
+        "name": "Clara Godoy",
+        "original_name": "Clara Godoy",
+        "popularity": 0.0598,
+        "profile_path": null,
+        "credit_id": "687fe1b86a3804c20e16ab68",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5580338,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Esther Beato",
+        "original_name": "Esther Beato",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "687fe1d1f9fcc95b9ad9989e",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4346431,
+        "known_for_department": "Directing",
+        "name": "Elena de Aras",
+        "original_name": "Elena de Aras",
+        "popularity": 0.4197,
+        "profile_path": "/uHjm1g0MQTx1cAKRZRfHyqzLZpI.jpg",
+        "credit_id": "687fe1e0585597c100f7753f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5050759,
+        "known_for_department": "Sound",
+        "name": "Álvaro Cabrera",
+        "original_name": "Álvaro Cabrera",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "687fe1f18beea02e6e8a51f6",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4346439,
+        "known_for_department": "Art",
+        "name": "Julia Murné",
+        "original_name": "Julia Muñoz",
+        "popularity": 0.1435,
+        "profile_path": null,
+        "credit_id": "687fe20023e3f6d09038e221",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4352843,
+        "known_for_department": "Acting",
+        "name": "Santiago Tabares",
+        "original_name": "Santi Vélez",
+        "popularity": 0.2191,
+        "profile_path": null,
+        "credit_id": "687fe21f096e0ed3fb72d463",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4352914,
+        "known_for_department": "Camera",
+        "name": "María Santos",
+        "original_name": "María Santos",
+        "popularity": 0.1805,
+        "profile_path": null,
+        "credit_id": "687fe2322f591ad8d18a55c6",
+        "department": "Crew",
+        "job": "Translator"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Four unknown characters are summoned to a meeting with a great purpose: to create a flawless script. However, the combination won't be as successful as Laia had imagined.",
+          "runtime": 3,
+          "tagline": "Do you need me?",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/8zS85wNA2HhawvxOaHX7ea9GGYV.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 3840
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/teyjnhHPWx0kKGKHkJvFASnRI1l.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "",
+            "release_date": "2025-09-14T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

@@ -1,0 +1,816 @@
+{
+  "adult": false,
+  "backdrop_path": "/kAyNuFjRk1B7HyYwRTPWeDKAc1v.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 1320330,
+  "imdb_id": "tt21154574",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Year 10",
+  "overview": "After the fall of civilization, the few survivors have been driven to cannibalism. A young man must confront a violent tribe that has murdered his father and stolen the medicine that keeps his girlfriend alive.",
+  "popularity": 1.8159,
+  "poster_path": "/zqeFM6cjHjYmgjqJExjt1NPBPdd.jpg",
+  "production_companies": [
+    {
+      "id": 72316,
+      "logo_path": "/zTQKQiYxM8z8UXg0FdeDjeemqFx.png",
+      "name": "BK Studios",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2024-08-24",
+  "revenue": 0,
+  "runtime": 96,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Survival is deadly.",
+  "title": "Year 10",
+  "video": false,
+  "vote_average": 6.152,
+  "vote_count": 138,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5038603,
+        "known_for_department": "Acting",
+        "name": "Toby Goodger",
+        "original_name": "Toby Goodger",
+        "popularity": 0.2554,
+        "profile_path": "/jIboi1uXeK1C41BTRZb1yEGOhDc.jpg",
+        "cast_id": 7,
+        "character": "Jake",
+        "credit_id": "67277cb3e86453169bc37318",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1317739,
+        "known_for_department": "Acting",
+        "name": "Duncan Lacroix",
+        "original_name": "Duncan Lacroix",
+        "popularity": 0.6261,
+        "profile_path": "/5Ic9o2pMorNiD4HWvQ8rp5qY7h5.jpg",
+        "cast_id": 10,
+        "character": "Father",
+        "credit_id": "67277cc9761979f005e2a756",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3412837,
+        "known_for_department": "Acting",
+        "name": "Hannah Khalique-Brown",
+        "original_name": "Hannah Khalique-Brown",
+        "popularity": 0.765,
+        "profile_path": "/fBxo4bVDNrCe7VqAR3kM1s7UMYj.jpg",
+        "cast_id": 9,
+        "character": "Girl",
+        "credit_id": "67277cc3555e3efc89c31a83",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2395755,
+        "known_for_department": "Acting",
+        "name": "Alexander Anderson",
+        "original_name": "Alexander Anderson",
+        "popularity": 0.0879,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Charger",
+        "credit_id": "67277c88555e3efc89c31a4c",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3496175,
+        "known_for_department": "Visual Effects",
+        "name": "Emma Cole",
+        "original_name": "Emma Cole",
+        "popularity": 0.1745,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Lover",
+        "credit_id": "67277c90555e3efc89c31a54",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5038599,
+        "known_for_department": "Acting",
+        "name": "Joseph Coleman",
+        "original_name": "Joseph Coleman",
+        "popularity": 0.0722,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Boy",
+        "credit_id": "67277c989e0877d1d8af9825",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3039554,
+        "known_for_department": "Acting",
+        "name": "Tom Gaskin",
+        "original_name": "Tom Gaskin",
+        "popularity": 0.1026,
+        "profile_path": "/3zDfdQpn6EqsusGTS67roryk2Pk.jpg",
+        "cast_id": 5,
+        "character": "Straggler",
+        "credit_id": "67277ca1761979f005e2a72f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5038602,
+        "known_for_department": "Acting",
+        "name": "King Gayle",
+        "original_name": "King Gayle",
+        "popularity": 0.1586,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Lieutenant",
+        "credit_id": "67277caac090109580f9d859",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5038604,
+        "known_for_department": "Acting",
+        "name": "Ellis Jones",
+        "original_name": "Ellis Jones",
+        "popularity": 0.0825,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Old Man",
+        "credit_id": "67277cbc555e3efc89c31a78",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5038608,
+        "known_for_department": "Acting",
+        "name": "Jessica Zerlina Leafe",
+        "original_name": "Jessica Zerlina Leafe",
+        "popularity": 0.0358,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Huntress",
+        "credit_id": "67277cd15918137cfc39934b",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5038611,
+        "known_for_department": "Acting",
+        "name": "Luke Massy",
+        "original_name": "Luke Massy",
+        "popularity": 0.0438,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Leader",
+        "credit_id": "67277ce3e86453169bc37368",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2446710,
+        "known_for_department": "Directing",
+        "name": "Ben Goodger",
+        "original_name": "Ben Goodger",
+        "popularity": 0.0883,
+        "profile_path": null,
+        "credit_id": "6752dc2084ca928d00ca087c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2446710,
+        "known_for_department": "Directing",
+        "name": "Ben Goodger",
+        "original_name": "Ben Goodger",
+        "popularity": 0.0883,
+        "profile_path": null,
+        "credit_id": "6752dc37516edeab299938fd",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1234384,
+        "known_for_department": "Production",
+        "name": "Bill Kenwright",
+        "original_name": "Bill Kenwright",
+        "popularity": 0.1259,
+        "profile_path": null,
+        "credit_id": "6752dc41516edeab2999390e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1531696,
+        "known_for_department": "Production",
+        "name": "David Gilbery",
+        "original_name": "David Gilbery",
+        "popularity": 0.2211,
+        "profile_path": null,
+        "credit_id": "6752dc49ab6cc3a4c8fc8694",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1828925,
+        "known_for_department": "Production",
+        "name": "Naomi George",
+        "original_name": "Naomi George",
+        "popularity": 0.0446,
+        "profile_path": null,
+        "credit_id": "6752dc524624397fa811790c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1452227,
+        "known_for_department": "Camera",
+        "name": "Charlie Goodger",
+        "original_name": "Charlie Goodger",
+        "popularity": 0.0986,
+        "profile_path": null,
+        "credit_id": "6a7e2284795f695b6cb08713",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2446710,
+        "known_for_department": "Directing",
+        "name": "Ben Goodger",
+        "original_name": "Ben Goodger",
+        "popularity": 0.0883,
+        "profile_path": null,
+        "credit_id": "6a7e228c24cd632e012d274e",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 4458,
+        "name": "post-apocalyptic future"
+      },
+      {
+        "id": 14895,
+        "name": "cannibal"
+      },
+      {
+        "id": 50009,
+        "name": "survival horror"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "After the fall of civilization, the few survivors have been driven to cannibalism. A young man must confront a violent tribe that has murdered his father and stolen the medicine that keeps his girlfriend alive.",
+          "runtime": 96,
+          "tagline": "Survival is deadly.",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "KR",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말",
+        "english_name": "Korean",
+        "data": {
+          "homepage": "",
+          "overview": "인류가 스스로 자멸하며 문명이 무너진 지 10년이 지난 지금, 얼마 남지 않은 인류의 생존자들은 집단을 이루며 영역다툼을 하고 다른 집단의 인간들을 사냥하여 생명을 연명하고 있다. 어느날 식인부족의 습격으로 가족을 잃고 친구와 간신히 살아남은 제이크는 그녀를 살리기 위한 약을 되찾아야 한다. 살아남기 위해 악랄한 들개 무리, 식인 무리들과 홀로 처절한 대결을 벌여야 한다",
+          "runtime": 0,
+          "tagline": "",
+          "title": "더 로드: 이어 10"
+        }
+      },
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "Dans un monde dystopique où l'environnement est devenu dangereux et où le cannibalisme est la seule issue pour les humains de rester en vie. Lorsqu'une tribu violente assassine son père et vole les médicaments qui permettent à sa petite amie de survivre, Jake s'embarque dans un voyage périlleux afin de lui venir en aide.",
+          "runtime": 96,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "RU",
+        "iso_639_1": "ru",
+        "name": "Pусский",
+        "english_name": "Russian",
+        "data": {
+          "homepage": "",
+          "overview": "После падения цивилизации выжившие борются за существование самыми бесчеловечными методами. Молодой парень вынужден вступить в одинокую битву против всего мира, чтобы спасти свою умирающую девушку.",
+          "runtime": 96,
+          "tagline": "",
+          "title": "Год 10"
+        }
+      },
+      {
+        "iso_3166_1": "CZ",
+        "iso_639_1": "cs",
+        "name": "Český",
+        "english_name": "Czech",
+        "data": {
+          "homepage": "",
+          "overview": "Po pádu civilizace se několik přeživších lidí uchýlilo ke kanibalismu. Mladý muž se musí postavit násilnickému kmeni, který zavraždil jeho otce a ukradl lék, který udržuje jeho přítelkyni při životě.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "PL",
+        "iso_639_1": "pl",
+        "name": "Polski",
+        "english_name": "Polish",
+        "data": {
+          "homepage": "",
+          "overview": "Po upadku cywilizacji nieliczni ocalańcy zostali zmuszeni do kanibalizmu. Młody mężczyzna musi stawić czoła brutalnemu plemieniu, które zamordowało jego ojca i ukradło lekarstwo, które ratuje życie jego dziewczyny.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "IT",
+        "iso_639_1": "it",
+        "name": "Italiano",
+        "english_name": "Italian",
+        "data": {
+          "homepage": "",
+          "overview": "Dopo la caduta della civiltà, i pochi sopravvissuti sono stati spinti al cannibalismo. Un giovane deve affrontare una tribù violenta che ha ucciso suo padre e rubato la medicina che mantiene in vita la sua ragazza.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Year 10 - Sopravvivenza letale"
+        }
+      },
+      {
+        "iso_3166_1": "NL",
+        "iso_639_1": "nl",
+        "name": "Nederlands",
+        "english_name": "Dutch",
+        "data": {
+          "homepage": "",
+          "overview": "Na de val van de beschaving zijn de weinige overlevenden tot kannibalisme gedreven. Een jonge man moet het opnemen tegen een gewelddadige stam die zijn vader heeft vermoord en het medicijn heeft gestolen dat zijn vriendin in leven houdt.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "TH",
+        "iso_639_1": "th",
+        "name": "ภาษาไทย",
+        "english_name": "Thai",
+        "data": {
+          "homepage": "",
+          "overview": "หลังจากเหตุการณ์ร้ายแรงที่ทำลายอารยธรรม ชายหนุ่มคนหนึ่งต้องเผชิญหน้ากับกลุ่มคนกินเนื้อคนที่ฆ่าพ่อของเขาและขโมยยาที่ทำให้แฟนสาวของเขามีชีวิตอยู่",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "",
+          "overview": "Nach dem Zusammenbruch der Zivilisation sind die wenigen Überlebenden in ihrer Verzweiflung zu Kannibalen geworden. Ein junger Mann muss in Year 10 gegen einen brutalen Kannibalenstamm antreten, der seinen Vater umgebracht hat und die Medizin gestohlen hat, die für Freundin überlebenswichtig ist.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Year 10 - Die Jagd beginnt"
+        }
+      },
+      {
+        "iso_3166_1": "BR",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "homepage": "",
+          "overview": "Após um evento catastrófico acabar com a civilização humana, um jovem precisa enfrentar um grupo de canibais que mataram seu pai e roubaram o medicamento que mantém sua namorada viva.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Ano 10"
+        }
+      },
+      {
+        "iso_3166_1": "MX",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Tras la caída de la civilización, los pocos supervivientes se han visto abocados al canibalismo. Un joven debe enfrentarse a una tribu violenta que ha asesinado a su padre y robado la medicina que mantiene con vida a su novia.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Año 10"
+        }
+      },
+      {
+        "iso_3166_1": "CN",
+        "iso_639_1": "zh",
+        "name": "普通话",
+        "english_name": "Mandarin",
+        "data": {
+          "homepage": "",
+          "overview": "文明崩塌十年后，对于所剩无几的人类幸存者来说，食人成了唯一的出路。当一个残暴的部落杀害了他的父亲，并夺走了维持他爱人生命的药物后，我们的主人公必须踏上一段危机四伏的旅程，与恶劣的自然环境、凶猛的野狗群以及食人部落搏斗，否则他将失去他仅存的一切。",
+          "runtime": 96,
+          "tagline": "",
+          "title": "十年崩塌"
+        }
+      },
+      {
+        "iso_3166_1": "SI",
+        "iso_639_1": "sl",
+        "name": "Slovenščina",
+        "english_name": "Slovenian",
+        "data": {
+          "homepage": "",
+          "overview": "Po propadu civilizacije so bili redki preživeli prisiljeni v kanibalizem. Mladenič se mora soočiti z nasilnim plemenom, ki je umorilo njegovega očeta in ukradlo zdravilo, ki njegovo dekle ohranja pri življenju.",
+          "runtime": 0,
+          "tagline": "Preživetje je smrtonosno.",
+          "title": "Leto 10"
+        }
+      },
+      {
+        "iso_3166_1": "SA",
+        "iso_639_1": "ar",
+        "name": "العربية",
+        "english_name": "Arabic",
+        "data": {
+          "homepage": "",
+          "overview": "بعد كارثة مدمرة قضت على الحضارة، يواجه شاب مجموعة من آكلي لحوم البشر بعدما قتلوا والده وسرقوا الدواء الذي يُبقي حبيبته على قيد الحياة",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt21154574",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/kAyNuFjRk1B7HyYwRTPWeDKAc1v.jpg",
+        "vote_average": 3.334,
+        "vote_count": 2,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/gKpZw7Llic5L93tUjJe0do4uk2N.jpg",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/k8tftqakf8RjuWj5AyWW0Q04fea.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/bpR8VMVuy5q82CV7MoAn5QnzFF6.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/v8dKBqIONRvHiSYmUvqTdJxL303.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/96vY2q5H3ilO1w6cKcz0BGmSG61.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/cPP7cAbDBGChRYchuxc7kAh7th.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      }
+    ],
+    "logos": [
+      {
+        "aspect_ratio": 6.653,
+        "height": 118,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/b3Yfpv2lfE7Az1I7EDg4ojZjIPb.png",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 785
+      }
+    ],
+    "posters": [
+      {
+        "aspect_ratio": 0.666,
+        "height": 1763,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/zqeFM6cjHjYmgjqJExjt1NPBPdd.jpg",
+        "vote_average": 3.334,
+        "vote_count": 2,
+        "width": 1175
+      },
+      {
+        "aspect_ratio": 0.675,
+        "height": 800,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/vSdwkn4yVpZspACYe7qyKD7KgHa.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 540
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/syXopRonnAuF50zx6ttKqOoFDOF.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/gnVFwuYieLCX9VwessnjKi53KA1.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/tw9xOCencgf7qGVb3vweFiZhDIj.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/brBWQx9rhNtFF5FSBXsoywK1sKU.jpg",
+        "vote_average": 0.0,
+        "vote_count": 1,
+        "width": 1200
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1440,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/1tBXNl1HXy9A2u8Y5hsh7K24pFM.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 960
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/kBPhIBkKUbQBAAiO12VUUWOHEOB.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "14",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-10-02T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Frightfest",
+            "release_date": "2024-08-24T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-08-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "it",
+            "note": "Trieste Science+Fiction Festival",
+            "release_date": "2024-11-02T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "it",
+            "note": "",
+            "release_date": "2025-01-17T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "19",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-07-22T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "18+",
+            "descriptors": [],
+            "iso_639_1": "ru",
+            "note": "",
+            "release_date": "2024-11-30T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2024-12-06T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "ZZrity3cFQE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "67e9d4864f741c75bbc6b64a",
+        "published_at": "2024-11-04T19:24:03.000Z"
+      }
+    ]
+  }
+}

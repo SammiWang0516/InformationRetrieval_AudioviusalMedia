@@ -1,0 +1,567 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1697707,
+  "imdb_id": "tt34696760",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "La Marquise",
+  "overview": "",
+  "popularity": 1.3363,
+  "poster_path": "/88vNxZCTgULdIidShKdJmVnQe1B.jpg",
+  "production_companies": [
+    {
+      "id": 290916,
+      "logo_path": null,
+      "name": "Andromaque",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2024-10-14",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "La Marquise",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3856342,
+        "known_for_department": "Acting",
+        "name": "François Le Bris",
+        "original_name": "François Le Bris",
+        "popularity": 0.1716,
+        "profile_path": "/udQufuhXP9ioNw2rUW1MEtIi37n.jpg",
+        "cast_id": 1,
+        "character": "Albert",
+        "credit_id": "6a0af6a92bceae5a485fbc70",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1106931,
+        "known_for_department": "Acting",
+        "name": "Olga Milshtein",
+        "original_name": "Olga Milshtein",
+        "popularity": 0.2616,
+        "profile_path": "/hi0c69o54UEHPIl699epesIFFIw.jpg",
+        "cast_id": 2,
+        "character": "Elena",
+        "credit_id": "6a0af719155f2be892a15c04",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1919840,
+        "known_for_department": "Acting",
+        "name": "Jules Porier",
+        "original_name": "Jules Porier",
+        "popularity": 0.3387,
+        "profile_path": "/v6gifSlr6qMH5RLXypdk3op6K40.jpg",
+        "cast_id": 3,
+        "character": "Enzo",
+        "credit_id": "6a0af7316605c294414e63c3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5011078,
+        "known_for_department": "Acting",
+        "name": "Marguerite Dedeyan",
+        "original_name": "Marguerite Dedeyan",
+        "popularity": 0.1904,
+        "profile_path": "/u3HTzif0F6yQvX5egLAnJKHrPUE.jpg",
+        "cast_id": 4,
+        "character": "Charlotte",
+        "credit_id": "6a0af75da2d79d2bf9a15c94",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6222215,
+        "known_for_department": "Acting",
+        "name": "Adam Hafsia",
+        "original_name": "Adam Hafsia",
+        "popularity": 0.3689,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Max",
+        "credit_id": "6a0af79483ad35fa0f096183",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3856353,
+        "known_for_department": "Directing",
+        "name": "Armand Foëx",
+        "original_name": "Armand Foëx",
+        "popularity": 0.3203,
+        "profile_path": "/tw6QWBdokC5uKhS2rlsqfock68E.jpg",
+        "credit_id": "6a0af7ba6605c294414e63cc",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3856347,
+        "known_for_department": "Acting",
+        "name": "Clément Devilliers",
+        "original_name": "Clément Devilliers",
+        "popularity": 0.4146,
+        "profile_path": "/wYTpLQSXPbWEDIQ8VIb4F5Rw6yV.jpg",
+        "credit_id": "6a0af7d8fd9ee6dac3259c9a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3856347,
+        "known_for_department": "Acting",
+        "name": "Clément Devilliers",
+        "original_name": "Clément Devilliers",
+        "popularity": 0.4146,
+        "profile_path": "/wYTpLQSXPbWEDIQ8VIb4F5Rw6yV.jpg",
+        "credit_id": "6a0af802fb5c2c8996259d33",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3856342,
+        "known_for_department": "Acting",
+        "name": "François Le Bris",
+        "original_name": "François Le Bris",
+        "popularity": 0.1716,
+        "profile_path": "/udQufuhXP9ioNw2rUW1MEtIi37n.jpg",
+        "credit_id": "6a0af81191d3b0dab5d7fc50",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3856354,
+        "known_for_department": "Directing",
+        "name": "Ethan Renault",
+        "original_name": "Ethan Renault",
+        "popularity": 0.1301,
+        "profile_path": null,
+        "credit_id": "6a0af83ea086d27f16024c1a",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6222226,
+        "known_for_department": "Crew",
+        "name": "Loévenn Gautier",
+        "original_name": "Loévenn Gautier",
+        "popularity": 0.0635,
+        "profile_path": null,
+        "credit_id": "6a0af869b578ff67e647783e",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4252355,
+        "known_for_department": "Camera",
+        "name": "Arsène Laslandes",
+        "original_name": "Arsène Laslandes",
+        "popularity": 0.0707,
+        "profile_path": null,
+        "credit_id": "6a0af88cbcfdd72e004e639c",
+        "department": "Camera",
+        "job": "First Assistant \"A\" Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5025256,
+        "known_for_department": "Camera",
+        "name": "Basile Berthou",
+        "original_name": "Basile Berthou",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "6a0af8a8ea9370c42ad7fc4d",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4252359,
+        "known_for_department": "Lighting",
+        "name": "Mathis Nahon",
+        "original_name": "Mathis Nahon",
+        "popularity": 0.0781,
+        "profile_path": null,
+        "credit_id": "6a0af8c4b9341c701743b866",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4252353,
+        "known_for_department": "Production",
+        "name": "Damien Laubier",
+        "original_name": "DAMIEN LAUBIER",
+        "popularity": 0.2056,
+        "profile_path": null,
+        "credit_id": "6a0af92da0a5d685f75fbd21",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5761321,
+        "known_for_department": "Lighting",
+        "name": "Florette Mariot-Bély",
+        "original_name": "Florette Mariot-Bély",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "6a0af95c6605c294414e63ff",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6222236,
+        "known_for_department": "Lighting",
+        "name": "Colin Roy",
+        "original_name": "Colin Roy",
+        "popularity": 0.062,
+        "profile_path": null,
+        "credit_id": "6a0af9886605c294414e640a",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4252377,
+        "known_for_department": "Art",
+        "name": "CATHERINE NGUYEN",
+        "original_name": "CATHERINE NGUYEN",
+        "popularity": 0.2523,
+        "profile_path": null,
+        "credit_id": "6a0af9b27531f085e30960f0",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3856356,
+        "known_for_department": "Directing",
+        "name": "Coline Migevant",
+        "original_name": "Coline Migevant",
+        "popularity": 0.1464,
+        "profile_path": null,
+        "credit_id": "6a0af9cae61eb1a4c35fbbfe",
+        "department": "Crew",
+        "job": "Machinist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4252353,
+        "known_for_department": "Production",
+        "name": "Damien Laubier",
+        "original_name": "DAMIEN LAUBIER",
+        "popularity": 0.2056,
+        "profile_path": null,
+        "credit_id": "6a0af9dfeb90b07de10961aa",
+        "department": "Crew",
+        "job": "Machinist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3856374,
+        "known_for_department": "Sound",
+        "name": "Zac Mouillon",
+        "original_name": "Zac Mouillon",
+        "popularity": 0.0553,
+        "profile_path": null,
+        "credit_id": "6a0af9f59d2d14a959a15baa",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6222237,
+        "known_for_department": "Sound",
+        "name": "Thomas Meunier",
+        "original_name": "Thomas Meunier",
+        "popularity": 0.0422,
+        "profile_path": null,
+        "credit_id": "6a0afa24a086d27f16024c50",
+        "department": "Sound",
+        "job": "Assistant Sound Engineer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6222238,
+        "known_for_department": "Sound",
+        "name": "Anton De Martino",
+        "original_name": "Anton De Martino",
+        "popularity": 0.0729,
+        "profile_path": null,
+        "credit_id": "6a0afa4119c817864f4e6338",
+        "department": "Sound",
+        "job": "Assistant Sound Engineer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3856356,
+        "known_for_department": "Directing",
+        "name": "Coline Migevant",
+        "original_name": "Coline Migevant",
+        "popularity": 0.1464,
+        "profile_path": null,
+        "credit_id": "6a0afa59b0917f4063096186",
+        "department": "Art",
+        "job": "Decorator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4478074,
+        "known_for_department": "Crew",
+        "name": "Eddy Couteau",
+        "original_name": "Eddy Couteau",
+        "popularity": 0.061,
+        "profile_path": null,
+        "credit_id": "6a0afa6a6673cd4154259db9",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6222236,
+        "known_for_department": "Lighting",
+        "name": "Colin Roy",
+        "original_name": "Colin Roy",
+        "popularity": 0.062,
+        "profile_path": null,
+        "credit_id": "6a0afa86eb90b07de10961bb",
+        "department": "Production",
+        "job": "Production Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4252347,
+        "known_for_department": "Crew",
+        "name": "ALICE ROUSSET",
+        "original_name": "ALICE ROUSSET",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "credit_id": "6a0afaadcba7d553e243b782",
+        "department": "Crew",
+        "job": "Manager of Operations"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3613314,
+        "known_for_department": "Directing",
+        "name": "Lou Anselme",
+        "original_name": "Lou Anselme",
+        "popularity": 0.0689,
+        "profile_path": null,
+        "credit_id": "6a0afac4eb90b07de10961c1",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3856353,
+        "known_for_department": "Directing",
+        "name": "Armand Foëx",
+        "original_name": "Armand Foëx",
+        "popularity": 0.3203,
+        "profile_path": "/tw6QWBdokC5uKhS2rlsqfock68E.jpg",
+        "credit_id": "6a0afad7b578ff67e6477863",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3856374,
+        "known_for_department": "Sound",
+        "name": "Zac Mouillon",
+        "original_name": "Zac Mouillon",
+        "popularity": 0.0553,
+        "profile_path": null,
+        "credit_id": "6a0afae40907190086024c93",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3856374,
+        "known_for_department": "Sound",
+        "name": "Zac Mouillon",
+        "original_name": "Zac Mouillon",
+        "popularity": 0.0553,
+        "profile_path": null,
+        "credit_id": "6a0afaf5a6b3f7e2d3a15cac",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6222226,
+        "known_for_department": "Crew",
+        "name": "Loévenn Gautier",
+        "original_name": "Loévenn Gautier",
+        "popularity": 0.0635,
+        "profile_path": null,
+        "credit_id": "6a0afb0656db75ba1ca15c22",
+        "department": "Editing",
+        "job": "Color Grading"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3856363,
+        "known_for_department": "Lighting",
+        "name": "Paul Nando",
+        "original_name": "Paul Nando",
+        "popularity": 0.1809,
+        "profile_path": null,
+        "credit_id": "6a0afb18a2d79d2bf9a15cbe",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3856374,
+        "known_for_department": "Sound",
+        "name": "Zac Mouillon",
+        "original_name": "Zac Mouillon",
+        "popularity": 0.0553,
+        "profile_path": null,
+        "credit_id": "6a0afb281a331640d143b726",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "Charlotte, une jeune prof de théâtre, fait passer des impros à son groupe pour statuer sur la distribution de son film. Entre Albert et Elena , tous les coups sont permis pour avoir le premier rôle. Jusqu’à ce qu’Elena apprenne que le film n’est pas si bon que ça…",
+          "runtime": 14,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt34696760",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/88vNxZCTgULdIidShKdJmVnQe1B.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2024-10-14T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}
