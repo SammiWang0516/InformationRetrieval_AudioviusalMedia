@@ -19,20 +19,49 @@ The target count refers to movies that pass these conditions, not the number of 
 ## Collection Pipeline
 
 ```mermaid
-flowchart TD
-    A["Load TMDB credential"] --> B["Search one release year"]
-    B --> C["Sort candidates by popularity"]
-    C --> D["Save the discovery response"]
-    D --> E["Request complete metadata for each candidate"]
-    E --> F["Save the raw detail response"]
-    F --> G{"English metadata and complete zh-CN or zh-TW translation?"}
-    G -->|"Yes"| H["Add the movie to accepted_movies.json"]
-    G -->|"No"| I["Record the rejection reason"]
-    H --> J["Prepare English retrieval documents"]
-    J --> K["Build and evaluate retrieval systems"]
+flowchart TB
+    subgraph COLLECTION["Movie collection and document preparation"]
+        direction LR
+        A["TMDB credential"] --> B["Search each year<br/>by popularity"]
+        B --> C["Fetch and save<br/>raw metadata"]
+        C --> D{"English and<br/>zh-CN or zh-TW?"}
+        D -->|"Accepted"| E["accepted_movies.json"]
+        E --> F["Prepare English<br/>retrieval documents"]
+    end
+
+    subgraph EVALUATION["Query preparation and baseline evaluation"]
+        direction LR
+        G["Create Chinese queries<br/>and relevance labels"] --> H["Random and BM25<br/>baselines"]
+        H --> I["MRR and Recall@10<br/>preliminary results"]
+        I --> J["Checkpoint 1<br/>November 9, 2026"]
+    end
+
+    F --> G
+
+    classDef completed fill:#d9ead3,stroke:#38761d,stroke-width:2px,color:#000000;
+    classDef checkpoint fill:#fff2cc,stroke:#bf9000,stroke-width:2px,color:#000000;
+    class A,B,C,D,E,F completed;
+    class J checkpoint;
 ```
 
+The green block shows the pipeline components that have been implemented and tested. The full 5,000-movie collection is still running. The checkpoint requires a cleaned collection, working baselines, and preliminary results; the query and evaluation block remains to be completed.
+
 Raw candidate metadata is retained even when a movie does not pass the bilingual filter. This allows the collection process to be audited and resumed without requesting the same details again.
+
+## Data Preprocessing
+
+The TMDB detail responses are source data rather than retrieval documents. They contain nested credits, translations, image records, release information, and other fields that should not all be placed in the search index. Preprocessing converts each accepted raw response into one consistent document while leaving the original JSON unchanged.
+
+The preprocessing script performs the following steps:
+
+1. Read the IDs and raw-file locations from `accepted_movies.json`.
+2. Validate the raw JSON and confirm that its TMDB ID matches the manifest.
+3. Extract the English title, overview, genres, keywords, top cast, directors, writers, release year, and media type.
+4. Preserve Chinese translations and display fields such as poster and backdrop paths.
+5. Combine only the selected English fields into `retrieval_text` for BM25.
+6. Write processed documents, collection statistics, and any exclusion reasons.
+
+Chinese translations are stored for query preparation and a future interface, but they are not added to `retrieval_text`. This keeps the retrieval task Chinese query to English document.
 
 ## Setup
 
@@ -78,24 +107,45 @@ project_proposal/
 ├── .gitignore
 ├── requirements.txt
 ├── collect_tmdb_movies.py
+├── prepare_tmdb_documents.py
 ├── test_tmdb_api.py
 └── data/
     ├── raw/                         # Original newest-to-oldest pilot collection
-    └── bilingual_movies/
-        ├── accepted_movies.json     # IDs and basic information for accepted movies
-        ├── collection_summary.json  # Counts, settings, failures, and rejection reasons
-        └── raw/
-            ├── discover/
-            │   └── movie/
-            │       ├── year_2026/
-            │       └── year_2025/
-            └── details/
-                └── movie/
-                    ├── 123.json
-                    └── 456.json
+    ├── bilingual_movies/
+    │   ├── accepted_movies.json     # IDs and basic information for accepted movies
+    │   ├── collection_summary.json  # Counts, settings, failures, and rejection reasons
+    │   └── raw/
+    │       ├── discover/
+    │       │   └── movie/
+    │       │       ├── year_2026/
+    │       │       └── year_2025/
+    │       └── details/
+    │           └── movie/
+    │               ├── 123.json
+    │               └── 456.json
+    └── processed/
+        ├── documents.jsonl
+        ├── collection_statistics.json
+        └── excluded_documents.jsonl
 ```
 
 `accepted_movies.json` is an index of qualifying records. The complete metadata remains under `raw/details/movie/`. Image paths and video references are stored as metadata, but the associated media files are not downloaded during this stage.
+
+## Running Preprocessing
+
+After the collection finishes, convert the accepted raw records into normalized documents:
+
+```powershell
+python prepare_tmdb_documents.py
+```
+
+For a small test, process only the first five accepted movies:
+
+```powershell
+python prepare_tmdb_documents.py --limit 5
+```
+
+`documents.jsonl` contains one processed movie per line. The English `retrieval_text` field is intended for the first BM25 index. Chinese translations, poster paths, ratings, and provenance fields remain available for query preparation and interface development but are not included in the retrieval text.
 
 ## Planned Extension
 
