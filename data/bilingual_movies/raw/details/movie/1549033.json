@@ -1,0 +1,570 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1549033,
+  "imdb_id": null,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Don Juicy",
+  "overview": "Jorge and his son Emil were supposed to be guests at his boss's birthday party, but when they unexpectedly have to fill in as waiters, they are dragged into their host's juicy scheme. Now Emil fights the role of the mascot, while Jorge senses an opportunity for career advancement. A story about sweat, (post-)migrant experiences, family and guacamole. ¡Ay Caramba!",
+  "popularity": 1.1316,
+  "poster_path": "/xj0okmaAHcwrdxgulDFyZOsRYLy.jpg",
+  "production_companies": [
+    {
+      "id": 665,
+      "logo_path": "/bUomMJoEX2W7XpgvNeWswCFKzrW.png",
+      "name": "Hochschule für Fernsehen und Film München",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2025-06-12",
+  "revenue": 0,
+  "runtime": 18,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Don Juicy",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3125734,
+        "known_for_department": "Acting",
+        "name": "Leonard Dick",
+        "original_name": "Leonard Dick",
+        "popularity": 0.1092,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Emil",
+        "credit_id": "68cd95274ff8731467cd6cae",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5699017,
+        "known_for_department": "Acting",
+        "name": "Miguel Torres",
+        "original_name": "Miguel Torres",
+        "popularity": 0.0949,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Jorge",
+        "credit_id": "68cd95e72c2637d317ceb875",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44342,
+        "known_for_department": "Acting",
+        "name": "Florian Jahr",
+        "original_name": "Florian Jahr",
+        "popularity": 0.5771,
+        "profile_path": "/tengUImBAa3V6w9y5om6dP8qXpE.jpg",
+        "cast_id": 3,
+        "character": "Christian",
+        "credit_id": "68cd966f67b7b3c0cd748e76",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5738623,
+        "known_for_department": "Acting",
+        "name": "Arina Toni",
+        "original_name": "Arina Toni",
+        "popularity": 0.2047,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "The one who loves the poncho",
+        "credit_id": "68e6b06815ce5a7ab1d84aec",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5299514,
+        "known_for_department": "Acting",
+        "name": "Cornelius Kiene",
+        "original_name": "Cornelius Kiene",
+        "popularity": 0.1099,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "The one who was in Guatemala",
+        "credit_id": "68e6b078555fbeab245f5e77",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3768199,
+        "known_for_department": "Directing",
+        "name": "Justina Jürgensen",
+        "original_name": "Justina Jürgensen",
+        "popularity": 0.3199,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "The one who ''knows Spanish''",
+        "credit_id": "68e6b08c6ba748b62473d5e3",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1513658,
+        "known_for_department": "Acting",
+        "name": "Rouven Blessing",
+        "original_name": "Rouven Blessing",
+        "popularity": 0.5152,
+        "profile_path": "/yRjeTNHck8PS9AN4xc5gSn0nbvY.jpg",
+        "cast_id": 29,
+        "character": "The one who wants a beer",
+        "credit_id": "68e6b09bab23f18ccb73d60b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5738629,
+        "known_for_department": "Acting",
+        "name": "Alexandra Hacker",
+        "original_name": "Alexandra Hacker",
+        "popularity": 0.1143,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "The one who laughs",
+        "credit_id": "68e6b0ae8fa7022a5430bae5",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5070778,
+        "known_for_department": "Directing",
+        "name": "Daniel Kunz",
+        "original_name": "Daniel Kunz",
+        "popularity": 0.1028,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "''Ay Caramba''-Guy",
+        "credit_id": "68e6b0c47ed30de5d24a925b",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5738631,
+        "known_for_department": "Acting",
+        "name": "Sofie Gross",
+        "original_name": "Sofie Gross",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Sudacasaft Spot Voice",
+        "credit_id": "68e6b0dcd9b6991a544a928a",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4818529,
+        "known_for_department": "Directing",
+        "name": "Diego Oliva Tejeda",
+        "original_name": "Diego Oliva Tejeda",
+        "popularity": 0.4771,
+        "profile_path": null,
+        "credit_id": "68cd9696bf472f00a3cc2a91",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5699036,
+        "known_for_department": "Writing",
+        "name": "Anna Dimitrova",
+        "original_name": "Anna Dimitrova",
+        "popularity": 0.4036,
+        "profile_path": null,
+        "credit_id": "68cd96ab2b7b99047bac764e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4960672,
+        "known_for_department": "Production",
+        "name": "Lillian Malan",
+        "original_name": "Lillian Malan",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68cd96bfddf045e02b97cdec",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5070778,
+        "known_for_department": "Directing",
+        "name": "Daniel Kunz",
+        "original_name": "Daniel Kunz",
+        "popularity": 0.1028,
+        "profile_path": null,
+        "credit_id": "68cd97064813db10cffe8a3b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3391704,
+        "known_for_department": "Camera",
+        "name": "Natalia Mamaj",
+        "original_name": "Natalia Mamaj",
+        "popularity": 0.2034,
+        "profile_path": null,
+        "credit_id": "68cd971e2fa1f650eefe8a38",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3287996,
+        "known_for_department": "Directing",
+        "name": "Nicole Huminski",
+        "original_name": "Nicole Huminski",
+        "popularity": 0.3768,
+        "profile_path": null,
+        "credit_id": "68cd97db65f7a745d2cc2a72",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4960694,
+        "known_for_department": "Production",
+        "name": "Elizabeth Giglberger",
+        "original_name": "Elizabeth Giglberger",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68cd97f3133d09d9d7fe8a09",
+        "department": "Production",
+        "job": "Assistant Unit Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2016604,
+        "known_for_department": "Art",
+        "name": "Sophia Kuhn",
+        "original_name": "Sophia Kuhn",
+        "popularity": 0.0762,
+        "profile_path": null,
+        "credit_id": "68cd98097024f6882b748e5e",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5699065,
+        "known_for_department": "Crew",
+        "name": "Mira Malan",
+        "original_name": "Mira Malan",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68cd981fe4bd19ceadcc2a65",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4835398,
+        "known_for_department": "Sound",
+        "name": "Andrej Agranovski",
+        "original_name": "Andrej Agranovski",
+        "popularity": 0.0778,
+        "profile_path": null,
+        "credit_id": "68cd9876327949889b97cde7",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1467952,
+        "known_for_department": "Editing",
+        "name": "Ana de Mier y Ortuño",
+        "original_name": "Ana de Mier y Ortuño",
+        "popularity": 0.5108,
+        "profile_path": null,
+        "credit_id": "68cd988d133d09d9d7fe8a0e",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4818529,
+        "known_for_department": "Directing",
+        "name": "Diego Oliva Tejeda",
+        "original_name": "Diego Oliva Tejeda",
+        "popularity": 0.4771,
+        "profile_path": null,
+        "credit_id": "68cd989e3bc7598e04d40e27",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5699080,
+        "known_for_department": "Sound",
+        "name": "Julis Beshari",
+        "original_name": "Julis Beshari",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68cd98be67b7b3c0cd748e9e",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3870779,
+        "known_for_department": "Directing",
+        "name": "Tizian Stromp Zargari",
+        "original_name": "Tizian Stromp Zargari",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68cd98cf327949889b97cdeb",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3288049,
+        "known_for_department": "Directing",
+        "name": "Welf Reinhart",
+        "original_name": "Welf Reinhart",
+        "popularity": 0.1012,
+        "profile_path": null,
+        "credit_id": "68cd98e223da29fcf27a3a95",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5699089,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Mai Strathman",
+        "original_name": "Mai Strathman",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68cd98f6dfa54f5659d40e01",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5699093,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Miriam Goeze",
+        "original_name": "Miriam Goeze",
+        "popularity": 0.0473,
+        "profile_path": null,
+        "credit_id": "68cd9918c5f11e9b8c748e8a",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5699096,
+        "known_for_department": "Art",
+        "name": "Ella Hölldampf",
+        "original_name": "Ella Hölldampf",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68cd992ab5d34a05e1fe8a46",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5699101,
+        "known_for_department": "Art",
+        "name": "Judith Gayler",
+        "original_name": "Judith Gayler",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "68cd99497024f6882b748e8f",
+        "department": "Art",
+        "job": "Assistant Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5699105,
+        "known_for_department": "Art",
+        "name": "Klara Schur",
+        "original_name": "Klara Schur",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68cd996a8ec1c32f4497ce14",
+        "department": "Art",
+        "job": "Assistant Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2273490,
+        "known_for_department": "Directing",
+        "name": "Sarah Daisy Ellersdorfer",
+        "original_name": "Sarah Daisy Ellersdorfer",
+        "popularity": 0.049,
+        "profile_path": null,
+        "credit_id": "68cd9983e99679837c7a3b05",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4296226,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sabeth Kelwing Jimenez",
+        "original_name": "Sabeth Kelwing Jimenez",
+        "popularity": 0.1225,
+        "profile_path": null,
+        "credit_id": "68cd9a094dd0410a64748e5f",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Jorge and his son Emil were supposed to be guests at his boss's birthday party, but when they unexpectedly have to fill in as waiters, they are dragged into their host's juicy scheme. Now Emil fights the role of the mascot, while Jorge senses an opportunity for career advancement. A story about sweat, (post-)migrant experiences, family and guacamole. ¡Ay Caramba!",
+          "runtime": 18,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "",
+          "overview": "Eigentlich waren Jorge und sein Sohn Emil auf der Geburtstagsparty von Jorges Chef eingeladen. Doch als sie plötzlich als Kellnerteam einspringen müssen, werden sie in das „innovative“ Saftkartell des Gastgebers verwickelt",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.708,
+        "height": 800,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/xj0okmaAHcwrdxgulDFyZOsRYLy.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 566
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-06-12T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

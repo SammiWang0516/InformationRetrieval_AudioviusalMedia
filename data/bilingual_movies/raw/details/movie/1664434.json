@@ -1,0 +1,560 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1664434,
+  "imdb_id": "tt36992505",
+  "origin_country": [
+    "DK"
+  ],
+  "original_language": "en",
+  "original_title": "Amelia Palmer's First Movie",
+  "overview": "An aspiring director takes extreme measures after her first film is canceled.",
+  "popularity": 1.2378,
+  "poster_path": "/wgX1O0Un4Raj7FnK4hvxcli6oBa.jpg",
+  "production_companies": [
+    {
+      "id": 131326,
+      "logo_path": null,
+      "name": "European Film College (EFC)",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    }
+  ],
+  "release_date": "2025-05-02",
+  "revenue": 0,
+  "runtime": 13,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "An aspiring director takes extreme measures after her first film is canceled.",
+  "title": "Amelia Palmer's First Movie",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6034887,
+        "known_for_department": "Acting",
+        "name": "Elena Søendergaard López",
+        "original_name": "Elena Søendergaard López",
+        "popularity": 0.1092,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Cinematographer",
+        "credit_id": "69d2f51b547c5d59be6394d1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5505310,
+        "known_for_department": "Lighting",
+        "name": "Daniel Astrakhan",
+        "original_name": "Daniel Astrakhan",
+        "popularity": 0.1128,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Podcast host",
+        "credit_id": "69d2f5258a4b5af61fac7f61",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6036372,
+        "known_for_department": "Acting",
+        "name": "Guðjón Atli Vignisson",
+        "original_name": "Guðjón Atli Vignisson",
+        "popularity": 0.0664,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Brian Davis",
+        "credit_id": "69d2f536f443191ecf5c64fa",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1544539,
+        "known_for_department": "Acting",
+        "name": "Edith Haagenrud-Sande",
+        "original_name": "Edith Haagenrud-Sande",
+        "popularity": 0.4774,
+        "profile_path": "/jm87s4jio07WC15PKBUrteuenV3.jpg",
+        "cast_id": 4,
+        "character": "Sarah Larsen",
+        "credit_id": "69d2f5459ddf101d914d925a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5013459,
+        "known_for_department": "Acting",
+        "name": "Maren Ashurst",
+        "original_name": "Maren Ashurst",
+        "popularity": 0.2108,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Amelia Palmer",
+        "credit_id": "69d2f5532e2b0dcaca5c666a",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5505310,
+        "known_for_department": "Lighting",
+        "name": "Daniel Astrakhan",
+        "original_name": "Daniel Astrakhan",
+        "popularity": 0.1128,
+        "profile_path": null,
+        "credit_id": "69d2f56e3c6fe98a5e6392e2",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5505310,
+        "known_for_department": "Lighting",
+        "name": "Daniel Astrakhan",
+        "original_name": "Daniel Astrakhan",
+        "popularity": 0.1128,
+        "profile_path": null,
+        "credit_id": "69d2f576f443191ecf5c6507",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5505310,
+        "known_for_department": "Lighting",
+        "name": "Daniel Astrakhan",
+        "original_name": "Daniel Astrakhan",
+        "popularity": 0.1128,
+        "profile_path": null,
+        "credit_id": "69d2f57d38d8d30c724d9167",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5013464,
+        "known_for_department": "Acting",
+        "name": "Isabella Steenstrup",
+        "original_name": "Isabella Steenstrup",
+        "popularity": 0.2476,
+        "profile_path": null,
+        "credit_id": "69d2f58e7012a92281f5f57f",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5013464,
+        "known_for_department": "Acting",
+        "name": "Isabella Steenstrup",
+        "original_name": "Isabella Steenstrup",
+        "popularity": 0.2476,
+        "profile_path": null,
+        "credit_id": "69d2f5981d763bcd26ac7fcf",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5390680,
+        "known_for_department": "Crew",
+        "name": "Isabelle Rasmussen",
+        "original_name": "Isabelle Rasmussen",
+        "popularity": 0.1312,
+        "profile_path": null,
+        "credit_id": "69d2f5a5a6673649c63b1111",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5390680,
+        "known_for_department": "Crew",
+        "name": "Isabelle Rasmussen",
+        "original_name": "Isabelle Rasmussen",
+        "popularity": 0.1312,
+        "profile_path": null,
+        "credit_id": "69d2f5ac757a9cf9439096c0",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5505299,
+        "known_for_department": "Acting",
+        "name": "Neeltje Schleipen",
+        "original_name": "Neeltje Schleipen",
+        "popularity": 0.3552,
+        "profile_path": null,
+        "credit_id": "69d2f5b79aeaf7b758770f94",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1544539,
+        "known_for_department": "Acting",
+        "name": "Edith Haagenrud-Sande",
+        "original_name": "Edith Haagenrud-Sande",
+        "popularity": 0.4774,
+        "profile_path": "/jm87s4jio07WC15PKBUrteuenV3.jpg",
+        "credit_id": "69d2f5c4d78b58c278909700",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5505307,
+        "known_for_department": "Editing",
+        "name": "Alexandra Londal",
+        "original_name": "Alexandra Londal",
+        "popularity": 0.4946,
+        "profile_path": null,
+        "credit_id": "69d2f5d315c604db07ca6a50",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5505307,
+        "known_for_department": "Editing",
+        "name": "Alexandra Londal",
+        "original_name": "Alexandra Londal",
+        "popularity": 0.4946,
+        "profile_path": null,
+        "credit_id": "69d2f5dcd78b58c278909705",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5505307,
+        "known_for_department": "Editing",
+        "name": "Alexandra Londal",
+        "original_name": "Alexandra Londal",
+        "popularity": 0.4946,
+        "profile_path": null,
+        "credit_id": "69d2f5e5d78b58c278909708",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5505307,
+        "known_for_department": "Editing",
+        "name": "Alexandra Londal",
+        "original_name": "Alexandra Londal",
+        "popularity": 0.4946,
+        "profile_path": null,
+        "credit_id": "69d2f5ec15c604db07ca6a53",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2187719,
+        "known_for_department": "Acting",
+        "name": "Kian Lawson-Khalili",
+        "original_name": "Kian Lawson-Khalili",
+        "popularity": 0.6743,
+        "profile_path": "/dZ9Xf9t6zt7xHSDMoGCAWKTyqCf.jpg",
+        "credit_id": "69d2f5ff9aeaf7b758770f98",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6120939,
+        "known_for_department": "Sound",
+        "name": "Oliviero Manfrotto",
+        "original_name": "Oliviero Manfrotto",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "69d2f60aef7f6aa1f677108c",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6121000,
+        "known_for_department": "Sound",
+        "name": "Signe Davidsen Nielsen",
+        "original_name": "Signe Davidsen Nielsen",
+        "popularity": 0.1613,
+        "profile_path": null,
+        "credit_id": "69d2f6167edda03cf7770f9e",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5632179,
+        "known_for_department": "Editing",
+        "name": "Therese Wille",
+        "original_name": "Therese Wille",
+        "popularity": 0.0408,
+        "profile_path": null,
+        "credit_id": "69d2f623ca9c933f81909707",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4960888,
+        "known_for_department": "Acting",
+        "name": "Maya Burrage",
+        "original_name": "Maya Burrage",
+        "popularity": 0.2815,
+        "profile_path": null,
+        "credit_id": "69d2f630f842e431f5ca68c7",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5505314,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Olivia Kooijmans",
+        "original_name": "Olivia Kooijmans",
+        "popularity": 0.2728,
+        "profile_path": null,
+        "credit_id": "69d2f63b7716abe5daf5f558",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6121003,
+        "known_for_department": "Camera",
+        "name": "Siena Lauritsen",
+        "original_name": "Siena Lauritsen",
+        "popularity": 0.111,
+        "profile_path": null,
+        "credit_id": "69d2f648ca9c933f81909714",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6034887,
+        "known_for_department": "Acting",
+        "name": "Elena Søendergaard López",
+        "original_name": "Elena Søendergaard López",
+        "popularity": 0.1092,
+        "profile_path": null,
+        "credit_id": "69d2f657e0d7641dd2f5f519",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6121009,
+        "known_for_department": "Camera",
+        "name": "Thea Sudland-Rønning",
+        "original_name": "Thea Sudland-Rønning",
+        "popularity": 0.1248,
+        "profile_path": null,
+        "credit_id": "69d2f671e0d7641dd2f5f525",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 36048,
+        "known_for_department": "Camera",
+        "name": "Yoram Astrakhan",
+        "original_name": "Yoram Astrakhan",
+        "popularity": 0.4085,
+        "profile_path": "/7Dp7GUqCY3AMHowwhS0kcIJOQBv.jpg",
+        "credit_id": "69d2f67c0c71620a899097ab",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1750084,
+        "known_for_department": "Writing",
+        "name": "Brigitta Bacskai",
+        "original_name": "Brigitta Bacskai",
+        "popularity": 0.1556,
+        "profile_path": null,
+        "credit_id": "69d2f684f62f5b30c4770f57",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2770024,
+        "known_for_department": "Directing",
+        "name": "Asger Lindqvist",
+        "original_name": "Asger Lindqvist",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "69d2f68f9bd8c86ce13b1130",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1353779,
+        "known_for_department": "Writing",
+        "name": "Iván Szabó",
+        "original_name": "Iván Szabó",
+        "popularity": 0.5809,
+        "profile_path": null,
+        "credit_id": "69d2f699458de152b9ca68d8",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5612430,
+        "known_for_department": "Directing",
+        "name": "Stefanie Wetzel",
+        "original_name": "Stefanie Wetzel",
+        "popularity": 0.0823,
+        "profile_path": null,
+        "credit_id": "69d2f6a7ed064302e1771083",
+        "department": "Crew",
+        "job": "Thanks"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 3880,
+        "name": "snuff"
+      },
+      {
+        "id": 234574,
+        "name": "abducted"
+      },
+      {
+        "id": 299344,
+        "name": "filmmaker"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "An aspiring director takes extreme measures after her first film is canceled.",
+          "runtime": 13,
+          "tagline": "An aspiring director takes extreme measures after her first film is canceled.",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt36992505",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/wgX1O0Un4Raj7FnK4hvxcli6oBa.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "DK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "Ebeltoft Film Festival",
+            "release_date": "2025-05-02T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

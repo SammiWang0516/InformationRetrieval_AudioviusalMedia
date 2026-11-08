@@ -1,0 +1,456 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1567782,
+  "imdb_id": null,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "¡PIKA!",
+  "overview": "A desperate man wakes up with an itch on his chest, anxious to find a cure, he embarks on a nightmarish odyssey in search of relief.",
+  "popularity": 0.9978,
+  "poster_path": "/bcFFuPjjbgjN3HvGIoJUc6VOBgA.jpg",
+  "production_companies": [
+    {
+      "id": 285392,
+      "logo_path": null,
+      "name": "Fisherman & Trout",
+      "origin_country": ""
+    },
+    {
+      "id": 246865,
+      "logo_path": null,
+      "name": "Azzurra Film",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PE",
+      "name": "Peru"
+    }
+  ],
+  "release_date": "2025-10-10",
+  "revenue": 0,
+  "runtime": 17,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "There is no relief.",
+  "title": "The Itch",
+  "video": false,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5631275,
+        "known_for_department": "Acting",
+        "name": "José Medina",
+        "original_name": "José Medina",
+        "popularity": 0.3612,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Lucas",
+        "credit_id": "68fb5c6fc4cc2fff4242c055",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769030,
+        "known_for_department": "Acting",
+        "name": "Teres Ralli",
+        "original_name": "Teres Ralli",
+        "popularity": 0.1244,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Mama",
+        "credit_id": "68fabc75ae3b2cec4a6b203a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1023670,
+        "known_for_department": "Acting",
+        "name": "Beto Benitez",
+        "original_name": "Beto Benitez",
+        "popularity": 0.4613,
+        "profile_path": "/aqSj9wQYNRGHhk7fqmWviDKlqFT.jpg",
+        "cast_id": 3,
+        "character": "Roberto",
+        "credit_id": "68fabc84fa4d144cafe2d525",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2765139,
+        "known_for_department": "Directing",
+        "name": "Alex Fischman Cardenas",
+        "original_name": "Alex Fischman Cardenas",
+        "popularity": 0.4455,
+        "profile_path": null,
+        "credit_id": "68fabc9734b8485fe58535af",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4303334,
+        "known_for_department": "Acting",
+        "name": "Trout Cohen",
+        "original_name": "Trout Cohen",
+        "popularity": 0.1463,
+        "profile_path": null,
+        "credit_id": "68fabca3e645e4a0f56b2095",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1777310,
+        "known_for_department": "Camera",
+        "name": "Mika Altskan",
+        "original_name": "Mika Altskan",
+        "popularity": 0.1296,
+        "profile_path": null,
+        "credit_id": "68fabcb8d4ba24e239128426",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769034,
+        "known_for_department": "Editing",
+        "name": "Ben Schwaeber",
+        "original_name": "Ben Schwaeber",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "68fabcc5f0a0ecad526b217a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3430597,
+        "known_for_department": "Acting",
+        "name": "Anibal Lozano Herrera",
+        "original_name": "Anibal Lozano Herrera",
+        "popularity": 0.1924,
+        "profile_path": null,
+        "credit_id": "68fabcd4d37885525d6b20be",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3205896,
+        "known_for_department": "Sound",
+        "name": "Paulo Gallo",
+        "original_name": "Paulo Gallo",
+        "popularity": 0.1626,
+        "profile_path": null,
+        "credit_id": "68fabce04f7c1b156b128398",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4705814,
+        "known_for_department": "Sound",
+        "name": "Daniel Brandt",
+        "original_name": "Daniel Brandt",
+        "popularity": 0.0836,
+        "profile_path": null,
+        "credit_id": "68fabcee3c1a9d7307128509",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1936336,
+        "known_for_department": "Sound",
+        "name": "Nikolay Antonov",
+        "original_name": "Nikolay Antonov",
+        "popularity": 0.2898,
+        "profile_path": null,
+        "credit_id": "68fabcfb84bfbf0111dd9786",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2775378,
+        "known_for_department": "Production",
+        "name": "Morella Moret",
+        "original_name": "Morella Moret",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "68fabd0de0e2387e58f2a093",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769037,
+        "known_for_department": "Production",
+        "name": "Etienne Talbot",
+        "original_name": "Etienne Talbot",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68fabd2faf9cc1f725417d12",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2765139,
+        "known_for_department": "Directing",
+        "name": "Alex Fischman Cardenas",
+        "original_name": "Alex Fischman Cardenas",
+        "popularity": 0.4455,
+        "profile_path": null,
+        "credit_id": "68fabd413c9c7ed752417e61",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4303334,
+        "known_for_department": "Acting",
+        "name": "Trout Cohen",
+        "original_name": "Trout Cohen",
+        "popularity": 0.1463,
+        "profile_path": null,
+        "credit_id": "68fabd4b6930ea3fa78535a6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4161135,
+        "known_for_department": "Art",
+        "name": "Renzo Bazan",
+        "original_name": "Renzo Bazan",
+        "popularity": 0.2443,
+        "profile_path": null,
+        "credit_id": "68fabd5ad050647355e2d65b",
+        "department": "Art",
+        "job": "Art Direction"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 199524,
+        "name": "disturbed"
+      },
+      {
+        "id": 208156,
+        "name": "frantic"
+      },
+      {
+        "id": 325798,
+        "name": "disgusted"
+      },
+      {
+        "id": 325801,
+        "name": "distressing"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "A desperate man wakes up with an itch on his chest, anxious to find a cure, he embarks on a nightmarish odyssey in search of relief.",
+          "runtime": 17,
+          "tagline": "There is no relief.",
+          "title": "The Itch"
+        }
+      },
+      {
+        "iso_3166_1": "MX",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.677,
+        "height": 2048,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/bcFFuPjjbgjN3HvGIoJUc6VOBgA.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1386
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1944,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/2V3LQzl6cK9rdwwuRMjtet03Rh0.jpg",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 1296
+      },
+      {
+        "aspect_ratio": 0.75,
+        "height": 1728,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/lMcQVS9I61Ev1LdnQhSyE8XMLf7.jpg",
+        "vote_average": 0.166,
+        "vote_count": 2,
+        "width": 1296
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1944,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/46EljtMMl1i9X0AzERwIx54us8D.jpg",
+        "vote_average": 0.166,
+        "vote_count": 2,
+        "width": 1296
+      },
+      {
+        "aspect_ratio": 0.677,
+        "height": 1280,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/aLQQoyPrRtq9qbVUVbRD4zv0KyO.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 866
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Sitges International Fantastic Festival of Catalonia",
+            "release_date": "2025-10-10T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Lima Alterna Festival Internacional de Cine",
+            "release_date": "2026-10-10T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "Sundance Film Festival 2026",
+            "release_date": "2026-01-25T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "¡PIKA! [The Itch] Trailer",
+        "key": "FrarTEJhFPs",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "6965a0e399c7c33eddcc94d9",
+        "published_at": "2026-01-12T23:11:51.000Z"
+      }
+    ]
+  }
+}

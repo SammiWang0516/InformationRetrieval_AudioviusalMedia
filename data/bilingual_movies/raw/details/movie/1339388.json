@@ -1,0 +1,714 @@
+{
+  "adult": false,
+  "backdrop_path": "/dmZiEfg6147A1GGUTcQoWIaQMpH.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1339388,
+  "imdb_id": "tt30691417",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Ucronia",
+  "overview": "A man wrestles with his personal demons and obsession with a writer's life.",
+  "popularity": 0.8176,
+  "poster_path": "/Al9LGG0e7dYtYx7eZGDkNcqLLmx.jpg",
+  "production_companies": [
+    {
+      "id": 124334,
+      "logo_path": null,
+      "name": "Verloren Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-03-05",
+  "revenue": 0,
+  "runtime": 32,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "How far would you go to become someone else?",
+  "title": "Ucronia",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4905935,
+        "known_for_department": "Acting",
+        "name": "Alicia Urizar McCallum",
+        "original_name": "Alicia Urizar McCallum",
+        "popularity": 0.1754,
+        "profile_path": "/5g7g3IAjEOcUKNhRzMzhQD7H4N3.jpg",
+        "cast_id": 1,
+        "character": "Doctor Lynch",
+        "credit_id": "66cd36b789e15341a87ee5db",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3778125,
+        "known_for_department": "Acting",
+        "name": "Sarah Hamilton",
+        "original_name": "Sarah Hamilton",
+        "popularity": 0.0685,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Ava",
+        "credit_id": "66cd36d9d8f4fa10a3639c99",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4906397,
+        "known_for_department": "Acting",
+        "name": "Kenneth Rovira",
+        "original_name": "Kenneth Rovira",
+        "popularity": 0.0757,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Andres",
+        "credit_id": "66cd378491b04dd50cb3401a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4906398,
+        "known_for_department": "Acting",
+        "name": "Jocelyn Kilpatrick",
+        "original_name": "Jocelyn Kilpatrick",
+        "popularity": 0.2101,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Allison",
+        "credit_id": "66cd37ac0fe621cfe89aa419",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4905910,
+        "known_for_department": "Acting",
+        "name": "Julian André",
+        "original_name": "Julian André",
+        "popularity": 0.2524,
+        "profile_path": "/5eu584q2zLkBcSWa9GfxJqGCg45.jpg",
+        "cast_id": 5,
+        "character": "Emanuel",
+        "credit_id": "66cd37cf34739b5119639cc6",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4906399,
+        "known_for_department": "Acting",
+        "name": "Nathan De Camp",
+        "original_name": "Nathan De Camp",
+        "popularity": 0.2256,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Security Guard",
+        "credit_id": "66cd380c53556e38d056b5cf",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4901079,
+        "known_for_department": "Production",
+        "name": "Walt Perez",
+        "original_name": "Walt Perez",
+        "popularity": 0.3404,
+        "profile_path": "/q1uecZfmkD1cDDR4NPDfg3Ya9s7.jpg",
+        "credit_id": "66cd383d16fc2032a522a887",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4901079,
+        "known_for_department": "Production",
+        "name": "Walt Perez",
+        "original_name": "Walt Perez",
+        "popularity": 0.3404,
+        "profile_path": "/q1uecZfmkD1cDDR4NPDfg3Ya9s7.jpg",
+        "credit_id": "66cd385777e0fbd4419fee71",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4901079,
+        "known_for_department": "Production",
+        "name": "Walt Perez",
+        "original_name": "Walt Perez",
+        "popularity": 0.3404,
+        "profile_path": "/q1uecZfmkD1cDDR4NPDfg3Ya9s7.jpg",
+        "credit_id": "66cd397116fc2032a522a8ba",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2869296,
+        "known_for_department": "Sound",
+        "name": "Søren Odom",
+        "original_name": "Søren Odom",
+        "popularity": 0.1582,
+        "profile_path": null,
+        "credit_id": "66cd395b49f8bb82306a9c5c",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4906415,
+        "known_for_department": "Directing",
+        "name": "Joe Felix",
+        "original_name": "Joe Felix",
+        "popularity": 0.049,
+        "profile_path": null,
+        "credit_id": "66cd3addfc128e1fbbc41ba2",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4906411,
+        "known_for_department": "Camera",
+        "name": "Eliam Trigueros",
+        "original_name": "Eliam Trigueros",
+        "popularity": 0.0461,
+        "profile_path": null,
+        "credit_id": "66cd3a8cccf8879a750fa484",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2869296,
+        "known_for_department": "Sound",
+        "name": "Søren Odom",
+        "original_name": "Søren Odom",
+        "popularity": 0.1582,
+        "profile_path": null,
+        "credit_id": "66cd3907e48f6c8e62a29a88",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4906402,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Camila Lopez",
+        "original_name": "Camila Lopez",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "66cd39b2d46fd10af2a29b1e",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2869296,
+        "known_for_department": "Sound",
+        "name": "Søren Odom",
+        "original_name": "Søren Odom",
+        "popularity": 0.1582,
+        "profile_path": null,
+        "credit_id": "66cd38a52778dbec0ac6da1c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4906005,
+        "known_for_department": "Production",
+        "name": "Daniel Najera",
+        "original_name": "Daniel Najera",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "66cd3a3dd7b3c969799fed68",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4906422,
+        "known_for_department": "Production",
+        "name": "Rae Gammage",
+        "original_name": "Rae Gammage",
+        "popularity": 0.0426,
+        "profile_path": null,
+        "credit_id": "66cd3b332778dbec0ac6da92",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4906425,
+        "known_for_department": "Production",
+        "name": "Jose Sandoval",
+        "original_name": "Jose Sandoval",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "66cd3b6bbc2f98c1f481a409",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4901079,
+        "known_for_department": "Production",
+        "name": "Walt Perez",
+        "original_name": "Walt Perez",
+        "popularity": 0.3404,
+        "profile_path": "/q1uecZfmkD1cDDR4NPDfg3Ya9s7.jpg",
+        "credit_id": "66cd38e3f24f64f3ee81a58d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4906409,
+        "known_for_department": "Camera",
+        "name": "Andrés Nuño",
+        "original_name": "Andrés Nuño",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "66cd3a78cd88d11ef897ca38",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4562672,
+        "known_for_department": "Camera",
+        "name": "Marco Zelada",
+        "original_name": "Marco Zelada",
+        "popularity": 0.1794,
+        "profile_path": null,
+        "credit_id": "66cd3aa15202311c7c9dac5f",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4906400,
+        "known_for_department": "Production",
+        "name": "Soraya Haiven Gonzalez",
+        "original_name": "Soraya Haiven Gonzalez",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "66cd3af08528a0c70b4df368",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4906023,
+        "known_for_department": "Production",
+        "name": "Gloria Marquez",
+        "original_name": "Gloria Marquez",
+        "popularity": 0.0498,
+        "profile_path": null,
+        "credit_id": "66cd39e1d98fe6998122a964",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4906407,
+        "known_for_department": "Sound",
+        "name": "Xitlalic Romero",
+        "original_name": "Xitlalic Romero",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "66cd3a0e07e29c3a719daa4f",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4906408,
+        "known_for_department": "Camera",
+        "name": "Emmanuel Medina",
+        "original_name": "Emmanuel Medina",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "66cd3a2b3bb11f183d7ee432",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4906417,
+        "known_for_department": "Production",
+        "name": "Eduardo Bracamontes",
+        "original_name": "Eduardo Bracamontes",
+        "popularity": 0.0491,
+        "profile_path": null,
+        "credit_id": "66cd3b0cf52086c7c26a9c72",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2869296,
+        "known_for_department": "Sound",
+        "name": "Søren Odom",
+        "original_name": "Søren Odom",
+        "popularity": 0.1582,
+        "profile_path": null,
+        "credit_id": "66cd391837056699d556b578",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4905965,
+        "known_for_department": "Production",
+        "name": "Ahmet Akinci",
+        "original_name": "Ahmet Akinci",
+        "popularity": 0.1423,
+        "profile_path": null,
+        "credit_id": "66cd38c4f894f194bc56b7c8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4906400,
+        "known_for_department": "Production",
+        "name": "Soraya Haiven Gonzalez",
+        "original_name": "Soraya Haiven Gonzalez",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "66cd389316875413cd4feccb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4901079,
+        "known_for_department": "Production",
+        "name": "Walt Perez",
+        "original_name": "Walt Perez",
+        "popularity": 0.3404,
+        "profile_path": "/q1uecZfmkD1cDDR4NPDfg3Ya9s7.jpg",
+        "credit_id": "66cd398ad7b3c969799fed51",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3895994,
+        "known_for_department": "Directing",
+        "name": "Ayem Walters",
+        "original_name": "Ayem Walters",
+        "popularity": 0.3506,
+        "profile_path": null,
+        "credit_id": "66cd39c8f9350d8a3c4fed16",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4906406,
+        "known_for_department": "Sound",
+        "name": "Matthew J. Perez",
+        "original_name": "Matthew J. Perez",
+        "popularity": 0.2419,
+        "profile_path": null,
+        "credit_id": "66cd3a0331ede87d006a9c2c",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4906420,
+        "known_for_department": "Crew",
+        "name": "Carlos Ceja",
+        "original_name": "Carlos Ceja",
+        "popularity": 0.0461,
+        "profile_path": null,
+        "credit_id": "66cd3b20ff229ead7e22a951",
+        "department": "Crew",
+        "job": "Catering"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "A man wrestles with his personal demons and obsession with a writer's life.",
+          "runtime": 32,
+          "tagline": "How far would you go to become someone else?",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt30691417",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/dmZiEfg6147A1GGUTcQoWIaQMpH.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.707,
+        "height": 2245,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/Al9LGG0e7dYtYx7eZGDkNcqLLmx.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1587
+      },
+      {
+        "aspect_ratio": 0.707,
+        "height": 2245,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/1JCRK5PXigKDL4R1UHMUAAHBiC6.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1587
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "CineShort",
+            "release_date": "2025-11-30T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "CineShort",
+            "release_date": "2025-11-30T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "CineShort",
+            "release_date": "2025-11-30T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "CineShort",
+            "release_date": "2025-11-30T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "CineShort",
+            "release_date": "2025-11-30T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "CineShort",
+            "release_date": "2025-11-30T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "CineShort",
+            "release_date": "2025-11-30T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Hollywood Reel Independent Film Festival ",
+            "release_date": "2025-03-05T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Burbank International Film Festival",
+            "release_date": "2025-09-27T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "CineShort",
+            "release_date": "2025-11-30T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "YouTube",
+            "release_date": "2026-10-01T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "vkHIclMHMlM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "66cd3d1677e0fbd4419fef04",
+        "published_at": "2024-04-12T17:00:06.000Z"
+      }
+    ]
+  }
+}

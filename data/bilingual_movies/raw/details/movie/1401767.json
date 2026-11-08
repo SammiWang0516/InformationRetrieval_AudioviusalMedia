@@ -1,0 +1,643 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 1401767,
+  "imdb_id": "tt35003897",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Boris Is Dead",
+  "overview": "A struggling actor, working as a waiter, unwittingly becomes involved in a violent heist gone wrong, where his boss—deep in debt—has been stealing from employees and running the restaurant as a front for the mob.",
+  "popularity": 0.9244,
+  "poster_path": "/vyY3FGMrF28lKIFpRrfwOGOQpvH.jpg",
+  "production_companies": [
+    {
+      "id": 12020,
+      "logo_path": null,
+      "name": "Superfinger Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 317264,
+      "logo_path": null,
+      "name": "Likely Lads Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-04-13",
+  "revenue": 0,
+  "runtime": 88,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The paninis are to die for.",
+  "title": "Boris Is Dead",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31837,
+        "known_for_department": "Acting",
+        "name": "Dane Cook",
+        "original_name": "Dane Cook",
+        "popularity": 2.2003,
+        "profile_path": "/4UGHKnDOf75GZR5z0QHjrhjfpIu.jpg",
+        "cast_id": 1,
+        "character": "Derek",
+        "credit_id": "675c770973e957a01a87bf29",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1107297,
+        "known_for_department": "Acting",
+        "name": "Hana Mae Lee",
+        "original_name": "Hana Mae Lee",
+        "popularity": 1.3655,
+        "profile_path": "/l08BSDxmAAvCjgJ7A1IRsKWCPzA.jpg",
+        "cast_id": 2,
+        "character": "Rebecca",
+        "credit_id": "675c771169a10f54a55a1962",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1159,
+        "known_for_department": "Acting",
+        "name": "Steven Bauer",
+        "original_name": "Steven Bauer",
+        "popularity": 2.1881,
+        "profile_path": "/eMSeKPgfilE2v5VcmwSt5pxbp0x.jpg",
+        "cast_id": 8,
+        "character": "Tony",
+        "credit_id": "67659d2b03a3aa533090ddef",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15824,
+        "known_for_department": "Acting",
+        "name": "Chris Mulkey",
+        "original_name": "Chris Mulkey",
+        "popularity": 1.546,
+        "profile_path": "/51SbuIbzmpbDYtv5gvcqB9Ysu91.jpg",
+        "cast_id": 9,
+        "character": "Ross",
+        "credit_id": "67659d3187b92a43be5dfa89",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55086,
+        "known_for_department": "Acting",
+        "name": "Cam Gigandet",
+        "original_name": "Cam Gigandet",
+        "popularity": 1.9561,
+        "profile_path": "/kdSVRqCR0p8KZTvVkRccBLoim7L.jpg",
+        "cast_id": 10,
+        "character": "Frankie",
+        "credit_id": "67659d3887b92a43be5dfa8d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34199,
+        "known_for_department": "Acting",
+        "name": "Thomas Dekker",
+        "original_name": "Thomas Dekker",
+        "popularity": 1.1889,
+        "profile_path": "/vO72HH4PfesrCwEioBJn2gR6ebC.jpg",
+        "cast_id": 11,
+        "character": "Antonio",
+        "credit_id": "67659d3f71680b82ae90daa5",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57171,
+        "known_for_department": "Acting",
+        "name": "Jesse Metcalfe",
+        "original_name": "Jesse Metcalfe",
+        "popularity": 2.1847,
+        "profile_path": "/qZR4VAB2t0qawkH88Wv3K7y67nM.jpg",
+        "cast_id": 12,
+        "character": "Wayne",
+        "credit_id": "67659d4790ee64af06749e1a",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56117,
+        "known_for_department": "Acting",
+        "name": "Martin Kove",
+        "original_name": "Martin Kove",
+        "popularity": 1.8526,
+        "profile_path": "/cuRi6YRaCrXOFU8cmqf5uTk0sUV.jpg",
+        "cast_id": 13,
+        "character": "Bobby",
+        "credit_id": "67659d5103a3aa533090de19",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1297165,
+        "known_for_department": "Acting",
+        "name": "Jesse Kove",
+        "original_name": "Jesse Kove",
+        "popularity": 0.3796,
+        "profile_path": "/7r1DkZ0XEM88Jqmdp7ArVCTvgr.jpg",
+        "cast_id": 14,
+        "character": "Chucky",
+        "credit_id": "67659d5887b92a43be5dfa93",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1582,
+        "known_for_department": "Acting",
+        "name": "James Duval",
+        "original_name": "James Duval",
+        "popularity": 1.6969,
+        "profile_path": "/vvasxKKPnxv2qOoXTnaXW3ecGLO.jpg",
+        "cast_id": 16,
+        "character": "Emilio",
+        "credit_id": "67659d6c90ee64af06749e30",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6576,
+        "known_for_department": "Acting",
+        "name": "Mark Rolston",
+        "original_name": "Mark Rolston",
+        "popularity": 1.2713,
+        "profile_path": "/hcrNRIptYMRXgkJ9k76BlQu6DQp.jpg",
+        "cast_id": 17,
+        "character": "Officer Birnie",
+        "credit_id": "67659d73aff5a7d64174abe0",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 13924,
+        "known_for_department": "Acting",
+        "name": "Mindy Sterling",
+        "original_name": "Mindy Sterling",
+        "popularity": 1.0463,
+        "profile_path": "/hX99KTTCFxB4a2rB1SpDbr8imrK.jpg",
+        "cast_id": 18,
+        "character": "",
+        "credit_id": "67659d7c03a3aa533090de2f",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18262,
+        "known_for_department": "Acting",
+        "name": "Richard Riehle",
+        "original_name": "Richard Riehle",
+        "popularity": 1.7512,
+        "profile_path": "/wgjBsgpzRvardVXZhNGixSw63g2.jpg",
+        "cast_id": 19,
+        "character": "Hank",
+        "credit_id": "67659d8390ee64af06749e60",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15070,
+        "known_for_department": "Acting",
+        "name": "Ken Foree",
+        "original_name": "Ken Foree",
+        "popularity": 1.2531,
+        "profile_path": "/5u9Ou7RHx1vDe8SQFhX3Euxe2Ae.jpg",
+        "cast_id": 20,
+        "character": "Paulie",
+        "credit_id": "67659d90b67e4547255e03ec",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1400589,
+        "known_for_department": "Acting",
+        "name": "Kerry Donelli",
+        "original_name": "Kerry Donelli",
+        "popularity": 0.1554,
+        "profile_path": "/zIaZZby4AzdZn24bG4cadRhvjam.jpg",
+        "cast_id": 23,
+        "character": "Abby",
+        "credit_id": "67659dd9b67e4547255e0426",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1400591,
+        "known_for_department": "Acting",
+        "name": "Jacqueline Donelli",
+        "original_name": "Jacqueline Donelli",
+        "popularity": 0.2861,
+        "profile_path": "/n3mYp8gpJsmOxsQzaQcTJHieVW2.jpg",
+        "cast_id": 24,
+        "character": "Gabby",
+        "credit_id": "67659ddf774ac5a28574a1de",
+        "order": 15
+      },
+      {
+        "adult": true,
+        "gender": 1,
+        "id": 10826,
+        "known_for_department": "Acting",
+        "name": "Traci Lords",
+        "original_name": "Traci Lords",
+        "popularity": 0.0,
+        "profile_path": "/y7xFjyOuxDUuqCGdhtP0Kttigil.jpg",
+        "cast_id": 29,
+        "character": "Angie",
+        "credit_id": "67b1bcb26689678bae9fa867",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1594998,
+        "known_for_department": "Acting",
+        "name": "Hannah Masi",
+        "original_name": "Hannah Masi",
+        "popularity": 0.2476,
+        "profile_path": "/4azpYyxGS0bJpU8WBfDk3LREZjW.jpg",
+        "cast_id": 30,
+        "character": "Chrissy",
+        "credit_id": "67b1bd07be1135c1d86db5ea",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1016970,
+        "known_for_department": "Acting",
+        "name": "B.J. Hendricks",
+        "original_name": "B.J. Hendricks",
+        "popularity": 0.4938,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Boris",
+        "credit_id": "67b1bd196689678bae9fa884",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1211636,
+        "known_for_department": "Directing",
+        "name": "James Cullen Bressack",
+        "original_name": "James Cullen Bressack",
+        "popularity": 0.4084,
+        "profile_path": "/1s89cGaLByNuIyEyZG7rmFmSv0J.jpg",
+        "credit_id": "675c7729018dc8e7bbd164b0",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2221596,
+        "known_for_department": "Production",
+        "name": "Sasha Yelaun",
+        "original_name": "Sasha Yelaun",
+        "popularity": 0.134,
+        "profile_path": null,
+        "credit_id": "675c773869a10f54a55a1970",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 944326,
+        "known_for_department": "Production",
+        "name": "Henry Penzi",
+        "original_name": "Henry Penzi",
+        "popularity": 0.3234,
+        "profile_path": "/bIMDu5MKxFlcwc1CbFQREGNwKqe.jpg",
+        "credit_id": "675c7742e269c682230fdd6d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31837,
+        "known_for_department": "Acting",
+        "name": "Dane Cook",
+        "original_name": "Dane Cook",
+        "popularity": 2.2003,
+        "profile_path": "/4UGHKnDOf75GZR5z0QHjrhjfpIu.jpg",
+        "credit_id": "675c775c73e957a01a87bf3e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58143,
+        "known_for_department": "Writing",
+        "name": "Darryl Quarles",
+        "original_name": "Darryl Quarles",
+        "popularity": 0.3304,
+        "profile_path": null,
+        "credit_id": "675c7765018dc8e7bbd164f1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1400589,
+        "known_for_department": "Acting",
+        "name": "Kerry Donelli",
+        "original_name": "Kerry Donelli",
+        "popularity": 0.1554,
+        "profile_path": "/zIaZZby4AzdZn24bG4cadRhvjam.jpg",
+        "credit_id": "67659dac71680b82ae90daf7",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1400591,
+        "known_for_department": "Acting",
+        "name": "Jacqueline Donelli",
+        "original_name": "Jacqueline Donelli",
+        "popularity": 0.2861,
+        "profile_path": "/n3mYp8gpJsmOxsQzaQcTJHieVW2.jpg",
+        "credit_id": "67659dc6b67e4547255e0416",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1400589,
+        "known_for_department": "Acting",
+        "name": "Kerry Donelli",
+        "original_name": "Kerry Donelli",
+        "popularity": 0.1554,
+        "profile_path": "/zIaZZby4AzdZn24bG4cadRhvjam.jpg",
+        "credit_id": "67659def03a3aa533090de54",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1400591,
+        "known_for_department": "Acting",
+        "name": "Jacqueline Donelli",
+        "original_name": "Jacqueline Donelli",
+        "popularity": 0.2861,
+        "profile_path": "/n3mYp8gpJsmOxsQzaQcTJHieVW2.jpg",
+        "credit_id": "67659df60b2fbb9dea5e001b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1154312,
+        "known_for_department": "Production",
+        "name": "Jeremy O'Keefe",
+        "original_name": "Jeremy O'Keefe",
+        "popularity": 0.1933,
+        "profile_path": null,
+        "credit_id": "67659e7271680b82ae90db48",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1154312,
+        "known_for_department": "Production",
+        "name": "Jeremy O'Keefe",
+        "original_name": "Jeremy O'Keefe",
+        "popularity": 0.1933,
+        "profile_path": null,
+        "credit_id": "67659e9671680b82ae90db53",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1744433,
+        "known_for_department": "Crew",
+        "name": "Christopher Commons",
+        "original_name": "Christopher Commons",
+        "popularity": 0.1292,
+        "profile_path": null,
+        "credit_id": "67b1bd38a622977ec5e0d2f3",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 112521,
+        "known_for_department": "Art",
+        "name": "Chris Cornwell",
+        "original_name": "Chris Cornwell",
+        "popularity": 0.1829,
+        "profile_path": null,
+        "credit_id": "67b1bd53a622977ec5e0d2fd",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5250034,
+        "known_for_department": "Art",
+        "name": "Monica Alley",
+        "original_name": "Monica Alley",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "67b1bd644e89ccd7886db082",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3680264,
+        "known_for_department": "Camera",
+        "name": "Joe DeMarchi",
+        "original_name": "Joe DeMarchi",
+        "popularity": 0.039,
+        "profile_path": null,
+        "credit_id": "6abd9d2715da27a0fc8a19d0",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6517280,
+        "known_for_department": "Art",
+        "name": "Mahryn Rose",
+        "original_name": "Mahryn Rose",
+        "popularity": 0.0304,
+        "profile_path": null,
+        "credit_id": "6abd9d9b4347ca40a58a19c7",
+        "department": "Art",
+        "job": "Art Direction"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 10051,
+        "name": "heist"
+      },
+      {
+        "id": 309270,
+        "name": "comedy thriller"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "A struggling actor, working as a waiter, unwittingly becomes involved in a violent heist gone wrong, where his boss—deep in debt—has been stealing from employees and running the restaurant as a front for the mob.",
+          "runtime": 88,
+          "tagline": "The paninis are to die for.",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt35003897",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/vyY3FGMrF28lKIFpRrfwOGOQpvH.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.658,
+        "height": 1024,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/89i7sfQedk1chSdLDblwjXdjERJ.jpg",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 674
+      },
+      {
+        "aspect_ratio": 0.75,
+        "height": 1008,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/cqQirmdGc0NEnClbph6uCb0PQPz.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 756
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Beverly Hills Film Festival",
+            "release_date": "2026-04-13T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

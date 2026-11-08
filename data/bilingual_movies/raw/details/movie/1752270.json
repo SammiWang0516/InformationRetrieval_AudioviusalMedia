@@ -1,0 +1,903 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 1752270,
+  "imdb_id": "",
+  "origin_country": [
+    "RS",
+    "BA",
+    "HU"
+  ],
+  "original_language": "bs",
+  "original_title": "Frust",
+  "overview": "A frustrated aspiring writer accidentally kills a drug dealer and becomes a reluctant dark hero, but as he spirals into more crimes, he must evade the police and question his own impact on society.",
+  "popularity": 1.0314,
+  "poster_path": "/9fw9yfglL0aw9TLSYsZCwrE4PgE.jpg",
+  "production_companies": [
+    {
+      "id": 125986,
+      "logo_path": null,
+      "name": "Firefly Productions",
+      "origin_country": "RS"
+    },
+    {
+      "id": 304291,
+      "logo_path": null,
+      "name": "Joyrider",
+      "origin_country": "HU"
+    },
+    {
+      "id": 298300,
+      "logo_path": null,
+      "name": "Telekom Srbija",
+      "origin_country": "RS"
+    },
+    {
+      "id": 48664,
+      "logo_path": "/sWKEXSX46h1mj8YRzOhnhLmbHww.png",
+      "name": "SCCA / pro.ba",
+      "origin_country": "BA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "RS",
+      "name": "Serbia"
+    },
+    {
+      "iso_3166_1": "HU",
+      "name": "Hungary"
+    },
+    {
+      "iso_3166_1": "BA",
+      "name": "Bosnia and Herzegovina"
+    }
+  ],
+  "release_date": "2026-05-08",
+  "revenue": 0,
+  "runtime": 129,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Serbian",
+      "iso_639_1": "sr",
+      "name": "Srpski"
+    },
+    {
+      "english_name": "Bosnian",
+      "iso_639_1": "bs",
+      "name": "Bosanski"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Frust",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2718368,
+        "known_for_department": "Acting",
+        "name": "Dunja Stojanović",
+        "original_name": "Dunja Stojanović",
+        "popularity": 0.1763,
+        "profile_path": "/2iFdW73qqdcsoT7J9l7FkcbwKuQ.jpg",
+        "cast_id": 1,
+        "character": "Ajna",
+        "credit_id": "6a85406daff5830e239e5467",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1962619,
+        "known_for_department": "Acting",
+        "name": "Milena Radulović",
+        "original_name": "Milena Radulović",
+        "popularity": 1.9696,
+        "profile_path": "/4hsDfERHev4rOmR9m2i9dbGZJxS.jpg",
+        "cast_id": 2,
+        "character": "Azra",
+        "credit_id": "6a85407a6e55c31ca0b57e57",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4859779,
+        "known_for_department": "Acting",
+        "name": "Margarita Mladinić",
+        "original_name": "Margarita Mladinić",
+        "popularity": 0.128,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Amina",
+        "credit_id": "6a85408cd0967a27ee9a446a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1357023,
+        "known_for_department": "Acting",
+        "name": "Amila Terzimehić",
+        "original_name": "Amila Terzimehić",
+        "popularity": 0.4541,
+        "profile_path": "/aywRLGWhrGdS2jjWhK1xpRQ3NV1.jpg",
+        "cast_id": 9,
+        "character": "Dalila",
+        "credit_id": "6ae57f7d9bff0bf13f3eb333",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2977341,
+        "known_for_department": "Acting",
+        "name": "Kerim Ćutuna",
+        "original_name": "Kerim Ćutuna",
+        "popularity": 0.2149,
+        "profile_path": "/hQDcBp0yngBNNm0BqLuuYJxi98L.jpg",
+        "cast_id": 10,
+        "character": "Eniz",
+        "credit_id": "6ae57f86f4168eeb46f18dc3",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1703873,
+        "known_for_department": "Acting",
+        "name": "Anđela Jovanović",
+        "original_name": "Anđela Jovanović",
+        "popularity": 0.229,
+        "profile_path": "/rpTFWPcx4gQRm94C736gR9Ed4HR.jpg",
+        "cast_id": 11,
+        "character": "Lana",
+        "credit_id": "6ae57f9083cd61970ccd9478",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 73331,
+        "known_for_department": "Acting",
+        "name": "Alban Ukaj",
+        "original_name": "Alban Ukaj",
+        "popularity": 0.2873,
+        "profile_path": "/nXQNs3uBJU8plENGnaeWfYHhH5q.jpg",
+        "cast_id": 12,
+        "character": "Mirza",
+        "credit_id": "6ae57f9abdf098ef3d6a123b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2908848,
+        "known_for_department": "Acting",
+        "name": "Aleksandar Dimitrijević",
+        "original_name": "Aleksandar Dimitrijević",
+        "popularity": 0.2752,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Kerim",
+        "credit_id": "6ae57fa4f187bbbf5b07f07a",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4973738,
+        "known_for_department": "Acting",
+        "name": "Lejla Hakalović",
+        "original_name": "Lejla Hakalović",
+        "popularity": 0.1976,
+        "profile_path": "/td2dAuMCZ4vBPwjMXXODEayJtlD.jpg",
+        "cast_id": 14,
+        "character": "Lejla",
+        "credit_id": "6ae57faf85b07afba16a0e63",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 586164,
+        "known_for_department": "Acting",
+        "name": "Adnan Omerović",
+        "original_name": "Adnan Omerović",
+        "popularity": 0.2755,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Nera",
+        "credit_id": "6ae57fb8780680bcbd6a0f12",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2425298,
+        "known_for_department": "Acting",
+        "name": "Emir Pašanović",
+        "original_name": "Emir Pasanovic",
+        "popularity": 0.4242,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Novinar",
+        "credit_id": "6ae57fc4fa5bb07fc76a0f56",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1440648,
+        "known_for_department": "Acting",
+        "name": "Faketa Salihbegović-Avdagić",
+        "original_name": "Faketa Salihbegović-Avdagić",
+        "popularity": 0.1234,
+        "profile_path": "/mL9ZdTIdcdFN79TTHy7lmBP7cZr.jpg",
+        "cast_id": 17,
+        "character": "Vedranova majka",
+        "credit_id": "6ae57fd0fa5bb07fc76a0f5a",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2509899,
+        "known_for_department": "Acting",
+        "name": "Irfan Ribić",
+        "original_name": "Irfan Ribić",
+        "popularity": 0.0938,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Burp",
+        "credit_id": "6ae580709aaef65977cd9676",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1526081,
+        "known_for_department": "Acting",
+        "name": "Maja Izetbegović",
+        "original_name": "Maja Izetbegović",
+        "popularity": 0.1611,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Maja",
+        "credit_id": "6ae58153780680bcbd6a0f29",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1749322,
+        "known_for_department": "Acting",
+        "name": "Edin Avdagić 'Koja'",
+        "original_name": "Edin Avdagić 'Koja'",
+        "popularity": 0.3121,
+        "profile_path": "/eREdBlyZSDsrTzDHc8nerwNyefs.jpg",
+        "cast_id": 20,
+        "character": "Roki",
+        "credit_id": "6ae58177e0e228c479c8aa51",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1532492,
+        "known_for_department": "Acting",
+        "name": "Ermin Sijamija",
+        "original_name": "Ermin Sijamija",
+        "popularity": 0.461,
+        "profile_path": "/k5ECQXCZIfiWGXWTWgxAJWFtJgN.jpg",
+        "cast_id": 21,
+        "character": "Zlatko",
+        "credit_id": "6ae58181e24de0bc9a6a0e8d",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1380275,
+        "known_for_department": "Acting",
+        "name": "Mirela Lambić",
+        "original_name": "Mirela Lambić",
+        "popularity": 0.4138,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Profesor",
+        "credit_id": "6ae5818ebdf098ef3d6a1250",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1425452,
+        "known_for_department": "Acting",
+        "name": "Amra Kapidžić",
+        "original_name": "Amra Kapidžić",
+        "popularity": 0.1128,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Mia",
+        "credit_id": "6ae58265711d991b7d07ee5a",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1540749,
+        "known_for_department": "Acting",
+        "name": "Semir Krivić",
+        "original_name": "Semir Krivić",
+        "popularity": 0.4469,
+        "profile_path": "/hiTti0F8OxQxbQcHk2tlt4u3Ezd.jpg",
+        "cast_id": 25,
+        "character": "Marko",
+        "credit_id": "6ae582719ada68b7b507f378",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3180294,
+        "known_for_department": "Directing",
+        "name": "Ivo Kaunitz",
+        "original_name": "Ivo Kaunitz",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Tjelohranitelj",
+        "credit_id": "6ae5828e1c24281482c8ab57",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1548379,
+        "known_for_department": "Acting",
+        "name": "Senad Alihodžić",
+        "original_name": "Senad Alihodžić",
+        "popularity": 0.2084,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Boris",
+        "credit_id": "6ae58298780680bcbd6a0f2d",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1875444,
+        "known_for_department": "Acting",
+        "name": "Armis Mašić",
+        "original_name": "Armis Mašić",
+        "popularity": 0.0841,
+        "profile_path": "/wdXqPCt0wkRy13Hi3sAyFjLHXSA.jpg",
+        "cast_id": 28,
+        "character": "Radnik na benzinskoj pumpi",
+        "credit_id": "6ae582ab9aaef65977cd9695",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1393067,
+        "known_for_department": "Directing",
+        "name": "Ishak Jalimam",
+        "original_name": "Ishak Jalimam",
+        "popularity": 0.1011,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Mladić na žurci",
+        "credit_id": "6ae582cf5f42283152f191d5",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4881022,
+        "known_for_department": "Acting",
+        "name": "Faruk Hajdarević",
+        "original_name": "Faruk Hajdarević",
+        "popularity": 0.0465,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Dino",
+        "credit_id": "6ae582d75c8789a7c06a0d71",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5121511,
+        "known_for_department": "Acting",
+        "name": "Haris Bidžan",
+        "original_name": "Haris Bidžan",
+        "popularity": 0.0789,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Haris",
+        "credit_id": "6ae582e0b7b5e073883eb265",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1446425,
+        "known_for_department": "Editing",
+        "name": "Redžinald Šimek",
+        "original_name": "Redžinald Šimek",
+        "popularity": 0.0747,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Buco",
+        "credit_id": "6ae582eb1b2b54c526cd92de",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1056802,
+        "known_for_department": "Acting",
+        "name": "Almir Kurt",
+        "original_name": "Almir Kurt",
+        "popularity": 0.2018,
+        "profile_path": "/v4ERVHpapQwk8P3c7FAppxuoRGf.jpg",
+        "cast_id": 33,
+        "character": "Jasmin",
+        "credit_id": "6ae582f55c8789a7c06a0d75",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2496785,
+        "known_for_department": "Acting",
+        "name": "Sanela Krsmanović-Bistrivoda",
+        "original_name": "Sanela Krsmanović-Bistrivoda",
+        "popularity": 0.1729,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Diana",
+        "credit_id": "6ae58309f187bbbf5b07f0a0",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2137137,
+        "known_for_department": "Acting",
+        "name": "Ivan Skoko",
+        "original_name": "Ivan Skoko",
+        "popularity": 0.1168,
+        "profile_path": "/xS1QlaYJd6HhNxevNv2QIvhL3C2.jpg",
+        "cast_id": 35,
+        "character": "Stevo",
+        "credit_id": "6ae5838aa1f3a32635c8aad1",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3180367,
+        "known_for_department": "Acting",
+        "name": "Deni Mešić",
+        "original_name": "Deni Mešić",
+        "popularity": 0.2144,
+        "profile_path": "/uXuYWaB96m9cBabTCvlWsGgiEwN.jpg",
+        "cast_id": 36,
+        "character": "Vedran",
+        "credit_id": "6ae58394b9ef9ed402c8ad70",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5966509,
+        "known_for_department": "Acting",
+        "name": "Enela Sefer",
+        "original_name": "Enela Sefer",
+        "popularity": 0.0331,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Mlada majka",
+        "credit_id": "6ae5839e711d991b7d07ee79",
+        "order": 30
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6589223,
+        "known_for_department": "Acting",
+        "name": "Zenan Adžem",
+        "original_name": "Zenan Adžem",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Policajac",
+        "credit_id": "6ae583ac7be6cb37b6f18c37",
+        "order": 31
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1460283,
+        "known_for_department": "Acting",
+        "name": "Amar Selimović",
+        "original_name": "Amar Selimović",
+        "popularity": 0.1957,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Ismar",
+        "credit_id": "6ae583b56693bbdd646a0d63",
+        "order": 32
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1749329,
+        "known_for_department": "Acting",
+        "name": "Aja Štukan",
+        "original_name": "Aja Štukan",
+        "popularity": 0.0342,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Obožavateljka",
+        "credit_id": "6ae583c731b268134307f041",
+        "order": 33
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4473037,
+        "known_for_department": "Acting",
+        "name": "Adis Marevac",
+        "original_name": "Adis Marevac",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Alen Emdov",
+        "credit_id": "6ae583e07be6cb37b6f18c48",
+        "order": 34
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1633102,
+        "known_for_department": "Acting",
+        "name": "Vedad Čano",
+        "original_name": "Joaquin Lavado",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "Denis",
+        "credit_id": "6ae583fe861bc6fd646a0f73",
+        "order": 35
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6563187,
+        "known_for_department": "Directing",
+        "name": "Haris Habibija",
+        "original_name": "Haris Habibija",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 43,
+        "character": "Malik",
+        "credit_id": "6ae58438bdb60af9f8f18ebe",
+        "order": 36
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6344076,
+        "known_for_department": "Acting",
+        "name": "Armin Avdić",
+        "original_name": "Ester Anjosi",
+        "popularity": 0.0874,
+        "profile_path": null,
+        "cast_id": 44,
+        "character": "Robert",
+        "credit_id": "6ae5844b1c24281482c8ab7d",
+        "order": 37
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3527773,
+        "known_for_department": "Acting",
+        "name": "Adnan Goro",
+        "original_name": "Adnan Goro",
+        "popularity": 0.0969,
+        "profile_path": "/prZKQJJgTluxHsMfCE8KRjfEEt5.jpg",
+        "cast_id": 45,
+        "character": "Goran",
+        "credit_id": "6ae5846fbdf098ef3d6a1282",
+        "order": 38
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2840157,
+        "known_for_department": "Acting",
+        "name": "Emir Džino",
+        "original_name": "Eszter Angyalosy",
+        "popularity": 0.1107,
+        "profile_path": null,
+        "cast_id": 46,
+        "character": "Emir",
+        "credit_id": "6ae5847d9ada68b7b507f39a",
+        "order": 39
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2102663,
+        "known_for_department": "Acting",
+        "name": "Adnan Kadić",
+        "original_name": "Adnan Kadic",
+        "popularity": 0.0575,
+        "profile_path": null,
+        "cast_id": 47,
+        "character": "Pjan mladić",
+        "credit_id": "6ae584a5cb7ac46090cd9175",
+        "order": 40
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4651525,
+        "known_for_department": "Acting",
+        "name": "Goran Ališkanović",
+        "original_name": "Goran Aliskanovic",
+        "popularity": 0.0488,
+        "profile_path": "/bWksQbcU7UmcL3Bz3ICBqa7OmSy.jpg",
+        "cast_id": 48,
+        "character": "Poznato lice",
+        "credit_id": "6ae584c79ada68b7b507f3a3",
+        "order": 41
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2139938,
+        "known_for_department": "Writing",
+        "name": "Almir Palata",
+        "original_name": "Almir Palata",
+        "popularity": 0.1647,
+        "profile_path": "/w7vTNAFecac2kn3US4FLhN4QDj8.jpg",
+        "cast_id": 49,
+        "character": "Ferid",
+        "credit_id": "6ae584e79bff0bf13f3eb374",
+        "order": 42
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4318621,
+        "known_for_department": "Acting",
+        "name": "Emir Zametica",
+        "original_name": "Emir Zametica",
+        "popularity": 0.0363,
+        "profile_path": null,
+        "cast_id": 50,
+        "character": "Aktivista",
+        "credit_id": "6ae584f04b3a867ad8f18eed",
+        "order": 43
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5966537,
+        "known_for_department": "Acting",
+        "name": "Fehim Kušundžija",
+        "original_name": "Fehim Kušundžija",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "cast_id": 51,
+        "character": "Starac",
+        "credit_id": "6ae584fb01fb8c404407f3c0",
+        "order": 44
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6589232,
+        "known_for_department": "Acting",
+        "name": "Ado Hadžić",
+        "original_name": "Ado Hadžić",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 52,
+        "character": "Stariji obožavatelj",
+        "credit_id": "6ae5851310d8b45b0ff18e5c",
+        "order": 45
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2229848,
+        "known_for_department": "Acting",
+        "name": "Ernad Prnjavorac",
+        "original_name": "Ernad Prnjavorac",
+        "popularity": 0.1474,
+        "profile_path": null,
+        "cast_id": 53,
+        "character": "Adnan",
+        "credit_id": "6ae5853b780680bcbd6a0f4a",
+        "order": 46
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20028,
+        "known_for_department": "Directing",
+        "name": "Danis Tanović",
+        "original_name": "Danis Tanović",
+        "popularity": 0.4611,
+        "profile_path": "/76GowczFt5uHd9q80KH1BqYM3OY.jpg",
+        "credit_id": "6a8540c9ee7b31848a9e5302",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1440036,
+        "known_for_department": "Production",
+        "name": "Gábor Krigler",
+        "original_name": "Krigler Gábor",
+        "popularity": 0.1162,
+        "profile_path": null,
+        "credit_id": "6a8540f1c87fa276d1dcbed9",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1440036,
+        "known_for_department": "Production",
+        "name": "Gábor Krigler",
+        "original_name": "Krigler Gábor",
+        "popularity": 0.1162,
+        "profile_path": null,
+        "credit_id": "6a854142348f7f5625b0c92b",
+        "department": "Writing",
+        "job": "Creative Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3179346,
+        "known_for_department": "Writing",
+        "name": "Eszter Angyalosy",
+        "original_name": "Eszter Angyalosy",
+        "popularity": 0.1478,
+        "profile_path": null,
+        "credit_id": "6ae57f269aaef65977cd9658",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4175152,
+        "known_for_department": "Directing",
+        "name": "Csicskár Dávid",
+        "original_name": "Csicskár Dávid",
+        "popularity": 0.0658,
+        "profile_path": null,
+        "credit_id": "6ae57f42f6b64a581ccd8f20",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1030481,
+        "known_for_department": "Writing",
+        "name": "Srđan Vuletić",
+        "original_name": "Srđan Vuletić",
+        "popularity": 0.1202,
+        "profile_path": null,
+        "credit_id": "6ae582206025ea8f713eb45e",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "A frustrated aspiring writer accidentally kills a drug dealer and becomes a reluctant dark hero, but as he spirals into more crimes, he must evade the police and question his own impact on society.",
+          "runtime": 129,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 750,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/9fw9yfglL0aw9TLSYsZCwrE4PgE.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 500
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "RS",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-05-08T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

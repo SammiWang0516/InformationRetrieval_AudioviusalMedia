@@ -1,0 +1,428 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1571303,
+  "imdb_id": "tt36776891",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Capture",
+  "overview": "Following an awards ceremony, the ungrateful winner encounters an eager photographer who seems determined to get the perfect shot.",
+  "popularity": 1.0647,
+  "poster_path": "/fERARkGmeolv2Xk8N8E2Dt4Hoyt.jpg",
+  "production_companies": [
+    {
+      "id": 203921,
+      "logo_path": null,
+      "name": "Pendle Films",
+      "origin_country": ""
+    },
+    {
+      "id": 203922,
+      "logo_path": null,
+      "name": "Parcel Face Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2025-10-17",
+  "revenue": 0,
+  "runtime": 2,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "The exposure was just way too much.",
+  "title": "Capture",
+  "video": false,
+  "vote_average": 2.0,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2092528,
+        "known_for_department": "Acting",
+        "name": "Christian Tribuzio",
+        "original_name": "Christian Tribuzio",
+        "popularity": 0.2114,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Award Winner",
+        "credit_id": "690299f97b084600194044fe",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4158219,
+        "known_for_department": "Acting",
+        "name": "Rebecca Callender",
+        "original_name": "Rebecca Callender",
+        "popularity": 0.2481,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Award Loser",
+        "credit_id": "69029a081ab917985a4044f7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1567037,
+        "known_for_department": "Acting",
+        "name": "Peter Mazzucco",
+        "original_name": "Peter Mazzucco",
+        "popularity": 0.2308,
+        "profile_path": "/mh7liclGUs7BceaCUFrvG21aurC.jpg",
+        "cast_id": 3,
+        "character": "The Photographer",
+        "credit_id": "69029a18189e7f6d972f4520",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4158220,
+        "known_for_department": "Acting",
+        "name": "Kyle Dunbar",
+        "original_name": "Kyle Dunbar",
+        "popularity": 0.3688,
+        "profile_path": null,
+        "credit_id": "69029a2a117e68225d31bdef",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2092528,
+        "known_for_department": "Acting",
+        "name": "Christian Tribuzio",
+        "original_name": "Christian Tribuzio",
+        "popularity": 0.2114,
+        "profile_path": null,
+        "credit_id": "69029a3f6ec6e2fba631bdd9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4158219,
+        "known_for_department": "Acting",
+        "name": "Rebecca Callender",
+        "original_name": "Rebecca Callender",
+        "popularity": 0.2481,
+        "profile_path": null,
+        "credit_id": "69029a4d235088445331bdf1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4158220,
+        "known_for_department": "Acting",
+        "name": "Kyle Dunbar",
+        "original_name": "Kyle Dunbar",
+        "popularity": 0.3688,
+        "profile_path": null,
+        "credit_id": "69029a5b9106d759756d6e4a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4158220,
+        "known_for_department": "Acting",
+        "name": "Kyle Dunbar",
+        "original_name": "Kyle Dunbar",
+        "popularity": 0.3688,
+        "profile_path": null,
+        "credit_id": "69029a7233c9ea5ff631bdda",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2092528,
+        "known_for_department": "Acting",
+        "name": "Christian Tribuzio",
+        "original_name": "Christian Tribuzio",
+        "popularity": 0.2114,
+        "profile_path": null,
+        "credit_id": "69029a8dc51692404b4da256",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4158219,
+        "known_for_department": "Acting",
+        "name": "Rebecca Callender",
+        "original_name": "Rebecca Callender",
+        "popularity": 0.2481,
+        "profile_path": null,
+        "credit_id": "69029a9fcca4edfb4c3175b6",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4158220,
+        "known_for_department": "Acting",
+        "name": "Kyle Dunbar",
+        "original_name": "Kyle Dunbar",
+        "popularity": 0.3688,
+        "profile_path": null,
+        "credit_id": "69029aac399c92e0367acad9",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2092535,
+        "known_for_department": "Camera",
+        "name": "Joel Ruscinski",
+        "original_name": "Joel Ruscinski",
+        "popularity": 0.1363,
+        "profile_path": null,
+        "credit_id": "69029ac13784bb185a4da27f",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1740559,
+        "known_for_department": "Sound",
+        "name": "Sean Van Delft",
+        "original_name": "Sean Van Delft",
+        "popularity": 0.2234,
+        "profile_path": null,
+        "credit_id": "69029ae0ea9cac576b4da270",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1915787,
+        "known_for_department": "Sound",
+        "name": "Kevin Brown",
+        "original_name": "Kevin Brown",
+        "popularity": 0.0605,
+        "profile_path": null,
+        "credit_id": "69029b5c33dc5ac8dbb6aa2d",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5783070,
+        "known_for_department": "Production",
+        "name": "Grace Gahore",
+        "original_name": "Grace Gahore",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69029b846df130d90e40a136",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5783071,
+        "known_for_department": "Production",
+        "name": "Sydney Leggatt",
+        "original_name": "Sydney Leggatt",
+        "popularity": 0.0604,
+        "profile_path": null,
+        "credit_id": "69029ba8b00ccf797e3175e0",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5783072,
+        "known_for_department": "Production",
+        "name": "Jackson Stewart",
+        "original_name": "Jackson Stewart",
+        "popularity": 0.038,
+        "profile_path": null,
+        "credit_id": "69029bd1c62656903f2f454a",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4158219,
+        "known_for_department": "Acting",
+        "name": "Rebecca Callender",
+        "original_name": "Rebecca Callender",
+        "popularity": 0.2481,
+        "profile_path": null,
+        "credit_id": "69029dc3053f8b570cb6aa40",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5784201,
+        "known_for_department": "Editing",
+        "name": "Jack Peresin",
+        "original_name": "Jack Peresin",
+        "popularity": 0.0359,
+        "profile_path": null,
+        "credit_id": "69036cdbd2eb47a02509cf86",
+        "department": "Editing",
+        "job": "Colorist"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 6025,
+        "name": "photography"
+      },
+      {
+        "id": 1523,
+        "name": "obsession"
+      },
+      {
+        "id": 2560,
+        "name": "paparazzi"
+      },
+      {
+        "id": 10123,
+        "name": "dark comedy"
+      },
+      {
+        "id": 8201,
+        "name": "satire"
+      },
+      {
+        "id": 10232,
+        "name": "fame"
+      },
+      {
+        "id": 12565,
+        "name": "psychological thriller"
+      },
+      {
+        "id": 191741,
+        "name": "award"
+      },
+      {
+        "id": 204045,
+        "name": "awards show"
+      },
+      {
+        "id": 242024,
+        "name": "obssesive fan"
+      },
+      {
+        "id": 269726,
+        "name": "cautionary tale"
+      },
+      {
+        "id": 288394,
+        "name": "suspense"
+      },
+      {
+        "id": 324604,
+        "name": "hitchcockian"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Following an awards ceremony, the ungrateful winner encounters an eager photographer who seems determined to get the perfect shot.",
+          "runtime": 2,
+          "tagline": "The exposure was just way too much.",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt36776891",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.666,
+        "height": 800,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/fERARkGmeolv2Xk8N8E2Dt4Hoyt.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 533
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "Terror In The Bay Film Festival",
+            "release_date": "2025-10-17T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

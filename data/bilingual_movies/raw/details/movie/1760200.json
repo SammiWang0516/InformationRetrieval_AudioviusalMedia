@@ -1,0 +1,638 @@
+{
+  "adult": false,
+  "backdrop_path": "/iDtYsXHuhiWvPLTKFxar1UkA2h3.jpg",
+  "belongs_to_collection": null,
+  "budget": 1500,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 1760200,
+  "imdb_id": "tt35887463",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "The Sunsets in the West",
+  "overview": "A folk duo begins to have issues when one of them wants to leave the band and pursue music with their girlfriend instead.",
+  "popularity": 0.8732,
+  "poster_path": "/jgR2wbK2x2X3RznknqR0vImxb3G.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2026-09-10",
+  "revenue": 0,
+  "runtime": 17,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Sunsets in the West",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4474087,
+        "known_for_department": "Acting",
+        "name": "Daniel Pupella",
+        "original_name": "Daniel Pupella",
+        "popularity": 0.0685,
+        "profile_path": "/6OfOGPeSGaxSmnZg8px6ro5iLrn.jpg",
+        "cast_id": 1,
+        "character": "John Goodridge",
+        "credit_id": "6a97079bd99aef3d0148632a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1958356,
+        "known_for_department": "Acting",
+        "name": "Alexandre Bourgeois",
+        "original_name": "Alexandre Bourgeois",
+        "popularity": 0.6054,
+        "profile_path": "/lMG9kxu2nbXNrn7x1UGnVWap1Ol.jpg",
+        "cast_id": 2,
+        "character": "Jack Fox",
+        "credit_id": "6a9707a7524df7ab515edd96",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1482606,
+        "known_for_department": "Acting",
+        "name": "Zoë Fraser",
+        "original_name": "Zoë Fraser",
+        "popularity": 0.1635,
+        "profile_path": "/svB9o9c2k9HAdQp2R4zZE30sI1n.jpg",
+        "cast_id": 3,
+        "character": "Raine Collins",
+        "credit_id": "6a9707b19103844b87486322",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4617299,
+        "known_for_department": "Directing",
+        "name": "Nick Kastanis",
+        "original_name": "Nick Kastanis",
+        "popularity": 0.3297,
+        "profile_path": "/lxfFzIecEt64VTc1WuZq30kF3JI.jpg",
+        "credit_id": "6a98239ac826352482486d9c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4617299,
+        "known_for_department": "Directing",
+        "name": "Nick Kastanis",
+        "original_name": "Nick Kastanis",
+        "popularity": 0.3297,
+        "profile_path": "/lxfFzIecEt64VTc1WuZq30kF3JI.jpg",
+        "credit_id": "6a9823ca99e037d25056fadc",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4617299,
+        "known_for_department": "Directing",
+        "name": "Nick Kastanis",
+        "original_name": "Nick Kastanis",
+        "popularity": 0.3297,
+        "profile_path": "/lxfFzIecEt64VTc1WuZq30kF3JI.jpg",
+        "credit_id": "6a9823d6ca68b8e04956f7eb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6452500,
+        "known_for_department": "Production",
+        "name": "Schroeder Reitzel",
+        "original_name": "Schroeder Reitzel",
+        "popularity": 0.073,
+        "profile_path": null,
+        "credit_id": "6a982400297617909cc86a6b",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6452501,
+        "known_for_department": "Sound",
+        "name": "Isabel MacLellan",
+        "original_name": "Isabel MacLellan",
+        "popularity": 0.2308,
+        "profile_path": null,
+        "credit_id": "6a98240fc69acdb586bd5a98",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6452501,
+        "known_for_department": "Sound",
+        "name": "Isabel MacLellan",
+        "original_name": "Isabel MacLellan",
+        "popularity": 0.2308,
+        "profile_path": null,
+        "credit_id": "6a98241d66fe428a1fc86acc",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6452503,
+        "known_for_department": "Production",
+        "name": "Lindsay Watt",
+        "original_name": "Lindsay Watt",
+        "popularity": 0.3979,
+        "profile_path": null,
+        "credit_id": "6a98242fc826352482486dc3",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4900111,
+        "known_for_department": "Camera",
+        "name": "Bria Lina Okenge",
+        "original_name": "Bria Lina Okenge",
+        "popularity": 0.0556,
+        "profile_path": null,
+        "credit_id": "6a982443c826352482486dc6",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4900111,
+        "known_for_department": "Camera",
+        "name": "Bria Lina Okenge",
+        "original_name": "Bria Lina Okenge",
+        "popularity": 0.0556,
+        "profile_path": null,
+        "credit_id": "6a98244b34db401ab756fa30",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6452504,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Dahlia Williams",
+        "original_name": "Dahlia Williams",
+        "popularity": 0.3257,
+        "profile_path": null,
+        "credit_id": "6a98245c911fcdfb0c5ee813",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6125044,
+        "known_for_department": "Art",
+        "name": "Lily Bogdanis",
+        "original_name": "Lily Bogdanis",
+        "popularity": 0.1912,
+        "profile_path": null,
+        "credit_id": "6a982470d00db087f55ee8a4",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5287469,
+        "known_for_department": "Directing",
+        "name": "Lance Delos Santos",
+        "original_name": "Lance Delos Santos",
+        "popularity": 0.3193,
+        "profile_path": null,
+        "credit_id": "6a98247e6d2bd36e10486e1d",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5227804,
+        "known_for_department": "Editing",
+        "name": "Isaac Oxley",
+        "original_name": "Isaac Oxley",
+        "popularity": 0.2688,
+        "profile_path": null,
+        "credit_id": "6a982492f2198434fa8eb6f3",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6452507,
+        "known_for_department": "Art",
+        "name": "Eliana Aleman-Reategui",
+        "original_name": "Eliana Aleman-Reategui",
+        "popularity": 0.1074,
+        "profile_path": null,
+        "credit_id": "6a9824a90a2234c023486d65",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4638317,
+        "known_for_department": "Camera",
+        "name": "Jonathan Blackman",
+        "original_name": "Jonathan Blackman",
+        "popularity": 0.3787,
+        "profile_path": null,
+        "credit_id": "6a9824bb90f2e2dd3dccf3a7",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4659750,
+        "known_for_department": "Camera",
+        "name": "Jodi Gapan",
+        "original_name": "Jodi Gapan",
+        "popularity": 0.0729,
+        "profile_path": null,
+        "credit_id": "6a9824c7cdeb40d00d8eb770",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4659750,
+        "known_for_department": "Camera",
+        "name": "Jodi Gapan",
+        "original_name": "Jodi Gapan",
+        "popularity": 0.0729,
+        "profile_path": null,
+        "credit_id": "6a9824d52ab48b4add8eb756",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6070531,
+        "known_for_department": "Editing",
+        "name": "Rachel Poltrok",
+        "original_name": "Rachel Poltrok",
+        "popularity": 0.2536,
+        "profile_path": null,
+        "credit_id": "6a9824e32ab48b4add8eb759",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4617302,
+        "known_for_department": "Directing",
+        "name": "Sonia Haba",
+        "original_name": "Sonia Haba",
+        "popularity": 0.1288,
+        "profile_path": null,
+        "credit_id": "6a9824f25e8c379cd3bd5bac",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4620399,
+        "known_for_department": "Camera",
+        "name": "Ewan Ollson",
+        "original_name": "Ewan Ollson",
+        "popularity": 0.1457,
+        "profile_path": null,
+        "credit_id": "6a9825072ab48b4add8eb75f",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4621519,
+        "known_for_department": "Production",
+        "name": "Ethan Hoogkamp",
+        "original_name": "Ethan Hoogkamp",
+        "popularity": 0.0623,
+        "profile_path": null,
+        "credit_id": "6a982516c826352482486de7",
+        "department": "Sound",
+        "job": "Sound Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5161291,
+        "known_for_department": "Sound",
+        "name": "Oliver McIntosh",
+        "original_name": "Oliver McIntosh",
+        "popularity": 0.1891,
+        "profile_path": null,
+        "credit_id": "6a9825275db2117466beafe2",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5161291,
+        "known_for_department": "Sound",
+        "name": "Oliver McIntosh",
+        "original_name": "Oliver McIntosh",
+        "popularity": 0.1891,
+        "profile_path": null,
+        "credit_id": "6a982531cdeb40d00d8eb77f",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4675278,
+        "known_for_department": "Acting",
+        "name": "Reuben Pender Chapman",
+        "original_name": "Reuben Pender Chapman",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a98253fc7b535ce3ae5b3f0",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4714624,
+        "known_for_department": "Lighting",
+        "name": "Julia Harris",
+        "original_name": "Julia Harris",
+        "popularity": 0.065,
+        "profile_path": null,
+        "credit_id": "6a9825517605e37a768eb39b",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4700570,
+        "known_for_department": "Camera",
+        "name": "Sanaya Nilgirlwala",
+        "original_name": "Sanaya Nilgirlwala",
+        "popularity": 0.0369,
+        "profile_path": null,
+        "credit_id": "6a98255df2198434fa8eb6fb",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4441965,
+        "known_for_department": "Acting",
+        "name": "Annika Ferronato",
+        "original_name": "Annika Ferronato",
+        "popularity": 0.275,
+        "profile_path": null,
+        "credit_id": "6a9825690a2234c023486d7f",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5099828,
+        "known_for_department": "Camera",
+        "name": "Matthias Bayer",
+        "original_name": "Matthias Bayer",
+        "popularity": 0.264,
+        "profile_path": null,
+        "credit_id": "6a982576f8310ce45356fbd0",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6452509,
+        "known_for_department": "Camera",
+        "name": "Kaia Collie",
+        "original_name": "Kaia Collie",
+        "popularity": 0.1923,
+        "profile_path": null,
+        "credit_id": "6a98257e8f37cf9d6fbd5f0d",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5070211,
+        "known_for_department": "Sound",
+        "name": "Harrison DiCresce",
+        "original_name": "Harrison DiCresce",
+        "popularity": 0.2912,
+        "profile_path": null,
+        "credit_id": "6a98258df74bb56508bd5c6c",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4623563,
+        "known_for_department": "Production",
+        "name": "Jagger Hernandez Calderon",
+        "original_name": "Jagger Hernandez Calderon",
+        "popularity": 0.0813,
+        "profile_path": null,
+        "credit_id": "6a98259a99e037d25056fb0b",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6452510,
+        "known_for_department": "Production",
+        "name": "Aasiya Sheikh",
+        "original_name": "Aasiya Sheikh",
+        "popularity": 0.3102,
+        "profile_path": null,
+        "credit_id": "6a9825b43b8e633d158eb62a",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4620399,
+        "known_for_department": "Camera",
+        "name": "Ewan Ollson",
+        "original_name": "Ewan Ollson",
+        "popularity": 0.1457,
+        "profile_path": null,
+        "credit_id": "6a9825ccd00db087f55ee8d6",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4620389,
+        "known_for_department": "Acting",
+        "name": "Jonas Blackburn",
+        "original_name": "Jonas Blackburn",
+        "popularity": 0.3327,
+        "profile_path": null,
+        "credit_id": "6a9825df2dfbb43a85c86d2a",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4620389,
+        "known_for_department": "Acting",
+        "name": "Jonas Blackburn",
+        "original_name": "Jonas Blackburn",
+        "popularity": 0.3327,
+        "profile_path": null,
+        "credit_id": "6a9825ef5e8c379cd3bd5bcc",
+        "department": "Writing",
+        "job": "Musical"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "A folk duo begins to have issues when one of them wants to leave the band and pursue music with their girlfriend instead.",
+          "runtime": 17,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt35887463",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1606,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/iDtYsXHuhiWvPLTKFxar1UkA2h3.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2855
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/jgR2wbK2x2X3RznknqR0vImxb3G.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-09-10T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Sunsets in the West | Official Trailer | MBF",
+        "key": "ZfmGqYhkHNk",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": false,
+        "id": "6a9826b349622e939accf37c",
+        "published_at": "2025-05-24T16:00:06.000Z"
+      }
+    ]
+  }
+}

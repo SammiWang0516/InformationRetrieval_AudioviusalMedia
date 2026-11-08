@@ -1,0 +1,634 @@
+{
+  "adult": false,
+  "backdrop_path": "/yYGDtvqwZWFzMc35SwDEQwInfz5.jpg",
+  "belongs_to_collection": null,
+  "budget": 3000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1510267,
+  "imdb_id": "tt32986823",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "DISC",
+  "overview": "The story of a hookup gone too far up.",
+  "popularity": 1.1534,
+  "poster_path": "/s4yA8AE3K72487O85y7SroM9ANt.jpg",
+  "production_companies": [
+    {
+      "id": 146054,
+      "logo_path": null,
+      "name": "Pan Up Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 227015,
+      "logo_path": null,
+      "name": "BWR Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 267409,
+      "logo_path": "/ikp37t9XAlDIr5q7YnwZqusFVfL.png",
+      "name": "OB Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-09-04",
+  "revenue": 0,
+  "runtime": 14,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "DISC",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1416383,
+        "known_for_department": "Acting",
+        "name": "Jim Cummings",
+        "original_name": "Jim Cummings",
+        "popularity": 0.7567,
+        "profile_path": "/3xZ06yaRBJKHzwqKYrGU4uKMtws.jpg",
+        "cast_id": 4,
+        "character": "Carey",
+        "credit_id": "686cd744ee498f21056e8bd8",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3904787,
+        "known_for_department": "Acting",
+        "name": "Victoria Ratermanis",
+        "original_name": "Victoria Ratermanis",
+        "popularity": 0.5347,
+        "profile_path": "/59FIDHYmaTkn1ubYWWVRgzD9ZN7.jpg",
+        "cast_id": 5,
+        "character": "Alex",
+        "credit_id": "686cd74a5a3c40c600540420",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4551741,
+        "known_for_department": "Acting",
+        "name": "Donald Didion Jr.",
+        "original_name": "Donald Didion Jr.",
+        "popularity": 0.3163,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Hotel Employee",
+        "credit_id": "689e2f21d7e1256b40c70c9c",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3686434,
+        "known_for_department": "Acting",
+        "name": "Dawnnie Mercado",
+        "original_name": "Dawnnie Mercado",
+        "popularity": 0.1474,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "House Keeper",
+        "credit_id": "689e2f31b787a192fb2691b8",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2075624,
+        "known_for_department": "Directing",
+        "name": "Blake Rice",
+        "original_name": "Blake Rice",
+        "popularity": 0.245,
+        "profile_path": "/aaYCzxZ2qRURPgcypegT2JJ5PGi.jpg",
+        "credit_id": "686cd70f4a4b44a0daa9626b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2075624,
+        "known_for_department": "Directing",
+        "name": "Blake Rice",
+        "original_name": "Blake Rice",
+        "popularity": 0.245,
+        "profile_path": "/aaYCzxZ2qRURPgcypegT2JJ5PGi.jpg",
+        "credit_id": "686cd71f8a675c21b2703335",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3904787,
+        "known_for_department": "Acting",
+        "name": "Victoria Ratermanis",
+        "original_name": "Victoria Ratermanis",
+        "popularity": 0.5347,
+        "profile_path": "/59FIDHYmaTkn1ubYWWVRgzD9ZN7.jpg",
+        "credit_id": "686cd7337aab150fb970339d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3043937,
+        "known_for_department": "Art",
+        "name": "Ashlynn Tierney",
+        "original_name": "Ashlynn Tierney",
+        "popularity": 0.038,
+        "profile_path": null,
+        "credit_id": "686d2bf2ba81d2d162ed5ea7",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2806237,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sidney Young",
+        "original_name": "Sidney Young",
+        "popularity": 0.0631,
+        "profile_path": null,
+        "credit_id": "686d2c1099e3aab4f151e619",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3919790,
+        "known_for_department": "Camera",
+        "name": "Nyk Allen",
+        "original_name": "Nyk Allen",
+        "popularity": 0.1565,
+        "profile_path": null,
+        "credit_id": "686d2c218650213ff2ceec3f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3298449,
+        "known_for_department": "Sound",
+        "name": "Patrick Baigrie",
+        "original_name": "Patrick Baigrie",
+        "popularity": 0.1027,
+        "profile_path": null,
+        "credit_id": "686d2c3b2d2399db8c54066d",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5551869,
+        "known_for_department": "Lighting",
+        "name": "Kevin Cecil",
+        "original_name": "Kevin Cecil",
+        "popularity": 0.0369,
+        "profile_path": null,
+        "credit_id": "686d2c6dc74a5042c8104037",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2503603,
+        "known_for_department": "Editing",
+        "name": "Mike O'Brien",
+        "original_name": "Mike O'Brien",
+        "popularity": 0.076,
+        "profile_path": "/9nxX7wioc66Pn29sUUqbUJEWBKu.jpg",
+        "credit_id": "686d2c886fd4890921540a15",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1416383,
+        "known_for_department": "Acting",
+        "name": "Jim Cummings",
+        "original_name": "Jim Cummings",
+        "popularity": 0.7567,
+        "profile_path": "/3xZ06yaRBJKHzwqKYrGU4uKMtws.jpg",
+        "credit_id": "686d2cc632fe6c4e7fe7fecd",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3904787,
+        "known_for_department": "Acting",
+        "name": "Victoria Ratermanis",
+        "original_name": "Victoria Ratermanis",
+        "popularity": 0.5347,
+        "profile_path": "/59FIDHYmaTkn1ubYWWVRgzD9ZN7.jpg",
+        "credit_id": "686d2d0a48e76658149a4905",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4627042,
+        "known_for_department": "Production",
+        "name": "Robert Ravenscroft",
+        "original_name": "Robert Ravenscroft",
+        "popularity": 0.2111,
+        "profile_path": null,
+        "credit_id": "689e2e93a4875980485d28a2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4627042,
+        "known_for_department": "Production",
+        "name": "Robert Ravenscroft",
+        "original_name": "Robert Ravenscroft",
+        "popularity": 0.2111,
+        "profile_path": null,
+        "credit_id": "689e2eabba92f57338b70f05",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2075624,
+        "known_for_department": "Directing",
+        "name": "Blake Rice",
+        "original_name": "Blake Rice",
+        "popularity": 0.245,
+        "profile_path": "/aaYCzxZ2qRURPgcypegT2JJ5PGi.jpg",
+        "credit_id": "689e2ec01c3e7e26bdb71588",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4498439,
+        "known_for_department": "Acting",
+        "name": "Kevin Garrett",
+        "original_name": "Kevin Garrett",
+        "popularity": 0.1258,
+        "profile_path": null,
+        "credit_id": "689e2f996e239fedf01a3f64",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4761140,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Brina Irvin",
+        "original_name": "Brina Irvin",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "689e2fb05f6878f4815e506e",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5626097,
+        "known_for_department": "Directing",
+        "name": "Deborah Rose Peña",
+        "original_name": "Deborah Rose Peña",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "689e2fbca8cae6d7a58ec257",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1944361,
+        "known_for_department": "Sound",
+        "name": "Ben Chesneau",
+        "original_name": "Ben Chesneau",
+        "popularity": 0.0447,
+        "profile_path": null,
+        "credit_id": "689e2ff2124b7c08f45d2746",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1944361,
+        "known_for_department": "Sound",
+        "name": "Ben Chesneau",
+        "original_name": "Ben Chesneau",
+        "popularity": 0.0447,
+        "profile_path": null,
+        "credit_id": "689e2ff876150be6911a3f6c",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5626103,
+        "known_for_department": "Visual Effects",
+        "name": "Brinton Jaecks",
+        "original_name": "Brinton Jaecks",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "689e301078a26982771a3f51",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2964533,
+        "known_for_department": "Directing",
+        "name": "Javier Devitt",
+        "original_name": "Javier Devitt",
+        "popularity": 0.126,
+        "profile_path": "/nquPnphtfuVbVxCna5hq5EbyimV.jpg",
+        "credit_id": "689e30203b2be8256b8ec247",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5327617,
+        "known_for_department": "Lighting",
+        "name": "Kade Baughan",
+        "original_name": "Kade Baughan",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "689e302e147fe15bf75e4a17",
+        "department": "Art",
+        "job": "Swing"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4092164,
+        "known_for_department": "Camera",
+        "name": "Francisco 'Pancho' Ortiz",
+        "original_name": "Francisco 'Pancho' Ortiz",
+        "popularity": 0.0602,
+        "profile_path": null,
+        "credit_id": "689e3055ba053036a66d837f",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5626107,
+        "known_for_department": "Camera",
+        "name": "Sam Satossky",
+        "original_name": "Sam Satossky",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "689e306114835f85285d27ce",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5012227,
+        "known_for_department": "Camera",
+        "name": "Cynthia Trejo",
+        "original_name": "Cynthia Trejo",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "689e306cb1a4590dbe5e4ee5",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2806237,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sidney Young",
+        "original_name": "Sidney Young",
+        "popularity": 0.0631,
+        "profile_path": null,
+        "credit_id": "689e3083e99a7048a95e4a3f",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4390387,
+        "known_for_department": "Editing",
+        "name": "Matt Osborne",
+        "original_name": "Matt Osborne",
+        "popularity": 0.349,
+        "profile_path": "/gYzNwSaCyRc6onucvFrdoblxTNN.jpg",
+        "credit_id": "689e30e4ff20fc9428c70a00",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4432006,
+        "known_for_department": "Directing",
+        "name": "Haneol Lee",
+        "original_name": "Haneol Lee",
+        "popularity": 0.1313,
+        "profile_path": "/a3wK9Brc8d83jLCi6ztDaJf63JJ.jpg",
+        "credit_id": "69f9a12cd3f43e011e795dcd",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4432006,
+        "known_for_department": "Directing",
+        "name": "Haneol Lee",
+        "original_name": "Haneol Lee",
+        "popularity": 0.1313,
+        "profile_path": "/a3wK9Brc8d83jLCi6ztDaJf63JJ.jpg",
+        "credit_id": "69f9a14ec3ae8cb8b3daab54",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 263548,
+        "name": "short film"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "The story of a hookup gone too far up.",
+          "runtime": 14,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt32986823",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 720,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/yYGDtvqwZWFzMc35SwDEQwInfz5.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1280
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 2048,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/s4yA8AE3K72487O85y7SroM9ANt.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1365
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Toronto International Film Festival",
+            "release_date": "2025-09-04T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "UA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Kyiv International Short Film Festival ",
+            "release_date": "2026-09-18T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Woodstock Film Festival",
+            "release_date": "2025-10-17T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Montana Film Festival",
+            "release_date": "2026-10-23T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "DISC Trailer | TIFF 2025",
+        "key": "rX1VeQnFjAA",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": false,
+        "id": "68a0c7516f3d01ba7e18c63f",
+        "published_at": "2025-08-07T14:01:33.000Z"
+      }
+    ]
+  }
+}

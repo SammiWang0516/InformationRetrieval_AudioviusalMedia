@@ -1,0 +1,625 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 3400,
+  "genres": [],
+  "homepage": "",
+  "id": 1706539,
+  "imdb_id": null,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "Rotten Apples",
+  "overview": "When Eddie, a successful but insecure actor, is saddled with his Alzheimer's-stricken father after he’s kicked out of Rotten Apples, a nursing home for emotionally inept old men, he must figure out the fastest way to get rid of him—in time for his life-changing Zoom audition with Darren Aronofsky, a role which could finally get him the Award he has always dreamed of.",
+  "popularity": 1.5272,
+  "poster_path": "/bCMqXyw26hWylidJWjkjAahYKWL.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2026-06-11",
+  "revenue": 0,
+  "runtime": 12,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Rotten Apples",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27119,
+        "known_for_department": "Acting",
+        "name": "Bernard Cuffling",
+        "original_name": "Bernard Cuffling",
+        "popularity": 0.3946,
+        "profile_path": "/rla86XNirzJYWLY7TLV92jhKrXt.jpg",
+        "cast_id": 1,
+        "character": "Dave Eggler",
+        "credit_id": "6a1e15af202fbd20869f1f2b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6257340,
+        "known_for_department": "Acting",
+        "name": "Steve Galid Amazzal",
+        "original_name": "Steve Galid Amazzal",
+        "popularity": 0.1594,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Eddie Eggler",
+        "credit_id": "6a1e15fa9154c6dbf39f1eea",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6257344,
+        "known_for_department": "Acting",
+        "name": "Helena Weibe",
+        "original_name": "Helena Weibe",
+        "popularity": 0.1102,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Marie Eggler",
+        "credit_id": "6a1e161d947a9db061085fc1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3536437,
+        "known_for_department": "Acting",
+        "name": "Sean Finan",
+        "original_name": "Sean Finan",
+        "popularity": 0.2171,
+        "profile_path": "/uQ1Jzhg9wroxTbtTaU7LBMYVNvV.jpg",
+        "cast_id": 5,
+        "character": "Mark",
+        "credit_id": "6a1e1910b556c753c1bef1ca",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3536437,
+        "known_for_department": "Acting",
+        "name": "Sean Finan",
+        "original_name": "Sean Finan",
+        "popularity": 0.2171,
+        "profile_path": "/uQ1Jzhg9wroxTbtTaU7LBMYVNvV.jpg",
+        "credit_id": "6a1e17ec064bd806a8ca5b1f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6257371,
+        "known_for_department": "Camera",
+        "name": "Ben Taylor",
+        "original_name": "Ben Taylor",
+        "popularity": 0.0473,
+        "profile_path": null,
+        "credit_id": "6a1e1c12cfd1e4f872caba3d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3866375,
+        "known_for_department": "Directing",
+        "name": "Brandon Yap",
+        "original_name": "Brandon Yap",
+        "popularity": 0.0474,
+        "profile_path": null,
+        "credit_id": "6a1e1c2587dccc83b1cabb5d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6257373,
+        "known_for_department": "Sound",
+        "name": "Daniel Almodovar",
+        "original_name": "Daniel Almodovar",
+        "popularity": 0.0359,
+        "profile_path": null,
+        "credit_id": "6a1e1c55e105a230bb1adb05",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3956870,
+        "known_for_department": "Production",
+        "name": "Zaman Khan",
+        "original_name": "Zaman Khan",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "6a1e1c63bf2c3fcd318a4174",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4207069,
+        "known_for_department": "Directing",
+        "name": "Kate Henderson",
+        "original_name": "Kate Henderson",
+        "popularity": 0.0508,
+        "profile_path": null,
+        "credit_id": "6a1e1cb7bf2c3fcd318a4185",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4991192,
+        "known_for_department": "Camera",
+        "name": "Daniel Sprintis",
+        "original_name": "Daniel Sprintis",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a1e1d24846813b693059a62",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4991190,
+        "known_for_department": "Sound",
+        "name": "Caitlyn Plett",
+        "original_name": "Caitlyn Plett",
+        "popularity": 0.0337,
+        "profile_path": null,
+        "credit_id": "6a1e1d3589d6a5bbef0860cc",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4317869,
+        "known_for_department": "Camera",
+        "name": "Simon Yong",
+        "original_name": "Simon Yong",
+        "popularity": 0.057,
+        "profile_path": null,
+        "credit_id": "6a1e1d4734c3172afc1adaa3",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5410490,
+        "known_for_department": "Editing",
+        "name": "Solomon Le",
+        "original_name": "Solomon Le",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "6a1e1d593ac8adfce4ca5af9",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4991191,
+        "known_for_department": "Camera",
+        "name": "Max Wenzel",
+        "original_name": "Max Wenzel",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "6a1e1d73c90de808a28a411f",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4317871,
+        "known_for_department": "Camera",
+        "name": "Mel Yerna",
+        "original_name": "Mel Yerna",
+        "popularity": 0.1326,
+        "profile_path": null,
+        "credit_id": "6a1e1d8601759b05cd9f1f7d",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5377561,
+        "known_for_department": "Writing",
+        "name": "Nick Krawczyk",
+        "original_name": "Nick Krawczyk",
+        "popularity": 0.0408,
+        "profile_path": null,
+        "credit_id": "6a1e1d9ef6f7cf2d24bef22e",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6257382,
+        "known_for_department": "Camera",
+        "name": "elias myran",
+        "original_name": "elias myran",
+        "popularity": 0.0304,
+        "profile_path": null,
+        "credit_id": "6a1e1db3f4ecbc3443bef242",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6257383,
+        "known_for_department": "Camera",
+        "name": "etzali venturatoj",
+        "original_name": "etzali venturatoj",
+        "popularity": 0.0397,
+        "profile_path": null,
+        "credit_id": "6a1e1dd09154c6dbf39f1f51",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6257385,
+        "known_for_department": "Camera",
+        "name": "torri kenor",
+        "original_name": "torri kenor",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "6a1e1ddd3ac8adfce4ca5b30",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4363193,
+        "known_for_department": "Acting",
+        "name": "Adam Stothard",
+        "original_name": "Adam Stothard",
+        "popularity": 0.2246,
+        "profile_path": null,
+        "credit_id": "6a1e1ee9df6e717cec1adb24",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5343776,
+        "known_for_department": "Art",
+        "name": "Sam Juby",
+        "original_name": "Sam Juby",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a1e1efdf6f7cf2d24bef24d",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6257389,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Rowan Adams",
+        "original_name": "Rowan Adams",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "6a1e1f1816b49ea3049f1f85",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6257391,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Emma Horgan",
+        "original_name": "Emma Horgan",
+        "popularity": 0.0365,
+        "profile_path": null,
+        "credit_id": "6a1e1f40d990000c90086161",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6257392,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Kennie Buckingham",
+        "original_name": "Kennie Buckingham",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a1e1f7445fefecbdb4bdd7c",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3536437,
+        "known_for_department": "Acting",
+        "name": "Sean Finan",
+        "original_name": "Sean Finan",
+        "popularity": 0.2171,
+        "profile_path": "/uQ1Jzhg9wroxTbtTaU7LBMYVNvV.jpg",
+        "credit_id": "6a1e1f83b556c753c1bef1f0",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5761283,
+        "known_for_department": "Camera",
+        "name": "Junno Pak",
+        "original_name": "Junno Pak",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a1e1f94b556c753c1bef1f3",
+        "department": "Editing",
+        "job": "Color Grading"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6257394,
+        "known_for_department": "Editing",
+        "name": "Ben Taylor",
+        "original_name": "Ben Taylor",
+        "popularity": 0.0304,
+        "profile_path": null,
+        "credit_id": "6a1e1fa75d6811ce28cabc13",
+        "department": "Editing",
+        "job": "Color Grading"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5377492,
+        "known_for_department": "Sound",
+        "name": "Mia Lancaster Hernandez",
+        "original_name": "Mia Lancaster Hernandez",
+        "popularity": 0.049,
+        "profile_path": null,
+        "credit_id": "6a1e1fb8d3d8c7b8d84be0bc",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4363193,
+        "known_for_department": "Acting",
+        "name": "Adam Stothard",
+        "original_name": "Adam Stothard",
+        "popularity": 0.2246,
+        "profile_path": null,
+        "credit_id": "6a1e1fc59a4dc88f0ecabbd1",
+        "department": "Crew",
+        "job": "Sound Design Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6257395,
+        "known_for_department": "Sound",
+        "name": "Dongha Yoon",
+        "original_name": "Dongha Yoon",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "6a1e1fdbd3d8c7b8d84be0c7",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5377494,
+        "known_for_department": "Sound",
+        "name": "Jackson McCullum",
+        "original_name": "Jackson McCullum",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "6a1e1feb5d6811ce28cabc1b",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5377495,
+        "known_for_department": "Visual Effects",
+        "name": "Nathan Boehm",
+        "original_name": "Nathan Boehm",
+        "popularity": 0.0354,
+        "profile_path": null,
+        "credit_id": "6a1e1fffc12799a2004be118",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6257399,
+        "known_for_department": "Sound",
+        "name": "Keegan Lott",
+        "original_name": "Keegan Lott",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "6a1e2030f4ecbc3443bef258",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3536437,
+        "known_for_department": "Acting",
+        "name": "Sean Finan",
+        "original_name": "Sean Finan",
+        "popularity": 0.2171,
+        "profile_path": "/uQ1Jzhg9wroxTbtTaU7LBMYVNvV.jpg",
+        "credit_id": "6a1e203d1ef7c3812f1adb05",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6257400,
+        "known_for_department": "Sound",
+        "name": "Desmond Marble",
+        "original_name": "Desmond Marble",
+        "popularity": 0.0473,
+        "profile_path": null,
+        "credit_id": "6a1e204d5a4fdba2ebca5a57",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6257403,
+        "known_for_department": "Camera",
+        "name": "Sophie Diebold",
+        "original_name": "Sophie Diebold",
+        "popularity": 0.0536,
+        "profile_path": null,
+        "credit_id": "6a1e2071d990000c90086174",
+        "department": "Camera",
+        "job": "BTS Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3536437,
+        "known_for_department": "Acting",
+        "name": "Sean Finan",
+        "original_name": "Sean Finan",
+        "popularity": 0.2171,
+        "profile_path": "/uQ1Jzhg9wroxTbtTaU7LBMYVNvV.jpg",
+        "credit_id": "6a1e217685f49ada30cabc48",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6257403,
+        "known_for_department": "Camera",
+        "name": "Sophie Diebold",
+        "original_name": "Sophie Diebold",
+        "popularity": 0.0536,
+        "profile_path": null,
+        "credit_id": "6a20a5c5819c2895c4d68815",
+        "department": "Camera",
+        "job": "Still Photographer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "When Eddie, a successful but insecure actor, is saddled with his Alzheimer's-stricken father after he’s kicked out of Rotten Apples, a nursing home for emotionally inept old men, he must figure out the fastest way to get rid of him—in time for his life-changing Zoom audition with Darren Aronofsky, a role which could finally get him the Award he has always dreamed of.",
+          "runtime": 12,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/bCMqXyw26hWylidJWjkjAahYKWL.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "14A",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2026-06-11T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

@@ -1,0 +1,542 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 1609430,
+  "imdb_id": null,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_title": "Não Filmarás",
+  "overview": "The film follows Samira and Thalia, two characters who reflect on their personal experiences with cinema, exploring how this relationship is built in everyday life.",
+  "popularity": 3.526,
+  "poster_path": "/6fPQBVFjVmrLwjugqWwoZimvHkV.jpg",
+  "production_companies": [
+    {
+      "id": 258659,
+      "logo_path": null,
+      "name": "Estrada Nova Filmes",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "release_date": "2025-12-02",
+  "revenue": 0,
+  "runtime": 18,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "A Short Film About Cinema",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5264914,
+        "known_for_department": "Art",
+        "name": "Sara Cardoso",
+        "original_name": "Sara Cardoso",
+        "popularity": 0.1859,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Samira",
+        "credit_id": "6959a7fab460c4b4eed7be90",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5346893,
+        "known_for_department": "Sound",
+        "name": "Pedro Marques",
+        "original_name": "Pedro Marques",
+        "popularity": 0.4556,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Lucas",
+        "credit_id": "6959a849d81c52dae1c39e39",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4153140,
+        "known_for_department": "Acting",
+        "name": "Eliane Gomes",
+        "original_name": "Eliane Gomes",
+        "popularity": 0.0337,
+        "profile_path": "/wC7XrSjEjbdVfuF6fT8pPGOTkXX.jpg",
+        "cast_id": 3,
+        "character": "Thália",
+        "credit_id": "6959a870f4f5338a1cc3a0a2",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5084614,
+        "known_for_department": "Directing",
+        "name": "Júnior Pinto",
+        "original_name": "Júnior Pinto",
+        "popularity": 0.1184,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Pedro",
+        "credit_id": "6959a89fc185755462d7d211",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5915959,
+        "known_for_department": "Acting",
+        "name": "Ricardo Harada",
+        "original_name": "Ricardo Harada",
+        "popularity": 0.2863,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Diretor",
+        "credit_id": "6959a906209d3df6d6c385c9",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5088745,
+        "known_for_department": "Directing",
+        "name": "Jean Guilherme",
+        "original_name": "Jean Guilherme",
+        "popularity": 0.1515,
+        "profile_path": "/x00D8zBlbpOtz95AwNVghoW5u7X.jpg",
+        "cast_id": 6,
+        "character": "Jean Guilherme",
+        "credit_id": "6959aa3245dd480354cc9568",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5915964,
+        "known_for_department": "Acting",
+        "name": "Alex Damasceno",
+        "original_name": "Alex Damasceno",
+        "popularity": 0.5454,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Alex Damasceno",
+        "credit_id": "6959aa512144de8bba3bdffc",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5088745,
+        "known_for_department": "Directing",
+        "name": "Jean Guilherme",
+        "original_name": "Jean Guilherme",
+        "popularity": 0.1515,
+        "profile_path": "/x00D8zBlbpOtz95AwNVghoW5u7X.jpg",
+        "credit_id": "6959aa7b2b705fca5c74dd6e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5088745,
+        "known_for_department": "Directing",
+        "name": "Jean Guilherme",
+        "original_name": "Jean Guilherme",
+        "popularity": 0.1515,
+        "profile_path": "/x00D8zBlbpOtz95AwNVghoW5u7X.jpg",
+        "credit_id": "6959aa95bbf78189c8cbf016",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5316459,
+        "known_for_department": "Directing",
+        "name": "Kevin Castro",
+        "original_name": "Kevin Castro",
+        "popularity": 0.1469,
+        "profile_path": null,
+        "credit_id": "6959aaae82c7f5caae3bdfd0",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5264915,
+        "known_for_department": "Sound",
+        "name": "Felipe Alves",
+        "original_name": "Felipe Alves",
+        "popularity": 0.063,
+        "profile_path": "/lJnd3xmZojwlV91WWACRm8L5X4N.jpg",
+        "credit_id": "6959aad72b705fca5c74dd73",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5915966,
+        "known_for_department": "Production",
+        "name": "Alexandre Matos",
+        "original_name": "Alexandre Matos",
+        "popularity": 0.0893,
+        "profile_path": null,
+        "credit_id": "6959ab21fba9963c454ad55f",
+        "department": "Production",
+        "job": "Production Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5084862,
+        "known_for_department": "Acting",
+        "name": "Karina Almeida",
+        "original_name": "Karina Almeida",
+        "popularity": 0.1433,
+        "profile_path": "/jWf8NZKgxnVEGuZ55MDUwuT6vY2.jpg",
+        "credit_id": "6959ab9fe09c4abf8dcc943f",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5297738,
+        "known_for_department": "Sound",
+        "name": "Mariana Nagata",
+        "original_name": "Mariana Nagata",
+        "popularity": 0.3524,
+        "profile_path": null,
+        "credit_id": "6959abb9a9120d5637e41233",
+        "department": "Directing",
+        "job": "Continuity"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5088729,
+        "known_for_department": "Directing",
+        "name": "Victor Hugo Castro",
+        "original_name": "Victor Hugo Castro",
+        "popularity": 0.5636,
+        "profile_path": "/kQBkyKo1UeuTUSfOH5UAcwlj2qz.jpg",
+        "credit_id": "6959abf67c1c87496ec3a065",
+        "department": "Production",
+        "job": "Casting Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5088730,
+        "known_for_department": "Camera",
+        "name": "Ayla Bianca",
+        "original_name": "Ayla Bianca",
+        "popularity": 0.1554,
+        "profile_path": null,
+        "credit_id": "6959ace3f4f88c6118d7941a",
+        "department": "Camera",
+        "job": "Additional First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4281029,
+        "known_for_department": "Camera",
+        "name": "Pedro Iam Moraes",
+        "original_name": "Pedro Iam Moraes",
+        "popularity": 0.8436,
+        "profile_path": "/yI8Kypa6PzeY5EP4QJOzFPAeW8b.jpg",
+        "credit_id": "6959ae29c185755462d7d24a",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5264913,
+        "known_for_department": "Camera",
+        "name": "JV Garcia",
+        "original_name": "JV Garcia",
+        "popularity": 0.0692,
+        "profile_path": "/qznzMsQPSP5DbOZWYdWBUeYitxq.jpg",
+        "credit_id": "6959ae50d721a2cf0fc3a379",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5264913,
+        "known_for_department": "Camera",
+        "name": "JV Garcia",
+        "original_name": "JV Garcia",
+        "popularity": 0.0692,
+        "profile_path": "/qznzMsQPSP5DbOZWYdWBUeYitxq.jpg",
+        "credit_id": "6959af19b2d865bbb6cbdb8c",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5297721,
+        "known_for_department": "Lighting",
+        "name": "Lucas Rodrigues",
+        "original_name": "Lucas Rodrigues",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "6959afd8198abab033d7beee",
+        "department": "Lighting",
+        "job": "Lighting Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5346850,
+        "known_for_department": "Art",
+        "name": "Beatriz Imbiriba",
+        "original_name": "Beatriz Imbiriba",
+        "popularity": 0.1161,
+        "profile_path": null,
+        "credit_id": "6959b010df21a1bbb4cbf8ff",
+        "department": "Sound",
+        "job": "Sound Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5088780,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Maya Figueiredo",
+        "original_name": "Maya Figueiredo",
+        "popularity": 0.0556,
+        "profile_path": null,
+        "credit_id": "6959b030d257e773157c79cf",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5869509,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Rodrigo Sales",
+        "original_name": "Rodrigo Sales",
+        "popularity": 0.066,
+        "profile_path": null,
+        "credit_id": "6959b06525713176bbd7c0cd",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5346699,
+        "known_for_department": "Directing",
+        "name": "Mai Gil",
+        "original_name": "Mai Gil",
+        "popularity": 0.193,
+        "profile_path": null,
+        "credit_id": "6959b08e90b1567a4bc39fd3",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5501119,
+        "known_for_department": "Production",
+        "name": "Laura Miranda",
+        "original_name": "Laura Miranda",
+        "popularity": 0.1948,
+        "profile_path": null,
+        "credit_id": "6959b0b7fba9963c454ad5a6",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5915989,
+        "known_for_department": "Production",
+        "name": "Euclides Barbosa",
+        "original_name": "Euclides Barbosa",
+        "popularity": 0.0498,
+        "profile_path": null,
+        "credit_id": "6959b0eb6d2b236ebdd7bf4e",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5088731,
+        "known_for_department": "Directing",
+        "name": "Manoel Friás",
+        "original_name": "Manoel Friás",
+        "popularity": 0.6638,
+        "profile_path": "/yRQKi0H9Fxz7ich4ZpSdw24ocIM.jpg",
+        "credit_id": "6959b10d68d074f5107c7e16",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4281039,
+        "known_for_department": "Editing",
+        "name": "Ângelo Sousa",
+        "original_name": "Ângelo Souza",
+        "popularity": 0.0491,
+        "profile_path": "/ytp1oSERXXLGeqDqubutz9bncFG.jpg",
+        "credit_id": "6959b133d4413669423bdf3b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5264915,
+        "known_for_department": "Sound",
+        "name": "Felipe Alves",
+        "original_name": "Felipe Alves",
+        "popularity": 0.063,
+        "profile_path": "/lJnd3xmZojwlV91WWACRm8L5X4N.jpg",
+        "credit_id": "6959b16265f85c4db03bdf6a",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5316459,
+        "known_for_department": "Directing",
+        "name": "Kevin Castro",
+        "original_name": "Kevin Castro",
+        "popularity": 0.1469,
+        "profile_path": null,
+        "credit_id": "6959b1c4b26ec44d92cc8db4",
+        "department": "Editing",
+        "job": "Editorial Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5916036,
+        "known_for_department": "Crew",
+        "name": "João Franklin",
+        "original_name": "João Franklin",
+        "popularity": 0.0561,
+        "profile_path": null,
+        "credit_id": "6959b7b290b1567a4bc3a039",
+        "department": "Crew",
+        "job": "Compositor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "BR",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "homepage": "",
+          "overview": "O filme acompanha Samira e Thália, duas personagens que refletem sobre suas experiências pessoais com o cinema, explorando como essa relação se constrói no dia a dia.",
+          "runtime": 18,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "The film follows Samira and Thalia, two characters who reflect on their personal experiences with cinema, exploring how this relationship is built in everyday life.",
+          "runtime": 18,
+          "tagline": "",
+          "title": "A Short Film About Cinema"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "A Short Film About Cinema",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

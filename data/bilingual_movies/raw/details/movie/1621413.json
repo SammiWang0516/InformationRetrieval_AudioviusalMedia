@@ -1,0 +1,516 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1621413,
+  "imdb_id": null,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "L’Éclat",
+  "overview": "",
+  "popularity": 2.2149,
+  "poster_path": "/va9xyrilmPsEs1ffqEMsGYDlzps.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2025-06-01",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "L’Éclat",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5956724,
+        "known_for_department": "Acting",
+        "name": "Thomas Le François",
+        "original_name": "Thomas Le François",
+        "popularity": 0.443,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Père",
+        "credit_id": "6972e07002b5e42d9d893b23",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2764693,
+        "known_for_department": "Acting",
+        "name": "Elisa de Lambert",
+        "original_name": "Elisa de Lambert",
+        "popularity": 0.8577,
+        "profile_path": "/cLi8ubregsb406oJSt2MYDzC0Qk.jpg",
+        "cast_id": 2,
+        "character": "Sasha",
+        "credit_id": "6972e090a68fb528209d05d7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1668203,
+        "known_for_department": "Acting",
+        "name": "Amélina Limousin",
+        "original_name": "Amélina Limousin",
+        "popularity": 0.111,
+        "profile_path": "/GNivMVL89Q1UsZ1mJJtDEEWx9u.jpg",
+        "cast_id": 3,
+        "character": "Policière",
+        "credit_id": "6972e0a68f539b70a83804dd",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5956725,
+        "known_for_department": "Acting",
+        "name": "Mathilde Puget",
+        "original_name": "Mathilde Puget",
+        "popularity": 0.058,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Mère",
+        "credit_id": "6972e0bec83309e894893ba1",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5956727,
+        "known_for_department": "Acting",
+        "name": "Tigrane Garabédia",
+        "original_name": "Tigrane Garabédia",
+        "popularity": 0.2449,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Directeur",
+        "credit_id": "6972e0fbf3186ab61b9d04fe",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4668870,
+        "known_for_department": "Directing",
+        "name": "Inès Morillon",
+        "original_name": "Inès Morillon",
+        "popularity": 0.1557,
+        "profile_path": null,
+        "credit_id": "6972e1eb9ac7d0f610dca46b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4668882,
+        "known_for_department": "Camera",
+        "name": "Charlotte D'Agostino",
+        "original_name": "Charlotte D'Agostino",
+        "popularity": 0.055,
+        "profile_path": null,
+        "credit_id": "6972e2077339f9f4b2e3d511",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4668886,
+        "known_for_department": "Directing",
+        "name": "Maxime Boulan",
+        "original_name": "Maxime Boulan",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "6972e2307339f9f4b2e3d516",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1904056,
+        "known_for_department": "Acting",
+        "name": "Juliette Gesteau",
+        "original_name": "Juliette Gesteau",
+        "popularity": 0.0732,
+        "profile_path": null,
+        "credit_id": "6972e24c81d3194c9b380501",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5887503,
+        "known_for_department": "Directing",
+        "name": "Daphné Duval",
+        "original_name": "Daphné Duval",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6972e26492bab261a7e3d532",
+        "department": "Art",
+        "job": "Decorator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5956737,
+        "known_for_department": "Crew",
+        "name": "Gena Lespert",
+        "original_name": "Gena Lespert",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6972e3068c311365139d0628",
+        "department": "Crew",
+        "job": "Script"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5956739,
+        "known_for_department": "Lighting",
+        "name": "Nathan Hypolite",
+        "original_name": "Nathan Hypolite",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6972e32150aa119c9437b54b",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5956742,
+        "known_for_department": "Production",
+        "name": "Camille Poder",
+        "original_name": "Camille Poder",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6972e3adaf4211e59837b541",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4668876,
+        "known_for_department": "Editing",
+        "name": "Armance Nicollas",
+        "original_name": "Armance Nicollas",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "credit_id": "6972e3ce5338d9309213cdf8",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5956743,
+        "known_for_department": "Sound",
+        "name": "Ulysse Bocher",
+        "original_name": "Ulysse Bocher",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6972e3ea586e2031ad37b5b6",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5956746,
+        "known_for_department": "Crew",
+        "name": "Ulysse Bocher",
+        "original_name": "Ulysse Bocher",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6972e402f9aaf4b45f9427e6",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5956747,
+        "known_for_department": "Writing",
+        "name": "Ines Morillon",
+        "original_name": "Ines Morillon",
+        "popularity": 0.0435,
+        "profile_path": null,
+        "credit_id": "6972e424939f18da4613cdf1",
+        "department": "Writing",
+        "job": "Scenario Writer"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5956749,
+        "known_for_department": "Crew",
+        "name": "Ulysse Bocher",
+        "original_name": "Ulysse Bocher",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "6972e44058c0407a1f13cd30",
+        "department": "Crew",
+        "job": "Mix Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5956750,
+        "known_for_department": "Camera",
+        "name": "Lino cosso",
+        "original_name": "Lino cosso",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6972e45747053c12d837b466",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5956751,
+        "known_for_department": "Camera",
+        "name": "Julia Jakab",
+        "original_name": "Julia Jakab",
+        "popularity": 0.0347,
+        "profile_path": null,
+        "credit_id": "6972e46893dbbe290437b535",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4689762,
+        "known_for_department": "Sound",
+        "name": "Michel Zreiqy",
+        "original_name": "Michel Zreiqy",
+        "popularity": 0.065,
+        "profile_path": null,
+        "credit_id": "6972e48302b5e42d9d893b5c",
+        "department": "Sound",
+        "job": "Sound Assistant"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5956752,
+        "known_for_department": "Production",
+        "name": "Evangeline didry",
+        "original_name": "Evangeline didry",
+        "popularity": 0.0526,
+        "profile_path": null,
+        "credit_id": "6972e4a7867fe319ffdca335",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5956753,
+        "known_for_department": "Art",
+        "name": "Tea barral",
+        "original_name": "Tea barral",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6972e4f6f1f5c78b6c9426ee",
+        "department": "Art",
+        "job": "Assistant Decorator"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5956755,
+        "known_for_department": "Lighting",
+        "name": "Maé Lozano",
+        "original_name": "Maé Lozano",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "6972e51bf9aaf4b45f942805",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4669109,
+        "known_for_department": "Lighting",
+        "name": "Léo Demazière",
+        "original_name": "Léo Demazière",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "6972e52e50aa119c9437b54f",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5956758,
+        "known_for_department": "Lighting",
+        "name": "Roch bourgne",
+        "original_name": "Roch bourgne",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6972e54eaf4211e59837b583",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5887492,
+        "known_for_department": "Art",
+        "name": "Willow Boissonnet",
+        "original_name": "Willow Boissonnet",
+        "popularity": 0.0611,
+        "profile_path": null,
+        "credit_id": "6972e56b93db0532583804f5",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1897768,
+        "known_for_department": "Sound",
+        "name": "Anne Le Campion",
+        "original_name": "Anne Le Campion",
+        "popularity": 0.3719,
+        "profile_path": null,
+        "credit_id": "6972e5b2939f18da4613cdfc",
+        "department": "Sound",
+        "job": "Sound Supervisor"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5956761,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Cindy Brenot",
+        "original_name": "Cindy Brenot",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "6972e5ed27089c30c99427b7",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5956763,
+        "known_for_department": "Art",
+        "name": "Madeleine Bardin",
+        "original_name": "Madeleine Bardin",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6972e6116c6da071c013cd58",
+        "department": "Art",
+        "job": "Location Scout"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "Sasha, une jeune lycéenne, décide d’aller porter plainte accompagnée de son père, ses problèmes vont chambouler toute sa cellule familiale, en particulier son père qui va tenter d’obtenir justice.",
+          "runtime": 12,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "fr",
+            "note": "",
+            "release_date": "2025-06-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

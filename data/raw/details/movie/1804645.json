@@ -1,0 +1,192 @@
+{
+  "adult": false,
+  "backdrop_path": "/oNjBhuRG1qNXeyw4nidTvc0Xd7q.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1804645,
+  "imdb_id": null,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Locked In",
+  "overview": "",
+  "popularity": 0.3074,
+  "poster_path": "/x9YiJlee4NgpULLQlOKEWnAEZZU.jpg",
+  "production_companies": [
+    {
+      "id": 315366,
+      "logo_path": null,
+      "name": "Malditos cineastas producciones",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2026-10-17",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Locked In",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5718218,
+        "known_for_department": "Acting",
+        "name": "Lucas Roura",
+        "original_name": "Lucas Roura",
+        "popularity": 0.1216,
+        "profile_path": "/p48Ld0p7BUO3gNH9ubbFdBbsT9T.jpg",
+        "cast_id": 1,
+        "character": "Antagonista",
+        "credit_id": "6ada9605959ffa69082573c8",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6569025,
+        "known_for_department": "Acting",
+        "name": "Alejandro Sosa Pérez",
+        "original_name": "Alejandro Sosa Pérez",
+        "popularity": 0.1843,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Protagonista",
+        "credit_id": "6ada961d7a03524f49d66c70",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6569026,
+        "known_for_department": "Acting",
+        "name": "Mario Rivero Ramírez",
+        "original_name": "Mario Rivero Ramírez",
+        "popularity": 0.0657,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Secuaz #1",
+        "credit_id": "6ada965f0885d2e8a3215783",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6569027,
+        "known_for_department": "Acting",
+        "name": "Oscar Moreno Hernández",
+        "original_name": "Oscar Moreno Hernández",
+        "popularity": 0.0731,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Secuaz #2",
+        "credit_id": "6ada9675b49e0b6af232005c",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5718218,
+        "known_for_department": "Acting",
+        "name": "Lucas Roura",
+        "original_name": "Lucas Roura",
+        "popularity": 0.1216,
+        "profile_path": "/p48Ld0p7BUO3gNH9ubbFdBbsT9T.jpg",
+        "credit_id": "6ada974e3e4bf52fbc308f01",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 327179,
+        "name": "baloncesto"
+      },
+      {
+        "id": 386728,
+        "name": "galdar"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Es un cortometraje sobre un adolescente que se enfrenta a una desición competir en un 1 contra 1 y perder algo que quiere o huir como siempre",
+          "runtime": 3,
+          "tagline": "comedia, Drama, Baloncesto",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "se estreno en el festival internacional de cine de Gáldar",
+            "release_date": "2026-10-17T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

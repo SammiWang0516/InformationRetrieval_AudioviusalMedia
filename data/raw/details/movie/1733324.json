@@ -1,0 +1,621 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 1733324,
+  "imdb_id": null,
+  "origin_country": [
+    "PT"
+  ],
+  "original_language": "pt",
+  "original_title": "A Forma e o Silêncio",
+  "overview": "Pushed by the precision of a demanding rehearsal, a young actress navigates the quiet tension between who she is and who she feels she needs to be.",
+  "popularity": 0.9718,
+  "poster_path": "/ioCoJJ3dMeSO0h167Qj3Ck75KwO.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "release_date": "2026-10-10",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Form and the Silence",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1786843,
+        "known_for_department": "Acting",
+        "name": "Beatriz Barosa",
+        "original_name": "Beatriz Barosa",
+        "popularity": 0.2761,
+        "profile_path": "/wvoca013WQb7dm4gdATlIqQgR8T.jpg",
+        "cast_id": 31,
+        "character": "Younger Actress",
+        "credit_id": "6a5ac6638c7cdffca13f063c",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2418472,
+        "known_for_department": "Acting",
+        "name": "Hugo Nicolau",
+        "original_name": "Hugo Nicolau",
+        "popularity": 0.3316,
+        "profile_path": "/noCSe9GxLrZ3tKvFHbqAmCVAvkZ.jpg",
+        "cast_id": 32,
+        "character": "Theatre Director",
+        "credit_id": "6a5ac6748c7cdffca13f063f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1322554,
+        "known_for_department": "Acting",
+        "name": "Rita Ribeiro",
+        "original_name": "Rita Ribeiro",
+        "popularity": 0.178,
+        "profile_path": "/bNBYG9yiQbzRC6T3KLiKtfRKgbD.jpg",
+        "cast_id": 33,
+        "character": "Older Actress",
+        "credit_id": "6a5ac68e8b44aa5efeff004f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6354597,
+        "known_for_department": "Acting",
+        "name": "Andreia Barros",
+        "original_name": "Andreia Barros",
+        "popularity": 0.1009,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Dancer",
+        "credit_id": "6a5ac6dc0872a1e6b5e913cf",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6354600,
+        "known_for_department": "Acting",
+        "name": "Júlio Pavani",
+        "original_name": "Júlio Pavani",
+        "popularity": 0.0423,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Dancer",
+        "credit_id": "6a5ac7080872a1e6b5e913e4",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6354433,
+        "known_for_department": "Directing",
+        "name": "Joana Gramaça",
+        "original_name": "Joana Gramaça",
+        "popularity": 0.0723,
+        "profile_path": "/3OQyicZh8GhamK3vVzKsgLKDNJf.jpg",
+        "credit_id": "6a5abe327e4603b74fee4158",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6354433,
+        "known_for_department": "Directing",
+        "name": "Joana Gramaça",
+        "original_name": "Joana Gramaça",
+        "popularity": 0.0723,
+        "profile_path": "/3OQyicZh8GhamK3vVzKsgLKDNJf.jpg",
+        "credit_id": "6a5abe3fc1b25b22c550c11e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6354521,
+        "known_for_department": "Directing",
+        "name": "Ema Lousada",
+        "original_name": "Ema Lousada",
+        "popularity": 0.0442,
+        "profile_path": null,
+        "credit_id": "6a5abf127833a1129cfeffc9",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5547845,
+        "known_for_department": "Directing",
+        "name": "Maria Barral",
+        "original_name": "Maria Barral",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "6a5abf2ab894d46617cfc5fc",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3329685,
+        "known_for_department": "Directing",
+        "name": "Juan Quintero Herrera",
+        "original_name": "Juan Quintero Herrera",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a5abf52e6cecc8bf33f0610",
+        "department": "Directing",
+        "job": "Continuity"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6354530,
+        "known_for_department": "Production",
+        "name": "João Ribeiro",
+        "original_name": "João Ribeiro",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6a5abffa3b3eeb966fbcac10",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6354532,
+        "known_for_department": "Production",
+        "name": "Ana Sofia Leite",
+        "original_name": "Ana Sofia Leite",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a5ac012c99a98d0e548e3a5",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5252113,
+        "known_for_department": "Camera",
+        "name": "Damião Rodrigues",
+        "original_name": "Damião Rodrigues",
+        "popularity": 0.0448,
+        "profile_path": "/uXd5HM7qRlGL08rY5aQg9lvAZYo.jpg",
+        "credit_id": "6a5ac03e54a4962fdb50c121",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6332579,
+        "known_for_department": "Camera",
+        "name": "Leonor Graça",
+        "original_name": "Leonor Graça",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "credit_id": "6a5ac08ce0e3690dad3f063b",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6354544,
+        "known_for_department": "Camera",
+        "name": "Diogo Gonçalves",
+        "original_name": "Diogo Gonçalves",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "6a5ac0abe6cecc8bf33f063e",
+        "department": "Camera",
+        "job": "Set Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6354550,
+        "known_for_department": "Camera",
+        "name": "Amanda Borges",
+        "original_name": "Amanda Borges",
+        "popularity": 0.0359,
+        "profile_path": null,
+        "credit_id": "6a5ac0dd1f344a88c2cfc629",
+        "department": "Camera",
+        "job": "Set Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6354554,
+        "known_for_department": "Camera",
+        "name": "Duarte Silva",
+        "original_name": "Duarte Silva",
+        "popularity": 0.0514,
+        "profile_path": null,
+        "credit_id": "6a5ac1031f344a88c2cfc63e",
+        "department": "Camera",
+        "job": "Set Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6354556,
+        "known_for_department": "Camera",
+        "name": "Gonçalo Grilo",
+        "original_name": "Gonçalo Grilo",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a5ac11b1f344a88c2cfc648",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6354559,
+        "known_for_department": "Sound",
+        "name": "Vicente Viçoso",
+        "original_name": "Vicente Viçoso",
+        "popularity": 0.0359,
+        "profile_path": null,
+        "credit_id": "6a5ac134b37c16a6045e04ab",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6354560,
+        "known_for_department": "Sound",
+        "name": "Diogo Matos",
+        "original_name": "Diogo Matos",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "6a5ac14de08c0d5e8bbcabdf",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6354561,
+        "known_for_department": "Sound",
+        "name": "Sérgio Gramaça",
+        "original_name": "Sérgio Gramaça",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6a5ac15ce0e3690dad3f064b",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6354561,
+        "known_for_department": "Sound",
+        "name": "Sérgio Gramaça",
+        "original_name": "Sérgio Gramaça",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6a5ac2ef2a0211f002e9138e",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3268502,
+        "known_for_department": "Acting",
+        "name": "Vasco Lello",
+        "original_name": "Vasco Lello",
+        "popularity": 0.1512,
+        "profile_path": "/hR1K38rYzaB6Xfgb7j50dv6TGI1.jpg",
+        "credit_id": "6a5ac30c8c7cdffca13f0607",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4833572,
+        "known_for_department": "Lighting",
+        "name": "Yzabella Americano",
+        "original_name": "Yzabella Americano",
+        "popularity": 0.0659,
+        "profile_path": null,
+        "credit_id": "6a5ac37c59c19785e8ff0058",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4072586,
+        "known_for_department": "Camera",
+        "name": "Verónica Piteira",
+        "original_name": "Verónica Piteira",
+        "popularity": 0.0813,
+        "profile_path": null,
+        "credit_id": "6a5ac3932a0211f002e913a0",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6354582,
+        "known_for_department": "Camera",
+        "name": "Pedro",
+        "original_name": "Pedro",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a5ac4bb3cd13a8f46e91367",
+        "department": "Camera",
+        "job": "Camera Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6354585,
+        "known_for_department": "Art",
+        "name": "Daniela Correia",
+        "original_name": "Daniela Correia",
+        "popularity": 0.0345,
+        "profile_path": null,
+        "credit_id": "6a5ac4e03dd11abf21ee4125",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6354587,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Márcia Tavares",
+        "original_name": "Márcia Tavares",
+        "popularity": 0.0627,
+        "profile_path": null,
+        "credit_id": "6a5ac4f9f3a603eec35e04ab",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6354588,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Nádia Henriques",
+        "original_name": "Nádia Henriques",
+        "popularity": 0.1017,
+        "profile_path": null,
+        "credit_id": "6a5ac51be6cecc8bf33f0661",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6354589,
+        "known_for_department": "Art",
+        "name": "Gustavo Condeço",
+        "original_name": "Gustavo Condeço",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6a5ac55069fce34d0abcabff",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6073259,
+        "known_for_department": "Directing",
+        "name": "Laysa Monteiro",
+        "original_name": "Laysa Monteiro",
+        "popularity": 0.0757,
+        "profile_path": null,
+        "credit_id": "6a5ac5647a30398f3d48e3c9",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6073299,
+        "known_for_department": "Camera",
+        "name": "Manuela Caldara",
+        "original_name": "Manuela Caldara",
+        "popularity": 0.0569,
+        "profile_path": null,
+        "credit_id": "6a601485dae892353fa3f2e4",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6363327,
+        "known_for_department": "Production",
+        "name": "João Torres",
+        "original_name": "João Torres",
+        "popularity": 0.0721,
+        "profile_path": null,
+        "credit_id": "6a6017328908e621342be64e",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6363328,
+        "known_for_department": "Production",
+        "name": "Tiago Sousa",
+        "original_name": "Tiago Sousa",
+        "popularity": 0.0408,
+        "profile_path": null,
+        "credit_id": "6a60174d9adfc2ee75b8eded",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5547890,
+        "known_for_department": "Production",
+        "name": "Rafael Madeira",
+        "original_name": "Rafael Madeira",
+        "popularity": 0.0657,
+        "profile_path": null,
+        "credit_id": "6a6018638908e621342be668",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6354528,
+        "known_for_department": "Production",
+        "name": "Bernardo Barros",
+        "original_name": "Bernardo Barros",
+        "popularity": 0.0619,
+        "profile_path": null,
+        "credit_id": "6a67f5dacf25c2558057ad52",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6354516,
+        "known_for_department": "Production",
+        "name": "Daniela Sampaio",
+        "original_name": "Daniela Sampaio",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6a67f5fb7dbe629e17fe8c72",
+        "department": "Production",
+        "job": "Production Manager"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 316421,
+        "name": "drama"
+      },
+      {
+        "id": 365512,
+        "name": "dança contemporânea"
+      },
+      {
+        "id": 375425,
+        "name": "fantasia"
+      },
+      {
+        "id": 379103,
+        "name": "aformaeosilencio"
+      },
+      {
+        "id": 379104,
+        "name": "beatriz barosa"
+      },
+      {
+        "id": 379105,
+        "name": "rita ribeiro"
+      },
+      {
+        "id": 379106,
+        "name": "hugo nicolau"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Pushed by the precision of a demanding rehearsal, a young actress navigates the quiet tension between who she is and who she feels she needs to be.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "The Form and the Silence"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "aformaeosilencio",
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "M/12",
+            "descriptors": [],
+            "iso_639_1": "pt",
+            "note": "",
+            "release_date": "2026-10-10T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

@@ -1,0 +1,556 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [],
+  "homepage": "",
+  "id": 1479563,
+  "imdb_id": null,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Stone Birds",
+  "overview": "Aimless 20 somethings Payton and Morgan attempt to navigate their interpersonal relationships following a tragic accident.",
+  "popularity": 1.0616,
+  "poster_path": "/pSYE51ZWMng53x8HKDmWcND0g1V.jpg",
+  "production_companies": [
+    {
+      "id": 202833,
+      "logo_path": "/fCjdtsH3zCob7szreBLyYjbnFdh.png",
+      "name": "Studio: Sillie",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2025-04-30",
+  "revenue": 0,
+  "runtime": 17,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "Stone Birds",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4417893,
+        "known_for_department": "Directing",
+        "name": "Isaiah Hale",
+        "original_name": "Isaiah Hale",
+        "popularity": 0.1167,
+        "profile_path": "/sW10ianZZeHbsCVmrxJOeiJa9Hm.jpg",
+        "cast_id": 1,
+        "character": "Morgan",
+        "credit_id": "6821760c0c4b2afc04863f4e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4128938,
+        "known_for_department": "Acting",
+        "name": "Wyatt Woods",
+        "original_name": "Wyatt Woods",
+        "popularity": 0.3046,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Peyton",
+        "credit_id": "6821762100df2bd2f4a160cc",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4073844,
+        "known_for_department": "Acting",
+        "name": "Logan Gallant",
+        "original_name": "Logan Gallant",
+        "popularity": 0.2059,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Abraham",
+        "credit_id": "68217632513e6f7b13863f8f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5432539,
+        "known_for_department": "Acting",
+        "name": "Liv Arejola Erickson",
+        "original_name": "Liv Arejola Erickson",
+        "popularity": 0.2126,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Audrey",
+        "credit_id": "6821764ce64080c0657e7b22",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4718278,
+        "known_for_department": "Directing",
+        "name": "Malakee McGuier",
+        "original_name": "Malakee McGuier",
+        "popularity": 0.293,
+        "profile_path": null,
+        "credit_id": "68217661bf87fc43702d1a20",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4718278,
+        "known_for_department": "Directing",
+        "name": "Malakee McGuier",
+        "original_name": "Malakee McGuier",
+        "popularity": 0.293,
+        "profile_path": null,
+        "credit_id": "682176754f8ca297dc4b43ba",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4128914,
+        "known_for_department": "Acting",
+        "name": "Grace Prentice",
+        "original_name": "Grace Prentice",
+        "popularity": 0.1379,
+        "profile_path": null,
+        "credit_id": "68217683a3c0c9df96a16139",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4718292,
+        "known_for_department": "Camera",
+        "name": "Anna Pizon",
+        "original_name": "Anna Pizon",
+        "popularity": 0.1248,
+        "profile_path": null,
+        "credit_id": "68217694f63211b6986ee26e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4515329,
+        "known_for_department": "Directing",
+        "name": "Cameron Haring",
+        "original_name": "Cameron Haring",
+        "popularity": 0.3923,
+        "profile_path": null,
+        "credit_id": "682176adede65641d47e7bba",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4128914,
+        "known_for_department": "Acting",
+        "name": "Grace Prentice",
+        "original_name": "Grace Prentice",
+        "popularity": 0.1379,
+        "profile_path": null,
+        "credit_id": "682176cb3231fb99a95a29c6",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4066460,
+        "known_for_department": "Directing",
+        "name": "Olivia Schwab",
+        "original_name": "Olivia Schwab",
+        "popularity": 0.1758,
+        "profile_path": null,
+        "credit_id": "682176e054d4f803507e7c15",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4066454,
+        "known_for_department": "Directing",
+        "name": "Athan Marshall",
+        "original_name": "Athan Marshall",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "682176ecc2d4083e902d197c",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5432543,
+        "known_for_department": "Camera",
+        "name": "Leigha Dossa",
+        "original_name": "Leigha Dossa",
+        "popularity": 0.0986,
+        "profile_path": null,
+        "credit_id": "682176fd74266fbe597e7b36",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4126143,
+        "known_for_department": "Sound",
+        "name": "Grace Dashner",
+        "original_name": "Grace Dashner",
+        "popularity": 0.0376,
+        "profile_path": null,
+        "credit_id": "6821770dd29db99e9b7e7bdf",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5416850,
+        "known_for_department": "Camera",
+        "name": "Natalie Vrobel",
+        "original_name": "Natalie Vrobel",
+        "popularity": 0.0925,
+        "profile_path": null,
+        "credit_id": "6821771feb8d52f9b48640b5",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5432546,
+        "known_for_department": "Production",
+        "name": "Aurora Kitko",
+        "original_name": "Aurora Kitko",
+        "popularity": 0.0469,
+        "profile_path": null,
+        "credit_id": "682177360d8c06ce884b4365",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5432548,
+        "known_for_department": "Production",
+        "name": "John Pizon",
+        "original_name": "John Pizon",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "682177460f32b64995ad9231",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5432549,
+        "known_for_department": "Production",
+        "name": "Julie Pizon",
+        "original_name": "Julie Pizon",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "68217755fbfbd20acb2d19d0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4749152,
+        "known_for_department": "Production",
+        "name": "Marianne Prentice",
+        "original_name": "Marianne Prentice",
+        "popularity": 0.0408,
+        "profile_path": null,
+        "credit_id": "682177630c4b2afc04863f59",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4749155,
+        "known_for_department": "Production",
+        "name": "Larry Tyler",
+        "original_name": "Larry Tyler",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6821777343c14e29e85a297a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4126119,
+        "known_for_department": "Directing",
+        "name": "Andrew Delly",
+        "original_name": "Andrew Delly",
+        "popularity": 0.1445,
+        "profile_path": "/nn1Llf5Pw138ePQEjdAgAIaRNS4.jpg",
+        "credit_id": "68217782557c3249ef864088",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5416854,
+        "known_for_department": "Camera",
+        "name": "Stoltz",
+        "original_name": "Stoltz",
+        "popularity": 0.0329,
+        "profile_path": null,
+        "credit_id": "682177924b49537fd2a15f32",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4066456,
+        "known_for_department": "Camera",
+        "name": "Will Squires",
+        "original_name": "Will Squires",
+        "popularity": 0.1238,
+        "profile_path": null,
+        "credit_id": "682177a0e1c07d68892d18d6",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5423165,
+        "known_for_department": "Camera",
+        "name": "Aiden Holt",
+        "original_name": "Aiden Holt",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "682177ad551b4c1d89739096",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4066455,
+        "known_for_department": "Production",
+        "name": "Nathan Bauer",
+        "original_name": "Nathan Bauer",
+        "popularity": 0.3403,
+        "profile_path": null,
+        "credit_id": "682177bead38fbeed26ee26c",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4126143,
+        "known_for_department": "Sound",
+        "name": "Grace Dashner",
+        "original_name": "Grace Dashner",
+        "popularity": 0.0376,
+        "profile_path": null,
+        "credit_id": "682177c98529c58a5e6ee26e",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4533159,
+        "known_for_department": "Directing",
+        "name": "Cameron Knotek-Black",
+        "original_name": "Cameron Knotek-Black",
+        "popularity": 0.1879,
+        "profile_path": null,
+        "credit_id": "682177d95834ae58f45a2abc",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5432551,
+        "known_for_department": "Crew",
+        "name": "Ava DeBacco",
+        "original_name": "Ava DeBacco",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "682177ea722788a441a16169",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5432551,
+        "known_for_department": "Crew",
+        "name": "Ava DeBacco",
+        "original_name": "Ava DeBacco",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "682177f4ce81a3a9f16ee28e",
+        "department": "Crew",
+        "job": "Makeup Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5432552,
+        "known_for_department": "Crew",
+        "name": "Matt Bartalotta",
+        "original_name": "Matt Bartalotta",
+        "popularity": 0.0372,
+        "profile_path": null,
+        "credit_id": "6821782390599652aead9256",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4066459,
+        "known_for_department": "Writing",
+        "name": "Adam Michalski",
+        "original_name": "Adam Michalski",
+        "popularity": 0.1727,
+        "profile_path": null,
+        "credit_id": "6821784ba9d34f77027e7af8",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5432554,
+        "known_for_department": "Production",
+        "name": "Annie Nosan",
+        "original_name": "Annie Nosan",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6821785834194d40d04b444c",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4128981,
+        "known_for_department": "Sound",
+        "name": "Sam Grossman",
+        "original_name": "Sam Grossman",
+        "popularity": 0.1578,
+        "profile_path": null,
+        "credit_id": "6821786968736a23834b4443",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4066460,
+        "known_for_department": "Directing",
+        "name": "Olivia Schwab",
+        "original_name": "Olivia Schwab",
+        "popularity": 0.1758,
+        "profile_path": null,
+        "credit_id": "6821787a20415f9e284b4468",
+        "department": "Editing",
+        "job": "Colorist"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Aimless 20 somethings Payton and Morgan attempt to navigate their interpersonal relationships following a tragic accident.",
+          "runtime": 17,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.675,
+        "height": 2760,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/pSYE51ZWMng53x8HKDmWcND0g1V.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1863
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2025-04-30T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

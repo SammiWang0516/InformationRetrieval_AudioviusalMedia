@@ -1,0 +1,633 @@
+{
+  "adult": false,
+  "backdrop_path": "/fgbd4O5N3uA0TsxdBx4A4TO63sd.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1418220,
+  "imdb_id": "tt36266270",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Henry Johnson",
+  "overview": "A quiet man is abruptly arrested without explanation, thrust into a surreal legal nightmare where truth and identity blur. As he fights to assert his innocence, he confronts a chilling system that seems more interested in control than justice.",
+  "popularity": 0.8646,
+  "poster_path": "/iKSotyOBWcbJqV8TnRH6DzbdcM3.jpg",
+  "production_companies": [
+    {
+      "id": 188569,
+      "logo_path": "/qNIySI0i5IMgHXZDqdV6KKADemy.png",
+      "name": "1993",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-05-09",
+  "revenue": 0,
+  "runtime": 85,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Henry Johnson",
+  "video": false,
+  "vote_average": 6.4,
+  "vote_count": 11,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1284084,
+        "known_for_department": "Acting",
+        "name": "Evan Jonigkeit",
+        "original_name": "Evan Jonigkeit",
+        "popularity": 1.1937,
+        "profile_path": "/20osGzWsVGewAQ2qNESY7oasmMY.jpg",
+        "cast_id": 4,
+        "character": "Henry",
+        "credit_id": "67e123b9844f85752dc6f54b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10959,
+        "known_for_department": "Acting",
+        "name": "Shia LaBeouf",
+        "original_name": "Shia LaBeouf",
+        "popularity": 3.0041,
+        "profile_path": "/egvlIdeizCkSkuHVoDuuduIThFA.jpg",
+        "cast_id": 1,
+        "character": "Gene",
+        "credit_id": "67881f2f9de8a2d834976186",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4445,
+        "known_for_department": "Acting",
+        "name": "Chris Bauer",
+        "original_name": "Chris Bauer",
+        "popularity": 1.7632,
+        "profile_path": "/1AjdNxbVmy6azlOxIfnCX5OruEA.jpg",
+        "cast_id": 5,
+        "character": "Mr. Barnes",
+        "credit_id": "67e123cde4a9c86906080c04",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 161891,
+        "known_for_department": "Acting",
+        "name": "Dominic Hoffman",
+        "original_name": "Dominic Hoffman",
+        "popularity": 0.3597,
+        "profile_path": "/jwbW9OrMf9D9eKTXSwXzF4iLTHM.jpg",
+        "cast_id": 6,
+        "character": "Jerry",
+        "credit_id": "67e123de4ce07d684e0800cd",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3635046,
+        "known_for_department": "Production",
+        "name": "Ari Basile",
+        "original_name": "Ari Basile",
+        "popularity": 0.0889,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Counselor",
+        "credit_id": "67e138d54ce07d684e0805f0",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1255,
+        "known_for_department": "Writing",
+        "name": "David Mamet",
+        "original_name": "David Mamet",
+        "popularity": 1.2609,
+        "profile_path": "/3Hfebpi4fRSY0lciWUc355ylP6j.jpg",
+        "credit_id": "67881f409de8a2d834976194",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1255,
+        "known_for_department": "Writing",
+        "name": "David Mamet",
+        "original_name": "David Mamet",
+        "popularity": 1.2609,
+        "profile_path": "/3Hfebpi4fRSY0lciWUc355ylP6j.jpg",
+        "credit_id": "67881f4994d95839f3ad038a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1619141,
+        "known_for_department": "Camera",
+        "name": "Sing Howe Yam",
+        "original_name": "Sing Howe Yam",
+        "popularity": 0.2246,
+        "profile_path": "/1z2kXRfJWpEin7qpM2ycY1gg1ot.jpg",
+        "credit_id": "67e12419968ee208674d86e2",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1447937,
+        "known_for_department": "Editing",
+        "name": "Banner Gwin",
+        "original_name": "Banner Gwin",
+        "popularity": 0.0708,
+        "profile_path": null,
+        "credit_id": "67e12429978bda8ae24dcb81",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1532068,
+        "known_for_department": "Directing",
+        "name": "Cara Giallanza",
+        "original_name": "Cara Giallanza",
+        "popularity": 0.1942,
+        "profile_path": null,
+        "credit_id": "68006208437f0b80eead94af",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1722536,
+        "known_for_department": "Sound",
+        "name": "Jay Wadley",
+        "original_name": "Jay Wadley",
+        "popularity": 0.2427,
+        "profile_path": "/pWoaM0a6szZ8Ztl98z6WfU92zW8.jpg",
+        "credit_id": "6800621483c6e567c7d966d4",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 222362,
+        "known_for_department": "Sound",
+        "name": "Justin M. Davey",
+        "original_name": "Justin M. Davey",
+        "popularity": 0.3005,
+        "profile_path": null,
+        "credit_id": "6800621f437f0b80eead94b4",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1531970,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Laura Bauer",
+        "original_name": "Laura Bauer",
+        "popularity": 0.0757,
+        "profile_path": null,
+        "credit_id": "6800622aef5ae687cbd9bea8",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1399040,
+        "known_for_department": "Art",
+        "name": "Gabrael Wilson",
+        "original_name": "Gabrael Wilson",
+        "popularity": 0.0797,
+        "profile_path": null,
+        "credit_id": "68006244c77fd1df74ad13f4",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3821620,
+        "known_for_department": "Production",
+        "name": "Erin Kennedy",
+        "original_name": "Erin Kennedy",
+        "popularity": 0.0913,
+        "profile_path": null,
+        "credit_id": "68006254f39c730125d93a23",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2147715,
+        "known_for_department": "Production",
+        "name": "Pam Susemiehl",
+        "original_name": "Pam Susemiehl",
+        "popularity": 0.2324,
+        "profile_path": null,
+        "credit_id": "6800625a83c6e567c7d966e8",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5377524,
+        "known_for_department": "Production",
+        "name": "Marcel Bonn-Miller",
+        "original_name": "Marcel Bonn-Miller",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6800627bde5e4dec62aee190",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5377525,
+        "known_for_department": "Production",
+        "name": "Sheldon Stone",
+        "original_name": "Sheldon Stone",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "68006296d645e41e09998b5c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 550685,
+        "known_for_department": "Production",
+        "name": "Peter Baxter",
+        "original_name": "Peter Baxter",
+        "popularity": 0.1627,
+        "profile_path": null,
+        "credit_id": "680062d14f59c24c0dad0112",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1574786,
+        "known_for_department": "Production",
+        "name": "Lije Sarki",
+        "original_name": "Lije Sarki",
+        "popularity": 0.1693,
+        "profile_path": "/bfunJXhwr3ypQmS5e49qxjNDvY0.jpg",
+        "credit_id": "680062e3de5e4dec62aee199",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1284084,
+        "known_for_department": "Acting",
+        "name": "Evan Jonigkeit",
+        "original_name": "Evan Jonigkeit",
+        "popularity": 1.1937,
+        "profile_path": "/20osGzWsVGewAQ2qNESY7oasmMY.jpg",
+        "credit_id": "680062edd645e41e09998b71",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 378,
+        "name": "prison"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "A quiet man is abruptly arrested without explanation, thrust into a surreal legal nightmare where truth and identity blur. As he fights to assert his innocence, he confronts a chilling system that seems more interested in control than justice.",
+          "runtime": 85,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "KR",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말",
+        "english_name": "Korean",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": "헨리 존슨"
+        }
+      },
+      {
+        "iso_3166_1": "MX",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Después de que un acto de compasión trastorne su vida, Henry Johnson va en busca de una brújula moral.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "Henry Johnson navigue dans sa quête d'un équilibre moral après qu'un acte de compassion a bouleversé sa vie. En cherchant les figures d'autorité qu'il rencontre en chemin, Henry s'engage sur la voie de la manipulation et de l'incertitude éthique.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "RU",
+        "iso_639_1": "ru",
+        "name": "Pусский",
+        "english_name": "Russian",
+        "data": {
+          "homepage": "",
+          "overview": "Случайный акт доброты оборачивается для «маленького» незаметного человека кошмаром — его арестовывают без объяснения причин. Морально надломленный, он утрачивает внутреннюю опору и постепенно втягивается в сюрреалистический кошмар, который творится в юридической системе.",
+          "runtime": 85,
+          "tagline": "",
+          "title": "Генри Джонсон"
+        }
+      },
+      {
+        "iso_3166_1": "CN",
+        "iso_639_1": "zh",
+        "name": "普通话",
+        "english_name": "Mandarin",
+        "data": {
+          "homepage": "",
+          "overview": "这部电影讲述了主人公（乔尼凯特 饰）在一次善举颠覆了他的生活后，如何寻找自己的道德中心。亨利在旅途中，向他遇到的权威人物——包括他后来的狱友吉恩（拉博夫 饰）——寻求帮助，这段旅程将他引向了一条充满操控和道德不确定性的道路。",
+          "runtime": 0,
+          "tagline": "",
+          "title": "亨利·强生"
+        }
+      },
+      {
+        "iso_3166_1": "HK",
+        "iso_639_1": "zh",
+        "name": "普通话",
+        "english_name": "Mandarin",
+        "data": {
+          "homepage": "",
+          "overview": "這部電影講述了主人公（喬尼凱特 飾）在一次善舉顛覆了他的生活後，如何尋找自己的道德中心。亨利在旅途中，向他遇到的權威人物——包括他後來的獄友吉恩（拉博夫 飾）——尋求幫助，這段旅程將他引向了一條充滿操控和道德不確定性的道路。",
+          "runtime": 0,
+          "tagline": "",
+          "title": "亨利·強生"
+        }
+      },
+      {
+        "iso_3166_1": "IR",
+        "iso_639_1": "fa",
+        "name": "فارسی",
+        "english_name": "Persian",
+        "data": {
+          "homepage": "",
+          "overview": "داستان مردی که بدون هیچ توضیحی بازداشت می‌شود و در حین ملاقات با افراد مختلف، به دنبال وجدان خود نیست می‌گردد تا...",
+          "runtime": 0,
+          "tagline": "",
+          "title": "هنری جانسون"
+        }
+      },
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Henry es un abogado cuya vida se desmorona tras ayudar a un antiguo amigo recién salido de prisión. A partir de ahí, entra en una espiral moral y psicológica mientras busca una guía ética entre distintas figuras de autoridad, incluido Gene, un carismático y manipulador recluso.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt36266270",
+    "wikidata_id": "Q133939157",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/fgbd4O5N3uA0TsxdBx4A4TO63sd.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/byf2GP9BohJmD8FKB8DSy1gULUb.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 3840
+      }
+    ],
+    "logos": [
+      {
+        "aspect_ratio": 6.531,
+        "height": 226,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/vM8fgtsldocvby4mL5FVqXB2YTj.png",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1476
+      }
+    ],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/iKSotyOBWcbJqV8TnRH6DzbdcM3.jpg",
+        "vote_average": 2.278,
+        "vote_count": 3,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/1ls2fkPtFOXjUq8w3Ccwpfkuc8j.jpg",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/3nT4DvulDq9vMkTvNUBglDRtjTI.jpg",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/mlWxYEsdtdY4zbW3L8B17ftAn4w.jpg",
+        "vote_average": 1.434,
+        "vote_count": 5,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.676,
+        "height": 1743,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/xa4BXm3KMIV2NdPVGJAXNFaWJ2m.jpg",
+        "vote_average": 0.166,
+        "vote_count": 2,
+        "width": 1179
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/pd1hStyXhOcLUi6XUZGtISkQ7G4.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-05-09T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-05-09T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-05-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "_5u0INUpDBU",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": false,
+        "id": "67ffcb85437f0b80eead7c8a",
+        "published_at": "2025-04-15T02:18:57.000Z"
+      }
+    ]
+  }
+}

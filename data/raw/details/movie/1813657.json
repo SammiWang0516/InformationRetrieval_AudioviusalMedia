@@ -1,0 +1,184 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "",
+  "id": 1813657,
+  "imdb_id": null,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Marmottons en délire",
+  "overview": "",
+  "popularity": 0.2712,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 31285,
+      "logo_path": "/ya7infKQtygrVHfBBlHyTkGx3hP.png",
+      "name": "Nadasdy Film",
+      "origin_country": "CH"
+    },
+    {
+      "id": 12430,
+      "logo_path": "/lkWMDyfpBYL1hVnVCd9CvexQqQz.png",
+      "name": "Vivement lundi !",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CH",
+      "name": "Switzerland"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2026-11-04",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Marmottons en délire",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2091407,
+        "known_for_department": "Directing",
+        "name": "Benjamin Botella",
+        "original_name": "Benjamin Botella",
+        "popularity": 0.1325,
+        "profile_path": null,
+        "credit_id": "6ae5faaf5f42283152f1a071",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3945440,
+        "known_for_department": "Writing",
+        "name": "Sidonie Traverse",
+        "original_name": "Sidonie Traverse",
+        "popularity": 0.1386,
+        "profile_path": null,
+        "credit_id": "6ae5fac455cf3c8cfe3ebdf4",
+        "department": "Writing",
+        "job": "Screenplay"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "Dans la montagne, au pied d'un grand sapin, la naissance de ses triplés chamboule la  vie de Papa marmotte. Débordé mais volontaire, il tente de gérer les biberons, les  couches et les catastrophes en devenir de ses petits tout en laissant Maman marmotte  se reposer. Malgré ses efforts et l’aide du manuel du Super-papa, tout lui échappe : les  bébés sèment le chaos et grimpent partout jusqu'à ce qu'ils découvrent… l'extérieur !",
+          "runtime": 9,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CH",
+        "release_dates": [
+          {
+            "certification": "0",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "French speaking region",
+            "release_date": "2026-11-04T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "0",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "German speaking region",
+            "release_date": "2026-11-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-11-18T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

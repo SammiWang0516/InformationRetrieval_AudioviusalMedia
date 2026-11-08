@@ -1,0 +1,657 @@
+{
+  "adult": false,
+  "backdrop_path": "/jAa4pVrOWsrE1tm58ltWWBw9t0d.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 1418529,
+  "imdb_id": "tt35449402",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Zirkuskind",
+  "overview": "Santino, a circus kid constantly on the move, listens to his great-grandfather's stories as his own life is just beginning.",
+  "popularity": 0.8932,
+  "poster_path": "/enmjCj0RN6E4Yh7eGuvk7wAtwLA.jpg",
+  "production_companies": [
+    {
+      "id": 90219,
+      "logo_path": "/q1zjFnBBwZrQjy1dVtnvdwo7VWh.png",
+      "name": "Flare Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2025-10-16",
+  "revenue": 0,
+  "runtime": 86,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Every day is magical, if your playground is the circus.",
+  "title": "Circusboy",
+  "video": false,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5938522,
+        "known_for_department": "Acting",
+        "name": "Santino Frank",
+        "original_name": "Santino Frank",
+        "popularity": 0.0513,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "himself",
+        "credit_id": "696793b64ae72a2eb47037f0",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5938523,
+        "known_for_department": "Acting",
+        "name": "Ehe Frank",
+        "original_name": "Ehe Frank",
+        "popularity": 0.084,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "himself",
+        "credit_id": "696793c53566b8c4d970372d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5938524,
+        "known_for_department": "Acting",
+        "name": "Angie Frank",
+        "original_name": "Angie Frank",
+        "popularity": 0.1134,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "herself",
+        "credit_id": "696793d41f5090e4c270380f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5938525,
+        "known_for_department": "Acting",
+        "name": "Gitano Frank",
+        "original_name": "Gitano Frank",
+        "popularity": 0.0783,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "himself",
+        "credit_id": "696793df2129380e84686f51",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5938526,
+        "known_for_department": "Acting",
+        "name": "Giordano Frank",
+        "original_name": "Giordano Frank",
+        "popularity": 0.0792,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "himself",
+        "credit_id": "696793eab935d65a627036af",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1748348,
+        "known_for_department": "Directing",
+        "name": "Julia Lemke",
+        "original_name": "Julia Lemke",
+        "popularity": 0.2918,
+        "profile_path": null,
+        "credit_id": "678917781d4c91f6ac977cef",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 586229,
+        "known_for_department": "Directing",
+        "name": "Anna Koch",
+        "original_name": "Anna Koch",
+        "popularity": 0.2399,
+        "profile_path": null,
+        "credit_id": "678917809de8a2d8349787c5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1748348,
+        "known_for_department": "Directing",
+        "name": "Julia Lemke",
+        "original_name": "Julia Lemke",
+        "popularity": 0.2918,
+        "profile_path": null,
+        "credit_id": "67a90202b01153d6f4936202",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 586229,
+        "known_for_department": "Directing",
+        "name": "Anna Koch",
+        "original_name": "Anna Koch",
+        "popularity": 0.2399,
+        "profile_path": null,
+        "credit_id": "67a90247ee5189f50a0f5fc1",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1916876,
+        "known_for_department": "Editing",
+        "name": "Jamin Benazzouz",
+        "original_name": "Jamin Benazzouz",
+        "popularity": 0.1025,
+        "profile_path": null,
+        "credit_id": "67a90263ee5189f50a0f5fd2",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4411923,
+        "known_for_department": "Sound",
+        "name": "Jan Pasemann",
+        "original_name": "Jan Pasemann",
+        "popularity": 0.0417,
+        "profile_path": null,
+        "credit_id": "67a902aeee5189f50a0f5fe4",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5236897,
+        "known_for_department": "Sound",
+        "name": "Oliver Aschatz",
+        "original_name": "Oliver Aschatz",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67a902db16b972753a05f390",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3478019,
+        "known_for_department": "Directing",
+        "name": "Magda Kreps",
+        "original_name": "Magda Kreps",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "67a902f416b972753a05f3a4",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5236900,
+        "known_for_department": "Visual Effects",
+        "name": "Lea Majeran",
+        "original_name": "Lea Majeran",
+        "popularity": 0.046,
+        "profile_path": null,
+        "credit_id": "67a9030d8b718b66c50f626c",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3478019,
+        "known_for_department": "Directing",
+        "name": "Magda Kreps",
+        "original_name": "Magda Kreps",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "67bb09b155e3994bbd467eaa",
+        "department": "Visual Effects",
+        "job": "Lead Animator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1748348,
+        "known_for_department": "Directing",
+        "name": "Julia Lemke",
+        "original_name": "Julia Lemke",
+        "popularity": 0.2918,
+        "profile_path": null,
+        "credit_id": "699633985a390759144a9311",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4193687,
+        "known_for_department": "Sound",
+        "name": "Jörg Hochapfel",
+        "original_name": "Jörg Hochapfel",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69963399d2cfd2574b863536",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1379508,
+        "known_for_department": "Sound",
+        "name": "Nils Kacirek",
+        "original_name": "Nils Kacirek",
+        "popularity": 0.1363,
+        "profile_path": "/3pSb8H527B0NfJhAfWdYjr4iFDM.jpg",
+        "credit_id": "6996339b0a2a6f1e813df107",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2219644,
+        "known_for_department": "Production",
+        "name": "Katharina Bergfeld",
+        "original_name": "Katharina Bergfeld",
+        "popularity": 0.1689,
+        "profile_path": null,
+        "credit_id": "69cd65659d582246442637f6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1499121,
+        "known_for_department": "Production",
+        "name": "Martin Heisler",
+        "original_name": "Martin Heisler",
+        "popularity": 0.35,
+        "profile_path": null,
+        "credit_id": "69cd65709a3a140b0d2c85ae",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 1395,
+        "name": "arena"
+      },
+      {
+        "id": 282080,
+        "name": "documentary"
+      },
+      {
+        "id": 325296,
+        "name": "alltag"
+      },
+      {
+        "id": 344788,
+        "name": "kinderfilm"
+      },
+      {
+        "id": 348044,
+        "name": "dokumentation"
+      },
+      {
+        "id": 357896,
+        "name": "dokumentarfilm"
+      },
+      {
+        "id": 365747,
+        "name": "zirkus"
+      },
+      {
+        "id": 365748,
+        "name": "manege"
+      },
+      {
+        "id": 365749,
+        "name": "zirkusleben"
+      },
+      {
+        "id": 365750,
+        "name": "kinderdokumentarfilm"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Santino, a circus kid constantly on the move, listens to his great-grandfather's stories as his own life is just beginning.",
+          "runtime": 86,
+          "tagline": "Every day is magical, if your playground is the circus.",
+          "title": "Circusboy"
+        }
+      },
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "http://www.across-nations.de/projekte/zirkuskind",
+          "overview": "Santino ist ein Zirkuskind. Sein Urgroßvater ist einer der letzten großen Zirkusdirektoren Deutschlands und erzählt ihm die Geschichten seiner  Vorfahren: Von der Freundschaft zu einem Elefanten, von Abschieden, Neuanfängen und seinen ersten Schritten als Clown in der Manege.  ZIRKUSKIND erzählt vom Aufwachsen mit der Großfamilie und Tieren, von der Faszination des Zirkus und von denen, die seit Generationen  die Kunst und Unterhaltung in die Manege bringen.  Ein dokumentarisches Roadmovie für Kinder und deren Familien über das Leben einer Zirkusfamilie zwischen Realismus und Magie.",
+          "runtime": 86,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "KR",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말",
+        "english_name": "Korean",
+        "data": {
+          "homepage": "",
+          "overview": "어린 서커스 단원 산티노의 다큐멘터리. 공연을 위해 소년은 가족과 동물들과 함께 끊임없이 여행을 합니다. 그것은 고단한 소년의 현실이기도 합니다. 그 가운데 경험많은 증조 할아버지의 과거 이야기가 애니메이션으로 끼어듭니다.",
+          "runtime": 86,
+          "tagline": "",
+          "title": "서커스 보이"
+        }
+      },
+      {
+        "iso_3166_1": "LV",
+        "iso_639_1": "lv",
+        "name": "Latviešu",
+        "english_name": "Latvian",
+        "data": {
+          "homepage": "",
+          "overview": "Santīno nav parasts bērns. Viņš ir uzaudzis uz skatuves ar kamielēniem un ponijiem, matu želeju un akrobātikas meistarības stundām pirms pusdienlaika. Nākot no tradīcijām bagātas cirka mākslinieku ģimenes, jau vairākās paaudzēs viņš ar tēti, mammu māsīcām, brālēniem un citiem radiniekiem aizrauj ikkatru skatītāju. Ceļojot no vienas vietas uz nākamo un dienas aizvadot aplausos, dedzīgais Santīno allaž ir kustībā. Tomēr, mainoties laikmetam un pienākot viņa vienpadsmitajai dzimšanas dienai, zēns vecvectēvam Ehem uzdod jautājumus ne tikai par cirka nākotni un kopību, bet arī to, ko nozīmē kļūt vecākam un pieaugt?",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Cirka puika"
+        }
+      },
+      {
+        "iso_3166_1": "HK",
+        "iso_639_1": "zh",
+        "name": "普通话",
+        "english_name": "Mandarin",
+        "data": {
+          "homepage": "",
+          "overview": "以馬戲團為家是怎樣的一回事？問小男孩山天勞和他的家人最清楚。茱莉婭林琪與安娜歌芙合導的紀錄片，跟隨山天勞一家穿州過省，拍下這個馬戲團大家庭的生活實況。他們延續祖業不辭勞苦，巡迴演出搞得有聲有色。爺爺艾何對山天勞愛護有加，更在他11歲生日時安排他登場表演。三代同住帳篷笑聲滿載溫馨，影片聚焦山天勞學習適應新環境，面對不斷變遷的風景，側寫充滿愛與親情的感動日常。獲2025柏林影展新世代單元特別表揚。",
+          "runtime": 0,
+          "tagline": "",
+          "title": "我在馬戲團長大"
+        }
+      },
+      {
+        "iso_3166_1": "CZ",
+        "iso_639_1": "cs",
+        "name": "Český",
+        "english_name": "Czech",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Kluk z cirkusu"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt35449402",
+    "wikidata_id": "Q131808915",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.78,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/jAa4pVrOWsrE1tm58ltWWBw9t0d.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1922
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.668,
+        "height": 1563,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/enmjCj0RN6E4Yh7eGuvk7wAtwLA.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1044
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "German Film Festival",
+            "release_date": "2025-05-04T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Zurich Film Festival",
+            "release_date": "2025-09-27T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "0",
+            "descriptors": [],
+            "iso_639_1": "de",
+            "note": "",
+            "release_date": "2025-10-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Zlin Film Festival",
+            "release_date": "2025-06-01T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Berlin International Film Festival",
+            "release_date": "2025-02-15T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Munich International Film Festival",
+            "release_date": "2025-06-28T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Filmfest Hamburg",
+            "release_date": "2025-10-01T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "0",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-10-16T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": " KINO/25 ",
+            "release_date": "2025-10-12T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ID",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Europe On Screen",
+            "release_date": "2025-06-12T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Busan International Kids & Youth Film Festival",
+            "release_date": "2025-07-11T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LV",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Riga International Film Festival",
+            "release_date": "2025-10-19T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "KinoFest",
+            "release_date": "2026-10-15T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "CIRCUSBOY by Julia Lemke & Anna Koch",
+        "key": "UEJUFjfk_LA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "684e6536e8c608addb344603",
+        "published_at": "2025-03-04T16:29:40.000Z"
+      }
+    ]
+  }
+}

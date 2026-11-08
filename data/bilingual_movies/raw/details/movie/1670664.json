@@ -1,0 +1,184 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 1670664,
+  "imdb_id": null,
+  "origin_country": [
+    "DE",
+    "AT"
+  ],
+  "original_language": "de",
+  "original_title": "Siegfried",
+  "overview": "Another day in the life of Siegfried.",
+  "popularity": 0.7561,
+  "poster_path": "/nGt9mGDloKRYrQGwjxi3n6aYysD.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2026-04-16",
+  "revenue": 0,
+  "runtime": 4,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Siegfried",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1295176,
+        "known_for_department": "Directing",
+        "name": "Jan Soldat",
+        "original_name": "Jan Soldat",
+        "popularity": 0.2242,
+        "profile_path": null,
+        "credit_id": "69de1f893597fb3728028301",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1295176,
+        "known_for_department": "Directing",
+        "name": "Jan Soldat",
+        "original_name": "Jan Soldat",
+        "popularity": 0.2242,
+        "profile_path": null,
+        "credit_id": "69de28328355a477490284d2",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1295176,
+        "known_for_department": "Directing",
+        "name": "Jan Soldat",
+        "original_name": "Jan Soldat",
+        "popularity": 0.2242,
+        "profile_path": null,
+        "credit_id": "69de28480c681f559e70b836",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1895248,
+        "known_for_department": "Sound",
+        "name": "Lorenz Fischer",
+        "original_name": "Lorenz Fischer",
+        "popularity": 0.3244,
+        "profile_path": "/l2tkWloz4xY08AajLeeOTNjHa10.jpg",
+        "credit_id": "69de285899a8271f57c744ab",
+        "department": "Sound",
+        "job": "Sound"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "",
+          "overview": "Kurzfilm von Jan Soldat",
+          "runtime": 4,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Another day in the life of Siegfried.",
+          "runtime": 4,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 757,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/nGt9mGDloKRYrQGwjxi3n6aYysD.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 505
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "de",
+            "note": "dokumentarfilmwoche, Hamburg, Germany",
+            "release_date": "2026-04-16T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

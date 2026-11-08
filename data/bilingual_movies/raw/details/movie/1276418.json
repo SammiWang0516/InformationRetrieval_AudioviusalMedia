@@ -1,0 +1,593 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 1276418,
+  "imdb_id": "tt21829370",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Rider",
+  "overview": "A young delivery rider faces a life-threatening assignment during a chaotic night as she tries to resolve urgent personal problems through phone calls and find redemption.",
+  "popularity": 1.4374,
+  "poster_path": "/oMi4aU5zRIF0ZpkjLW1ckWXuDD4.jpg",
+  "production_companies": [
+    {
+      "id": 55259,
+      "logo_path": null,
+      "name": "Centuria Films",
+      "origin_country": "ES"
+    },
+    {
+      "id": 273620,
+      "logo_path": null,
+      "name": "Estaregui y Sendino & Machín",
+      "origin_country": ""
+    },
+    {
+      "id": 137321,
+      "logo_path": "/10KxTNKpqvaX7qvpzYWWqZYKqHN.png",
+      "name": "Begin Again Films",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2025-06-13",
+  "revenue": 0,
+  "runtime": 72,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A night. A delivery. A life.",
+  "title": "Rider",
+  "video": false,
+  "vote_average": 6.7,
+  "vote_count": 21,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3904004,
+        "known_for_department": "Acting",
+        "name": "Victoria Santos",
+        "original_name": "Victoria Santos",
+        "popularity": 0.2765,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Bernie",
+        "credit_id": "66217de97a3c52017d4cbcd1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1338492,
+        "known_for_department": "Directing",
+        "name": "Ignacio Estaregui",
+        "original_name": "Ignacio Estaregui",
+        "popularity": 0.2218,
+        "profile_path": "/xjYuODeIbDmBFMumyINLPlUk03X.jpg",
+        "cast_id": 16,
+        "character": "",
+        "credit_id": "68bf97e1122c836fc74e66da",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5679053,
+        "known_for_department": "Crew",
+        "name": "Luis Giménez",
+        "original_name": "Luis Giménez",
+        "popularity": 0.186,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "",
+        "credit_id": "68bf980960a33b65e3948949",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5680382,
+        "known_for_department": "Acting",
+        "name": "Mariela Martinez Campos",
+        "original_name": "Mariela Martinez Campos",
+        "popularity": 0.3055,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Fio",
+        "credit_id": "68c081f329f4ce50344e6e63",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1338492,
+        "known_for_department": "Directing",
+        "name": "Ignacio Estaregui",
+        "original_name": "Ignacio Estaregui",
+        "popularity": 0.2218,
+        "profile_path": "/xjYuODeIbDmBFMumyINLPlUk03X.jpg",
+        "credit_id": "66217cfa8a88b20185ca89bc",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5679049,
+        "known_for_department": "Production",
+        "name": "Gloria Sendino",
+        "original_name": "Gloria Sendino",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68bf7b2d2382a0330b9c0b73",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5679053,
+        "known_for_department": "Crew",
+        "name": "Luis Giménez",
+        "original_name": "Luis Giménez",
+        "popularity": 0.186,
+        "profile_path": null,
+        "credit_id": "68bf7bf9efa96fc7f71f5df7",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2476132,
+        "known_for_department": "Camera",
+        "name": "Adrián Barcelóna",
+        "original_name": "Adrián Barcelóna",
+        "popularity": 0.2712,
+        "profile_path": null,
+        "credit_id": "68bf7c3f122c836fc74e66a5",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2973748,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ana Sanagustín",
+        "original_name": "Ana Sanagustín",
+        "popularity": 0.0342,
+        "profile_path": null,
+        "credit_id": "68bf7dd96ebe98c71e4e656c",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2830673,
+        "known_for_department": "Writing",
+        "name": "Sureño",
+        "original_name": "Sureño",
+        "popularity": 0.1286,
+        "profile_path": null,
+        "credit_id": "68bf86879c3fe8147d1f5966",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5201300,
+        "known_for_department": "Acting",
+        "name": "Jaime García Machín",
+        "original_name": "Jaime García Machín",
+        "popularity": 0.2408,
+        "profile_path": null,
+        "credit_id": "68bf98d7bdb8f736629bced1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2040418,
+        "known_for_department": "Editing",
+        "name": "Lucía Casal",
+        "original_name": "Lucía Casal",
+        "popularity": 0.144,
+        "profile_path": null,
+        "credit_id": "68bf9920c9b90846f106ab2a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1711878,
+        "known_for_department": "Editing",
+        "name": "José Manuel Jiménez",
+        "original_name": "José Manuel Jiménez",
+        "popularity": 0.2819,
+        "profile_path": "/mdn6B2IbqEmWnE5Ty4Cqv8WE092.jpg",
+        "credit_id": "68bf994110647f072c1bcff6",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5679229,
+        "known_for_department": "Art",
+        "name": "Eus Barrera",
+        "original_name": "Eus Barrera",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68bf999bb4b474000c1f5b2b",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1278304,
+        "known_for_department": "Writing",
+        "name": "Adrián Domínguez Barbáchano",
+        "original_name": "Adrián Domínguez Barbáchano",
+        "popularity": 0.2915,
+        "profile_path": null,
+        "credit_id": "68bf9a56fdd786ebf99c116a",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2449417,
+        "known_for_department": "Crew",
+        "name": "Ignacio Lasierra",
+        "original_name": "Ignacio Lasierra",
+        "popularity": 0.1804,
+        "profile_path": null,
+        "credit_id": "68bf9a90a04c22fb97947f27",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5679056,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Irene Tudela",
+        "original_name": "Irene Tudela",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68bf9ade0459e37f171bd1fc",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1282299,
+        "known_for_department": "Sound",
+        "name": "Sergio López-Eraña",
+        "original_name": "Sergio López-Eraña",
+        "popularity": 0.1445,
+        "profile_path": "/fsT0CIDBXTtEIHclb6HtZ0paQPZ.jpg",
+        "credit_id": "68bf9b134e058dc0fe9c0c9d",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5679253,
+        "known_for_department": "Visual Effects",
+        "name": "Juan Remacha",
+        "original_name": "Juan Remacha",
+        "popularity": 0.0401,
+        "profile_path": null,
+        "credit_id": "68bf9b33fcc5260ee09c0bf9",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2736927,
+        "known_for_department": "Lighting",
+        "name": "Rubén Berges",
+        "original_name": "Rubén Berges",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68bf9b564acfe14e8e1bd191",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5679256,
+        "known_for_department": "Camera",
+        "name": "David Navarro Andrés",
+        "original_name": "David Navarro Andrés",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68bf9b7655ff55b5e58cf4ce",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5059199,
+        "known_for_department": "Acting",
+        "name": "Daniel Valdivia",
+        "original_name": "Daniel Valdivia",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68bf9b9c24af1eee5498c892",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5679258,
+        "known_for_department": "Camera",
+        "name": "Raimond Yanes",
+        "original_name": "Raimond Yanes",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68bf9bbb8840e7976498c777",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5298200,
+        "known_for_department": "Production",
+        "name": "Camino Ivars",
+        "original_name": "Camino Ivars",
+        "popularity": 0.0935,
+        "profile_path": null,
+        "credit_id": "68bf9bd4adad6c15461f592e",
+        "department": "Production",
+        "job": "Location Manager"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 190823,
+        "name": "social realism"
+      },
+      {
+        "id": 314730,
+        "name": "suspenseful"
+      },
+      {
+        "id": 329096,
+        "name": "comunidades"
+      },
+      {
+        "id": 332768,
+        "name": "libertad"
+      },
+      {
+        "id": 347820,
+        "name": "esperanza"
+      },
+      {
+        "id": 349993,
+        "name": "migración"
+      },
+      {
+        "id": 358584,
+        "name": "repartidora"
+      },
+      {
+        "id": 358585,
+        "name": "futuro distópico"
+      },
+      {
+        "id": 358586,
+        "name": "precariedad laboral"
+      },
+      {
+        "id": 358587,
+        "name": "resistencia femenina"
+      },
+      {
+        "id": 358588,
+        "name": "entregas ilegales"
+      },
+      {
+        "id": 358589,
+        "name": "solidaridad urbana"
+      },
+      {
+        "id": 358590,
+        "name": "bicicleta como símbolo"
+      },
+      {
+        "id": 358591,
+        "name": "supervivencia en la ciudad"
+      },
+      {
+        "id": 358592,
+        "name": "rebeldía"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "A young delivery rider faces a life-threatening assignment during a chaotic night as she tries to resolve urgent personal problems through phone calls and find redemption.",
+          "runtime": 72,
+          "tagline": "A night. A delivery. A life.",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Contada en tiempo real en una noche, una rider tiene que hacer un pedido que pondrá en peligro su vida, mientras tiene que resolver varios problemas personales a través de llamadas telefónicas.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "MX",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Una joven repartidora se ve obligada a realizar una entrega peligrosa que pondrá en riesgo su vida durante una noche llena de urgentes problemas personales que debe resolver por teléfono. Millones de personas se ganan la vida como repartidoras en todo el mundo, y la historia de redención de Fio es solo una de ellas.",
+          "runtime": 0,
+          "tagline": "Cuando todo se derrumba, solo queda avanzar",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "NL",
+        "iso_639_1": "nl",
+        "name": "Nederlands",
+        "english_name": "Dutch",
+        "data": {
+          "homepage": "",
+          "overview": "Een jonge vrouw die als koerier werkt, wordt gedwongen een gevaarlijke bezorging te doen die haar leven in gevaar brengt, tijdens een nacht vol dringende persoonlijke problemen die ze via telefoongesprekken moet oplossen. Miljoenen mensen over de hele wereld verdienen de kost als koerier, en Fio's verhaal over verlossing is er slechts één van.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "VE",
+        "title": "Jinete (2025)",
+        "type": "LATAM"
+      },
+      {
+        "iso_3166_1": "VE",
+        "title": "El Último Jinete (2025)",
+        "type": "LATAM"
+      },
+      {
+        "iso_3166_1": "VE",
+        "title": "Rider: El Año Final (2025)",
+        "type": "LATAM"
+      },
+      {
+        "iso_3166_1": "VE",
+        "title": "Rider: Misión (2025)",
+        "type": "LATAM"
+      },
+      {
+        "iso_3166_1": "VE",
+        "title": "Rider: Renacer (2025)",
+        "type": "LATAM"
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Rider (2025)",
+        "type": "Original"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt21829370",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.707,
+        "height": 1644,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/oMi4aU5zRIF0ZpkjLW1ckWXuDD4.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1163
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-06-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

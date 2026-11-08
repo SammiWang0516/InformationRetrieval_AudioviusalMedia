@@ -1,0 +1,706 @@
+{
+  "adult": false,
+  "backdrop_path": "/7m8MV5lc4r1LdDNvSrSK6ewR8LR.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1442854,
+  "imdb_id": "tt35290379",
+  "origin_country": [
+    "AU"
+  ],
+  "original_language": "en",
+  "original_title": "I'm the Most Racist Person I Know",
+  "overview": "When a romantic gesture towards a bartender backfires, Lali unexpectedly finds herself offered a pity date by another bartender, Ana. What starts as an awkward encounter turns into a genuine connection as they bond over shared experiences as women of color. As they grow closer, Lali finds herself falling for Ana. But when the conversation takes an unexpected turn, Lali must confront her prejudices towards Ana and... herself.",
+  "popularity": 0.8416,
+  "poster_path": "/40UvVAAX4kOuRRIOX1ar2Hl59WW.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    }
+  ],
+  "release_date": "2025-03-08",
+  "revenue": 0,
+  "runtime": 13,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "I'm the Most Racist Person I Know",
+  "video": false,
+  "vote_average": 5.0,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2716907,
+        "known_for_department": "Acting",
+        "name": "Shabana Azeez",
+        "original_name": "Shabana Azeez",
+        "popularity": 1.6092,
+        "profile_path": "/r5MWHqX1cxibytL7KGXNaT2NlD1.jpg",
+        "cast_id": 3,
+        "character": "Lali",
+        "credit_id": "67c668a851cd5e32f1c07497",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2404728,
+        "known_for_department": "Acting",
+        "name": "Kavitha Anandasivam",
+        "original_name": "Kavitha Anandasivam",
+        "popularity": 0.3123,
+        "profile_path": "/3UKrugW0C0iI9wPot8pmAiARb8B.jpg",
+        "cast_id": 5,
+        "character": "Ana",
+        "credit_id": "67c668ea51cd5e32f1c074a9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5281831,
+        "known_for_department": "Acting",
+        "name": "Nina Varghese",
+        "original_name": "Nina Varghese",
+        "popularity": 0.132,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Nina",
+        "credit_id": "67c668fc5b1d8d48c504d2ef",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2711460,
+        "known_for_department": "Acting",
+        "name": "Erin Paterson",
+        "original_name": "Erin Paterson",
+        "popularity": 0.272,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Holly",
+        "credit_id": "6804899d3f88854c49ee08de",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5628924,
+        "known_for_department": "Acting",
+        "name": "Stephanie Daughtry",
+        "original_name": "Stephanie Daughtry",
+        "popularity": 0.1516,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Nina's Girlfriend #1",
+        "credit_id": "689fed02bc58c3052dd4157d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2711084,
+        "known_for_department": "Acting",
+        "name": "Annie Schofield",
+        "original_name": "Annie Schofield",
+        "popularity": 0.2493,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Nina's Girlfriend #2",
+        "credit_id": "689fed1dc002ce3573855faa",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5628929,
+        "known_for_department": "Acting",
+        "name": "Jemma Allen",
+        "original_name": "Jemma Allen",
+        "popularity": 0.2973,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Holly's Girlfriend",
+        "credit_id": "689fed633341c305bf7bca16",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1616689,
+        "known_for_department": "Acting",
+        "name": "Luca Sardelis",
+        "original_name": "Luca Sardelis",
+        "popularity": 0.6364,
+        "profile_path": "/29U8kJrHK4AObvRFq9AYxjfH7n6.jpg",
+        "cast_id": 14,
+        "character": "Waiter",
+        "credit_id": "689fed961d0455a4da7bc960",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5628937,
+        "known_for_department": "Acting",
+        "name": "Cale Matthews",
+        "original_name": "Cale Matthews",
+        "popularity": 0.2555,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Guy",
+        "credit_id": "689fedb917afaefa92ec7446",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2812436,
+        "known_for_department": "Directing",
+        "name": "Leela Varghese",
+        "original_name": "Leela Varghese",
+        "popularity": 0.2176,
+        "profile_path": "/fNYoh3Btlg6kMi7mLAKDj9Irvrr.jpg",
+        "credit_id": "67c6687bdd46bd2fd3907288",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2812436,
+        "known_for_department": "Directing",
+        "name": "Leela Varghese",
+        "original_name": "Leela Varghese",
+        "popularity": 0.2176,
+        "profile_path": "/fNYoh3Btlg6kMi7mLAKDj9Irvrr.jpg",
+        "credit_id": "67c6689651cd5e32f1c0748e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5281837,
+        "known_for_department": "Sound",
+        "name": "Leigh Marsh",
+        "original_name": "Leigh Marsh",
+        "popularity": 0.0597,
+        "profile_path": null,
+        "credit_id": "67c6697009ce4f3514907129",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1987876,
+        "known_for_department": "Crew",
+        "name": "Michael Tessari ACS",
+        "original_name": "Michael Tessari ACS",
+        "popularity": 0.188,
+        "profile_path": "/3lz76bhsyXiD6z6T6Wg2lAilAgb.jpg",
+        "credit_id": "67c669c0644eec7114c0717a",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2812439,
+        "known_for_department": "Editing",
+        "name": "Pip Hart",
+        "original_name": "Pip Hart",
+        "popularity": 0.0813,
+        "profile_path": null,
+        "credit_id": "67c669e809ce4f3514907156",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2786556,
+        "known_for_department": "Production",
+        "name": "Suriyna Sivashanker",
+        "original_name": "Suriyna Sivashanker",
+        "popularity": 0.0976,
+        "profile_path": null,
+        "credit_id": "689fedf37398242f303bc33b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3422936,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Adele Shearwin",
+        "original_name": "Adele Shearwin",
+        "popularity": 0.1248,
+        "profile_path": null,
+        "credit_id": "689fee1005bdedab073bc2ff",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5628944,
+        "known_for_department": "Production",
+        "name": "Maddison Bugg",
+        "original_name": "Maddison Bugg",
+        "popularity": 0.1046,
+        "profile_path": null,
+        "credit_id": "689fee205a73a59d503bc3c2",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3502011,
+        "known_for_department": "Acting",
+        "name": "Iris Mcerlean",
+        "original_name": "Iris Mcerlean",
+        "popularity": 0.193,
+        "profile_path": null,
+        "credit_id": "689fee3735f315209a85b93a",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4774489,
+        "known_for_department": "Sound",
+        "name": "Olivia Aquilina",
+        "original_name": "Olivia Aquilina",
+        "popularity": 0.1959,
+        "profile_path": null,
+        "credit_id": "689fee4a1799b690b73bc338",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3648626,
+        "known_for_department": "Directing",
+        "name": "Kate Larmer",
+        "original_name": "Kate Larmer",
+        "popularity": 0.2119,
+        "profile_path": null,
+        "credit_id": "689fef79eccfb28ba8dcd7dc",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5087227,
+        "known_for_department": "Directing",
+        "name": "Cordell Horsell",
+        "original_name": "Cordell Horsell",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "689fefa1ec6cff07dad415a7",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5628955,
+        "known_for_department": "Directing",
+        "name": "Nicole Shoen",
+        "original_name": "Nicole Shoen",
+        "popularity": 0.114,
+        "profile_path": null,
+        "credit_id": "689fefb098c030ca9eec73e3",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5628959,
+        "known_for_department": "Production",
+        "name": "Lucy Beldham",
+        "original_name": "Lucy Beldham",
+        "popularity": 0.0879,
+        "profile_path": null,
+        "credit_id": "689ff07cfa0e0febe03bc33b",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5628961,
+        "known_for_department": "Directing",
+        "name": "Anita Glocke",
+        "original_name": "Anita Glocke",
+        "popularity": 0.0804,
+        "profile_path": null,
+        "credit_id": "689ff092fc6a822a573bc337",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3808241,
+        "known_for_department": "Camera",
+        "name": "Ella Burton",
+        "original_name": "Ella Burton",
+        "popularity": 0.0397,
+        "profile_path": null,
+        "credit_id": "689ff16582eb221f9c7bc984",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5087225,
+        "known_for_department": "Camera",
+        "name": "Tamryn Morriss",
+        "original_name": "Tamryn Morriss",
+        "popularity": 0.1509,
+        "profile_path": null,
+        "credit_id": "689ff17d5a73a59d503bc3cd",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2103381,
+        "known_for_department": "Lighting",
+        "name": "Josh Koster",
+        "original_name": "Josh Koster",
+        "popularity": 0.0887,
+        "profile_path": null,
+        "credit_id": "689ff18b7fd2c820e03bc303",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3854978,
+        "known_for_department": "Sound",
+        "name": "Aidyn Davis",
+        "original_name": "Aidyn Davis",
+        "popularity": 0.0907,
+        "profile_path": null,
+        "credit_id": "689ff1a4a14e1640843390aa",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1923073,
+        "known_for_department": "Art",
+        "name": "Emma Hough Hobbs",
+        "original_name": "Emma Hough Hobbs",
+        "popularity": 0.1335,
+        "profile_path": "/pSKSmE9BIr4c9FELUxwLToWt1te.jpg",
+        "credit_id": "689ff1b8744a14b53d339184",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5628965,
+        "known_for_department": "Art",
+        "name": "Charlotte Gow-Smith",
+        "original_name": "Charlotte Gow-Smith",
+        "popularity": 0.1718,
+        "profile_path": null,
+        "credit_id": "689ff1daeddbeedc4cdcd753",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5628966,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Emily Moff",
+        "original_name": "Emily Moff",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "689ff1f221e1b61043855f75",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5628968,
+        "known_for_department": "Crew",
+        "name": "Annie Lay Hoon Ong",
+        "original_name": "Annie Lay Hoon Ong",
+        "popularity": 0.1602,
+        "profile_path": null,
+        "credit_id": "689ff1fedcf0f3f348855f86",
+        "department": "Crew",
+        "job": "Catering"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5628969,
+        "known_for_department": "Camera",
+        "name": "Kyahm Ross",
+        "original_name": "Kyahm Ross",
+        "popularity": 0.0667,
+        "profile_path": null,
+        "credit_id": "689ff20a856db63289ec73fc",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1987876,
+        "known_for_department": "Crew",
+        "name": "Michael Tessari ACS",
+        "original_name": "Michael Tessari ACS",
+        "popularity": 0.188,
+        "profile_path": "/3lz76bhsyXiD6z6T6Wg2lAilAgb.jpg",
+        "credit_id": "689ff2174f92b64ca37bc9bd",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2786556,
+        "known_for_department": "Production",
+        "name": "Suriyna Sivashanker",
+        "original_name": "Suriyna Sivashanker",
+        "popularity": 0.0976,
+        "profile_path": null,
+        "credit_id": "689ff2267398242f303bc346",
+        "department": "Editing",
+        "job": "Online Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 263548,
+        "name": "short film"
+      },
+      {
+        "id": 300642,
+        "name": "queer cinema"
+      },
+      {
+        "id": 350657,
+        "name": "australian cinema"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "When a romantic gesture towards a bartender backfires, Lali unexpectedly finds herself offered a pity date by another bartender, Ana. What starts as an awkward encounter turns into a genuine connection as they bond over shared experiences as women of color. As they grow closer, Lali finds herself falling for Ana. But when the conversation takes an unexpected turn, Lali must confront her prejudices towards Ana and... herself.",
+          "runtime": 13,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "CN",
+        "iso_639_1": "zh",
+        "name": "普通话",
+        "english_name": "Mandarin",
+        "data": {
+          "homepage": "",
+          "overview": "拉莉对一位酒保的浪漫示好惨遭翻车，却意外获得另一位酒保安娜的安慰性邀约。这场始于尴尬的相遇，因两人同属有色人种女性的共鸣而逐渐升温。当她们越走越近，拉莉发现自己已对安娜心动。然而当对话突然转向始料未及的方向，拉莉不得不直面自己对安娜的偏见，以及...内心深处对自我的审视。",
+          "runtime": 0,
+          "tagline": "",
+          "title": "我是我认识的最种族主义者"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt35290379",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 900,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/7m8MV5lc4r1LdDNvSrSK6ewR8LR.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1600
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 900,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/4pnCaVQ7Hk6d2l2fnUChsZ8lAbv.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1600
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 900,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/atQiSwn3TVSJNI2d7NOYyi56Co3.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1600
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 900,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/hqgDcQmour9ENVKYmK2KOjgmXhz.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1600
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 900,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/oIa4BOUbRVFQ32RDAsaYZWxKsh.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1600
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/40UvVAAX4kOuRRIOX1ar2Hl59WW.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Sydney Film Festival",
+            "release_date": "2025-06-04T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Melbourne International Film Festival",
+            "release_date": "2025-08-11T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "South by Southwest Film Festival",
+            "release_date": "2025-03-08T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Filmmaker Focus | I'm The Most Racist Person I Know",
+        "key": "CVxyZyYXy7M",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Behind the Scenes",
+        "official": false,
+        "id": "689fe95c2ef797cd997bc997",
+        "published_at": "2025-05-06T03:37:47.000Z"
+      }
+    ]
+  }
+}

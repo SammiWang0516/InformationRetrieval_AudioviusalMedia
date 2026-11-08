@@ -1,0 +1,354 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1800383,
+  "imdb_id": null,
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Sì, No, Boh, Forse?",
+  "overview": "",
+  "popularity": 0.301,
+  "poster_path": "/9XdtmPDfDLjo3UFmkwjY5oi2BDO.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2026-10-16",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Sì, No, Boh, Forse?",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5847935,
+        "known_for_department": "Directing",
+        "name": "Giovanni Gragnaniello",
+        "original_name": "Giovanni Gragnaniello",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Giovanni/Vanni",
+        "credit_id": "6ad3f921d7684926e21b2aec",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5847943,
+        "known_for_department": "Acting",
+        "name": "Ludovica Palumbo",
+        "original_name": "Ludovica Palumbo",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Ludovica",
+        "credit_id": "6ad3fbaf1a8e37ac331b2ad8",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5847921,
+        "known_for_department": "Acting",
+        "name": "Diego Esposito",
+        "original_name": "Diego Esposito",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Diego",
+        "credit_id": "6ad48f51b9d63e35853da819",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5847923,
+        "known_for_department": "Acting",
+        "name": "Nino Russolillo",
+        "original_name": "Nino Russolillo",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Capo",
+        "credit_id": "6ad48f6cdb5df95fbe1d40e6",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5847929,
+        "known_for_department": "Acting",
+        "name": "Luciano Liguoro",
+        "original_name": "Luciano Liguoro",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Capo 2",
+        "credit_id": "6ad48f7c2178de8de6b4135f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5847916,
+        "known_for_department": "Acting",
+        "name": "Spagno",
+        "original_name": "Spagno",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Capo 3",
+        "credit_id": "6ad48f89be6735963a796efb",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5847916,
+        "known_for_department": "Acting",
+        "name": "Spagno",
+        "original_name": "Spagno",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6ad3fe4a1a8e37ac331b2aee",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5847916,
+        "known_for_department": "Acting",
+        "name": "Spagno",
+        "original_name": "Spagno",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6ad40261b0a1e2c1f6d8282d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5847916,
+        "known_for_department": "Acting",
+        "name": "Spagno",
+        "original_name": "Spagno",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6ad4029e75cc7f56751d3c1b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5847929,
+        "known_for_department": "Acting",
+        "name": "Luciano Liguoro",
+        "original_name": "Luciano Liguoro",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "6ad402e18f1f0ebca920c2f7",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6556879,
+        "known_for_department": "Sound",
+        "name": "Andrea Pio Signoriello",
+        "original_name": "Andrea Pio Signoriello",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6ad4036738b2e5a46b1d3d2f",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5847916,
+        "known_for_department": "Acting",
+        "name": "Spagno",
+        "original_name": "Spagno",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6ad403a32178de8de6b40b9c",
+        "department": "Crew",
+        "job": "Machinist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6556880,
+        "known_for_department": "Camera",
+        "name": "Raffaele Porrino",
+        "original_name": "Raffaele Porrino",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6ad403ec38b2e5a46b1d3d4d",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5847916,
+        "known_for_department": "Acting",
+        "name": "Spagno",
+        "original_name": "Spagno",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6ad403fe234128718e0d8670",
+        "department": "Editing",
+        "job": "Color Grading"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6556882,
+        "known_for_department": "Art",
+        "name": "Alfonso Coppola",
+        "original_name": "Alfonso Coppola",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6ad40424160fc42ffa3da0a0",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5847916,
+        "known_for_department": "Acting",
+        "name": "Spagno",
+        "original_name": "Spagno",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6ad40436e1235242700d8500",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5847916,
+        "known_for_department": "Acting",
+        "name": "Spagno",
+        "original_name": "Spagno",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6ad494e9dda0be39240d8e09",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "IT",
+        "iso_639_1": "it",
+        "name": "Italiano",
+        "english_name": "Italian",
+        "data": {
+          "homepage": "",
+          "overview": "La chiave per svoltare la vita d’ufficio? È nascosta in bagno, dietro una porta segreta.",
+          "runtime": 15,
+          "tagline": "MEH!",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.666,
+        "height": 1520,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/9XdtmPDfDLjo3UFmkwjY5oi2BDO.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1013
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "it",
+            "note": "Believe Film Festival",
+            "release_date": "2026-10-16T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "it",
+            "note": "RAI Cinema",
+            "release_date": "2026-11-02T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

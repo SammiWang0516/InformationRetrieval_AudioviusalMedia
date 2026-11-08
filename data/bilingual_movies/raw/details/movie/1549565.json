@@ -1,0 +1,432 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 100,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1549565,
+  "imdb_id": "tt37806849",
+  "origin_country": [
+    "IT",
+    "GB"
+  ],
+  "original_language": "it",
+  "original_title": "OH BOYS",
+  "overview": "In a coastal village obsessed with standing out, through flashy solos, fierce ping pong matches, and clumsy dates, a young saxophonist takes a different path.",
+  "popularity": 1.6031,
+  "poster_path": "/q9xsYEwB3ekKNwMGph3H1ao4Lqb.jpg",
+  "production_companies": [
+    {
+      "id": 209828,
+      "logo_path": null,
+      "name": "Andromeda Film",
+      "origin_country": "IT"
+    },
+    {
+      "id": 243699,
+      "logo_path": null,
+      "name": "Courageous Donuts",
+      "origin_country": ""
+    },
+    {
+      "id": 141776,
+      "logo_path": null,
+      "name": "Premiere Film",
+      "origin_country": "IT"
+    },
+    {
+      "id": 295441,
+      "logo_path": null,
+      "name": "VIA73",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2026-05-21",
+  "revenue": 0,
+  "runtime": 17,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "OH BOYS",
+  "video": false,
+  "vote_average": 8.0,
+  "vote_count": 2,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2857560,
+        "known_for_department": "Acting",
+        "name": "Tom Byrne",
+        "original_name": "Tom Byrne",
+        "popularity": 0.172,
+        "profile_path": "/9S1yloi72b3mElexjwABdLCwznR.jpg",
+        "cast_id": 4,
+        "character": "Callum",
+        "credit_id": "68cf1b241653d87afe7a4141",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3447317,
+        "known_for_department": "Acting",
+        "name": "Luca Lacerenza",
+        "original_name": "Luca Lacerenza",
+        "popularity": 0.1767,
+        "profile_path": "/dSaMbHIkVre9BVCBJUszoIrgW37.jpg",
+        "cast_id": 5,
+        "character": "Luca",
+        "credit_id": "68cf1b593c2aefb46874941f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1919382,
+        "known_for_department": "Acting",
+        "name": "Antonio De Rosa",
+        "original_name": "Antonio De Rosa",
+        "popularity": 0.0686,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Dottore",
+        "credit_id": "68cf1ba2aaaef8e9decebee5",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4429486,
+        "known_for_department": "Acting",
+        "name": "Meg Bellamy",
+        "original_name": "Meg Bellamy",
+        "popularity": 0.1805,
+        "profile_path": "/dawmNluUz7HcdBY6HGO4mQvUwk4.jpg",
+        "cast_id": 7,
+        "character": "Alice",
+        "credit_id": "68cf1bc702048cfe22ac7dc1",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3778319,
+        "known_for_department": "Directing",
+        "name": "Antonio Donato",
+        "original_name": "Antonio Donato",
+        "popularity": 0.0761,
+        "profile_path": "/j5hxzPO13sKYjP14evWRCCJs6cs.jpg",
+        "credit_id": "68cf1a46e99679837c7a439f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3778320,
+        "known_for_department": "Production",
+        "name": "Patrick James Verlin",
+        "original_name": "Patrick James Verlin",
+        "popularity": 0.3449,
+        "profile_path": null,
+        "credit_id": "68cf1ae4c5872b335197d2f6",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4922798,
+        "known_for_department": "Writing",
+        "name": "Saverio Pasepane",
+        "original_name": "Saverio Pasepane",
+        "popularity": 0.0541,
+        "profile_path": null,
+        "credit_id": "69dff128302b4b20ffb4cd30",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4277459,
+        "known_for_department": "Camera",
+        "name": "Antonio Morra",
+        "original_name": "Antonio Morra",
+        "popularity": 0.0372,
+        "profile_path": null,
+        "credit_id": "69dff142fe4dfbf463211f4d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3722244,
+        "known_for_department": "Writing",
+        "name": "Paolo Carbone",
+        "original_name": "Paolo Carbone",
+        "popularity": 0.417,
+        "profile_path": null,
+        "credit_id": "69dff151aa4a645831f941e1",
+        "department": "Writing",
+        "job": "Co-Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3778319,
+        "known_for_department": "Directing",
+        "name": "Antonio Donato",
+        "original_name": "Antonio Donato",
+        "popularity": 0.0761,
+        "profile_path": "/j5hxzPO13sKYjP14evWRCCJs6cs.jpg",
+        "credit_id": "69dff168aa4a645831f941ef",
+        "department": "Writing",
+        "job": "Co-Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3425139,
+        "known_for_department": "Sound",
+        "name": "Nico Palermo",
+        "original_name": "Nico Palermo",
+        "popularity": 0.1556,
+        "profile_path": null,
+        "credit_id": "69dff18fa0bafc9e75af9510",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5743636,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Angela Bove",
+        "original_name": "Angela Bove",
+        "popularity": 0.0613,
+        "profile_path": null,
+        "credit_id": "69dff1a4302b4b20ffb4cd3f",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6144848,
+        "known_for_department": "Art",
+        "name": "Marianna Russo",
+        "original_name": "Marianna Russo",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69dff1b0fea55dcb6bf94073",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3778327,
+        "known_for_department": "Editing",
+        "name": "Iacopo Calebrese",
+        "original_name": "Iacopo Calebrese",
+        "popularity": 0.0605,
+        "profile_path": null,
+        "credit_id": "69dff1bd188c9fc2d62d98bf",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3778325,
+        "known_for_department": "Art",
+        "name": "Anastasia Mykhaylova",
+        "original_name": "Anastasia Mykhaylova",
+        "popularity": 0.1036,
+        "profile_path": null,
+        "credit_id": "69dff1e0ab1a117df6b7fb4d",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4630144,
+        "known_for_department": "Directing",
+        "name": "Olivia Serafini-Sauli",
+        "original_name": "Olivia Serafini-Sauli",
+        "popularity": 0.1067,
+        "profile_path": null,
+        "credit_id": "69dff1eed531f54c89af9465",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4205657,
+        "known_for_department": "Production",
+        "name": "Filippo Montalto",
+        "original_name": "Filippo Montalto",
+        "popularity": 0.0575,
+        "profile_path": null,
+        "credit_id": "69dff1fb7a363b56ac012bb9",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4850760,
+        "known_for_department": "Production",
+        "name": "Francesco Montalto",
+        "original_name": "Francesco Montalto",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69dff210863440316ab7fad1",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3588078,
+        "known_for_department": "Acting",
+        "name": "Andrea Orsenigo",
+        "original_name": "Andrea Orsenigo",
+        "popularity": 0.0906,
+        "profile_path": null,
+        "credit_id": "6a043b23e9e740519aa605fd",
+        "department": "Writing",
+        "job": "Co-Writer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "In a coastal village obsessed with standing out, through flashy solos, fierce ping pong matches, and clumsy dates, a young saxophonist takes a different path.",
+          "runtime": 17,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "IT",
+        "iso_639_1": "it",
+        "name": "Italiano",
+        "english_name": "Italian",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt37806849",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.707,
+        "height": 2048,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/t4Xrra7aOBgz6pDLoiMrm8cbsm6.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1448
+      },
+      {
+        "aspect_ratio": 0.716,
+        "height": 2048,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/q9xsYEwB3ekKNwMGph3H1ao4Lqb.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1467
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Cannes Directors' Fortnight",
+            "release_date": "2026-05-21T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

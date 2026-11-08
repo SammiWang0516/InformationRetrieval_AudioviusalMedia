@@ -1,0 +1,733 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 1000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 1405687,
+  "imdb_id": "tt33267310",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Rabid Reels",
+  "overview": "Beatrice, a jaded film editor, works late on her latest project when her computer glitches, showing films she didn't edit. Aided by a mysterious figure, she must unravel the secret of these cursed films in this darkly comedic anthology.",
+  "popularity": 1.0704,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-05-09",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Editing is hell",
+  "title": "Rabid Reels",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5132258,
+        "known_for_department": "Acting",
+        "name": "Bianco Mio",
+        "original_name": "Bianco Mio",
+        "popularity": 0.0874,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Beatrice",
+        "credit_id": "676628f8aff5a7d64174bf8c",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5132259,
+        "known_for_department": "Acting",
+        "name": "Nathan Daniel Goldberg",
+        "original_name": "Nathan Daniel Goldberg",
+        "popularity": 0.0917,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Lucius",
+        "credit_id": "67662911aff5a7d64174bf9c",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5132277,
+        "known_for_department": "Acting",
+        "name": "Diego Andres Rodriguez",
+        "original_name": "Diego Andres Rodriguez",
+        "popularity": 0.2249,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Zeke",
+        "credit_id": "67662c3d87b92a43be5e0c1c",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4029823,
+        "known_for_department": "Acting",
+        "name": "Owen Lawrence",
+        "original_name": "Owen Lawrence",
+        "popularity": 0.5089,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Kevin",
+        "credit_id": "67662c4e8f10c2746b90edd2",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4908093,
+        "known_for_department": "Acting",
+        "name": "Molly Cesanek",
+        "original_name": "Molly Cesanek",
+        "popularity": 0.6716,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Jessica",
+        "credit_id": "67662c8787b92a43be5e0c2b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5132296,
+        "known_for_department": "Acting",
+        "name": "Ezekiel Snyder",
+        "original_name": "Ezekiel Snyder",
+        "popularity": 0.1599,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "George",
+        "credit_id": "67662d7b919287ef5390ec78",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5132276,
+        "known_for_department": "Acting",
+        "name": "Will Chehab",
+        "original_name": "Will Chehab",
+        "popularity": 0.4519,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Aaron",
+        "credit_id": "67662c230b2fbb9dea5e119d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5132299,
+        "known_for_department": "Acting",
+        "name": "Nicola Troschinetz",
+        "original_name": "Nicola Troschinetz",
+        "popularity": 0.1007,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Hailey",
+        "credit_id": "67662db88f10c2746b90ee5b",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5132304,
+        "known_for_department": "Acting",
+        "name": "Nick Alexander",
+        "original_name": "Nick Alexander",
+        "popularity": 0.1815,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "CJ",
+        "credit_id": "67662e14f926be03cc74bb31",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5132286,
+        "known_for_department": "Acting",
+        "name": "Somya Jha",
+        "original_name": "Somya Jha",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Frannie",
+        "credit_id": "67662ce787b92a43be5e0c7b",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5132280,
+        "known_for_department": "Acting",
+        "name": "Oliver Boomer",
+        "original_name": "Oliver Boomer",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Ian",
+        "credit_id": "67662ca7774ac5a28574adf7",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5132283,
+        "known_for_department": "Acting",
+        "name": "Jill Pierangeli",
+        "original_name": "Jill Pierangeli",
+        "popularity": 0.032,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Greta",
+        "credit_id": "67662cce8f10c2746b90ee04",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5074276,
+        "known_for_department": "Sound",
+        "name": "Henry Crater",
+        "original_name": "Henry Crater",
+        "popularity": 0.0365,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Piggy",
+        "credit_id": "67662e23f926be03cc74bb37",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5132302,
+        "known_for_department": "Acting",
+        "name": "Max Newman",
+        "original_name": "Max Newman",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Quinn",
+        "credit_id": "67662df8774ac5a28574ae5a",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5132300,
+        "known_for_department": "Acting",
+        "name": "Caleb McArthur",
+        "original_name": "Caleb McArthur",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Daniel",
+        "credit_id": "67662dd087b92a43be5e0caf",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5132279,
+        "known_for_department": "Acting",
+        "name": "Ryo Kamibayashi",
+        "original_name": "Ryo Kamibayashi",
+        "popularity": 0.0304,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Xavier",
+        "credit_id": "67662c72774ac5a28574add1",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5132292,
+        "known_for_department": "Acting",
+        "name": "Abigail Labbe",
+        "original_name": "Abigail Labbe",
+        "popularity": 0.0473,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Mirror Monster",
+        "credit_id": "67662d49774ac5a28574ae1b",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5132281,
+        "known_for_department": "Acting",
+        "name": "Hadley Gorsline",
+        "original_name": "Hadley Gorsline",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Wendy",
+        "credit_id": "67662cb487b92a43be5e0c43",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5132298,
+        "known_for_department": "Acting",
+        "name": "Natasha Rodriguez",
+        "original_name": "Natasha Rodriguez",
+        "popularity": 0.0473,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Olivia",
+        "credit_id": "67662d8df926be03cc74bb00",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5132289,
+        "known_for_department": "Acting",
+        "name": "Anna Chen",
+        "original_name": "Anna Chen",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Lily",
+        "credit_id": "67662d12f926be03cc74bae2",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5132275,
+        "known_for_department": "Acting",
+        "name": "Noah Michael Johnson",
+        "original_name": "Noah Michael Johnson",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Pizzaman",
+        "credit_id": "67662d2c8f10c2746b90ee39",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5132285,
+        "known_for_department": "Acting",
+        "name": "Landon Wouters",
+        "original_name": "Landon Wouters",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Ryley",
+        "credit_id": "67662cda87b92a43be5e0c69",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4908094,
+        "known_for_department": "Acting",
+        "name": "Sabrina Lahlou",
+        "original_name": "Sabrina Lahlou",
+        "popularity": 0.0809,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Vanessa",
+        "credit_id": "67662c9b919287ef5390ec4d",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5132295,
+        "known_for_department": "Acting",
+        "name": "Brett Smith",
+        "original_name": "Brett Smith",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Vampire",
+        "credit_id": "67662d65f926be03cc74baf0",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4859082,
+        "known_for_department": "Acting",
+        "name": "Stephanie Michelle Gurnoe",
+        "original_name": "Stephanie Michelle Gurnoe",
+        "popularity": 0.4991,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Instructor (voice)",
+        "credit_id": "676629290b2fbb9dea5e109b",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5132288,
+        "known_for_department": "Acting",
+        "name": "Jake Primak",
+        "original_name": "Jake Primak",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Cop 1 (voice)/ Cop 2 (voice)",
+        "credit_id": "67662cfd8f10c2746b90ee27",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5281345,
+        "known_for_department": "Acting",
+        "name": "Cole McCarthy",
+        "original_name": "Cole McCarthy",
+        "popularity": 0.0581,
+        "profile_path": null,
+        "cast_id": 46,
+        "character": "Noah",
+        "credit_id": "6988660622e55a21258c91f0",
+        "order": 26
+      }
+    ],
+    "crew": [
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 4029832,
+        "known_for_department": "Directing",
+        "name": "Noah Michael Johnson",
+        "original_name": "Noah Michael Johnson",
+        "popularity": 0.6042,
+        "profile_path": null,
+        "credit_id": "67662a220b2fbb9dea5e1126",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 4029847,
+        "known_for_department": "Art",
+        "name": "Johannes Pardi",
+        "original_name": "Johannes Pardi",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67662ae08ca53cc6a75e02b1",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5132273,
+        "known_for_department": "Production",
+        "name": "Anna Helmer",
+        "original_name": "Anna Helmer",
+        "popularity": 0.1683,
+        "profile_path": null,
+        "credit_id": "67662af88ca53cc6a75e02c7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5074273,
+        "known_for_department": "Editing",
+        "name": "Eda Conway",
+        "original_name": "Eda Conway",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "67662b051b06c5f28b74ae71",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5074318,
+        "known_for_department": "Lighting",
+        "name": "Megan Mondek",
+        "original_name": "Megan Mondek",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "67662b2690ee64af0674ada8",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 4908096,
+        "known_for_department": "Acting",
+        "name": "Leo Milmet",
+        "original_name": "Leo Milmet",
+        "popularity": 0.3391,
+        "profile_path": null,
+        "credit_id": "67662b40ae1b411f405e1c68",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5132274,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Anna Chen",
+        "original_name": "Anna Chen",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67662b8d87b92a43be5e0c03",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Key Makeup Artist"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5074262,
+        "known_for_department": "Camera",
+        "name": "Lauren Donatoni",
+        "original_name": "Lauren Donatoni",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "67662ba80b2fbb9dea5e1172",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 3669598,
+        "known_for_department": "Acting",
+        "name": "Joe Berg",
+        "original_name": "Joe Berg",
+        "popularity": 0.1018,
+        "profile_path": null,
+        "credit_id": "67662f43330bce6ec990f1e3",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4363912,
+        "known_for_department": "Camera",
+        "name": "Justin Park-Swanson",
+        "original_name": "Justin Park-Swanson",
+        "popularity": 0.1129,
+        "profile_path": null,
+        "credit_id": "67662f85330bce6ec990f1fa",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5074316,
+        "known_for_department": "Camera",
+        "name": "Nicole Delong",
+        "original_name": "Nicole Delong",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "credit_id": "67662f9403a3aa533090eb5b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5074250,
+        "known_for_department": "Production",
+        "name": "Juan Morales",
+        "original_name": "Juan Morales",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "67662fbbf926be03cc74bbe7",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5132318,
+        "known_for_department": "Sound",
+        "name": "Peter Tang",
+        "original_name": "Peter Tang",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "67662fd51b06c5f28b74aed3",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5132319,
+        "known_for_department": "Production",
+        "name": "Logan G. Daitch",
+        "original_name": "Logan G. Daitch",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67662ff01b06c5f28b74aee4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5074260,
+        "known_for_department": "Production",
+        "name": "Venus Yeung",
+        "original_name": "Venus Yeung",
+        "popularity": 0.045,
+        "profile_path": null,
+        "credit_id": "6766301d1b06c5f28b74aef7",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5074317,
+        "known_for_department": "Camera",
+        "name": "Melvin Johnson",
+        "original_name": "Melvin Johnson",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "676630481b06c5f28b74aeff",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5132323,
+        "known_for_department": "Sound",
+        "name": "Carlos Taboada",
+        "original_name": "Carlos Taboada",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "676630811b06c5f28b74af23",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5144097,
+        "known_for_department": "Writing",
+        "name": "Noah Michael Johnson",
+        "original_name": "Noah Michael Johnson",
+        "popularity": 0.6403,
+        "profile_path": null,
+        "credit_id": "676f0095bf10ff1984617e5d",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 250593,
+        "name": "horror anthology"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Beatrice, a jaded film editor, works late on her latest project when her computer glitches, showing films she didn't edit. Aided by a mysterious figure, she must unravel the secret of these cursed films in this darkly comedic anthology.",
+          "runtime": 0,
+          "tagline": "Editing is hell",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt33267310",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "rabidreelsmovie",
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2025-05-09T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

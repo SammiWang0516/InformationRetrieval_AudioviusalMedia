@@ -1,0 +1,203 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1770483,
+  "imdb_id": null,
+  "origin_country": [
+    "AU"
+  ],
+  "original_language": "en",
+  "original_title": "Ghosts of Westlake",
+  "overview": "Paranormal expert and living skeleton Professor Skelton sets out to film an episode of his little-seen web series, Haunted Canberra, only to uncover a dark secret...",
+  "popularity": 0.1968,
+  "poster_path": "/vC1k5piiQuNO3C80ECI0qpju4IZ.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    }
+  ],
+  "release_date": "2026-10-09",
+  "revenue": 0,
+  "runtime": 15,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Ghosts of Westlake",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6489518,
+        "known_for_department": "Acting",
+        "name": "Zachary Smith",
+        "original_name": "Zachary Smith",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Professor Skelton / Trent Himself",
+        "credit_id": "6aae6dd790cca7ffdcb66bbf",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6478097,
+        "known_for_department": "Directing",
+        "name": "Benjamin Smith",
+        "original_name": "Benjamin Smith",
+        "popularity": 0.0372,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Brian Neckbeard / Professor Skelton",
+        "credit_id": "6aae6ee3e9ba225245f66df8",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6478097,
+        "known_for_department": "Directing",
+        "name": "Benjamin Smith",
+        "original_name": "Benjamin Smith",
+        "popularity": 0.0372,
+        "profile_path": null,
+        "credit_id": "6aa80c365cbe7e469a579181",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6478097,
+        "known_for_department": "Directing",
+        "name": "Benjamin Smith",
+        "original_name": "Benjamin Smith",
+        "popularity": 0.0372,
+        "profile_path": null,
+        "credit_id": "6aae6f3eaa033fd09e8da32d",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6489518,
+        "known_for_department": "Acting",
+        "name": "Zachary Smith",
+        "original_name": "Zachary Smith",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "6aae6f60d6071dd7a28da32a",
+        "department": "Crew",
+        "job": "Cinematography"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Paranormal expert and living skeleton Professor Skelton sets out to film an episode of his little-seen web series, Haunted Canberra, only to uncover a dark secret...",
+          "runtime": 15,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/vC1k5piiQuNO3C80ECI0qpju4IZ.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "Perth Horror Film Festival",
+            "release_date": "2026-09-05T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "Demonic Brilliance Film Festival",
+            "release_date": "2026-10-09T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

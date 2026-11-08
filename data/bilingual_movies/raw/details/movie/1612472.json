@@ -1,0 +1,443 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1612472,
+  "imdb_id": null,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Projectionist",
+  "overview": "A late-night screening at a nearly empty movie theater takes an unexpected turn when a couple is drawn into the strange orbit of the theater’s unsettling manager, whose passion for cinema carries disturbing implications",
+  "popularity": 0.8413,
+  "poster_path": "/gDbZTEoqnoT2a5H1r8tnufoDN75.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-01-20",
+  "revenue": 0,
+  "runtime": 9,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Projectionist",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5927138,
+        "known_for_department": "Acting",
+        "name": "Joseph Bonofiglio",
+        "original_name": "Joseph Bonofiglio",
+        "popularity": 0.0424,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "The Projectionist",
+        "credit_id": "696043e0a59314c17ebd2cee",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5144317,
+        "known_for_department": "Directing",
+        "name": "Olivia Martinelli",
+        "original_name": "Olivia Martinelli",
+        "popularity": 0.0943,
+        "profile_path": "/mrcJZrBT306Ahd40swO3aPu3Nhf.jpg",
+        "cast_id": 7,
+        "character": "Mia",
+        "credit_id": "696043f8194878504c1d7da9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5927142,
+        "known_for_department": "Acting",
+        "name": "Peyton Olivera",
+        "original_name": "Peyton Olivera",
+        "popularity": 0.0376,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Felix",
+        "credit_id": "696044131fb918955bd14184",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3944426,
+        "known_for_department": "Acting",
+        "name": "Trinity Alyse Curtis",
+        "original_name": "Trinity Alyse Curtis",
+        "popularity": 0.4674,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Kimmy",
+        "credit_id": "6960441f7cf42e3e245958b6",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5927147,
+        "known_for_department": "Acting",
+        "name": "Benjamin Fallaci",
+        "original_name": "Benjamin Fallaci",
+        "popularity": 0.1229,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Henry",
+        "credit_id": "69604448c401c234701d7d27",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3304861,
+        "known_for_department": "Acting",
+        "name": "Rob Shuster",
+        "original_name": "Rob Shuster",
+        "popularity": 0.1372,
+        "profile_path": "/28so9QSADfFU46hnWQarmSVJ85C.jpg",
+        "cast_id": 11,
+        "character": "Al",
+        "credit_id": "69604452eb83cb1025d142c7",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5927134,
+        "known_for_department": "Directing",
+        "name": "Dean Dezara",
+        "original_name": "Dean Dezara",
+        "popularity": 0.0361,
+        "profile_path": "/x5RcfzVV5dREFAMjXbarIC1IRDC.jpg",
+        "credit_id": "6960437aa2c20d3a48f3fc96",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5927134,
+        "known_for_department": "Directing",
+        "name": "Dean Dezara",
+        "original_name": "Dean Dezara",
+        "popularity": 0.0361,
+        "profile_path": "/x5RcfzVV5dREFAMjXbarIC1IRDC.jpg",
+        "credit_id": "6960438b807ee847d4d14143",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5927134,
+        "known_for_department": "Directing",
+        "name": "Dean Dezara",
+        "original_name": "Dean Dezara",
+        "popularity": 0.0361,
+        "profile_path": "/x5RcfzVV5dREFAMjXbarIC1IRDC.jpg",
+        "credit_id": "69604399807ee847d4d14146",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5927135,
+        "known_for_department": "Directing",
+        "name": "Jonathan Chapman",
+        "original_name": "Jonathan Chapman",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "696043ada3257b2596bd2d30",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5927136,
+        "known_for_department": "Directing",
+        "name": "Alex Alcala",
+        "original_name": "Alex Alcala",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "696043c7a59314c17ebd2ce4",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5155714,
+        "known_for_department": "Camera",
+        "name": "Elliot Melgoza",
+        "original_name": "Elliot Melgoza",
+        "popularity": 0.0917,
+        "profile_path": null,
+        "credit_id": "6960447fde0d93a812f3fca9",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5927152,
+        "known_for_department": "Lighting",
+        "name": "Benjamin Zeillingold",
+        "original_name": "Benjamin Zeillingold",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6960448cbe3c786f063d5e96",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4325726,
+        "known_for_department": "Sound",
+        "name": "Yasmin Hurtado",
+        "original_name": "Yasmin Hurtado",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "696044982f456c204a170cb5",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5927154,
+        "known_for_department": "Sound",
+        "name": "Alex Dante",
+        "original_name": "Alex Dante",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "696044af089275bf50b543ff",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5927154,
+        "known_for_department": "Sound",
+        "name": "Alex Dante",
+        "original_name": "Alex Dante",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "696044d2f1dfaa44a7b54402",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5927158,
+        "known_for_department": "Sound",
+        "name": "Anika Faustino",
+        "original_name": "Anika Faustino",
+        "popularity": 0.0667,
+        "profile_path": null,
+        "credit_id": "696044e9a59314c17ebd2d00",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5268217,
+        "known_for_department": "Production",
+        "name": "Micah Lara",
+        "original_name": "Micah Lara",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "69604e210cb2479034170c20",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5927134,
+        "known_for_department": "Directing",
+        "name": "Dean Dezara",
+        "original_name": "Dean Dezara",
+        "popularity": 0.0361,
+        "profile_path": "/x5RcfzVV5dREFAMjXbarIC1IRDC.jpg",
+        "credit_id": "69616d5477d99ef903b54b4d",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 8201,
+        "name": "satire"
+      },
+      {
+        "id": 5625,
+        "name": "relationship problems"
+      },
+      {
+        "id": 197340,
+        "name": "diy"
+      },
+      {
+        "id": 270346,
+        "name": "meta"
+      },
+      {
+        "id": 294180,
+        "name": "faux snuff"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "A late-night screening at a nearly empty movie theater takes an unexpected turn when a couple is drawn into the strange orbit of the theater’s unsettling manager, whose passion for cinema carries disturbing implications",
+          "runtime": 9,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.666,
+        "height": 1280,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/gDbZTEoqnoT2a5H1r8tnufoDN75.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 853
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1600,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/ilY9QedausUHWXVdyBUS9gteY2h.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1067
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 2048,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/RYWRJRnBc4fynAebahuyO5chu5.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1365
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/g5BLiQgH1Nuwop088I4kxaaJ4H5.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-20T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "Art of Dark Film Festival Screening",
+            "release_date": "2026-03-13T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "The Great Film Club Screening",
+            "release_date": "2026-03-24T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

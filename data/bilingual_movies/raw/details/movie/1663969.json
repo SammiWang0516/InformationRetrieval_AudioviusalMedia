@@ -1,0 +1,408 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 50000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1663969,
+  "imdb_id": "tt40449191",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Pangea",
+  "overview": "Rita spends her last day in the city trying to resurrect the artist her ex-lover used to be.",
+  "popularity": 0.8852,
+  "poster_path": "/xgViQ4s0dTO6EW7SFKMK7ZlhNF7.jpg",
+  "production_companies": [
+    {
+      "id": 258672,
+      "logo_path": null,
+      "name": "Circle 9",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-04-10",
+  "revenue": 0,
+  "runtime": 15,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Pangea",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2329946,
+        "known_for_department": "Acting",
+        "name": "Sasha Merci",
+        "original_name": "Sasha Merci",
+        "popularity": 0.0734,
+        "profile_path": "/aR0pbIJF2AMPLPNH4F1nvwKnZLT.jpg",
+        "cast_id": 1,
+        "character": "Echo",
+        "credit_id": "69d1d401bc6a974dce4fd815",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1792851,
+        "known_for_department": "Acting",
+        "name": "Mimi Davila",
+        "original_name": "Mimi Davila",
+        "popularity": 0.3785,
+        "profile_path": "/vazKzzDJVxisgEvaHlhLMGc0jMS.jpg",
+        "cast_id": 2,
+        "character": "Rita",
+        "credit_id": "69d1d40da235b1888f4fd80f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2633510,
+        "known_for_department": "Acting",
+        "name": "Yevgeniya Kats",
+        "original_name": "Yevgeniya Kats",
+        "popularity": 0.1616,
+        "profile_path": "/hRTuThBqq7F4VJ7YxB2Tt8mmuSY.jpg",
+        "cast_id": 9,
+        "character": "Girl in Park",
+        "credit_id": "69d7f55352e3216b53126eea",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6130360,
+        "known_for_department": "Acting",
+        "name": "Danny Garcia",
+        "original_name": "Danny Garcia",
+        "popularity": 0.2756,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Man in Park",
+        "credit_id": "69d7f57f90d10e39d187b7b3",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2633743,
+        "known_for_department": "Acting",
+        "name": "Nikki Delmonico",
+        "original_name": "Nikki Delmonico",
+        "popularity": 0.1404,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Park Sunbather",
+        "credit_id": "69d7f5d06833cafb4d1915a3",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1941475,
+        "known_for_department": "Production",
+        "name": "A.J. Del Cueto",
+        "original_name": "A.J. Del Cueto",
+        "popularity": 0.1665,
+        "profile_path": "/epc9vv34RaKgi47IJZBb5TBub4I.jpg",
+        "credit_id": "69d1d42b3048c41817aef604",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2722478,
+        "known_for_department": "Production",
+        "name": "Paula Andrea Gonzalez-Nasser",
+        "original_name": "Paula Andrea Gonzalez-Nasser",
+        "popularity": 0.5142,
+        "profile_path": "/cBdTzld9pAOdzLvzMCxdsHofjtI.jpg",
+        "credit_id": "69d1d49c1b3939fbf2108cc0",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2793848,
+        "known_for_department": "Directing",
+        "name": "Melina Valdez",
+        "original_name": "Melina Valdez",
+        "popularity": 0.0957,
+        "profile_path": "/hwrcUsCrbYYlkT19vfx88fzGFIV.jpg",
+        "credit_id": "69d1d4b87297dbaa17e53870",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1792851,
+        "known_for_department": "Acting",
+        "name": "Mimi Davila",
+        "original_name": "Mimi Davila",
+        "popularity": 0.3785,
+        "profile_path": "/vazKzzDJVxisgEvaHlhLMGc0jMS.jpg",
+        "credit_id": "69d1d512ea7b0270cd6b2301",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1882700,
+        "known_for_department": "Editing",
+        "name": "Anjoum Agrama",
+        "original_name": "Anjoum Agrama",
+        "popularity": 0.1975,
+        "profile_path": null,
+        "credit_id": "69d1d555b32f9a7ec3d042ce",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3057748,
+        "known_for_department": "Acting",
+        "name": "Aaron Holliday",
+        "original_name": "Aaron Holliday",
+        "popularity": 0.435,
+        "profile_path": "/rKpeVhpm8RDcdD0wnYtN7XHB7lB.jpg",
+        "credit_id": "69d1d5750e907841f0b8e1b8",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5558421,
+        "known_for_department": "Camera",
+        "name": "Polly Chesnokova",
+        "original_name": "Polly Chesnokova",
+        "popularity": 0.0331,
+        "profile_path": null,
+        "credit_id": "69d7f6eb7e58675c2e126f4b",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2982741,
+        "known_for_department": "Camera",
+        "name": "Willa Pisarski",
+        "original_name": "Willa Pisarski",
+        "popularity": 0.0541,
+        "profile_path": null,
+        "credit_id": "69d7f7084a5a7332fc126f3a",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5667492,
+        "known_for_department": "Camera",
+        "name": "Luke Earnest Dowden",
+        "original_name": "Luke Earnest Dowden",
+        "popularity": 0.0971,
+        "profile_path": null,
+        "credit_id": "69d7f72aae0352bdf944a05d",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3361693,
+        "known_for_department": "Production",
+        "name": "Mars Alba",
+        "original_name": "Mars Alba",
+        "popularity": 0.5556,
+        "profile_path": null,
+        "credit_id": "69d7f77358d109f934bfec20",
+        "department": "Camera",
+        "job": "Camera Loader"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3751200,
+        "known_for_department": "Camera",
+        "name": "Jet Cafuli",
+        "original_name": "Jet Cafuli",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "69d7f7b7c762d73cc1bfec83",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1618780,
+        "known_for_department": "Sound",
+        "name": "Juan Campos",
+        "original_name": "Juan Campos",
+        "popularity": 0.1329,
+        "profile_path": null,
+        "credit_id": "69d7f7f4a5695de3e844a13b",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1190139,
+        "known_for_department": "Editing",
+        "name": "Joel Ides",
+        "original_name": "Joel Ides",
+        "popularity": 0.1349,
+        "profile_path": null,
+        "credit_id": "69d7f806fd78e7cd2a0dba68",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1792851,
+        "known_for_department": "Acting",
+        "name": "Mimi Davila",
+        "original_name": "Mimi Davila",
+        "popularity": 0.3785,
+        "profile_path": "/vazKzzDJVxisgEvaHlhLMGc0jMS.jpg",
+        "credit_id": "69d7f82398cf4c9cf25d1d84",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1204019,
+        "known_for_department": "Writing",
+        "name": "Matthew D. Panepinto",
+        "original_name": "Matthew D. Panepinto",
+        "popularity": 0.0919,
+        "profile_path": "/mg56qzeNCJvGIbcu2X24G2gzR4l.jpg",
+        "credit_id": "69d98b852b1dadc8d5d9253d",
+        "department": "Production",
+        "job": "Production Manager"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 2695,
+        "name": "ex-lover"
+      },
+      {
+        "id": 378088,
+        "name": "nyc"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Rita spends her last day in the city trying to resurrect the artist her ex-lover used to be.",
+          "runtime": 15,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt40449191",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.675,
+        "height": 2963,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/xgViQ4s0dTO6EW7SFKMK7ZlhNF7.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "Maryland Film Festival",
+            "release_date": "2026-04-10T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

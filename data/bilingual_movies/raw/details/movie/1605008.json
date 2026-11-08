@@ -1,0 +1,367 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 1605008,
+  "imdb_id": null,
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Meglio stasera! Quasi one man show",
+  "overview": "",
+  "popularity": 0.7995,
+  "poster_path": "/ryntGkdQ3p3GGqewG5d5UNEcifC.jpg",
+  "production_companies": [
+    {
+      "id": 46111,
+      "logo_path": "/lct7ThhbE6xBqiTpP4ZSX58D7NM.png",
+      "name": "IBC MOvie",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2025-12-29",
+  "revenue": 0,
+  "runtime": 139,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Meglio stasera! Quasi one man show",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2981696,
+        "known_for_department": "Acting",
+        "name": "Stefano De Martino",
+        "original_name": "Stefano De Martino",
+        "popularity": 0.22,
+        "profile_path": "/7SqOsJa7MW4T7TCIEgpAZsyjE0e.jpg",
+        "cast_id": 1,
+        "character": "sé stesso",
+        "credit_id": "69503b2b25b7767cee8ebb1b",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2981696,
+        "known_for_department": "Acting",
+        "name": "Stefano De Martino",
+        "original_name": "Stefano De Martino",
+        "popularity": 0.22,
+        "profile_path": "/7SqOsJa7MW4T7TCIEgpAZsyjE0e.jpg",
+        "credit_id": "69503bb2728568dbaa813ddf",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1952905,
+        "known_for_department": "Writing",
+        "name": "Riccardo Cassini",
+        "original_name": "Riccardo Cassini",
+        "popularity": 0.2224,
+        "profile_path": null,
+        "credit_id": "69503c76b6e9ddb98efb1479",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5181283,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Italo Grassi",
+        "original_name": "Italo Grassi",
+        "popularity": 0.1723,
+        "profile_path": null,
+        "credit_id": "69503c92cae9f9a826fb12ea",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2666902,
+        "known_for_department": "Acting",
+        "name": "Lisa Casillo",
+        "original_name": "Lisa Casillo",
+        "popularity": 0.1827,
+        "profile_path": null,
+        "credit_id": "69503ccd763d7ced0b2fc153",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4199157,
+        "known_for_department": "Sound",
+        "name": "Pino Perris",
+        "original_name": "Pino Perris",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "69503ce32fa188aeda7ac175",
+        "department": "Sound",
+        "job": "Music Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5901819,
+        "known_for_department": "Crew",
+        "name": "Andrea Larossa",
+        "original_name": "Andrea Larossa",
+        "popularity": 0.16,
+        "profile_path": null,
+        "credit_id": "69503d4cc07abdfe791576cf",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1952905,
+        "known_for_department": "Writing",
+        "name": "Riccardo Cassini",
+        "original_name": "Riccardo Cassini",
+        "popularity": 0.2224,
+        "profile_path": null,
+        "credit_id": "6951bbdba993119b6de41225",
+        "department": "Directing",
+        "job": "Stage Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1801821,
+        "known_for_department": "Directing",
+        "name": "Cristiano D'Alisera",
+        "original_name": "Cristiano D'Alisera",
+        "popularity": 0.4423,
+        "profile_path": null,
+        "credit_id": "6951bc27500dc3f9e07c7253",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2841046,
+        "known_for_department": "Camera",
+        "name": "Marco Lucarelli",
+        "original_name": "Marco Lucarelli",
+        "popularity": 0.2289,
+        "profile_path": null,
+        "credit_id": "6951bc67fb6e6179ce4ad342",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5904056,
+        "known_for_department": "Production",
+        "name": "Igor Cino",
+        "original_name": "Igor Cino",
+        "popularity": 0.162,
+        "profile_path": null,
+        "credit_id": "6951bc7e9c2f848f39d797f9",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2981696,
+        "known_for_department": "Acting",
+        "name": "Stefano De Martino",
+        "original_name": "Stefano De Martino",
+        "popularity": 0.22,
+        "profile_path": "/7SqOsJa7MW4T7TCIEgpAZsyjE0e.jpg",
+        "credit_id": "6951bd40466cfd1c8a7c704a",
+        "department": "Writing",
+        "job": "Idea"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1952905,
+        "known_for_department": "Writing",
+        "name": "Riccardo Cassini",
+        "original_name": "Riccardo Cassini",
+        "popularity": 0.2224,
+        "profile_path": null,
+        "credit_id": "6951bd4db4071598d74ad418",
+        "department": "Writing",
+        "job": "Idea"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1270329,
+        "known_for_department": "Writing",
+        "name": "Francesco Velonà",
+        "original_name": "Francesco Velonà",
+        "popularity": 0.0983,
+        "profile_path": null,
+        "credit_id": "6951bd71294b602debe410d9",
+        "department": "Writing",
+        "job": "Co-Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3136308,
+        "known_for_department": "Production",
+        "name": "Annalisa Leo",
+        "original_name": "Annalisa Leo",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "6951be6222d62acac1e412d6",
+        "department": "Production",
+        "job": "Production Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2992634,
+        "known_for_department": "Acting",
+        "name": "Zoi Papadopoulou",
+        "original_name": "Zoi Papadopoulou",
+        "popularity": 0.1603,
+        "profile_path": null,
+        "credit_id": "6951be808a5a5bc08b74e3b2",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5904064,
+        "known_for_department": "Crew",
+        "name": "Stefania Saracino",
+        "original_name": "Stefania Saracino",
+        "popularity": 0.1237,
+        "profile_path": null,
+        "credit_id": "6951bea0e232373c0dc378cf",
+        "department": "Crew",
+        "job": "Legal Services"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5904065,
+        "known_for_department": "Editing",
+        "name": "Corrado Casini",
+        "original_name": "Corrado Casini",
+        "popularity": 0.1382,
+        "profile_path": null,
+        "credit_id": "6951beb9cd9e311da14ad446",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "IT",
+        "iso_639_1": "it",
+        "name": "Italiano",
+        "english_name": "Italian",
+        "data": {
+          "homepage": "",
+          "overview": "Il primo sorprendente spettacolo teatrale scritto e interpretato da Stefano De Martino. Lo show, che mescola narrazione, ironia, musica, danza e interazione con il pubblico, racconta la vita, la carriera e le esperienze di De Martino, alternando momenti comici e riflessivi. Regia teatrale di Riccardo Cassini. “Meglio Stasera! Quasi one man show” è un original Rai Contenuti Digitali e Transmediali, scritto e interpretato da Stefano De Martino con la regia di Riccardo Cassini.",
+          "runtime": 139,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 139,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "it",
+            "note": "",
+            "release_date": "2025-12-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

@@ -1,0 +1,522 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1520706,
+  "imdb_id": "tt37715044",
+  "origin_country": [
+    "PT"
+  ],
+  "original_language": "pt",
+  "original_title": "Borbulha",
+  "overview": "A young boy's pimple bursts, leading to a bloody disaster.",
+  "popularity": 0.8085,
+  "poster_path": "/7e9KLTKG5nxaOpB6hT4fnTyYkVO.jpg",
+  "production_companies": [
+    {
+      "id": 233803,
+      "logo_path": "/n0Jx2dNk6hvT7qm6hB5oakokTT4.png",
+      "name": "COLA Animation",
+      "origin_country": "PT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "release_date": "2025-09-10",
+  "revenue": 0,
+  "runtime": 4,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Pimple",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2298565,
+        "known_for_department": "Acting",
+        "name": "João Vilas",
+        "original_name": "João Vilas",
+        "popularity": 0.3061,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "688778540213a4f7353902a9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5188484,
+        "known_for_department": "Acting",
+        "name": "Dinis Lima",
+        "original_name": "Dinis Lima",
+        "popularity": 0.1821,
+        "profile_path": "/9Zr1byOeKyBi8aVhuENRuhgYjgA.jpg",
+        "cast_id": 26,
+        "character": "",
+        "credit_id": "69298676986dcf0905245ef1",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1159365,
+        "known_for_department": "Directing",
+        "name": "Fernando Alle",
+        "original_name": "Fernando Alle",
+        "popularity": 0.2302,
+        "profile_path": "/pYACPjUOnFd5inGZQaszeMJtnCS.jpg",
+        "credit_id": "6887786c3c48c4a5bf72f70a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1159365,
+        "known_for_department": "Directing",
+        "name": "Fernando Alle",
+        "original_name": "Fernando Alle",
+        "popularity": 0.2302,
+        "profile_path": "/pYACPjUOnFd5inGZQaszeMJtnCS.jpg",
+        "credit_id": "6887787db357b167298a701e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5731734,
+        "known_for_department": "Production",
+        "name": "João Caiado",
+        "original_name": "João Caiado",
+        "popularity": 0.0369,
+        "profile_path": null,
+        "credit_id": "68e2b91065aecc98a99cad34",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1292360,
+        "known_for_department": "Production",
+        "name": "Bruno Caetano",
+        "original_name": "Bruno Caetano",
+        "popularity": 0.4057,
+        "profile_path": "/8t0myOdLstDQXCbFfY6m4v4A4Fv.jpg",
+        "credit_id": "68e2b93800a86e4ddd961556",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3859028,
+        "known_for_department": "Production",
+        "name": "Susana Miguel António",
+        "original_name": "Susana Miguel António",
+        "popularity": 0.1163,
+        "profile_path": "/weSXiwvX3Q8emAl9MLg9323et8v.jpg",
+        "credit_id": "68e2b949c10160a47fc27130",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2349491,
+        "known_for_department": "Directing",
+        "name": "Ricardo de Almeida",
+        "original_name": "Ricardo de Almeida",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "68e2b9736c29ab3c95bd953e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5731737,
+        "known_for_department": "Production",
+        "name": "Vasco Ferreira",
+        "original_name": "Vasco Ferreira",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "68e2b9860bceb852f99ca967",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5731738,
+        "known_for_department": "Production",
+        "name": "Pedro Góis",
+        "original_name": "Pedro Góis",
+        "popularity": 0.0304,
+        "profile_path": null,
+        "credit_id": "68e2b9a2975740ac5a61799d",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1367391,
+        "known_for_department": "Sound",
+        "name": "Antoni Maiovvi",
+        "original_name": "Antoni Maiovvi",
+        "popularity": 0.2237,
+        "profile_path": null,
+        "credit_id": "68e2b9d404adf86838f81752",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4472939,
+        "known_for_department": "Camera",
+        "name": "André Mendes",
+        "original_name": "André Mendes",
+        "popularity": 0.0688,
+        "profile_path": null,
+        "credit_id": "68e2b9ee7ed9c6f53e25b403",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1938719,
+        "known_for_department": "Directing",
+        "name": "Francisco Lacerda",
+        "original_name": "Francisco Lacerda",
+        "popularity": 0.3673,
+        "profile_path": "/2ywGldMjMkwQqWNjwcKieZAQobc.jpg",
+        "credit_id": "68e2b9f846ee24ca799cab3f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1849642,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Claudio Fonseca",
+        "original_name": "Claudio Fonseca",
+        "popularity": 0.0439,
+        "profile_path": null,
+        "credit_id": "68e2ba08c3bb14332a36e4d4",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5731739,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Daniela Samuel",
+        "original_name": "Daniela Samuel",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68e2ba2b5ed0b00b899614a9",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5731734,
+        "known_for_department": "Production",
+        "name": "João Caiado",
+        "original_name": "João Caiado",
+        "popularity": 0.0369,
+        "profile_path": null,
+        "credit_id": "68e2ba48039d42b270bd95c6",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1159365,
+        "known_for_department": "Directing",
+        "name": "Fernando Alle",
+        "original_name": "Fernando Alle",
+        "popularity": 0.2302,
+        "profile_path": "/pYACPjUOnFd5inGZQaszeMJtnCS.jpg",
+        "credit_id": "68e2ba74d15acdbbb09ca9e8",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1159365,
+        "known_for_department": "Directing",
+        "name": "Fernando Alle",
+        "original_name": "Fernando Alle",
+        "popularity": 0.2302,
+        "profile_path": "/pYACPjUOnFd5inGZQaszeMJtnCS.jpg",
+        "credit_id": "68e2ba8136ab2141bc6178fd",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2604730,
+        "known_for_department": "Editing",
+        "name": "Rita Lamas",
+        "original_name": "Rita Lamas",
+        "popularity": 0.1947,
+        "profile_path": null,
+        "credit_id": "68e2ba918d5a1f22659caa8e",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5731743,
+        "known_for_department": "Directing",
+        "name": "Maria Clara",
+        "original_name": "Maria Clara",
+        "popularity": 0.0347,
+        "profile_path": null,
+        "credit_id": "68e2bab78d5a1f22659caa9a",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5731747,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Anne Carestiato",
+        "original_name": "Anne Carestiato",
+        "popularity": 0.0397,
+        "profile_path": null,
+        "credit_id": "68e2bae5039d42b270bd95d9",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4974833,
+        "known_for_department": "Camera",
+        "name": "João Belém",
+        "original_name": "João Belém",
+        "popularity": 0.1503,
+        "profile_path": null,
+        "credit_id": "68e2baf246ee24ca799cab54",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5731750,
+        "known_for_department": "Camera",
+        "name": "Luís Duarte",
+        "original_name": "Luís Duarte",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "68e2bb1ff5265ffc28bd968b",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1849642,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Claudio Fonseca",
+        "original_name": "Claudio Fonseca",
+        "popularity": 0.0439,
+        "profile_path": null,
+        "credit_id": "68e2bb4f2be556d05b9617e4",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5731752,
+        "known_for_department": "Crew",
+        "name": "Paulina Garcia",
+        "original_name": "Paulina Garcia",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "68e2bb6b89b1b9bab0c22583",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1989944,
+        "known_for_department": "Directing",
+        "name": "André Senra Azevedo",
+        "original_name": "André Azevedo",
+        "popularity": 0.1397,
+        "profile_path": null,
+        "credit_id": "68e2bb7caf06b97b32961490",
+        "department": "Crew",
+        "job": "Thanks"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "A young boy's pimple bursts, leading to a bloody disaster.",
+          "runtime": 4,
+          "tagline": "",
+          "title": "Pimple"
+        }
+      },
+      {
+        "iso_3166_1": "PT",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Premio del Público al mejor cortometraje en el Festival de Cine Fantástico y de Terror de San Sebastián 2025.  A un niño le revienta un grano y se produce un desastre sangriento.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Grano"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt37715044",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.676,
+        "height": 1774,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/7e9KLTKG5nxaOpB6hT4fnTyYkVO.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1200
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-08-24T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-09-10T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Borbulha / Pimple - trailer (short film)",
+        "key": "Y1HGdx7_0hY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "68b1e7ef78edceaf8a3ef435",
+        "published_at": "2025-08-28T14:01:43.000Z"
+      }
+    ]
+  }
+}

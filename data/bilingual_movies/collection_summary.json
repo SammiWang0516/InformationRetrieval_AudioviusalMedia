@@ -1,0 +1,26 @@
+{
+  "collection_type": "tmdb_english_chinese_bilingual_movies",
+  "started_at_utc": "2026-11-08T21:16:37.336732+00:00",
+  "finished_at_utc": "2026-11-08T21:16:44.299722+00:00",
+  "target_accepted_movies": 20,
+  "accepted_movies": 20,
+  "unique_candidates_checked": 20,
+  "start_year": 2026,
+  "end_year": 1900,
+  "cutoff_date": "2026-11-08",
+  "sort_by": "popularity.desc",
+  "required_chinese_regions": [
+    "CN",
+    "TW"
+  ],
+  "required_translation_fields": [
+    "title",
+    "overview"
+  ],
+  "pages_scanned_by_year": {
+    "2026": 1
+  },
+  "rejection_counts": {},
+  "failure_count": 0,
+  "failures": []
+}

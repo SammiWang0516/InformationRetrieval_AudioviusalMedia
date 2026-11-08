@@ -1,0 +1,653 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 4000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1688357,
+  "imdb_id": null,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Hunt",
+  "overview": "After his latest victim doesn’t survive a brutal episode, Tristan, a serial killer with a love for violence and sex, marks his latest date as a replacement. Resulting in a deadly and sexual game of cat and mouse. As dynamics shift, Tristan’s date is revealed to more than an easy target.",
+  "popularity": 1.1004,
+  "poster_path": "/uolG2pW9o9T9i5Yo7MvPWmASKDN.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-05-05",
+  "revenue": 4000,
+  "runtime": 14,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Sexy Violent Fun",
+  "title": "The Hunt",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6190359,
+        "known_for_department": "Acting",
+        "name": "Mitch Russo",
+        "original_name": "Mitch Russo",
+        "popularity": 0.173,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Tristan",
+        "credit_id": "69f98810d2b4cb62cec95a1f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5851147,
+        "known_for_department": "Production",
+        "name": "Eric Hill",
+        "original_name": "Eric Hill",
+        "popularity": 0.1576,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Levi",
+        "credit_id": "69f988456796b8ac64c95a7f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6190365,
+        "known_for_department": "Acting",
+        "name": "Jeremiah Soderstrom",
+        "original_name": "Jeremiah Soderstrom",
+        "popularity": 0.1833,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Victim",
+        "credit_id": "69f988d81d5c43e054daaae1",
+        "order": 2
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 4041897,
+        "known_for_department": "Acting",
+        "name": "Laura Lounge",
+        "original_name": "Laura Lounge",
+        "popularity": 0.0,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Model",
+        "credit_id": "69f98911f99905e849646615",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6190368,
+        "known_for_department": "Acting",
+        "name": "Parker Rice",
+        "original_name": "Parker Rice",
+        "popularity": 0.0773,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "Parker",
+        "credit_id": "69f98952ffc52d83e9daab3d",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6190341,
+        "known_for_department": "Directing",
+        "name": "D Kendrick",
+        "original_name": "D Kendrick",
+        "popularity": 0.0835,
+        "profile_path": null,
+        "credit_id": "69f982c730135078bdb754b8",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4707002,
+        "known_for_department": "Acting",
+        "name": "KC Bowlan",
+        "original_name": "KC Bowlan",
+        "popularity": 0.1906,
+        "profile_path": null,
+        "credit_id": "69f982e1361640e754daab2f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6190341,
+        "known_for_department": "Directing",
+        "name": "D Kendrick",
+        "original_name": "D Kendrick",
+        "popularity": 0.0835,
+        "profile_path": null,
+        "credit_id": "69f982f7e4207a32eac95ae6",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6190342,
+        "known_for_department": "Writing",
+        "name": "D Kendrick",
+        "original_name": "D Kendrick",
+        "popularity": 0.1352,
+        "profile_path": null,
+        "credit_id": "69f98304ffc52d83e9daab12",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6190343,
+        "known_for_department": "Production",
+        "name": "La Kaia Bell",
+        "original_name": "La Kaia Bell",
+        "popularity": 0.0383,
+        "profile_path": null,
+        "credit_id": "69f98323da482d6407bf1516",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6190344,
+        "known_for_department": "Directing",
+        "name": "Nicholas Blanchard",
+        "original_name": "Nicholas Blanchard",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69f9838d48292be2f6bf157d",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6190345,
+        "known_for_department": "Camera",
+        "name": "Robby MacFarland",
+        "original_name": "Robby MacFarland",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "69f983dab033f312d4b75440",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5851141,
+        "known_for_department": "Camera",
+        "name": "Robby MacFarland",
+        "original_name": "Robby MacFarland",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "69f983eb2aeb1fcac4daab9c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6190346,
+        "known_for_department": "Directing",
+        "name": "Elliott Mizuno-Ricci",
+        "original_name": "Elliott Mizuno-Ricci",
+        "popularity": 0.0342,
+        "profile_path": null,
+        "credit_id": "69f9840feb5ed80006bf1564",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6190347,
+        "known_for_department": "Crew",
+        "name": "Amanda Edwards",
+        "original_name": "Amanda Edwards",
+        "popularity": 0.0354,
+        "profile_path": null,
+        "credit_id": "69f984bbb9faea7d0d795e11",
+        "department": "Crew",
+        "job": "Other"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5850747,
+        "known_for_department": "Directing",
+        "name": "Nick Shaw",
+        "original_name": "Nick Shaw",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "credit_id": "69f984d2d2b1e99dc19a26d9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5850747,
+        "known_for_department": "Directing",
+        "name": "Nick Shaw",
+        "original_name": "Nick Shaw",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "credit_id": "69f984e9eb8fb9cc17e9c180",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5851137,
+        "known_for_department": "Camera",
+        "name": "Iram Temiquel",
+        "original_name": "Iram Temiquel",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "69f9857c471bc5001f6465f0",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5851137,
+        "known_for_department": "Camera",
+        "name": "Iram Temiquel",
+        "original_name": "Iram Temiquel",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "69f985866d325d270a9a2694",
+        "department": "Art",
+        "job": "Swing"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5734368,
+        "known_for_department": "Editing",
+        "name": "Caleb Worrath",
+        "original_name": "Caleb Worrath",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69f985a603c2e30605daab0c",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5108040,
+        "known_for_department": "Camera",
+        "name": "Nikolai Queja-Phillips",
+        "original_name": "Nikolai Queja-Phillips",
+        "popularity": 0.0331,
+        "profile_path": null,
+        "credit_id": "69f985bfb63fc3cf63e9c205",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5851122,
+        "known_for_department": "Lighting",
+        "name": "Mike Zubrinic",
+        "original_name": "Mike Zubrinic",
+        "popularity": 0.0555,
+        "profile_path": null,
+        "credit_id": "69f98603257344afe5b7546b",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4707029,
+        "known_for_department": "Production",
+        "name": "Sofia Marie Race",
+        "original_name": "Sofia Marie Race",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "69f9861fc08b3c5958795da2",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4691946,
+        "known_for_department": "Art",
+        "name": "DJ Daley",
+        "original_name": "DJ Daley",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69f9863031088aa66f6465de",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6190352,
+        "known_for_department": "Production",
+        "name": "Sam Rivero Garcia",
+        "original_name": "Sam Rivero Garcia",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69f9864fc08b3c5958795dac",
+        "department": "Production",
+        "job": "Grip Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5108036,
+        "known_for_department": "Camera",
+        "name": "Kai Randel",
+        "original_name": "Kai Randel",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "69f9865ec1004e314b55f24b",
+        "department": "Production",
+        "job": "Grip Production Assistant"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 3643826,
+        "known_for_department": "Camera",
+        "name": "Emmerry Lee",
+        "original_name": "Emmerry Lee",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "69f98678471bc5001f6465f6",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4005789,
+        "known_for_department": "Art",
+        "name": "Zoe Rea",
+        "original_name": "Zoe Rea",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69f9868af28c8619fddaaa80",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6190353,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Daphne Schuermann",
+        "original_name": "Daphne Schuermann",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69f986ac5264682fe5daaadc",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6190353,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Daphne Schuermann",
+        "original_name": "Daphne Schuermann",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69f986c05264682fe5daaae0",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4707043,
+        "known_for_department": "Lighting",
+        "name": "Spencer Macy",
+        "original_name": "Spencer Macy",
+        "popularity": 0.0992,
+        "profile_path": null,
+        "credit_id": "69f986d2b22381a27b795d66",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5747847,
+        "known_for_department": "Sound",
+        "name": "Brooks Lucero",
+        "original_name": "Brooks Lucero",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69f986e01d5c43e054daaac7",
+        "department": "Sound",
+        "job": "Sound Assistant"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 3364444,
+        "known_for_department": "Editing",
+        "name": "Douglas Chatfield",
+        "original_name": "Douglas Chatfield",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "69f98739e4207a32eac95b1c",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 3364444,
+        "known_for_department": "Editing",
+        "name": "Douglas Chatfield",
+        "original_name": "Douglas Chatfield",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "69f9874aeb8fb9cc17e9c194",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5152934,
+        "known_for_department": "Camera",
+        "name": "Ben Torok",
+        "original_name": "Ben Torok",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69f98772471bc5001f6465ff",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6190356,
+        "known_for_department": "Production",
+        "name": "Kalani Peterson",
+        "original_name": "Kalani Peterson",
+        "popularity": 0.0507,
+        "profile_path": null,
+        "credit_id": "69f987b08d2793a34bc95acb",
+        "department": "Production",
+        "job": "Art Department Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6190346,
+        "known_for_department": "Directing",
+        "name": "Elliott Mizuno-Ricci",
+        "original_name": "Elliott Mizuno-Ricci",
+        "popularity": 0.0342,
+        "profile_path": null,
+        "credit_id": "69f987c18b09f9179fc95a9f",
+        "department": "Production",
+        "job": "Art Department Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6190357,
+        "known_for_department": "Sound",
+        "name": "NEFEW",
+        "original_name": "NEFEW",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "69f987e1da482d6407bf1590",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6190422,
+        "known_for_department": "Sound",
+        "name": "Cam Farmer",
+        "original_name": "Cam Farmer",
+        "popularity": 0.0572,
+        "profile_path": null,
+        "credit_id": "69f997ad4bcb844424bf1528",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "After his latest victim doesn’t survive a brutal episode, Tristan, a serial killer with a love for violence and sex, marks his latest date as a replacement. Resulting in a deadly and sexual game of cat and mouse. As dynamics shift, Tristan’s date is revealed to more than an easy target.",
+          "runtime": 14,
+          "tagline": "Sexy Violent Fun",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "_hoecahontas_",
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.671,
+        "height": 1264,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/uolG2pW9o9T9i5Yo7MvPWmASKDN.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 848
+      },
+      {
+        "aspect_ratio": 0.671,
+        "height": 1264,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/s94ADj8EwpTEHSBCCPdOq6g7azR.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 848
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "CCA Cinematic Arts Student Show, Best Directing, Best Cinematography, Best 16mm/HD Production Film, Best Writing, Best Production Design",
+            "release_date": "2026-05-05T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

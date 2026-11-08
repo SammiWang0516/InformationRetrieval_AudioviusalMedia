@@ -1,0 +1,914 @@
+{
+  "adult": false,
+  "backdrop_path": "/dqnmNBUJqB26rzk5lZl806V4bMn.jpg",
+  "belongs_to_collection": null,
+  "budget": 2500,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1638644,
+  "imdb_id": null,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Looky Loo",
+  "overview": "Todd is about to propose to Charlotte, but he needs to get her parents approval first. The only problem is, he can't just ask.",
+  "popularity": 1.2122,
+  "poster_path": "/pNHVaSBKrR0LJkba1Z4LrWJxoxY.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-12-09",
+  "revenue": 0,
+  "runtime": 8,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Mouths Only!",
+  "title": "Looky Loo",
+  "video": false,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6019644,
+        "known_for_department": "Acting",
+        "name": "Cooper Summers",
+        "original_name": "Cooper Summers",
+        "popularity": 0.0783,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Todd",
+        "credit_id": "699803b8409dbed9dcd2cd11",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5505377,
+        "known_for_department": "Acting",
+        "name": "Kelsie Oba-Spence",
+        "original_name": "Kelsie Oba-Spence",
+        "popularity": 0.0636,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Charlotte",
+        "credit_id": "699804e8870c1d1801a7292f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6019654,
+        "known_for_department": "Acting",
+        "name": "Daniel Pietenpol",
+        "original_name": "Daniel Pietenpol",
+        "popularity": 0.1203,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Mr. Brace",
+        "credit_id": "699805182429d4709e7340cc",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6019655,
+        "known_for_department": "Acting",
+        "name": "Matt Hale",
+        "original_name": "Matt Hale",
+        "popularity": 0.0395,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Mr. Face",
+        "credit_id": "6998052dd56f9051257341f9",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6019337,
+        "known_for_department": "Directing",
+        "name": "Maxwell Greene",
+        "original_name": "Maxwell Greene",
+        "popularity": 0.1507,
+        "profile_path": "/mYcatbafh4PIuvV9erqYLSHzVQC.jpg",
+        "credit_id": "6997c0c3dcd7754545d2cad3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6019337,
+        "known_for_department": "Directing",
+        "name": "Maxwell Greene",
+        "original_name": "Maxwell Greene",
+        "popularity": 0.1507,
+        "profile_path": "/mYcatbafh4PIuvV9erqYLSHzVQC.jpg",
+        "credit_id": "699804840e887263c66666d0",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6019651,
+        "known_for_department": "Writing",
+        "name": "Gabriel Lopez",
+        "original_name": "Gabriel Lopez",
+        "popularity": 0.0958,
+        "profile_path": null,
+        "credit_id": "699804c9f8a060dd5dc995d3",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5897138,
+        "known_for_department": "Crew",
+        "name": "Dylan Sails",
+        "original_name": "Dylan Sails",
+        "popularity": 0.0525,
+        "profile_path": null,
+        "credit_id": "6998058ab829fc83f3ba3868",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5897116,
+        "known_for_department": "Art",
+        "name": "Sebastian Kapur",
+        "original_name": "Sebastian Kapur",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "699805b72429d4709e7340fc",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5880348,
+        "known_for_department": "Production",
+        "name": "Ronan Lannuier",
+        "original_name": "Ronan Lannuier",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "699806938db6570d69c995f9",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6019666,
+        "known_for_department": "Camera",
+        "name": "Jackson Flemming",
+        "original_name": "Jackson Flemming",
+        "popularity": 0.0369,
+        "profile_path": null,
+        "credit_id": "699806d4e5b43a9f5fab907f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5801727,
+        "known_for_department": "Lighting",
+        "name": "Chance Severson",
+        "original_name": "Chance Severson",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "699808a04453c8a340c996e8",
+        "department": "Art",
+        "job": "Other"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6019688,
+        "known_for_department": "Crew",
+        "name": "Catelyn Oba-Spence",
+        "original_name": "Catelyn Oba-Spence",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "699808fce5b43a9f5fab90ae",
+        "department": "Crew",
+        "job": "Other"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6019824,
+        "known_for_department": "Crew",
+        "name": "Xander Pietenpol",
+        "original_name": "Xander Pietenpol",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "69982285da3001796130250c",
+        "department": "Crew",
+        "job": "Other"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5778818,
+        "known_for_department": "Art",
+        "name": "Tahlia Pompel",
+        "original_name": "Tahlia Pompel",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "69982311dcd7754545d2cceb",
+        "department": "Crew",
+        "job": "Other"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6019337,
+        "known_for_department": "Directing",
+        "name": "Maxwell Greene",
+        "original_name": "Maxwell Greene",
+        "popularity": 0.1507,
+        "profile_path": "/mYcatbafh4PIuvV9erqYLSHzVQC.jpg",
+        "credit_id": "6998235b4e8f39531313bef8",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6019835,
+        "known_for_department": "Sound",
+        "name": "Ike Ford",
+        "original_name": "Ike Ford",
+        "popularity": 0.0384,
+        "profile_path": null,
+        "credit_id": "6998238660dbd2469fab902e",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5148475,
+        "known_for_department": "Camera",
+        "name": "Blake Zundel",
+        "original_name": "Blake Zundel",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "69982491a8d31e4aa1d2cd4f",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5370737,
+        "known_for_department": "Sound",
+        "name": "Eva Petrossian",
+        "original_name": "Eva Petrossian",
+        "popularity": 0.0736,
+        "profile_path": null,
+        "credit_id": "6998269743c469d34b73428b",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5419143,
+        "known_for_department": "Sound",
+        "name": "Finn Nowlin",
+        "original_name": "Finn Nowlin",
+        "popularity": 0.1055,
+        "profile_path": null,
+        "credit_id": "699826b6b796f9801e6665e6",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6019670,
+        "known_for_department": "Camera",
+        "name": "Ben Tinsley",
+        "original_name": "Ben Tinsley",
+        "popularity": 0.0511,
+        "profile_path": null,
+        "credit_id": "69982772ced86fec43ba38b4",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6019878,
+        "known_for_department": "Sound",
+        "name": "Oskar Vap-Fredson",
+        "original_name": "Oskar Vap-Fredson",
+        "popularity": 0.06,
+        "profile_path": null,
+        "credit_id": "699827a4b5253a17e97342c5",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5778786,
+        "known_for_department": "Sound",
+        "name": "Jules Barnard",
+        "original_name": "Jules Barnard",
+        "popularity": 0.0514,
+        "profile_path": null,
+        "credit_id": "699828446f18d84d8573429c",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6019889,
+        "known_for_department": "Art",
+        "name": "Patricia Simamora",
+        "original_name": "Patricia Simamora",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "699828c4688bc973966665ee",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5880223,
+        "known_for_department": "Acting",
+        "name": "Grace Brunetti",
+        "original_name": "Grace Brunetti",
+        "popularity": 0.038,
+        "profile_path": null,
+        "credit_id": "69982938fc783b08a1c9969b",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6019898,
+        "known_for_department": "Sound",
+        "name": "Reese Pollak",
+        "original_name": "Reese Pollak",
+        "popularity": 0.0816,
+        "profile_path": null,
+        "credit_id": "69982973de770d8ad07342ae",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6019913,
+        "known_for_department": "Production",
+        "name": "Marguerite McHenry",
+        "original_name": "Marguerite McHenry",
+        "popularity": 0.0408,
+        "profile_path": null,
+        "credit_id": "69982bc0fc783b08a1c996bb",
+        "department": "Production",
+        "job": "Art Department Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5419141,
+        "known_for_department": "Camera",
+        "name": "Jackson Hein",
+        "original_name": "Jackson Hein",
+        "popularity": 0.1255,
+        "profile_path": null,
+        "credit_id": "69982d5440e3dc9e60a72ac4",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6021640,
+        "known_for_department": "Editing",
+        "name": "Jonathan Lau",
+        "original_name": "Jonathan Lau",
+        "popularity": 0.0383,
+        "profile_path": null,
+        "credit_id": "699956d6ee7cd866d80e48c6",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6021640,
+        "known_for_department": "Editing",
+        "name": "Jonathan Lau",
+        "original_name": "Jonathan Lau",
+        "popularity": 0.0383,
+        "profile_path": null,
+        "credit_id": "699957020018171c160e490d",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6021641,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Harper Forrest Wilken",
+        "original_name": "Harper Forrest Wilken",
+        "popularity": 0.1154,
+        "profile_path": null,
+        "credit_id": "69995755a4d6477bd50e48af",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6021642,
+        "known_for_department": "Production",
+        "name": "Rachael Pollak",
+        "original_name": "Rachael Pollak",
+        "popularity": 0.0589,
+        "profile_path": null,
+        "credit_id": "69995795f9380e9cace8e8f0",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5001504,
+        "known_for_department": "Directing",
+        "name": "Remi Edwards",
+        "original_name": "Remi Edwards",
+        "popularity": 0.0313,
+        "profile_path": "/uerfO6XFDxrjj8IvdnR2szjN5XZ.jpg",
+        "credit_id": "699957b4272f82a133b28348",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6021644,
+        "known_for_department": "Directing",
+        "name": "Maia Schamp-Guildner",
+        "original_name": "Maia Schamp-Guildner",
+        "popularity": 0.0383,
+        "profile_path": null,
+        "credit_id": "6999582cb2fdd02c27590187",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6021646,
+        "known_for_department": "Directing",
+        "name": "Jada D'Janae",
+        "original_name": "Jada D'Janae",
+        "popularity": 0.0554,
+        "profile_path": null,
+        "credit_id": "699958600145191b0e6a2e7a",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6021646,
+        "known_for_department": "Directing",
+        "name": "Jada D'Janae",
+        "original_name": "Jada D'Janae",
+        "popularity": 0.0554,
+        "profile_path": null,
+        "credit_id": "6999587ce587e636b9e8e971",
+        "department": "Crew",
+        "job": "Other"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6021647,
+        "known_for_department": "Production",
+        "name": "Angel Jacinto-Morales",
+        "original_name": "Angel Jacinto-Morales",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "699958a7214165d3f4b282cf",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5436772,
+        "known_for_department": "Lighting",
+        "name": "Ella Arlene",
+        "original_name": "Ella Arlene",
+        "popularity": 0.0417,
+        "profile_path": null,
+        "credit_id": "699958e910729148bbb282bc",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6021662,
+        "known_for_department": "Lighting",
+        "name": "Andrew Lee",
+        "original_name": "Andrew Lee",
+        "popularity": 0.1316,
+        "profile_path": null,
+        "credit_id": "69995a6bead16c5493373985",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5600310,
+        "known_for_department": "Camera",
+        "name": "Mia Kcomt",
+        "original_name": "Mia Kcomt",
+        "popularity": 0.157,
+        "profile_path": null,
+        "credit_id": "69995aa7f01156f149c59833",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4751921,
+        "known_for_department": "Crew",
+        "name": "Eric Shachal",
+        "original_name": "Eric Shachal",
+        "popularity": 0.1299,
+        "profile_path": null,
+        "credit_id": "69995ae1e1a8593cd06a2eb1",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5419158,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Xavier Peng",
+        "original_name": "Xavier Peng",
+        "popularity": 0.1481,
+        "profile_path": null,
+        "credit_id": "69995b069c8bca161380e386",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5865619,
+        "known_for_department": "Production",
+        "name": "Megan Cockrum",
+        "original_name": "Megan Cockrum",
+        "popularity": 0.1476,
+        "profile_path": null,
+        "credit_id": "69995b9a8b64c709dfe8e9e6",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6021665,
+        "known_for_department": "Camera",
+        "name": "Skye Bowdon",
+        "original_name": "Skye Bowdon",
+        "popularity": 0.0435,
+        "profile_path": null,
+        "credit_id": "69995bb875ed3d7b47c59827",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6021666,
+        "known_for_department": "Sound",
+        "name": "Garrett Logan",
+        "original_name": "Garrett Logan",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69995bfb101f2e8a16b2830c",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6021667,
+        "known_for_department": "Art",
+        "name": "Niya Monēt",
+        "original_name": "Niya Monēt",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "69995c4111b32766f7c5988e",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6021653,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Margarette Quiambao",
+        "original_name": "Margarette Quiambao",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "699a9cf8c06a3144d9373f6f",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6019907,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Lydia Fields",
+        "original_name": "Lydia Fields",
+        "popularity": 0.0785,
+        "profile_path": null,
+        "credit_id": "699a9d453b8b453a64b28a06",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6021656,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Syn (Ash) Graves",
+        "original_name": "Syn (Ash) Graves",
+        "popularity": 0.0431,
+        "profile_path": null,
+        "credit_id": "699a9d67322a0c1b3280ea95",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6019901,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Taylor Frear",
+        "original_name": "Taylor Frear",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "699a9d9d64bd77d31e6a3462",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5880242,
+        "known_for_department": "Acting",
+        "name": "Amir Trinidad-Vidal",
+        "original_name": "Amir Trinidad-Vidal",
+        "popularity": 0.0442,
+        "profile_path": null,
+        "credit_id": "699b6a75b6567b10a1c5a567",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6025576,
+        "known_for_department": "Sound",
+        "name": "Funk Cousins",
+        "original_name": "Funk Cousins",
+        "popularity": 0.0421,
+        "profile_path": null,
+        "credit_id": "699b9c06ae4d10083080f102",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6216729,
+        "known_for_department": "Directing",
+        "name": "Benjamin Tinsley",
+        "original_name": "Benjamin Tinsley",
+        "popularity": 0.2658,
+        "profile_path": "/akojgQ48UlOCCm7YKprRNpMvJHY.jpg",
+        "credit_id": "6a07b56ec44cf9ba0fbd302a",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 953,
+        "name": "guitar"
+      },
+      {
+        "id": 6300,
+        "name": "puppet"
+      },
+      {
+        "id": 12997,
+        "name": "dinner"
+      },
+      {
+        "id": 14983,
+        "name": "proposal"
+      },
+      {
+        "id": 18035,
+        "name": "family"
+      },
+      {
+        "id": 240242,
+        "name": "birds"
+      },
+      {
+        "id": 250905,
+        "name": "pratical effects"
+      },
+      {
+        "id": 263312,
+        "name": "puppets"
+      },
+      {
+        "id": 283297,
+        "name": "music"
+      },
+      {
+        "id": 309974,
+        "name": "absurd"
+      },
+      {
+        "id": 348133,
+        "name": "silly"
+      },
+      {
+        "id": 359064,
+        "name": "i have no mouth and i must scream"
+      },
+      {
+        "id": 368324,
+        "name": "no eyes"
+      },
+      {
+        "id": 368325,
+        "name": "no mouth"
+      },
+      {
+        "id": 368326,
+        "name": "bird puppets"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Todd is about to propose to Charlotte, but he needs to get her parents approval first. The only problem is, he can't just ask.",
+          "runtime": 8,
+          "tagline": "Mouths Only!",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "",
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.777,
+        "height": 1532,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/dqnmNBUJqB26rzk5lZl806V4bMn.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2723
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/wkUR1PexnamgsHq0noPugVzqMai.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 3840
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.679,
+        "height": 1200,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/pNHVaSBKrR0LJkba1Z4LrWJxoxY.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 815
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "Chapman University Dodge College – Advanced Production Screening",
+            "release_date": "2025-12-09T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "National Film Festival for Talented Youth (NFFTY)",
+            "release_date": "2026-03-29T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "Hollyshorts Comedy Film Festival",
+            "release_date": "2026-05-03T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

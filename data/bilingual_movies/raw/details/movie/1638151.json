@@ -1,0 +1,605 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 118,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 1638151,
+  "imdb_id": null,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "jv",
+  "original_title": "Pulang",
+  "overview": "A single mother faces a deep sense of unease when her successful eldest child returns home and treats her with indifference, while her simple, humble youngest child shows her a love that is irreplaceable.",
+  "popularity": 1.6141,
+  "poster_path": "/2YzBrtxKUfImK9TdfNOrUpUgHmE.jpg",
+  "production_companies": [
+    {
+      "id": 289816,
+      "logo_path": null,
+      "name": "Conviesinema",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ID",
+      "name": "Indonesia"
+    }
+  ],
+  "release_date": "2025-11-11",
+  "revenue": 0,
+  "runtime": 17,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Javanese",
+      "iso_639_1": "jv",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "Longing for a love that was always right next to her",
+  "title": "Longing",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6017577,
+        "known_for_department": "Acting",
+        "name": "Erna Anjarsari",
+        "original_name": "Erna Anjarsari",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Ninik",
+        "credit_id": "6996adf1c6af8d459f6f81d3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6017579,
+        "known_for_department": "Acting",
+        "name": "Marcellino Damian Ferdy Indarto",
+        "original_name": "Marcellino Damian Ferdy Indarto",
+        "popularity": 0.2929,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Ian",
+        "credit_id": "6996ae18055650ccc784fff0",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6017580,
+        "known_for_department": "Acting",
+        "name": "Kresna Hasta Wicaksana",
+        "original_name": "Kresna Hasta Wicaksana",
+        "popularity": 0.4528,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Bagus",
+        "credit_id": "6996ae32308541e7344a94bc",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6017581,
+        "known_for_department": "Acting",
+        "name": "Nunik Thrisnaningrum",
+        "original_name": "Nunik Thrisnaningrum",
+        "popularity": 0.0828,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Tutik",
+        "credit_id": "6996ae5852c5227c573c9032",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6017588,
+        "known_for_department": "Production",
+        "name": "Maheswara Aurelio Wibowo",
+        "original_name": "Maheswara Aurelio Wibowo",
+        "popularity": 0.0572,
+        "profile_path": null,
+        "credit_id": "6996b08d7c9082cc993df306",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6017590,
+        "known_for_department": "Production",
+        "name": "Rico Simon Subekti",
+        "original_name": "Rico Simon Subekti",
+        "popularity": 0.1586,
+        "profile_path": null,
+        "credit_id": "6996b0b3723fa640756f65a9",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6017593,
+        "known_for_department": "Production",
+        "name": "Gregorius Dharmasta Satria Wiguna",
+        "original_name": "Gregorius Dharmasta Satria Wiguna",
+        "popularity": 0.0904,
+        "profile_path": null,
+        "credit_id": "6996b0e25a390759144a9554",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6017596,
+        "known_for_department": "Production",
+        "name": "Jerome Albert Kelana",
+        "original_name": "Jerome Albert Kelana",
+        "popularity": 0.0931,
+        "profile_path": null,
+        "credit_id": "6996b110eb06744e38c85462",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6017597,
+        "known_for_department": "Directing",
+        "name": "Fabrice Ghazi Chyrillo W.A.P",
+        "original_name": "Fabrice Ghazi Chyrillo W.A.P",
+        "popularity": 0.1848,
+        "profile_path": "/bi9naeD2JR9dHksQGw86DobyvQi.jpg",
+        "credit_id": "6996b1454dc463a6f46f81ec",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5878425,
+        "known_for_department": "Directing",
+        "name": "Christian Banyubiru",
+        "original_name": "Christian Banyubiru",
+        "popularity": 0.1163,
+        "profile_path": "/jT4l2blyNjLcMu1XbJcxywZpR2m.jpg",
+        "credit_id": "6996b1802a4dcb5e1086378a",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6017598,
+        "known_for_department": "Directing",
+        "name": "Bethari Kadia Ayuwangi",
+        "original_name": "Bethari Kadia Ayuwangi",
+        "popularity": 0.3152,
+        "profile_path": null,
+        "credit_id": "6996b2073f90bd63103df355",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6017590,
+        "known_for_department": "Production",
+        "name": "Rico Simon Subekti",
+        "original_name": "Rico Simon Subekti",
+        "popularity": 0.1586,
+        "profile_path": null,
+        "credit_id": "6996b22fea628675b53c9017",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5878405,
+        "known_for_department": "Camera",
+        "name": "Brilliant Tesando",
+        "original_name": "Brilliant Tesando",
+        "popularity": 0.0317,
+        "profile_path": "/fc0DdEwAe3qHPnq6Sz5h7JfdlVr.jpg",
+        "credit_id": "6996b24d889bd86477851b4b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5878423,
+        "known_for_department": "Camera",
+        "name": "Raka Pradipta",
+        "original_name": "Raka Pradipta",
+        "popularity": 0.0772,
+        "profile_path": null,
+        "credit_id": "6996b267063917edd38637a0",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6017601,
+        "known_for_department": "Camera",
+        "name": "Andreas Arya Suratman",
+        "original_name": "Andreas Arya Suratman",
+        "popularity": 0.2391,
+        "profile_path": null,
+        "credit_id": "6996b2989d52b1b4ac3c8fc6",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5878426,
+        "known_for_department": "Lighting",
+        "name": "Radit Yuliono",
+        "original_name": "Radit Yuliono",
+        "popularity": 0.0618,
+        "profile_path": null,
+        "credit_id": "6996b2a75a390759144a955d",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6017604,
+        "known_for_department": "Lighting",
+        "name": "Franciscus Xaverius Visco Valentino",
+        "original_name": "Franciscus Xaverius Visco Valentino",
+        "popularity": 0.0957,
+        "profile_path": null,
+        "credit_id": "6996b2f1cecd34443f8637cf",
+        "department": "Lighting",
+        "job": "Assistant Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6017596,
+        "known_for_department": "Production",
+        "name": "Jerome Albert Kelana",
+        "original_name": "Jerome Albert Kelana",
+        "popularity": 0.0931,
+        "profile_path": null,
+        "credit_id": "6996b32194cd147c9f1b0bff",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6017605,
+        "known_for_department": "Sound",
+        "name": "Christiano Kori Bawono Langgeng",
+        "original_name": "Christiano Kori Bawono Langgeng",
+        "popularity": 0.0893,
+        "profile_path": null,
+        "credit_id": "6996b3594989f213f33c9148",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6017606,
+        "known_for_department": "Sound",
+        "name": "Anthony Bramantyo Septhian Gunawan",
+        "original_name": "Anthony Bramantyo Septhian Gunawan",
+        "popularity": 0.3245,
+        "profile_path": null,
+        "credit_id": "6996b37a889bd86477851b5e",
+        "department": "Sound",
+        "job": "Sound Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6017605,
+        "known_for_department": "Sound",
+        "name": "Christiano Kori Bawono Langgeng",
+        "original_name": "Christiano Kori Bawono Langgeng",
+        "popularity": 0.0893,
+        "profile_path": null,
+        "credit_id": "6996b39e27864b60f33df357",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6017605,
+        "known_for_department": "Sound",
+        "name": "Christiano Kori Bawono Langgeng",
+        "original_name": "Christiano Kori Bawono Langgeng",
+        "popularity": 0.0893,
+        "profile_path": null,
+        "credit_id": "6996b3c158eabfd84e2893ba",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6017606,
+        "known_for_department": "Sound",
+        "name": "Anthony Bramantyo Septhian Gunawan",
+        "original_name": "Anthony Bramantyo Septhian Gunawan",
+        "popularity": 0.3245,
+        "profile_path": null,
+        "credit_id": "6996b40c0da21052713df356",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6017606,
+        "known_for_department": "Sound",
+        "name": "Anthony Bramantyo Septhian Gunawan",
+        "original_name": "Anthony Bramantyo Septhian Gunawan",
+        "popularity": 0.3245,
+        "profile_path": null,
+        "credit_id": "6996b4325a390759144a956e",
+        "department": "Sound",
+        "job": "Sound Post Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6017609,
+        "known_for_department": "Art",
+        "name": "Samuel Sebastian Nugroho",
+        "original_name": "Samuel Sebastian Nugroho",
+        "popularity": 0.2073,
+        "profile_path": null,
+        "credit_id": "6996b45d4ae28c3d6884ffb3",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6017614,
+        "known_for_department": "Art",
+        "name": "Thomas Nathaniel Billy Sahid",
+        "original_name": "Thomas Nathaniel Billy Sahid",
+        "popularity": 0.0632,
+        "profile_path": null,
+        "credit_id": "6996b491cecd34443f8637e1",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6017616,
+        "known_for_department": "Art",
+        "name": "Ade Ryo Bagus Sadewa",
+        "original_name": "Ade Ryo Bagus Sadewa",
+        "popularity": 0.0863,
+        "profile_path": null,
+        "credit_id": "6996b4af6d6ccf38341b0b42",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6017620,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Elizabeth Putri Wardani",
+        "original_name": "Elizabeth Putri Wardani",
+        "popularity": 0.0633,
+        "profile_path": null,
+        "credit_id": "6996b4e276c80157f21b0975",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6017621,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Melanie Setyowati Limuang",
+        "original_name": "Melanie Setyowati Limuang",
+        "popularity": 0.2163,
+        "profile_path": null,
+        "credit_id": "6996b52919f8a656c64a94e5",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6017623,
+        "known_for_department": "Camera",
+        "name": "Benedictus Wisanggeni",
+        "original_name": "Benedictus Wisanggeni",
+        "popularity": 0.3731,
+        "profile_path": "/veziglt75lTzxcgsfGO5G1vzIjM.jpg",
+        "credit_id": "6996b55b7cc3e7a75b289245",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6017623,
+        "known_for_department": "Camera",
+        "name": "Benedictus Wisanggeni",
+        "original_name": "Benedictus Wisanggeni",
+        "popularity": 0.3731,
+        "profile_path": "/veziglt75lTzxcgsfGO5G1vzIjM.jpg",
+        "credit_id": "6996b5803eaf943c6f863826",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6017614,
+        "known_for_department": "Art",
+        "name": "Thomas Nathaniel Billy Sahid",
+        "original_name": "Thomas Nathaniel Billy Sahid",
+        "popularity": 0.0632,
+        "profile_path": null,
+        "credit_id": "6996b5a594cd147c9f1b0c07",
+        "department": "Editing",
+        "job": "Online Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6017626,
+        "known_for_department": "Camera",
+        "name": "Emanuel Putra Pratama",
+        "original_name": "Emanuel Putra Pratama",
+        "popularity": 0.1004,
+        "profile_path": null,
+        "credit_id": "6996b6034ae28c3d6884ffe7",
+        "department": "Camera",
+        "job": "BTS Footage"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6017626,
+        "known_for_department": "Camera",
+        "name": "Emanuel Putra Pratama",
+        "original_name": "Emanuel Putra Pratama",
+        "popularity": 0.1004,
+        "profile_path": null,
+        "credit_id": "6996b649889bd86477851b88",
+        "department": "Art",
+        "job": "Runner Art Department"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6017597,
+        "known_for_department": "Directing",
+        "name": "Fabrice Ghazi Chyrillo W.A.P",
+        "original_name": "Fabrice Ghazi Chyrillo W.A.P",
+        "popularity": 0.1848,
+        "profile_path": "/bi9naeD2JR9dHksQGw86DobyvQi.jpg",
+        "credit_id": "6996bfd02ec0afd36f8637bd",
+        "department": "Writing",
+        "job": "Story"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "A single mother faces a deep sense of unease when her successful eldest child returns home and treats her with indifference, while her simple, humble youngest child shows her a love that is irreplaceable.",
+          "runtime": 17,
+          "tagline": "Longing for a love that was always right next to her",
+          "title": "Longing"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Longing",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/2YzBrtxKUfImK9TdfNOrUpUgHmE.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/vMRzt9dMubjvSK1J3RLQyZVdsA1.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "ID",
+        "release_dates": [
+          {
+            "certification": "SU",
+            "descriptors": [],
+            "iso_639_1": "jv",
+            "note": "",
+            "release_date": "2025-11-11T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

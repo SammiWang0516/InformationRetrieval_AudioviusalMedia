@@ -1,0 +1,621 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 1751685,
+  "imdb_id": "tt42369070",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Ian Fleming and the Curse of James Bond",
+  "overview": "A film exploring Ian Fleming's espionage career, relentless habits, and tropical retreat in Jamaica, which shaped the fictional secret service agent, while detailing his tragic struggle to escape a character that overshadowed his legacy.",
+  "popularity": 0.7491,
+  "poster_path": "/ym49LaYCREJWTitwBQvaRGpyuhN.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2026-08-18",
+  "revenue": 0,
+  "runtime": 92,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Ian Fleming and the Curse of James Bond",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1283,
+        "known_for_department": "Acting",
+        "name": "Helena Bonham Carter",
+        "original_name": "Helena Bonham Carter",
+        "popularity": 3.8082,
+        "profile_path": "/hJMbNSPJ2PCahsP3rNEU39C8GWU.jpg",
+        "cast_id": 2,
+        "character": "Readings",
+        "credit_id": "6ab7f25330c306dfa69be804",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5469,
+        "known_for_department": "Acting",
+        "name": "Ralph Fiennes",
+        "original_name": "Ralph Fiennes",
+        "popularity": 5.52,
+        "profile_path": "/tJr9GcmGNHhLVVEH3i7QYbj6hBi.jpg",
+        "cast_id": 3,
+        "character": "Self",
+        "credit_id": "6ab7f25f32e58a45b922ba9d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 63120,
+        "known_for_department": "Writing",
+        "name": "William Boyd",
+        "original_name": "William Boyd",
+        "popularity": 0.6196,
+        "profile_path": "/oV43U7s1uKhwsrsekL2aVXDE7vX.jpg",
+        "cast_id": 4,
+        "character": "Self",
+        "credit_id": "6ab7f26da91f578faee43a01",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6506253,
+        "known_for_department": "Acting",
+        "name": "Barbara Blake-Hannah",
+        "original_name": "Barbara Blake-Hannah",
+        "popularity": 0.4401,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Self",
+        "credit_id": "6ab7f3a29f2b536bd7e6d51d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 86431,
+        "known_for_department": "Writing",
+        "name": "Nicholas Shakespeare",
+        "original_name": "Nicholas Shakespeare",
+        "popularity": 0.2262,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Self",
+        "credit_id": "6ab7f3b33d5db8a18ce439f0",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1701205,
+        "known_for_department": "Acting",
+        "name": "Marlon James",
+        "original_name": "Marlon James",
+        "popularity": 0.1926,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Self",
+        "credit_id": "6ab7f3c3b4c09cea072f7566",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2853221,
+        "known_for_department": "Acting",
+        "name": "Fionn Morgan",
+        "original_name": "Fionn Morgan",
+        "popularity": 0.1337,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Self",
+        "credit_id": "6ab7f3d114bcbf88acb01f10",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6506256,
+        "known_for_department": "Acting",
+        "name": "Ramsay DaCosta",
+        "original_name": "Ramsay DaCosta",
+        "popularity": 0.0998,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Self",
+        "credit_id": "6ab7f3e1da9c5a8d2f1a9f28",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1255973,
+        "known_for_department": "Writing",
+        "name": "Kate Mosse",
+        "original_name": "Kate Mosse",
+        "popularity": 0.3655,
+        "profile_path": "/s1tQksNJFohD9we4PpYtl6pLtTw.jpg",
+        "cast_id": 24,
+        "character": "Self",
+        "credit_id": "6ab7f3ec43d685aeeb22b9da",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6506257,
+        "known_for_department": "Acting",
+        "name": "Alexis Albion",
+        "original_name": "Alexis Albion",
+        "popularity": 0.2167,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Self",
+        "credit_id": "6ab7f3fb1ebc2481221a9f49",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6506258,
+        "known_for_department": "Acting",
+        "name": "Cornelius Schregle",
+        "original_name": "Cornelius Schregle",
+        "popularity": 0.0763,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Self",
+        "credit_id": "6ab7f414da9c5a8d2f1a9f33",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6506260,
+        "known_for_department": "Acting",
+        "name": "Charles de Mestral",
+        "original_name": "Charles de Mestral",
+        "popularity": 0.7451,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Self",
+        "credit_id": "6ab7f4457954464ba5384569",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2760510,
+        "known_for_department": "Acting",
+        "name": "Christopher Moran",
+        "original_name": "Christopher Moran",
+        "popularity": 0.3409,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Self",
+        "credit_id": "6ab7f4630107a398bbe6d6d6",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6506264,
+        "known_for_department": "Acting",
+        "name": "Olivia Grange",
+        "original_name": "Olivia Grange",
+        "popularity": 0.1142,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Self",
+        "credit_id": "6ab7f4789f75342603e6d3eb",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6506266,
+        "known_for_department": "Acting",
+        "name": "Denny Lane",
+        "original_name": "Denny Lane",
+        "popularity": 0.7304,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Self",
+        "credit_id": "6ab7f48b4f260f9264eab558",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6506269,
+        "known_for_department": "Acting",
+        "name": "Francis Grey",
+        "original_name": "Francis Grey",
+        "popularity": 0.116,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Self",
+        "credit_id": "6ab7f4a6aefe28ebd49be81d",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6506270,
+        "known_for_department": "Acting",
+        "name": "Matthew Parker",
+        "original_name": "Matthew Parker",
+        "popularity": 0.1539,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Self",
+        "credit_id": "6ab7f4bda32d82fce22f755d",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4262627,
+        "known_for_department": "Writing",
+        "name": "Percival Everett",
+        "original_name": "Percival Everett",
+        "popularity": 0.2476,
+        "profile_path": "/9QnfCt31zq4LF7haeWzpBYhGHgb.jpg",
+        "cast_id": 33,
+        "character": "Self",
+        "credit_id": "6ab7f4c9989d342164eb67fb",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113509,
+        "known_for_department": "Writing",
+        "name": "Vladimir Pozner",
+        "original_name": "Vladimir Pozner",
+        "popularity": 0.4142,
+        "profile_path": "/wfoUdjvMrsMmruSfYwFK3unTyLF.jpg",
+        "cast_id": 34,
+        "character": "Self",
+        "credit_id": "6ab7f4d6b4c756742d38454d",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6506273,
+        "known_for_department": "Acting",
+        "name": "Algy Cluff",
+        "original_name": "Algy Cluff",
+        "popularity": 0.1041,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Self",
+        "credit_id": "6ab7f4e3f43df6acdb97b8a2",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6506276,
+        "known_for_department": "Acting",
+        "name": "Sean Meleady",
+        "original_name": "Sean Meleady",
+        "popularity": 0.1221,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Self",
+        "credit_id": "6ab7f5052b3e532648ada58d",
+        "order": 20
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 225419,
+        "known_for_department": "Directing",
+        "name": "Adam Low",
+        "original_name": "Adam Low",
+        "popularity": 0.3363,
+        "profile_path": null,
+        "credit_id": "6a901de6c841244ec78ada58",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1727596,
+        "known_for_department": "Production",
+        "name": "Martin Rosenbaum",
+        "original_name": "Martin Rosenbaum",
+        "popularity": 0.3662,
+        "profile_path": null,
+        "credit_id": "6ab7f280505717f5d6eb682a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1313548,
+        "known_for_department": "Production",
+        "name": "Nick Taussig",
+        "original_name": "Nick Taussig",
+        "popularity": 0.174,
+        "profile_path": null,
+        "credit_id": "6ab7f28c77cc0480ade439f4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1727596,
+        "known_for_department": "Production",
+        "name": "Martin Rosenbaum",
+        "original_name": "Martin Rosenbaum",
+        "popularity": 0.3662,
+        "profile_path": null,
+        "credit_id": "6ab7f2a43861b691700289c1",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2760472,
+        "known_for_department": "Editing",
+        "name": "Joanna Crickmay",
+        "original_name": "Joanna Crickmay",
+        "popularity": 0.1842,
+        "profile_path": null,
+        "credit_id": "6ab7f2b2dc640aaad40289c6",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 109928,
+        "known_for_department": "Sound",
+        "name": "Philip Miller",
+        "original_name": "Philip Miller",
+        "popularity": 0.1438,
+        "profile_path": null,
+        "credit_id": "6ab7f2c11958df2591e439f3",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2478379,
+        "known_for_department": "Production",
+        "name": "Shani Hinton",
+        "original_name": "Shani Hinton",
+        "popularity": 0.1029,
+        "profile_path": null,
+        "credit_id": "6ab7f2d99d87a221001a9fea",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6506245,
+        "known_for_department": "Production",
+        "name": "David M. Gross",
+        "original_name": "David M. Gross",
+        "popularity": 0.4711,
+        "profile_path": null,
+        "credit_id": "6ab7f2f9b63b56d70db1f787",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 118168,
+        "known_for_department": "Production",
+        "name": "Tim Haslam",
+        "original_name": "Tim Haslam",
+        "popularity": 0.2456,
+        "profile_path": null,
+        "credit_id": "6ab7f309662db6df3522ba04",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1477023,
+        "known_for_department": "Production",
+        "name": "Hugo Grumbar",
+        "original_name": "Hugo Grumbar",
+        "popularity": 0.4344,
+        "profile_path": null,
+        "credit_id": "6ab7f31ac56ab58c28ff64de",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2984167,
+        "known_for_department": "Production",
+        "name": "Herbert L. Kloiber",
+        "original_name": "Herbert L. Kloiber",
+        "popularity": 0.3174,
+        "profile_path": null,
+        "credit_id": "6ab7f32a9990116aadb01f26",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4045809,
+        "known_for_department": "Production",
+        "name": "James Copp",
+        "original_name": "James Copp",
+        "popularity": 0.091,
+        "profile_path": null,
+        "credit_id": "6ab7f338102b5f701b4eab67",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3015401,
+        "known_for_department": "Production",
+        "name": "Jack Oliver",
+        "original_name": "Jack Oliver",
+        "popularity": 0.0936,
+        "profile_path": null,
+        "credit_id": "6ab7f345b7e8a03fb1e6d5bb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2110140,
+        "known_for_department": "Production",
+        "name": "Barbara Lee",
+        "original_name": "Barbara Lee",
+        "popularity": 0.2528,
+        "profile_path": null,
+        "credit_id": "6ab7f35889914366e71aa0cb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6506251,
+        "known_for_department": "Production",
+        "name": "Zoë Sandhu",
+        "original_name": "Zoë Sandhu",
+        "popularity": 0.115,
+        "profile_path": null,
+        "credit_id": "6ab7f378ecfec8facb9be811",
+        "department": "Production",
+        "job": "Line Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "A film exploring Ian Fleming's espionage career, relentless habits, and tropical retreat in Jamaica, which shaped the fictional secret service agent, while detailing his tragic struggle to escape a character that overshadowed his legacy.",
+          "runtime": 92,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "IL",
+        "iso_639_1": "he",
+        "name": "עִבְרִית",
+        "english_name": "Hebrew",
+        "data": {
+          "homepage": "",
+          "overview": "חייו, יצירתו ומורשתו של איאן פלמינג, מחבר סדרת ספרי ג'יימס בונד. הסופר הבריטי שירת במודיעין הימי הבריטי במהלך מלחמת העולם ה-2. הסרט החדש בוחן כיצד דמותו של הסוכן 007 והעולם הספרותי שבנה פלמינג סביבו, נשענו על חוויותיו האישיות, ובפרט תקופת שירותו הצבאי. באמצעות קטעי ארכיון נדירים, ראיונות וקריאה מתוך כתביו, הסרט מציג את הקשר בין חייו של פלמינג לבין גיבורו המפורסם ביותר, וכן את המחיר האישי שגבתה ממנו הצלחתה העצומה של סדרת בונד.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "איאן פלמינג וקללת ג'יימס בונד"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt42369070",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.702,
+        "height": 792,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/ym49LaYCREJWTitwBQvaRGpyuhN.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 556
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Yes VOD + Partner TV+",
+            "release_date": "2026-08-18T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

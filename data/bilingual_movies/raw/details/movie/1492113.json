@@ -1,0 +1,806 @@
+{
+  "adult": false,
+  "backdrop_path": "/skTCwkAQM0ixPsYgrLFcCgZdkQ7.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1492113,
+  "imdb_id": "tt37145477",
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_title": "Hipak",
+  "overview": "Roy believes he's found love and luck with three women who visited his vape shop. But as passionate romances unravel, hidden agendas force him to unleash the beast within.",
+  "popularity": 2.3,
+  "poster_path": "/eG7pnsX28JU0NrWswa0k3d0noiW.jpg",
+  "production_companies": [
+    {
+      "id": 149142,
+      "logo_path": "/25oYoXHsfWYlddAzJSBReajN3BM.png",
+      "name": "Vivamax",
+      "origin_country": "PH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "release_date": "2025-07-18",
+  "revenue": 0,
+  "runtime": 72,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Hipak",
+  "video": false,
+  "vote_average": 7.8,
+  "vote_count": 5,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2939482,
+        "known_for_department": "Acting",
+        "name": "Sean de Guzman",
+        "original_name": "Sean de Guzman",
+        "popularity": 0.9835,
+        "profile_path": "/4mbWqUpMrzSCGKFCgWli3UUR3Bv.jpg",
+        "cast_id": 5,
+        "character": "Roy Abueva",
+        "credit_id": "686f9bb769fa3110009a54cd",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4463307,
+        "known_for_department": "Acting",
+        "name": "Athena Red",
+        "original_name": "Athena Moran",
+        "popularity": 1.0596,
+        "profile_path": "/yD8vPUE4Jgueqn7rtvAPQl53SGj.jpg",
+        "cast_id": 1,
+        "character": "Ruby",
+        "credit_id": "683f11b2f198ae2001f2bdcc",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3295427,
+        "known_for_department": "Acting",
+        "name": "Stephanie Raz",
+        "original_name": "Stephanie Raz",
+        "popularity": 0.7702,
+        "profile_path": "/ozbY2Ns2VsZ1robuOFcQmpFzMwI.jpg",
+        "cast_id": 3,
+        "character": "Samantha",
+        "credit_id": "683f120619d476dd3468a5d0",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5393605,
+        "known_for_department": "Acting",
+        "name": "Anne Marie Gonzales",
+        "original_name": "Anne Marie Gonzales",
+        "popularity": 0.5595,
+        "profile_path": "/cxXW8vC1pXfzuMAbgGYTZMXYi5C.jpg",
+        "cast_id": 2,
+        "character": "Claire",
+        "credit_id": "683f11d70b8cc35aca7f4a2c",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4875311,
+        "known_for_department": "Acting",
+        "name": "Ivan Ponce",
+        "original_name": "Ivan Ponce",
+        "popularity": 0.0472,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Tyrone",
+        "credit_id": "686f9bcd900a7bccc4ed692a",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5563810,
+        "known_for_department": "Acting",
+        "name": "Lester San Juan",
+        "original_name": "Lester San Juan",
+        "popularity": 0.1452,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Sky",
+        "credit_id": "68752ff4ab6232969cc69561",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5563812,
+        "known_for_department": "Acting",
+        "name": "Jomar Carduce",
+        "original_name": "Jomar Carduce",
+        "popularity": 0.1979,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Rival Frat Member",
+        "credit_id": "687530114a30f239a444368b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5563816,
+        "known_for_department": "Acting",
+        "name": "Zenn Mori Fazon",
+        "original_name": "Zenn Mori Fazon",
+        "popularity": 0.0562,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Rival Frat Member",
+        "credit_id": "6875302c04f3c0ad59c69553",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5563817,
+        "known_for_department": "Acting",
+        "name": "Gino Mendoza",
+        "original_name": "Gino Mendoza",
+        "popularity": 0.0993,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Rival Frat Member",
+        "credit_id": "6875303f9fc67cab17f91ab3",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5563819,
+        "known_for_department": "Acting",
+        "name": "Dominique Salcedo",
+        "original_name": "Dominique Salcedo",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Papa Jaime",
+        "credit_id": "68753052bac20ad6d58e8204",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4633477,
+        "known_for_department": "Acting",
+        "name": "Andrei Burce",
+        "original_name": "Philip King",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Cris",
+        "credit_id": "68797724338ab796bfba8891",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5571049,
+        "known_for_department": "Acting",
+        "name": "Paul Luna",
+        "original_name": "Paul Luna",
+        "popularity": 0.0488,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Bong",
+        "credit_id": "6879779299aa499e5aaf0fb3",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5571055,
+        "known_for_department": "Acting",
+        "name": "Keianne Delos Reyes Sanch",
+        "original_name": "Keianne Delos Reyes Sanch",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Allan",
+        "credit_id": "6879787599e934a0f33db7f2",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5571057,
+        "known_for_department": "Acting",
+        "name": "Romerlzon Reciproco",
+        "original_name": "Romerlzon Reciproco",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Rude Customer",
+        "credit_id": "687978a499e934a0f33db7fc",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5571059,
+        "known_for_department": "Acting",
+        "name": "Raizza Cada",
+        "original_name": "Raizza Cada",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Kissing Couple",
+        "credit_id": "687978c0a528e63b705faf4b",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4940233,
+        "known_for_department": "Acting",
+        "name": "John Lucky Lagasca",
+        "original_name": "John Lucky Lagasca",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Kissing Couple",
+        "credit_id": "687978de2a6546e528ba888b",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5571061,
+        "known_for_department": "Acting",
+        "name": "Francis Barbin",
+        "original_name": "Francis Barbin",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Cop",
+        "credit_id": "68797928c3a9d6d69e5fb023",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5571062,
+        "known_for_department": "Acting",
+        "name": "Lon Dela Torre",
+        "original_name": "Lon Dela Torre",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Cop",
+        "credit_id": "6879793f9623d7b51a04ed0b",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5571063,
+        "known_for_department": "Acting",
+        "name": "John Michael Ko",
+        "original_name": "John Michael Ko",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Cop",
+        "credit_id": "687979568fe2b66cbf3db816",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5571065,
+        "known_for_department": "Acting",
+        "name": "Jordan David",
+        "original_name": "Jordan David",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Cop",
+        "credit_id": "687979826f9776010b3db8d8",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5571066,
+        "known_for_department": "Acting",
+        "name": "Emmanuel Godinez",
+        "original_name": "Emmanuel Godinez",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Fratman",
+        "credit_id": "687979a6d6508263540c3413",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5571067,
+        "known_for_department": "Acting",
+        "name": "Manuel Parejo",
+        "original_name": "Manuel Parejo",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Fratman",
+        "credit_id": "687979b7e92bde5353af0fbf",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5571068,
+        "known_for_department": "Acting",
+        "name": "Francis Magno",
+        "original_name": "Francis Magno",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Fratman",
+        "credit_id": "687979db47fc10a966062637",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4462051,
+        "known_for_department": "Acting",
+        "name": "Reorey Caprio",
+        "original_name": "Reorey Caprio",
+        "popularity": 0.0523,
+        "profile_path": "/yfHDE4iTmvVsVsTeRjhR3fNbtE2.jpg",
+        "cast_id": 38,
+        "character": "Fratman",
+        "credit_id": "687979f1dd80e519583db8c4",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3878179,
+        "known_for_department": "Acting",
+        "name": "Erica Dales",
+        "original_name": "Ayra Salvador",
+        "popularity": 0.4069,
+        "profile_path": "/cBz7YxFkc2AQPEbswVtyHh5hfEi.jpg",
+        "cast_id": 39,
+        "character": "Uncredited",
+        "credit_id": "68797e57c628188ef1f75a17",
+        "order": 24
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2640622,
+        "known_for_department": "Directing",
+        "name": "Greg Rodriguez III",
+        "original_name": "Greg Rodriguez III",
+        "popularity": 0.1835,
+        "profile_path": null,
+        "credit_id": "68796ff3a528e63b705faf25",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5571012,
+        "known_for_department": "Sound",
+        "name": "Nic Velmorin",
+        "original_name": "Nic Velmorin",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "6879704fe7f57dcf0204ed82",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2329931,
+        "known_for_department": "Directing",
+        "name": "Kristine Joi A. Bayan",
+        "original_name": "Kristine Joi A. Bayan",
+        "popularity": 0.1325,
+        "profile_path": null,
+        "credit_id": "687970962a6546e528ba8876",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4197117,
+        "known_for_department": "Art",
+        "name": "Jeric Delos Angeles",
+        "original_name": "Jeric Delos Angeles",
+        "popularity": 0.1819,
+        "profile_path": null,
+        "credit_id": "687970e3f41b3792340627b2",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1193499,
+        "known_for_department": "Directing",
+        "name": "Dan Villegas",
+        "original_name": "Dan Villegas",
+        "popularity": 0.6874,
+        "profile_path": "/nmeTwVZAAm4iClWYo8cwv83HhAH.jpg",
+        "credit_id": "68797104e07d123605af0fdf",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2439996,
+        "known_for_department": "Writing",
+        "name": "Philip King",
+        "original_name": "Philip King",
+        "popularity": 0.1172,
+        "profile_path": null,
+        "credit_id": "687971ceb07d321f0dba885d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2039407,
+        "known_for_department": "Directing",
+        "name": "Roni S. Benaid",
+        "original_name": "Roni S. Benaid",
+        "popularity": 0.1554,
+        "profile_path": "/lFpXFFPi2aYCjd1oljdGQAzCbkn.jpg",
+        "credit_id": "687972929623d7b51a04ecf5",
+        "department": "Art",
+        "job": "Creative Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4207735,
+        "known_for_department": "Production",
+        "name": "Diane Asuelo",
+        "original_name": "Diane Asuelo",
+        "popularity": 0.0491,
+        "profile_path": null,
+        "credit_id": "687972fb1f64c195e9bbe3ed",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4059884,
+        "known_for_department": "Production",
+        "name": "Emerald C. Suarez",
+        "original_name": "Emeral C. Suarez",
+        "popularity": 0.1048,
+        "profile_path": null,
+        "credit_id": "6879742fe9149eb5870c339a",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2393333,
+        "known_for_department": "Production",
+        "name": "Niña De Castro",
+        "original_name": "Niña De Castro",
+        "popularity": 0.3373,
+        "profile_path": null,
+        "credit_id": "68797459c3a9d6d69e5fb00e",
+        "department": "Production",
+        "job": "Supervising Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2439996,
+        "known_for_department": "Writing",
+        "name": "Philip King",
+        "original_name": "Philip King",
+        "popularity": 0.1172,
+        "profile_path": null,
+        "credit_id": "687976a5e40d04ae5f0c32d7",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1043072,
+        "known_for_department": "Camera",
+        "name": "Mo Zee",
+        "original_name": "Mo Zee",
+        "popularity": 0.1522,
+        "profile_path": "/uA0nm8AKWDpkrRMALULxuYH7Dh9.jpg",
+        "credit_id": "69931b535bd26248e12af4dc",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 264386,
+        "name": "lesbian"
+      },
+      {
+        "id": 280003,
+        "name": "girls' love (gl)"
+      },
+      {
+        "id": 321739,
+        "name": "sexy"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Roy believes he's found love and luck with three women who visited his vape shop. But as passionate romances unravel, hidden agendas force him to unleash the beast within.",
+          "runtime": 72,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "VN",
+        "iso_639_1": "vi",
+        "name": "Tiếng Việt",
+        "english_name": "Vietnamese",
+        "data": {
+          "homepage": "",
+          "overview": "Roy tin rằng anh đã tìm thấy tình yêu và may mắn với ba người phụ nữ ghé thăm cửa hàng vape của mình. Nhưng khi những mối tình nồng cháy dần tan vỡ, những âm mưu thầm kín buộc anh phải giải phóng con thú bên trong.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Hipak"
+        }
+      },
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "JP",
+        "iso_639_1": "ja",
+        "name": "日本語",
+        "english_name": "Japanese",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "RU",
+        "iso_639_1": "ru",
+        "name": "Pусский",
+        "english_name": "Russian",
+        "data": {
+          "homepage": "",
+          "overview": "Рой верит, что нашёл любовь и удачу в лице трёх женщин, посетивших его вейп-шоп. Но по мере развития страстных романов скрытые мотивы заставляют его выпустить на волю внутреннего зверя.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Вейп Шоп"
+        }
+      },
+      {
+        "iso_3166_1": "CN",
+        "iso_639_1": "zh",
+        "name": "普通话",
+        "english_name": "Mandarin",
+        "data": {
+          "homepage": "",
+          "overview": "罗伊以为他在自己的电子烟店遇到了前来购物的三位女性，并从中找到了爱情与好运。然而，随着激情浪漫的展开，隐藏的意图迫使他释放出内心的野兽。",
+          "runtime": 0,
+          "tagline": "",
+          "title": "希帕克"
+        }
+      },
+      {
+        "iso_3166_1": "KR",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말",
+        "english_name": "Korean",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": "세 여자의 젖은 유혹"
+        }
+      },
+      {
+        "iso_3166_1": "TH",
+        "iso_639_1": "th",
+        "name": "ภาษาไทย",
+        "english_name": "Thai",
+        "data": {
+          "homepage": "",
+          "overview": "รอยเชื่อว่าเขาได้พบกับความรักและโชคลาภกับผู้หญิงสามคนที่มาเยี่ยมร้านขายบุหรี่ไฟฟ้าของเขา แต่เมื่อความรักอันเร่าร้อนเริ่มจางหายไป แผนการลับบางอย่างก็บีบให้เขาต้องปลดปล่อยปีศาจร้ายในตัวออกมา",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt37145477",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/skTCwkAQM0ixPsYgrLFcCgZdkQ7.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/6lJOOtTMhvaax77nqfnml90lzYQ.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/zj48TAxLo6dEaTImaSTPBbLdgr6.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/hGDPqdpoyDpROGiammmFjP5AyoH.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/hULC7rQ0ELtb0pAM1Qi5YeXD17k.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      }
+    ],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "19",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "2025-VF03224",
+            "release_date": "2025-12-12T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PH",
+        "release_dates": [
+          {
+            "certification": "R-18",
+            "descriptors": [],
+            "iso_639_1": "tl",
+            "note": "",
+            "release_date": "2025-07-18T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Hipak Official Trailer | Sean De Guzman, Athena Red | VMX",
+        "key": "NTsr6WeWyGA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "686f9c97037b58e41a703de4",
+        "published_at": "2025-07-09T13:21:01.000Z"
+      }
+    ]
+  }
+}

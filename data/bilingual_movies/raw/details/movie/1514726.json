@@ -1,0 +1,639 @@
+{
+  "adult": false,
+  "backdrop_path": "/AvyHGGhxx5bCExc3eCqYD2Yduj2.jpg",
+  "belongs_to_collection": null,
+  "budget": 5000,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 1514726,
+  "imdb_id": null,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Calandra",
+  "overview": "Nieves works in an industrial laundry and dreams of having a rabbit, after years marked by a surgery she did not choose.",
+  "popularity": 0.8205,
+  "poster_path": "/abaZ8QwxbQiDcD3pJ4t8HrDznnF.jpg",
+  "production_companies": [
+    {
+      "id": 28016,
+      "logo_path": "/zHoaupvjWluNcDZQYuOlVkEwotC.png",
+      "name": "Ecam",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2025-09-16",
+  "revenue": 0,
+  "runtime": 23,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Calandra",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5570227,
+        "known_for_department": "Acting",
+        "name": "Nieves Molina Castañón",
+        "original_name": "Nieves Molina Castañón",
+        "popularity": 0.071,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "6878efc41743b57ba35facc4",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4513171,
+        "known_for_department": "Acting",
+        "name": "Natalia Molina Castañón",
+        "original_name": "Natalia Molina",
+        "popularity": 0.0758,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "6878eff2019c8169bb203e70",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5570228,
+        "known_for_department": "Acting",
+        "name": "Paco Martínez",
+        "original_name": "Paco Martínez",
+        "popularity": 0.039,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "6878effbbd6c8cfca1af0db6",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4123194,
+        "known_for_department": "Directing",
+        "name": "Chloe Cazorla",
+        "original_name": "Chloe Cazorla",
+        "popularity": 0.5287,
+        "profile_path": "/ucEKXQ3XsL9Q4qGv9JmmSCYzK9V.jpg",
+        "credit_id": "6878f0116a12a8b61b04eaae",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4802041,
+        "known_for_department": "Directing",
+        "name": "Lucas Lagrange",
+        "original_name": "Lucas Lagrange",
+        "popularity": 0.0719,
+        "profile_path": null,
+        "credit_id": "6878f01e263111052f0c30cf",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4357495,
+        "known_for_department": "Directing",
+        "name": "Laura Raniela",
+        "original_name": "Laura Raniela",
+        "popularity": 0.3053,
+        "profile_path": null,
+        "credit_id": "6878f02cd139b21b100624c3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4641696,
+        "known_for_department": "Directing",
+        "name": "Jaime Aurata",
+        "original_name": "Jaime Aurata",
+        "popularity": 0.2693,
+        "profile_path": null,
+        "credit_id": "6878f03a0b88de45a2203e69",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4123194,
+        "known_for_department": "Directing",
+        "name": "Chloe Cazorla",
+        "original_name": "Chloe Cazorla",
+        "popularity": 0.5287,
+        "profile_path": "/ucEKXQ3XsL9Q4qGv9JmmSCYzK9V.jpg",
+        "credit_id": "6878f049989d6ec14faf0d76",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4802041,
+        "known_for_department": "Directing",
+        "name": "Lucas Lagrange",
+        "original_name": "Lucas Lagrange",
+        "popularity": 0.0719,
+        "profile_path": null,
+        "credit_id": "6878f0557cb1f73804ba85b6",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4357495,
+        "known_for_department": "Directing",
+        "name": "Laura Raniela",
+        "original_name": "Laura Raniela",
+        "popularity": 0.3053,
+        "profile_path": null,
+        "credit_id": "6878f0640f9cdbd3160c305f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4641696,
+        "known_for_department": "Directing",
+        "name": "Jaime Aurata",
+        "original_name": "Jaime Aurata",
+        "popularity": 0.2693,
+        "profile_path": null,
+        "credit_id": "6878f074e40d04ae5f0c3111",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4924991,
+        "known_for_department": "Camera",
+        "name": "Juanma Marín",
+        "original_name": "Juan Manuel Marín",
+        "popularity": 0.2303,
+        "profile_path": "/vCgP7oDRfB26d6KpKAkLdwCGFQk.jpg",
+        "credit_id": "6878f17b99e934a0f33db5ca",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4924991,
+        "known_for_department": "Camera",
+        "name": "Juanma Marín",
+        "original_name": "Juan Manuel Marín",
+        "popularity": 0.2303,
+        "profile_path": "/vCgP7oDRfB26d6KpKAkLdwCGFQk.jpg",
+        "credit_id": "6878f1896ed0bb2d9abbe167",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3747529,
+        "known_for_department": "Sound",
+        "name": "Angelina Foglio",
+        "original_name": "Angelina Foglio",
+        "popularity": 0.0331,
+        "profile_path": "/gycJn6agIm80y6IcECoyi1svUjv.jpg",
+        "credit_id": "6878f1a0fe8d37f3e404ea9d",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3346090,
+        "known_for_department": "Directing",
+        "name": "Favio Redondo",
+        "original_name": "Favio Redondo",
+        "popularity": 0.0862,
+        "profile_path": null,
+        "credit_id": "6878f1aef41b3792340625dd",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4814503,
+        "known_for_department": "Sound",
+        "name": "Álvaro Daganzo",
+        "original_name": "Álvaro Daganzo",
+        "popularity": 0.0369,
+        "profile_path": null,
+        "credit_id": "6878f1bbaa4ab5dc3f062585",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4241566,
+        "known_for_department": "Sound",
+        "name": "Irene Arboleda",
+        "original_name": "Irene Arboleda",
+        "popularity": 0.1851,
+        "profile_path": null,
+        "credit_id": "6878f1c9786069ed5d5facf8",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4360279,
+        "known_for_department": "Directing",
+        "name": "Kiko de Juan",
+        "original_name": "Kiko de Juan",
+        "popularity": 0.065,
+        "profile_path": null,
+        "credit_id": "6878f276ca52da4191062623",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4241125,
+        "known_for_department": "Editing",
+        "name": "David Sendín",
+        "original_name": "David Sendín",
+        "popularity": 0.202,
+        "profile_path": "/zGALoKoE8N0wwZsU3jbtKk9WCsC.jpg",
+        "credit_id": "6878f2a5df088138f10c322f",
+        "department": "Editing",
+        "job": "Additional Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3873918,
+        "known_for_department": "Directing",
+        "name": "Pablo Arenas",
+        "original_name": "Pablo Arenas",
+        "popularity": 0.1815,
+        "profile_path": null,
+        "credit_id": "6878f365338ab796bfba8671",
+        "department": "Crew",
+        "job": "Telecine Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5570264,
+        "known_for_department": "Art",
+        "name": "Sebastián Mondéjar",
+        "original_name": "Sebastián Mondéjar",
+        "popularity": 0.0397,
+        "profile_path": null,
+        "credit_id": "687f645e976736e15d244dc5",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4814409,
+        "known_for_department": "Editing",
+        "name": "Pablo Mercero",
+        "original_name": "Pablo Mercero",
+        "popularity": 0.0623,
+        "profile_path": null,
+        "credit_id": "688111f7b45b3fa48516aff3",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4123194,
+        "known_for_department": "Directing",
+        "name": "Chloe Cazorla",
+        "original_name": "Chloe Cazorla",
+        "popularity": 0.5287,
+        "profile_path": "/ucEKXQ3XsL9Q4qGv9JmmSCYzK9V.jpg",
+        "credit_id": "688111ffef3c47ab8b55dd3d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4802041,
+        "known_for_department": "Directing",
+        "name": "Lucas Lagrange",
+        "original_name": "Lucas Lagrange",
+        "popularity": 0.0719,
+        "profile_path": null,
+        "credit_id": "68811210dff0081dac72db0c",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4357495,
+        "known_for_department": "Directing",
+        "name": "Laura Raniela",
+        "original_name": "Laura Raniela",
+        "popularity": 0.3053,
+        "profile_path": null,
+        "credit_id": "6881121ac74b327f5a38e91c",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4641696,
+        "known_for_department": "Directing",
+        "name": "Jaime Aurata",
+        "original_name": "Jaime Aurata",
+        "popularity": 0.2693,
+        "profile_path": null,
+        "credit_id": "68811224ff26beb16372d935",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4357495,
+        "known_for_department": "Directing",
+        "name": "Laura Raniela",
+        "original_name": "Laura Raniela",
+        "popularity": 0.3053,
+        "profile_path": null,
+        "credit_id": "68c15c51e3d9f6469098d135",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4123194,
+        "known_for_department": "Directing",
+        "name": "Chloe Cazorla",
+        "original_name": "Chloe Cazorla",
+        "popularity": 0.5287,
+        "profile_path": "/ucEKXQ3XsL9Q4qGv9JmmSCYzK9V.jpg",
+        "credit_id": "6901e3baa8ba3854ffb64d45",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4802041,
+        "known_for_department": "Directing",
+        "name": "Lucas Lagrange",
+        "original_name": "Lucas Lagrange",
+        "popularity": 0.0719,
+        "profile_path": null,
+        "credit_id": "6901e3c363edebb5ec935a8e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4357495,
+        "known_for_department": "Directing",
+        "name": "Laura Raniela",
+        "original_name": "Laura Raniela",
+        "popularity": 0.3053,
+        "profile_path": null,
+        "credit_id": "6901e3cbb81e9226b4935a19",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4641696,
+        "known_for_department": "Directing",
+        "name": "Jaime Aurata",
+        "original_name": "Jaime Aurata",
+        "popularity": 0.2693,
+        "profile_path": null,
+        "credit_id": "6901e3d350a766f8a8a8b68f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Nieves works in an industrial laundry and dreams of having a rabbit, after years marked by a surgery she did not choose.",
+          "runtime": 23,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Nieves trabaja en una lavandería industrial a las afueras de Madrid. Años fue sometida a una cirugía que ella no eligió y desde entonces, su único deseo es tener un conejo.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "CZ",
+        "iso_639_1": "cs",
+        "name": "Český",
+        "english_name": "Czech",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/AvyHGGhxx5bCExc3eCqYD2Yduj2.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 720,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/3IJ3O6dwqAwiJhXoLch5sMsDwZQ.jpg",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 1280
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.7,
+        "height": 2836,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/abaZ8QwxbQiDcD3pJ4t8HrDznnF.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1986
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Ji.hlava International Documentary Film Festival",
+            "release_date": "2026-10-29T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DAFilms",
+            "release_date": "2026-10-09T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Entrega de diplomas ECAM 2025",
+            "release_date": "2025-09-16T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Festival dei Popoli - Future Campus. European Doc Academy",
+            "release_date": "2026-11-05T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "FICUNAM - Aciertos",
+            "release_date": "2026-11-07T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Doclisboa IFF - Green Years",
+            "release_date": "2026-10-23T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

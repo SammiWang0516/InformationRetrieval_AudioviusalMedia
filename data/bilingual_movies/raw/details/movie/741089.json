@@ -1,0 +1,917 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "",
+  "id": 741089,
+  "imdb_id": "tt30982602",
+  "origin_country": [
+    "RU"
+  ],
+  "original_language": "ru",
+  "original_title": "Голем",
+  "overview": "The village idiot lives in a hut with his sick mother. His neighbors are the Jewish family of the local blacksmith Mendel, and the guy is secretly in love with his youngest daughter Sonya.",
+  "popularity": 0.7397,
+  "poster_path": "/1DYGARscOdQtY9U60mFOTIx96ld.jpg",
+  "production_companies": [
+    {
+      "id": 86842,
+      "logo_path": "/uCPNeQLSVrSsOtLejsNRZTvnFab.png",
+      "name": "Sreda",
+      "origin_country": "RU"
+    },
+    {
+      "id": 311942,
+      "logo_path": null,
+      "name": "Western Estate",
+      "origin_country": "RU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "RU",
+      "name": "Russia"
+    }
+  ],
+  "release_date": "2026-10-07",
+  "revenue": 0,
+  "runtime": 110,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Yiddish",
+      "iso_639_1": "yi",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Golem",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1605732,
+        "known_for_department": "Acting",
+        "name": "Petr Skvortsov",
+        "original_name": "Пётр Скворцов",
+        "popularity": 0.2789,
+        "profile_path": "/qiBPm2IzvKRWAW6duE62TBLy9zh.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "614ee78ba9b9a40091095dcb",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 67320,
+        "known_for_department": "Acting",
+        "name": "Kseniya Rappoport",
+        "original_name": "Ксения Раппопорт",
+        "popularity": 1.137,
+        "profile_path": "/i2BEeoC4EcMSwDqZR88TDnXvB3n.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "614ee791c3514c002648a10a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1817937,
+        "known_for_department": "Acting",
+        "name": "Polina Gukhman",
+        "original_name": "Полина Гухман",
+        "popularity": 0.6729,
+        "profile_path": "/mrVoZUrtvS5Q4RepOPldmZUHbAS.jpg",
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "614ee799c3514c00436a9d6a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2165607,
+        "known_for_department": "Acting",
+        "name": "Darya Belousova",
+        "original_name": "Дарья Белоусова",
+        "popularity": 0.2111,
+        "profile_path": "/i9f3dFYlCUWQFfsnYmSs7Tq1zc6.jpg",
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "614ee7a1904f6d00440bec0b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 235869,
+        "known_for_department": "Acting",
+        "name": "Vladimir Steklov",
+        "original_name": "Владимир Стеклов",
+        "popularity": 0.7241,
+        "profile_path": "/yzmyG2ykkElZfab5fNEIvvMI0DA.jpg",
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "614ee7a6124c8d0043b586eb",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1062261,
+        "known_for_department": "Acting",
+        "name": "Karen Badalov",
+        "original_name": "Карэн Бадалов",
+        "popularity": 0.3622,
+        "profile_path": "/ukGnRusUDygxQqZkuBwlgtqUWFO.jpg",
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "614ee7aded2ac2008b529904",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 229355,
+        "known_for_department": "Acting",
+        "name": "Sergey Sosnovsky",
+        "original_name": "Сергей Сосновский",
+        "popularity": 0.4359,
+        "profile_path": "/hfEaGev3fgYEE7aJpQGkCTMf8yl.jpg",
+        "cast_id": 9,
+        "character": "",
+        "credit_id": "614ee7b22f8d0900434260c8",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 97336,
+        "known_for_department": "Acting",
+        "name": "Evgeny Koryakovsky",
+        "original_name": "Евгений Коряковский",
+        "popularity": 0.3831,
+        "profile_path": "/5DA0pUsadg5xtdkeYeIPYzoH9sI.jpg",
+        "cast_id": 10,
+        "character": "",
+        "credit_id": "614ee7b8ed2ac2008b529908",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1626464,
+        "known_for_department": "Acting",
+        "name": "Vasiliy Butkevich",
+        "original_name": "Василий Буткевич",
+        "popularity": 0.3571,
+        "profile_path": "/yUpV1P21jRuHCCuzmtp74LwTPEG.jpg",
+        "cast_id": 11,
+        "character": "",
+        "credit_id": "614ee7bdb046050044810185",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2963839,
+        "known_for_department": "Acting",
+        "name": "Vladimir Sarapultsev",
+        "original_name": "Владимир Сарапульцев",
+        "popularity": 0.345,
+        "profile_path": "/hAgvQ6gl2MJdkmQskQlqqMQQliV.jpg",
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "614ee7c52f8d09006123bba0",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2999314,
+        "known_for_department": "Acting",
+        "name": "Anton Makukha",
+        "original_name": "Антон Макуха",
+        "popularity": 0.2535,
+        "profile_path": "/hTsiiVyyQkPUDvB71h91IZjJWPm.jpg",
+        "cast_id": 13,
+        "character": "",
+        "credit_id": "614ee7cfaf95900061a3cc72",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1553319,
+        "known_for_department": "Acting",
+        "name": "Oleg Yagodin",
+        "original_name": "Олег Ягодин",
+        "popularity": 0.1993,
+        "profile_path": "/eDZoJ0qjOX5SpYUqyUaPUJf7I4g.jpg",
+        "cast_id": 18,
+        "character": "",
+        "credit_id": "61f04d2a136545004394f5bf",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1279539,
+        "known_for_department": "Acting",
+        "name": "Philip Wilhelmi",
+        "original_name": "Philip Wilhelmi",
+        "popularity": 0.1602,
+        "profile_path": "/u2cgqLbFhbdlDLXbvQnaw8T1v6e.jpg",
+        "cast_id": 19,
+        "character": "",
+        "credit_id": "61f04d36c5ada50068140f9d",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2019345,
+        "known_for_department": "Acting",
+        "name": "Vladimir Gartsunov",
+        "original_name": "Владимир Гарцунов",
+        "popularity": 0.3503,
+        "profile_path": "/5lIirZ1AGw9LyPIi27RCYqYuf0U.jpg",
+        "cast_id": 20,
+        "character": "",
+        "credit_id": "61f04d3d9e45860066ccf162",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3398210,
+        "known_for_department": "Acting",
+        "name": "Irina Rymarova-Shapo",
+        "original_name": "Irina Rymarova-Shapo",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "",
+        "credit_id": "61f04d527dfda6012705cef0",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2550995,
+        "known_for_department": "Acting",
+        "name": "Yanina Malinchik",
+        "original_name": "Янина Малинчик",
+        "popularity": 0.2899,
+        "profile_path": "/1HkqTBJngvxuS0odUDqT5RMESZa.jpg",
+        "cast_id": 22,
+        "character": "",
+        "credit_id": "61f04d70cd204600923a629e",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3398211,
+        "known_for_department": "Acting",
+        "name": "Konstantin Mamylov",
+        "original_name": "Konstantin Mamylov",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "",
+        "credit_id": "61f04d7b3009aa011b8da11b",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3398214,
+        "known_for_department": "Acting",
+        "name": "Alexey Goncharik",
+        "original_name": "Алексей Гончарик",
+        "popularity": 0.0882,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "",
+        "credit_id": "61f04d993009aa011b8da154",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1998721,
+        "known_for_department": "Acting",
+        "name": "Fedor Levin",
+        "original_name": "Фёдор Левин",
+        "popularity": 0.4336,
+        "profile_path": "/x3d9wdobns3isqiYbpfA5b8Y7AV.jpg",
+        "cast_id": 25,
+        "character": "",
+        "credit_id": "61f04dbac669ad007bd2d338",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1482816,
+        "known_for_department": "Acting",
+        "name": "Arseny Semenov",
+        "original_name": "Arseny Semenov",
+        "popularity": 0.1755,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "",
+        "credit_id": "61f04dc202842000445d83f3",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3398215,
+        "known_for_department": "Acting",
+        "name": "Nikita Sentemov",
+        "original_name": "Никита Сентемов",
+        "popularity": 0.0359,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "",
+        "credit_id": "61f04dcd1c09fb0095737b0a",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3398216,
+        "known_for_department": "Acting",
+        "name": "Antonina Rybalovleva",
+        "original_name": "Антонина Рыбаловлева",
+        "popularity": 0.0981,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "",
+        "credit_id": "61f04de8ea37e000dcc2a2f3",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2299551,
+        "known_for_department": "Acting",
+        "name": "Yuliya Kadushkevich",
+        "original_name": "Yuliya Kadushkevich",
+        "popularity": 0.0772,
+        "profile_path": "/pAPwmMSkVTJ4htbUPstWHjfsRZG.jpg",
+        "cast_id": 52,
+        "character": "",
+        "credit_id": "67927a3ff48affb3c9ead7e1",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2713264,
+        "known_for_department": "Acting",
+        "name": "Anastasiya Bobrova",
+        "original_name": "Анастасия Боброва",
+        "popularity": 0.2759,
+        "profile_path": "/5sqxFKCKKFxpjaZekoY28t9I8cN.jpg",
+        "cast_id": 30,
+        "character": "",
+        "credit_id": "61f04e28d38b5800e26649d5",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2385546,
+        "known_for_department": "Acting",
+        "name": "Elena Dubrovskaya",
+        "original_name": "Елена Дубровская",
+        "popularity": 0.2926,
+        "profile_path": "/wptShr09oV19SqR4T408d3ZDBUM.jpg",
+        "cast_id": 31,
+        "character": "",
+        "credit_id": "61f04e44c5ada500681411ea",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3291889,
+        "known_for_department": "Acting",
+        "name": "Platon Savvin",
+        "original_name": "Платон Саввин",
+        "popularity": 0.1257,
+        "profile_path": "/slilvpGkXT2o6lqxtr5uGgXMAnB.jpg",
+        "cast_id": 32,
+        "character": "",
+        "credit_id": "61f04e4f028420009455dea5",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2220377,
+        "known_for_department": "Acting",
+        "name": "Dmitry Vyatkin",
+        "original_name": "Dmitry Vyatkin",
+        "popularity": 0.032,
+        "profile_path": "/waWLPdVB1QdC0wG5qNeeqv8lr2l.jpg",
+        "cast_id": 33,
+        "character": "",
+        "credit_id": "61f04e63d40d4c0043a7aee9",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3398219,
+        "known_for_department": "Acting",
+        "name": "Timofey Stacevicius",
+        "original_name": "Timofey Stacevicius",
+        "popularity": 0.0372,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "",
+        "credit_id": "61f04e7415794a00690ea592",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3398233,
+        "known_for_department": "Acting",
+        "name": "Igor Tolstikov",
+        "original_name": "Игорь Толстиков",
+        "popularity": 0.2081,
+        "profile_path": "/cszs0ThWAAh4FwKrsbP2nJJ3tTK.jpg",
+        "cast_id": 35,
+        "character": "",
+        "credit_id": "61f05204136545006b237aa9",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3398235,
+        "known_for_department": "Acting",
+        "name": "Andrey Nikolaev",
+        "original_name": "Andrey Nikolaev",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "",
+        "credit_id": "61f0522b0284200069895a3a",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3398236,
+        "known_for_department": "Acting",
+        "name": "Ilya Idelchik",
+        "original_name": "Ilya Idelchik",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "",
+        "credit_id": "61f0524bd11e0e00c2241faa",
+        "order": 30
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3398237,
+        "known_for_department": "Acting",
+        "name": "Bogdan Lazutin",
+        "original_name": "Bogdan Lazutin",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "",
+        "credit_id": "61f0526515794a00e501f4b9",
+        "order": 31
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3398239,
+        "known_for_department": "Acting",
+        "name": "Grigory Denisenko",
+        "original_name": "Grigory Denisenko",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "",
+        "credit_id": "61f0527f9e45860066ccf924",
+        "order": 32
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 935418,
+        "known_for_department": "Acting",
+        "name": "Sergey Vlasov",
+        "original_name": "Сергей Власов",
+        "popularity": 0.5223,
+        "profile_path": "/nFFqhTmf217ch7MjupAW3SRPHaf.jpg",
+        "cast_id": 40,
+        "character": "",
+        "credit_id": "61f0534413654500959a0ea7",
+        "order": 33
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2776792,
+        "known_for_department": "Acting",
+        "name": "Gennadiy Fomin",
+        "original_name": "Gennadiy Fomin",
+        "popularity": 0.1594,
+        "profile_path": "/ySoPA6rlsWXSvaO5G81LsGikobU.jpg",
+        "cast_id": 41,
+        "character": "",
+        "credit_id": "61f0535bd40d4c006d787dcc",
+        "order": 34
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3398250,
+        "known_for_department": "Acting",
+        "name": "Tatyana Zhdanova",
+        "original_name": "Tatyana Zhdanova",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "",
+        "credit_id": "61f053831c09fb00447ce410",
+        "order": 35
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3398256,
+        "known_for_department": "Acting",
+        "name": "Alexandr Prigornitsky",
+        "original_name": "Alexandr Prigornitsky",
+        "popularity": 0.0523,
+        "profile_path": null,
+        "cast_id": 44,
+        "character": "",
+        "credit_id": "61f053bdea37e000435eb6fa",
+        "order": 36
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1783707,
+        "known_for_department": "Acting",
+        "name": "Dzmitryj Pustyĺnik",
+        "original_name": "Дзмітрый Пустыльнік",
+        "popularity": 0.4782,
+        "profile_path": "/5Fjk7DBfWCktyc41Rf7oRU2kvrQ.jpg",
+        "cast_id": 45,
+        "character": "",
+        "credit_id": "61f053e5cedac4006cc7b323",
+        "order": 37
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1677311,
+        "known_for_department": "Acting",
+        "name": "Anzhela Korableva",
+        "original_name": "Анжела Кораблёва",
+        "popularity": 0.3105,
+        "profile_path": "/mlABwKsjmfudRzU7qGxD89bL3AD.jpg",
+        "cast_id": 51,
+        "character": "",
+        "credit_id": "668b13253ddeeaa22823a5fa",
+        "order": 38
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2017436,
+        "known_for_department": "Production",
+        "name": "Ivan Samokhvalov",
+        "original_name": "Иван Самохвалов",
+        "popularity": 0.3963,
+        "profile_path": "/68txzDJcj7Ss6IF4n3DNGMPfHUl.jpg",
+        "credit_id": "614ee7ff397561004333c5ff",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2179287,
+        "known_for_department": "Art",
+        "name": "Eduard Galkin",
+        "original_name": "Эдуард Галкин",
+        "popularity": 0.1455,
+        "profile_path": "/1EyoqvgmXrZ0ueo6PWpjzWk8tgE.jpg",
+        "credit_id": "614ee80f140bad008c8d3479",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1018865,
+        "known_for_department": "Production",
+        "name": "Olexander Tsekalo",
+        "original_name": "Олександр Цекало",
+        "popularity": 0.4387,
+        "profile_path": "/5hyGJbYzq0yIU3SNp97yvBCK3i0.jpg",
+        "credit_id": "614ee7f5e8a3e1002c030f58",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 125890,
+        "known_for_department": "Camera",
+        "name": "Vladislav Opelyants",
+        "original_name": "Владислав Опельянц",
+        "popularity": 0.191,
+        "profile_path": null,
+        "credit_id": "614ee808140bad0061a74d28",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1793877,
+        "known_for_department": "Editing",
+        "name": "Anna Kruty",
+        "original_name": "Анна Крутий",
+        "popularity": 0.0694,
+        "profile_path": "/cX8jXOX3lEBoAapDlELpOUqUe5O.jpg",
+        "credit_id": "61f0545eea37e001143e7ba7",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2477196,
+        "known_for_department": "Production",
+        "name": "Anastasiya Fateeva",
+        "original_name": "Анастасия Фатеева",
+        "popularity": 0.0701,
+        "profile_path": null,
+        "credit_id": "61f0542c6af9dd00df46b547",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3398264,
+        "known_for_department": "Production",
+        "name": "Dmitry Pisaruk",
+        "original_name": "Дмитрий Писарук",
+        "popularity": 0.0581,
+        "profile_path": "/fWfeABy1f15gG9FI3GBeDRTxeKb.jpg",
+        "credit_id": "61f0543d6e938a0045f23181",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2817199,
+        "known_for_department": "Production",
+        "name": "Danila Ippolitov",
+        "original_name": "Данила Ипполитов",
+        "popularity": 0.1496,
+        "profile_path": "/4Es71xPOr8YhwIL9Gd52ZafHQhD.jpg",
+        "credit_id": "61f053fe7dfda600434124e5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1266566,
+        "known_for_department": "Writing",
+        "name": "Ilya Tilkin",
+        "original_name": "Илья Тилькин",
+        "popularity": 0.3165,
+        "profile_path": null,
+        "credit_id": "5f58c8cbca8354003d21f9b8",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 235112,
+        "known_for_department": "Directing",
+        "name": "Alexander Kott",
+        "original_name": "Александр Котт",
+        "popularity": 0.7074,
+        "profile_path": "/7CnrOSSnXhcs52RSuwHZGg53NgW.jpg",
+        "credit_id": "5f58c95a2d93750038a4c0ce",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2333103,
+        "known_for_department": "Editing",
+        "name": "Mukharam Kabulova",
+        "original_name": "Мухарам Кабулова",
+        "popularity": 0.1915,
+        "profile_path": null,
+        "credit_id": "67c00fe210e79c3424a24614",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5339321,
+        "known_for_department": "Production",
+        "name": "Irina Prokhorova",
+        "original_name": "Ирина Прохорова",
+        "popularity": 0.0508,
+        "profile_path": null,
+        "credit_id": "6ab39051dc6cbffb8b5eeb03",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5201871,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Maria Morzunova",
+        "original_name": "Мария Морзунова",
+        "popularity": 0.213,
+        "profile_path": null,
+        "credit_id": "6ab39077f1524cbf934592b1",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4248691,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Elena Dronova",
+        "original_name": "Елена Дронова",
+        "popularity": 0.1662,
+        "profile_path": null,
+        "credit_id": "6ab444764f5021f3c9e9e474",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3242652,
+        "known_for_department": "Sound",
+        "name": "Denis Veykhman",
+        "original_name": "Денис Вейхман",
+        "popularity": 0.1091,
+        "profile_path": null,
+        "credit_id": "6ab4447fd3dd27a392045042",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1761829,
+        "known_for_department": "Sound",
+        "name": "Pavel Esenin",
+        "original_name": "Павел Есенин",
+        "popularity": 0.2233,
+        "profile_path": null,
+        "credit_id": "6ab4448853ffcd63aa75b1c5",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "RU",
+        "iso_639_1": "ru",
+        "name": "Pусский",
+        "english_name": "Russian",
+        "data": {
+          "homepage": "",
+          "overview": "1941 год, оккупированная приграничная территория. Зажиточную еврейскую семью Менделей уводят на расстрел. Самой младшей, Соне, удается спрятаться, но соседский парень Жихарь находит ее и запирает в погребе своего дома. Пленница ненавидит спасителя и рвется на волю, а он, немой, не может ей сказать, что свобода сейчас для еврейки равносильна смерти.",
+          "runtime": 110,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "The village idiot lives in a hut with his sick mother. His neighbors are the Jewish family of the local blacksmith Mendel, and the guy is secretly in love with his youngest daughter Sonya.",
+          "runtime": 110,
+          "tagline": "",
+          "title": "Golem"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "RU",
+        "title": "Жихарь",
+        "type": "Work Title"
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Zhikhar",
+        "type": "Transliteration"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt30982602",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Mayak Film Festival",
+            "release_date": "2026-10-07T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

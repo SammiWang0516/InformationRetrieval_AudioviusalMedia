@@ -1,0 +1,703 @@
+{
+  "adult": false,
+  "backdrop_path": "/uQ7cyNfgYsAAeWdlHBW1oAMeZKH.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 1567861,
+  "imdb_id": null,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Night Walk",
+  "overview": "A man takes his dog for a walk only to find something otherworldly in the dark.",
+  "popularity": 2.3074,
+  "poster_path": "/ltCGRiS18e81AgvpmP0EdYpQGJ7.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-10-02",
+  "revenue": 0,
+  "runtime": 5,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "\"Screw you, dog.\"",
+  "title": "Night Walk",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5287993,
+        "known_for_department": "Acting",
+        "name": "Justus Tanner",
+        "original_name": "Justus Tanner",
+        "popularity": 0.0525,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Derek",
+        "credit_id": "68fae1e846616dcba45ddb1c",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5404420,
+        "known_for_department": "Acting",
+        "name": "Lilly Judd",
+        "original_name": "Lilly Judd",
+        "popularity": 0.6032,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Mary",
+        "credit_id": "68fae1f2fd43373f31cc7839",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769229,
+        "known_for_department": "Acting",
+        "name": "Suki",
+        "original_name": "Suki",
+        "popularity": 0.1726,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Burbank",
+        "credit_id": "68fae21a9042b393a95ddaf6",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4423018,
+        "known_for_department": "Acting",
+        "name": "Sam Langenfeld",
+        "original_name": "Sam Langenfeld",
+        "popularity": 0.1403,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Monster",
+        "credit_id": "68fae24a199a0bd1d64dc477",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4423018,
+        "known_for_department": "Acting",
+        "name": "Sam Langenfeld",
+        "original_name": "Sam Langenfeld",
+        "popularity": 0.1403,
+        "profile_path": null,
+        "credit_id": "68fae25d6c420becf14dc4aa",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769230,
+        "known_for_department": "Directing",
+        "name": "Alex Riese",
+        "original_name": "Alex Riese",
+        "popularity": 0.5114,
+        "profile_path": null,
+        "credit_id": "68fae26ab5c8ceaddc3b0de5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4423018,
+        "known_for_department": "Acting",
+        "name": "Sam Langenfeld",
+        "original_name": "Sam Langenfeld",
+        "popularity": 0.1403,
+        "profile_path": null,
+        "credit_id": "68fae29a4b2b3e8161cc7864",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769231,
+        "known_for_department": "Camera",
+        "name": "Jason Senf",
+        "original_name": "Jason Senf",
+        "popularity": 0.1514,
+        "profile_path": null,
+        "credit_id": "68fae2bb5f91a464a2cc7827",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769201,
+        "known_for_department": "Directing",
+        "name": "Molly Tippey",
+        "original_name": "Molly Tippey",
+        "popularity": 0.4093,
+        "profile_path": null,
+        "credit_id": "68fae2eac4cc2fff4242becc",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4529916,
+        "known_for_department": "Acting",
+        "name": "Cole Jersek",
+        "original_name": "Cole Jersek",
+        "popularity": 0.1005,
+        "profile_path": null,
+        "credit_id": "68fae31ec57ed6d285cc7804",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4464257,
+        "known_for_department": "Directing",
+        "name": "Ayden Haas",
+        "original_name": "Ayden Haas",
+        "popularity": 0.259,
+        "profile_path": null,
+        "credit_id": "68fae3324b2b3e8161cc7869",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4464257,
+        "known_for_department": "Directing",
+        "name": "Ayden Haas",
+        "original_name": "Ayden Haas",
+        "popularity": 0.259,
+        "profile_path": null,
+        "credit_id": "68fae3d1c30be707283b0e0e",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4423018,
+        "known_for_department": "Acting",
+        "name": "Sam Langenfeld",
+        "original_name": "Sam Langenfeld",
+        "popularity": 0.1403,
+        "profile_path": null,
+        "credit_id": "68fae3e2c57ed6d285cc7817",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5769202,
+        "known_for_department": "Directing",
+        "name": "Ethan J. Faulkner",
+        "original_name": "Ethan J. Faulkner",
+        "popularity": 0.6586,
+        "profile_path": "/qDLKL2xTjl3fJb1JT54d6GwwDgt.jpg",
+        "credit_id": "68fae3f9ac38af679742beb7",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5769202,
+        "known_for_department": "Directing",
+        "name": "Ethan J. Faulkner",
+        "original_name": "Ethan J. Faulkner",
+        "popularity": 0.6586,
+        "profile_path": "/qDLKL2xTjl3fJb1JT54d6GwwDgt.jpg",
+        "credit_id": "68fae40da713ca97a142befb",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769238,
+        "known_for_department": "Camera",
+        "name": "Madelyn Ford",
+        "original_name": "Madelyn Ford",
+        "popularity": 0.0632,
+        "profile_path": null,
+        "credit_id": "68fae42da713ca97a142bf05",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769240,
+        "known_for_department": "Camera",
+        "name": "Tyler Burbage",
+        "original_name": "Tyler Burbage",
+        "popularity": 0.0751,
+        "profile_path": null,
+        "credit_id": "68fae447241ce68e4e04f639",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769231,
+        "known_for_department": "Camera",
+        "name": "Jason Senf",
+        "original_name": "Jason Senf",
+        "popularity": 0.1514,
+        "profile_path": null,
+        "credit_id": "68fae45d0ed05f9f293b0de3",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769201,
+        "known_for_department": "Directing",
+        "name": "Molly Tippey",
+        "original_name": "Molly Tippey",
+        "popularity": 0.4093,
+        "profile_path": null,
+        "credit_id": "68fae468109f60851f018720",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769230,
+        "known_for_department": "Directing",
+        "name": "Alex Riese",
+        "original_name": "Alex Riese",
+        "popularity": 0.5114,
+        "profile_path": null,
+        "credit_id": "68fae474783f7684a95ddb32",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4423018,
+        "known_for_department": "Acting",
+        "name": "Sam Langenfeld",
+        "original_name": "Sam Langenfeld",
+        "popularity": 0.1403,
+        "profile_path": null,
+        "credit_id": "68fae47b7d75cb7f003b0e06",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769201,
+        "known_for_department": "Directing",
+        "name": "Molly Tippey",
+        "original_name": "Molly Tippey",
+        "popularity": 0.4093,
+        "profile_path": null,
+        "credit_id": "68fae49d131a57fc4c5a33fb",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769242,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Evie Mahaffey",
+        "original_name": "Evie Mahaffey",
+        "popularity": 0.1589,
+        "profile_path": null,
+        "credit_id": "68fae4b7bf746160cacc7808",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769243,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Audrey Hembree",
+        "original_name": "Audrey Hembree",
+        "popularity": 0.0622,
+        "profile_path": null,
+        "credit_id": "68fae4ee0ed05f9f293b0dee",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4464257,
+        "known_for_department": "Directing",
+        "name": "Ayden Haas",
+        "original_name": "Ayden Haas",
+        "popularity": 0.259,
+        "profile_path": null,
+        "credit_id": "68fae50494a68aaafa5a33ef",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769238,
+        "known_for_department": "Camera",
+        "name": "Madelyn Ford",
+        "original_name": "Madelyn Ford",
+        "popularity": 0.0632,
+        "profile_path": null,
+        "credit_id": "68fae512c68970d91c42beb3",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769246,
+        "known_for_department": "Directing",
+        "name": "Erika Giaconia",
+        "original_name": "Erika Giaconia",
+        "popularity": 0.1128,
+        "profile_path": null,
+        "credit_id": "68fae52894a68aaafa5a33fa",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4464257,
+        "known_for_department": "Directing",
+        "name": "Ayden Haas",
+        "original_name": "Ayden Haas",
+        "popularity": 0.259,
+        "profile_path": null,
+        "credit_id": "68fae539345d4e14d042bebe",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769243,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Audrey Hembree",
+        "original_name": "Audrey Hembree",
+        "popularity": 0.0622,
+        "profile_path": null,
+        "credit_id": "68fae5440e30d5ba92018703",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769247,
+        "known_for_department": "Art",
+        "name": "Karis Easler",
+        "original_name": "Karis Easler",
+        "popularity": 0.0683,
+        "profile_path": null,
+        "credit_id": "68fae5700ed05f9f293b0df8",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769248,
+        "known_for_department": "Camera",
+        "name": "Bradyn Dionne",
+        "original_name": "Bradyn Dionne",
+        "popularity": 0.1833,
+        "profile_path": null,
+        "credit_id": "68fae58ac0c59eae4bcc7832",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769250,
+        "known_for_department": "Camera",
+        "name": "Kohen Brooks",
+        "original_name": "Kohen Brooks",
+        "popularity": 0.0608,
+        "profile_path": null,
+        "credit_id": "68fae5a893bb9daf1c42bee4",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769251,
+        "known_for_department": "Camera",
+        "name": "DJ Garrison",
+        "original_name": "DJ Garrison",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68fae5b694a68aaafa5a3404",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769252,
+        "known_for_department": "Crew",
+        "name": "Macy Gibson",
+        "original_name": "Macy Gibson",
+        "popularity": 0.0805,
+        "profile_path": null,
+        "credit_id": "68fae5db01ceb8ef5901872e",
+        "department": "Crew",
+        "job": "Animal Wrangler"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769253,
+        "known_for_department": "Crew",
+        "name": "Alex Persons",
+        "original_name": "Alex Persons",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68fae5eb08c9d266214dc461",
+        "department": "Crew",
+        "job": "Animal Wrangler"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4423018,
+        "known_for_department": "Acting",
+        "name": "Sam Langenfeld",
+        "original_name": "Sam Langenfeld",
+        "popularity": 0.1403,
+        "profile_path": null,
+        "credit_id": "68fae5f9cfa00108454dc449",
+        "department": "Crew",
+        "job": "Animal Wrangler"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769253,
+        "known_for_department": "Crew",
+        "name": "Alex Persons",
+        "original_name": "Alex Persons",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68fae684bf746160cacc780d",
+        "department": "Art",
+        "job": "Greensman"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769221,
+        "known_for_department": "Production",
+        "name": "Daniel Shull",
+        "original_name": "Daniel Shull",
+        "popularity": 0.0435,
+        "profile_path": null,
+        "credit_id": "68fae6a7df108744ea04f646",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769253,
+        "known_for_department": "Crew",
+        "name": "Alex Persons",
+        "original_name": "Alex Persons",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68fae6b4532f97a9e6018729",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769254,
+        "known_for_department": "Production",
+        "name": "Micah Jackson",
+        "original_name": "Micah Jackson",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "68fae6cc6838954e9801870c",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769257,
+        "known_for_department": "Camera",
+        "name": "Madison Boyd",
+        "original_name": "Madison Boyd",
+        "popularity": 0.1339,
+        "profile_path": null,
+        "credit_id": "68fae72beded7cbf47cc7840",
+        "department": "Camera",
+        "job": "BTS Photographer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "A man takes his dog for a walk only to find something otherworldly in the dark.",
+          "runtime": 5,
+          "tagline": "\"Screw you, dog.\"",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1079,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/ltM5e3xLJdWRFMKiUyVWhCKgxs.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1919
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1079,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/uQ7cyNfgYsAAeWdlHBW1oAMeZKH.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1919
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1079,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/c6WH1U3JlzkGxTqBfDo2npTbCJF.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1919
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1079,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/vLGcpRZuHZdqTjAh5ew8X9J6tjh.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1919
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 2985,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/ltCGRiS18e81AgvpmP0EdYpQGJ7.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1990
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "Clemson Film Club",
+            "release_date": "2025-10-02T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "Midpoint Student Film Showcase",
+            "release_date": "2025-10-24T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

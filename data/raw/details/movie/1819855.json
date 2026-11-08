@@ -1,0 +1,173 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1819855,
+  "imdb_id": "tt38773528",
+  "origin_country": [
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_title": "Väsen",
+  "overview": "The young Lennart, a poor farmer, is out hunting with a friend when he stumbles and falls down in a hidden cave. And his life is forever altered.",
+  "popularity": 0.1177,
+  "poster_path": "/kFwXLhcZPPmjdqO9MqialEkyFO7.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "2026-11-05",
+  "revenue": 0,
+  "runtime": 12,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Hollow",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4766821,
+        "known_for_department": "Writing",
+        "name": "Jimmy Ahovalli",
+        "original_name": "Jimmy Ahovalli",
+        "popularity": 0.1836,
+        "profile_path": "/xD6AJXAzj0XYsUZvdZ2uFhmNAFf.jpg",
+        "cast_id": 3,
+        "character": "Kalle",
+        "credit_id": "6aede6fe5343a7dc9e3d146f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2077388,
+        "known_for_department": "Acting",
+        "name": "Björn Lundqvist",
+        "original_name": "Björn Lundqvist",
+        "popularity": 0.1488,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Lennart",
+        "credit_id": "6aede7173ba0f558d13d15ad",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1813810,
+        "known_for_department": "Production",
+        "name": "Jesper Jönsson",
+        "original_name": "Jesper Jönsson",
+        "popularity": 0.1755,
+        "profile_path": null,
+        "credit_id": "6aede6e1c0aa3557983d14dd",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1813810,
+        "known_for_department": "Production",
+        "name": "Jesper Jönsson",
+        "original_name": "Jesper Jönsson",
+        "popularity": 0.1755,
+        "profile_path": null,
+        "credit_id": "6aede6e8fd3374af999a4903",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "The young Lennart, a poor farmer, is out hunting with a friend when he stumbles and falls down in a hidden cave. And his life is forever altered.",
+          "runtime": 12,
+          "tagline": "",
+          "title": "Hollow"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt38773528",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 750,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/kFwXLhcZPPmjdqO9MqialEkyFO7.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 500
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "sv",
+            "note": "Aesthetica Film Festival",
+            "release_date": "2026-11-05T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

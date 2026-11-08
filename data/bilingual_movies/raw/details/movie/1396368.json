@@ -1,0 +1,920 @@
+{
+  "adult": false,
+  "backdrop_path": "/tlAT4zOqxGv0MCkDvuxJDx3nvKK.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1396368,
+  "imdb_id": "tt34865348",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Un hijo",
+  "overview": "Maria, an inexperienced school psychologist, senses that behind the apparent happiness of an eight-year-old boy, who has just arrived at the school, lies a secret, the consequences of which are unpredictable. If she is to find out, she will have to decipher what Guille’s mind translates into drawings, as well as overcoming his father’s intransigence.",
+  "popularity": 1.4463,
+  "poster_path": "/dYnf11rPTqdoXONvVU3OgvNeMe6.jpg",
+  "production_companies": [
+    {
+      "id": 121337,
+      "logo_path": "/jV3YAGdVjrB0mj7po4Cru2ph1aN.png",
+      "name": "Capitán Araña",
+      "origin_country": "ES"
+    },
+    {
+      "id": 246173,
+      "logo_path": null,
+      "name": "Guion Alto",
+      "origin_country": ""
+    },
+    {
+      "id": 246174,
+      "logo_path": null,
+      "name": "Veleta Films AIE",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2026-05-15",
+  "revenue": 0,
+  "runtime": 95,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "A Son",
+  "video": false,
+  "vote_average": 8.2,
+  "vote_count": 21,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1091128,
+        "known_for_department": "Acting",
+        "name": "Macarena García",
+        "original_name": "Macarena García",
+        "popularity": 0.6333,
+        "profile_path": "/g0oqhCQ8FgVww2A3NQtQ03TanH3.jpg",
+        "cast_id": 2,
+        "character": "María",
+        "credit_id": "674d9f8dd57747f211579784",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5094769,
+        "known_for_department": "Acting",
+        "name": "Ian Cortegoso",
+        "original_name": "Ian Cortegoso",
+        "popularity": 0.1081,
+        "profile_path": "/aJhbQcE27J9XWqpChwsMPVUNX9n.jpg",
+        "cast_id": 4,
+        "character": "Guille",
+        "credit_id": "674d9fa305af10015fb8377a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 112901,
+        "known_for_department": "Acting",
+        "name": "Hugo Silva",
+        "original_name": "Hugo Silva",
+        "popularity": 0.3564,
+        "profile_path": "/aMhffSrBefGQstniOtsJf3kEfNH.jpg",
+        "cast_id": 3,
+        "character": "Manuel",
+        "credit_id": "674d9f98649cac93cb64230c",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6534,
+        "known_for_department": "Acting",
+        "name": "Jesús Carroza",
+        "original_name": "Jesús Carroza",
+        "popularity": 0.2478,
+        "profile_path": "/klUgDNvTYhOAFDP0gCE9s3NulZM.jpg",
+        "cast_id": 52,
+        "character": "Roberto",
+        "credit_id": "69e88d1f3dbad4666be43ffc",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2763352,
+        "known_for_department": "Writing",
+        "name": "Javier Aguayo",
+        "original_name": "Javier Aguayo",
+        "popularity": 0.2289,
+        "profile_path": "/8jLAzstevb1PMsi8DcTfYxDAE4k.jpg",
+        "cast_id": 15,
+        "character": "Paco",
+        "credit_id": "69e87e7fb0e033ef7fe0cd70",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1685615,
+        "known_for_department": "Acting",
+        "name": "Chema del Barco",
+        "original_name": "Chema del Barco",
+        "popularity": 0.3891,
+        "profile_path": "/xDqPC3FvDZclYJnSHmmIJZ9qza7.jpg",
+        "cast_id": 16,
+        "character": "Emilio",
+        "credit_id": "69e87e964be41d2a32c011ea",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4980311,
+        "known_for_department": "Acting",
+        "name": "Silvia Larrauri",
+        "original_name": "Silvia Larrauri",
+        "popularity": 0.1548,
+        "profile_path": "/pQDzBiiDg5V74QeQaLQ7dLKuZjF.jpg",
+        "cast_id": 17,
+        "character": "Secretaria",
+        "credit_id": "69e87ec7fcfe6c4e2239d909",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1110443,
+        "known_for_department": "Acting",
+        "name": "Daniel Mantero",
+        "original_name": "Daniel Mantero",
+        "popularity": 0.1048,
+        "profile_path": "/zIQmzAYUUtzP6im6pGq3Mu20nSa.jpg",
+        "cast_id": 18,
+        "character": "Fernando",
+        "credit_id": "69e87ee2ae9c4085a7097b90",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4643460,
+        "known_for_department": "Acting",
+        "name": "Esther Noya",
+        "original_name": "Esther Noya",
+        "popularity": 0.4978,
+        "profile_path": "/1ypPzv0k5TCGAwSwrhrI66fHYhx.jpg",
+        "cast_id": 19,
+        "character": "Alicia",
+        "credit_id": "69e87f2081a4083ecf097c12",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6159878,
+        "known_for_department": "Acting",
+        "name": "Eva Tirado",
+        "original_name": "Eva Tirado",
+        "popularity": 0.0254,
+        "profile_path": "/3eomiRRGV0MzsUxqUZhLk66qIRg.jpg",
+        "cast_id": 20,
+        "character": "Amelia",
+        "credit_id": "69e87f4b956aa3a3adaae8b3",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1956327,
+        "known_for_department": "Acting",
+        "name": "Tania Watson",
+        "original_name": "Tania Watson",
+        "popularity": 0.1951,
+        "profile_path": "/mk7cuiAvPiz1EO0rYs3fhbITpb8.jpg",
+        "cast_id": 21,
+        "character": "Amanda",
+        "credit_id": "69e87f87a8471c4c11097b9b",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1331728,
+        "known_for_department": "Acting",
+        "name": "Adelfa Calvo",
+        "original_name": "Adelfa Calvo",
+        "popularity": 0.3726,
+        "profile_path": "/uC6ZquT9cTTgZfJ1SLMTYZXrU1u.jpg",
+        "cast_id": 53,
+        "character": "Señora Tranvía",
+        "credit_id": "69e89fb69fd605bfd2cd551c",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1563107,
+        "known_for_department": "Directing",
+        "name": "Nacho La Casa",
+        "original_name": "Nacho La Casa",
+        "popularity": 0.5426,
+        "profile_path": "/3jvSPCnF9ckqELrtJl5JXO9j2dr.jpg",
+        "credit_id": "674d9f77d57747f211579774",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5094770,
+        "known_for_department": "Writing",
+        "name": "Alejandro Palomas",
+        "original_name": "Alejandro Palomas",
+        "popularity": 0.0755,
+        "profile_path": "/5cssfrgfPMAJR6eZYrD85P4URAL.jpg",
+        "credit_id": "674ed6385298868464b8a156",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1563107,
+        "known_for_department": "Directing",
+        "name": "Nacho La Casa",
+        "original_name": "Nacho La Casa",
+        "popularity": 0.5426,
+        "profile_path": "/3jvSPCnF9ckqELrtJl5JXO9j2dr.jpg",
+        "credit_id": "674ed662d27dcf00523f4012",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3331506,
+        "known_for_department": "Writing",
+        "name": "Juan Apolo",
+        "original_name": "Juan Apolo",
+        "popularity": 0.2167,
+        "profile_path": null,
+        "credit_id": "674ed66df595235acbe3bbe4",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1563107,
+        "known_for_department": "Directing",
+        "name": "Nacho La Casa",
+        "original_name": "Nacho La Casa",
+        "popularity": 0.5426,
+        "profile_path": "/3jvSPCnF9ckqELrtJl5JXO9j2dr.jpg",
+        "credit_id": "69142e6370048d82ec9aceae",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1143000,
+        "known_for_department": "Editing",
+        "name": "Ana Álvarez-Ossorio",
+        "original_name": "Ana Álvarez-Ossorio",
+        "popularity": 0.3559,
+        "profile_path": "/7BDuVbDao7hAwBV6WwJeqzbItmr.jpg",
+        "credit_id": "69142e6d579b325ab63a3bef",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1096500,
+        "known_for_department": "Camera",
+        "name": "Santiago Racaj",
+        "original_name": "Santiago Racaj",
+        "popularity": 0.1543,
+        "profile_path": "/bzkt7OYkbkOZ06LeDTbw7ZaDpNK.jpg",
+        "credit_id": "69142e775fb76ce1f8a0d65e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6011458,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Fran Grande",
+        "original_name": "Fran Grande",
+        "popularity": 0.1221,
+        "profile_path": "/nWaMsuVqndfMQmXz74QlKUuj3SU.jpg",
+        "credit_id": "69a775c094b4a62a1474fe54",
+        "department": "Costume & Make-Up",
+        "job": "Costume Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1116673,
+        "known_for_department": "Sound",
+        "name": "Zeltia Montes",
+        "original_name": "Zeltia Montes",
+        "popularity": 0.1764,
+        "profile_path": "/hZFHYEBzBD4TIG1ydDwptAvO59W.jpg",
+        "credit_id": "69e87fa23dbad4666be43fd1",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2230103,
+        "known_for_department": "Production",
+        "name": "Marichu Sanz",
+        "original_name": "Marichu Sanz",
+        "popularity": 0.1982,
+        "profile_path": "/bmGcGXGxMsybi5w8kGT81peJo1.jpg",
+        "credit_id": "69e87fb8c38c428c7f097db3",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1586199,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Lourdes Fuentes",
+        "original_name": "Lourdes Fuentes",
+        "popularity": 0.2256,
+        "profile_path": "/bSEfTCPPXYbOzdaLXaI1bQ7BHeX.jpg",
+        "credit_id": "69e87fea361ec7d853cd5443",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2466470,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Anabel Beato",
+        "original_name": "Anabel Beato",
+        "popularity": 0.2369,
+        "profile_path": "/db2JrgHpieJMWzTZeCvJvf0qyXO.jpg",
+        "credit_id": "69e87fff4f95d8b30b097c1e",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2269497,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Carmela Martín",
+        "original_name": "Carmela Martín",
+        "popularity": 0.1017,
+        "profile_path": "/5aJHdcM21oTdo0gtLOnMgvo1qg6.jpg",
+        "credit_id": "69e88010bae10a9971097c29",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5316348,
+        "known_for_department": "Production",
+        "name": "Javier Mateos",
+        "original_name": "Javier Mateos",
+        "popularity": 0.057,
+        "profile_path": "/fFqnbpNjBDKr04pbZYXNagBQHdl.jpg",
+        "credit_id": "69e880290ec18817b52409ee",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2056891,
+        "known_for_department": "Directing",
+        "name": "Rafael Carmona",
+        "original_name": "Rafael Carmona",
+        "popularity": 0.1117,
+        "profile_path": "/flA6YnntK7kVWTMGnqjA6ReEC4m.jpg",
+        "credit_id": "69e8805ede44a74580e0cbb8",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6159880,
+        "known_for_department": "Art",
+        "name": "Álvaro Gea",
+        "original_name": "Álvaro Gea",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "69e8809fc94c2d807faae92a",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6159881,
+        "known_for_department": "Art",
+        "name": "Paz Juste Supervía",
+        "original_name": "Paz Juste Supervía",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69e880be47208450f2c011b8",
+        "department": "Art",
+        "job": "Assistant Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5126186,
+        "known_for_department": "Sound",
+        "name": "Daniel Berenguer",
+        "original_name": "Daniel Berenguer",
+        "popularity": 0.107,
+        "profile_path": null,
+        "credit_id": "69e881075fc4783d3d39d884",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3004265,
+        "known_for_department": "Sound",
+        "name": "Giacomo Corzani",
+        "original_name": "Giacomo Corzani",
+        "popularity": 0.1396,
+        "profile_path": "/uB9Ydsu3JsO7Ajc1PmoJd1zsos2.jpg",
+        "credit_id": "69e8811ec350aa7188097bfe",
+        "department": "Sound",
+        "job": "Foley Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2485397,
+        "known_for_department": "Sound",
+        "name": "Mar González",
+        "original_name": "Mar González",
+        "popularity": 0.0697,
+        "profile_path": null,
+        "credit_id": "69e881520418294c83aae955",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5316349,
+        "known_for_department": "Sound",
+        "name": "Raúl Martín Rabaneda",
+        "original_name": "Raúl Martín Rabaneda",
+        "popularity": 0.0554,
+        "profile_path": null,
+        "credit_id": "69e881669addd2bdd8240a67",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1586210,
+        "known_for_department": "Sound",
+        "name": "Nacho Royo-Villanova",
+        "original_name": "Nacho Royo-Villanova",
+        "popularity": 0.1378,
+        "profile_path": "/c85LmD98RGcdHbiU9lyxR7NgM3Q.jpg",
+        "credit_id": "69e8817a40fe7a184e23f378",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1779817,
+        "known_for_department": "Sound",
+        "name": "Sergio Testón",
+        "original_name": "Sergio Testón",
+        "popularity": 0.3456,
+        "profile_path": "/oUpqyGtyYrBnL1h80myF7vyNZCO.jpg",
+        "credit_id": "69e88190dd1b7ccfc639d92f",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2647633,
+        "known_for_department": "Sound",
+        "name": "Maider Urkitza",
+        "original_name": "Maider Urkitza",
+        "popularity": 0.219,
+        "profile_path": "/hR1qvldxAMfO9O2G21UoC4eVwRT.jpg",
+        "credit_id": "69e881ae2acaddea8523f448",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3365024,
+        "known_for_department": "Editing",
+        "name": "Delia Julián Martín",
+        "original_name": "Delia Julián Martín",
+        "popularity": 0.1088,
+        "profile_path": "/yfXgfU2GyH5FmmCVvRQ3t0p0jJH.jpg",
+        "credit_id": "69e881c9945ed46b64c012b6",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3527462,
+        "known_for_department": "Lighting",
+        "name": "Lorena Balbuena",
+        "original_name": "Lorena Balbuena",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "69e88205792efa24fee0cc33",
+        "department": "Crew",
+        "job": "Video Assist Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2642018,
+        "known_for_department": "Lighting",
+        "name": "Emilio Cabello",
+        "original_name": "Emilio Cabello",
+        "popularity": 0.1038,
+        "profile_path": null,
+        "credit_id": "69e88221792efa24fee0cc37",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6159884,
+        "known_for_department": "Camera",
+        "name": "Paco Martín",
+        "original_name": "Paco Martín",
+        "popularity": 0.0502,
+        "profile_path": null,
+        "credit_id": "69e8827a0418294c83aae969",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6159885,
+        "known_for_department": "Camera",
+        "name": "Ulises Proust",
+        "original_name": "Ulises Proust",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69e88292423fad2ec8e0cc2c",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1096500,
+        "known_for_department": "Camera",
+        "name": "Santiago Racaj",
+        "original_name": "Santiago Racaj",
+        "popularity": 0.1543,
+        "profile_path": "/bzkt7OYkbkOZ06LeDTbw7ZaDpNK.jpg",
+        "credit_id": "69e882a08db0222c5023f3e4",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5732061,
+        "known_for_department": "Camera",
+        "name": "Jairo Rayas",
+        "original_name": "Jairo Rayas",
+        "popularity": 0.0501,
+        "profile_path": null,
+        "credit_id": "69e882b534c55309dccd5422",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2529916,
+        "known_for_department": "Lighting",
+        "name": "Ignacio Romanillos",
+        "original_name": "Ignacio Romanillos",
+        "popularity": 0.1141,
+        "profile_path": "/aqmDIPr2wH9Mjhc7AUdGQMkHdct.jpg",
+        "credit_id": "69e882c8962ed8de16c01225",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3716954,
+        "known_for_department": "Editing",
+        "name": "Ibon Calleja",
+        "original_name": "Ibon Calleja",
+        "popularity": 0.0744,
+        "profile_path": "/ve0SmjF60pY5fP0aEc540TYtlOD.jpg",
+        "credit_id": "69e88319b0bfaa06b823f4b6",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3365024,
+        "known_for_department": "Editing",
+        "name": "Delia Julián Martín",
+        "original_name": "Delia Julián Martín",
+        "popularity": 0.1088,
+        "profile_path": "/yfXgfU2GyH5FmmCVvRQ3t0p0jJH.jpg",
+        "credit_id": "69e8834cbae10a9971097c76",
+        "department": "Editing",
+        "job": "Online Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5914695,
+        "known_for_department": "Directing",
+        "name": "Sara Cobos Benito",
+        "original_name": "Sara Cobos Benito",
+        "popularity": 0.0955,
+        "profile_path": "/sO2iLhJ8qga3EaAwLMXo6BsFYEc.jpg",
+        "credit_id": "69e8837b926b824f71c012dc",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3365025,
+        "known_for_department": "Editing",
+        "name": "Sandra Otero",
+        "original_name": "Sandra Otero",
+        "popularity": 0.095,
+        "profile_path": "/z9ExzLIemqAICqdfmpAJEVxr9av.jpg",
+        "credit_id": "69e8838cbae10a9971097c79",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6159887,
+        "known_for_department": "Production",
+        "name": "Christian Delarge",
+        "original_name": "Christian Delarge",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69e883bde8b86128c7e43f09",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6159888,
+        "known_for_department": "Production",
+        "name": "Luisa Martín Roldós",
+        "original_name": "Luisa Martín Roldós",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "69e883dfc350aa7188097c09",
+        "department": "Production",
+        "job": "Assistant Production Manager"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Maria, an inexperienced school psychologist, senses that behind the apparent happiness of an eight-year-old boy, who has just arrived at the school, lies a secret, the consequences of which are unpredictable. If she is to find out, she will have to decipher what Guille’s mind translates into drawings, as well as overcoming his father’s intransigence.",
+          "runtime": 95,
+          "tagline": "",
+          "title": "A Son"
+        }
+      },
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "María, una psicóloga escolar sin experiencia, intuye que, tras la aparente felicidad de un niño de 8 años recién llegado al cole, se esconde un drama de terribles consecuencias. Para averiguarlo deberá descifrar lo que la mente de Guille traduce en dibujos y, además, vencer la agresiva resistencia de su padre.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt34865348",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.782,
+        "height": 864,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/tlAT4zOqxGv0MCkDvuxJDx3nvKK.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1540
+      },
+      {
+        "aspect_ratio": 1.782,
+        "height": 864,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/gsFWhTWjzbsKKfE8kOWoO9TPvzy.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1540
+      },
+      {
+        "aspect_ratio": 1.782,
+        "height": 864,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/33a19TLYFx16mKsJ6Zb2CJfAsrv.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1540
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/tNc3JLpVWiDAAEdvv247rU6ZEK1.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/sV9mppcg43W9gwzP9pWHHfMWCvv.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/kTBMq5TtdvJcE7RWBYETjZmKizo.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/lbCzwf05GSNCTdegax6NDLbW0p5.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 2812,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/yhDTLlfTxoskcylHwOQE9hOZqIV.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1875
+      },
+      {
+        "aspect_ratio": 0.7,
+        "height": 1286,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/dYnf11rPTqdoXONvVU3OgvNeMe6.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 900
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "EG",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Cairo International Film Festival",
+            "release_date": "2025-11-15T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-05-15T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "A SON. Official trailer. May 8 in theaters.",
+        "key": "U6aVs6Xdvxk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "69b564aa4855bc66d13b8c59",
+        "published_at": "2026-03-03T14:48:17.000Z"
+      }
+    ]
+  }
+}

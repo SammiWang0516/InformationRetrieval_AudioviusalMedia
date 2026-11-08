@@ -1,0 +1,384 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 1000,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1532517,
+  "imdb_id": "tt26918690",
+  "origin_country": [
+    "CL"
+  ],
+  "original_language": "en",
+  "original_title": "Trascender",
+  "overview": "In the near future, María faces the unexpected death of her husband after New Year's Eve. After being depressed for some time due to this sudden loss, she goes to a place where, through a simulation, they manage to recreate their last important memory together, where she manages to have a connection with him.",
+  "popularity": 1.4222,
+  "poster_path": "/nG3xPXDdNxwCOe7DbGWVDoeyUXi.jpg",
+  "production_companies": [
+    {
+      "id": 271599,
+      "logo_path": null,
+      "name": "mycelium films spa",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CL",
+      "name": "Chile"
+    }
+  ],
+  "release_date": "2025-08-21",
+  "revenue": 0,
+  "runtime": 16,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Trascender",
+  "title": "Trascender",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1161655,
+        "known_for_department": "Acting",
+        "name": "María Olga Matte",
+        "original_name": "María Olga Matte",
+        "popularity": 0.5794,
+        "profile_path": "/wpXX6Cws2kf4Mm3pVf2cnj5HDVQ.jpg",
+        "cast_id": 2,
+        "character": "María",
+        "credit_id": "68a47355edf75a271317d4e6",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66901,
+        "known_for_department": "Acting",
+        "name": "Néstor Cantillana",
+        "original_name": "Néstor Cantillana",
+        "popularity": 0.2043,
+        "profile_path": "/1wtd7uBC6w3MlJiIhSDCbXpiqcW.jpg",
+        "cast_id": 3,
+        "character": "Esteban",
+        "credit_id": "68a473685db86cede6da587f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4967154,
+        "known_for_department": "Acting",
+        "name": "Darius Zee",
+        "original_name": "Darius Zee",
+        "popularity": 0.4623,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Doctor",
+        "credit_id": "68a473a5fe0a52dc2944b827",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2224328,
+        "known_for_department": "Acting",
+        "name": "Félix Villar",
+        "original_name": "Félix Villar",
+        "popularity": 0.1134,
+        "profile_path": "/iv7T1HEGn6XgH1BC8z0GTs6oS2e.jpg",
+        "cast_id": 5,
+        "character": "Francisco",
+        "credit_id": "68a473b41706a7c9d89f617b",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2162652,
+        "known_for_department": "Camera",
+        "name": "Manuel Vlastelica",
+        "original_name": "Manuel Vlastelica",
+        "popularity": 0.0664,
+        "profile_path": "/mJJeBnDD1iouCau9lZ6il3vLj8h.jpg",
+        "credit_id": "68a478047121e58051ca77f2",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5108747,
+        "known_for_department": "Camera",
+        "name": "Vicente Bustos",
+        "original_name": "Vicente Bustos",
+        "popularity": 0.1936,
+        "profile_path": null,
+        "credit_id": "68a47816facfa023769f62aa",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5635678,
+        "known_for_department": "Directing",
+        "name": "Valeria Rojas",
+        "original_name": "Valeria Rojas",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "68a4785d2e838056999f6207",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5635680,
+        "known_for_department": "Production",
+        "name": "Camila Urban",
+        "original_name": "Camila Urban",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68a47898eb21cf4103567ec5",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5635681,
+        "known_for_department": "Production",
+        "name": "Camila Espinoza",
+        "original_name": "Camila Espinoza",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "68a478b84749484c7c6def0d",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4518252,
+        "known_for_department": "Sound",
+        "name": "Claudio Carrasco",
+        "original_name": "Claudio Carrasco",
+        "popularity": 0.0868,
+        "profile_path": null,
+        "credit_id": "68a478d41eab238ac258d9a2",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4518252,
+        "known_for_department": "Sound",
+        "name": "Claudio Carrasco",
+        "original_name": "Claudio Carrasco",
+        "popularity": 0.0868,
+        "profile_path": null,
+        "credit_id": "68a478e029bfd5e2a2567f5d",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2962555,
+        "known_for_department": "Sound",
+        "name": "Martín Schlotfeldt",
+        "original_name": "Martín Schlotfeldt",
+        "popularity": 0.0359,
+        "profile_path": null,
+        "credit_id": "68a478f623946a979cca78cc",
+        "department": "Sound",
+        "job": "Music Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5635754,
+        "known_for_department": "Production",
+        "name": "Fabian Espinoza",
+        "original_name": "Fabian Espinoza",
+        "popularity": 0.0406,
+        "profile_path": null,
+        "credit_id": "68a480bde52be272a558d9ab",
+        "department": "Production",
+        "job": "Post Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1696624,
+        "known_for_department": "Editing",
+        "name": "Valeria Hernández",
+        "original_name": "Valeria Hernández",
+        "popularity": 0.1575,
+        "profile_path": null,
+        "credit_id": "68a4810ddba06b72a59f61c3",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4701707,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Francisco Aravena",
+        "original_name": "Francisco Aravena",
+        "popularity": 0.0573,
+        "profile_path": null,
+        "credit_id": "68a4812c5cd17ed95f58d944",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2311191,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Antonia Mujica",
+        "original_name": "Antonia Mujica",
+        "popularity": 0.6247,
+        "profile_path": null,
+        "credit_id": "68a4815afacfa023769f62cf",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5108747,
+        "known_for_department": "Camera",
+        "name": "Vicente Bustos",
+        "original_name": "Vicente Bustos",
+        "popularity": 0.1936,
+        "profile_path": null,
+        "credit_id": "68a481d1c36a455fd217d435",
+        "department": "Writing",
+        "job": "Author"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 1576,
+        "name": "technology"
+      },
+      {
+        "id": 249880,
+        "name": "futuro"
+      },
+      {
+        "id": 287067,
+        "name": "science"
+      },
+      {
+        "id": 357353,
+        "name": "néstor cantillana"
+      },
+      {
+        "id": 357354,
+        "name": "ciencia ficcion"
+      },
+      {
+        "id": 357355,
+        "name": "cortometraje chileno"
+      },
+      {
+        "id": 357356,
+        "name": "melancolía"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "In the near future, María faces the unexpected death of her husband after New Year's Eve. After being depressed for some time due to this sudden loss, she goes to a place where, through a simulation, they manage to recreate their last important memory together, where she manages to have a connection with him.",
+          "runtime": 16,
+          "tagline": "Trascender",
+          "title": "Trascender"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt26918690",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/5nUcJyijQ2kPAEFMnCpr3mbwBoh.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "SANFIC21",
+            "release_date": "2025-08-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

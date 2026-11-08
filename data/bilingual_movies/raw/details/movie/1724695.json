@@ -1,0 +1,867 @@
+{
+  "adult": false,
+  "backdrop_path": "/8uohSGc3zcRq3CxHSJbITtQx5U6.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1724695,
+  "imdb_id": null,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_title": "TROPIC",
+  "overview": "Attempting to wash her late older sister’s Hawaiian shirt, locks SUN, 23, in a space between memory and nightmare. Haunted by a tropical monster in a surreal dreamscape, Sun is forced to confront the one thing she has avoided since her sister’s death: herself.",
+  "popularity": 0.7183,
+  "poster_path": "/55B3RwyyZLv2J7FdgJCyByiNPUu.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "release_date": "2026-07-20",
+  "revenue": 0,
+  "runtime": 19,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "TROPIC",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6236079,
+        "known_for_department": "Acting",
+        "name": "Bae Min-su",
+        "original_name": "배민수",
+        "popularity": 0.1983,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Sun",
+        "credit_id": "6a562b3d8222faab9cdae5b9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347385,
+        "known_for_department": "Acting",
+        "name": "Kim Daa",
+        "original_name": "Kim Daa",
+        "popularity": 0.0552,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Seou",
+        "credit_id": "6a562c19ff818e453ccf2981",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1303912,
+        "known_for_department": "Directing",
+        "name": "Alistair Quak",
+        "original_name": "Alistair Quak",
+        "popularity": 0.1137,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Tropic",
+        "credit_id": "6a562c3adb08bea3d5c0ea68",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1763964,
+        "known_for_department": "Directing",
+        "name": "Kim Jae Hyung",
+        "original_name": "Kim Jae Hyung",
+        "popularity": 0.228,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Tropic",
+        "credit_id": "6a562c4d35b3d3ce92a61f9c",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347421,
+        "known_for_department": "Directing",
+        "name": "Park Jung Yoon",
+        "original_name": "Park Jung Yoon",
+        "popularity": 0.273,
+        "profile_path": null,
+        "credit_id": "6a562ce25a9852e8c0768b41",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347425,
+        "known_for_department": "Production",
+        "name": "Lee Sng Moo",
+        "original_name": "Lee Sng Moo",
+        "popularity": 0.0614,
+        "profile_path": null,
+        "credit_id": "6a562cf3b28f382e88cf2a78",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347427,
+        "known_for_department": "Production",
+        "name": "Kang Seung Pyo",
+        "original_name": "Kang Seung Pyo",
+        "popularity": 0.0669,
+        "profile_path": null,
+        "credit_id": "6a562d076d053b477bcf2d5e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347428,
+        "known_for_department": "Camera",
+        "name": "Jung Da Bin",
+        "original_name": "Jung Da Bin",
+        "popularity": 0.0617,
+        "profile_path": null,
+        "credit_id": "6a562d172bb8f71c72dae632",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347431,
+        "known_for_department": "Lighting",
+        "name": "Shin Hyung Jun",
+        "original_name": "Shin Hyung Jun",
+        "popularity": 0.0666,
+        "profile_path": null,
+        "credit_id": "6a562d27771a2e0704663f49",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347435,
+        "known_for_department": "Art",
+        "name": "Kim Hakju",
+        "original_name": "Kim Hakju",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "6a562d40c3df84af11ae80e8",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347437,
+        "known_for_department": "Sound",
+        "name": "Jang So Hyun",
+        "original_name": "Jang So Hyun",
+        "popularity": 0.0673,
+        "profile_path": null,
+        "credit_id": "6a562d64cf3d8462d8a6212d",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347439,
+        "known_for_department": "Sound",
+        "name": "Ched Pahc",
+        "original_name": "Ched Pahc",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a562d7954c5b4f0e5e11ac0",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347441,
+        "known_for_department": "Directing",
+        "name": "Samuel Read",
+        "original_name": "Samuel Read",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a562d89ba73fa2ab7a62512",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347475,
+        "known_for_department": "Directing",
+        "name": "Jesslyn Tristan",
+        "original_name": "Jesslyn Tristan",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a562f234e1c5c6d86a6245e",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347477,
+        "known_for_department": "Directing",
+        "name": "Han Joo Heon",
+        "original_name": "Han Joo Heon",
+        "popularity": 0.0611,
+        "profile_path": null,
+        "credit_id": "6a562f368246acf6ffdae1b5",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347480,
+        "known_for_department": "Directing",
+        "name": "Wan Yunhan",
+        "original_name": "Wan Yunhan",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a562f4d4e1c5c6d86a62468",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347482,
+        "known_for_department": "Production",
+        "name": "Choung Jiae",
+        "original_name": "Choung Jiae",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a562f5eba73fa2ab7a6258e",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347484,
+        "known_for_department": "Production",
+        "name": "Satarova Jibek",
+        "original_name": "Satarova Jibek",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a562f6fdb08bea3d5c0eae8",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347493,
+        "known_for_department": "Production",
+        "name": "Park Jin Soo",
+        "original_name": "Park Jin Soo",
+        "popularity": 0.0614,
+        "profile_path": null,
+        "credit_id": "6a562fcc3a42d908f6ef2632",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347494,
+        "known_for_department": "Production",
+        "name": "Yoon Seung Mok",
+        "original_name": "Yoon Seung Mok",
+        "popularity": 0.0611,
+        "profile_path": null,
+        "credit_id": "6a562fd50a91c1bc29664203",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347496,
+        "known_for_department": "Camera",
+        "name": "Han Sang Wook",
+        "original_name": "Han Sang Wook",
+        "popularity": 0.0617,
+        "profile_path": null,
+        "credit_id": "6a562fddf56173b5c8768b6c",
+        "department": "Camera",
+        "job": "Focus Puller"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347502,
+        "known_for_department": "Camera",
+        "name": "Lee Han Jae",
+        "original_name": "Lee Han Jae",
+        "popularity": 0.0614,
+        "profile_path": null,
+        "credit_id": "6a56302d40b4da8cfddae622",
+        "department": "Camera",
+        "job": "Camera Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347503,
+        "known_for_department": "Camera",
+        "name": "Kwon Ho Min",
+        "original_name": "Kwon Ho Min",
+        "popularity": 0.0548,
+        "profile_path": null,
+        "credit_id": "6a5630401960104bc47689ba",
+        "department": "Camera",
+        "job": "Camera Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347504,
+        "known_for_department": "Camera",
+        "name": "Seo Jung Oh",
+        "original_name": "Seo Jung Oh",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a56304f4cf5d12259ef2b32",
+        "department": "Camera",
+        "job": "Camera Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347508,
+        "known_for_department": "Lighting",
+        "name": "No Jeong Taek",
+        "original_name": "No Jeong Taek",
+        "popularity": 0.0611,
+        "profile_path": null,
+        "credit_id": "6a5630721960104bc47689c7",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347509,
+        "known_for_department": "Lighting",
+        "name": "Lim Jin Woo",
+        "original_name": "Lim Jin Woo",
+        "popularity": 0.0611,
+        "profile_path": null,
+        "credit_id": "6a5630812f0a824ae9ae8482",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347510,
+        "known_for_department": "Lighting",
+        "name": "Park Min Ji",
+        "original_name": "Park Min Ji",
+        "popularity": 0.0611,
+        "profile_path": null,
+        "credit_id": "6a5630a0fb0742ec2bef294f",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347512,
+        "known_for_department": "Sound",
+        "name": "Jin Haneul",
+        "original_name": "Jin Haneul",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a5630d92bb8f71c72dae656",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347519,
+        "known_for_department": "Art",
+        "name": "Lee Jina",
+        "original_name": "Lee Jina",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a5631352ba17ab846a622df",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347526,
+        "known_for_department": "Art",
+        "name": "Yoon Ki Seon",
+        "original_name": "Yoon Ki Seon",
+        "popularity": 0.0611,
+        "profile_path": null,
+        "credit_id": "6a56317dfb0742ec2bef2964",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347528,
+        "known_for_department": "Art",
+        "name": "Huh Gae Un",
+        "original_name": "Huh Gae Un",
+        "popularity": 0.0622,
+        "profile_path": null,
+        "credit_id": "6a56318a36e2e3bc7ccf2a71",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3114437,
+        "known_for_department": "Acting",
+        "name": "Jang Yu Bin",
+        "original_name": "Jang Yu Bin",
+        "popularity": 0.0868,
+        "profile_path": null,
+        "credit_id": "6a56319c2f0a824ae9ae8491",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5092856,
+        "known_for_department": "Acting",
+        "name": "Ye Yifan",
+        "original_name": "Ye Yifan",
+        "popularity": 0.0605,
+        "profile_path": null,
+        "credit_id": "6a5631b16f9859fb94663d94",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347538,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Lai wing lam jenny",
+        "original_name": "Lai wing lam jenny",
+        "popularity": 0.0559,
+        "profile_path": null,
+        "credit_id": "6a5631f185b98971b7e11d5a",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347539,
+        "known_for_department": "Production",
+        "name": "Kim Hakju",
+        "original_name": "Kim Hakju",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a56320b2ba17ab846a622f3",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347540,
+        "known_for_department": "Art",
+        "name": "Kang Dae Sun",
+        "original_name": "Kang Dae Sun",
+        "popularity": 0.0548,
+        "profile_path": null,
+        "credit_id": "6a56322d1960104bc47689da",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347541,
+        "known_for_department": "Art",
+        "name": "Bak Teh Ho",
+        "original_name": "Bak Teh Ho",
+        "popularity": 0.0611,
+        "profile_path": null,
+        "credit_id": "6a56325b771a2e0704663fc8",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347542,
+        "known_for_department": "Art",
+        "name": "Park Myeong Un",
+        "original_name": "Park Myeong Un",
+        "popularity": 0.037,
+        "profile_path": null,
+        "credit_id": "6a56328936e2e3bc7ccf2ab6",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347544,
+        "known_for_department": "Art",
+        "name": "Kim Jung kyun",
+        "original_name": "Kim Jung kyun",
+        "popularity": 0.0614,
+        "profile_path": null,
+        "credit_id": "6a56329ff39988d625664156",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347545,
+        "known_for_department": "Visual Effects",
+        "name": "TPY System",
+        "original_name": "TPY System",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a5632b58222faab9cdae694",
+        "department": "Visual Effects",
+        "job": "Creature Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347546,
+        "known_for_department": "Visual Effects",
+        "name": "Kim Sunil",
+        "original_name": "Kim Sunil",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a5632ed2f0a824ae9ae84c0",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347547,
+        "known_for_department": "Visual Effects",
+        "name": "Lim Soo Jin",
+        "original_name": "Lim Soo Jin",
+        "popularity": 0.0663,
+        "profile_path": null,
+        "credit_id": "6a5632f6f39988d625664160",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347548,
+        "known_for_department": "Visual Effects",
+        "name": "Jung Yoon Hee",
+        "original_name": "Jung Yoon Hee",
+        "popularity": 0.0614,
+        "profile_path": null,
+        "credit_id": "6a56330ec3df84af11ae8131",
+        "department": "Visual Effects",
+        "job": "VFX Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347550,
+        "known_for_department": "Visual Effects",
+        "name": "Park Da Won",
+        "original_name": "Park Da Won",
+        "popularity": 0.0548,
+        "profile_path": null,
+        "credit_id": "6a56331a36e2e3bc7ccf2ac6",
+        "department": "Visual Effects",
+        "job": "VFX Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347551,
+        "known_for_department": "Visual Effects",
+        "name": "Han Song Yi",
+        "original_name": "Han Song Yi",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a5633272f0a824ae9ae84d2",
+        "department": "Visual Effects",
+        "job": "VFX Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347553,
+        "known_for_department": "Visual Effects",
+        "name": "Kim Yeji",
+        "original_name": "Kim Yeji",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a56335a934252192dc0eda5",
+        "department": "Visual Effects",
+        "job": "VFX Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347544,
+        "known_for_department": "Art",
+        "name": "Kim Jung kyun",
+        "original_name": "Kim Jung kyun",
+        "popularity": 0.0614,
+        "profile_path": null,
+        "credit_id": "6a56336f85b98971b7e11d86",
+        "department": "Visual Effects",
+        "job": "VFX Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3330724,
+        "known_for_department": "Acting",
+        "name": "Park Sung Hyun",
+        "original_name": "Park Sung Hyun",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "6a5633884cf5d12259ef2b59",
+        "department": "Visual Effects",
+        "job": "VFX Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347554,
+        "known_for_department": "Visual Effects",
+        "name": "Kim Seo Young",
+        "original_name": "Kim Seo Young",
+        "popularity": 0.0614,
+        "profile_path": null,
+        "credit_id": "6a56339a2bb8f71c72dae680",
+        "department": "Visual Effects",
+        "job": "VFX Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1303912,
+        "known_for_department": "Directing",
+        "name": "Alistair Quak",
+        "original_name": "Alistair Quak",
+        "popularity": 0.1137,
+        "profile_path": null,
+        "credit_id": "6a5633c436e2e3bc7ccf2ace",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347555,
+        "known_for_department": "Editing",
+        "name": "Jung Da Bin",
+        "original_name": "Jung Da Bin",
+        "popularity": 0.0611,
+        "profile_path": null,
+        "credit_id": "6a5633d6062fe48c6ac0eacb",
+        "department": "Editing",
+        "job": "Color Grading"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347421,
+        "known_for_department": "Directing",
+        "name": "Park Jung Yoon",
+        "original_name": "Park Jung Yoon",
+        "popularity": 0.273,
+        "profile_path": null,
+        "credit_id": "6a5633f4062fe48c6ac0ead0",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6347556,
+        "known_for_department": "Art",
+        "name": "Shin Jae ho",
+        "original_name": "Shin Jae ho",
+        "popularity": 0.0611,
+        "profile_path": null,
+        "credit_id": "6a5634132d6c3de489ae8101",
+        "department": "Art",
+        "job": "Title Designer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 236,
+        "name": "suicide"
+      },
+      {
+        "id": 13031,
+        "name": "creature"
+      },
+      {
+        "id": 18480,
+        "name": "tropical"
+      },
+      {
+        "id": 210281,
+        "name": "sisterhood"
+      },
+      {
+        "id": 378157,
+        "name": "suicide survivor"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Attempting to wash her late older sister’s Hawaiian shirt, locks SUN, 23, in a space between memory and nightmare. Haunted by a tropical monster in a surreal dreamscape, Sun is forced to confront the one thing she has avoided since her sister’s death: herself.",
+          "runtime": 19,
+          "tagline": "",
+          "title": "TROPIC"
+        }
+      },
+      {
+        "iso_3166_1": "KR",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말",
+        "english_name": "Korean",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "@prkjyoon",
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/8uohSGc3zcRq3CxHSJbITtQx5U6.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.707,
+        "height": 2383,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/55B3RwyyZLv2J7FdgJCyByiNPUu.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1685
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [
+              "Not Recommended For Young Children"
+            ],
+            "iso_639_1": "ko",
+            "note": "",
+            "release_date": "2026-07-20T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

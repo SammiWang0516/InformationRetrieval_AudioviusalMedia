@@ -1,0 +1,679 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 1481521,
+  "imdb_id": "tt37367822",
+  "origin_country": [
+    "RU"
+  ],
+  "original_language": "ru",
+  "original_title": "Anna Asti. Царица",
+  "overview": "A documentary about the creation of Anna Asti's stadium concert.",
+  "popularity": 0.8314,
+  "poster_path": "/qWKVrzusDZQKXc0Q4Tw8eKLs1Zo.jpg",
+  "production_companies": [
+    {
+      "id": 130614,
+      "logo_path": "/fgwCU6TwNPlwXGiK0sL7Ak2vhV7.png",
+      "name": "ON Media",
+      "origin_country": "RU"
+    },
+    {
+      "id": 262379,
+      "logo_path": null,
+      "name": "AzBuki",
+      "origin_country": "RU"
+    },
+    {
+      "id": 294156,
+      "logo_path": "/9tK9On0RmJB6Zg4A2DFjQZxFaSp.png",
+      "name": "KION",
+      "origin_country": "RU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "RU",
+      "name": "Russia"
+    }
+  ],
+  "release_date": "2025-06-19",
+  "revenue": 0,
+  "runtime": 48,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Anna Asti. The Queen",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2424097,
+        "known_for_department": "Acting",
+        "name": "Anna Dzyuba",
+        "original_name": "Анна Дзюба",
+        "popularity": 0.7338,
+        "profile_path": "/5AFY1yv5kKFenudsfCJxEl9dGwG.jpg",
+        "cast_id": 1,
+        "character": "self",
+        "credit_id": "6825b5de3baef083870a809f",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2400889,
+        "known_for_department": "Directing",
+        "name": "Darina Umnova",
+        "original_name": "Дарина Умнова",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "6825b5f21b561641f04b52e4",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5440002,
+        "known_for_department": "Writing",
+        "name": "Victoria Arinicheva",
+        "original_name": "Виктория Ариничева",
+        "popularity": 0.111,
+        "profile_path": null,
+        "credit_id": "6825b622d332be6464a17466",
+        "department": "Writing",
+        "job": "Creative Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2551723,
+        "known_for_department": "Production",
+        "name": "Mariya Serpionova",
+        "original_name": "Мария Серпионова",
+        "popularity": 0.1948,
+        "profile_path": null,
+        "credit_id": "6825b62b4146fdaa8b0a808c",
+        "department": "Writing",
+        "job": "Creative Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2456947,
+        "known_for_department": "Production",
+        "name": "Maksim Filatov",
+        "original_name": "Максим Филатов",
+        "popularity": 0.2929,
+        "profile_path": "/rt2tpRecJbNnWQBsyzG8jadUZjT.jpg",
+        "credit_id": "6825b63ef63211b6986ef624",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2217169,
+        "known_for_department": "Production",
+        "name": "Ilya Burets",
+        "original_name": "Илья Бурец",
+        "popularity": 0.2407,
+        "profile_path": "/ojFxdC6xmPZFJG4L0B8IojExT1L.jpg",
+        "credit_id": "6825b6474b49537fd2a173e9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3962492,
+        "known_for_department": "Production",
+        "name": "Dmitry Shmelev",
+        "original_name": "Дмитрий Шмелев",
+        "popularity": 0.2094,
+        "profile_path": null,
+        "credit_id": "6825b653ef9ce2e32d0a8052",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4376738,
+        "known_for_department": "Production",
+        "name": "Yanina Tataritskaya",
+        "original_name": "Янина Татарицкая",
+        "popularity": 0.0732,
+        "profile_path": null,
+        "credit_id": "6825b6885097c5c63f6ef4de",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4376741,
+        "known_for_department": "Production",
+        "name": "Karina Sharafutdinova",
+        "original_name": "Карина Шарафутдинова",
+        "popularity": 0.0566,
+        "profile_path": null,
+        "credit_id": "6825b6a1668e67a53d315760",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4832244,
+        "known_for_department": "Production",
+        "name": "Alexander Kosenkov",
+        "original_name": "Alexander Kosenkov",
+        "popularity": 0.0331,
+        "profile_path": null,
+        "credit_id": "687cb3fd93d069e3bd72c693",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5575498,
+        "known_for_department": "Production",
+        "name": "Vlada Raif",
+        "original_name": "Влада Райф",
+        "popularity": 0.1027,
+        "profile_path": null,
+        "credit_id": "687cb4116585bd4edbd98a4f",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2927362,
+        "known_for_department": "Production",
+        "name": "Liya Rakhmatullina",
+        "original_name": "Лия Рахматуллина",
+        "popularity": 0.1068,
+        "profile_path": null,
+        "credit_id": "687cb430fe85a1d54524439a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4808159,
+        "known_for_department": "Production",
+        "name": "Yuliana Mitrofanova",
+        "original_name": "Yuliana Mitrofanova",
+        "popularity": 0.189,
+        "profile_path": null,
+        "credit_id": "687cb44465f0807e59d98a1f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5575503,
+        "known_for_department": "Production",
+        "name": "Irina Minakova",
+        "original_name": "Ирина Минакова",
+        "popularity": 0.1346,
+        "profile_path": null,
+        "credit_id": "687cb45a50915a744e24448b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5002842,
+        "known_for_department": "Production",
+        "name": "Ksenia Mazalova",
+        "original_name": "Ксения Мазалова",
+        "popularity": 0.1346,
+        "profile_path": "/uYVwdav8xtAPWWkO6R3x28IZOUR.jpg",
+        "credit_id": "687cb489730ab572b68a477d",
+        "department": "Production",
+        "job": "Post Production Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4376714,
+        "known_for_department": "Writing",
+        "name": "Alexander Telesov",
+        "original_name": "Александр Телесов",
+        "popularity": 0.6473,
+        "profile_path": null,
+        "credit_id": "687cb4a73628225df7d98b66",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2327172,
+        "known_for_department": "Camera",
+        "name": "Yury Ermolin",
+        "original_name": "Юрий Ермолин",
+        "popularity": 0.1912,
+        "profile_path": null,
+        "credit_id": "687cb4b76d678e7159d989cf",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2161281,
+        "known_for_department": "Camera",
+        "name": "Ivan Grishin",
+        "original_name": "Иван Гришин",
+        "popularity": 0.1091,
+        "profile_path": null,
+        "credit_id": "687cb4dd0213a4f73538d60f",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5575510,
+        "known_for_department": "Camera",
+        "name": "Artemy Dunze",
+        "original_name": "Артемий Дюнзе",
+        "popularity": 0.1728,
+        "profile_path": null,
+        "credit_id": "687cb4eea43d59061b72c6c3",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5575511,
+        "known_for_department": "Camera",
+        "name": "Elizaveta Kanunnikova",
+        "original_name": "Елизавета Канунникова",
+        "popularity": 0.1272,
+        "profile_path": null,
+        "credit_id": "687cb5022b5caff9fa8a477b",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2037962,
+        "known_for_department": "Camera",
+        "name": "Sergey Amirdzhanov",
+        "original_name": "Сергей Амирджанов",
+        "popularity": 0.7603,
+        "profile_path": null,
+        "credit_id": "687cb50f4a27e542aed98b44",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2975095,
+        "known_for_department": "Camera",
+        "name": "Dmitry Minenkov",
+        "original_name": "Dmitry Minenkov",
+        "popularity": 0.0531,
+        "profile_path": null,
+        "credit_id": "687cb51c3628225df7d98b69",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5575515,
+        "known_for_department": "Sound",
+        "name": "Vladimir Satmari",
+        "original_name": "Владимир Сатмари",
+        "popularity": 0.2064,
+        "profile_path": null,
+        "credit_id": "687cb57eb45b3fa485169d62",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5575516,
+        "known_for_department": "Sound",
+        "name": "Ekaterina Gradopolova",
+        "original_name": "Екатерина Градополова",
+        "popularity": 0.0915,
+        "profile_path": null,
+        "credit_id": "687cb58f730ab572b68a478c",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5575517,
+        "known_for_department": "Sound",
+        "name": "Anna Sokolkina",
+        "original_name": "Анна Соколкина",
+        "popularity": 0.2308,
+        "profile_path": null,
+        "credit_id": "687cb59d920ecaf29f244352",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4808201,
+        "known_for_department": "Camera",
+        "name": "Timofey Kim",
+        "original_name": "Timofey Kim",
+        "popularity": 0.1335,
+        "profile_path": null,
+        "credit_id": "687cb5aa49f9a4e6ef72c711",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5575519,
+        "known_for_department": "Lighting",
+        "name": "Oleg Lokatosh",
+        "original_name": "Олег Локатош",
+        "popularity": 0.1002,
+        "profile_path": null,
+        "credit_id": "687cb5c7468d79140272c7af",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5575522,
+        "known_for_department": "Camera",
+        "name": "Aleksey Ustenko",
+        "original_name": "Алексей Устенко",
+        "popularity": 0.1446,
+        "profile_path": null,
+        "credit_id": "687cb5ee889cf9581e244379",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2400889,
+        "known_for_department": "Directing",
+        "name": "Darina Umnova",
+        "original_name": "Дарина Умнова",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "687cb60589990311ec528bb9",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5470551,
+        "known_for_department": "Sound",
+        "name": "Galina Siver",
+        "original_name": "Галина Сивер",
+        "popularity": 0.1747,
+        "profile_path": null,
+        "credit_id": "687cb64cb94e667f8b528a71",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5575525,
+        "known_for_department": "Editing",
+        "name": "Aleksey Kiselev",
+        "original_name": "Алексей Киселев",
+        "popularity": 0.1272,
+        "profile_path": null,
+        "credit_id": "687cb68bfe85a1d5452443b1",
+        "department": "Editing",
+        "job": "Other"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3530275,
+        "known_for_department": "Editing",
+        "name": "Pavel Lapshin",
+        "original_name": "Pavel Lapshin",
+        "popularity": 0.0993,
+        "profile_path": null,
+        "credit_id": "687cb69d39f21967c5d98c21",
+        "department": "Editing",
+        "job": "Other"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2478288,
+        "known_for_department": "Directing",
+        "name": "Yulia Sergina",
+        "original_name": "Юлия Серьгина",
+        "popularity": 0.1854,
+        "profile_path": "/5piFYgUsKsbKfxxIKgtkIQz2HFa.jpg",
+        "credit_id": "687cb6d2a684bf0e3872c63c",
+        "department": "Editing",
+        "job": "Other"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5575529,
+        "known_for_department": "Editing",
+        "name": "Anastasia Novikova",
+        "original_name": "Анастасия Новикова",
+        "popularity": 0.0372,
+        "profile_path": null,
+        "credit_id": "687cb6e520e51d61b72443f4",
+        "department": "Editing",
+        "job": "Other"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1474675,
+        "known_for_department": "Editing",
+        "name": "Denis Luzanov",
+        "original_name": "Denis Luzanov",
+        "popularity": 0.0772,
+        "profile_path": null,
+        "credit_id": "687cb72823e3f6d09038d4eb",
+        "department": "Editing",
+        "job": "Color Grading"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5575534,
+        "known_for_department": "Art",
+        "name": "Anton Rydkin",
+        "original_name": "Антон Рыдкин",
+        "popularity": 0.0363,
+        "profile_path": null,
+        "credit_id": "687cb74587b981279c55cafb",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5575541,
+        "known_for_department": "Editing",
+        "name": "Artem Shtenn",
+        "original_name": "Артем Штенн",
+        "popularity": 0.1356,
+        "profile_path": null,
+        "credit_id": "687cb7b650915a744e244497",
+        "department": "Editing",
+        "job": "Other"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5575543,
+        "known_for_department": "Production",
+        "name": "Nadezhda Mitrokhina",
+        "original_name": "Надежда Митрохина",
+        "popularity": 0.1285,
+        "profile_path": null,
+        "credit_id": "687cb7ff2b5caff9fa8a479a",
+        "department": "Production",
+        "job": "Accountant"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3425548,
+        "known_for_department": "Production",
+        "name": "Irina Shcherbovich-Vecher",
+        "original_name": "Ирина Щербович-Вечер",
+        "popularity": 0.3279,
+        "profile_path": "/bzANL10qeOnDi8duJ9zQzLIkwUZ.jpg",
+        "credit_id": "687f2bcf1b63a0b008d993b7",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 4048,
+        "name": "musician"
+      },
+      {
+        "id": 156205,
+        "name": "concert film"
+      },
+      {
+        "id": 188633,
+        "name": "russian music"
+      },
+      {
+        "id": 246377,
+        "name": "music documentary"
+      },
+      {
+        "id": 355644,
+        "name": "pop artist"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "RU",
+        "iso_639_1": "ru",
+        "name": "Pусский",
+        "english_name": "Russian",
+        "data": {
+          "homepage": "https://kion.ru/video/anna-asti-tsaritsa",
+          "overview": "История создания стадионного концерта ANNA ASTI.",
+          "runtime": 49,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "A documentary about the creation of Anna Asti's stadium concert.",
+          "runtime": 48,
+          "tagline": "",
+          "title": "Anna Asti. The Queen"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "RU",
+        "title": "Anna Asti. Tsaritsa",
+        "type": "transliteration"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt37367822",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "16+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Kion",
+            "release_date": "2025-06-19T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

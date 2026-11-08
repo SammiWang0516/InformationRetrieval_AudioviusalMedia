@@ -1,0 +1,695 @@
+{
+  "adult": false,
+  "backdrop_path": "/hisnORmYmcKBobNGOGJoawihv9d.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "https://www.therosedoc.com/",
+  "id": 1465525,
+  "imdb_id": "tt36589890",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Rose: Come Back to Me",
+  "overview": "An intimate documentary chronicling the remarkable journey of The Rose — from their humble beginnings as a South Korean indie band to their rise as a global sensation. Irresistibly magnetic, the film captures the band’s enchanting music and the deep bond between its members.",
+  "popularity": 0.7313,
+  "poster_path": "/gpS6TCUd8w5qh3ElbfwGk12Pvti.jpg",
+  "production_companies": [
+    {
+      "id": 15181,
+      "logo_path": "/sjQmClxWfF4NmP01QJVY8e3UVYK.png",
+      "name": "Wavelength",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-02-12",
+  "revenue": 0,
+  "runtime": 96,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Rose: Come Back to Me",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3799129,
+        "known_for_department": "Acting",
+        "name": "Kim Woo-sung",
+        "original_name": "김우성",
+        "popularity": 0.2071,
+        "profile_path": "/ccv0kAXt4RETmRCPjkMC7IGiy0e.jpg",
+        "cast_id": 17,
+        "character": "Self",
+        "credit_id": "6800234083c6e567c7d95f06",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5377083,
+        "known_for_department": "Acting",
+        "name": "Park Do-joon",
+        "original_name": "Park Do-joon",
+        "popularity": 0.0651,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Self",
+        "credit_id": "680023ad2c85e796639941ec",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5377084,
+        "known_for_department": "Acting",
+        "name": "Lee Ha-joon",
+        "original_name": "Lee Ha-joon",
+        "popularity": 0.1093,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Self",
+        "credit_id": "680023c9b113ff8723d92284",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3891229,
+        "known_for_department": "Acting",
+        "name": "Lee Jae-hyeong",
+        "original_name": "Lee Jae Hyeong",
+        "popularity": 0.0698,
+        "profile_path": "/giHPmsHGjGDMdJeUvl9zaRC8hG2.jpg",
+        "cast_id": 20,
+        "character": "Self",
+        "credit_id": "680023d9c77fd1df74ad0797",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1810672,
+        "known_for_department": "Directing",
+        "name": "Eugene Yi",
+        "original_name": "Eugene Yi",
+        "popularity": 0.0896,
+        "profile_path": null,
+        "credit_id": "67ffc891d645e41e09996795",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1915808,
+        "known_for_department": "Production",
+        "name": "Diane Moy Quon",
+        "original_name": "Diane Moy Quon",
+        "popularity": 0.427,
+        "profile_path": "/zTFkxf6Tqezp9eTxBhoGBi5qksn.jpg",
+        "credit_id": "67ffc898d645e41e09996798",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1122411,
+        "known_for_department": "Production",
+        "name": "Milan Chakraborty",
+        "original_name": "Milan Chakraborty",
+        "popularity": 0.2811,
+        "profile_path": null,
+        "credit_id": "67ffcce6de5e4dec62aec535",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2112462,
+        "known_for_department": "Production",
+        "name": "James Shin",
+        "original_name": "James Shin",
+        "popularity": 0.16,
+        "profile_path": null,
+        "credit_id": "67ffccefde5e4dec62aec53a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1753721,
+        "known_for_department": "Production",
+        "name": "Joe Plummer",
+        "original_name": "Joe Plummer",
+        "popularity": 0.176,
+        "profile_path": "/pmBOSmfrC6YAaS3hQU9xLDXcpqE.jpg",
+        "credit_id": "67ffccf82c85e796639931f4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3028409,
+        "known_for_department": "Production",
+        "name": "Sanjay Sharma",
+        "original_name": "Sanjay Sharma",
+        "popularity": 0.0588,
+        "profile_path": null,
+        "credit_id": "67ffcd0083c6e567c7d94a66",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 21015,
+        "known_for_department": "Production",
+        "name": "Janet Yang",
+        "original_name": "Janet Yang",
+        "popularity": 0.4278,
+        "profile_path": "/nMUN99D4PVYkrdXp74kZxxQ7ySt.jpg",
+        "credit_id": "67ffcd0f83c6e567c7d94a6f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1862197,
+        "known_for_department": "Production",
+        "name": "Jenifer Westphal",
+        "original_name": "Jenifer Westphal",
+        "popularity": 0.1653,
+        "profile_path": "/wo7CMXoVjJWGXZ4pLoDNc0oTVuR.jpg",
+        "credit_id": "67ffcd1883c6e567c7d94a76",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1147955,
+        "known_for_department": "Production",
+        "name": "Regina K. Scully",
+        "original_name": "Regina K. Scully",
+        "popularity": 0.2838,
+        "profile_path": "/dZPx8pJ9mi6UYLPZHZUgcyhy5Jf.jpg",
+        "credit_id": "67ffcd1ff39c730125d918ea",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1920335,
+        "known_for_department": "Production",
+        "name": "Brenda Robinson",
+        "original_name": "Brenda Robinson",
+        "popularity": 0.1756,
+        "profile_path": null,
+        "credit_id": "67ffcd2961b1c4bb3299b168",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5376534,
+        "known_for_department": "Production",
+        "name": "James Roh",
+        "original_name": "James Roh",
+        "popularity": 0.0369,
+        "profile_path": null,
+        "credit_id": "67ffcd3361b1c4bb3299b176",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5376535,
+        "known_for_department": "Production",
+        "name": "Daniel Park",
+        "original_name": "Daniel Park",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "67ffcd40d645e41e09996ab9",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 216926,
+        "known_for_department": "Editing",
+        "name": "David E. Simpson",
+        "original_name": "David E. Simpson",
+        "popularity": 0.0907,
+        "profile_path": null,
+        "credit_id": "67ffcd4883c6e567c7d94a7f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2456429,
+        "known_for_department": "Camera",
+        "name": "Richard Hama",
+        "original_name": "Richard Hama",
+        "popularity": 0.0652,
+        "profile_path": null,
+        "credit_id": "67ffcd4fc77fd1df74acf16f",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5376536,
+        "known_for_department": "Production",
+        "name": "Richard Hame",
+        "original_name": "Richard Hame",
+        "popularity": 0.0408,
+        "profile_path": null,
+        "credit_id": "67ffcd5a83c6e567c7d94a8f",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2113425,
+        "known_for_department": "Directing",
+        "name": "So Yun Um",
+        "original_name": "So Yun Um",
+        "popularity": 0.132,
+        "profile_path": null,
+        "credit_id": "67ffcd63de5e4dec62aec594",
+        "department": "Production",
+        "job": "Co-Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "https://www.therosedoc.com/",
+          "overview": "An intimate documentary chronicling the remarkable journey of The Rose — from their humble beginnings as a South Korean indie band to their rise as a global sensation. Irresistibly magnetic, the film captures the band’s enchanting music and the deep bond between its members.",
+          "runtime": 96,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "NL",
+        "iso_639_1": "nl",
+        "name": "Nederlands",
+        "english_name": "Dutch",
+        "data": {
+          "homepage": "",
+          "overview": "Een intieme documentaire die de opmerkelijke reis van The Rose beschrijft – van hun bescheiden begin als Zuid-Koreaanse indie band tot hun opkomst als wereldwijde sensatie. De onweerstaanbaar aansprekende film legt de betoverende muziek van de band en de diepe band tussen de leden vast.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "KR",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말",
+        "english_name": "Korean",
+        "data": {
+          "homepage": "",
+          "overview": "“안녕 코첼라! 한국에서 온 ‘더 로즈’입니다.” 2025년 5월, 홍대 길거리 버스킹에서 출발한 한국 인디 록 밴드 ‘더 로즈’(김우성, 박도준, 이하준, 이태겸)의 한국어 노래가 코첼라의 광활한 무대 위로 울려 퍼졌다. 2017년 데뷔 이후, 한국을 넘어 유럽과 미국 등 전 세계 팬들의 사랑을 받아온 이들에게도, 불가항력의 위기로 인해 팬들 곁을 한동안 떠나야 했던 시간이 있었다. 이 영화는 멤버들의 결성 이야기부터 각자의 내면적 도전, 다시 하나가 되기 위한 화합과 소통, 그리고 컴백을 준비하는 과정까지, ‘더 로즈’만의 독창적인 예술 여정을 입체적으로 따라간다. 화려한 조명 뒤에 가려졌던 아픔과 갈등, 음악 때문에 상처받기도 했던 순간들조차 솔직하게 드러내면서도, 서로를 지탱해온 우정의 힘과 팬들의 변함없는 헌신에서 비롯된 이들의 음악적 에너지를 깊이 있게 보여준다. 음악으로 인해 흔들렸지만, 다시 음악을 통해 치유 받으며 하나로 돌아온 네 멤버의 진솔한 비하인드 스토리, 그리고 폭발적인 무대 매너가 빛나는 라이브 퍼포먼스가 스크린을 통해 생생하게 펼쳐진다.",
+          "runtime": 97,
+          "tagline": "",
+          "title": "더 로즈: 컴 백 투 미"
+        }
+      },
+      {
+        "iso_3166_1": "HK",
+        "iso_639_1": "zh",
+        "name": "普通话",
+        "english_name": "Mandarin",
+        "data": {
+          "homepage": "",
+          "overview": "THE ROSE: COME BACK TO ME 細緻地展現了韓國獨立搖滾樂團The Rose的崛起之路。樂團的根基源自於K-pop的訓練體系，在累積了數百萬的全球粉絲之後，與經紀公司之間的糾紛迫使他們進入了長達數年的沉寂期。如今，他們帶著震撼人心的巡迴演出強勢回歸——而且是以自己獨特的方式。",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "BR",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "homepage": "",
+          "overview": "Fundada em 2017, a banda de indie rock sul-coreana The Rose dominou o mundo com sua música. Após viverem um hiato no auge de sua fama, devido a conflitos jurídicos com sua gravadora e ao serviço militar obrigatório na Coreia do Sul, a banda retornou em 2022, dessa vez em suas próprias condições. O filme retrata a ascensão, a pausa e o retorno triunfal.",
+          "runtime": 97,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "",
+          "overview": "The Rose: Come Back to Me ist eine intime Dokumentation über den dramatischen Aufstieg von The Rose, einer koreanischen Indie-Rock-Band mit Wurzeln im K-Pop-Trainingssystem. Nachdem sie sich eine millionenstarke globale Fangemeinde aufgebaut haben, zwingt ein Labelstreit die Band zu einer jahrelangen Pause. Jetzt sind sie zurück – mit einer elektrisierenden Tour, zu ihren eigenen Bedingungen.",
+          "runtime": 100,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "MX",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Un documental íntimo que narra la extraordinaria trayectoria de The Rose, desde sus humildes comienzos como grupo independiente surcoreano hasta su ascenso como sensación mundial.",
+          "runtime": 85,
+          "tagline": "",
+          "title": "The Rose: Regresa a mí"
+        }
+      },
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Un documental íntimo que narra la extraordinaria trayectoria de The Rose, desde sus humildes comienzos como grupo independiente surcoreano hasta su ascenso como sensación mundial.",
+          "runtime": 85,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt36589890",
+    "wikidata_id": "Q136352632",
+    "facebook_id": "therosefilm",
+    "instagram_id": "therosedoc",
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.777,
+        "height": 826,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/hisnORmYmcKBobNGOGJoawihv9d.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1468
+      },
+      {
+        "aspect_ratio": 1.777,
+        "height": 826,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/eOTCWAyXlEpqegU6LTKf2TnuRmU.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1468
+      }
+    ],
+    "logos": [
+      {
+        "aspect_ratio": 2.955,
+        "height": 846,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/4ZxqUQW3L2C7sTgnr73VaNjq4TF.png",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2500
+      }
+    ],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/gpS6TCUd8w5qh3ElbfwGk12Pvti.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1200
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1350,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/1JeCHnjyNFEvT66AMqK072Q9UKN.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 901
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AR",
+        "release_dates": [
+          {
+            "certification": "ATP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-12T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-14T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Calgary International Film Festival",
+            "release_date": "2025-09-22T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-14T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-14T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ID",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-14T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "ALL",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Busan International Film Festival",
+            "release_date": "2025-09-20T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-14T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-12T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Tribeca Film Festival",
+            "release_date": "2025-06-06T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Rose: Come Back To Me | Official Trailer | Feb 14",
+        "key": "bP9EB-abl6g",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "695df7705437ddd7d1cea8af",
+        "published_at": "2026-01-06T19:00:11.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Rose: Come Back To Me | Official Trailer | Coming To Theaters 2026",
+        "key": "VhHvmN_lCKo",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "68cc7673e8fa131aabcf47d7",
+        "published_at": "2025-09-18T16:00:07.000Z"
+      }
+    ]
+  }
+}

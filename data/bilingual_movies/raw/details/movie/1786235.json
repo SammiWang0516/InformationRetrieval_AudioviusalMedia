@@ -1,0 +1,793 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 1786235,
+  "imdb_id": "tt36199201",
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_title": "Bajo la sombra del enemigo",
+  "overview": "",
+  "popularity": 1.0247,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 312877,
+      "logo_path": null,
+      "name": "CinemAlexa",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2025-12-03",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Bajo la sombra del enemigo",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4004741,
+        "known_for_department": "Acting",
+        "name": "Luis Angel Prado",
+        "original_name": "Luis Angel Prado",
+        "popularity": 0.2683,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Daniel Arkov / Dannyboy",
+        "credit_id": "6abeb4167d973a60a543c1e7",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4337993,
+        "known_for_department": "Acting",
+        "name": "Annya Katerina",
+        "original_name": "Annya Katerina",
+        "popularity": 0.1108,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Karol Prisma / Águila Dorada",
+        "credit_id": "6abeb458ad5e219fd600a52f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5364714,
+        "known_for_department": "Acting",
+        "name": "Jorge Domínguez Cerdá",
+        "original_name": "Jorge Domínguez Cerdá",
+        "popularity": 0.4667,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Vokra Trebla Leinad / Estrella Omega",
+        "credit_id": "6abeb49406fc52d36f152278",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6519147,
+        "known_for_department": "Acting",
+        "name": "Andrés Cervantes",
+        "original_name": "Andrés Cervantes",
+        "popularity": 0.0896,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Snakes",
+        "credit_id": "6abeb4b133a90d63f54f0527",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4004744,
+        "known_for_department": "Acting",
+        "name": "Marcelo Pulido",
+        "original_name": "Marcelo Pulido",
+        "popularity": 0.0898,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Dr. Síndrome Ultra",
+        "credit_id": "6abeb4cd78011705367aa990",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6519149,
+        "known_for_department": "Acting",
+        "name": "Nirvana Bujazán",
+        "original_name": "Nirvana Bujazán",
+        "popularity": 0.0502,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Alexa Nicolette de la Vega",
+        "credit_id": "6abeb4e2d73a592f7000a51f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6519150,
+        "known_for_department": "Acting",
+        "name": "Jorge Raúl Arellco",
+        "original_name": "Jorge Raúl Arellco",
+        "popularity": 0.3774,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Björn Doppelgänger / El Viajero",
+        "credit_id": "6abeb50171acb35d4d47c33c",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4301916,
+        "known_for_department": "Acting",
+        "name": "Doug Lito",
+        "original_name": "Doug Lito",
+        "popularity": 0.0463,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Nickodemus Zönik / Nick Sony",
+        "credit_id": "6abeb51f9a1b8600560a4053",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6519150,
+        "known_for_department": "Acting",
+        "name": "Jorge Raúl Arellco",
+        "original_name": "Jorge Raúl Arellco",
+        "popularity": 0.3774,
+        "profile_path": null,
+        "credit_id": "6abeb553fcd8dd3068e143d4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6519159,
+        "known_for_department": "Production",
+        "name": "Silvano Barraza G.",
+        "original_name": "Silvano Barraza G.",
+        "popularity": 0.0655,
+        "profile_path": null,
+        "credit_id": "6abeb595247091e4ee152252",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6519161,
+        "known_for_department": "Production",
+        "name": "Hoguer Marroquín",
+        "original_name": "Hoguer Marroquín",
+        "popularity": 0.0568,
+        "profile_path": null,
+        "credit_id": "6abeb5b2aecc069b910a4088",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6519162,
+        "known_for_department": "Production",
+        "name": "Noé Moreno",
+        "original_name": "Noé Moreno",
+        "popularity": 0.0746,
+        "profile_path": null,
+        "credit_id": "6abeb5c74d85a7af7e0a4071",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4004741,
+        "known_for_department": "Acting",
+        "name": "Luis Angel Prado",
+        "original_name": "Luis Angel Prado",
+        "popularity": 0.2683,
+        "profile_path": null,
+        "credit_id": "6abeb5d490f4d95b8ca5209f",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6519166,
+        "known_for_department": "Sound",
+        "name": "Jair Céspedes",
+        "original_name": "Jair Céspedes",
+        "popularity": 0.0853,
+        "profile_path": null,
+        "credit_id": "6abeb6568de2437808cb454a",
+        "department": "Sound",
+        "job": "Music Score Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6519167,
+        "known_for_department": "Crew",
+        "name": "Argeliz Jiménez",
+        "original_name": "Argeliz Jiménez",
+        "popularity": 0.052,
+        "profile_path": null,
+        "credit_id": "6abeb675d0ce7b37c5a7b983",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6519168,
+        "known_for_department": "Editing",
+        "name": "Bryan Cortez",
+        "original_name": "Bryan Cortez",
+        "popularity": 0.2465,
+        "profile_path": null,
+        "credit_id": "6abeb69abfc690d538a520ba",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6519167,
+        "known_for_department": "Crew",
+        "name": "Argeliz Jiménez",
+        "original_name": "Argeliz Jiménez",
+        "popularity": 0.052,
+        "profile_path": null,
+        "credit_id": "6abeb6a791a9b15e1047c345",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4004741,
+        "known_for_department": "Acting",
+        "name": "Luis Angel Prado",
+        "original_name": "Luis Angel Prado",
+        "popularity": 0.2683,
+        "profile_path": null,
+        "credit_id": "6abeb6b900be186be17219ce",
+        "department": "Production",
+        "job": "Casting Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5387549,
+        "known_for_department": "Art",
+        "name": "Dana Estrada",
+        "original_name": "Dana Estrada",
+        "popularity": 0.0902,
+        "profile_path": null,
+        "credit_id": "6abeb6d6ac362b997c0cf575",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5387549,
+        "known_for_department": "Art",
+        "name": "Dana Estrada",
+        "original_name": "Dana Estrada",
+        "popularity": 0.0902,
+        "profile_path": null,
+        "credit_id": "6abeb6e34ff228d543e73fc0",
+        "department": "Art",
+        "job": "Decorator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6519171,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Dayanaraob",
+        "original_name": "Dayanaraob",
+        "popularity": 0.0513,
+        "profile_path": null,
+        "credit_id": "6abeb6ff78d32dc80c47c34c",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6519150,
+        "known_for_department": "Acting",
+        "name": "Jorge Raúl Arellco",
+        "original_name": "Jorge Raúl Arellco",
+        "popularity": 0.3774,
+        "profile_path": null,
+        "credit_id": "6abeb710b1feb6aaaaa23835",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6519172,
+        "known_for_department": "Production",
+        "name": "Rubén Pizano",
+        "original_name": "Rubén Pizano",
+        "popularity": 0.0729,
+        "profile_path": null,
+        "credit_id": "6abeb720a1e7350c91bc2d1c",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6519176,
+        "known_for_department": "Production",
+        "name": "Fernando Rosas Ponce",
+        "original_name": "Fernando Rosas Ponce",
+        "popularity": 0.0683,
+        "profile_path": null,
+        "credit_id": "6abeb73dd1c499e715da584e",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4493056,
+        "known_for_department": "Visual Effects",
+        "name": "Adrián Rosas",
+        "original_name": "Adrián Rosas",
+        "popularity": 0.0743,
+        "profile_path": null,
+        "credit_id": "6abeb75678011705367aa9aa",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6519168,
+        "known_for_department": "Editing",
+        "name": "Bryan Cortez",
+        "original_name": "Bryan Cortez",
+        "popularity": 0.2465,
+        "profile_path": null,
+        "credit_id": "6abeb773c4e0a35f1c00a545",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6519176,
+        "known_for_department": "Production",
+        "name": "Fernando Rosas Ponce",
+        "original_name": "Fernando Rosas Ponce",
+        "popularity": 0.0683,
+        "profile_path": null,
+        "credit_id": "6abeb78db13bc86a8de7401f",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4493056,
+        "known_for_department": "Visual Effects",
+        "name": "Adrián Rosas",
+        "original_name": "Adrián Rosas",
+        "popularity": 0.0743,
+        "profile_path": null,
+        "credit_id": "6abeb7a16e7ef4483d47c377",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6519150,
+        "known_for_department": "Acting",
+        "name": "Jorge Raúl Arellco",
+        "original_name": "Jorge Raúl Arellco",
+        "popularity": 0.3774,
+        "profile_path": null,
+        "credit_id": "6abeb7b728f521ff3153c16b",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5387548,
+        "known_for_department": "Art",
+        "name": "Asher Bedoy",
+        "original_name": "Asher Bedoy",
+        "popularity": 0.1055,
+        "profile_path": null,
+        "credit_id": "6abeb7c8e79f472ebf7aa9be",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6519188,
+        "known_for_department": "Sound",
+        "name": "Edgar Oleta",
+        "original_name": "Edgar Oleta",
+        "popularity": 0.0513,
+        "profile_path": null,
+        "credit_id": "6abeb7db2ce479026b0a408f",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6519189,
+        "known_for_department": "Sound",
+        "name": "Fernanda Saga",
+        "original_name": "Fernanda Saga",
+        "popularity": 0.0697,
+        "profile_path": null,
+        "credit_id": "6abeb7f0c7b4626c38a7b9af",
+        "department": "Sound",
+        "job": "Sound Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6519190,
+        "known_for_department": "Sound",
+        "name": "Ash Touchdown",
+        "original_name": "Ash Touchdown",
+        "popularity": 0.2539,
+        "profile_path": null,
+        "credit_id": "6abeb8018e6cd4520143c1f8",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6519193,
+        "known_for_department": "Art",
+        "name": "Valeria Cortez Beltrán",
+        "original_name": "Valeria Cortez Beltrán",
+        "popularity": 0.0572,
+        "profile_path": null,
+        "credit_id": "6abeb86a5abd4036fb53c189",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4731310,
+        "known_for_department": "Camera",
+        "name": "Alex Bandito",
+        "original_name": "Alex Bandito",
+        "popularity": 0.1668,
+        "profile_path": null,
+        "credit_id": "6abeb89efef5a8a98f4f04e4",
+        "department": "Camera",
+        "job": "BTS Footage"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6519195,
+        "known_for_department": "Lighting",
+        "name": "Gama Céspedes",
+        "original_name": "Gama Céspedes",
+        "popularity": 0.0608,
+        "profile_path": null,
+        "credit_id": "6abeb8ace8e4fe2ddea7b97b",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6519197,
+        "known_for_department": "Camera",
+        "name": "Braulio Kantun",
+        "original_name": "Braulio Kantun",
+        "popularity": 0.0488,
+        "profile_path": null,
+        "credit_id": "6abeb8bd2edf3b3d1f47c36e",
+        "department": "Camera",
+        "job": "Drone Pilot"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6519172,
+        "known_for_department": "Production",
+        "name": "Rubén Pizano",
+        "original_name": "Rubén Pizano",
+        "popularity": 0.0729,
+        "profile_path": null,
+        "credit_id": "6abeb8c9e8e4fe2ddea7b97f",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6519189,
+        "known_for_department": "Sound",
+        "name": "Fernanda Saga",
+        "original_name": "Fernanda Saga",
+        "popularity": 0.0697,
+        "profile_path": null,
+        "credit_id": "6abeb8dfb69d934dfb43c21f",
+        "department": "Camera",
+        "job": "First Assistant \"A\" Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6519200,
+        "known_for_department": "Production",
+        "name": "Sam Jesse",
+        "original_name": "Sam Jesse",
+        "popularity": 0.082,
+        "profile_path": null,
+        "credit_id": "6abeb8f0bd3dfae3a2bc2ce0",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6519150,
+        "known_for_department": "Acting",
+        "name": "Jorge Raúl Arellco",
+        "original_name": "Jorge Raúl Arellco",
+        "popularity": 0.3774,
+        "profile_path": null,
+        "credit_id": "6abeb902b2c62f3e5643c215",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6519150,
+        "known_for_department": "Acting",
+        "name": "Jorge Raúl Arellco",
+        "original_name": "Jorge Raúl Arellco",
+        "popularity": 0.3774,
+        "profile_path": null,
+        "credit_id": "6abeb9119159e6b7773bb0ca",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4004741,
+        "known_for_department": "Acting",
+        "name": "Luis Angel Prado",
+        "original_name": "Luis Angel Prado",
+        "popularity": 0.2683,
+        "profile_path": null,
+        "credit_id": "6abeb92178011705367aa9c4",
+        "department": "Art",
+        "job": "Location Scout"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6519204,
+        "known_for_department": "Sound",
+        "name": "Christian Arce",
+        "original_name": "Christian Arce",
+        "popularity": 0.0913,
+        "profile_path": null,
+        "credit_id": "6abeb938a1e7350c91bc2d2b",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6519168,
+        "known_for_department": "Editing",
+        "name": "Bryan Cortez",
+        "original_name": "Bryan Cortez",
+        "popularity": 0.2465,
+        "profile_path": null,
+        "credit_id": "6abeb9460a263a79c00a408b",
+        "department": "Directing",
+        "job": "Continuity"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6519206,
+        "known_for_department": "Directing",
+        "name": "David Pizano",
+        "original_name": "David Pizano",
+        "popularity": 0.0986,
+        "profile_path": null,
+        "credit_id": "6abeb95940b15395327219ed",
+        "department": "Directing",
+        "job": "Continuity"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6519167,
+        "known_for_department": "Crew",
+        "name": "Argeliz Jiménez",
+        "original_name": "Argeliz Jiménez",
+        "popularity": 0.052,
+        "profile_path": null,
+        "credit_id": "6abeb9652ce479026b0a4092",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5387549,
+        "known_for_department": "Art",
+        "name": "Dana Estrada",
+        "original_name": "Dana Estrada",
+        "popularity": 0.0902,
+        "profile_path": null,
+        "credit_id": "6abeb972778a1cce1aa52100",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6519150,
+        "known_for_department": "Acting",
+        "name": "Jorge Raúl Arellco",
+        "original_name": "Jorge Raúl Arellco",
+        "popularity": 0.3774,
+        "profile_path": null,
+        "credit_id": "6abeb99faea1984b14e143c2",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6519150,
+        "known_for_department": "Acting",
+        "name": "Jorge Raúl Arellco",
+        "original_name": "Jorge Raúl Arellco",
+        "popularity": 0.3774,
+        "profile_path": null,
+        "credit_id": "6abeb9b23e0c666eeecb455f",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6519150,
+        "known_for_department": "Acting",
+        "name": "Jorge Raúl Arellco",
+        "original_name": "Jorge Raúl Arellco",
+        "popularity": 0.3774,
+        "profile_path": null,
+        "credit_id": "6abebcf13d85f4f7e50cf59a",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Daniel Arkov, un joven espía que debe desmantelar una organización secreta llamada ELIPSIS que planea controlar los recursos hídricos de México.",
+          "runtime": 36,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt36199201",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "Festival y Muestra Internacional de Cortometrajes Corto Creativo UDCI",
+            "release_date": "2026-09-30T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "EMERGENTE BC",
+            "release_date": "2025-12-03T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

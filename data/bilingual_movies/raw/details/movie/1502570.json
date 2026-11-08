@@ -1,0 +1,192 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "",
+  "id": 1502570,
+  "imdb_id": null,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Le Muranów de Varsovie",
+  "overview": "A documentary on the story of the cinema Muranów in Warsaw.",
+  "popularity": 1.098,
+  "poster_path": "/s9imV6Fql4S4CzL8twzERzTEX3T.jpg",
+  "production_companies": [
+    {
+      "id": 112963,
+      "logo_path": "/ccSxSr2Kgdt6jzAjHHvDn8K3xKD.png",
+      "name": "Kolam Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 286051,
+      "logo_path": null,
+      "name": "MoreFilm",
+      "origin_country": "PL"
+    },
+    {
+      "id": 6480,
+      "logo_path": "/qJUUNzFYXNUDaisssBTV3Zdki9R.png",
+      "name": "Telewizja Polska",
+      "origin_country": "PL"
+    },
+    {
+      "id": 2466,
+      "logo_path": "/596Eq7ivA0DpNfB5zzDU7yMeTB4.png",
+      "name": "Wytwórnia Filmów Dokumentalnych i Fabularnych",
+      "origin_country": "PL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    }
+  ],
+  "release_date": "2026-04-17",
+  "revenue": 0,
+  "runtime": 58,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Le Muranów de Varsovie",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2428501,
+        "known_for_department": "Production",
+        "name": "Olga Prud’homme Farges",
+        "original_name": "Olga Prud’homme Farges",
+        "popularity": 1.0168,
+        "profile_path": null,
+        "credit_id": "6a15ed9e5591383c1f6343ba",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2428501,
+        "known_for_department": "Production",
+        "name": "Olga Prud’homme Farges",
+        "original_name": "Olga Prud’homme Farges",
+        "popularity": 1.0168,
+        "profile_path": null,
+        "credit_id": "6a15edf5d3d1b86bb4d4772f",
+        "department": "Writing",
+        "job": "Screenplay"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "A documentary on the story of the cinema Muranów in Warsaw.",
+          "runtime": 58,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "PL",
+        "iso_639_1": "pl",
+        "name": "Polski",
+        "english_name": "Polish",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 58,
+          "tagline": "",
+          "title": "Kino Muranów"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Timeless Film Festival Warsaw",
+            "release_date": "2026-04-17T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "BNP Paribas Two Riversides Film and Art Festival",
+            "release_date": "2026-08-04T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

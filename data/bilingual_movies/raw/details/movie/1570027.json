@@ -1,0 +1,547 @@
+{
+  "adult": false,
+  "backdrop_path": "/aBmSgu29t3WKRxmQNHcR6bVuN4T.jpg",
+  "belongs_to_collection": null,
+  "budget": 100,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 1570027,
+  "imdb_id": null,
+  "origin_country": [
+    "EC"
+  ],
+  "original_language": "es",
+  "original_title": "Rincón Oscuro",
+  "overview": "John is chased by a killer, without knowing who will end up winning.",
+  "popularity": 0.9021,
+  "poster_path": "/nbUVoh4ouXOyxbytJWgnb0HcB2.jpg",
+  "production_companies": [
+    {
+      "id": 266659,
+      "logo_path": "/ajfeG2diS9x8MnsucCcSttyqhet.png",
+      "name": "HASUKĪ PRODUCTIONS",
+      "origin_country": "EC"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "EC",
+      "name": "Ecuador"
+    }
+  ],
+  "release_date": "2025-07-25",
+  "revenue": 550,
+  "runtime": 3,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Darkness around every corner",
+  "title": "Dark Corner",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5535785,
+        "known_for_department": "Directing",
+        "name": "Tobias Rivadeneira",
+        "original_name": "Tobias Rivadeneira",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Shadow",
+        "credit_id": "68fff39b42da8c1092276507",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 5778012,
+        "known_for_department": "Acting",
+        "name": "E. Jordan",
+        "original_name": "E. Jordan",
+        "popularity": 0.0453,
+        "profile_path": "/bIJLgv5RL8EFX5EcxsZhElcNr1s.jpg",
+        "cast_id": 2,
+        "character": "John",
+        "credit_id": "68fff3cae0a7e46200927af4",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5535782,
+        "known_for_department": "Directing",
+        "name": "Borys Soriano C.",
+        "original_name": "Borys Soriano C.",
+        "popularity": 0.0507,
+        "profile_path": "/pfhREVDI6ET1dYzS1j6ByepYs6T.jpg",
+        "credit_id": "68fff41942da8c109227650b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5535782,
+        "known_for_department": "Directing",
+        "name": "Borys Soriano C.",
+        "original_name": "Borys Soriano C.",
+        "popularity": 0.0507,
+        "profile_path": "/pfhREVDI6ET1dYzS1j6ByepYs6T.jpg",
+        "credit_id": "68fff42a47f925a8e03bff26",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5535782,
+        "known_for_department": "Directing",
+        "name": "Borys Soriano C.",
+        "original_name": "Borys Soriano C.",
+        "popularity": 0.0507,
+        "profile_path": "/pfhREVDI6ET1dYzS1j6ByepYs6T.jpg",
+        "credit_id": "68fff45c9c006b122ca635b8",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5535782,
+        "known_for_department": "Directing",
+        "name": "Borys Soriano C.",
+        "original_name": "Borys Soriano C.",
+        "popularity": 0.0507,
+        "profile_path": "/pfhREVDI6ET1dYzS1j6ByepYs6T.jpg",
+        "credit_id": "68fff47c18cda22f7ba635e4",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5535785,
+        "known_for_department": "Directing",
+        "name": "Tobias Rivadeneira",
+        "original_name": "Tobias Rivadeneira",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68fff4b6c296bbaa112765c0",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 5778012,
+        "known_for_department": "Acting",
+        "name": "E. Jordan",
+        "original_name": "E. Jordan",
+        "popularity": 0.0453,
+        "profile_path": "/bIJLgv5RL8EFX5EcxsZhElcNr1s.jpg",
+        "credit_id": "68fff4d7fa2f40f2089390cf",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 5778012,
+        "known_for_department": "Acting",
+        "name": "E. Jordan",
+        "original_name": "E. Jordan",
+        "popularity": 0.0453,
+        "profile_path": "/bIJLgv5RL8EFX5EcxsZhElcNr1s.jpg",
+        "credit_id": "68fff514b30cbdf87a3bff2d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5535784,
+        "known_for_department": "Editing",
+        "name": "Fede Swett",
+        "original_name": "Fede Swett",
+        "popularity": 0.0601,
+        "profile_path": "/qq1CGoAOsNRZd913G12pl9tWkmc.jpg",
+        "credit_id": "68fff535e31a6839613c00ed",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5535784,
+        "known_for_department": "Editing",
+        "name": "Fede Swett",
+        "original_name": "Fede Swett",
+        "popularity": 0.0601,
+        "profile_path": "/qq1CGoAOsNRZd913G12pl9tWkmc.jpg",
+        "credit_id": "68fff5510d848a9c549fb7a2",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 5778012,
+        "known_for_department": "Acting",
+        "name": "E. Jordan",
+        "original_name": "E. Jordan",
+        "popularity": 0.0453,
+        "profile_path": "/bIJLgv5RL8EFX5EcxsZhElcNr1s.jpg",
+        "credit_id": "68fff58cb309e5bae29fb7f3",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 5778012,
+        "known_for_department": "Acting",
+        "name": "E. Jordan",
+        "original_name": "E. Jordan",
+        "popularity": 0.0453,
+        "profile_path": "/bIJLgv5RL8EFX5EcxsZhElcNr1s.jpg",
+        "credit_id": "68fff5b38405df65b74e900d",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 5778012,
+        "known_for_department": "Acting",
+        "name": "E. Jordan",
+        "original_name": "E. Jordan",
+        "popularity": 0.0453,
+        "profile_path": "/bIJLgv5RL8EFX5EcxsZhElcNr1s.jpg",
+        "credit_id": "68fff5cdef26b30f944e8fac",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5535785,
+        "known_for_department": "Directing",
+        "name": "Tobias Rivadeneira",
+        "original_name": "Tobias Rivadeneira",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68fff5eeb2d99de05b9fb761",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5535785,
+        "known_for_department": "Directing",
+        "name": "Tobias Rivadeneira",
+        "original_name": "Tobias Rivadeneira",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68fff63d7c3099dc61eab521",
+        "department": "Crew",
+        "job": "Lighting Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5535784,
+        "known_for_department": "Editing",
+        "name": "Fede Swett",
+        "original_name": "Fede Swett",
+        "popularity": 0.0601,
+        "profile_path": "/qq1CGoAOsNRZd913G12pl9tWkmc.jpg",
+        "credit_id": "68fff6615f7acb181fa31153",
+        "department": "Camera",
+        "job": "Camera Technician"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 155790,
+        "name": "private detective"
+      },
+      {
+        "id": 173125,
+        "name": "shadow"
+      },
+      {
+        "id": 236189,
+        "name": "future noir"
+      },
+      {
+        "id": 252505,
+        "name": "armas"
+      },
+      {
+        "id": 335307,
+        "name": "oscuridad"
+      },
+      {
+        "id": 335311,
+        "name": "miedo"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "John is chased by a killer, without knowing who will end up winning.",
+          "runtime": 3,
+          "tagline": "Darkness around every corner",
+          "title": "Dark Corner"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "EC",
+        "title": "Rincón Oscuro",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Dark Corner",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "JP",
+        "title": "暗い隅",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Rincón Oscuro",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "BR",
+        "title": "Canto Escuro",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "IT",
+        "title": "Angolo Buio",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Coin Sombre",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "黑暗的角落",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "MX",
+        "title": "Rincón Oscuro",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CO",
+        "title": "Rincón Oscuro",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 900,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/aBmSgu29t3WKRxmQNHcR6bVuN4T.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1600
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 900,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/9LddZISKL5mdcO569enc5DkRt9P.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1600
+      },
+      {
+        "aspect_ratio": 1.776,
+        "height": 901,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/n3FFRHK6JuWEauG3ScvoJj498wK.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1600
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 900,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/irs2c9acpqMQosQnpP1ZY4wISXR.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1600
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 900,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/1JtOhkipukiPC2A11yzKvsAa6qL.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1600
+      },
+      {
+        "aspect_ratio": 1.78,
+        "height": 899,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/sxTmvx5Qgjx6I1iNw2ytVFZB5cJ.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1600
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 900,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/aSzM7utQuf1A4U6lAJS2r5Ve7cI.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1600
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 900,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/o3vmPZlL45HMEtt9gfhGPP3muCV.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1600
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 900,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/lzBb2O9EHhP61EtCEFBbFNoPsyK.jpg",
+        "vote_average": 0.0,
+        "vote_count": 1,
+        "width": 1600
+      }
+    ],
+    "logos": [
+      {
+        "aspect_ratio": 1.0,
+        "height": 1280,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/lYhmFs8DGjumNs59Z9G42bYwhLi.png",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1280
+      },
+      {
+        "aspect_ratio": 1.414,
+        "height": 3508,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/hsppG0YeMHsPI9pUd9c8rccOt4J.png",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 4961
+      }
+    ],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "EC",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "Youtube",
+            "release_date": "2025-07-25T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Dark Corner (Rincón Oscuro) - Short Film FINAL CUT",
+        "key": "eFCAuK3a5K0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": false,
+        "id": "68fff808239f36974eeab713",
+        "published_at": "2025-07-04T05:13:11.000Z"
+      }
+    ]
+  }
+}

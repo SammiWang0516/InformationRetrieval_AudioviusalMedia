@@ -1,0 +1,976 @@
+{
+  "adult": false,
+  "backdrop_path": "/9ByGi07suLR0E1WqxnKjvoCG8T.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1071064,
+  "imdb_id": "tt35420252",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "L'Amour c'est surcoté",
+  "overview": "Diagnosed «crap with girls» by his friends, Anis’ love life has barely a pulse. Three years after the loss of Isma, his best friend and mentor, Anis takes his courage in both hands and decides finally to get out and meet people again. And the person he meets is Madeleine. Thinking she’s way out of his league, Anis gets tangled in a web of silly lies trying to impress her. But something huge is about to start. An unexpected thing. A thing called love.",
+  "popularity": 1.0233,
+  "poster_path": "/8gbHgEfP8h64HrW3mXpurirbZLC.jpg",
+  "production_companies": [
+    {
+      "id": 26677,
+      "logo_path": "/3niMKWcBpqOh4C1PHAG4FSubsgp.png",
+      "name": "Iconoclast Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 694,
+      "logo_path": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+      "name": "StudioCanal",
+      "origin_country": "FR"
+    },
+    {
+      "id": 83,
+      "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+      "name": "France 2 Cinéma",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2025-04-23",
+  "revenue": 0,
+  "runtime": 97,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Love Is Overrated",
+  "video": false,
+  "vote_average": 6.632,
+  "vote_count": 186,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2355192,
+        "known_for_department": "Acting",
+        "name": "Hakim Jemili",
+        "original_name": "Hakim Jemili",
+        "popularity": 0.4976,
+        "profile_path": "/w7Cn5MNRdzeUl41LuEJAg1ldeTM.jpg",
+        "cast_id": 7,
+        "character": "Anis",
+        "credit_id": "64c52220eec5b500ff519e27",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2832358,
+        "known_for_department": "Acting",
+        "name": "Laura Felpin",
+        "original_name": "Laura Felpin",
+        "popularity": 0.4405,
+        "profile_path": "/jSDgeJhj46YmeXTl3J0sYWAI175.jpg",
+        "cast_id": 6,
+        "character": "Madeleine",
+        "credit_id": "63b9a71cf8595800ae31e69d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1764065,
+        "known_for_department": "Acting",
+        "name": "Benjamin Tranié",
+        "original_name": "Benjamin Tranié",
+        "popularity": 0.618,
+        "profile_path": "/4Kqw4DXtq8y7sygGhDSqRSH9Nso.jpg",
+        "cast_id": 11,
+        "character": "Paulo",
+        "credit_id": "658003992f8d0908f4a7caa8",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3490046,
+        "known_for_department": "Acting",
+        "name": "Abdulah Sissoko",
+        "original_name": "Abdulah Sissoko",
+        "popularity": 0.3239,
+        "profile_path": "/uHhZt0kjEYSSYfp6zM1Sdf6Kl6h.jpg",
+        "cast_id": 12,
+        "character": "Sekou",
+        "credit_id": "658003a72f8d0908f4a7cab1",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1947460,
+        "known_for_department": "Acting",
+        "name": "Alassane Diong",
+        "original_name": "Alassane Diong",
+        "popularity": 0.3443,
+        "profile_path": "/5PGsOQr2oDhL1uB5Coqt5I9wr0i.jpg",
+        "cast_id": 13,
+        "character": "Isma",
+        "credit_id": "658003b4df86a808dae7daf2",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1170608,
+        "known_for_department": "Acting",
+        "name": "Steve Tientcheu",
+        "original_name": "Steve Tientcheu",
+        "popularity": 0.5331,
+        "profile_path": "/zhKrlGuSLuRPg8Jev18k5z7SHwE.jpg",
+        "cast_id": 14,
+        "character": "Doum's",
+        "credit_id": "658003c08dbc33088999863c",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24041,
+        "known_for_department": "Acting",
+        "name": "François Damiens",
+        "original_name": "François Damiens",
+        "popularity": 0.4655,
+        "profile_path": "/agHzt46feTHdFK9YdgRjmnqFUtS.jpg",
+        "cast_id": 15,
+        "character": "François",
+        "credit_id": "658003cc0e64af0858a842d3",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 54946,
+        "known_for_department": "Acting",
+        "name": "Saïda Jawad",
+        "original_name": "Saïda Jawad",
+        "popularity": 0.2282,
+        "profile_path": "/7JinvwXW7MjML7Wtgi1SUAU1Lc0.jpg",
+        "cast_id": 9,
+        "character": "La mère d'Anis",
+        "credit_id": "64c5225f95ce24013b9b16f6",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 145230,
+        "known_for_department": "Acting",
+        "name": "Abbes Zahmani",
+        "original_name": "Abbes Zahmani",
+        "popularity": 0.3716,
+        "profile_path": "/hMhnkowqeIXu1De3pjIvAIFlorY.jpg",
+        "cast_id": 8,
+        "character": "Le père d'Anis",
+        "credit_id": "64c5225863aad2020a8a80f9",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1785347,
+        "known_for_department": "Acting",
+        "name": "Isabelle Malin",
+        "original_name": "Isabelle Malin",
+        "popularity": 0.1422,
+        "profile_path": "/7zz7o8jfsXtBlQhmHqT7vIDIa6W.jpg",
+        "cast_id": 16,
+        "character": "Dorothée",
+        "credit_id": "658003dbac617c087214ea20",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 16921,
+        "known_for_department": "Acting",
+        "name": "Clotilde Courau",
+        "original_name": "Clotilde Courau",
+        "popularity": 0.3649,
+        "profile_path": "/jSy63zL0jdoQsSGzbUFZICZIrpW.jpg",
+        "cast_id": 17,
+        "character": "La thérapeute",
+        "credit_id": "658003e3df86a808dae7db3b",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2409322,
+        "known_for_department": "Acting",
+        "name": "Marilou Aussilloux",
+        "original_name": "Marilou Aussilloux",
+        "popularity": 0.395,
+        "profile_path": "/47fpWxN0lBI2ihWlUynNwYNOLl8.jpg",
+        "cast_id": 43,
+        "character": "Maëva",
+        "credit_id": "686b71de47d59a896aa95820",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2041840,
+        "known_for_department": "Acting",
+        "name": "Claude-Emmanuelle Gajan-Maull",
+        "original_name": "Claude-Emmanuelle Gajan-Maull",
+        "popularity": 0.235,
+        "profile_path": "/yT2WEVnEj9JVpyfsT6Rtq2ymolV.jpg",
+        "cast_id": 42,
+        "character": "Ishna",
+        "credit_id": "6842c782921b87b1c953970e",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2011922,
+        "known_for_department": "Acting",
+        "name": "Alexandra Roth",
+        "original_name": "Alexandra Roth",
+        "popularity": 0.4055,
+        "profile_path": "/mZaCwPfNUBuiCJkvuCnY1bRw1jZ.jpg",
+        "cast_id": 44,
+        "character": "Sabine",
+        "credit_id": "686b7223ab576745cdcee645",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2022158,
+        "known_for_department": "Acting",
+        "name": "Juliette Aver",
+        "original_name": "Juliette Aver",
+        "popularity": 0.1668,
+        "profile_path": "/oOfl5GPhEcvT91VqXdcZax8Iz9W.jpg",
+        "cast_id": 45,
+        "character": "La fille qui parle espagnol",
+        "credit_id": "686b722f2fd1232682702d6d",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4454166,
+        "known_for_department": "Directing",
+        "name": "Anahide Testud",
+        "original_name": "Anahide Testud",
+        "popularity": 0.1244,
+        "profile_path": null,
+        "cast_id": 46,
+        "character": "La secrétaire de la thérapeute",
+        "credit_id": "686b723bbba85b5ba453fdb6",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5549050,
+        "known_for_department": "Acting",
+        "name": "Yassine Pirreca",
+        "original_name": "Yassine Pirreca",
+        "popularity": 0.1138,
+        "profile_path": null,
+        "cast_id": 47,
+        "character": "Anis enfant",
+        "credit_id": "686b7244fa5d5ae83fa9591a",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5549051,
+        "known_for_department": "Acting",
+        "name": "Gaoussou Coulibaly",
+        "original_name": "Gaoussou Coulibaly",
+        "popularity": 0.1286,
+        "profile_path": null,
+        "cast_id": 48,
+        "character": "Sékou enfant",
+        "credit_id": "686b72509b2ba2c5c19a3fd4",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5549052,
+        "known_for_department": "Acting",
+        "name": "Hakim Ali",
+        "original_name": "Hakim Ali",
+        "popularity": 0.2117,
+        "profile_path": null,
+        "cast_id": 49,
+        "character": "Isma enfant",
+        "credit_id": "686b72666ddea7161651ddeb",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2367622,
+        "known_for_department": "Acting",
+        "name": "Jules Pacini",
+        "original_name": "Jules Pacini",
+        "popularity": 0.1108,
+        "profile_path": "/xfDYJw6LXQt15gZCqKsaHorvsXt.jpg",
+        "cast_id": 50,
+        "character": "Paulo enfant",
+        "credit_id": "686b7277e0d3659080103a51",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5549053,
+        "known_for_department": "Acting",
+        "name": "Olympe Piquemal",
+        "original_name": "Olympe Piquemal",
+        "popularity": 0.1202,
+        "profile_path": null,
+        "cast_id": 51,
+        "character": "Sabine enfant",
+        "credit_id": "686b7287851c5576195401f1",
+        "order": 20
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3745914,
+        "known_for_department": "Acting",
+        "name": "Mourad Winter",
+        "original_name": "Mourad Winter",
+        "popularity": 0.149,
+        "profile_path": "/zt6YuEMWXcEJpUr8BS6gWzdJ5GF.jpg",
+        "credit_id": "63b9a6e3c0a308008ca17862",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3745914,
+        "known_for_department": "Acting",
+        "name": "Mourad Winter",
+        "original_name": "Mourad Winter",
+        "popularity": 0.149,
+        "profile_path": "/zt6YuEMWXcEJpUr8BS6gWzdJ5GF.jpg",
+        "credit_id": "63b9a6ee8c0a4800ed80b04e",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3745914,
+        "known_for_department": "Acting",
+        "name": "Mourad Winter",
+        "original_name": "Mourad Winter",
+        "popularity": 0.149,
+        "profile_path": "/zt6YuEMWXcEJpUr8BS6gWzdJ5GF.jpg",
+        "credit_id": "63b9a6f48c0a48007dd727ac",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3146809,
+        "known_for_department": "Production",
+        "name": "Sandra Durando",
+        "original_name": "Sandra Durando",
+        "popularity": 0.1039,
+        "profile_path": null,
+        "credit_id": "63b9a70c6d675a00b649929b",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1418991,
+        "known_for_department": "Camera",
+        "name": "André Chemetoff",
+        "original_name": "André Chemetoff",
+        "popularity": 0.141,
+        "profile_path": null,
+        "credit_id": "64c52270eec5b5011cb03ff4",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1960228,
+        "known_for_department": "Production",
+        "name": "Elias Belkeddar",
+        "original_name": "Elias Belkeddar",
+        "popularity": 0.3158,
+        "profile_path": "/hmpIkFI8Y7WVpuauHDfkQZH9mVD.jpg",
+        "credit_id": "67ba112c2edc9c13fb0a7ea3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1498248,
+        "known_for_department": "Sound",
+        "name": "Bachar Khalifé",
+        "original_name": "Bachar Khalifé",
+        "popularity": 0.0839,
+        "profile_path": null,
+        "credit_id": "67ba113aabeede36c4465f96",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1893919,
+        "known_for_department": "Editing",
+        "name": "Mickael Dumontier",
+        "original_name": "Mickael Dumontier",
+        "popularity": 0.1421,
+        "profile_path": null,
+        "credit_id": "67ba1145bd48e8924cbeb6de",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1646871,
+        "known_for_department": "Art",
+        "name": "Arnaud Roth",
+        "original_name": "Arnaud Roth",
+        "popularity": 0.1408,
+        "profile_path": null,
+        "credit_id": "67ba11527219674c5a466958",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1829638,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Noémie Veissier",
+        "original_name": "Noémie Veissier",
+        "popularity": 0.1147,
+        "profile_path": null,
+        "credit_id": "67ba115b7219674c5a466962",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2133948,
+        "known_for_department": "Production",
+        "name": "Eric Lenclud",
+        "original_name": "Eric Lenclud",
+        "popularity": 0.1068,
+        "profile_path": null,
+        "credit_id": "67ba11647219674c5a466969",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1855805,
+        "known_for_department": "Directing",
+        "name": "Emmanuelle Fourault",
+        "original_name": "Emmanuelle Fourault",
+        "popularity": 0.1493,
+        "profile_path": null,
+        "credit_id": "67ba116f7219674c5a46696e",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1855806,
+        "known_for_department": "Directing",
+        "name": "Stéphane Gluck",
+        "original_name": "Stéphane Gluck",
+        "popularity": 0.1817,
+        "profile_path": "/aJmLlMEozIWpxkfJRibIIwjg9Rh.jpg",
+        "credit_id": "67ba1179bd48e8924cbeb6eb",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1544409,
+        "known_for_department": "Art",
+        "name": "Romain Scavazza",
+        "original_name": "Romain Scavazza",
+        "popularity": 0.1305,
+        "profile_path": null,
+        "credit_id": "67ba1181bd48e8924cbeb6ef",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1969392,
+        "known_for_department": "Sound",
+        "name": "Jérôme Aghion",
+        "original_name": "Jérôme Aghion",
+        "popularity": 0.2873,
+        "profile_path": null,
+        "credit_id": "67ba11907219674c5a46697e",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2816671,
+        "known_for_department": "Sound",
+        "name": "Théo Arramon",
+        "original_name": "Théo Arramon",
+        "popularity": 0.0715,
+        "profile_path": null,
+        "credit_id": "67ba1199b97367fcd40a8549",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5263466,
+        "known_for_department": "Sound",
+        "name": "Louis Berthelot",
+        "original_name": "Louis Berthelot",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "67ba11a6abeede36c4465fa3",
+        "department": "Sound",
+        "job": "Second Assistant Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2533680,
+        "known_for_department": "Sound",
+        "name": "Loïc Canevet",
+        "original_name": "Loïc Canevet",
+        "popularity": 0.1451,
+        "profile_path": null,
+        "credit_id": "67ba11af2edc9c13fb0a7ef6",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5263468,
+        "known_for_department": "Sound",
+        "name": "Pauline Facon",
+        "original_name": "Pauline Facon",
+        "popularity": 0.1796,
+        "profile_path": null,
+        "credit_id": "67ba11b9b7c35459adbebf81",
+        "department": "Sound",
+        "job": "ADR Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2245980,
+        "known_for_department": "Sound",
+        "name": "Matthieu Gasnier",
+        "original_name": "Matthieu Gasnier",
+        "popularity": 0.1525,
+        "profile_path": null,
+        "credit_id": "67ba11c27219674c5a4669a3",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2697939,
+        "known_for_department": "Sound",
+        "name": "Valère Raigneau",
+        "original_name": "Valère Raigneau",
+        "popularity": 0.1249,
+        "profile_path": null,
+        "credit_id": "67ba11cb2edc9c13fb0a7f01",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3247724,
+        "known_for_department": "Acting",
+        "name": "Ahmed Chouikhi",
+        "original_name": "Ahmed Chouikhi",
+        "popularity": 0.0959,
+        "profile_path": null,
+        "credit_id": "67ba11d72edc9c13fb0a7f19",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5263470,
+        "known_for_department": "Camera",
+        "name": "Louisa Bazin",
+        "original_name": "Louisa Bazin",
+        "popularity": 0.0485,
+        "profile_path": null,
+        "credit_id": "67ba11e4b97367fcd40a855a",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2239963,
+        "known_for_department": "Camera",
+        "name": "Thomas Burgess",
+        "original_name": "Thomas Burgess",
+        "popularity": 0.1959,
+        "profile_path": "/fvyZ9559VRsFAcKjgjnAZOxCDRL.jpg",
+        "credit_id": "67ba11ef2edc9c13fb0a7f1c",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2069381,
+        "known_for_department": "Camera",
+        "name": "Jeremy Mauroy",
+        "original_name": "Jeremy Mauroy",
+        "popularity": 0.3103,
+        "profile_path": null,
+        "credit_id": "67ba11fa31ad7dc873465492",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3577512,
+        "known_for_department": "Visual Effects",
+        "name": "Esteban Perrin",
+        "original_name": "Esteban Perrin",
+        "popularity": 0.3607,
+        "profile_path": null,
+        "credit_id": "67ba1205b7c35459adbebfa4",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2977248,
+        "known_for_department": "Camera",
+        "name": "Vincent Scotet",
+        "original_name": "Vincent Scotet",
+        "popularity": 0.1476,
+        "profile_path": null,
+        "credit_id": "67ba120fb97367fcd40a8562",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3085229,
+        "known_for_department": "Camera",
+        "name": "Haruyo Yokota",
+        "original_name": "Haruyo Yokota",
+        "popularity": 0.0506,
+        "profile_path": null,
+        "credit_id": "67ba1218b7c35459adbebfa9",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5263471,
+        "known_for_department": "Editing",
+        "name": "Louise Robert",
+        "original_name": "Louise Robert",
+        "popularity": 0.0472,
+        "profile_path": null,
+        "credit_id": "67ba122babeede36c4465fe0",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "https://iconoclast.tv/fr/filmtv/l-amour-c-est-surcote",
+          "overview": "Diagnostiqué “nul avec les meufs” depuis son plus jeune âge, Anis mène une existence charnelle placée sous le signe du calme plat. Trois ans jour pour jour après la perte d’Isma, son meilleur ami et mentor, il prend son courage à deux mains et se décide enfin à sortir faire de nouvelles rencontres. Sauf qu’en abordant Madeleine, Anis ignore que débute une grande aventure. Un truc inattendu.",
+          "runtime": 93,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Diagnosed «crap with girls» by his friends, Anis’ love life has barely a pulse. Three years after the loss of Isma, his best friend and mentor, Anis takes his courage in both hands and decides finally to get out and meet people again. And the person he meets is Madeleine. Thinking she’s way out of his league, Anis gets tangled in a web of silly lies trying to impress her. But something huge is about to start. An unexpected thing. A thing called love.",
+          "runtime": 97,
+          "tagline": "",
+          "title": "Love Is Overrated"
+        }
+      },
+      {
+        "iso_3166_1": "PL",
+        "iso_639_1": "pl",
+        "name": "Polski",
+        "english_name": "Polish",
+        "data": {
+          "homepage": "",
+          "overview": "Od najmłodszych lat diagnozowany jako „niegrzeczny w kontaktach z dziewczynami”, Anis (Hakim Jemili) wiedzie cielesne życie charakteryzujące się całkowitym spokojem. Trzy lata po stracie Ismy, swojego najlepszego przyjaciela i mentora, zbiera się na odwagę i w końcu postanawia wyjść i poznać nowych ludzi. Jednak gdy Anis zbliża się do Madeleine (Laura Felpin), nie wie, że niedługo rozpocznie się wielka przygoda. Coś nieoczekiwanego. Rzecz zwana „miłością”.",
+          "runtime": 98,
+          "tagline": "",
+          "title": "L'amour c'est surcoté"
+        }
+      },
+      {
+        "iso_3166_1": "RU",
+        "iso_639_1": "ru",
+        "name": "Pусский",
+        "english_name": "Russian",
+        "data": {
+          "homepage": "",
+          "overview": "Застенчивый парень Анис боится вступать в отношения, но ему приспичило, и после стольких попыток он уже был готов сдаться... но тут появляется Мадлен.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Любовь переоценена"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "CA",
+        "title": "Love is overrated",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AU",
+        "title": "Love is overrated",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "Love is overrated",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Love is overrated",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt35420252",
+    "wikidata_id": "Q133305956",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/9ByGi07suLR0E1WqxnKjvoCG8T.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/t5n7foRKkU7uPPQprVTBo8YFkng.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1152,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/ol3i7rip3TC6MASqPDFspJiMt63.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2048
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/8gbHgEfP8h64HrW3mXpurirbZLC.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.674,
+        "height": 2968,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/gvfWKSty3cM3uqa7l4SbC6aVzTj.jpg",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/ic4sgEZkXGT1uQXbgYu8Gji3qGD.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Festival de l'Alpe d'Huez",
+            "release_date": "2025-01-14T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-04-23T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-08-21T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Canal+",
+            "release_date": "2026-01-13T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-08-27T00:00:00.000Z",
+            "type": 5
+          },
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Canal+",
+            "release_date": "2026-01-13T00:00:00.000Z",
+            "type": 6
+          },
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Ciné+ Émotion",
+            "release_date": "2026-10-06T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

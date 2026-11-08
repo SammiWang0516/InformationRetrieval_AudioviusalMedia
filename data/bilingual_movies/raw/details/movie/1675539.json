@@ -1,0 +1,609 @@
+{
+  "adult": false,
+  "backdrop_path": "/1X2WsuNEkmjyaWU0nqmzmNIHvFT.jpg",
+  "belongs_to_collection": null,
+  "budget": 2500,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 1675539,
+  "imdb_id": "tt37803040",
+  "origin_country": [
+    "AR"
+  ],
+  "original_language": "es",
+  "original_title": "El Último Cabo Suelto",
+  "overview": "",
+  "popularity": 0.9817,
+  "poster_path": "/uiShb9t0bf2eEv3YTuokmflVUEO.jpg",
+  "production_companies": [
+    {
+      "id": 295664,
+      "logo_path": null,
+      "name": "Doxut",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2025-02-28",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "El Último Cabo Suelto",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5453111,
+        "known_for_department": "Acting",
+        "name": "Sergio Gabriel D'Angelo",
+        "original_name": "Sergio Gabriel D'Angelo",
+        "popularity": 0.748,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Román",
+        "credit_id": "69e2a96ef56fc44f6b24f98a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4195389,
+        "known_for_department": "Acting",
+        "name": "Matías Kalevi",
+        "original_name": "Matías Kalevi",
+        "popularity": 0.0612,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Paulo",
+        "credit_id": "69e2a97e89ce261f7a24f925",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4393944,
+        "known_for_department": "Acting",
+        "name": "Belén Spizzirri",
+        "original_name": "Belén Spizzirri",
+        "popularity": 0.1492,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Romina",
+        "credit_id": "69e2a98c73d57582300d11c1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4702184,
+        "known_for_department": "Acting",
+        "name": "Cris Ferra",
+        "original_name": "Cris Ferra",
+        "popularity": 0.1366,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Mario",
+        "credit_id": "69e2a99f8421d6bf3324f915",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6149864,
+        "known_for_department": "Directing",
+        "name": "Tom Killian",
+        "original_name": "Tom Killian",
+        "popularity": 0.0376,
+        "profile_path": null,
+        "credit_id": "69e2a9ad0b04a482900d10fb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6149864,
+        "known_for_department": "Directing",
+        "name": "Tom Killian",
+        "original_name": "Tom Killian",
+        "popularity": 0.0376,
+        "profile_path": null,
+        "credit_id": "69e2a9bfdd9e01908a7c8125",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6149866,
+        "known_for_department": "Production",
+        "name": "Camila Fassina",
+        "original_name": "Camila Fassina",
+        "popularity": 0.0518,
+        "profile_path": null,
+        "credit_id": "69e2a9f0aa9d61a9b526e627",
+        "department": "Production",
+        "job": "Production Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3422439,
+        "known_for_department": "Directing",
+        "name": "Tomás Marchesi",
+        "original_name": "Tomás Marchesi",
+        "popularity": 0.212,
+        "profile_path": null,
+        "credit_id": "69e2aa1a4b41dc622c818df4",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3422439,
+        "known_for_department": "Directing",
+        "name": "Tomás Marchesi",
+        "original_name": "Tomás Marchesi",
+        "popularity": 0.212,
+        "profile_path": null,
+        "credit_id": "69e2aa2df50d4d4ab4818dc8",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6149867,
+        "known_for_department": "Camera",
+        "name": "Martin Tubio",
+        "original_name": "Martin Tubio",
+        "popularity": 0.2189,
+        "profile_path": null,
+        "credit_id": "69e2aa4f4b41dc622c818e0b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6149868,
+        "known_for_department": "Editing",
+        "name": "Ignacio Alurralde",
+        "original_name": "Ignacio Alurralde",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "69e2aa64d8c34df2da7c815e",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4638439,
+        "known_for_department": "Production",
+        "name": "Franco Huerta",
+        "original_name": "Franco Huerta",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69e2aa946cf22934a0bedf80",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6149873,
+        "known_for_department": "Production",
+        "name": "Milagros Schivo",
+        "original_name": "Milagros Schivo",
+        "popularity": 0.1094,
+        "profile_path": null,
+        "credit_id": "69e2aaa74b41dc622c818e2f",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6149874,
+        "known_for_department": "Production",
+        "name": "Yael ortubia",
+        "original_name": "Yael ortubia",
+        "popularity": 0.082,
+        "profile_path": null,
+        "credit_id": "69e2aab1ab7ce59977adeac3",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6149875,
+        "known_for_department": "Production",
+        "name": "Vera Tripiccchio",
+        "original_name": "Vera Tripiccchio",
+        "popularity": 0.113,
+        "profile_path": null,
+        "credit_id": "69e2aac1f76645393426e5b7",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4561198,
+        "known_for_department": "Sound",
+        "name": "Luciano Zivillica",
+        "original_name": "Luciano Zivillica",
+        "popularity": 0.166,
+        "profile_path": null,
+        "credit_id": "69e2aacd5515efa6693956c6",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5275459,
+        "known_for_department": "Acting",
+        "name": "Rosario Vera",
+        "original_name": "Rosario Vera",
+        "popularity": 0.1926,
+        "profile_path": null,
+        "credit_id": "69e2aaeef76645393426e5bc",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6149877,
+        "known_for_department": "Directing",
+        "name": "Axel Grandinetti",
+        "original_name": "Axel Grandinetti",
+        "popularity": 0.0847,
+        "profile_path": null,
+        "credit_id": "69e2ab4315e154dc267c80ac",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6149878,
+        "known_for_department": "Directing",
+        "name": "Oswin Jeanne",
+        "original_name": "Oswin Jeanne",
+        "popularity": 0.1495,
+        "profile_path": null,
+        "credit_id": "69e2ab4f77bc651a1b26e575",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3581799,
+        "known_for_department": "Acting",
+        "name": "Uma Carballeda",
+        "original_name": "Uma Carballeda",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69e2ab657bfad8ed3b24f8d8",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3649012,
+        "known_for_department": "Art",
+        "name": "Lucas Pardeau",
+        "original_name": "Lucas Pardeau",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "69e2ab7674792b209e3957d0",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4294700,
+        "known_for_department": "Directing",
+        "name": "Franco Sambucetti",
+        "original_name": "Franco Sambucetti",
+        "popularity": 0.1179,
+        "profile_path": null,
+        "credit_id": "69e2ab7fae3b23d311818da0",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4409096,
+        "known_for_department": "Art",
+        "name": "Florencia Casanova",
+        "original_name": "Florencia Casanova",
+        "popularity": 0.1274,
+        "profile_path": null,
+        "credit_id": "69e2ab9007bf6b439b3957f8",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4255333,
+        "known_for_department": "Directing",
+        "name": "Sasha Filardi",
+        "original_name": "Sasha Filardi",
+        "popularity": 0.0771,
+        "profile_path": null,
+        "credit_id": "69e2aba32620645a30adebe9",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4255343,
+        "known_for_department": "Sound",
+        "name": "Jerónimo Ocampo",
+        "original_name": "Jerónimo Ocampo",
+        "popularity": 0.0689,
+        "profile_path": null,
+        "credit_id": "69e2abb0755280c73cadebd4",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6149868,
+        "known_for_department": "Editing",
+        "name": "Ignacio Alurralde",
+        "original_name": "Ignacio Alurralde",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "69e2abc5755280c73cadebda",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1489626,
+        "known_for_department": "Crew",
+        "name": "Franco Burattini",
+        "original_name": "Franco Burattini",
+        "popularity": 0.0939,
+        "profile_path": null,
+        "credit_id": "69e2abdb89ce261f7a24f933",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5275459,
+        "known_for_department": "Acting",
+        "name": "Rosario Vera",
+        "original_name": "Rosario Vera",
+        "popularity": 0.1926,
+        "profile_path": null,
+        "credit_id": "69e2abe83c0e423ff8adeba2",
+        "department": "Crew",
+        "job": "Makeup Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4255346,
+        "known_for_department": "Lighting",
+        "name": "Facundo Alderete",
+        "original_name": "Facundo Alderete",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69e2abf5fb983dc9df818da4",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4255333,
+        "known_for_department": "Directing",
+        "name": "Sasha Filardi",
+        "original_name": "Sasha Filardi",
+        "popularity": 0.0771,
+        "profile_path": null,
+        "credit_id": "69e2ac42fb983dc9df818db0",
+        "department": "Camera",
+        "job": "Camera Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3422444,
+        "known_for_department": "Crew",
+        "name": "Taio Sánchez",
+        "original_name": "Taio Sánchez",
+        "popularity": 0.089,
+        "profile_path": null,
+        "credit_id": "69e2ac554cef7f6e020d10de",
+        "department": "Camera",
+        "job": "Camera Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4771834,
+        "known_for_department": "Lighting",
+        "name": "Macarena Zapico",
+        "original_name": "Macarena Zapico",
+        "popularity": 0.2015,
+        "profile_path": null,
+        "credit_id": "69e2ac5d07bf6b439b395818",
+        "department": "Camera",
+        "job": "Camera Production Assistant"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 10391,
+        "name": "mafia"
+      },
+      {
+        "id": 231149,
+        "name": "mob"
+      },
+      {
+        "id": 255385,
+        "name": "argentine"
+      },
+      {
+        "id": 263548,
+        "name": "short film"
+      },
+      {
+        "id": 288394,
+        "name": "suspense"
+      },
+      {
+        "id": 316362,
+        "name": "thriller"
+      },
+      {
+        "id": 322496,
+        "name": "action"
+      },
+      {
+        "id": 372449,
+        "name": "tom killian"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Tras acabar con su antiguo jefe, Paulo, un ex mafioso debe encargarse de un último cabo suelto para dejar su vida criminal atrás: eliminar a Román, su mentor.",
+          "runtime": 15,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "The Last Loose End",
+        "type": "English title"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt37803040",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 2158,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/1X2WsuNEkmjyaWU0nqmzmNIHvFT.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3836
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.706,
+        "height": 2655,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/uiShb9t0bf2eEv3YTuokmflVUEO.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1874
+      },
+      {
+        "aspect_ratio": 0.706,
+        "height": 2811,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/uuJC6J3TYEpgo8qW20Gt2mEjtzM.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1984
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AR",
+        "release_dates": [
+          {
+            "certification": "+16",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "",
+            "release_date": "2025-02-28T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

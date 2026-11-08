@@ -1,0 +1,805 @@
+{
+  "adult": false,
+  "backdrop_path": "/8aNOyag17vL3JfLptWALC5dQm4L.jpg",
+  "belongs_to_collection": {
+    "id": 1498418,
+    "name": "To Barcelona Collection",
+    "poster_path": "/qzcdcIZL14Yyx67WAd7lmJ2rIIm.jpg",
+    "backdrop_path": "/AeAYMd2DgclfmH83K7RFaSAbEyE.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://www.hallmarkchannel.com/to-barcelona-with-love_2",
+  "id": 1474447,
+  "imdb_id": "tt35775356",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "To Barcelona, with Love",
+  "overview": "Erica, an American translator, secretly revises a novel set in Barcelona. Everything is fine until bookstore owner Nico invites the credited author, Anna, to the city for a book-signing.",
+  "popularity": 0.8868,
+  "poster_path": "/xuQEKOhq7QfaJNZA5tA1nNqVeUy.jpg",
+  "production_companies": [
+    {
+      "id": 6345,
+      "logo_path": "/pctomojbRLZNdYB0muFoZiaYdPI.png",
+      "name": "Lighthouse Pictures",
+      "origin_country": "CA"
+    },
+    {
+      "id": 53015,
+      "logo_path": "/tWxubAjwO1QtLLWdnUR1bjS1vvf.png",
+      "name": "Hallmark Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 263045,
+      "logo_path": "/qXtQq2h6DuLVy3wMszKIF37PSKr.png",
+      "name": "Vault Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 268322,
+      "logo_path": null,
+      "name": "Mediacrest Euskadi",
+      "origin_country": ""
+    },
+    {
+      "id": 268321,
+      "logo_path": null,
+      "name": "No Rushing Pictures",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2025-06-07",
+  "revenue": 0,
+  "runtime": 83,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Friendship and amor at a Spanish bookstore.",
+  "title": "To Barcelona, with Love",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 8,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1212016,
+        "known_for_department": "Acting",
+        "name": "Alison Sweeney",
+        "original_name": "Alison Sweeney",
+        "popularity": 0.8909,
+        "profile_path": "/xSFd60uTym5aTbQRGKOZ8EPxBDX.jpg",
+        "cast_id": 1,
+        "character": "Erica",
+        "credit_id": "68150ebb52918a051f3ae1e1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 122888,
+        "known_for_department": "Acting",
+        "name": "Ashley Williams",
+        "original_name": "Ashley Williams",
+        "popularity": 2.0365,
+        "profile_path": "/kaZQMxVAX2Z0M0BKphkg7rT54pi.jpg",
+        "cast_id": 2,
+        "character": "Anna",
+        "credit_id": "68150ec729ddacd48da20ca1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 588843,
+        "known_for_department": "Acting",
+        "name": "Alejandro Tous",
+        "original_name": "Alejandro Tous",
+        "popularity": 0.1451,
+        "profile_path": "/izRqXzzR4zlRoeVjcf1ZyXbZWPi.jpg",
+        "cast_id": 3,
+        "character": "Nico",
+        "credit_id": "682d08b1f5ca8ac4a62f12b5",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2949788,
+        "known_for_department": "Acting",
+        "name": "Miguel Brocca",
+        "original_name": "Miguel Brocca",
+        "popularity": 0.1345,
+        "profile_path": "/eiVFKMopsaGcEGxcVqBDd8kc4hV.jpg",
+        "cast_id": 31,
+        "character": "Javier",
+        "credit_id": "6845c1d42b0d732083de6c84",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2394933,
+        "known_for_department": "Acting",
+        "name": "Paloma Montero",
+        "original_name": "Paloma Montero",
+        "popularity": 0.5354,
+        "profile_path": "/qwqSY79hHlrSAzag0XmiaSnzIaB.jpg",
+        "cast_id": 16,
+        "character": "Rosa",
+        "credit_id": "6845c03f4c96d90b893425ac",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2735017,
+        "known_for_department": "Acting",
+        "name": "José Emilio Vera",
+        "original_name": "José Emilio Vera",
+        "popularity": 0.5482,
+        "profile_path": "/aTtIInM5x2Jf54cOqPkTFxHEUZB.jpg",
+        "cast_id": 17,
+        "character": "Carlos",
+        "credit_id": "6845c05298d4b1b8f33425ee",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4837578,
+        "known_for_department": "Acting",
+        "name": "Javier Santos",
+        "original_name": "Javier Santos",
+        "popularity": 0.1704,
+        "profile_path": "/ot5hZ6lpdPWx5DivYjbviwzBY51.jpg",
+        "cast_id": 18,
+        "character": "Mateo",
+        "credit_id": "6845c070c1b8857285206109",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2931194,
+        "known_for_department": "Acting",
+        "name": "Alex Sorian Brown",
+        "original_name": "Alex Sorian Brown",
+        "popularity": 0.1251,
+        "profile_path": "/fUJNzimIWqaYxUjNT6VlY0sfSqv.jpg",
+        "cast_id": 19,
+        "character": "Miguel",
+        "credit_id": "6845c080a33c020736de6d3d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2468612,
+        "known_for_department": "Acting",
+        "name": "Nacho Nugo",
+        "original_name": "Nacho Nugo",
+        "popularity": 0.1594,
+        "profile_path": "/okAzcyTmDSoCojPpDJMJc5laR7.jpg",
+        "cast_id": 20,
+        "character": "Joseph",
+        "credit_id": "6845c08f95ac06a73e205fa7",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5043650,
+        "known_for_department": "Acting",
+        "name": "Monica McCollin",
+        "original_name": "Monica McCollin",
+        "popularity": 0.1569,
+        "profile_path": "/wQvjComx4h1uZMLnv3eLvOED6vV.jpg",
+        "cast_id": 21,
+        "character": "Beth",
+        "credit_id": "6845c0aae8c608addb3425fd",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5492546,
+        "known_for_department": "Acting",
+        "name": "Carol Garrido",
+        "original_name": "Carol Garrido",
+        "popularity": 0.0962,
+        "profile_path": "/cCaqZDd2SMRHlLqEoV6HTdu8w5Z.jpg",
+        "cast_id": 22,
+        "character": "Nina",
+        "credit_id": "6845c0c995ac06a73e205fb6",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1458147,
+        "known_for_department": "Acting",
+        "name": "Karina Matas Piper",
+        "original_name": "Karina Matas Piper",
+        "popularity": 0.2057,
+        "profile_path": "/y4B1ABFutCfrdx2PNUjwuj7OenR.jpg",
+        "cast_id": 23,
+        "character": "Mary The Tourist",
+        "credit_id": "6845c0df8458a830ea30173b",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1894222,
+        "known_for_department": "Acting",
+        "name": "Ricardo Mestres",
+        "original_name": "Ricardo Mestres",
+        "popularity": 0.0756,
+        "profile_path": "/wzBfMEvJO8pbcH5ytq5sOIttABa.jpg",
+        "cast_id": 24,
+        "character": "Hotel Clerk",
+        "credit_id": "6845c0f35152def6a2292abc",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 933277,
+        "known_for_department": "Acting",
+        "name": "Aitor Merino",
+        "original_name": "Aitor Merino",
+        "popularity": 0.182,
+        "profile_path": "/nc5RxOe9Qoa3e6VBUux3NxTTiST.jpg",
+        "cast_id": 25,
+        "character": "Pablo Shop Owner",
+        "credit_id": "6845c1084ef4c4bee6292afa",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3462382,
+        "known_for_department": "Acting",
+        "name": "Raúl Yuste",
+        "original_name": "Raúl Yuste",
+        "popularity": 0.0513,
+        "profile_path": "/c49MuGFhEWRNTocosPR20wmh0Gf.jpg",
+        "cast_id": 26,
+        "character": "Vendor Boqueria",
+        "credit_id": "6845c1294c96d90b893425b8",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1637084,
+        "known_for_department": "Creator",
+        "name": "Esther Martínez Lobato",
+        "original_name": "Esther Martínez Lobato",
+        "popularity": 0.5255,
+        "profile_path": "/eKfsOq2lUAT1UpPAx6iRyhT6OE8.jpg",
+        "cast_id": 28,
+        "character": "Bakery Woman",
+        "credit_id": "6845c1642b99f1b0aa205fef",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2777639,
+        "known_for_department": "Acting",
+        "name": "Natalia Braceli",
+        "original_name": "Natalia Braceli",
+        "popularity": 0.1445,
+        "profile_path": "/h3BNKjqCQblr9oSzO2N0GTI0YFQ.jpg",
+        "cast_id": 29,
+        "character": "Waitress",
+        "credit_id": "6845c1731fbdd9fa2fbb2ed2",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3393550,
+        "known_for_department": "Acting",
+        "name": "Raquel Rodríguez",
+        "original_name": "Raquel Rodríguez",
+        "popularity": 0.056,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Local Woman",
+        "credit_id": "6845c1502c399022f01ea5c5",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4143549,
+        "known_for_department": "Acting",
+        "name": "Santiago Ledesma",
+        "original_name": "Santiago Ledesma",
+        "popularity": 0.0695,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Vendor",
+        "credit_id": "6845c18724c39ef4e51ea758",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2068521,
+        "known_for_department": "Production",
+        "name": "B.F. Painter",
+        "original_name": "B.F. Painter",
+        "popularity": 0.1285,
+        "profile_path": null,
+        "credit_id": "6845bed331a9835f87292a93",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40608,
+        "known_for_department": "Production",
+        "name": "Jonathan Shore",
+        "original_name": "Jonathan Shore",
+        "popularity": 0.4508,
+        "profile_path": "/qdf759Lmz4WzPqw7Nsuw5V5HoVv.jpg",
+        "credit_id": "6845beed63a50f0ede3424eb",
+        "department": "Production",
+        "job": "Supervising Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1471194,
+        "known_for_department": "Acting",
+        "name": "Kevin Leslie",
+        "original_name": "Kevin Leslie",
+        "popularity": 0.4238,
+        "profile_path": "/jR7bGmNOBDKD703dgOSSgN2y0Ml.jpg",
+        "credit_id": "6845bf0e8c72ca56d31ea5d7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1393431,
+        "known_for_department": "Acting",
+        "name": "Gemma Martini",
+        "original_name": "Gemma Martini",
+        "popularity": 0.6904,
+        "profile_path": "/kuZXDFU7Ek6Lk8htxM1tDZpa4yE.jpg",
+        "credit_id": "6845bf2338f4780fae30165b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1867029,
+        "known_for_department": "Production",
+        "name": "Jameson Parker",
+        "original_name": "Jameson Parker",
+        "popularity": 0.2228,
+        "profile_path": "/r1et23gso8isz3UJ74gPZ80c1GX.jpg",
+        "credit_id": "6845bf33b6a9aac54e1ea4dd",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1391152,
+        "known_for_department": "Production",
+        "name": "Denis Pedregosa",
+        "original_name": "Denis Pedregosa",
+        "popularity": 0.1502,
+        "profile_path": null,
+        "credit_id": "6845bf4442b3d43e161ea687",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 78680,
+        "known_for_department": "Acting",
+        "name": "Monica Guerritore",
+        "original_name": "Monica Guerritore",
+        "popularity": 1.1878,
+        "profile_path": "/3yTCJIS3B8TcAQyXkc3gZcHr6Hu.jpg",
+        "credit_id": "6845bf568d1f28663e3fc56c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1212016,
+        "known_for_department": "Acting",
+        "name": "Alison Sweeney",
+        "original_name": "Alison Sweeney",
+        "popularity": 0.8909,
+        "profile_path": "/xSFd60uTym5aTbQRGKOZ8EPxBDX.jpg",
+        "credit_id": "6845bf6b9966b96afcde6da6",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 122888,
+        "known_for_department": "Acting",
+        "name": "Ashley Williams",
+        "original_name": "Ashley Williams",
+        "popularity": 2.0365,
+        "profile_path": "/kaZQMxVAX2Z0M0BKphkg7rT54pi.jpg",
+        "credit_id": "6845bf7f38f4780fae30165e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 14695,
+        "known_for_department": "Production",
+        "name": "Craig Baumgarten",
+        "original_name": "Craig Baumgarten",
+        "popularity": 0.5491,
+        "profile_path": "/A9kVVXFPAdSZ4z82ET1fABIV6Ol.jpg",
+        "credit_id": "6845bf9ba5f6b5c9ab292b77",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 165961,
+        "known_for_department": "Writing",
+        "name": "Julie Sherman Wolfe",
+        "original_name": "Julie Sherman Wolfe",
+        "popularity": 0.526,
+        "profile_path": "/moftIPJCtK7Da1aqr0hWO3GlvPL.jpg",
+        "credit_id": "6845bfb7d669235de0bb2dc5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80523,
+        "known_for_department": "Directing",
+        "name": "Ron Oliver",
+        "original_name": "Ron Oliver",
+        "popularity": 0.8011,
+        "profile_path": "/s6UJkj8g1GmD6M66gbQlIyjafY8.jpg",
+        "credit_id": "6845bfd23b2f6815f9de6ca1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 961502,
+        "known_for_department": "Sound",
+        "name": "Chris Ainscough",
+        "original_name": "Chris Ainscough",
+        "popularity": 0.4346,
+        "profile_path": null,
+        "credit_id": "68629dbdb24921d8238e0f77",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1742902,
+        "known_for_department": "Camera",
+        "name": "Tyler Walzak",
+        "original_name": "Tyler Walzak",
+        "popularity": 0.2395,
+        "profile_path": null,
+        "credit_id": "68629dd024db7526300d9756",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 107,
+        "name": "barcelona, spain"
+      },
+      {
+        "id": 353864,
+        "name": "hallmark"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "https://www.hallmarkchannel.com/to-barcelona-with-love_2",
+          "overview": "Erica, an American translator, secretly revises a novel set in Barcelona. Everything is fine until bookstore owner Nico invites the credited author, Anna, to the city for a book-signing.",
+          "runtime": 83,
+          "tagline": "Friendship and amor at a Spanish bookstore.",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "Erica, traductrice américaine, remanie en secret un roman qui se déroule à Barcelone. Tout bascule pour elle lorsque Nico, le propriétaire d’une librairie, invite Anna, l’autrice officiellement créditée, pour une séance de dédicaces en ville.",
+          "runtime": 83,
+          "tagline": "",
+          "title": "Barcelone, mon amour"
+        }
+      },
+      {
+        "iso_3166_1": "NL",
+        "iso_639_1": "nl",
+        "name": "Nederlands",
+        "english_name": "Dutch",
+        "data": {
+          "homepage": "",
+          "overview": "Erica, een Amerikaanse vertaalster, reviseert in het geheim een roman die zich afspeelt in Barcelona. Alles gaat goed totdat boekwinkeleigenaar Nico de gecrediteerde auteur, Anna, uitnodigt in de stad voor een signeersessie.",
+          "runtime": 0,
+          "tagline": "Vriendschap en amor in een Spaanse boekwinkel",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "RU",
+        "iso_639_1": "ru",
+        "name": "Pусский",
+        "english_name": "Russian",
+        "data": {
+          "homepage": "https://www.hallmarkchannel.com/to-barcelona-with-love",
+          "overview": "Эрика, американская переводчица, тайно переписывает роман, действие которого происходит в Барселоне. Проблемы возникают, когда продавец книг Нико приглашает в Барселону автора этого романа Анну Келли.",
+          "runtime": 85,
+          "tagline": "",
+          "title": "Барселоне, с любовью"
+        }
+      },
+      {
+        "iso_3166_1": "MX",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Erica, una traductora estadounidense, reescribe en secreto una novela ambientada en Barcelona. Surgen complicaciones cuando el librero Nico invita a Anna, la autora acreditada, a una firma de libros en la ciudad.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "PL",
+        "iso_639_1": "pl",
+        "name": "Polski",
+        "english_name": "Polish",
+        "data": {
+          "homepage": "",
+          "overview": "Erica, tłumaczka ze Stanów Zjednoczonych, w tajemnicy wprowadza poprawki do powieści, której akcja rozgrywa się w Barcelonie. Wszystko przebiega pomyślnie do momentu, gdy Nico, właściciel księgarni, zaprasza do miasta autorkę książki, Annę, na spotkanie z czytelnikami i sesję rozdawania autografów.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Miłość w Barcelonie"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt35775356",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1152,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/8aNOyag17vL3JfLptWALC5dQm4L.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2048
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/fsfVR7R5fgmY0Auoxmfy4qmrggK.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/c9140p9Dp20MNkZOxzW3sICMnSb.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/ibkLfCqFHXZsl76F8oupENBdfgi.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/xuQEKOhq7QfaJNZA5tA1nNqVeUy.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/spnfgzfeg6mmBcJBL04xUX29BIR.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/lf8UpNeMwkZDVa29SdKxyOWxTE4.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "fr",
+            "note": "Crave",
+            "release_date": "2026-04-23T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "fr",
+            "note": "Super Ecran 1",
+            "release_date": "2026-04-23T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-06-07T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Sneak Peek",
+        "key": "U9bPCJWiSwo",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "6845be2baea1e1fdf9fd5b73",
+        "published_at": "2025-06-03T19:21:34.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Preview",
+        "key": "pqttFQcM5O8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "683a174c084602e91a080cc7",
+        "published_at": "2025-05-23T20:30:29.000Z"
+      }
+    ]
+  }
+}

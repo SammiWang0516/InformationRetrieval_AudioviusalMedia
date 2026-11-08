@@ -1,0 +1,519 @@
+{
+  "adult": false,
+  "backdrop_path": "/3w2GbmUDYACMaDmmfE4ur9WiHch.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 1583714,
+  "imdb_id": "tt38844598",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Dark Moon",
+  "overview": "Mara leaves her house on the beach after a night of partying. Something is not right, an evil has been unleashed.",
+  "popularity": 0.9031,
+  "poster_path": "/gSq8cO8t4WM4eFqTIuf9myJ35gO.jpg",
+  "production_companies": [
+    {
+      "id": 257064,
+      "logo_path": null,
+      "name": "T.C., David",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2025-10-31",
+  "revenue": 0,
+  "runtime": 5,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "An evil has been unleashed",
+  "title": "Dark Moon",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5319336,
+        "known_for_department": "Acting",
+        "name": "Anna Nico",
+        "original_name": "Anna Nico",
+        "popularity": 0.2861,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Mara",
+        "credit_id": "691d931333696855e2c2a816",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5826298,
+        "known_for_department": "Acting",
+        "name": "Celia Burgos Vañó",
+        "original_name": "Celia Burgos Vañó",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "691d932630ec04dfc12d02df",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5646165,
+        "known_for_department": "Acting",
+        "name": "Simone Vals",
+        "original_name": "Simone Vals",
+        "popularity": 0.032,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "691d9339b0bb6ac2c22d028e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2640362,
+        "known_for_department": "Acting",
+        "name": "Francisco Ramírez",
+        "original_name": "Francisco Ramírez",
+        "popularity": 0.0833,
+        "profile_path": "/5IHDznkV83QxHEAjZVOt9NdY0gn.jpg",
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "691d934b239040d9a257d07d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5826301,
+        "known_for_department": "Acting",
+        "name": "Manuel Moreno",
+        "original_name": "Manuel Moreno",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "691d9360d2fb80ba1657d002",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5826303,
+        "known_for_department": "Acting",
+        "name": "Amparo Cebrián",
+        "original_name": "Amparo Cebrián",
+        "popularity": 0.042,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "691d9376d2fb80ba1657d011",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5319170,
+        "known_for_department": "Directing",
+        "name": "David T.C.",
+        "original_name": "David T.C.",
+        "popularity": 0.3266,
+        "profile_path": "/3lyforxgfXrsLLeRB0xwDgolP3h.jpg",
+        "credit_id": "691d92d9b2c9459a2b2d4201",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5319170,
+        "known_for_department": "Directing",
+        "name": "David T.C.",
+        "original_name": "David T.C.",
+        "popularity": 0.3266,
+        "profile_path": "/3lyforxgfXrsLLeRB0xwDgolP3h.jpg",
+        "credit_id": "691d92e6f1fb376b1d2e19a0",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5319170,
+        "known_for_department": "Directing",
+        "name": "David T.C.",
+        "original_name": "David T.C.",
+        "popularity": 0.3266,
+        "profile_path": "/3lyforxgfXrsLLeRB0xwDgolP3h.jpg",
+        "credit_id": "691d939051a3a3b3af2c9cef",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5319170,
+        "known_for_department": "Directing",
+        "name": "David T.C.",
+        "original_name": "David T.C.",
+        "popularity": 0.3266,
+        "profile_path": "/3lyforxgfXrsLLeRB0xwDgolP3h.jpg",
+        "credit_id": "691d93a17d091c741357d0a1",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5319170,
+        "known_for_department": "Directing",
+        "name": "David T.C.",
+        "original_name": "David T.C.",
+        "popularity": 0.3266,
+        "profile_path": "/3lyforxgfXrsLLeRB0xwDgolP3h.jpg",
+        "credit_id": "691d93af2532ca160f2c9d5e",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5319170,
+        "known_for_department": "Directing",
+        "name": "David T.C.",
+        "original_name": "David T.C.",
+        "popularity": 0.3266,
+        "profile_path": "/3lyforxgfXrsLLeRB0xwDgolP3h.jpg",
+        "credit_id": "691d93c8190e98c6cac2a812",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5319170,
+        "known_for_department": "Directing",
+        "name": "David T.C.",
+        "original_name": "David T.C.",
+        "popularity": 0.3266,
+        "profile_path": "/3lyforxgfXrsLLeRB0xwDgolP3h.jpg",
+        "credit_id": "691d93d1545a9933c8c2a7de",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5319339,
+        "known_for_department": "Acting",
+        "name": "Quique Tárrega",
+        "original_name": "Quique Tárrega",
+        "popularity": 0.1155,
+        "profile_path": null,
+        "credit_id": "691d93ec72ea445ec8c2a7af",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5826304,
+        "known_for_department": "Editing",
+        "name": "Marta Salcedo Martínez",
+        "original_name": "Marta Salcedo Martínez",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "691d93feb1e9125ddcfc1e92",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5826303,
+        "known_for_department": "Acting",
+        "name": "Amparo Cebrián",
+        "original_name": "Amparo Cebrián",
+        "popularity": 0.042,
+        "profile_path": null,
+        "credit_id": "691d941fc91fc39b332e1956",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5826305,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Amalia Badal",
+        "original_name": "Amalia Badal",
+        "popularity": 0.0681,
+        "profile_path": null,
+        "credit_id": "691d942d44f6e600ccfc1f76",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5826305,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Amalia Badal",
+        "original_name": "Amalia Badal",
+        "popularity": 0.0681,
+        "profile_path": null,
+        "credit_id": "691d9443cc3bba9ecc2e19c1",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5826303,
+        "known_for_department": "Acting",
+        "name": "Amparo Cebrián",
+        "original_name": "Amparo Cebrián",
+        "popularity": 0.042,
+        "profile_path": null,
+        "credit_id": "691d94548a463e12ef7ad867",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5646165,
+        "known_for_department": "Acting",
+        "name": "Simone Vals",
+        "original_name": "Simone Vals",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "691d94644e39122a1824f4e8",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5826306,
+        "known_for_department": "Sound",
+        "name": "Fran Botella Torres",
+        "original_name": "Fran Botella Torres",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "691d947f30ec04dfc12d02f1",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5826304,
+        "known_for_department": "Editing",
+        "name": "Marta Salcedo Martínez",
+        "original_name": "Marta Salcedo Martínez",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "691d94972250d1afcf2d0393",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5826307,
+        "known_for_department": "Lighting",
+        "name": "Carla Tárrega Campos",
+        "original_name": "Carla Tárrega Campos",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "691d94aaae65c683ca2e19bb",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5646276,
+        "known_for_department": "Sound",
+        "name": "Maik",
+        "original_name": "Maik",
+        "popularity": 0.0505,
+        "profile_path": null,
+        "credit_id": "691d94be1ff33aebbf2d032e",
+        "department": "Lighting",
+        "job": "Gaffer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 34145,
+        "name": "beach house"
+      },
+      {
+        "id": 286407,
+        "name": "party"
+      },
+      {
+        "id": 315058,
+        "name": "horror"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Mara leaves her house on the beach after a night of partying. Something is not right, an evil has been unleashed.",
+          "runtime": 5,
+          "tagline": "An evil has been unleashed",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt38844598",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 720,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/3w2GbmUDYACMaDmmfE4ur9WiHch.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1280
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 720,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/7s0OM2jhJ52lwPCYqRae3FQP9mU.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1280
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 720,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/cpWFdYyKaa0iLVxUpsGaKjoyhY0.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1280
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 720,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/nyGQWymtMNylxtfubN0Dqd98Fgy.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1280
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/gSq8cO8t4WM4eFqTIuf9myJ35gO.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "",
+            "release_date": "2025-10-31T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "🩸 DARK MOON 🌑 | Cortometraje de terror y ciencia ficción (2025)",
+        "key": "MG_jTG3Kb-Y",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": false,
+        "id": "691d954d2532ca160f2c9d72",
+        "published_at": "2025-10-31T14:00:06.000Z"
+      }
+    ]
+  }
+}

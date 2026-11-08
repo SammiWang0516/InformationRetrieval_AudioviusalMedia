@@ -1,0 +1,205 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 1683551,
+  "imdb_id": "tt39402858",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Contact in the Woods: The Dr. Jonathan Reed Story",
+  "overview": "",
+  "popularity": 1.0116,
+  "poster_path": "/bvQlA8B6gJCLdkL59WLxY2NQRDZ.jpg",
+  "production_companies": [
+    {
+      "id": 248021,
+      "logo_path": null,
+      "name": "Cousins Brothers Production",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-03-01",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "Contact in the Woods: The Dr. Jonathan Reed Story",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1303581,
+        "known_for_department": "Acting",
+        "name": "Jaime Maussan",
+        "original_name": "Jaime Maussan",
+        "popularity": 0.502,
+        "profile_path": "/pdhPRjaUmaOPhNUASOZXTJ9r5e5.jpg",
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "69f0421c5dfb64c5861312cb",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4829501,
+        "known_for_department": "Acting",
+        "name": "Jonathan Reed",
+        "original_name": "Jonathan Reed",
+        "popularity": 0.253,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "69f0422393da0e694f0fd051",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4770492,
+        "known_for_department": "Editing",
+        "name": "Jonathan Reed",
+        "original_name": "Jonathan Reed",
+        "popularity": 0.1898,
+        "profile_path": null,
+        "credit_id": "69f042b46f6ecbb29cdd0436",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 9951,
+        "name": "alien"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "La randonnée d'un homme tourne au cauchemar lors d'une rencontre extraterrestre sanglante. Après avoir tué un touriste pour sauver son chien, le Dr Jonathan Reed découvre des preuves terrifiantes avant d'être traqué par des forces obscures. Plongez au cœur de ce mystère de 1996, qui demeure l'affaire d'OVNI la plus controversée au monde.",
+          "runtime": 60,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "La excursión de un hombre termina en un sangriento encuentro con extraterrestres. Tras matar a un visitante para salvar a su perro, el Dr. Jonathan Reed obtuvo pruebas aterradoras antes de ser perseguido por fuerzas oscuras. Adéntrate en el misterio de 1996 que sigue siendo el caso OVNI más controvertido del mundo.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt39402858",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 2100,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/bvQlA8B6gJCLdkL59WLxY2NQRDZ.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1400
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2026-04-27T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "PG-13",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2026-03-01T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

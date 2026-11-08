@@ -1,0 +1,385 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1420302,
+  "imdb_id": null,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Kuster Beaton",
+  "overview": "In 1970, Kuster Beaton, a former silent-film star, gives an interview looking back over his career. A journalist asks him about his legendary power : an alleged super-speed that enabled him to shoot his films without special effects.",
+  "popularity": 0.8455,
+  "poster_path": "/qzsdhyUuGZi6Qgxu5KNDtJZM3fq.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2025-01-20",
+  "revenue": 0,
+  "runtime": 3,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "24 steps per second",
+  "title": "Kuster Beaton",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3225623,
+        "known_for_department": "Acting",
+        "name": "Georges d'Audignon",
+        "original_name": "Georges d'Audignon",
+        "popularity": 0.152,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Kuster Beaton (1970)",
+        "credit_id": "678d82cb42f27c754c652bb8",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5190395,
+        "known_for_department": "Acting",
+        "name": "Pablo Freïtas",
+        "original_name": "Pablo Freïtas",
+        "popularity": 0.1107,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Kuster Beaton (1925)",
+        "credit_id": "678d82f7859fb4e6a86e0bd5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5190396,
+        "known_for_department": "Acting",
+        "name": "Léa Barbier",
+        "original_name": "Léa Barbier",
+        "popularity": 0.1228,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Journaliste / Femme au téléphone",
+        "credit_id": "678d831e859fb4e6a86e0bf8",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2565568,
+        "known_for_department": "Directing",
+        "name": "Renaud Lefebvre",
+        "original_name": "Renaud Lefebvre",
+        "popularity": 0.1461,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Le policier",
+        "credit_id": "678d8333d8a5b0d00c434292",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4614674,
+        "known_for_department": "Sound",
+        "name": "Cédric Moreno",
+        "original_name": "Cédric Moreno",
+        "popularity": 0.2477,
+        "profile_path": null,
+        "credit_id": "678d8106859fb4e6a86e0b01",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4614670,
+        "known_for_department": "Camera",
+        "name": "Nathan Jungfer",
+        "original_name": "Nathan Jungfer",
+        "popularity": 0.0633,
+        "profile_path": null,
+        "credit_id": "678d81138bca661d054349b5",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4614666,
+        "known_for_department": "Directing",
+        "name": "Fabian Jestin",
+        "original_name": "Fabian Jestin",
+        "popularity": 0.1193,
+        "profile_path": "/7J6iXvET4i3OkkECtuap244jba2.jpg",
+        "credit_id": "678d813168e0d873636e11e3",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2565568,
+        "known_for_department": "Directing",
+        "name": "Renaud Lefebvre",
+        "original_name": "Renaud Lefebvre",
+        "popularity": 0.1461,
+        "profile_path": null,
+        "credit_id": "678d814342f27c754c652aac",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4614666,
+        "known_for_department": "Directing",
+        "name": "Fabian Jestin",
+        "original_name": "Fabian Jestin",
+        "popularity": 0.1193,
+        "profile_path": "/7J6iXvET4i3OkkECtuap244jba2.jpg",
+        "credit_id": "678d815242f27c754c652ad2",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5190389,
+        "known_for_department": "Sound",
+        "name": "Cassandre Puel",
+        "original_name": "Cassandre Puel",
+        "popularity": 0.1518,
+        "profile_path": null,
+        "credit_id": "678d8189859fb4e6a86e0b65",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5190390,
+        "known_for_department": "Sound",
+        "name": "Vladimir Bouaniche",
+        "original_name": "Vladimir Bouaniche",
+        "popularity": 0.0539,
+        "profile_path": null,
+        "credit_id": "678d81e17c7047471b4330a8",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5190393,
+        "known_for_department": "Directing",
+        "name": "Philippine Schmitt",
+        "original_name": "Philippine Schmitt",
+        "popularity": 0.0832,
+        "profile_path": null,
+        "credit_id": "678d8230dcb6e839f342fca9",
+        "department": "Directing",
+        "job": "Continuity"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4614674,
+        "known_for_department": "Sound",
+        "name": "Cédric Moreno",
+        "original_name": "Cédric Moreno",
+        "popularity": 0.2477,
+        "profile_path": null,
+        "credit_id": "678d824442f27c754c652b85",
+        "department": "Crew",
+        "job": "Script"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5190394,
+        "known_for_department": "Camera",
+        "name": "Adrien Rousseau",
+        "original_name": "Adrien Rousseau",
+        "popularity": 0.2824,
+        "profile_path": null,
+        "credit_id": "678d826168e0d873636e1279",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2977439,
+        "known_for_department": "Camera",
+        "name": "Hugo Mourard",
+        "original_name": "Hugo Mourard",
+        "popularity": 0.051,
+        "profile_path": null,
+        "credit_id": "678d827868e0d873636e1284",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4350449,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jeanne Pignac",
+        "original_name": "Jeanne Pignac",
+        "popularity": 0.137,
+        "profile_path": null,
+        "credit_id": "678d82959d5e363d1964db6e",
+        "department": "Lighting",
+        "job": "Electrician"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 9253,
+        "name": "slapstick comedy"
+      },
+      {
+        "id": 11800,
+        "name": "mockumentary"
+      },
+      {
+        "id": 163070,
+        "name": "burlesque"
+      },
+      {
+        "id": 188647,
+        "name": "silent film star"
+      },
+      {
+        "id": 207155,
+        "name": "buster keaton"
+      },
+      {
+        "id": 234957,
+        "name": "celebrity interview"
+      },
+      {
+        "id": 255150,
+        "name": "silent cinema"
+      },
+      {
+        "id": 324082,
+        "name": "muet"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "En 1970, Kuster Beaton, ancienne gloire du cinéma muet, donne une interview qui revient sur sa carrière. Une journaliste l’interroge sur son pouvoir légendaire, une prétendue super-vitesse qui lui permettait de tourner ses films sans trucage.",
+          "runtime": 3,
+          "tagline": "24 pas à la seconde",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "In 1970, Kuster Beaton, a former silent-film star, gives an interview looking back over his career. A journalist asks him about his legendary power : an alleged super-speed that enabled him to shoot his films without special effects.",
+          "runtime": 3,
+          "tagline": "24 steps per second",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/qzsdhyUuGZi6Qgxu5KNDtJZM3fq.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "fr",
+            "note": "",
+            "release_date": "2025-01-20T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

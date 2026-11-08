@@ -1,0 +1,195 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1626645,
+  "imdb_id": "tt39216078",
+  "origin_country": [
+    "NL"
+  ],
+  "original_language": "nl",
+  "original_title": "A Shot at Art",
+  "overview": "Every summer, seasoned volunteers and friends Helen (67) and Peggy (64) give their all for the prestigious festival Art at Sea. This year promises to be special, as they have been assigned to scan tickets at the Hangar.",
+  "popularity": 1.2321,
+  "poster_path": "/cBSATFCUb94OCNoRLox4k85Ezsj.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "release_date": "2026-01-30",
+  "revenue": 0,
+  "runtime": 16,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "A Shot at Art",
+  "video": false,
+  "vote_average": 5.667,
+  "vote_count": 3,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 87846,
+        "known_for_department": "Acting",
+        "name": "Juul Vrijdag",
+        "original_name": "Juul Vrijdag",
+        "popularity": 0.4638,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "697e8139656ac808fedc9768",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3364767,
+        "known_for_department": "Acting",
+        "name": "Bo Bojoh",
+        "original_name": "Bo Bojoh",
+        "popularity": 0.6943,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "697e815fbfd69710b11c58a3",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1261641,
+        "known_for_department": "Acting",
+        "name": "Ilke Paddenburg",
+        "original_name": "Ilke Paddenburg",
+        "popularity": 0.0408,
+        "profile_path": null,
+        "credit_id": "697e80fa4998f79b420e72f0",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "Deux bénévoles retraités gardent l'entrée d'une performance d'art contemporain, et si elles entraient?",
+          "runtime": 17,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Every summer, seasoned volunteers and friends Helen (67) and Peggy (64) give their all for the prestigious festival Art at Sea. This year promises to be special, as they have been assigned to scan tickets at the Hangar.",
+          "runtime": 16,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt39216078",
+    "wikidata_id": "Q141768973",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.669,
+        "height": 1449,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/cBSATFCUb94OCNoRLox4k85Ezsj.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 969
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Clermont-Ferrand short film festival",
+            "release_date": "2026-01-30T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "UA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Kyiv International Short Film Festival ",
+            "release_date": "2026-09-17T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

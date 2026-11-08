@@ -1,0 +1,291 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1599472,
+  "imdb_id": null,
+  "origin_country": [
+    "AU"
+  ],
+  "original_language": "en",
+  "original_title": "The Suit",
+  "overview": "A couple engaged in a bizarre legal proceeding confront the source of their problem.",
+  "popularity": 0.9763,
+  "poster_path": "/1PA5ujFU08xvXkskIE6YIjgakbZ.jpg",
+  "production_companies": [
+    {
+      "id": 252486,
+      "logo_path": null,
+      "name": "Recliner",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    }
+  ],
+  "release_date": "2026-01-23",
+  "revenue": 0,
+  "runtime": 12,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Suit",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 75182,
+        "known_for_department": "Acting",
+        "name": "Kat Stewart",
+        "original_name": "Kat Stewart",
+        "popularity": 0.5511,
+        "profile_path": "/rAXfHPAqx7RIXmpgcD5wXdlWxmJ.jpg",
+        "cast_id": 1,
+        "character": "Sara",
+        "credit_id": "6941edca0baad6522bd34145",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 124588,
+        "known_for_department": "Acting",
+        "name": "Colin Lane",
+        "original_name": "Colin Lane",
+        "popularity": 0.3944,
+        "profile_path": "/otVcFfVs9lRDFZWBSJrHzbj8tx3.jpg",
+        "cast_id": 2,
+        "character": "Robert",
+        "credit_id": "6941edd60b03dc41b75c5996",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1656170,
+        "known_for_department": "Acting",
+        "name": "Harvey Zielinski",
+        "original_name": "Harvey Zielinski",
+        "popularity": 0.2041,
+        "profile_path": "/hTU2Fn4kNXPXE5DaLpUfhpAHVi4.jpg",
+        "cast_id": 3,
+        "character": "Ethan Renegade",
+        "credit_id": "6941ede9b51b181ed39dd406",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3759421,
+        "known_for_department": "Acting",
+        "name": "Vidya Rajan",
+        "original_name": "Vidya Rajan",
+        "popularity": 0.1569,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Isha",
+        "credit_id": "6941ee04b7d3647dd213b678",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5881801,
+        "known_for_department": "Acting",
+        "name": "Scott Limbrick",
+        "original_name": "Scott Limbrick",
+        "popularity": 0.1213,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Jonathan",
+        "credit_id": "6941ee18d92339d34a3f8ffa",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3588421,
+        "known_for_department": "Directing",
+        "name": "Jesse Vogelaar",
+        "original_name": "Jesse Vogelaar",
+        "popularity": 0.2968,
+        "profile_path": null,
+        "credit_id": "6941ee35f78dc2242d1ac2b0",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5881801,
+        "known_for_department": "Acting",
+        "name": "Scott Limbrick",
+        "original_name": "Scott Limbrick",
+        "popularity": 0.1213,
+        "profile_path": null,
+        "credit_id": "6941ee42d3728e10b6da1660",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4091150,
+        "known_for_department": "Production",
+        "name": "Lawrence Phelan",
+        "original_name": "Lawrence Phelan",
+        "popularity": 0.199,
+        "profile_path": null,
+        "credit_id": "6941ee51b51b181ed39dd40a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2811455,
+        "known_for_department": "Crew",
+        "name": "Bonita Carzino",
+        "original_name": "Bonita Carzino",
+        "popularity": 0.1242,
+        "profile_path": null,
+        "credit_id": "6941ee6cd1d41f9ca23f9057",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4764240,
+        "known_for_department": "Directing",
+        "name": "Pernell Marsden",
+        "original_name": "Pernell Marsden",
+        "popularity": 0.0588,
+        "profile_path": null,
+        "credit_id": "6941ee7aa77a1c20af20f712",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4202407,
+        "known_for_department": "Editing",
+        "name": "Ollie Knocker",
+        "original_name": "Ollie Knocker",
+        "popularity": 0.0408,
+        "profile_path": null,
+        "credit_id": "6941ee87cf6efa745e1ac2a3",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 5956,
+        "name": "stuntman"
+      },
+      {
+        "id": 7335,
+        "name": "lawsuit"
+      },
+      {
+        "id": 40869,
+        "name": "daredevil"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "A couple engaged in a bizarre legal proceeding confront the source of their problem.",
+          "runtime": 12,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/1PA5ujFU08xvXkskIE6YIjgakbZ.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Flickerfest",
+            "release_date": "2026-01-23T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

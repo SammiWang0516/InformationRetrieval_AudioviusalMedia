@@ -1,0 +1,356 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1520413,
+  "imdb_id": "tt36999576",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Meat Raffle",
+  "overview": "Cumbria, 1998. Terrified he's turned his son queer, closeted dad Rich plots to rig his local pub's Christmas turkey draw to prove what it means to be a real man.",
+  "popularity": 0.7986,
+  "poster_path": "/xsa3BNJYhaSC3mCncOybAz0n206.jpg",
+  "production_companies": [
+    {
+      "id": 273643,
+      "logo_path": null,
+      "name": "Everyday",
+      "origin_country": ""
+    },
+    {
+      "id": 124380,
+      "logo_path": "/qIdZ9URViV66jgRCJKwnQHeOcB0.png",
+      "name": "BFI Network",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2025-10-01",
+  "revenue": 0,
+  "runtime": 15,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Meat Raffle",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 3,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 215846,
+        "known_for_department": "Acting",
+        "name": "Michael Hodgson",
+        "original_name": "Michael Hodgson",
+        "popularity": 0.3935,
+        "profile_path": "/7OnuB82jUg331my4hiZWG6qsm61.jpg",
+        "cast_id": 3,
+        "character": "Rich",
+        "credit_id": "6886bbae04999af3d452b212",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5016449,
+        "known_for_department": "Acting",
+        "name": "Will Latimer",
+        "original_name": "Will Latimer",
+        "popularity": 0.0712,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Jackson",
+        "credit_id": "6886bbb92bdd11277a246c9b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3434121,
+        "known_for_department": "Acting",
+        "name": "Dominic Weatherill",
+        "original_name": "Dominic Weatherill",
+        "popularity": 0.0964,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Alan",
+        "credit_id": "6886bbca89990311ec52b508",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5590618,
+        "known_for_department": "Acting",
+        "name": "Julie Edwards",
+        "original_name": "Julie Edwards",
+        "popularity": 0.224,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Tammy",
+        "credit_id": "6886bbf390d9bd73978a7332",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2140483,
+        "known_for_department": "Writing",
+        "name": "Stuart Armstrong",
+        "original_name": "Stuart Armstrong",
+        "popularity": 0.1186,
+        "profile_path": null,
+        "credit_id": "6886bb5afb418b1ac138fb9c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2140483,
+        "known_for_department": "Writing",
+        "name": "Stuart Armstrong",
+        "original_name": "Stuart Armstrong",
+        "popularity": 0.1186,
+        "profile_path": null,
+        "credit_id": "6886bb61730882225255f62a",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4955378,
+        "known_for_department": "Acting",
+        "name": "Harry Shaw",
+        "original_name": "Harry Shaw",
+        "popularity": 0.0845,
+        "profile_path": null,
+        "credit_id": "68bffbb24e058dc0fe9c0dec",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4031335,
+        "known_for_department": "Crew",
+        "name": "Ben Cotgrove",
+        "original_name": "Ben Cotgrove",
+        "popularity": 0.0622,
+        "profile_path": null,
+        "credit_id": "69109219d1da7ed6a2874de9",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5806051,
+        "known_for_department": "Production",
+        "name": "Hannah Rawson",
+        "original_name": "Hannah Rawson",
+        "popularity": 0.0876,
+        "profile_path": null,
+        "credit_id": "691092343174b11fc0c05a98",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5806052,
+        "known_for_department": "Editing",
+        "name": "Ian Robertson",
+        "original_name": "Ian Robertson",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "691092590041954608a0c810",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4481609,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Eve Oakley",
+        "original_name": "Eve Oakley",
+        "popularity": 0.1296,
+        "profile_path": null,
+        "credit_id": "691092697be3c0786ace87a4",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4292281,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Caroline Rose",
+        "original_name": "Caroline Rose",
+        "popularity": 0.0617,
+        "profile_path": null,
+        "credit_id": "6910927c81395a6dd1d25766",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2239332,
+        "known_for_department": "Directing",
+        "name": "Samantha Locock",
+        "original_name": "Samantha Locock",
+        "popularity": 0.2711,
+        "profile_path": null,
+        "credit_id": "6ad763266fe1ee2bd9b9d619",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 4459,
+        "name": "vegetarian"
+      },
+      {
+        "id": 11524,
+        "name": "in the closet"
+      },
+      {
+        "id": 207317,
+        "name": "christmas"
+      },
+      {
+        "id": 207589,
+        "name": "raffle"
+      },
+      {
+        "id": 210608,
+        "name": "1990s"
+      },
+      {
+        "id": 260365,
+        "name": "christmas eve"
+      },
+      {
+        "id": 263548,
+        "name": "short film"
+      },
+      {
+        "id": 285576,
+        "name": "pub"
+      },
+      {
+        "id": 293141,
+        "name": "cumbria"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Cumbria, 1998. Terrified he's turned his son queer, closeted dad Rich plots to rig his local pub's Christmas turkey draw to prove what it means to be a real man.",
+          "runtime": 15,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt36999576",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.675,
+        "height": 2880,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/xsa3BNJYhaSC3mCncOybAz0n206.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1944
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 750,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/ko7jekJuL3YymhzCYQcHiMRjXkk.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 500
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Bolton Internation Film Festival",
+            "release_date": "2025-10-01T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

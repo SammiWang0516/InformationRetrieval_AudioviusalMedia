@@ -1,0 +1,184 @@
+{
+  "adult": false,
+  "backdrop_path": "/ArX0piRBkeAP9fydWBncPpdKUXE.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "",
+  "id": 1798829,
+  "imdb_id": null,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Madame la Préfète",
+  "overview": "",
+  "popularity": 0.0851,
+  "poster_path": "/9N1UlOavlFme8Ewp4mguUDz2hNX.jpg",
+  "production_companies": [
+    {
+      "id": 127436,
+      "logo_path": "/85hn0WZVj2wpm7scTkrQz76lKJ7.png",
+      "name": "LCP - Assemblée nationale",
+      "origin_country": "FR"
+    },
+    {
+      "id": 90881,
+      "logo_path": "/sRtQRyhTAPzsw0wUmnrpkXPQEuz.png",
+      "name": "Public Sénat",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2026-10-24",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Madame la Préfète",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6572993,
+        "known_for_department": "Acting",
+        "name": "Valérie Michel-Moreaux",
+        "original_name": "Valérie Michel-Moreaux",
+        "popularity": 0.0932,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Self - subject, prefect",
+        "credit_id": "6adcfb03ff4bca21c1f7afbf",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2733679,
+        "known_for_department": "Directing",
+        "name": "Marie Linton",
+        "original_name": "Marie Linton",
+        "popularity": 0.0966,
+        "profile_path": null,
+        "credit_id": "6ad1e6260b589549e5a753b7",
+        "department": "Writing",
+        "job": "Author"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2733679,
+        "known_for_department": "Directing",
+        "name": "Marie Linton",
+        "original_name": "Marie Linton",
+        "popularity": 0.0966,
+        "profile_path": null,
+        "credit_id": "6ad1e62ec63a542582d78f6f",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "https://www.publicsenat.fr/emission/documentaire/documentaire-madame-la-prefete-e0",
+          "overview": "Ils sont le trait d'union entre Paris et les territoires. Les 130 préfets ont la délicate mission de faire appliquer la politique nationale dans les régions et les départements. Beaucoup d'hommes, mais aussi quelques femmes. L'une d'elles a accepté que nous la suivions durant sa dernière année dans les Vosges, un département en souffrance, entre ferm ... etures d'usines et déclins de population. Issue d'un milieu modeste, Valérie Michel-Moreaux s'est hissé à ce poste grâce à sa seule volonté. Pollution aux PFAS, suicide des agriculteurs, villes en ruines... Cette préfète pas comme les autres traverse les crises avec un style bien à elle. Son enjeu : défendre la République mais aussi réconcilier les territoires ruraux avec les décisions prises dans une lointaine capitale.",
+          "runtime": 52,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 2052,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/ArX0piRBkeAP9fydWBncPpdKUXE.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3648
+      }
+    ],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "LCP.fr",
+            "release_date": "2026-10-24T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "LCP - Public Sénat",
+            "release_date": "2026-10-24T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

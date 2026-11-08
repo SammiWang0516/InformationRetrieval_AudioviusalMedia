@@ -1,0 +1,800 @@
+{
+  "adult": false,
+  "backdrop_path": "/xbmG5BwSny9b95dilIeQ5cW20dJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1680104,
+  "imdb_id": null,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "PASTIS",
+  "overview": "Sasha, 20, returns to her family’s sun-soaked home in the south of France with her friends—her first visit since her older sister’s death. What begins as an idyllic summer escape slowly curdles into something far more suffocating.",
+  "popularity": 1.0065,
+  "poster_path": "/kxWg8lGMrO6zCRPeBLSoe97zm2Q.jpg",
+  "production_companies": [
+    {
+      "id": 296369,
+      "logo_path": null,
+      "name": "Idem Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2026-10-03",
+  "revenue": 0,
+  "runtime": 16,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "PASTIS",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6150804,
+        "known_for_department": "Acting",
+        "name": "Valentine Soutif",
+        "original_name": "Valentine Soutif",
+        "popularity": 0.1237,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Sasha",
+        "credit_id": "69eb2f08efc287ff9c935454",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4249937,
+        "known_for_department": "Acting",
+        "name": "Jules Danger",
+        "original_name": "Jules Danger",
+        "popularity": 0.22,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Ben",
+        "credit_id": "69eb30219534e3dc84d47f74",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6164703,
+        "known_for_department": "Acting",
+        "name": "Marceau Huitorel",
+        "original_name": "Marceau Huitorel",
+        "popularity": 0.2089,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Luc",
+        "credit_id": "69eb3139a8fa2cab860282be",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6164705,
+        "known_for_department": "Acting",
+        "name": "Ariane Ducasse",
+        "original_name": "Ariane Ducasse",
+        "popularity": 0.1525,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Esther",
+        "credit_id": "69eb31461cff2a9aaedc76e6",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6164706,
+        "known_for_department": "Acting",
+        "name": "Ana Lorvo",
+        "original_name": "Ana Lorvo",
+        "popularity": 0.0915,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Magda",
+        "credit_id": "69eb3157b289c5f8bd93537c",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6164714,
+        "known_for_department": "Camera",
+        "name": "David Frak-Lauer",
+        "original_name": "David Frak-Lauer",
+        "popularity": 0.0616,
+        "profile_path": null,
+        "credit_id": "69eb31bc4fb9de29b928cb96",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3789536,
+        "known_for_department": "Camera",
+        "name": "Telma Perruchon",
+        "original_name": "Telma Perruchon",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "69eb320a1fc111fb7b28ccb6",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6164722,
+        "known_for_department": "Directing",
+        "name": "Clara Lhuillier",
+        "original_name": "Clara Lhuillier",
+        "popularity": 0.2073,
+        "profile_path": null,
+        "credit_id": "69eb321b4ff1a8b9dc6b0cb8",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6164722,
+        "known_for_department": "Directing",
+        "name": "Clara Lhuillier",
+        "original_name": "Clara Lhuillier",
+        "popularity": 0.2073,
+        "profile_path": null,
+        "credit_id": "69eb32314fb9de29b928cbbf",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6164729,
+        "known_for_department": "Production",
+        "name": "Lola Talva",
+        "original_name": "Lola Talva",
+        "popularity": 0.0948,
+        "profile_path": null,
+        "credit_id": "69eb328ea90abbe3bbdc7483",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6164729,
+        "known_for_department": "Production",
+        "name": "Lola Talva",
+        "original_name": "Lola Talva",
+        "popularity": 0.0948,
+        "profile_path": null,
+        "credit_id": "69eb329e476ac3cd16dc750d",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6164730,
+        "known_for_department": "Production",
+        "name": "Gabin Willot",
+        "original_name": "Gabin Willot",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "69eb32acc4d3bb676917c823",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6164731,
+        "known_for_department": "Lighting",
+        "name": "Valentin Roy",
+        "original_name": "Valentin Roy",
+        "popularity": 0.0948,
+        "profile_path": null,
+        "credit_id": "69eb32ec63c5469ebe9352f0",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3923026,
+        "known_for_department": "Lighting",
+        "name": "Léa Sorrenti",
+        "original_name": "Léa Sorrenti",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "69eb3308918b03bfdc17c873",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4405622,
+        "known_for_department": "Sound",
+        "name": "Olivier Luce",
+        "original_name": "Olivier Luce",
+        "popularity": 0.0643,
+        "profile_path": null,
+        "credit_id": "69eb33702eff35f2c56b0ef1",
+        "department": "Sound",
+        "job": "Sound Engineer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6164738,
+        "known_for_department": "Editing",
+        "name": "Jonas Borne",
+        "original_name": "Jonas Borne",
+        "popularity": 0.1121,
+        "profile_path": null,
+        "credit_id": "69eb33a8a49c61cd0714ff69",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4500722,
+        "known_for_department": "Sound",
+        "name": "Gaspard Noack-Wilhelm",
+        "original_name": "Gaspard Noack-Wilhelm",
+        "popularity": 0.0889,
+        "profile_path": null,
+        "credit_id": "69eb34079c99883059d48086",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6164749,
+        "known_for_department": "Sound",
+        "name": "Louis Crétel",
+        "original_name": "Louis Crétel",
+        "popularity": 0.0824,
+        "profile_path": null,
+        "credit_id": "69eb34550964fea0dc935236",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4346487,
+        "known_for_department": "Camera",
+        "name": "Simon Jayet",
+        "original_name": "Simon Jayet",
+        "popularity": 0.5736,
+        "profile_path": null,
+        "credit_id": "69eb347fdbbc3b362ab4dfb3",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6164754,
+        "known_for_department": "Directing",
+        "name": "Anaïs DAUTEUIL",
+        "original_name": "Anaïs DAUTEUIL",
+        "popularity": 0.0616,
+        "profile_path": null,
+        "credit_id": "69eb3495b9e93ba898b4decb",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6164756,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Chloé SERGENT–FRISA",
+        "original_name": "Chloé SERGENT–FRISA",
+        "popularity": 0.0616,
+        "profile_path": null,
+        "credit_id": "69eb34b6529bab50900281ee",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5199694,
+        "known_for_department": "Acting",
+        "name": "Jade Brodziak",
+        "original_name": "Jade Brodziak",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "69eb35054eb81ef490b4e16a",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6164761,
+        "known_for_department": "Production",
+        "name": "Capucine Ramé",
+        "original_name": "Capucine Ramé",
+        "popularity": 0.0655,
+        "profile_path": null,
+        "credit_id": "69eb3519e1282f6b4f28caae",
+        "department": "Production",
+        "job": "Location Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6164762,
+        "known_for_department": "Production",
+        "name": "Arnaud Lhuillier",
+        "original_name": "Arnaud Lhuillier",
+        "popularity": 0.0872,
+        "profile_path": null,
+        "credit_id": "69eb352481b266c6746b0db6",
+        "department": "Production",
+        "job": "Location Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6164763,
+        "known_for_department": "Production",
+        "name": "Mahaut DE BECDELIEVRE",
+        "original_name": "Mahaut DE BECDELIEVRE",
+        "popularity": 0.0684,
+        "profile_path": null,
+        "credit_id": "69eb353e393047ebb993545f",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6164722,
+        "known_for_department": "Directing",
+        "name": "Clara Lhuillier",
+        "original_name": "Clara Lhuillier",
+        "popularity": 0.2073,
+        "profile_path": null,
+        "credit_id": "69eb3653498cf14066028438",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5406869,
+        "known_for_department": "Camera",
+        "name": "Maïa Geffriaud",
+        "original_name": "Maïa Geffriaud",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "69eb40f081b266c6746b0e20",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5406869,
+        "known_for_department": "Camera",
+        "name": "Maïa Geffriaud",
+        "original_name": "Maïa Geffriaud",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "69eb410c1c80abe334dc753b",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4636058,
+        "known_for_department": "Directing",
+        "name": "Lea Alda Copat",
+        "original_name": "Lea Alda Copat",
+        "popularity": 0.1639,
+        "profile_path": null,
+        "credit_id": "6a2abe0060fa0e97b6569c84",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6279033,
+        "known_for_department": "Production",
+        "name": "Damien Laure",
+        "original_name": "Damien Laure",
+        "popularity": 0.0616,
+        "profile_path": null,
+        "credit_id": "6a2abe361739ef2711efdb25",
+        "department": "Production",
+        "job": "Administration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6279041,
+        "known_for_department": "Production",
+        "name": "Anne-Maël Kerjean",
+        "original_name": "Anne-Maël Kerjean",
+        "popularity": 0.0633,
+        "profile_path": null,
+        "credit_id": "6a2abec4edf6bcbf40efdce4",
+        "department": "Production",
+        "job": "Administration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6279043,
+        "known_for_department": "Editing",
+        "name": "Elodie de la Vaissière",
+        "original_name": "Elodie de la Vaissière",
+        "popularity": 0.0616,
+        "profile_path": null,
+        "credit_id": "6a2abf4479e89e1ddaa0cf44",
+        "department": "Editing",
+        "job": "Editorial Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6521704,
+        "known_for_department": "Production",
+        "name": "Mehdi  Bougueham",
+        "original_name": "Mehdi  Bougueham",
+        "popularity": 0.091,
+        "profile_path": null,
+        "credit_id": "6ac02e0a724d8e44b85c98e8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6521705,
+        "known_for_department": "Production",
+        "name": "Julie Thomas",
+        "original_name": "Julie Thomas",
+        "popularity": 0.1014,
+        "profile_path": null,
+        "credit_id": "6ac02e44b6eaad8cd62c1077",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6070878,
+        "known_for_department": "Crew",
+        "name": "Simon Fichtner",
+        "original_name": "Simon Fichtner",
+        "popularity": 0.0955,
+        "profile_path": null,
+        "credit_id": "6ac03176d55afc96931d650c",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4585538,
+        "known_for_department": "Production",
+        "name": "Mehdi Bougueham",
+        "original_name": "Mehdi Bougueham",
+        "popularity": 0.0657,
+        "profile_path": null,
+        "credit_id": "6ad4fdccf6a14807cdb41c54",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 6054,
+        "name": "friendship"
+      },
+      {
+        "id": 254,
+        "name": "france"
+      },
+      {
+        "id": 548,
+        "name": "countryside"
+      },
+      {
+        "id": 128,
+        "name": "love triangle"
+      },
+      {
+        "id": 1655,
+        "name": "country house"
+      },
+      {
+        "id": 9840,
+        "name": "romance"
+      },
+      {
+        "id": 10683,
+        "name": "coming of age"
+      },
+      {
+        "id": 9673,
+        "name": "love"
+      },
+      {
+        "id": 10937,
+        "name": "memory"
+      },
+      {
+        "id": 11718,
+        "name": "feminist"
+      },
+      {
+        "id": 13088,
+        "name": "summer"
+      },
+      {
+        "id": 18035,
+        "name": "family"
+      },
+      {
+        "id": 155939,
+        "name": "group of friends"
+      },
+      {
+        "id": 156076,
+        "name": "human relationship"
+      },
+      {
+        "id": 158651,
+        "name": "realism"
+      },
+      {
+        "id": 159103,
+        "name": "mourning"
+      },
+      {
+        "id": 159315,
+        "name": "mental health"
+      },
+      {
+        "id": 164246,
+        "name": "nostalgic"
+      },
+      {
+        "id": 166139,
+        "name": "lovesick"
+      },
+      {
+        "id": 173339,
+        "name": "laughter"
+      },
+      {
+        "id": 221227,
+        "name": "heatwave"
+      },
+      {
+        "id": 240422,
+        "name": "wonder"
+      },
+      {
+        "id": 240484,
+        "name": "roadtrip"
+      },
+      {
+        "id": 293161,
+        "name": "yearning"
+      },
+      {
+        "id": 293194,
+        "name": "youth"
+      },
+      {
+        "id": 319319,
+        "name": "sentimental"
+      },
+      {
+        "id": 323419,
+        "name": "south of france"
+      },
+      {
+        "id": 325819,
+        "name": "frustrated"
+      },
+      {
+        "id": 325824,
+        "name": "hopeful"
+      },
+      {
+        "id": 327925,
+        "name": "dissociation"
+      },
+      {
+        "id": 355144,
+        "name": "timeless"
+      },
+      {
+        "id": 385137,
+        "name": "early 20s"
+      },
+      {
+        "id": 385801,
+        "name": "20 something"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "Sasha, 20 ans, part en vacances avec son groupe d’amis dans sa maison d'enfance dans le Sud de la France. De retour pour la première fois depuis la mort de sa soeur, ce qui devait être un été idyllique devient rapidement étouffant pour elle.",
+          "runtime": 16,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Sasha, 20, returns to her family’s sun-soaked home in the south of France with her friends—her first visit since her older sister’s death. What begins as an idyllic summer escape slowly curdles into something far more suffocating.",
+          "runtime": 16,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "FR",
+        "title": "Pastis",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.777,
+        "height": 1024,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/xbmG5BwSny9b95dilIeQ5cW20dJ.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1820
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.717,
+        "height": 2568,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/kxWg8lGMrO6zCRPeBLSoe97zm2Q.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1842
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/saW2hX4Ri2egJTdDXkzm0XKkUcT.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.706,
+        "height": 1600,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/2tvmc2lvrfN5pEcntvzxAWfrdst.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1129
+      },
+      {
+        "aspect_ratio": 0.75,
+        "height": 1585,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/ul4EZbu25SJO2S2gPkgDlVITB2r.jpg",
+        "vote_average": 0.0,
+        "vote_count": 1,
+        "width": 1189
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "fr",
+            "note": "",
+            "release_date": "2026-10-03T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

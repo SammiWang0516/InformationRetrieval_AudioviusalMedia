@@ -1,0 +1,754 @@
+{
+  "adult": false,
+  "backdrop_path": "/zRwl3LlxKzSgwVkCuYH8w4m2ZK1.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 1426805,
+  "imdb_id": "tt39381622",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Emil und die Detektive",
+  "overview": "Emil is spending his summer vacation with his grandmother in Berlin. But on the train there, he is robbed by the ruthless con artist Max Grundeis and a wild adventure begins! Together with his friends Pony, Gustav, Dienstag, Anh, and Jason, Emil sets off in pursuit and embarks on a fast-paced detective hunt across Berlin.",
+  "popularity": 1.1216,
+  "poster_path": "/kDchcw2Q9JnAzPsABAfKQUVgEdX.jpg",
+  "production_companies": [
+    {
+      "id": 24307,
+      "logo_path": "/xJo66MG6C99FeO81ddXVswjEmSB.png",
+      "name": "UFA Fiction",
+      "origin_country": "DE"
+    },
+    {
+      "id": 96105,
+      "logo_path": "/yTIbkYK1VGE64FSFqPj5jGDvLG.png",
+      "name": "Warner Bros. Film Productions Germany",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2026-09-24",
+  "revenue": 0,
+  "runtime": 101,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Emil and the Detectives",
+  "video": false,
+  "vote_average": 8.8,
+  "vote_count": 2,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4272362,
+        "known_for_department": "Acting",
+        "name": "Nicholas Jonah Peter",
+        "original_name": "Nicholas Jonah Peter",
+        "popularity": 0.0876,
+        "profile_path": "/eDee9vVYtSp9er2F60L2eeZREfI.jpg",
+        "cast_id": 16,
+        "character": "Emil Tischbein",
+        "credit_id": "6911f1ae55b34f734fa0cc77",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2947331,
+        "known_for_department": "Acting",
+        "name": "Merlin Sandmeyer",
+        "original_name": "Merlin Sandmeyer",
+        "popularity": 0.1847,
+        "profile_path": "/kDVnL6wThyxl4Se0EdqcZlGYojo.jpg",
+        "cast_id": 17,
+        "character": "Max Grundeis",
+        "credit_id": "6911f1c4aee235a1df31b609",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 583034,
+        "known_for_department": "Acting",
+        "name": "Luise Heyer",
+        "original_name": "Luise Heyer",
+        "popularity": 0.8128,
+        "profile_path": "/ffPzIu201oXjT1R0RCW4loZaxQA.jpg",
+        "cast_id": 24,
+        "character": "Anna Tischbein",
+        "credit_id": "6911f22dc06532554ed25d60",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5808277,
+        "known_for_department": "Acting",
+        "name": "Lara Toni Lüdders",
+        "original_name": "Lara Toni Lüdders",
+        "popularity": 0.0739,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Pony",
+        "credit_id": "6911f1d7c00d8cc228ce8da3",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5804817,
+        "known_for_department": "Acting",
+        "name": "Kilian Kasa",
+        "original_name": "Kilian Kasa",
+        "popularity": 0.0584,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Gustav",
+        "credit_id": "6911f1e38c84b2cc9c3a31eb",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5808278,
+        "known_for_department": "Acting",
+        "name": "Bela Louis Plass",
+        "original_name": "Bela Louis Plass",
+        "popularity": 0.0924,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Dienstag",
+        "credit_id": "6911f1f1ef8b0e08de8753dd",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5587292,
+        "known_for_department": "Acting",
+        "name": "Ai Vy Bui",
+        "original_name": "Ai Vy Bui",
+        "popularity": 0.2863,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Anh",
+        "credit_id": "6911f204eba221c4a93a322e",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3641648,
+        "known_for_department": "Acting",
+        "name": "Camille Moltzen",
+        "original_name": "Camille Moltzen",
+        "popularity": 0.2223,
+        "profile_path": "/rHmFNf7PBd96NCjrB71jxzAKKKF.jpg",
+        "cast_id": 22,
+        "character": "Jason",
+        "credit_id": "6911f20b1cbf4d16c0c06447",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 13740,
+        "known_for_department": "Acting",
+        "name": "Ursula Werner",
+        "original_name": "Ursula Werner",
+        "popularity": 0.2436,
+        "profile_path": "/pySvjClXdQiHd49RcqJ0PBZFYGq.jpg",
+        "cast_id": 23,
+        "character": "Renate Tischbein",
+        "credit_id": "6911f21dcb8da97d83d25e0a",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2316292,
+        "known_for_department": "Acting",
+        "name": "Danilo Kamperidis",
+        "original_name": "Danilo Kamperidis",
+        "popularity": 0.4094,
+        "profile_path": "/dojbBX6PRAcGKS3hvotEYtI6Byx.jpg",
+        "cast_id": 28,
+        "character": "Arman",
+        "credit_id": "6abad24c77ea7903d7d8ebcb",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1160758,
+        "known_for_department": "Acting",
+        "name": "Amy Mußul",
+        "original_name": "Amy Mußul",
+        "popularity": 0.3396,
+        "profile_path": "/wiZnhW8zS66pwnSWznqogr6Hd2P.jpg",
+        "cast_id": 29,
+        "character": "Polizistin Müller",
+        "credit_id": "6abad2e60b6130efa7d8ebc1",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1262983,
+        "known_for_department": "Acting",
+        "name": "Yung Ngo",
+        "original_name": "Yung Ngo",
+        "popularity": 0.2509,
+        "profile_path": "/2T2ZBm74pWDAXVlct8iNOvUmmOJ.jpg",
+        "cast_id": 30,
+        "character": "Herr Nguyen",
+        "credit_id": "6abad370c3c71e1230eefecf",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 207811,
+        "known_for_department": "Acting",
+        "name": "Anna Stieblich",
+        "original_name": "Anna Stieblich",
+        "popularity": 0.6387,
+        "profile_path": "/hrRbEJ3oN79nVuTD5GVzkHWVgtX.jpg",
+        "cast_id": 26,
+        "character": "Mrs. Jacob",
+        "credit_id": "6911f2883c6c3c652c4c86ac",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1823697,
+        "known_for_department": "Acting",
+        "name": "Timo Weisschnur",
+        "original_name": "Timo Weisschnur",
+        "popularity": 0.1864,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Zuber (Portier)",
+        "credit_id": "6911f27bd0450fa3063a3225",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6379460,
+        "known_for_department": "Acting",
+        "name": "Zah1de",
+        "original_name": "Zah1de",
+        "popularity": 0.0833,
+        "profile_path": "/wcTDmAohu4YYqAPyiXnpCwpJBVJ.jpg",
+        "cast_id": 27,
+        "character": "Self",
+        "credit_id": "6ab55178572ebc4dcbdd3569",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11920,
+        "known_for_department": "Writing",
+        "name": "Erich Kästner",
+        "original_name": "Erich Kästner",
+        "popularity": 0.6859,
+        "profile_path": null,
+        "credit_id": "679cc9374e9a4595ecbdec32",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 583517,
+        "known_for_department": "Directing",
+        "name": "David Dietl",
+        "original_name": "David Dietl",
+        "popularity": 0.5126,
+        "profile_path": null,
+        "credit_id": "6911f01b4f04bbcf4edd238f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2472712,
+        "known_for_department": "Production",
+        "name": "Tobias Timme",
+        "original_name": "Tobias Timme",
+        "popularity": 0.041,
+        "profile_path": null,
+        "credit_id": "6911f0459cdeac5534875417",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1703423,
+        "known_for_department": "Production",
+        "name": "Sebastian Werninger",
+        "original_name": "Sebastian Werninger",
+        "popularity": 0.1657,
+        "profile_path": null,
+        "credit_id": "6911f04e3137c7daf1875335",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1244678,
+        "known_for_department": "Creator",
+        "name": "Katharina Rietz",
+        "original_name": "Katharina Rietz",
+        "popularity": 0.3928,
+        "profile_path": null,
+        "credit_id": "6911f05efe08b67726a0cef1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2217155,
+        "known_for_department": "Production",
+        "name": "Matthias Adler",
+        "original_name": "Matthias Adler",
+        "popularity": 0.0558,
+        "profile_path": null,
+        "credit_id": "6911f077540af423d04c86d2",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1324240,
+        "known_for_department": "Camera",
+        "name": "Philip Peschlow",
+        "original_name": "Philip Peschlow",
+        "popularity": 0.1923,
+        "profile_path": null,
+        "credit_id": "6911f094aee235a1df31b5fe",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1488264,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Saskia Richter-Haase",
+        "original_name": "Saskia Richter-Haase",
+        "popularity": 0.0501,
+        "profile_path": null,
+        "credit_id": "6911f09f4f04bbcf4edd2392",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5808271,
+        "known_for_department": "Art",
+        "name": "Christiane Chaboissier",
+        "original_name": "Christiane Chaboissier",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6911f108ca830a6eb1ce8d44",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1403913,
+        "known_for_department": "Production",
+        "name": "Henry Rehorek",
+        "original_name": "Henry Rehorek",
+        "popularity": 0.1063,
+        "profile_path": null,
+        "credit_id": "6911f112ea22a108723a31f6",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2671493,
+        "known_for_department": "Crew",
+        "name": "Sebastian Ebert",
+        "original_name": "Sebastian Ebert",
+        "popularity": 0.0615,
+        "profile_path": null,
+        "credit_id": "6911f11aea22a108723a31f9",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4284018,
+        "known_for_department": "Sound",
+        "name": "Frank Schubert",
+        "original_name": "Frank Schubert",
+        "popularity": 0.1872,
+        "profile_path": null,
+        "credit_id": "6911f13391a3814cebdd213c",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5215927,
+        "known_for_department": "Writing",
+        "name": "Antonia Scheurlen",
+        "original_name": "Antonia Scheurlen",
+        "popularity": 0.1828,
+        "profile_path": null,
+        "credit_id": "6abad4da461dac3b7db60a2f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2145188,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Doreen Kindler",
+        "original_name": "Doreen Kindler",
+        "popularity": 0.0909,
+        "profile_path": null,
+        "credit_id": "6abad58e2e42819e9cc317c7",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1177182,
+        "known_for_department": "Editing",
+        "name": "Denis Bachter",
+        "original_name": "Denis Bachter",
+        "popularity": 0.1155,
+        "profile_path": null,
+        "credit_id": "6abad619a88f55aefe029598",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57040,
+        "known_for_department": "Editing",
+        "name": "Stefan Essl",
+        "original_name": "Stefan Essl",
+        "popularity": 0.1255,
+        "profile_path": "/2Ed7tsEuFqJUl0YDrxdMJazEXpd.jpg",
+        "credit_id": "6abad62cc3c71e1230eefee1",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1539386,
+        "known_for_department": "Sound",
+        "name": "Sebastian Schmidt",
+        "original_name": "Sebastian Schmidt",
+        "popularity": 0.0568,
+        "profile_path": null,
+        "credit_id": "6abad6972c904c0b872ac6ff",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1338385,
+        "known_for_department": "Sound",
+        "name": "Olaf Mehl",
+        "original_name": "Olaf Mehl",
+        "popularity": 0.2101,
+        "profile_path": null,
+        "credit_id": "6abad6d4e608625ec0e18d71",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1452809,
+        "known_for_department": "Sound",
+        "name": "Michael Kamm",
+        "original_name": "Michael Kamm",
+        "popularity": 0.0867,
+        "profile_path": null,
+        "credit_id": "6abad78ec3c71e1230eefeeb",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 49060,
+        "known_for_department": "Production",
+        "name": "Jacqueline Rietz",
+        "original_name": "Jacqueline Rietz",
+        "popularity": 0.4798,
+        "profile_path": null,
+        "credit_id": "6abad7ec2c904c0b872ac706",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5747,
+        "known_for_department": "Production",
+        "name": "Nina Haun",
+        "original_name": "Nina Haun",
+        "popularity": 0.2342,
+        "profile_path": null,
+        "credit_id": "6abad8082e42819e9cc317d2",
+        "department": "Production",
+        "job": "Casting"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 351706,
+        "name": "young detective"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Emil is spending his summer vacation with his grandmother in Berlin. But on the train there, he is robbed by the ruthless con artist Max Grundeis and a wild adventure begins! Together with his friends Pony, Gustav, Dienstag, Anh, and Jason, Emil sets off in pursuit and embarks on a fast-paced detective hunt across Berlin.",
+          "runtime": 101,
+          "tagline": "",
+          "title": "Emil and the Detectives"
+        }
+      },
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "https://www.warnerbros.de/de-de/filme/emil-und-die-detektive",
+          "overview": "Emil soll die Sommerferien bei seiner Oma in Berlin verbringen. Doch schon im Zug dorthin wird er von dem skrupellosen Betrüger Max Grundeis ausgeraubt – und ein wildes Abenteuer beginnt! Gemeinsam mit einer Bande cleverer Kinder nimmt Emil die Verfolgung auf und stürzt sich in eine rasante Detektivjagd quer durch Berlin – voller Witz, Mut und echter Freundschaft.",
+          "runtime": 100,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "NL",
+        "iso_639_1": "nl",
+        "name": "Nederlands",
+        "english_name": "Dutch",
+        "data": {
+          "homepage": "",
+          "overview": "Emil brengt zijn zomervakantie door bij zijn grootmoeder in Berlijn. Maar in de trein daarheen wordt hij beroofd door de meedogenloze oplichter Max Grundeis en begint een wild avontuur! Samen met zijn vrienden Pony, Gustav, Dienstag, Anh en Jason zet Emil de achtervolging in en begint aan een razendsnelle speurtocht door Berlijn.",
+          "runtime": 101,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "EE",
+        "title": "Emil ja detektiivid",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt39381622",
+    "wikidata_id": "Q141577943",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1800,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/zRwl3LlxKzSgwVkCuYH8w4m2ZK1.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3200
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/s6bX8CCiGgXmxAyci0piHsq9FV9.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/6YjnA5J5UkV27ZYu36RQE6mL1ua.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/4NX2W0mcoJ07McZfNy5ytSihHlh.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/k0xvUp0TfvgfqgPMx6TWS1Tq7gi.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/AgJZbHu1HILmAPCZwlDUf3ygMT8.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/iWCmWjlN8vbraoA3Gc5MikJVe9u.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/w2B7YTeX7EQpv0Xm2ynMwHLxJVY.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/vBLMQbiE43xwb2aYYR8I21lganr.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      }
+    ],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Berlin",
+            "release_date": "2026-09-20T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "6",
+            "descriptors": [
+              "Threat"
+            ],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-09-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

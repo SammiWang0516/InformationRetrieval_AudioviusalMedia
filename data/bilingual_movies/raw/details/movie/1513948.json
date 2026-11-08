@@ -1,0 +1,355 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1513948,
+  "imdb_id": null,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Lamb To The Slaughter",
+  "overview": "Based on a Roald Dahl Short Story.",
+  "popularity": 0.7863,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-07-15",
+  "revenue": 0,
+  "runtime": 22,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Lamb To The Slaughter",
+  "video": false,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5327231,
+        "known_for_department": "Acting",
+        "name": "Kevin Carr",
+        "original_name": "Kevin Carr",
+        "popularity": 0.1188,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Patrick Maloney",
+        "credit_id": "6876f148b2be9a791f43ceeb",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5327242,
+        "known_for_department": "Sound",
+        "name": "Ella Cameron",
+        "original_name": "Ella Cameron",
+        "popularity": 0.1287,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Mary Maloney",
+        "credit_id": "6876f164c89b3ef889165ab4",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5566841,
+        "known_for_department": "Acting",
+        "name": "Aubrey Favreau",
+        "original_name": "Aubrey Favreau",
+        "popularity": 0.3258,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Sam Carmine",
+        "credit_id": "6876f28dfd7b9ee16a2e8d1a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5566842,
+        "known_for_department": "Acting",
+        "name": "Gavin Rich",
+        "original_name": "Gavin Rich",
+        "popularity": 0.0822,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Officer O’Malley",
+        "credit_id": "6876f2afb1576cef20ba179c",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5566844,
+        "known_for_department": "Acting",
+        "name": "Josh Webber",
+        "original_name": "Josh Webber",
+        "popularity": 0.1048,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Officer Noonan",
+        "credit_id": "6876f2d72a41f88208ba17e3",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5327231,
+        "known_for_department": "Acting",
+        "name": "Kevin Carr",
+        "original_name": "Kevin Carr",
+        "popularity": 0.1188,
+        "profile_path": null,
+        "credit_id": "6876f3b291bdf407c4ba1839",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5327242,
+        "known_for_department": "Sound",
+        "name": "Ella Cameron",
+        "original_name": "Ella Cameron",
+        "popularity": 0.1287,
+        "profile_path": null,
+        "credit_id": "6876f3dc1d6e5964851ccd3e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5327242,
+        "known_for_department": "Sound",
+        "name": "Ella Cameron",
+        "original_name": "Ella Cameron",
+        "popularity": 0.1287,
+        "profile_path": null,
+        "credit_id": "6876f42591bdf407c4ba183c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5327231,
+        "known_for_department": "Acting",
+        "name": "Kevin Carr",
+        "original_name": "Kevin Carr",
+        "popularity": 0.1188,
+        "profile_path": null,
+        "credit_id": "6876f449e0d4b3de5d1ccd37",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5333474,
+        "known_for_department": "Sound",
+        "name": "Adam Strobel",
+        "original_name": "Adam Strobel",
+        "popularity": 0.0965,
+        "profile_path": null,
+        "credit_id": "6876f45c12fc60cb57cce020",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5333474,
+        "known_for_department": "Sound",
+        "name": "Adam Strobel",
+        "original_name": "Adam Strobel",
+        "popularity": 0.0965,
+        "profile_path": null,
+        "credit_id": "6876f47fecacd1e0991ccd3b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5333474,
+        "known_for_department": "Sound",
+        "name": "Adam Strobel",
+        "original_name": "Adam Strobel",
+        "popularity": 0.0965,
+        "profile_path": null,
+        "credit_id": "6876f48fb47b67a2ac05225b",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5566860,
+        "known_for_department": "Sound",
+        "name": "Grace Keaney",
+        "original_name": "Grace Keaney",
+        "popularity": 0.0713,
+        "profile_path": null,
+        "credit_id": "6876f4a5a0ee8756d9ba17e5",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5566863,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Zuzanka Strobel",
+        "original_name": "Zuzanka Strobel",
+        "popularity": 0.079,
+        "profile_path": null,
+        "credit_id": "6876f4ce31ecef3ec96ab0de",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5566865,
+        "known_for_department": "Production",
+        "name": "Jane Strobel",
+        "original_name": "Jane Strobel",
+        "popularity": 0.0961,
+        "profile_path": null,
+        "credit_id": "6876f4de42c539805ecce022",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5566863,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Zuzanka Strobel",
+        "original_name": "Zuzanka Strobel",
+        "popularity": 0.079,
+        "profile_path": null,
+        "credit_id": "6876f4edf7f33c30b97797b0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1299,
+        "known_for_department": "Writing",
+        "name": "Roald Dahl",
+        "original_name": "Roald Dahl",
+        "popularity": 1.7976,
+        "profile_path": "/w9ltHAYnIk0rHpXeCwKxq0pthiQ.jpg",
+        "credit_id": "6876f54f679624057443ceee",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1299,
+        "known_for_department": "Writing",
+        "name": "Roald Dahl",
+        "original_name": "Roald Dahl",
+        "popularity": 1.7976,
+        "profile_path": "/w9ltHAYnIk0rHpXeCwKxq0pthiQ.jpg",
+        "credit_id": "6876f594a456c1adb3052298",
+        "department": "Writing",
+        "job": "Original Story"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Based on a Roald Dahl Short Story.",
+          "runtime": 22,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-07-15T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

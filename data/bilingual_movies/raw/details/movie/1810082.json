@@ -1,0 +1,601 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1810082,
+  "imdb_id": "tt46079599",
+  "origin_country": [
+    "NO"
+  ],
+  "original_language": "nb",
+  "original_title": "Jeg lover",
+  "overview": "",
+  "popularity": 0.9664,
+  "poster_path": "/xMkFPnXO2tgLJHzibtnHZGFiFjY.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "NO",
+      "name": "Norway"
+    }
+  ],
+  "release_date": "2026-11-05",
+  "revenue": 0,
+  "runtime": 8,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian Bokmål",
+      "iso_639_1": "nb",
+      "name": "Bokmål"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "I Promise",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4975595,
+        "known_for_department": "Acting",
+        "name": "Celina Meyer Hovland",
+        "original_name": "Celina Meyer Hovland",
+        "popularity": 0.2592,
+        "profile_path": "/4X96dRGV2DEVHCTG12ZQOzIrKtt.jpg",
+        "cast_id": 3,
+        "character": "Stella",
+        "credit_id": "6ae12d4bc63062cb9d94b7ca",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6580722,
+        "known_for_department": "Acting",
+        "name": "Emilie Meyer Hovland",
+        "original_name": "Emilie Meyer Hovland",
+        "popularity": 0.1087,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Maja",
+        "credit_id": "6ae12d5954e2735c249bdc6a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3289785,
+        "known_for_department": "Acting",
+        "name": "Karine Dokken",
+        "original_name": "Karine Dokken",
+        "popularity": 0.4099,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Siri",
+        "credit_id": "6ae12d64ea9343f435b309af",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6277685,
+        "known_for_department": "Production",
+        "name": "Sara Louise Engeli",
+        "original_name": "Sara Louise Engeli",
+        "popularity": 0.0929,
+        "profile_path": null,
+        "credit_id": "6ae12bd5db8fbff561d01db6",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6277704,
+        "known_for_department": "Production",
+        "name": "Sara Louise Engeli",
+        "original_name": "Sara Louise Engeli",
+        "popularity": 0.2509,
+        "profile_path": null,
+        "credit_id": "6ae12be8bd6137154c9bdc98",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6277686,
+        "known_for_department": "Directing",
+        "name": "Liana Nagoeva",
+        "original_name": "Liana Nagoeva",
+        "popularity": 0.1732,
+        "profile_path": null,
+        "credit_id": "6ae12d86b4bfcef1e92c3531",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6278846,
+        "known_for_department": "Editing",
+        "name": "Nina Stefania Gerent",
+        "original_name": "Nina Stefania Gerent",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6ae12d9bfc9d6c66442b082b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6266063,
+        "known_for_department": "Lighting",
+        "name": "Filip Førde",
+        "original_name": "Filip Førde",
+        "popularity": 0.0388,
+        "profile_path": null,
+        "credit_id": "6ae12dba7c2b5e68db382406",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6277688,
+        "known_for_department": "Camera",
+        "name": "Olivia Brianne Gundersen",
+        "original_name": "Olivia Brianne Gundersen",
+        "popularity": 0.077,
+        "profile_path": null,
+        "credit_id": "6ae12dd3d7bdbd7ba61c8894",
+        "department": "Camera",
+        "job": "Camera Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6277732,
+        "known_for_department": "Art",
+        "name": "Frida Celine Junge",
+        "original_name": "Frida Celine Junge",
+        "popularity": 0.0762,
+        "profile_path": null,
+        "credit_id": "6ae12df0872f8589b82b08a6",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6580731,
+        "known_for_department": "Crew",
+        "name": "Mille Bakken",
+        "original_name": "Mille Bakken",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "6ae12e437c2b5e68db382409",
+        "department": "Crew",
+        "job": "Child Wrangler"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6241792,
+        "known_for_department": "Production",
+        "name": "Eli Ruset Lager",
+        "original_name": "Eli Ruset Lager",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6aea07937c0cb23819d60175",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6272612,
+        "known_for_department": "Sound",
+        "name": "Maria Kolseth Johnsen",
+        "original_name": "Maria Kolseth Johnsen",
+        "popularity": 0.0511,
+        "profile_path": null,
+        "credit_id": "6aea07f0d93c7b0cd8e619de",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6272612,
+        "known_for_department": "Sound",
+        "name": "Maria Kolseth Johnsen",
+        "original_name": "Maria Kolseth Johnsen",
+        "popularity": 0.0511,
+        "profile_path": null,
+        "credit_id": "6aea081766e984cec43f903f",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6597153,
+        "known_for_department": "Sound",
+        "name": "Ane Indahl",
+        "original_name": "Ane Indahl",
+        "popularity": 0.0323,
+        "profile_path": null,
+        "credit_id": "6aea083d8b1de62751ba4fd3",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6597153,
+        "known_for_department": "Sound",
+        "name": "Ane Indahl",
+        "original_name": "Ane Indahl",
+        "popularity": 0.0323,
+        "profile_path": null,
+        "credit_id": "6aea084ca8f1662413d5e637",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6266022,
+        "known_for_department": "Production",
+        "name": "Anniken Bryn Thorup",
+        "original_name": "Anniken Bryn Thorup",
+        "popularity": 0.0646,
+        "profile_path": null,
+        "credit_id": "6aea086d0d4b72412dffa47e",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6277689,
+        "known_for_department": "Editing",
+        "name": "Mathias Glitza Antonsen",
+        "original_name": "Mathias Glitza Antonsen",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "6aea08867c53bd45bde619ba",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6266033,
+        "known_for_department": "Crew",
+        "name": "Ole Kristian Bjørnerud Børset",
+        "original_name": "Ole Kristian Bjørnerud Børset",
+        "popularity": 0.084,
+        "profile_path": null,
+        "credit_id": "6aea08c259dd6bf2eeaf650a",
+        "department": "Lighting",
+        "job": "Lighting Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6267610,
+        "known_for_department": "Camera",
+        "name": "Hans Evensen Franke",
+        "original_name": "Hans Evensen Franke",
+        "popularity": 0.0852,
+        "profile_path": null,
+        "credit_id": "6aea08d398dcba2f736c3d4e",
+        "department": "Lighting",
+        "job": "Lighting Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6267610,
+        "known_for_department": "Camera",
+        "name": "Hans Evensen Franke",
+        "original_name": "Hans Evensen Franke",
+        "popularity": 0.0852,
+        "profile_path": null,
+        "credit_id": "6aea08e85083766fca3f9259",
+        "department": "Camera",
+        "job": "Camera Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6257007,
+        "known_for_department": "Camera",
+        "name": "Edvard Berge Solli",
+        "original_name": "Edvard Berge Solli",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6aea090405eeeebbdae619c6",
+        "department": "Lighting",
+        "job": "Lighting Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5873913,
+        "known_for_department": "Production",
+        "name": "Selena Guedes Rødland",
+        "original_name": "Selena Guedes Rødland",
+        "popularity": 0.0878,
+        "profile_path": null,
+        "credit_id": "6aea091959dd6bf2eeaf6526",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5534665,
+        "known_for_department": "Editing",
+        "name": "Henrik Finskud Jensen",
+        "original_name": "Henrik Finskud Jensen",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6aea09285aa123d243af657d",
+        "department": "Crew",
+        "job": "Script"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6278846,
+        "known_for_department": "Editing",
+        "name": "Nina Stefania Gerent",
+        "original_name": "Nina Stefania Gerent",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6aea095a5aa123d243af658a",
+        "department": "Crew",
+        "job": "Script"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6277704,
+        "known_for_department": "Production",
+        "name": "Sara Louise Engeli",
+        "original_name": "Sara Louise Engeli",
+        "popularity": 0.2509,
+        "profile_path": null,
+        "credit_id": "6aea0972318fadfdbd6c3cf3",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6580731,
+        "known_for_department": "Crew",
+        "name": "Mille Bakken",
+        "original_name": "Mille Bakken",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "6aea097b5083766fca3f928b",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6277732,
+        "known_for_department": "Art",
+        "name": "Frida Celine Junge",
+        "original_name": "Frida Celine Junge",
+        "popularity": 0.0762,
+        "profile_path": null,
+        "credit_id": "6aea098a542f1095abe619be",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6597162,
+        "known_for_department": "Art",
+        "name": "Stine Lyngmo",
+        "original_name": "Stine Lyngmo",
+        "popularity": 0.0129,
+        "profile_path": null,
+        "credit_id": "6aea09a5a9c8cc031dc34f95",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6277690,
+        "known_for_department": "Production",
+        "name": "Alf Henrik Henriksen",
+        "original_name": "Alf Henrik Henriksen",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "6aea09f04bf8d4db8be61a11",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6597167,
+        "known_for_department": "Production",
+        "name": "Johan Dyvi",
+        "original_name": "Johan Dyvi",
+        "popularity": 0.0323,
+        "profile_path": null,
+        "credit_id": "6aea0a060b8768cf49ba4fb5",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6277737,
+        "known_for_department": "Crew",
+        "name": "Herman Nord",
+        "original_name": "Herman Nord",
+        "popularity": 0.0376,
+        "profile_path": null,
+        "credit_id": "6aea0a16a4d6b353393f98a5",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5669961,
+        "known_for_department": "Production",
+        "name": "Sophia Aronsen",
+        "original_name": "Sophia Aronsen",
+        "popularity": 0.0359,
+        "profile_path": null,
+        "credit_id": "6aea0a25993494259dc34b9b",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 6276456,
+        "known_for_department": "Editing",
+        "name": "Kai Thorstensen Løschbrandt",
+        "original_name": "Kai Thorstensen Løschbrandt",
+        "popularity": 0.0693,
+        "profile_path": "/7ix2iJFIS7Ny9ZJSlnIT8AAku4w.jpg",
+        "credit_id": "6aea0a366e450c559affa426",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6277757,
+        "known_for_department": "Sound",
+        "name": "Vilja Östgård",
+        "original_name": "Vilja Östgård",
+        "popularity": 0.0664,
+        "profile_path": null,
+        "credit_id": "6aea0a69a4d6b353393f98bc",
+        "department": "Sound",
+        "job": "Music Score Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 10683,
+        "name": "coming of age"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "NO",
+        "iso_639_1": "nb",
+        "name": "Bokmål",
+        "english_name": "Norwegian Bokmål",
+        "data": {
+          "homepage": "",
+          "overview": "Stella er bekymret for sin venninne Maja. Ingen av de har det bra hjemme. Etter Stella foreslår at Maja burde si fra til noen blir vennskapet satt på spill.",
+          "runtime": 8,
+          "tagline": "Hvordan er man en god venn?",
+          "title": "Jeg lover"
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 8,
+          "tagline": "",
+          "title": "I Promise"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "GB",
+        "title": "I promise",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt46079599",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "jeglover.film",
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.707,
+        "height": 2048,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/xMkFPnXO2tgLJHzibtnHZGFiFjY.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1448
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "nb",
+            "note": "Aesthetica Film Festival 2026",
+            "release_date": "2026-11-05T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

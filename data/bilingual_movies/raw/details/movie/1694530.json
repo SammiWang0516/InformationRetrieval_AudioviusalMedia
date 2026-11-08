@@ -1,0 +1,658 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1694530,
+  "imdb_id": null,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Gigalow",
+  "overview": "Left with debt and tasked with raising his sister, a young man climbs the underground dance scene only to find success comes at a high cost.",
+  "popularity": 2.2117,
+  "poster_path": "/ldEhTD4Yqj80OlwiX3XjNVN5IDT.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2026-04-17",
+  "revenue": 0,
+  "runtime": 156,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Gigalow",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2894915,
+        "known_for_department": "Acting",
+        "name": "Montreal Diggs",
+        "original_name": "Montreal Diggs",
+        "popularity": 0.7912,
+        "profile_path": "/wrjk3xEDkQBv4MUO0vOVpPlHDf1.jpg",
+        "cast_id": 2,
+        "character": "Diamond / Gigalow",
+        "credit_id": "6a0bd37816b203e06ff0c6bd",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1865160,
+        "known_for_department": "Acting",
+        "name": "Lemastor Spratling",
+        "original_name": "Lemastor Spratling",
+        "popularity": 0.3699,
+        "profile_path": "/zUeHPUwRyFZgHAFtUgEMTgqqiRS.jpg",
+        "cast_id": 3,
+        "character": "Skool",
+        "credit_id": "6a0bd3a5309c80ffc3f0c6d0",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3362964,
+        "known_for_department": "Acting",
+        "name": "Donald Brumfield Jr.",
+        "original_name": "Donald Brumfield Jr.",
+        "popularity": 0.7959,
+        "profile_path": "/zs3Z86qYPSzkg6tJwVJ4C52N0tq.jpg",
+        "cast_id": 4,
+        "character": "Mr. Beat It Up",
+        "credit_id": "6a0bd3ba414788cefb4ace60",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6224051,
+        "known_for_department": "Acting",
+        "name": "Kenneth Paige",
+        "original_name": "Kenneth Paige",
+        "popularity": 0.1752,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Zion / Chocolate",
+        "credit_id": "6a0bd3e68eff92cae1466dfd",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2871562,
+        "known_for_department": "Acting",
+        "name": "Brandon Lee",
+        "original_name": "Brandon Lee",
+        "popularity": 0.1128,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Aphrodisiac",
+        "credit_id": "6a0bd498bde8274a8a8fac03",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5164331,
+        "known_for_department": "Acting",
+        "name": "Honey Banks",
+        "original_name": "Honey Banks",
+        "popularity": 0.1758,
+        "profile_path": "/qTbfabW89W2mGFRNtT0PgLBlhDp.jpg",
+        "cast_id": 1,
+        "character": "DJ K Rain",
+        "credit_id": "6a055049664f93c5a3e084bd",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4407859,
+        "known_for_department": "Acting",
+        "name": "Tro'Sha Monique Pickrom",
+        "original_name": "Tro'Sha Monique Pickrom",
+        "popularity": 0.2096,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Honey",
+        "credit_id": "6a0bd57db8c1e66ef98b1fe0",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4109539,
+        "known_for_department": "Acting",
+        "name": "Missy Lee",
+        "original_name": "Missy Lee",
+        "popularity": 0.2383,
+        "profile_path": "/s1QvTFkO9KHph52SahyNjxQ5Z68.jpg",
+        "cast_id": 8,
+        "character": "Treasure",
+        "credit_id": "6a0bd562b07632cd9b68d2fc",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4423766,
+        "known_for_department": "Acting",
+        "name": "Damian Valentine",
+        "original_name": "Damian Valentine",
+        "popularity": 0.2885,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Legend",
+        "credit_id": "6a0bd8306b18e02309c2773c",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3807245,
+        "known_for_department": "Acting",
+        "name": "Charles Simpson",
+        "original_name": "Charles Simpson",
+        "popularity": 0.2197,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Royal",
+        "credit_id": "6a0bd80c44f1c7edf8409b6a",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6224056,
+        "known_for_department": "Acting",
+        "name": "Cynthia Bazemore Coleman",
+        "original_name": "Cynthia Bazemore Coleman",
+        "popularity": 0.1211,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Celeste",
+        "credit_id": "6a0bd649d05aa7f88f8fab96",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6224053,
+        "known_for_department": "Acting",
+        "name": "Savanah Downing",
+        "original_name": "Savanah Downing",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Chanel",
+        "credit_id": "6a0bd53259913ecf314ace9c",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4133696,
+        "known_for_department": "Acting",
+        "name": "TaKenya Banks",
+        "original_name": "TaKenya Banks",
+        "popularity": 0.1269,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Roberta",
+        "credit_id": "6a0bd5ae9c5e5e835368d249",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5479694,
+        "known_for_department": "Acting",
+        "name": "Arneil Deven Brooks",
+        "original_name": "Arneil Deven Brooks",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Tease",
+        "credit_id": "6a0bd5f231a8ee6b5e68d246",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6224058,
+        "known_for_department": "Acting",
+        "name": "Sharon Chapelle Evans",
+        "original_name": "Sharon Chapelle Evans",
+        "popularity": 0.0673,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Shelly",
+        "credit_id": "6a0bd68dc82dcdea6c68d2c5",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4737575,
+        "known_for_department": "Acting",
+        "name": "Ralph Garrett",
+        "original_name": "Ralph Garrett",
+        "popularity": 0.038,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Ellis",
+        "credit_id": "6a0bd6aada624d8828466df3",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6224062,
+        "known_for_department": "Acting",
+        "name": "Kenneth Herndon",
+        "original_name": "Kenneth Herndon",
+        "popularity": 0.094,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Zone",
+        "credit_id": "6a0bd7095675c8431f8b201d",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6224055,
+        "known_for_department": "Acting",
+        "name": "Jaquetia Brown",
+        "original_name": "Jaquetia Brown",
+        "popularity": 0.0804,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Money Girl",
+        "credit_id": "6a0bd6245675c8431f8b2012",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6224063,
+        "known_for_department": "Acting",
+        "name": "Cortez Holmes",
+        "original_name": "Cortez Holmes",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Head Hunter",
+        "credit_id": "6a0bd72d3abcf136dacd1123",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6224065,
+        "known_for_department": "Acting",
+        "name": "Jeff McCollum",
+        "original_name": "Jeff McCollum",
+        "popularity": 0.0996,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Bartender",
+        "credit_id": "6a0bd75c5675c8431f8b202c",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6224066,
+        "known_for_department": "Acting",
+        "name": "Jamal Patterson",
+        "original_name": "Jamal Patterson",
+        "popularity": 0.2855,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Goon #1",
+        "credit_id": "6a0bd777b07632cd9b68d32b",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6224057,
+        "known_for_department": "Acting",
+        "name": "Shaunice Cook",
+        "original_name": "Shaunice Cook",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Thot #2",
+        "credit_id": "6a0bd66005374980f4f0c696",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6224054,
+        "known_for_department": "Acting",
+        "name": "Dumodric Beaver",
+        "original_name": "Dumodric Beaver",
+        "popularity": 0.0513,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Security #1",
+        "credit_id": "6a0bd5d55e004b8da468d237",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6224061,
+        "known_for_department": "Acting",
+        "name": "Tavondrick Harris",
+        "original_name": "Tavondrick Harris",
+        "popularity": 0.0937,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Security #2",
+        "credit_id": "6a0bd6f9b44972ba2668d272",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6224060,
+        "known_for_department": "Acting",
+        "name": "Mario Hall",
+        "original_name": "Mario Hall",
+        "popularity": 0.0734,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Money / Security #3",
+        "credit_id": "6a0bd6da414788cefb4ace80",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6224078,
+        "known_for_department": "Acting",
+        "name": "Latoya Williams",
+        "original_name": "Latoya Williams",
+        "popularity": 0.1099,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Security #4",
+        "credit_id": "6a0bd84e1100fcea6e4ace8b",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6224073,
+        "known_for_department": "Acting",
+        "name": "Jamarion Rainey",
+        "original_name": "Jamarion Rainey",
+        "popularity": 0.0803,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Young Diamond",
+        "credit_id": "6a0bd7f06b18e02309c27738",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5908724,
+        "known_for_department": "Production",
+        "name": "Jason Petty",
+        "original_name": "Jason Petty",
+        "popularity": 0.0428,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "911 Operator",
+        "credit_id": "6a0bd7c7bde8274a8a8fac29",
+        "order": 27
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4362391,
+        "known_for_department": "Acting",
+        "name": "Kendra Rainey-King",
+        "original_name": "Kendra Rainey-King",
+        "popularity": 0.2154,
+        "profile_path": "/krUHltuGN5ey6ZRhKurTD555zoc.jpg",
+        "credit_id": "6a0bd931a38617c95ec27749",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5164330,
+        "known_for_department": "Directing",
+        "name": "Dameon King",
+        "original_name": "Dameon King",
+        "popularity": 0.0761,
+        "profile_path": null,
+        "credit_id": "6a0bd981594ac866cd68d2cb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4362391,
+        "known_for_department": "Acting",
+        "name": "Kendra Rainey-King",
+        "original_name": "Kendra Rainey-King",
+        "popularity": 0.2154,
+        "profile_path": "/krUHltuGN5ey6ZRhKurTD555zoc.jpg",
+        "credit_id": "6a0bd9a45675c8431f8b2053",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5164331,
+        "known_for_department": "Acting",
+        "name": "Honey Banks",
+        "original_name": "Honey Banks",
+        "popularity": 0.1758,
+        "profile_path": "/qTbfabW89W2mGFRNtT0PgLBlhDp.jpg",
+        "credit_id": "6a0bd9f5793e937c1e8b2035",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5164330,
+        "known_for_department": "Directing",
+        "name": "Dameon King",
+        "original_name": "Dameon King",
+        "popularity": 0.0761,
+        "profile_path": null,
+        "credit_id": "6a0bda1931a8ee6b5e68d280",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3150257,
+        "known_for_department": "Production",
+        "name": "Doug Schwab",
+        "original_name": "Doug Schwab",
+        "popularity": 0.1028,
+        "profile_path": null,
+        "credit_id": "6a0bda9f16b203e06ff0c6e5",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2871562,
+        "known_for_department": "Acting",
+        "name": "Brandon Lee",
+        "original_name": "Brandon Lee",
+        "popularity": 0.1128,
+        "profile_path": null,
+        "credit_id": "6a0bdab205374980f4f0c6bb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4792765,
+        "known_for_department": "Crew",
+        "name": "Paul Michael O'Connor",
+        "original_name": "Paul Michael O'Connor",
+        "popularity": 0.1061,
+        "profile_path": null,
+        "credit_id": "6a0bdaec36a6befb468b2048",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6224100,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Lynn Jenkins",
+        "original_name": "Lynn Jenkins",
+        "popularity": 0.0984,
+        "profile_path": null,
+        "credit_id": "6a0bdb342355ec82f8409bbd",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4792765,
+        "known_for_department": "Crew",
+        "name": "Paul Michael O'Connor",
+        "original_name": "Paul Michael O'Connor",
+        "popularity": 0.1061,
+        "profile_path": null,
+        "credit_id": "6a0bdb697fbd4e38cd8fabbb",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Left with debt and tasked with raising his sister, a young man climbs the underground dance scene only to find success comes at a high cost.",
+          "runtime": 156,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/ldEhTD4Yqj80OlwiX3XjNVN5IDT.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/vZRkDc15Dd5ZM50Erkslkth6orm.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-04-17T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-05-05T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

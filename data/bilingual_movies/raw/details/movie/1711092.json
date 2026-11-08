@@ -1,0 +1,521 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 1000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1711092,
+  "imdb_id": null,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Perfectly Simple",
+  "overview": "A couple comes to terms with their relationship while traveling across state lines to get an abortion. Based on the short story \"Hills like White Elephants\" by Ernest Hemingway.",
+  "popularity": 0.7345,
+  "poster_path": "/aSZXe8Mz6Vjbp1vEmsXdZGT5qTk.jpg",
+  "production_companies": [
+    {
+      "id": 284722,
+      "logo_path": null,
+      "name": "Clown Car Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2026-04-25",
+  "revenue": 0,
+  "runtime": 8,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "Perfectly Simple",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6241867,
+        "known_for_department": "Art",
+        "name": "Solee Pierson",
+        "original_name": "Solee Pierson",
+        "popularity": 0.139,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Zoe",
+        "credit_id": "6a274bed99c399eb51dda7b2",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5392131,
+        "known_for_department": "Acting",
+        "name": "Luke Theurer",
+        "original_name": "Luke Theurer",
+        "popularity": 0.0806,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Charlie",
+        "credit_id": "6a274c2462788a0dfd64afc9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6241837,
+        "known_for_department": "Acting",
+        "name": "Jason Guy",
+        "original_name": "Jason Guy",
+        "popularity": 0.2448,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Waiter",
+        "credit_id": "6a274c92a39727e1e4dda875",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5809098,
+        "known_for_department": "Directing",
+        "name": "Marilyn Heaner",
+        "original_name": "Marilyn Heaner",
+        "popularity": 0.0915,
+        "profile_path": null,
+        "credit_id": "6a274cbe9e20048118b62b7a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5909624,
+        "known_for_department": "Acting",
+        "name": "Conrad Porter",
+        "original_name": "Conrad Porter",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "6a274cc95b8deac5d4dda7b5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5909624,
+        "known_for_department": "Acting",
+        "name": "Conrad Porter",
+        "original_name": "Conrad Porter",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "6a274cd6689dd63b61c33628",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5906295,
+        "known_for_department": "Acting",
+        "name": "Dylan Hall",
+        "original_name": "Dylan Hall",
+        "popularity": 0.1415,
+        "profile_path": "/i2BHXDQGOEoIyF3sN03hmzLbWpq.jpg",
+        "credit_id": "6a274ce55b8deac5d4dda7b8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5906296,
+        "known_for_department": "Directing",
+        "name": "Angel Decker",
+        "original_name": "Angel Decker",
+        "popularity": 0.1795,
+        "profile_path": "/1ICU8HiAZ1cbFMpYotMhTqlRZvN.jpg",
+        "credit_id": "6a274cf0a3d5e40365c2e6aa",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5906296,
+        "known_for_department": "Directing",
+        "name": "Angel Decker",
+        "original_name": "Angel Decker",
+        "popularity": 0.1795,
+        "profile_path": "/1ICU8HiAZ1cbFMpYotMhTqlRZvN.jpg",
+        "credit_id": "6a274cfd6a6abb0696b629b4",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5945745,
+        "known_for_department": "Editing",
+        "name": "Eli Gramenz",
+        "original_name": "Eli Gramenz",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a274d4ef287e5ee6e954754",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6241862,
+        "known_for_department": "Directing",
+        "name": "Jason David Cox",
+        "original_name": "Jason David Cox",
+        "popularity": 0.2501,
+        "profile_path": "/9F57cnSp6oyWhk4t5kxbrbyAEvz.jpg",
+        "credit_id": "6a274d715acf5dcae6c335ce",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5809118,
+        "known_for_department": "Camera",
+        "name": "Tommy Pepper",
+        "original_name": "Tommy Pepper",
+        "popularity": 0.0623,
+        "profile_path": null,
+        "credit_id": "6a274d8a9d6db7bb04dda6b2",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6273100,
+        "known_for_department": "Art",
+        "name": "Parker Thurston",
+        "original_name": "Parker Thurston",
+        "popularity": 0.0922,
+        "profile_path": null,
+        "credit_id": "6a274dac9d6db7bb04dda6bf",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6273101,
+        "known_for_department": "Art",
+        "name": "Madi Madrid",
+        "original_name": "Madi Madrid",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a274dc9fad78588bdf47f6d",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6273102,
+        "known_for_department": "Art",
+        "name": "Rae Wakins",
+        "original_name": "Rae Wakins",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a274de194bc8e1e76b62a88",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5906295,
+        "known_for_department": "Acting",
+        "name": "Dylan Hall",
+        "original_name": "Dylan Hall",
+        "popularity": 0.1415,
+        "profile_path": "/i2BHXDQGOEoIyF3sN03hmzLbWpq.jpg",
+        "credit_id": "6a274dff22b6ee3140f47fd0",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5906295,
+        "known_for_department": "Acting",
+        "name": "Dylan Hall",
+        "original_name": "Dylan Hall",
+        "popularity": 0.1415,
+        "profile_path": "/i2BHXDQGOEoIyF3sN03hmzLbWpq.jpg",
+        "credit_id": "6a274e0dfad78588bdf47f74",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6106912,
+        "known_for_department": "Directing",
+        "name": "Anya Lovely Gorder",
+        "original_name": "Anya Lovely Gorder",
+        "popularity": 0.1415,
+        "profile_path": null,
+        "credit_id": "6a274e2f949051f7693d6dd6",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6241865,
+        "known_for_department": "Lighting",
+        "name": "Luke Larsen",
+        "original_name": "Luke Larsen",
+        "popularity": 0.1024,
+        "profile_path": null,
+        "credit_id": "6a274e4150aa99867e1935cd",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6273105,
+        "known_for_department": "Camera",
+        "name": "Sage Stamper",
+        "original_name": "Sage Stamper",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a274e575acf5dcae6c335e1",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6248397,
+        "known_for_department": "Art",
+        "name": "Erin Kearns-Brown",
+        "original_name": "Erin Kearns-Brown",
+        "popularity": 0.1611,
+        "profile_path": null,
+        "credit_id": "6a274e6822b6ee3140f47fd9",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6273108,
+        "known_for_department": "Camera",
+        "name": "Quinn Gustaf",
+        "original_name": "Quinn Gustaf",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a274ed29cde52046864b08d",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6273110,
+        "known_for_department": "Crew",
+        "name": "Camden McDonald-Gonzalez",
+        "original_name": "Camden McDonald-Gonzalez",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "6a274f08377eb3263bdda8ad",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6273111,
+        "known_for_department": "Camera",
+        "name": "Abbey Gibbs",
+        "original_name": "Abbey Gibbs",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a274f2562788a0dfd64afef",
+        "department": "Camera",
+        "job": "BTS Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6273112,
+        "known_for_department": "Camera",
+        "name": "Lola Kay",
+        "original_name": "Lola Kay",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a274f3499c399eb51dda7e6",
+        "department": "Camera",
+        "job": "BTS Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6273113,
+        "known_for_department": "Camera",
+        "name": "Thomas Palfreyman",
+        "original_name": "Thomas Palfreyman",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a274f4aa39727e1e4dda89f",
+        "department": "Camera",
+        "job": "BTS Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5809098,
+        "known_for_department": "Directing",
+        "name": "Marilyn Heaner",
+        "original_name": "Marilyn Heaner",
+        "popularity": 0.0915,
+        "profile_path": null,
+        "credit_id": "6a274f5b74c37900723d6dc8",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5906296,
+        "known_for_department": "Directing",
+        "name": "Angel Decker",
+        "original_name": "Angel Decker",
+        "popularity": 0.1795,
+        "profile_path": "/1ICU8HiAZ1cbFMpYotMhTqlRZvN.jpg",
+        "credit_id": "6a274f67428d218d03b62b2e",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5909624,
+        "known_for_department": "Acting",
+        "name": "Conrad Porter",
+        "original_name": "Conrad Porter",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "6a274f716e375f3d85b62a49",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6169811,
+        "known_for_department": "Directing",
+        "name": "Max Rhineer",
+        "original_name": "Max Rhineer",
+        "popularity": 0.0857,
+        "profile_path": null,
+        "credit_id": "6a274f7d74c37900723d6dce",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6494607,
+        "known_for_department": "Camera",
+        "name": "Fred Galison",
+        "original_name": "Fred Galison",
+        "popularity": 0.05,
+        "profile_path": null,
+        "credit_id": "6ab16f6280fbb6e50f02df8e",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "A couple comes to terms with their relationship while traveling across state lines to get an abortion. Based on the short story \"Hills like White Elephants\" by Ernest Hemingway.",
+          "runtime": 8,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/aSZXe8Mz6Vjbp1vEmsXdZGT5qTk.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "Zappers Film Festival",
+            "release_date": "2026-04-25T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

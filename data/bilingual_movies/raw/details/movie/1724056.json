@@ -1,0 +1,661 @@
+{
+  "adult": false,
+  "backdrop_path": "/n54JDlMx2Cb1qFLyLzLd7OOw3a5.jpg",
+  "belongs_to_collection": null,
+  "budget": 450,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1724056,
+  "imdb_id": null,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "ca",
+  "original_title": "L'Emma",
+  "overview": "",
+  "popularity": 0.9844,
+  "poster_path": "/dSoNYY4Hy9U9udV8z2JOakzYsij.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2026-05-17",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Catalan",
+      "iso_639_1": "ca",
+      "name": "Català"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "L'Emma",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6319483,
+        "known_for_department": "Acting",
+        "name": "Aida Cámara",
+        "original_name": "Aida Cámara",
+        "popularity": 0.032,
+        "profile_path": "/A6dRp5NgxOCI7PvAoPzBmKDHrQ.jpg",
+        "cast_id": 1,
+        "character": "Emma",
+        "credit_id": "6a4498cd7affbc51cc00e9fe",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2842062,
+        "known_for_department": "Acting",
+        "name": "Aitor Valadés",
+        "original_name": "Aitor Valadés",
+        "popularity": 0.0844,
+        "profile_path": "/uZzeyAxbqZhKMPUFRK9tgonec62.jpg",
+        "cast_id": 2,
+        "character": "Pol",
+        "credit_id": "6a4498df8608610e2300eac9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5599593,
+        "known_for_department": "Acting",
+        "name": "Àxel de Casals",
+        "original_name": "Àxel de Casals",
+        "popularity": 0.2544,
+        "profile_path": "/vpi5ZuqlDGUTDcr4gjhIJgKiQR4.jpg",
+        "cast_id": 3,
+        "character": "Roger",
+        "credit_id": "6a4498f184941df00a42b519",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6319488,
+        "known_for_department": "Acting",
+        "name": "Katia Tomsen",
+        "original_name": "Katia Tomsen",
+        "popularity": 0.0704,
+        "profile_path": "/4iBT4lDOd5uBNWOFH1CKlcxrWwQ.jpg",
+        "cast_id": 4,
+        "character": "Judit",
+        "credit_id": "6a4499033bb5d3970c1b936a",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5812312,
+        "known_for_department": "Directing",
+        "name": "Mireia Barril Gil",
+        "original_name": "Mireia Barril Gil",
+        "popularity": 0.4277,
+        "profile_path": null,
+        "credit_id": "6a449922783b21cf99df0b37",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5590590,
+        "known_for_department": "Lighting",
+        "name": "Mark Armesto",
+        "original_name": "Mark Armesto",
+        "popularity": 0.0356,
+        "profile_path": null,
+        "credit_id": "6a4499552888fbadb45d1a71",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6342999,
+        "known_for_department": "Art",
+        "name": "Carla Moreno",
+        "original_name": "Carla Moreno",
+        "popularity": 0.049,
+        "profile_path": null,
+        "credit_id": "6a538b6c03ae53eb743a759c",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6343000,
+        "known_for_department": "Art",
+        "name": "Milena Martínez",
+        "original_name": "Milena Martínez",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a538b9620a577b870338c9e",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6343003,
+        "known_for_department": "Directing",
+        "name": "Lara A. Córtez",
+        "original_name": "Lara A. Córtez",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "6a538bef3b142ff5553bbc10",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6343005,
+        "known_for_department": "Production",
+        "name": "Leire Segarra",
+        "original_name": "Leire Segarra",
+        "popularity": 0.0642,
+        "profile_path": null,
+        "credit_id": "6a538c0ac4cb8eb5aa3a769c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6343006,
+        "known_for_department": "Writing",
+        "name": "Mireia Barril Gil",
+        "original_name": "Mireia Barril Gil",
+        "popularity": 0.5981,
+        "profile_path": null,
+        "credit_id": "6a538c2a20a577b870338cb2",
+        "department": "Writing",
+        "job": "Writers' Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6343010,
+        "known_for_department": "Camera",
+        "name": "Andrea Hernández",
+        "original_name": "Andrea Hernández",
+        "popularity": 0.6161,
+        "profile_path": null,
+        "credit_id": "6a538c8220a577b870338cd6",
+        "department": "Camera",
+        "job": "Focus Puller"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6343011,
+        "known_for_department": "Lighting",
+        "name": "Sofía Val",
+        "original_name": "Sofía Val",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a538c9c446d532d0b3bbb89",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6343013,
+        "known_for_department": "Sound",
+        "name": "Marc Brampton",
+        "original_name": "Marc Brampton",
+        "popularity": 0.0697,
+        "profile_path": null,
+        "credit_id": "6a538cb98458a7f9a43a7741",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6343015,
+        "known_for_department": "Sound",
+        "name": "Dúnia El Farhi",
+        "original_name": "Dúnia El Farhi",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "6a538ce377d87818abf5d980",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6343000,
+        "known_for_department": "Art",
+        "name": "Milena Martínez",
+        "original_name": "Milena Martínez",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a538d3cbcf0b32957f5db18",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6342999,
+        "known_for_department": "Art",
+        "name": "Carla Moreno",
+        "original_name": "Carla Moreno",
+        "popularity": 0.049,
+        "profile_path": null,
+        "credit_id": "6a538d5e4b5a589b870cb882",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5812381,
+        "known_for_department": "Camera",
+        "name": "Zacarías Alarcón Rivas",
+        "original_name": "Zacarías Alarcón Rivas",
+        "popularity": 0.0539,
+        "profile_path": null,
+        "credit_id": "6a538d77c4d3e7f777b1285a",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6343017,
+        "known_for_department": "Editing",
+        "name": "Iker Martín",
+        "original_name": "Iker Martín",
+        "popularity": 0.1445,
+        "profile_path": null,
+        "credit_id": "6a538da1f060d8318da7f4a4",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5590590,
+        "known_for_department": "Lighting",
+        "name": "Mark Armesto",
+        "original_name": "Mark Armesto",
+        "popularity": 0.0356,
+        "profile_path": null,
+        "credit_id": "6a538dc4972b6e0e39b128c9",
+        "department": "Editing",
+        "job": "Color Grading"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5590590,
+        "known_for_department": "Lighting",
+        "name": "Mark Armesto",
+        "original_name": "Mark Armesto",
+        "popularity": 0.0356,
+        "profile_path": null,
+        "credit_id": "6a538df077b7affc813bba90",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6343020,
+        "known_for_department": "Directing",
+        "name": "Marc Giménez",
+        "original_name": "Marc Giménez",
+        "popularity": 0.0438,
+        "profile_path": null,
+        "credit_id": "6a538e2620a577b870338d2d",
+        "department": "Directing",
+        "job": "Continuity"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6343022,
+        "known_for_department": "Camera",
+        "name": "Raquel García",
+        "original_name": "Raquel García",
+        "popularity": 0.0422,
+        "profile_path": null,
+        "credit_id": "6a538e738a5ac3cc3565596c",
+        "department": "Camera",
+        "job": "Additional Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3583548,
+        "known_for_department": "Crew",
+        "name": "Núria Corominas",
+        "original_name": "Núria Corominas",
+        "popularity": 0.0515,
+        "profile_path": null,
+        "credit_id": "6a538e9b77d87818abf5d9bd",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5590593,
+        "known_for_department": "Art",
+        "name": "Ariadna Sandoval",
+        "original_name": "Ariadna Sandoval",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "6a538edcd1a183aa25338d23",
+        "department": "Camera",
+        "job": "BTS Videographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6343017,
+        "known_for_department": "Editing",
+        "name": "Iker Martín",
+        "original_name": "Iker Martín",
+        "popularity": 0.1445,
+        "profile_path": null,
+        "credit_id": "6a538f6def388dbb9bb12891",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6343013,
+        "known_for_department": "Sound",
+        "name": "Marc Brampton",
+        "original_name": "Marc Brampton",
+        "popularity": 0.0697,
+        "profile_path": null,
+        "credit_id": "6a53902777b7affc813bbad5",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6342999,
+        "known_for_department": "Art",
+        "name": "Carla Moreno",
+        "original_name": "Carla Moreno",
+        "popularity": 0.049,
+        "profile_path": null,
+        "credit_id": "6a53903d505679d91d873881",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6343032,
+        "known_for_department": "Crew",
+        "name": "Júlia Navarro Segarra",
+        "original_name": "Júlia Navarro Segarra",
+        "popularity": 0.1685,
+        "profile_path": null,
+        "credit_id": "6a539071c313b08d073bb9b7",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6343032,
+        "known_for_department": "Crew",
+        "name": "Júlia Navarro Segarra",
+        "original_name": "Júlia Navarro Segarra",
+        "popularity": 0.1685,
+        "profile_path": null,
+        "credit_id": "6a539097275cb80e9e3a779b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5812312,
+        "known_for_department": "Directing",
+        "name": "Mireia Barril Gil",
+        "original_name": "Mireia Barril Gil",
+        "popularity": 0.4277,
+        "profile_path": null,
+        "credit_id": "6a5390db93f38360ec65582a",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6342999,
+        "known_for_department": "Art",
+        "name": "Carla Moreno",
+        "original_name": "Carla Moreno",
+        "popularity": 0.049,
+        "profile_path": null,
+        "credit_id": "6a53912a8ba65c5af50cb8b2",
+        "department": "Art",
+        "job": "Decorator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6342999,
+        "known_for_department": "Art",
+        "name": "Carla Moreno",
+        "original_name": "Carla Moreno",
+        "popularity": 0.049,
+        "profile_path": null,
+        "credit_id": "6a539157275cb80e9e3a77e5",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6343022,
+        "known_for_department": "Camera",
+        "name": "Raquel García",
+        "original_name": "Raquel García",
+        "popularity": 0.0422,
+        "profile_path": null,
+        "credit_id": "6a5391ad3b142ff5553bbd15",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6343022,
+        "known_for_department": "Camera",
+        "name": "Raquel García",
+        "original_name": "Raquel García",
+        "popularity": 0.0422,
+        "profile_path": null,
+        "credit_id": "6a5391ef972b6e0e39b12910",
+        "department": "Crew",
+        "job": "Script"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6343020,
+        "known_for_department": "Directing",
+        "name": "Marc Giménez",
+        "original_name": "Marc Giménez",
+        "popularity": 0.0438,
+        "profile_path": null,
+        "credit_id": "6a53920b446d532d0b3bbbcb",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6343039,
+        "known_for_department": "Sound",
+        "name": "Roser Garcia",
+        "original_name": "Roser Garcia",
+        "popularity": 0.0606,
+        "profile_path": null,
+        "credit_id": "6a5392b2c4cb8eb5aa3a77d3",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6343040,
+        "known_for_department": "Sound",
+        "name": "Roc Waisbord",
+        "original_name": "Roc Waisbord",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a5392e4738006f8f60cb63c",
+        "department": "Sound",
+        "job": "Musician"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Emma, siempre vista por las personas de su entorno como «demasiado emocional», pasa una noche de éxtasis con sus amigos. Su intento de conectar y expresarse choca con el bloqueo emocional del grupo, hasta que su estallido los obliga a mirarse por dentro y descubrir que sentir con intensidad también puede ser una fortaleza.",
+          "runtime": 11,
+          "tagline": "«Sentir no es una debilidad, es una forma de vivir».",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "ca",
+        "name": "Català",
+        "english_name": "Catalan",
+        "data": {
+          "homepage": "",
+          "overview": "L’Emma, sempre vista per les persones del seu voltant com «massa emocional», passa una nit d’èxtasi amb els seus amics. El seu intent de connectar i expressar-se topa amb el bloqueig emocional del grup, fins que el seu esclat els obliga a mirar-se per dins i descobrir que sentir intensament també pot arribar a ser una fortalesa.",
+          "runtime": 0,
+          "tagline": "«Sentir no és una debilitat, és una forma de viure»",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 720,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/n54JDlMx2Cb1qFLyLzLd7OOw3a5.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1280
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 750,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/dSoNYY4Hy9U9udV8z2JOakzYsij.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 500
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "ca",
+            "note": "Premis Costa Brava",
+            "release_date": "2026-07-11T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "ca",
+            "note": "Cinemes Maldà",
+            "release_date": "2026-06-27T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "ca",
+            "note": "Festival d'Art de Riera",
+            "release_date": "2026-05-17T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

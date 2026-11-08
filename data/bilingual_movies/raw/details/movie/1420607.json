@@ -1,0 +1,609 @@
+{
+  "adult": false,
+  "backdrop_path": "/zYqcjjGYsL5i0OKBCLw1sB8e8sf.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1420607,
+  "imdb_id": "tt35838100",
+  "origin_country": [
+    "NL",
+    "UA"
+  ],
+  "original_language": "uk",
+  "original_title": "Роздуми про мир під час повітряного нальоту",
+  "overview": "On a warm fall day, a construction worker decides to have a lunch break, a young girl takes care of her elderly grandmother, a film director tries to edit his documentary footage.",
+  "popularity": 1.0009,
+  "poster_path": "/jXNaPGoXNwsA3J1Okc25JzAt6LQ.jpg",
+  "production_companies": [
+    {
+      "id": 89419,
+      "logo_path": "/2ijuHoFEKnbzat1kLEqxT03yid2.png",
+      "name": "Contemporary Ukrainian Cinema",
+      "origin_country": "UA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "UA",
+      "name": "Ukraine"
+    },
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "release_date": "2025-02-02",
+  "revenue": 0,
+  "runtime": 15,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Ukrainian",
+      "iso_639_1": "uk",
+      "name": "Український"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Thoughts on Peace in an Air Raid",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5191566,
+        "known_for_department": "Acting",
+        "name": "Vasyl Muzyka",
+        "original_name": "Vasyl Muzyka",
+        "popularity": 0.1189,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "",
+        "credit_id": "678e4d0a880f6bd3846e2e40",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5191567,
+        "known_for_department": "Acting",
+        "name": "Alika Fedotova",
+        "original_name": "Alika Fedotova",
+        "popularity": 0.1238,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "678e4d139cb0719f7464f8e2",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2779118,
+        "known_for_department": "Directing",
+        "name": "Roman Bordun",
+        "original_name": "Roman Bordun",
+        "popularity": 0.221,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "",
+        "credit_id": "678e4d1fafcb32c499435693",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4095210,
+        "known_for_department": "Directing",
+        "name": "Sashko Sviatsky",
+        "original_name": "Sashko Sviatsky",
+        "popularity": 0.1104,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "",
+        "credit_id": "69d2d2d3d80c4efa6263929e",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3734656,
+        "known_for_department": "Directing",
+        "name": "Vyacheslav Turyanytsya",
+        "original_name": "В'ячеслав Туряниця",
+        "popularity": 0.2881,
+        "profile_path": "/6cp0LS25vGrztwgjSdnp2tcwva8.jpg",
+        "credit_id": "678e4c46afcb32c49943560c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3734656,
+        "known_for_department": "Directing",
+        "name": "Vyacheslav Turyanytsya",
+        "original_name": "В'ячеслав Туряниця",
+        "popularity": 0.2881,
+        "profile_path": "/6cp0LS25vGrztwgjSdnp2tcwva8.jpg",
+        "credit_id": "678e4c4d5add61273d65501d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3734656,
+        "known_for_department": "Directing",
+        "name": "Vyacheslav Turyanytsya",
+        "original_name": "В'ячеслав Туряниця",
+        "popularity": 0.2881,
+        "profile_path": "/6cp0LS25vGrztwgjSdnp2tcwva8.jpg",
+        "credit_id": "678e4c56274f9b08cd6df4cd",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3236579,
+        "known_for_department": "Production",
+        "name": "Inna Lastochkina",
+        "original_name": "Інна Ласточкіна",
+        "popularity": 0.1394,
+        "profile_path": "/iToZ3CzVUA8Ayt3UjOZ8bwu1jmL.jpg",
+        "credit_id": "678e4c625add61273d655027",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1802608,
+        "known_for_department": "Directing",
+        "name": "Valeriia Sochyvets",
+        "original_name": "Valeriia Sochyvets",
+        "popularity": 0.6302,
+        "profile_path": "/aZgWwt20OrEaRqQJ4UUruLZ9j1w.jpg",
+        "credit_id": "678e4c6e9cb0719f7464f877",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1802611,
+        "known_for_department": "Directing",
+        "name": "Philip Sotnychenko",
+        "original_name": "Philip Sotnychenko",
+        "popularity": 0.3922,
+        "profile_path": "/kuXxkXHKrV1AZoYQDMdiUfLtjUf.jpg",
+        "credit_id": "678e4c839cb0719f7464f884",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4970584,
+        "known_for_department": "Directing",
+        "name": "Anna Demianenko",
+        "original_name": "Anna Demianenko",
+        "popularity": 0.1987,
+        "profile_path": null,
+        "credit_id": "678e4c8dafcb32c499435633",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3460418,
+        "known_for_department": "Camera",
+        "name": "Volodymyr Usyk",
+        "original_name": "Володимир Усик",
+        "popularity": 0.4312,
+        "profile_path": "/7CYuAaDTJga8e5ykqBsUCdiXT72.jpg",
+        "credit_id": "678e4c995add61273d655032",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1802611,
+        "known_for_department": "Directing",
+        "name": "Philip Sotnychenko",
+        "original_name": "Philip Sotnychenko",
+        "popularity": 0.3922,
+        "profile_path": "/kuXxkXHKrV1AZoYQDMdiUfLtjUf.jpg",
+        "credit_id": "678e4ca15add61273d655036",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1036761,
+        "known_for_department": "Sound",
+        "name": "Artem Mostovyi",
+        "original_name": "Artem Mostovyi",
+        "popularity": 0.1621,
+        "profile_path": "/aBC7z6dSBcoWYeeRL1IFMvcacAj.jpg",
+        "credit_id": "678e4cafe4566399a26e2a77",
+        "department": "Sound",
+        "job": "Sound Designer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "On a warm fall day, a construction worker decides to have a lunch break, a young girl takes care of her elderly grandmother, a film director tries to edit his documentary footage.",
+          "runtime": 15,
+          "tagline": "",
+          "title": "Thoughts on Peace in an Air Raid"
+        }
+      },
+      {
+        "iso_3166_1": "UA",
+        "iso_639_1": "uk",
+        "name": "Український",
+        "english_name": "Ukrainian",
+        "data": {
+          "homepage": "",
+          "overview": "Теплого осіннього дня будівельник вирішує зробити перерву на обід, молода дівчина доглядає за своєю літньою бабусею, а кінорежисер намагається змонтувати відзнятий документальний матеріал.",
+          "runtime": 15,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "CN",
+        "iso_639_1": "zh",
+        "name": "普通话",
+        "english_name": "Mandarin",
+        "data": {
+          "homepage": "",
+          "overview": "在一个温暖的秋日，一名建筑工人决定午休片刻，一个年轻女孩照顾她年迈的祖母，一位电影导演试图剪辑他的纪录片素材。",
+          "runtime": 0,
+          "tagline": "",
+          "title": "空袭遐思"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "NL",
+        "title": "Rozdumy pro myr pid chas povitrianoho nalotu",
+        "type": "transliteration"
+      },
+      {
+        "iso_3166_1": "UA",
+        "title": "Фрагменти життя",
+        "type": "working title"
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "Fragments of Life",
+        "type": "working title"
+      },
+      {
+        "iso_3166_1": "CN",
+        "title": "空袭中的和平遐想",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt35838100",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/zYqcjjGYsL5i0OKBCLw1sB8e8sf.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/sZBzirvLSj4AIlUze7lFsZ7J1gr.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 729,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/oxcK7GRt7xjSbFP38ogMPIE8oTv.jpg",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 1296
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/2F9bd5dTOGT1zYGC3oyJZSu1Erm.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/jXNaPGoXNwsA3J1Okc25JzAt6LQ.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "BA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Sarajevo Film Festival",
+            "release_date": "2025-08-19T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Toronto Ukrainian Film Festival",
+            "release_date": "2026-04-18T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Beijing International Short Film Festival",
+            "release_date": "2025-11-09T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Filmfest Dresden",
+            "release_date": "2025-04-09T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Flatpack Festival",
+            "release_date": "2025-05-17T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Leeds International Film Festival",
+            "release_date": "2025-11-05T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Encounters Film Festival",
+            "release_date": "2026-09-23T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Laceno d’Oro International Film Festival",
+            "release_date": "2025-12-05T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Vilnius International Film Festival Kino Pavasaris",
+            "release_date": "2025-03-13T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "International Film Festival Rotterdam",
+            "release_date": "2025-02-02T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Leiden Shorts",
+            "release_date": "2025-06-01T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Żubroffka International Short Film Festival",
+            "release_date": "2025-12-04T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Family Film Project",
+            "release_date": "2025-10-17T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "International Film Festival Febiofest Bratislava",
+            "release_date": "2025-03-23T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "UA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Kyiv International Short Film Festival",
+            "release_date": "2025-09-06T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Lviv International Film Festival Wiz-Art",
+            "release_date": "2025-09-20T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Molodist Kyiv International Film Festival",
+            "release_date": "2025-10-31T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Mykolaichuk OPEN Audience Film Festival",
+            "release_date": "2026-06-19T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Thoughts on Peace in an Air Raid - trailer | IFFR 2025",
+        "key": "oZk52rI9thQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "678e4db2e4566399a26e2ad8",
+        "published_at": "2024-12-23T12:52:46.000Z"
+      }
+    ]
+  }
+}

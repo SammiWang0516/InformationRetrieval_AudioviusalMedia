@@ -1,0 +1,456 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 3500,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 1535964,
+  "imdb_id": "tt37763124",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Alvin",
+  "overview": "During a hot summer afternoon, a peculiar, wide-eyed 5th grader asks his teacher for advice about telling his crush how he feels. They discuss different tactics, and, ultimately, the boy sort of gains the courage to overcome his fears... sort of. He also inspires the teacher to maybe ask out his own crush... sort of.",
+  "popularity": 0.8366,
+  "poster_path": "/cog3FAc3AQHZJX2dvFeFExLcF69.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-08-19",
+  "revenue": 0,
+  "runtime": 11,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "Alvin",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5650006,
+        "known_for_department": "Acting",
+        "name": "Xavier Rosario",
+        "original_name": "Xavier Rosario",
+        "popularity": 0.2368,
+        "profile_path": "/knZ1Q3xKJrwj0VeQqvBwOFDVUAR.jpg",
+        "cast_id": 1,
+        "character": "Alvin",
+        "credit_id": "68ad67b868d62872b38d2a86",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4718194,
+        "known_for_department": "Acting",
+        "name": "Nicholas Weinbach",
+        "original_name": "Nicholas Weinbach",
+        "popularity": 0.0473,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Mr. Nicky",
+        "credit_id": "68ad67cfd6392648227829c5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5630376,
+        "known_for_department": "Acting",
+        "name": "Juliana Danielle Ferreira",
+        "original_name": "Juliana Danielle Ferreira",
+        "popularity": 0.361,
+        "profile_path": "/2YgrwKx8RUg7UlIRS6UbXnd0Icn.jpg",
+        "cast_id": 3,
+        "character": "Sandy",
+        "credit_id": "68ad67f0430d24f079670e1d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5650012,
+        "known_for_department": "Acting",
+        "name": "Ylvie Cuison",
+        "original_name": "Ylvie Cuison",
+        "popularity": 0.049,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Alyssa",
+        "credit_id": "68ad6820d6392648227829d3",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5650013,
+        "known_for_department": "Acting",
+        "name": "Jenny Lin-Tao Moran-Wang",
+        "original_name": "Jenny Lin-Tao Moran-Wang",
+        "popularity": 0.1896,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Ms. Liu",
+        "credit_id": "68ad6849c6df0feb1a6ced57",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5231004,
+        "known_for_department": "Acting",
+        "name": "Vayda Cronin",
+        "original_name": "Vayda Cronin",
+        "popularity": 0.0474,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Eleanor",
+        "credit_id": "6ac2eaddbf1e9f11a5dcc18c",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4718194,
+        "known_for_department": "Acting",
+        "name": "Nicholas Weinbach",
+        "original_name": "Nicholas Weinbach",
+        "popularity": 0.0473,
+        "profile_path": null,
+        "credit_id": "68ad68b5b83ab1b9c7670d71",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4718194,
+        "known_for_department": "Acting",
+        "name": "Nicholas Weinbach",
+        "original_name": "Nicholas Weinbach",
+        "popularity": 0.0473,
+        "profile_path": null,
+        "credit_id": "68ad68c9887117f99da9a761",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4718194,
+        "known_for_department": "Acting",
+        "name": "Nicholas Weinbach",
+        "original_name": "Nicholas Weinbach",
+        "popularity": 0.0473,
+        "profile_path": null,
+        "credit_id": "68ad68da9f4594a976670d21",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4718194,
+        "known_for_department": "Acting",
+        "name": "Nicholas Weinbach",
+        "original_name": "Nicholas Weinbach",
+        "popularity": 0.0473,
+        "profile_path": null,
+        "credit_id": "68ad68e82cf904ae89a9abf3",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4718194,
+        "known_for_department": "Acting",
+        "name": "Nicholas Weinbach",
+        "original_name": "Nicholas Weinbach",
+        "popularity": 0.0473,
+        "profile_path": null,
+        "credit_id": "68ad68f82cf904ae89a9abf6",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4718194,
+        "known_for_department": "Acting",
+        "name": "Nicholas Weinbach",
+        "original_name": "Nicholas Weinbach",
+        "popularity": 0.0473,
+        "profile_path": null,
+        "credit_id": "68ad69040911cb824f6cf104",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5650015,
+        "known_for_department": "Production",
+        "name": "Joshua Allison",
+        "original_name": "Joshua Allison",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68ad6928a47bc311886709f6",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2890400,
+        "known_for_department": "Production",
+        "name": "Peter Banks-Kenny",
+        "original_name": "Peter Banks-Kenny",
+        "popularity": 0.0514,
+        "profile_path": null,
+        "credit_id": "68ad693d1f5dded009a9aa42",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5650016,
+        "known_for_department": "Directing",
+        "name": "Nickon Hemati",
+        "original_name": "Nickon Hemati",
+        "popularity": 0.0463,
+        "profile_path": null,
+        "credit_id": "68ad69661d4ad005e9449551",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4718192,
+        "known_for_department": "Acting",
+        "name": "Max Weinbach",
+        "original_name": "Max Weinbach",
+        "popularity": 0.1564,
+        "profile_path": null,
+        "credit_id": "68ad69a1bdd4f40c236cf202",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4718192,
+        "known_for_department": "Acting",
+        "name": "Max Weinbach",
+        "original_name": "Max Weinbach",
+        "popularity": 0.1564,
+        "profile_path": null,
+        "credit_id": "68ad69d1c9856d112a9db7fa",
+        "department": "Production",
+        "job": "Consulting Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1223050,
+        "known_for_department": "Acting",
+        "name": "Bobby Gonzalez",
+        "original_name": "Bobby Gonzalez",
+        "popularity": 0.1805,
+        "profile_path": "/g5fkd0qlVtcyjlzCgnVxXMplsNq.jpg",
+        "credit_id": "68ad69efc0cdb2314a449324",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5528941,
+        "known_for_department": "Sound",
+        "name": "David Chorowski",
+        "original_name": "David Chorowski",
+        "popularity": 0.0446,
+        "profile_path": null,
+        "credit_id": "68ad6a03b795627c927829fd",
+        "department": "Sound",
+        "job": "Sound Engineer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5650019,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jesse Kim",
+        "original_name": "Jesse Kim",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68ad6a320911cb824f6cf114",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5073795,
+        "known_for_department": "Directing",
+        "name": "Bobbie\tEsposito",
+        "original_name": "Bobbie\tEsposito",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68ad6ac91b66fbae3a782859",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5650028,
+        "known_for_department": "Editing",
+        "name": "Irfan Khan",
+        "original_name": "Irfan Khan",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68ad6b040217ddf7dc548de8",
+        "department": "Editing",
+        "job": "Digital Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4718194,
+        "known_for_department": "Acting",
+        "name": "Nicholas Weinbach",
+        "original_name": "Nicholas Weinbach",
+        "popularity": 0.0473,
+        "profile_path": null,
+        "credit_id": "68ad6b0f2e055fbb7f670c8a",
+        "department": "Editing",
+        "job": "Digital Colorist"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 10683,
+        "name": "coming of age"
+      },
+      {
+        "id": 9914,
+        "name": "slice of life"
+      },
+      {
+        "id": 208349,
+        "name": "kids"
+      },
+      {
+        "id": 245027,
+        "name": "crush on girl"
+      },
+      {
+        "id": 350689,
+        "name": "children"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "During a hot summer afternoon, a peculiar, wide-eyed 5th grader asks his teacher for advice about telling his crush how he feels. They discuss different tactics, and, ultimately, the boy sort of gains the courage to overcome his fears... sort of. He also inspires the teacher to maybe ask out his own crush... sort of.",
+          "runtime": 11,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt37763124",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.675,
+        "height": 2963,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/cog3FAc3AQHZJX2dvFeFExLcF69.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2025-08-19T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Alvin TRAILER",
+        "key": "1112819393",
+        "site": "Vimeo",
+        "size": 2160,
+        "type": "Trailer",
+        "official": false,
+        "id": "68ad6c011d5611ce227825f3",
+        "published_at": "2025-08-25T07:49:17.000Z"
+      }
+    ]
+  }
+}

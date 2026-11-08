@@ -1,0 +1,514 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 1646103,
+  "imdb_id": null,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Gaël Faye au Louvre, Le Radeau de la Méduse",
+  "overview": "The power of flow versus the power of waves: At the Louvre, in front of Géricault's gigantic canvas, Gaël Faye reinterprets his songs in subtle arrangements for piano and strings. A mesmerising event.",
+  "popularity": 1.4251,
+  "poster_path": "/hGwp2rfDat26S93ERmGHIp0GC8Z.jpg",
+  "production_companies": [
+    {
+      "id": 292599,
+      "logo_path": null,
+      "name": "Arte France",
+      "origin_country": ""
+    },
+    {
+      "id": 287712,
+      "logo_path": null,
+      "name": "Futur Antérieur Production",
+      "origin_country": ""
+    },
+    {
+      "id": 293160,
+      "logo_path": null,
+      "name": "Dat-Way",
+      "origin_country": ""
+    },
+    {
+      "id": 34766,
+      "logo_path": "/atA5jWdLJ5tgyKQ5dJ6FcYLQsUo.png",
+      "name": "Musée du Louvre",
+      "origin_country": "FR"
+    },
+    {
+      "id": 201487,
+      "logo_path": null,
+      "name": "excuse my french",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2025-09-02",
+  "revenue": 0,
+  "runtime": 55,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Kinyarwanda",
+      "iso_639_1": "rw",
+      "name": "Kinyarwanda"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Gaël Faye, live at the Musée du Louvre",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2182212,
+        "known_for_department": "Acting",
+        "name": "Gaël Faye",
+        "original_name": "Gaël Faye",
+        "popularity": 0.307,
+        "profile_path": "/1eiPDezCagpopd2crDwC6hRuZ4E.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "69a7f2b2ac40c96b61964b0a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3996128,
+        "known_for_department": "Sound",
+        "name": "Guillaume Poncelet",
+        "original_name": "Guillaume Poncelet",
+        "popularity": 0.2338,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "69c3133a3fd7ffb15f06bf5b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4041925,
+        "known_for_department": "Sound",
+        "name": "Samuel Kamanzi",
+        "original_name": "Samuel Kamanzi",
+        "popularity": 0.0605,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "69c31346bc4149caaeb60a0f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6094848,
+        "known_for_department": "Acting",
+        "name": "Arnaud Thorette",
+        "original_name": "Arnaud Thorette",
+        "popularity": 0.1744,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "69c3135fbfd94117e34d050c",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4038094,
+        "known_for_department": "Sound",
+        "name": "Pauline Buet",
+        "original_name": "Pauline Buet",
+        "popularity": 0.6622,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "69c3136bbb9c9a278462eae3",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6094851,
+        "known_for_department": "Acting",
+        "name": "Cécile Annie Grass",
+        "original_name": "Cécile Annie Grass",
+        "popularity": 0.4501,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "69c31379bfd94117e34d052b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6094855,
+        "known_for_department": "Acting",
+        "name": "Jasser Haj Youssefi",
+        "original_name": "Jasser Haj Youssefi",
+        "popularity": 0.1445,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "69c3138faa728233646abff8",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3861493,
+        "known_for_department": "Directing",
+        "name": "Guillaume Klein",
+        "original_name": "Guillaume Klein",
+        "popularity": 0.2205,
+        "profile_path": null,
+        "credit_id": "69a7f2997907c3d6b5097905",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6094876,
+        "known_for_department": "Lighting",
+        "name": "Matthieu Etignard",
+        "original_name": "Matthieu Etignard",
+        "popularity": 0.121,
+        "profile_path": null,
+        "credit_id": "69c315e83e9b262b936653d0",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6094884,
+        "known_for_department": "Sound",
+        "name": "Florent Livet",
+        "original_name": "Florent Livet",
+        "popularity": 0.1427,
+        "profile_path": null,
+        "credit_id": "69c3160eb2e300b66862e850",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2511731,
+        "known_for_department": "Camera",
+        "name": "Arthur Cemin",
+        "original_name": "Arthur Cemin",
+        "popularity": 0.1719,
+        "profile_path": null,
+        "credit_id": "69c316344fa7d4e01906bf5f",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5472372,
+        "known_for_department": "Camera",
+        "name": "Olivier Cahn",
+        "original_name": "Olivier Cahn",
+        "popularity": 0.1752,
+        "profile_path": null,
+        "credit_id": "69c316571787b0cd3b352ede",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2274218,
+        "known_for_department": "Camera",
+        "name": "François Perret",
+        "original_name": "François Perret",
+        "popularity": 0.9244,
+        "profile_path": null,
+        "credit_id": "69c31668b2e300b66862e853",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3716636,
+        "known_for_department": "Camera",
+        "name": "Emmanuel Guilbert",
+        "original_name": "Emmanuel Guilbert",
+        "popularity": 0.0372,
+        "profile_path": null,
+        "credit_id": "69c31678abae76938aaab8f1",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4225076,
+        "known_for_department": "Directing",
+        "name": "Elodie Korecki",
+        "original_name": "Elodie Korecki",
+        "popularity": 0.2839,
+        "profile_path": null,
+        "credit_id": "69c316999a857536d3b60a23",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2274221,
+        "known_for_department": "Camera",
+        "name": "Christine Strazzeri",
+        "original_name": "Christine Strazzeri",
+        "popularity": 0.106,
+        "profile_path": null,
+        "credit_id": "69c316ac803c53a92c06bf19",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5821800,
+        "known_for_department": "Camera",
+        "name": "Nicolas Glachant",
+        "original_name": "Nicolas Glachant",
+        "popularity": 0.1317,
+        "profile_path": null,
+        "credit_id": "69c316d73aef64c4dfb609c5",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4553023,
+        "known_for_department": "Sound",
+        "name": "Pierre Favrez",
+        "original_name": "Pierre Favrez",
+        "popularity": 0.2173,
+        "profile_path": null,
+        "credit_id": "69c3170012afd59bba665432",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6094892,
+        "known_for_department": "Sound",
+        "name": "Gabin Volle",
+        "original_name": "Gabin Volle",
+        "popularity": 0.1894,
+        "profile_path": null,
+        "credit_id": "69c3171a7b8627f9a206bf60",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6094894,
+        "known_for_department": "Editing",
+        "name": "Antoine de Bihen",
+        "original_name": "Antoine de Bihen",
+        "popularity": 0.2614,
+        "profile_path": null,
+        "credit_id": "69c3175dec3eb1b685665420",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2940146,
+        "known_for_department": "Editing",
+        "name": "Hugues Dardart",
+        "original_name": "Hugues Dardart",
+        "popularity": 0.3189,
+        "profile_path": null,
+        "credit_id": "69c31772bffcd46a6aa25160",
+        "department": "Editing",
+        "job": "Color Grading"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5972803,
+        "known_for_department": "Crew",
+        "name": "Maximilian Schwanse",
+        "original_name": "Maximilian Schwanse",
+        "popularity": 0.2081,
+        "profile_path": null,
+        "credit_id": "69c3179365e3750da862e823",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6094884,
+        "known_for_department": "Sound",
+        "name": "Florent Livet",
+        "original_name": "Florent Livet",
+        "popularity": 0.1427,
+        "profile_path": null,
+        "credit_id": "69c317b23e9b262b936653ec",
+        "department": "Crew",
+        "job": "Mixing Engineer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 6029,
+        "name": "concert"
+      },
+      {
+        "id": 897,
+        "name": "rap music"
+      },
+      {
+        "id": 2966,
+        "name": "louvre museum"
+      },
+      {
+        "id": 261152,
+        "name": "poetry slam"
+      },
+      {
+        "id": 370414,
+        "name": "gaël faye"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "The power of flow versus the power of waves: At the Louvre, in front of Géricault's gigantic canvas, Gaël Faye reinterprets his songs in subtle arrangements for piano and strings. A mesmerising event.",
+          "runtime": 55,
+          "tagline": "",
+          "title": "Gaël Faye, live at the Musée du Louvre"
+        }
+      },
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "La puissance du flow face à celle des flots : au Louvre, devant la gigantesque toile de Géricault, Gaël Faye réinterprète ses titres, dans de subtils arrangements pour piano et cordes. Envoûtant.",
+          "runtime": 55,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "DE",
+        "title": "Gaël Faye im Louvre, Das Floß der Medusa",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/hGwp2rfDat26S93ERmGHIp0GC8Z.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 720
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "de",
+            "note": "",
+            "release_date": "2025-09-02T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "fr",
+            "note": "",
+            "release_date": "2025-09-02T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

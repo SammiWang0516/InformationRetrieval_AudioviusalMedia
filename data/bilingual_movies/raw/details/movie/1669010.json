@@ -1,0 +1,619 @@
+{
+  "adult": false,
+  "backdrop_path": "/dVokwrNkPQn649Qpxy33f4t1sg1.jpg",
+  "belongs_to_collection": null,
+  "budget": 160000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1669010,
+  "imdb_id": "tt37814680",
+  "origin_country": [
+    "NO"
+  ],
+  "original_language": "no",
+  "original_title": "Stjålne Minner",
+  "overview": "18-year old Emil's night takes a dark turn when a break-in reveals old photographs of Emil and his mother in a bathtub, making him question his past.",
+  "popularity": 1.1749,
+  "poster_path": "/eB9nh7yNclh5ukPftLPijmgVFNW.jpg",
+  "production_companies": [
+    {
+      "id": 227099,
+      "logo_path": "/mXDwzoMTueoFIGSPxD6c7G3SJfw.png",
+      "name": "Prolaps Produktion",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NO",
+      "name": "Norway"
+    },
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "2026-06-11",
+  "revenue": 0,
+  "runtime": 17,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Stolen Memories",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3749647,
+        "known_for_department": "Acting",
+        "name": "Jørgen Cleve Broch",
+        "original_name": "Jørgen Cleve Broch",
+        "popularity": 0.1431,
+        "profile_path": "/6CAuFTZU4X2mNWyu9jZOBczv09d.jpg",
+        "cast_id": 1,
+        "character": "Emil",
+        "credit_id": "69dbe27391ca01b29a027679",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4010229,
+        "known_for_department": "Acting",
+        "name": "Hannah Elise Adolfsen Fjeldbraaten",
+        "original_name": "Hannah Elise Adolfsen Fjeldbraaten",
+        "popularity": 0.171,
+        "profile_path": "/j9ho4c79Mh7RSvZjcvaXOpzXZ1Y.jpg",
+        "cast_id": 2,
+        "character": "Ingrid",
+        "credit_id": "69dbe2933c54089db502736c",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1975316,
+        "known_for_department": "Acting",
+        "name": "Turid Rivertz Vatne",
+        "original_name": "Turid Rivertz Vatne",
+        "popularity": 0.3018,
+        "profile_path": "/2IaW3ZyPKUhNeOLMkga690KjD9c.jpg",
+        "cast_id": 3,
+        "character": "Mamma",
+        "credit_id": "69dbe2aabba7054a5f70aa95",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 114737,
+        "known_for_department": "Acting",
+        "name": "Anderz Eide",
+        "original_name": "Anderz Eide",
+        "popularity": 0.2613,
+        "profile_path": "/5JKoRSss8ObTtOhEqComhAdrnPU.jpg",
+        "cast_id": 4,
+        "character": "Pappa",
+        "credit_id": "69dbe2cd3c54089db5027370",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6137165,
+        "known_for_department": "Acting",
+        "name": "Jonatan Bratt-Silset Pedersen",
+        "original_name": "Jonatan Bratt-Silset Pedersen",
+        "popularity": 0.3987,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Eivind",
+        "credit_id": "69dbe2f42cc5d1fb8d3586e6",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3685973,
+        "known_for_department": "Directing",
+        "name": "Anders Davidsen",
+        "original_name": "Anders Davidsen",
+        "popularity": 0.1662,
+        "profile_path": null,
+        "credit_id": "69dbe30c879d27732770a9d2",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3685973,
+        "known_for_department": "Directing",
+        "name": "Anders Davidsen",
+        "original_name": "Anders Davidsen",
+        "popularity": 0.1662,
+        "profile_path": null,
+        "credit_id": "69dbe3428e0c2d69289b871f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3536641,
+        "known_for_department": "Directing",
+        "name": "Jonas Bruun",
+        "original_name": "Jonas Bruun",
+        "popularity": 0.1139,
+        "profile_path": null,
+        "credit_id": "69dbe37c879d27732770a9e4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4224449,
+        "known_for_department": "Production",
+        "name": "Louise Beyer",
+        "original_name": "Louise Beyer",
+        "popularity": 0.0982,
+        "profile_path": null,
+        "credit_id": "69dbe3ad8334d7060c0274e8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4362143,
+        "known_for_department": "Production",
+        "name": "Alicia Hansen",
+        "original_name": "Alicia Hansen",
+        "popularity": 0.2034,
+        "profile_path": null,
+        "credit_id": "69dbe3c299a8271f57c73884",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3720368,
+        "known_for_department": "Production",
+        "name": "Stina Eriksson",
+        "original_name": "Stina Eriksson",
+        "popularity": 0.1068,
+        "profile_path": null,
+        "credit_id": "69dbe3fa524dadd12db650ce",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1575523,
+        "known_for_department": "Camera",
+        "name": "Benjamin Loeb",
+        "original_name": "Benjamin Loeb",
+        "popularity": 0.3664,
+        "profile_path": "/hXBo8hFUwvYicyHpzXpe5YH4PLw.jpg",
+        "credit_id": "69dbe40ef6a74e069e70a970",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2902072,
+        "known_for_department": "Art",
+        "name": "Saga Thiberg",
+        "original_name": "Saga Thiberg",
+        "popularity": 0.1661,
+        "profile_path": null,
+        "credit_id": "69dbe419ace24ff22dd9340d",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3719018,
+        "known_for_department": "Editing",
+        "name": "Matilda Lind",
+        "original_name": "Matilda Lind",
+        "popularity": 0.1231,
+        "profile_path": null,
+        "credit_id": "69dbe42b90817cb9730274d8",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2373223,
+        "known_for_department": "Sound",
+        "name": "Jakob Bechmann Hansen",
+        "original_name": "Jakob Bechmann",
+        "popularity": 0.067,
+        "profile_path": null,
+        "credit_id": "69dbe45aaeebe0e2cd9b805e",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6025696,
+        "known_for_department": "Sound",
+        "name": "Paula Theodora Franke",
+        "original_name": "Paula Theodora Franke",
+        "popularity": 0.1888,
+        "profile_path": null,
+        "credit_id": "69dbe48ac31e2c4d19373232",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1899738,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Elisabeth Mainy",
+        "original_name": "Elisabeth Mainy",
+        "popularity": 0.1983,
+        "profile_path": null,
+        "credit_id": "69dbe4ab8e0c2d69289b8757",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2492100,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Marie Nesset",
+        "original_name": "Marie Nesset",
+        "popularity": 0.0637,
+        "profile_path": null,
+        "credit_id": "69dbe4c2c89c7a1d4f3733d8",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 63751,
+        "known_for_department": "Production",
+        "name": "Celine Engebrigtsen",
+        "original_name": "Celine Engebrigtsen",
+        "popularity": 0.2289,
+        "profile_path": "/soEzh6VhQnfNbIsUEl2eXbRqP5.jpg",
+        "credit_id": "69dbe4d98a12ffe9f9358767",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6137182,
+        "known_for_department": "Sound",
+        "name": "Morten Heide",
+        "original_name": "Morten Heide",
+        "popularity": 0.0559,
+        "profile_path": null,
+        "credit_id": "69dbe518a1049707a635874f",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1523003,
+        "known_for_department": "Crew",
+        "name": "Iain Forbes",
+        "original_name": "Iain Forbes",
+        "popularity": 0.405,
+        "profile_path": null,
+        "credit_id": "69dbe56d4ecda9ae5302783a",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5570144,
+        "known_for_department": "Directing",
+        "name": "Jonathan Halvorsen",
+        "original_name": "Jonathan Halvorsen",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "69dbe5cd3d18b4d6cbd93361",
+        "department": "Crew",
+        "job": "Child Wrangler"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6137191,
+        "known_for_department": "Art",
+        "name": "Joel Billekvist",
+        "original_name": "Joel Billekvist",
+        "popularity": 0.0931,
+        "profile_path": null,
+        "credit_id": "69dbe5f190817cb973027511",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6137193,
+        "known_for_department": "Art",
+        "name": "Lars Kjelsnes",
+        "original_name": "Lars Kjelsnes",
+        "popularity": 0.0369,
+        "profile_path": null,
+        "credit_id": "69dbe624524dadd12db6510b",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6137194,
+        "known_for_department": "Art",
+        "name": "Eline M. Eriksen Dybfest",
+        "original_name": "Eline M. Eriksen Dybfest",
+        "popularity": 0.1009,
+        "profile_path": null,
+        "credit_id": "69dbe699ba5eb92b049b81f2",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3128938,
+        "known_for_department": "Camera",
+        "name": "Ola Austad",
+        "original_name": "Ola Austad",
+        "popularity": 0.0834,
+        "profile_path": null,
+        "credit_id": "69dbe6cfa22b8256fa3735a3",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6137201,
+        "known_for_department": "Camera",
+        "name": "Christoffer Bya",
+        "original_name": "Christoffer Bya",
+        "popularity": 0.1583,
+        "profile_path": null,
+        "credit_id": "69dbe78d3d18b4d6cbd933ae",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3046397,
+        "known_for_department": "Camera",
+        "name": "Bob Aas Carho",
+        "original_name": "Bob Aas Carho",
+        "popularity": 0.0606,
+        "profile_path": null,
+        "credit_id": "69dbe7a18e0c2d69289b87ad",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6137208,
+        "known_for_department": "Lighting",
+        "name": "Jaroslavs Andrjuscenko",
+        "original_name": "Jaroslavs Andrjuscenko",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "69dbe812582b647bbc1d9d80",
+        "department": "Lighting",
+        "job": "Assistant Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4539907,
+        "known_for_department": "Lighting",
+        "name": "Isabell Dahlén",
+        "original_name": "Isabell Dahlén",
+        "popularity": 0.154,
+        "profile_path": null,
+        "credit_id": "69dbe8415827514474b652bf",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1412135,
+        "known_for_department": "Lighting",
+        "name": "Olav Haddeland",
+        "original_name": "Olav Haddeland",
+        "popularity": 0.0901,
+        "profile_path": null,
+        "credit_id": "69dbe851d6eeb3193b9b83dc",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6137209,
+        "known_for_department": "Camera",
+        "name": "Dev Dhunsi",
+        "original_name": "Dev Dhunsi",
+        "popularity": 0.0755,
+        "profile_path": null,
+        "credit_id": "69dbe86f84a2925e17c73062",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6137217,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Vilde Byberg Smedstad",
+        "original_name": "Vilde Byberg Smedstad",
+        "popularity": 0.1508,
+        "profile_path": null,
+        "credit_id": "69dbe9820f9b641c3b1d988f",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3763507,
+        "known_for_department": "Editing",
+        "name": "Christian Wieberg-Nielsen",
+        "original_name": "Christian Wieberg-Nielsen",
+        "popularity": 0.2447,
+        "profile_path": "/9lKHc1SVr12BjStFuIQXgtb5qgX.jpg",
+        "credit_id": "69dbe993d78afc14d59b83e9",
+        "department": "Editing",
+        "job": "Color Grading"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6137221,
+        "known_for_department": "Production",
+        "name": "Rollo Begbie Crewe",
+        "original_name": "Rollo Begbie Crewe",
+        "popularity": 0.0514,
+        "profile_path": null,
+        "credit_id": "69dbea131f8fd7a771d93341",
+        "department": "Production",
+        "job": "Production Assistant"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "18-year old Emil's night takes a dark turn when a break-in reveals old photographs of Emil and his mother in a bathtub, making him question his past.",
+          "runtime": 17,
+          "tagline": "",
+          "title": "Stolen Memories"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt37814680",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1296,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/dVokwrNkPQn649Qpxy33f4t1sg1.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2304
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 720,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/6S5T3VXNwhGIKIBtm9Qs9bqBeut.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1280
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.7,
+        "height": 2836,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/eB9nh7yNclh5ukPftLPijmgVFNW.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1985
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "NO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "no",
+            "note": "",
+            "release_date": "2026-06-11T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

@@ -1,0 +1,457 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 1614564,
+  "imdb_id": "tt39334890",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Les Lapins Trois-Oreilles",
+  "overview": "To free a princess from the tyrannical yoke of a Regent, a boy must overcome the infernal ordeal of the Three-Eared Rabbits, multicolored and music-loving creatures from whom much can be obtained simply by whistling certain tunes to them…",
+  "popularity": 0.7714,
+  "poster_path": "/7cHFTwM5uoWsGLbF5JslNU9U5vn.jpg",
+  "production_companies": [
+    {
+      "id": 203971,
+      "logo_path": null,
+      "name": "Akaba",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2026-01-18",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Three-Eared Rabbits",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2913831,
+        "known_for_department": "Acting",
+        "name": "Elisa Bourreau",
+        "original_name": "Elisa Bourreau",
+        "popularity": 0.1987,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "La Princesse",
+        "credit_id": "6964f6508d99f86732dc4af5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 145439,
+        "known_for_department": "Acting",
+        "name": "Michel Elias",
+        "original_name": "Michel Elias",
+        "popularity": 0.3451,
+        "profile_path": "/eq0p4BXVu0wdZJHLscNsicmlEku.jpg",
+        "cast_id": 2,
+        "character": "Le Vieillard",
+        "credit_id": "6964f66ae9b4a7a5e4db232f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2566289,
+        "known_for_department": "Acting",
+        "name": "Oscar Lesage",
+        "original_name": "Oscar Lesage",
+        "popularity": 0.6595,
+        "profile_path": "/uWSiPLMBem0ikdtr6uq2bMnz8fr.jpg",
+        "cast_id": 3,
+        "character": "Le Garçon",
+        "credit_id": "6964f684f81db4f7f3db23b5",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1362351,
+        "known_for_department": "Acting",
+        "name": "Patrick Rocca",
+        "original_name": "Patrick Rocca",
+        "popularity": 0.2091,
+        "profile_path": "/hRa6OhfgVUX1lgqk4BNyZAfktJx.jpg",
+        "cast_id": 4,
+        "character": "Le Régent",
+        "credit_id": "6964f69245147c63bcd8c79a",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87429,
+        "known_for_department": "Directing",
+        "name": "Michel Ocelot",
+        "original_name": "Michel Ocelot",
+        "popularity": 0.4036,
+        "profile_path": "/mp2nFgABGqgXCDm7zDwQKF5Wdz2.jpg",
+        "credit_id": "6964f6b0a709ef9b9fb35131",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2476043,
+        "known_for_department": "Editing",
+        "name": "Thomas Belair",
+        "original_name": "Thomas Belair",
+        "popularity": 0.1839,
+        "profile_path": null,
+        "credit_id": "6964f6c3a76a1258d1d4f282",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87429,
+        "known_for_department": "Directing",
+        "name": "Michel Ocelot",
+        "original_name": "Michel Ocelot",
+        "popularity": 0.4036,
+        "profile_path": "/mp2nFgABGqgXCDm7zDwQKF5Wdz2.jpg",
+        "credit_id": "6964f6cf834afd84827b1b9e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1098471,
+        "known_for_department": "Production",
+        "name": "Valérie Schermann",
+        "original_name": "Valérie Schermann",
+        "popularity": 0.217,
+        "profile_path": null,
+        "credit_id": "6964f6e4fba5bf3ab390d822",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1125823,
+        "known_for_department": "Sound",
+        "name": "Laurent Perez del Mar",
+        "original_name": "Laurent Perez del Mar",
+        "popularity": 0.5057,
+        "profile_path": "/jWZeBY8UUGLKXjHVGa3VivFmfWw.jpg",
+        "credit_id": "6964f72d3f9220523990d75c",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87429,
+        "known_for_department": "Directing",
+        "name": "Michel Ocelot",
+        "original_name": "Michel Ocelot",
+        "popularity": 0.4036,
+        "profile_path": "/mp2nFgABGqgXCDm7zDwQKF5Wdz2.jpg",
+        "credit_id": "6964f7492f5b19da6593496b",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5934328,
+        "known_for_department": "Production",
+        "name": "Marine Desmedt",
+        "original_name": "Marine Desmedt",
+        "popularity": 0.3059,
+        "profile_path": null,
+        "credit_id": "6964f768f813302ce72848b2",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1762378,
+        "known_for_department": "Sound",
+        "name": "Eric Lesachet",
+        "original_name": "Eric Lesachet",
+        "popularity": 0.2543,
+        "profile_path": null,
+        "credit_id": "6964f787c00d19b43edb2359",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1762378,
+        "known_for_department": "Sound",
+        "name": "Eric Lesachet",
+        "original_name": "Eric Lesachet",
+        "popularity": 0.2543,
+        "profile_path": null,
+        "credit_id": "6964f78f75f71dd9b290d7eb",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1954752,
+        "known_for_department": "Sound",
+        "name": "Vincent Mauduit",
+        "original_name": "Vincent Mauduit",
+        "popularity": 0.3842,
+        "profile_path": null,
+        "credit_id": "6964f79e67bcaafc4e934b74",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1954752,
+        "known_for_department": "Sound",
+        "name": "Vincent Mauduit",
+        "original_name": "Vincent Mauduit",
+        "popularity": 0.3842,
+        "profile_path": null,
+        "credit_id": "6964f7a6763c9c7e5db35173",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5934331,
+        "known_for_department": "Sound",
+        "name": "Khoi Huynh",
+        "original_name": "Khoi Huynh",
+        "popularity": 0.4787,
+        "profile_path": null,
+        "credit_id": "6964f7bf664739720d934907",
+        "department": "Sound",
+        "job": "Sound Engineer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1520239,
+        "known_for_department": "Sound",
+        "name": "Patrick Egreteau",
+        "original_name": "Patrick Egreteau",
+        "popularity": 0.2492,
+        "profile_path": null,
+        "credit_id": "6964f7cd7d3a3edb99b35154",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5934334,
+        "known_for_department": "Sound",
+        "name": "Camille Cagneaux",
+        "original_name": "Camille Cagneaux",
+        "popularity": 0.2326,
+        "profile_path": null,
+        "credit_id": "6964f7da3368df447890d79d",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5934335,
+        "known_for_department": "Visual Effects",
+        "name": "Samy Rodriguez",
+        "original_name": "Samy Rodriguez",
+        "popularity": 0.4953,
+        "profile_path": null,
+        "credit_id": "6964f7f167bcaafc4e934b84",
+        "department": "Visual Effects",
+        "job": "3D Generalist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5934337,
+        "known_for_department": "Production",
+        "name": "Xavier Biesbrouck",
+        "original_name": "Xavier Biesbrouck",
+        "popularity": 0.2978,
+        "profile_path": null,
+        "credit_id": "6964f816951d66765bd4f0a4",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5934338,
+        "known_for_department": "Production",
+        "name": "Pierre-Guillaume Taillan",
+        "original_name": "Pierre-Guillaume Taillan",
+        "popularity": 0.0926,
+        "profile_path": null,
+        "credit_id": "6964f8275f1f49ed877b1c85",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5934339,
+        "known_for_department": "Sound",
+        "name": "Frédéric Radix",
+        "original_name": "Frédéric Radix",
+        "popularity": 0.1308,
+        "profile_path": null,
+        "credit_id": "6964f854325a8ea32bdc4ab2",
+        "department": "Sound",
+        "job": "Musician"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 7376,
+        "name": "princess"
+      },
+      {
+        "id": 1691,
+        "name": "dance"
+      },
+      {
+        "id": 4152,
+        "name": "kingdom"
+      },
+      {
+        "id": 172879,
+        "name": "whistling"
+      },
+      {
+        "id": 333935,
+        "name": "rabbits"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "Pour libérer une princesse du joug tyrannique d’un Régent, un garçon devra surmonter l’infernale épreuve des Lapins Trois-Oreilles, créatures multicolores et mélomanes dont on peut obtenir beaucoup pour peu qu’on leur siffle certains airs…",
+          "runtime": 22,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "To free a princess from the tyrannical yoke of a Regent, a boy must overcome the infernal ordeal of the Three-Eared Rabbits, multicolored and music-loving creatures from whom much can be obtained simply by whistling certain tunes to them…",
+          "runtime": 0,
+          "tagline": "",
+          "title": "The Three-Eared Rabbits"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt39334890",
+    "wikidata_id": "Q138923657",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 750,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/7cHFTwM5uoWsGLbF5JslNU9U5vn.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 500
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "fr",
+            "note": "",
+            "release_date": "2026-01-18T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

@@ -1,0 +1,791 @@
+{
+  "adult": false,
+  "backdrop_path": "/oVph5mMhp0UxVYeSpIfUfll0kcF.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1484640,
+  "imdb_id": "tt34682204",
+  "origin_country": [
+    "CL"
+  ],
+  "original_language": "es",
+  "original_title": "Limpia",
+  "overview": "Drama told from the point of view of a live-in maid, working for a middle class couple with a young child, in the suburbs of Santiago, Chile.",
+  "popularity": 0.9273,
+  "poster_path": "/5pkYUOyvxjAYlUpq4GDTp04gxMa.jpg",
+  "production_companies": [
+    {
+      "id": 21546,
+      "logo_path": "/nB186ByqKVBiuy9Nc3US9nlBst1.png",
+      "name": "Fabula",
+      "origin_country": "CL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CL",
+      "name": "Chile"
+    }
+  ],
+  "release_date": "2025-09-25",
+  "revenue": 0,
+  "runtime": 102,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Swim to Me",
+  "video": false,
+  "vote_average": 5.6,
+  "vote_count": 28,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1109643,
+        "known_for_department": "Acting",
+        "name": "María Paz Grandjean",
+        "original_name": "María Paz Grandjean",
+        "popularity": 0.193,
+        "profile_path": "/8Vh6OcUdo5uDdOGSyvZwZGWLTvX.jpg",
+        "cast_id": 10,
+        "character": "Estela",
+        "credit_id": "68aaafcc28bc1861a0a99ca8",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5645316,
+        "known_for_department": "Acting",
+        "name": "Rosa Puga Vittini",
+        "original_name": "Rosa Puga Vittini",
+        "popularity": 0.0637,
+        "profile_path": "/rjoswOS5864zb7VrPxDpnUZw6iU.jpg",
+        "cast_id": 11,
+        "character": "",
+        "credit_id": "68aaafe65a398f7c6c448918",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2171544,
+        "known_for_department": "Acting",
+        "name": "Ignacia Baeza",
+        "original_name": "Ignacia Baeza",
+        "popularity": 0.3261,
+        "profile_path": "/5ZVEGrqmAsfsVD2dsJl7AGfS5KV.jpg",
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "68aab0106fa7bc3adba99ebc",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2044566,
+        "known_for_department": "Acting",
+        "name": "Benjamín Westfall",
+        "original_name": "Benjamín Westfall",
+        "popularity": 0.2169,
+        "profile_path": "/sBe8wSJmdmXpz2K8XFGYbC9Ju7m.jpg",
+        "cast_id": 13,
+        "character": "",
+        "credit_id": "68c41dfd6c830a8aff2a07e9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1471605,
+        "known_for_department": "Acting",
+        "name": "Rodrigo Palacios",
+        "original_name": "Rodrigo Palacios",
+        "popularity": 0.1011,
+        "profile_path": "/5lzyTROy00y4VgJjCEz0RDkxaxx.jpg",
+        "cast_id": 14,
+        "character": "",
+        "credit_id": "68c41e053e901df5eb199fbe",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1088208,
+        "known_for_department": "Directing",
+        "name": "Dominga Sotomayor",
+        "original_name": "Dominga Sotomayor",
+        "popularity": 0.4815,
+        "profile_path": "/riLkpCR7S4P9914USEnfbaMLTwb.jpg",
+        "credit_id": "682cfaccf5ca8ac4a62f127e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1088208,
+        "known_for_department": "Directing",
+        "name": "Dominga Sotomayor",
+        "original_name": "Dominga Sotomayor",
+        "popularity": 0.4815,
+        "profile_path": "/riLkpCR7S4P9914USEnfbaMLTwb.jpg",
+        "credit_id": "682cfae6eb593065a02f126f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2346645,
+        "known_for_department": "Writing",
+        "name": "Gabriela Larralde",
+        "original_name": "Gabriela Larralde",
+        "popularity": 0.2178,
+        "profile_path": null,
+        "credit_id": "682cfaf8d695b950850bdf64",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1663922,
+        "known_for_department": "Production",
+        "name": "Rocío Jadue",
+        "original_name": "Rocío Jadue",
+        "popularity": 0.2381,
+        "profile_path": null,
+        "credit_id": "682cfc184b404174342f7e4e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1075100,
+        "known_for_department": "Production",
+        "name": "Juan de Dios Larraín",
+        "original_name": "Juan de Dios Larraín",
+        "popularity": 0.4776,
+        "profile_path": null,
+        "credit_id": "682cfc31010214cda59e4195",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 225009,
+        "known_for_department": "Directing",
+        "name": "Pablo Larraín",
+        "original_name": "Pablo Larraín",
+        "popularity": 1.3826,
+        "profile_path": "/4vP5MatNdE6Ku1iJbboWZPya18b.jpg",
+        "credit_id": "682cfc3fc264ae362964948b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1088208,
+        "known_for_department": "Directing",
+        "name": "Dominga Sotomayor",
+        "original_name": "Dominga Sotomayor",
+        "popularity": 0.4815,
+        "profile_path": "/riLkpCR7S4P9914USEnfbaMLTwb.jpg",
+        "credit_id": "682cfc547c9d2798e9db3493",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4612388,
+        "known_for_department": "Writing",
+        "name": "Alia Trabucco Zerán",
+        "original_name": "Alia Trabucco Zerán",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "682cfc7b6299b61e736494fb",
+        "department": "Writing",
+        "job": "Book"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2311170,
+        "known_for_department": "Sound",
+        "name": "Camila Pruzzo",
+        "original_name": "Camila Pruzzo",
+        "popularity": 0.0719,
+        "profile_path": null,
+        "credit_id": "6a83d1e4ebe92a25bf2bb133",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Drama told from the point of view of a live-in maid, working for a middle class couple with a young child, in the suburbs of Santiago, Chile.",
+          "runtime": 102,
+          "tagline": "",
+          "title": "Swim to Me"
+        }
+      },
+      {
+        "iso_3166_1": "NL",
+        "iso_639_1": "nl",
+        "name": "Nederlands",
+        "english_name": "Dutch",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "KR",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말",
+        "english_name": "Korean",
+        "data": {
+          "homepage": "",
+          "overview": "알리아 트라부코의 베스트셀러 소설에서 영감을 받은 《스윔 투 미》는 가사도우미 에스텔라와 그녀가 밤낮으로 돌보는 6살 여자아이 사이의 강렬한 관계를 그린 섬뜩한 가족 드라마다. 유대감이 점점 깊어진 두 사람은 비밀스럽고 의존적인 세계를 만들어가지만, 그 끝에는 피할 수 없는 운명이 기다리고 있다.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "스윔 투 미"
+        }
+      },
+      {
+        "iso_3166_1": "UA",
+        "iso_639_1": "uk",
+        "name": "Український",
+        "english_name": "Ukrainian",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Пливи до мене"
+        }
+      },
+      {
+        "iso_3166_1": "PT",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "homepage": "",
+          "overview": "Durante um verão turbulento, uma empregada doméstica e a menina de quem cuida tornam-se muito chegadas, mas o fosso social entre ambas impõe-lhes um desfecho trágico.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "PL",
+        "iso_639_1": "pl",
+        "name": "Polski",
+        "english_name": "Polish",
+        "data": {
+          "homepage": "",
+          "overview": "Przejmujący dramat rodzinny na podstawie bestsellerowej powieści Alii Trabucco o niezwykle silnej więzi, jaka rodzi się między Estelą, pracującą jako pomoc domowa, a sześcioletnią dziewczynką, która jest pod jej opieką dniem i nocą. Z czasem ich relacja staje się coraz bardziej intensywna i razem tworzą sekretny, uzależniający świat, prowadzący je ku nieuchronnym konsekwencjom.",
+          "runtime": 102,
+          "tagline": "",
+          "title": "Płyń do mnie"
+        }
+      },
+      {
+        "iso_3166_1": "TH",
+        "iso_639_1": "th",
+        "name": "ภาษาไทย",
+        "english_name": "Thai",
+        "data": {
+          "homepage": "",
+          "overview": "พี่เลี้ยงแสนรัก (Swim To Me) ซึ่งได้แรงบันดาลใจมาจากนิยายขายดีของอาเลีย ทราบูคโค เป็นซีรีส์ดราม่าครอบครัวสุดหลอนที่บอกเล่าเรื่องราวความสัมพันธ์ที่แนบแน่นระหว่างเอสเตลา ผู้เป็นแม่บ้าน และเด็กหญิงวัย 6 ขวบที่เธอเป็นคนดูแลทั้งกลางวันและกลางคืน เมื่อสายสัมพันธ์ของพวกเธอใกล้ชิดกันมากขึ้น ทั้งสองได้สร้างโลกซ่อนเร้นที่พึ่งพากัน นำไปสู่ผลลัพธ์ที่ไม่อาจหลีกเลี่ยงได้",
+          "runtime": 0,
+          "tagline": "",
+          "title": "พี่เลี้ยงแสนรัก"
+        }
+      },
+      {
+        "iso_3166_1": "BR",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "homepage": "",
+          "overview": "Uma empregada doméstica e a garota de quem ela cuida se aproximam durante um verão turbulento. Até que a diferença entre esses dois mundos tem um desfecho trágico.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Limpa"
+        }
+      },
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "https://www.netflix.com/title/81777460",
+          "overview": "L'histoire de l'intense relation entre Estela, une domestique, et la fillette de six ans dont elle s'occupe nuit et jour. À mesure qu'elles se rapprochent, elles construisent un monde secret de dépendance qui va les mener à l'inévitable.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Propre"
+        }
+      },
+      {
+        "iso_3166_1": "VN",
+        "iso_639_1": "vi",
+        "name": "Tiếng Việt",
+        "english_name": "Vietnamese",
+        "data": {
+          "homepage": "",
+          "overview": "Một người giúp việc và cô bé mà cô chăm sóc ngày càng gắn bó sâu sắc trong suốt mùa hè đầy biến động, cho đến khi khoảng cách giữa hai thế giới của họ dẫn đến bước ngoặt bi thảm.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Swim to Me"
+        }
+      },
+      {
+        "iso_3166_1": "SI",
+        "iso_639_1": "sl",
+        "name": "Slovenščina",
+        "english_name": "Slovenian",
+        "data": {
+          "homepage": "",
+          "overview": "Estela, mlada ženska s čilskega podeželja, zapusti družino in se odpravi v Santiago, kjer začne delati kot služkinja v premožnem gospodinjstvu. Z deklico, za katero skrbi, se v burnem poletju zelo zbližata, dokler razkorak med njunima svetovoma ne sproži tragičnega preobrata.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Plavaj do mene"
+        }
+      },
+      {
+        "iso_3166_1": "CN",
+        "iso_639_1": "zh",
+        "name": "普通话",
+        "english_name": "Mandarin",
+        "data": {
+          "homepage": "",
+          "overview": "在一个不平静的夏天，一名佣人和她照顾的小女孩关系变得非常亲近，直到她们不同世界的差异引发悲剧性的转折。",
+          "runtime": 0,
+          "tagline": "",
+          "title": "游向我心"
+        }
+      },
+      {
+        "iso_3166_1": "HR",
+        "iso_639_1": "hr",
+        "name": "Hrvatski",
+        "english_name": "Croatian",
+        "data": {
+          "homepage": "",
+          "overview": "Kućna pomoćnica i djevojčica koju čuva jako se zbliže tijekom jednog burnog ljeta, sve dok razlike između njihova dva svijeta ne dovedu do tragedije.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Plivaj prema meni"
+        }
+      },
+      {
+        "iso_3166_1": "IL",
+        "iso_639_1": "he",
+        "name": "עִבְרִית",
+        "english_name": "Hebrew",
+        "data": {
+          "homepage": "",
+          "overview": "ילדה מבריקה שעובדת במפעל נצלני מקבלת הזדמנות ללמוד בבית ספר ונאלצת לקבל החלטה קשה למען העתיד שלה ושל אחותה.",
+          "runtime": 102,
+          "tagline": "",
+          "title": "שחי אליי"
+        }
+      },
+      {
+        "iso_3166_1": "MX",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "La historia de la intensa relación entre Estela, una trabajadora doméstica, y la niña de seis años a la que cuida día y noche. A medida que su vínculo se hace más estrecho, construyen un mundo secreto y dependiente que las llevará a un resultado inevitable... best-seller de Alia Trabucco.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "TW",
+        "iso_639_1": "zh",
+        "name": "普通话",
+        "english_name": "Mandarin",
+        "data": {
+          "homepage": "",
+          "overview": "在這個動盪不安的夏天，一個幫傭與她負責照顧的女孩培養出深厚情誼，但兩人身處截然不同的世界，導致了悲劇發展。",
+          "runtime": 0,
+          "tagline": "",
+          "title": "游向我心"
+        }
+      },
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Estela, una joven de la zona rural de Chile, se embarca en un viaje a Santiago, dejando atrás a su familia para trabajar como empleada doméstica en un hogar acomodado.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "IT",
+        "iso_639_1": "it",
+        "name": "Italiano",
+        "english_name": "Italian",
+        "data": {
+          "homepage": "",
+          "overview": "Tra la collaboratrice domestica Estela e la bimba di sei anni di cui si prende cura giorno e notte viene a crearsi un rapporto molto intenso. Man mano che il tempo passa e il loro legame si rafforza, le due costruiscono un mondo segreto e co-dipendente, che le condurrà a un esito inevitabile.",
+          "runtime": 102,
+          "tagline": "",
+          "title": "Swim to Me"
+        }
+      },
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "",
+          "overview": "Eine Hausangestellte und das Mädchen, um das sie sich kümmert, kommen sich über einen turbulenten Sommer näher, bis es zu einer tragischen Wende kommt.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Limpia - Schwimm zu mir"
+        }
+      },
+      {
+        "iso_3166_1": "TR",
+        "iso_639_1": "tr",
+        "name": "Türkçe",
+        "english_name": "Turkish",
+        "data": {
+          "homepage": "",
+          "overview": "Bir hizmetçi ile baktığı küçük kız çalkantılı bir yaz geçirirken birbirleriyle çok yakınlaşır. Fakat dünyaları arasındaki uçurum yüzünden trajik bir gelişme yaşanır.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Gel Yüzelim"
+        }
+      },
+      {
+        "iso_3166_1": "RO",
+        "iso_639_1": "ro",
+        "name": "Română",
+        "english_name": "Romanian",
+        "data": {
+          "homepage": "",
+          "overview": "Estela, o tânără dintr - un sat din Chile, pornește într - o călătorie spre Santiago, lăsându - și familia în urmă pentru a lucra ca menajeră pentru o gospodărie bogată.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Înoată spre mine"
+        }
+      },
+      {
+        "iso_3166_1": "AE",
+        "iso_639_1": "ar",
+        "name": "العربية",
+        "english_name": "Arabic",
+        "data": {
+          "homepage": "https://www.netflix.com/ae/title/81777460",
+          "overview": "يتعمق التقارب بين فتاة صغيرة وعاملة المنزل التي ترعاها خلال صيف عاصف، إلى أن تشعل الفجوة بين عالميهما تطورًا مأساويًّا في الأحداث.",
+          "runtime": 102,
+          "tagline": "",
+          "title": "اسبحي إليّ"
+        }
+      },
+      {
+        "iso_3166_1": "HU",
+        "iso_639_1": "hu",
+        "name": "Magyar",
+        "english_name": "Hungarian",
+        "data": {
+          "homepage": "",
+          "overview": "Egy bejárónő és a kislány, akire vigyáz, közel kerülnek egymáshoz egy eseménydús nyár során, de a világaik közt feszülő szakadék tragédiába torkollik.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Ússz hozzám"
+        }
+      },
+      {
+        "iso_3166_1": "CA",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "Une aide domestique tisse des liens étroits avec la fille dont elle s'occupe lors d'un été turbulent, jusqu'à ce que le fossé creusé entre leurs mondes mène à une tragédie.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Propre"
+        }
+      },
+      {
+        "iso_3166_1": "GR",
+        "iso_639_1": "el",
+        "name": "ελληνικά",
+        "english_name": "Greek",
+        "data": {
+          "homepage": "",
+          "overview": "Η Εστέλα, μια νεαρή γυναίκα από την επαρχία της Χιλής, ξεκινά ένα ταξίδι στο Σαντιάγο, αφήνοντας πίσω την οικογένειά της για να εργαστεί ως υπηρέτρια σε ένα εύπορο νοικοκυριό.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "SE",
+        "iso_639_1": "sv",
+        "name": "svenska",
+        "english_name": "Swedish",
+        "data": {
+          "homepage": "",
+          "overview": "Estela, en ung kvinna från landsbygden i Chile, ger sig ut på en resa till Santiago och lämnar sin familj för att arbeta som hembiträde i ett välbärgat hushåll.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "RU",
+        "iso_639_1": "ru",
+        "name": "Pусский",
+        "english_name": "Russian",
+        "data": {
+          "homepage": "",
+          "overview": "Молодая женщина Эстела оставляет свой родной провинциальный городок и переезжает в Сантьяго. Там она устраивается домработницей в состоятельную семью. Фильм повествует о её жизни в новом окружении.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Плыви ко мне"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt34682204",
+    "wikidata_id": "Q136276647",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1350,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/oVph5mMhp0UxVYeSpIfUfll0kcF.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2400
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/5gkH4bkBwqbtSRrgSJSFpDvoNk.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 3840
+      }
+    ],
+    "logos": [
+      {
+        "aspect_ratio": 2.446,
+        "height": 233,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/frwZmkmB20oLHrJWryMq8NkmrTt.png",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 570
+      },
+      {
+        "aspect_ratio": 3.681,
+        "height": 248,
+        "iso_3166_1": "TW",
+        "iso_639_1": "zh",
+        "file_path": "/glRrM4dBhvOJ7odEC2Y7oyRaX6W.png",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 913
+      }
+    ],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1440,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/5pkYUOyvxjAYlUpq4GDTp04gxMa.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 960
+      },
+      {
+        "aspect_ratio": 0.666,
+        "height": 2000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/qXcjh6C14PcRuM9VeNAG3OzgIDJ.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1333
+      },
+      {
+        "aspect_ratio": 0.715,
+        "height": 750,
+        "iso_3166_1": "TW",
+        "iso_639_1": "zh",
+        "file_path": "/7xqg8fHdB7Iz9fP4Gl8UGXGA38d.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 536
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-09-25T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2025-10-10T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "San Sebastián International Film Festival",
+            "release_date": "2025-09-19T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "19",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2025-10-10T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SG",
+        "release_dates": [
+          {
+            "certification": "M18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2025-10-10T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2025-10-10T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer [Subtitled]",
+        "key": "GCw1G2XtWaY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "68c41db72e2f6f38442a080b",
+        "published_at": "2025-09-12T13:00:00.000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,563 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1629742,
+  "imdb_id": null,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Silencio",
+  "overview": "",
+  "popularity": 2.5876,
+  "poster_path": "/kEB8LY5VZDCMbZZDHg22zIHkAma.jpg",
+  "production_companies": [
+    {
+      "id": 288775,
+      "logo_path": null,
+      "name": "Siroco Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2026-02-06",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Silencio",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5988528,
+        "known_for_department": "Acting",
+        "name": "Javi García",
+        "original_name": "Javi García",
+        "popularity": 0.0361,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Guillermo",
+        "credit_id": "6984c79abb859dc9879131b7",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5476964,
+        "known_for_department": "Acting",
+        "name": "Gema Meléndez",
+        "original_name": "Gema Meléndez",
+        "popularity": 0.1098,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Madre de Guille/ Carolina",
+        "credit_id": "6984c782dda30161e56eee7c",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5271227,
+        "known_for_department": "Acting",
+        "name": "Doni Cortés",
+        "original_name": "Doni Cortés",
+        "popularity": 0.8463,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Profesora/ Rosa",
+        "credit_id": "6984c7c45b2a6dc15874ace7",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5988530,
+        "known_for_department": "Directing",
+        "name": "Carmen González",
+        "original_name": "Carmen González",
+        "popularity": 0.0654,
+        "profile_path": null,
+        "credit_id": "6984c7edcf0b8c8de94f6a94",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5988533,
+        "known_for_department": "Directing",
+        "name": "Paula Zapata",
+        "original_name": "Paula Zapata",
+        "popularity": 0.0376,
+        "profile_path": null,
+        "credit_id": "6984c8080986ab4e0e6e76f5",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5988530,
+        "known_for_department": "Directing",
+        "name": "Carmen González",
+        "original_name": "Carmen González",
+        "popularity": 0.0654,
+        "profile_path": null,
+        "credit_id": "6984c8347b5b29048b6eeeab",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5988536,
+        "known_for_department": "Writing",
+        "name": "Carmen Rapela",
+        "original_name": "Carmen Rapela",
+        "popularity": 0.1008,
+        "profile_path": null,
+        "credit_id": "6984c8516d061fc7326e781d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5988533,
+        "known_for_department": "Directing",
+        "name": "Paula Zapata",
+        "original_name": "Paula Zapata",
+        "popularity": 0.0376,
+        "profile_path": null,
+        "credit_id": "6984c8697b5b29048b6eeebb",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5988533,
+        "known_for_department": "Directing",
+        "name": "Paula Zapata",
+        "original_name": "Paula Zapata",
+        "popularity": 0.0376,
+        "profile_path": null,
+        "credit_id": "6984c893db12703a75913081",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5988530,
+        "known_for_department": "Directing",
+        "name": "Carmen González",
+        "original_name": "Carmen González",
+        "popularity": 0.0654,
+        "profile_path": null,
+        "credit_id": "6984c8aa6d061fc7326e7822",
+        "department": "Production",
+        "job": "Producer's Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5988538,
+        "known_for_department": "Production",
+        "name": "María Sotillo",
+        "original_name": "María Sotillo",
+        "popularity": 0.0372,
+        "profile_path": null,
+        "credit_id": "6984c8d287cb496a111a2945",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5988533,
+        "known_for_department": "Directing",
+        "name": "Paula Zapata",
+        "original_name": "Paula Zapata",
+        "popularity": 0.0376,
+        "profile_path": null,
+        "credit_id": "6984c8ec0986ab4e0e6e76fe",
+        "department": "Production",
+        "job": "Casting Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5988538,
+        "known_for_department": "Production",
+        "name": "María Sotillo",
+        "original_name": "María Sotillo",
+        "popularity": 0.0372,
+        "profile_path": null,
+        "credit_id": "6984c92685aca7945c1a27a4",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5988530,
+        "known_for_department": "Directing",
+        "name": "Carmen González",
+        "original_name": "Carmen González",
+        "popularity": 0.0654,
+        "profile_path": null,
+        "credit_id": "6984c968db12703a75913090",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5988543,
+        "known_for_department": "Art",
+        "name": "Daniel Domínguez",
+        "original_name": "Daniel Domínguez",
+        "popularity": 0.0394,
+        "profile_path": null,
+        "credit_id": "6984c9cbd96af61e8b1a280c",
+        "department": "Art",
+        "job": "Decorator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5988546,
+        "known_for_department": "Art",
+        "name": "Emilio González",
+        "original_name": "Emilio González",
+        "popularity": 0.0935,
+        "profile_path": null,
+        "credit_id": "6984c9ebd9cb8320896e7a0a",
+        "department": "Art",
+        "job": "Decorator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5988530,
+        "known_for_department": "Directing",
+        "name": "Carmen González",
+        "original_name": "Carmen González",
+        "popularity": 0.0654,
+        "profile_path": null,
+        "credit_id": "6984ca2f9efb497a05999680",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5988536,
+        "known_for_department": "Writing",
+        "name": "Carmen Rapela",
+        "original_name": "Carmen Rapela",
+        "popularity": 0.1008,
+        "profile_path": null,
+        "credit_id": "6984ca4d24662d0c1e3637f0",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5988536,
+        "known_for_department": "Writing",
+        "name": "Carmen Rapela",
+        "original_name": "Carmen Rapela",
+        "popularity": 0.1008,
+        "profile_path": null,
+        "credit_id": "6984ca659efb497a05999683",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5988550,
+        "known_for_department": "Lighting",
+        "name": "Pablo de la Rosa",
+        "original_name": "Pablo de la Rosa",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "6984ca8dcff396614474af30",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5988552,
+        "known_for_department": "Crew",
+        "name": "Daniel Ruiz",
+        "original_name": "Daniel Ruiz",
+        "popularity": 0.0515,
+        "profile_path": null,
+        "credit_id": "6984caace9c6f0b74d913012",
+        "department": "Crew",
+        "job": "Script"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5988554,
+        "known_for_department": "Directing",
+        "name": "Luis M. Campillo",
+        "original_name": "Luis M. Campillo",
+        "popularity": 0.0338,
+        "profile_path": "/5AjvVWbMbTytYZL3oXgu3oPpfuJ.jpg",
+        "credit_id": "6984cacc5b2a6dc15874ad08",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5988558,
+        "known_for_department": "Visual Effects",
+        "name": "Jeff",
+        "original_name": "Jeff",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6984cafde5abe7a6646e78fb",
+        "department": "Visual Effects",
+        "job": "Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5988538,
+        "known_for_department": "Production",
+        "name": "María Sotillo",
+        "original_name": "María Sotillo",
+        "popularity": 0.0372,
+        "profile_path": null,
+        "credit_id": "6984cb7d565cb042b89995bf",
+        "department": "Camera",
+        "job": "Clapper Loader"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5988538,
+        "known_for_department": "Production",
+        "name": "María Sotillo",
+        "original_name": "María Sotillo",
+        "popularity": 0.0372,
+        "profile_path": null,
+        "credit_id": "6984cb9bcfadc40d9e1a27c9",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5988552,
+        "known_for_department": "Crew",
+        "name": "Daniel Ruiz",
+        "original_name": "Daniel Ruiz",
+        "popularity": 0.0515,
+        "profile_path": null,
+        "credit_id": "6984cbac7b5b29048b6eeef6",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5988550,
+        "known_for_department": "Lighting",
+        "name": "Pablo de la Rosa",
+        "original_name": "Pablo de la Rosa",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "6984cbdcc670f5a2e01a279d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5988550,
+        "known_for_department": "Lighting",
+        "name": "Pablo de la Rosa",
+        "original_name": "Pablo de la Rosa",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "6984cbfcd9be0465409995ba",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5988530,
+        "known_for_department": "Directing",
+        "name": "Carmen González",
+        "original_name": "Carmen González",
+        "popularity": 0.0654,
+        "profile_path": null,
+        "credit_id": "6984cc1e782c72ffd71a26b5",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5988533,
+        "known_for_department": "Directing",
+        "name": "Paula Zapata",
+        "original_name": "Paula Zapata",
+        "popularity": 0.0376,
+        "profile_path": null,
+        "credit_id": "6984cc3487cb496a111a2958",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5988536,
+        "known_for_department": "Writing",
+        "name": "Carmen Rapela",
+        "original_name": "Carmen Rapela",
+        "popularity": 0.1008,
+        "profile_path": null,
+        "credit_id": "6984cc6387815d2c439d1ab6",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5988577,
+        "known_for_department": "Sound",
+        "name": "Antonio Robalo",
+        "original_name": "Antonio Robalo",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6984cd1b4013ac766574ae21",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5988558,
+        "known_for_department": "Visual Effects",
+        "name": "Jeff",
+        "original_name": "Jeff",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "698aff7f509edd1803421542",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 159868,
+        "name": "playing piano"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Guillermo quiere ser compositor y va a clases de piano, pero un acorde disonante se mete en su cabeza. Todos los sonidos se convierten en ese acorde y cae en la locura.",
+          "runtime": 6,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "siroco.films",
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/kEB8LY5VZDCMbZZDHg22zIHkAma.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "",
+            "release_date": "2026-02-06T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

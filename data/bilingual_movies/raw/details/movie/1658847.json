@@ -1,0 +1,892 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1658847,
+  "imdb_id": null,
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Luna Verde",
+  "overview": "",
+  "popularity": 1.2144,
+  "poster_path": "/dOqXjN1najdow2FKEbhRz0yRe9h.jpg",
+  "production_companies": [
+    {
+      "id": 243539,
+      "logo_path": null,
+      "name": "Cooperativa Sociale GET",
+      "origin_country": ""
+    },
+    {
+      "id": 243538,
+      "logo_path": null,
+      "name": "Accademia del Cinema Ragazzi",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2026-03-27",
+  "revenue": 0,
+  "runtime": 15,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Luna Verde",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104605,
+        "known_for_department": "Acting",
+        "name": "Jonathan Costa",
+        "original_name": "Jonathan Costa",
+        "popularity": 0.2761,
+        "profile_path": null,
+        "cast_id": 44,
+        "character": "Marco",
+        "credit_id": "69c9673ee9743366dabbb162",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2514003,
+        "known_for_department": "Acting",
+        "name": "Gio Sada",
+        "original_name": "Giò Sada",
+        "popularity": 0.1291,
+        "profile_path": "/qd77SmRrkRGdq2jPKTgZoYmDDgE.jpg",
+        "cast_id": 45,
+        "character": "Pietro",
+        "credit_id": "69c967779c4fef24738f7976",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5697567,
+        "known_for_department": "Acting",
+        "name": "Alessio Lorusso",
+        "original_name": "Alessio Lorusso",
+        "popularity": 0.0668,
+        "profile_path": null,
+        "cast_id": 46,
+        "character": "",
+        "credit_id": "69c967855ecba6ea2f1500d1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5697570,
+        "known_for_department": "Acting",
+        "name": "Francesco Gattulli",
+        "original_name": "Francesco Gattulli",
+        "popularity": 0.0836,
+        "profile_path": null,
+        "cast_id": 47,
+        "character": "",
+        "credit_id": "69c9679067c3c6926fc20fd6",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104606,
+        "known_for_department": "Acting",
+        "name": "Maria Raspatelli",
+        "original_name": "Maria Raspatelli",
+        "popularity": 0.112,
+        "profile_path": null,
+        "cast_id": 48,
+        "character": "",
+        "credit_id": "69c967b84fc0ac5dd2c21085",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104607,
+        "known_for_department": "Acting",
+        "name": "Lorenzo Darmento",
+        "original_name": "Lorenzo Darmento",
+        "popularity": 0.0528,
+        "profile_path": null,
+        "cast_id": 49,
+        "character": "",
+        "credit_id": "69c967caeb3ac37bf95d5886",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104609,
+        "known_for_department": "Acting",
+        "name": "Giovanni Lisena",
+        "original_name": "Giovanni Lisena",
+        "popularity": 0.1427,
+        "profile_path": null,
+        "cast_id": 50,
+        "character": "",
+        "credit_id": "69c967d79c4fef24738f7984",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104610,
+        "known_for_department": "Acting",
+        "name": "Pasquale Mercoledisanto",
+        "original_name": "Pasquale Mercoledisanto",
+        "popularity": 0.3081,
+        "profile_path": null,
+        "cast_id": 51,
+        "character": "",
+        "credit_id": "69c967e915405902a0004c27",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104612,
+        "known_for_department": "Acting",
+        "name": "Christian Rella",
+        "original_name": "Christian Rella",
+        "popularity": 0.1663,
+        "profile_path": null,
+        "cast_id": 52,
+        "character": "",
+        "credit_id": "69c967f7beb4209ec7bbb1bf",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104613,
+        "known_for_department": "Acting",
+        "name": "Nicolas Dellino",
+        "original_name": "Nicolas Dellino",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 53,
+        "character": "",
+        "credit_id": "69c96805beb4209ec7bbb1c9",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104615,
+        "known_for_department": "Acting",
+        "name": "Michele Lapolla",
+        "original_name": "Michele Lapolla",
+        "popularity": 0.0571,
+        "profile_path": null,
+        "cast_id": 54,
+        "character": "",
+        "credit_id": "69c968126d2752c5cabe26db",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104617,
+        "known_for_department": "Acting",
+        "name": "Michele Rossini",
+        "original_name": "Michele Rossini",
+        "popularity": 0.0498,
+        "profile_path": null,
+        "cast_id": 55,
+        "character": "",
+        "credit_id": "69c968225108aea452c2107a",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104619,
+        "known_for_department": "Acting",
+        "name": "Alessio De Toma",
+        "original_name": "Alessio De Toma",
+        "popularity": 0.0592,
+        "profile_path": null,
+        "cast_id": 56,
+        "character": "",
+        "credit_id": "69c968336a7535dadbbbb0ee",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104542,
+        "known_for_department": "Camera",
+        "name": "Nicola Pertino",
+        "original_name": "Nicola Pertino",
+        "popularity": 0.0547,
+        "profile_path": null,
+        "credit_id": "69c95ff577c1427a9ff6135d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104544,
+        "known_for_department": "Crew",
+        "name": "Alessandro Monno",
+        "original_name": "Alessandro Monno",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69c96018e3a7b1b5cbf613b1",
+        "department": "Crew",
+        "job": "Script"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104548,
+        "known_for_department": "Directing",
+        "name": "Giada Forcillo",
+        "original_name": "Giada Forcillo",
+        "popularity": 0.0661,
+        "profile_path": null,
+        "credit_id": "69c9604aa0ac15e35c9af7b7",
+        "department": "Directing",
+        "job": "Continuity"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2168430,
+        "known_for_department": "Directing",
+        "name": "Saverio Cappiello",
+        "original_name": "Saverio Cappiello",
+        "popularity": 0.1442,
+        "profile_path": null,
+        "credit_id": "69c960aa0fe2b61a07150123",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104551,
+        "known_for_department": "Production",
+        "name": "Lello Petrone",
+        "original_name": "Lello Petrone",
+        "popularity": 0.0568,
+        "profile_path": null,
+        "credit_id": "69c960d03a431527819af773",
+        "department": "Production",
+        "job": "Production Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104553,
+        "known_for_department": "Production",
+        "name": "Federica Citarella",
+        "original_name": "Federica Citarella",
+        "popularity": 0.0627,
+        "profile_path": null,
+        "credit_id": "69c960f77787ba9963be2654",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104558,
+        "known_for_department": "Production",
+        "name": "Roberta Solidoro",
+        "original_name": "Roberta Solidoro",
+        "popularity": 0.0686,
+        "profile_path": null,
+        "credit_id": "69c9611af6a159e7a7c20ff7",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104560,
+        "known_for_department": "Production",
+        "name": "Sabrina Cirella",
+        "original_name": "Sabrina Cirella",
+        "popularity": 0.0686,
+        "profile_path": null,
+        "credit_id": "69c96136347fa5826e8f7887",
+        "department": "Production",
+        "job": "Production Runner"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104562,
+        "known_for_department": "Directing",
+        "name": "Leila Piccirilli",
+        "original_name": "Leila Piccirilli",
+        "popularity": 0.0698,
+        "profile_path": null,
+        "credit_id": "69c9614ee73af98c849af79a",
+        "department": "Directing",
+        "job": "Continuity"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104563,
+        "known_for_department": "Camera",
+        "name": "Francesco Ribezzo",
+        "original_name": "Francesco Ribezzo",
+        "popularity": 0.0511,
+        "profile_path": null,
+        "credit_id": "69c961668bb90bb1db9af7e0",
+        "department": "Camera",
+        "job": "Focus Puller"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104567,
+        "known_for_department": "Camera",
+        "name": "Clarissa Cocco",
+        "original_name": "Clarissa Cocco",
+        "popularity": 0.0359,
+        "profile_path": null,
+        "credit_id": "69c961998b61d94f988f77e9",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3983791,
+        "known_for_department": "Crew",
+        "name": "Giovanni Cinquepalmi",
+        "original_name": "Giovanni Cinquepalmi",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69c9621b913ad88f56c21006",
+        "department": "Camera",
+        "job": "Data Wrangler"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104573,
+        "known_for_department": "Writing",
+        "name": "Giorgia Simone",
+        "original_name": "Giorgia Simone",
+        "popularity": 0.0751,
+        "profile_path": null,
+        "credit_id": "69c962ad79ad1c1282f613aa",
+        "department": "Writing",
+        "job": "Opera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104573,
+        "known_for_department": "Writing",
+        "name": "Giorgia Simone",
+        "original_name": "Giorgia Simone",
+        "popularity": 0.0751,
+        "profile_path": null,
+        "credit_id": "69c962c96d2752c5cabe266c",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104571,
+        "known_for_department": "Camera",
+        "name": "Luca Luigi Manfredi",
+        "original_name": "Luca Luigi Manfredi",
+        "popularity": 0.0561,
+        "profile_path": null,
+        "credit_id": "69c962efe9743366dabbb12d",
+        "department": "Crew",
+        "job": "Video Assist Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3667249,
+        "known_for_department": "Camera",
+        "name": "Milo Cadau",
+        "original_name": "Milo Cadau",
+        "popularity": 0.0891,
+        "profile_path": null,
+        "credit_id": "69c9630876975bba559af6dd",
+        "department": "Crew",
+        "job": "Machinist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104577,
+        "known_for_department": "Crew",
+        "name": "Alessandro Derobertis",
+        "original_name": "Alessandro Derobertis",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69c963298bb90bb1db9af7f1",
+        "department": "Crew",
+        "job": "Machinist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3665904,
+        "known_for_department": "Lighting",
+        "name": "Simone Palma",
+        "original_name": "Simone Palma",
+        "popularity": 0.0821,
+        "profile_path": null,
+        "credit_id": "69c9633d9c4fef24738f7962",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104578,
+        "known_for_department": "Lighting",
+        "name": "Francesco Iaccarini",
+        "original_name": "Francesco Iaccarini",
+        "popularity": 0.0575,
+        "profile_path": null,
+        "credit_id": "69c9634d913ad88f56c21031",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104579,
+        "known_for_department": "Crew",
+        "name": "Antonello Fico",
+        "original_name": "Antonello Fico",
+        "popularity": 0.0817,
+        "profile_path": null,
+        "credit_id": "69c963660fe2b61a07150140",
+        "department": "Crew",
+        "job": "Drone Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59911,
+        "known_for_department": "Directing",
+        "name": "Daniele Luchetti",
+        "original_name": "Daniele Luchetti",
+        "popularity": 0.7766,
+        "profile_path": "/gTXCjDykIdwlGrmzr22ogIRXJQi.jpg",
+        "credit_id": "69c9638edc49bf03a9bbb043",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104581,
+        "known_for_department": "Production",
+        "name": "Sabrina Meta",
+        "original_name": "Sabrina Meta",
+        "popularity": 0.0828,
+        "profile_path": null,
+        "credit_id": "69c96402ea39e769be9af7a1",
+        "department": "Production",
+        "job": "Production Runner"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104582,
+        "known_for_department": "Directing",
+        "name": "Giordano Bruno Rizzo",
+        "original_name": "Giordano Bruno Rizzo",
+        "popularity": 0.057,
+        "profile_path": null,
+        "credit_id": "69c964317787ba9963be267a",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1879935,
+        "known_for_department": "Acting",
+        "name": "Azzurra Martino",
+        "original_name": "Azzurra Martino",
+        "popularity": 0.4735,
+        "profile_path": null,
+        "credit_id": "69c96460fe64b2d0fb5d58bb",
+        "department": "Production",
+        "job": "Casting Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104584,
+        "known_for_department": "Production",
+        "name": "Virginia Mineccia",
+        "original_name": "Virginia Mineccia",
+        "popularity": 0.0814,
+        "profile_path": null,
+        "credit_id": "69c96476fac4de65f8be26e6",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104588,
+        "known_for_department": "Lighting",
+        "name": "Domenico Daniele Maffei",
+        "original_name": "Domenico Daniele Maffei",
+        "popularity": 0.062,
+        "profile_path": null,
+        "credit_id": "69c964af4d1a2b6a795d58c3",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6063707,
+        "known_for_department": "Art",
+        "name": "Pierluigi Bosna",
+        "original_name": "Pierluigi Bosna",
+        "popularity": 0.0751,
+        "profile_path": null,
+        "credit_id": "69c964df3b9fd6bdad9af7d9",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104590,
+        "known_for_department": "Art",
+        "name": "Alessandra Nitti",
+        "original_name": "Alessandra Nitti",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69c96519c14b97c1ed8f788a",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104591,
+        "known_for_department": "Art",
+        "name": "Gianluigi Castellano",
+        "original_name": "Gianluigi Castellano",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "69c9654e846cbe9a74f61392",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104593,
+        "known_for_department": "Art",
+        "name": "Vito De Benedictis",
+        "original_name": "Vito De Benedictis",
+        "popularity": 0.0511,
+        "profile_path": null,
+        "credit_id": "69c96567bc109b1c4d8f784f",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104594,
+        "known_for_department": "Art",
+        "name": "Luca Pasqualicchio",
+        "original_name": "Luca Pasqualicchio",
+        "popularity": 0.0761,
+        "profile_path": null,
+        "credit_id": "69c9657defef29a15f150159",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104597,
+        "known_for_department": "Sound",
+        "name": "Tommaso Danisi",
+        "original_name": "Tommaso Danisi",
+        "popularity": 0.0623,
+        "profile_path": null,
+        "credit_id": "69c9659fdc49bf03a9bbb06a",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104598,
+        "known_for_department": "Sound",
+        "name": "Michele Pazienza",
+        "original_name": "Michele Pazienza",
+        "popularity": 0.0736,
+        "profile_path": null,
+        "credit_id": "69c965d3efef29a15f150171",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104599,
+        "known_for_department": "Sound",
+        "name": "Eugenio Perla",
+        "original_name": "Eugenio Perla",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "69c965e76a7535dadbbbb0c6",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104600,
+        "known_for_department": "Sound",
+        "name": "Riccardo Paldera",
+        "original_name": "Riccardo Paldera",
+        "popularity": 0.0681,
+        "profile_path": null,
+        "credit_id": "69c965f6dc49bf03a9bbb07e",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5026224,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Irene De Iacovo",
+        "original_name": "Irene De Iacovo",
+        "popularity": 0.0376,
+        "profile_path": null,
+        "credit_id": "69c96635c87f22c3005d5933",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104601,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Micaela Caldarulo",
+        "original_name": "Micaela Caldarulo",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69c96651846cbe9a74f613ab",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104602,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Gabriele Colucci",
+        "original_name": "Gabriele Colucci",
+        "popularity": 0.0369,
+        "profile_path": null,
+        "credit_id": "69c966b90fe2b61a0715014d",
+        "department": "Costume & Make-Up",
+        "job": "Hairdresser"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104603,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Martina Fiore",
+        "original_name": "Martina Fiore",
+        "popularity": 0.0914,
+        "profile_path": null,
+        "credit_id": "69c966ca0da8f10fcfc21015",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104604,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Raffaele Attolico",
+        "original_name": "Raffaele Attolico",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69c966dc5a144cf539004c3b",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3947195,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Pablo Traversa",
+        "original_name": "Pablo Traversa",
+        "popularity": 0.0546,
+        "profile_path": null,
+        "credit_id": "69c9670bc530ec2e3d004d1d",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6104542,
+        "known_for_department": "Camera",
+        "name": "Nicola Pertino",
+        "original_name": "Nicola Pertino",
+        "popularity": 0.0547,
+        "profile_path": null,
+        "credit_id": "69c968639c4fef24738f798f",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4036224,
+        "known_for_department": "Editing",
+        "name": "Marco Gernone",
+        "original_name": "Marco Gernone",
+        "popularity": 0.1562,
+        "profile_path": null,
+        "credit_id": "69c96892c14b97c1ed8f78b2",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1420174,
+        "known_for_department": "Writing",
+        "name": "Mario Bucci",
+        "original_name": "Mario Bucci",
+        "popularity": 0.1017,
+        "profile_path": null,
+        "credit_id": "6a3bb615bdcbeb0bcc7d2022",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "IT",
+        "iso_639_1": "it",
+        "name": "Italiano",
+        "english_name": "Italian",
+        "data": {
+          "homepage": "",
+          "overview": "Luna Verde racconta l’incontro notturno tra Marco, ragazzo dal fascino androgino, disinvolto, fioraio di giorno e performer queer di notte, e Pietro, un ammiratore invisibile, tormentato della propria vergogna. Il film rielabora liberamente “La Cecchina” (inscenata da N. Piccinni), spostando l’atto di riconoscimento finale da un piano esterno ad uno più intimo, a sottolineare che il conflitto non esiste tanto nel quartiere popolare di San Pio dove la storia è ambientata, quanto nella psiche di uno dei due protagonisti.",
+          "runtime": 15,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 15,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "it",
+            "note": "Bari International Film & TV Festival",
+            "release_date": "2026-03-27T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

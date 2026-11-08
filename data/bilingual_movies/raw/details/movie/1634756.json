@@ -1,0 +1,422 @@
+{
+  "adult": false,
+  "backdrop_path": "/1m2gvuscMa1hczjiWN5Bemv2CHE.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1634756,
+  "imdb_id": null,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Je me souviendrai... de presque tout",
+  "overview": "",
+  "popularity": 0.7969,
+  "poster_path": "/xO9Cy75pHDaw1L2LWUPCYcGOO56.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2026-02-21",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "Je me souviendrai... de presque tout",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5880618,
+        "known_for_department": "Acting",
+        "name": "Corinne Tong-Chaï",
+        "original_name": "Corinne Tong-Chaï",
+        "popularity": 0.6322,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Self : TV-Presenter",
+        "credit_id": "698f1a9831116b5d2c83ec3f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24816,
+        "known_for_department": "Acting",
+        "name": "Pierre Arditi",
+        "original_name": "Pierre Arditi",
+        "popularity": 0.7093,
+        "profile_path": "/kLvyrJkfcGUKzn3rHI0SYX5uPwj.jpg",
+        "cast_id": 4,
+        "character": "Le grand-père",
+        "credit_id": "698f1ac76dad6fe777b68bad",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54922,
+        "known_for_department": "Acting",
+        "name": "Nicolas Briançon",
+        "original_name": "Nicolas Briançon",
+        "popularity": 0.2518,
+        "profile_path": "/bRsZARYU7IlXrXwDQX443VQT351.jpg",
+        "cast_id": 5,
+        "character": "Le père",
+        "credit_id": "698f1ace3e89b9591a0c254e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4049822,
+        "known_for_department": "Acting",
+        "name": "Miguel Vander Linden",
+        "original_name": "Miguel Vander Linden",
+        "popularity": 0.1575,
+        "profile_path": "/aAS2M5FW5yVVFIqA7ge73Qc3DYE.jpg",
+        "cast_id": 6,
+        "character": "Le fils",
+        "credit_id": "698f1ad3abce32f6af8f52af",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1885496,
+        "known_for_department": "Acting",
+        "name": "Alexis Macquart",
+        "original_name": "Alexis Macquart",
+        "popularity": 0.0474,
+        "profile_path": null,
+        "credit_id": "698f1a6b653e17cfae2f3226",
+        "department": "Writing",
+        "job": "Author"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32657,
+        "known_for_department": "Acting",
+        "name": "Julien Boisselier",
+        "original_name": "Julien Boisselier",
+        "popularity": 0.3874,
+        "profile_path": "/eHlVjvfMoc6VjvfkM04hODA1VCu.jpg",
+        "credit_id": "698f1a7e890b12cd192f3352",
+        "department": "Directing",
+        "job": "Stage Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5548955,
+        "known_for_department": "Art",
+        "name": "Jean Haas",
+        "original_name": "Jean Haas",
+        "popularity": 0.3266,
+        "profile_path": null,
+        "credit_id": "698f1bd08a25175bb4305d23",
+        "department": "Art",
+        "job": "Decorator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1174116,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jean-Daniel Vuillermoz",
+        "original_name": "Jean-Daniel Vuillermoz",
+        "popularity": 0.6664,
+        "profile_path": "/62H8ESRQVgq5C7jY9z62ubvmpg3.jpg",
+        "credit_id": "698f1be6d0113a8f6a8f529c",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1825596,
+        "known_for_department": "Lighting",
+        "name": "Jean-Pascal Pracht",
+        "original_name": "Jean-Pascal Pracht",
+        "popularity": 0.2239,
+        "profile_path": null,
+        "credit_id": "698f1bf6d3957803118f51ae",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6004909,
+        "known_for_department": "Lighting",
+        "name": "Yannick Anché",
+        "original_name": "Yannick Anché",
+        "popularity": 0.4321,
+        "profile_path": null,
+        "credit_id": "698f1c477ff94ae3f2b68c7c",
+        "department": "Lighting",
+        "job": "Lighting Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5548956,
+        "known_for_department": "Sound",
+        "name": "Pierre Tirmont",
+        "original_name": "Pierre Tirmont",
+        "popularity": 0.0813,
+        "profile_path": null,
+        "credit_id": "698f1c62781d700cad8f51cc",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4387093,
+        "known_for_department": "Directing",
+        "name": "Fanny Dussart",
+        "original_name": "Fanny Dussart",
+        "popularity": 0.4049,
+        "profile_path": null,
+        "credit_id": "698f1c838a0e4bd65e83eab5",
+        "department": "Directing",
+        "job": "Stage Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5911504,
+        "known_for_department": "Camera",
+        "name": "Fabienne Rappeneau",
+        "original_name": "Fabienne Rappeneau",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "698f1c9abed7bdd9802f339d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 2820,
+        "name": "wound"
+      },
+      {
+        "id": 4326,
+        "name": "theater play"
+      },
+      {
+        "id": 9673,
+        "name": "love"
+      },
+      {
+        "id": 13153,
+        "name": "spirit"
+      },
+      {
+        "id": 197170,
+        "name": "memoirs"
+      },
+      {
+        "id": 245251,
+        "name": "transmission"
+      },
+      {
+        "id": 280607,
+        "name": "three generations"
+      },
+      {
+        "id": 285695,
+        "name": "theater"
+      },
+      {
+        "id": 295809,
+        "name": "secret"
+      },
+      {
+        "id": 322268,
+        "name": "comedy"
+      },
+      {
+        "id": 328540,
+        "name": "humor"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "https://www.theatremontparnasse.com/spectacle/je-me-souviendrai-de-presque-tout/",
+          "overview": "Un père, écrivain raté, et son fils adolescent voient leur routine bouleversée par l’arrivée du grand-père, un acteur célèbre, fantasque et irresponsable, majoritairement absent mais terriblement attachant. L’objet de cette visite : le grand-père voudrait que son fils l’aide à rédiger ses mémoires. Commencent alors des retrouvailles à la fois drôles, féroces et poignantes qui leur permettront de revisiter leur passé pas très commun.",
+          "runtime": 120,
+          "tagline": "Entre dialogues mordants et secrets de famille révélés, plongez dans cette comédie pleine d’esprit, d’amour et d’humour !",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/1m2gvuscMa1hczjiWN5Bemv2CHE.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/hp1iK12ScNxj0fYiNEiV2jiWNHU.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/hNOhM7GbumgjyC81nZrYQLzgFhr.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/nYTrxeG2TPB57xECxEA43BtpqhG.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/2xSydnNcx2FqhQd9vozYFeP8Dki.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/7qFHdvtSOofwG3zZj30R0uBaJF5.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/6e0WsUF8xWztHv1btt2wGVRHlSp.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/nR2RlwqU60PQSKf8Wa2UGXT63Yw.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      }
+    ],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Paris Première",
+            "release_date": "2026-02-21T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "M6+",
+            "release_date": "2026-02-21T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

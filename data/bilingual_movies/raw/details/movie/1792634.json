@@ -1,0 +1,474 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1792634,
+  "imdb_id": null,
+  "origin_country": [
+    "AR"
+  ],
+  "original_language": "es",
+  "original_title": "Cordobeces, la película",
+  "overview": "",
+  "popularity": 0.8866,
+  "poster_path": "/eUlcEgtuZRtDC7nemNNSavcIFgX.jpg",
+  "production_companies": [
+    {
+      "id": 6458,
+      "logo_path": "/eT4oMUK7ODM0vvZue8yq3Ojwqf8.png",
+      "name": "INCAA",
+      "origin_country": "AR"
+    },
+    {
+      "id": 192059,
+      "logo_path": null,
+      "name": "Polo Audiovisual Córdoba",
+      "origin_country": ""
+    },
+    {
+      "id": 313708,
+      "logo_path": null,
+      "name": "Fundación Fondosa",
+      "origin_country": ""
+    },
+    {
+      "id": 313709,
+      "logo_path": null,
+      "name": "Bezza",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    }
+  ],
+  "release_date": "2026-10-15",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Cordobeces, la película",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6537239,
+        "known_for_department": "Acting",
+        "name": "Kaitlin Nelson",
+        "original_name": "Kaitlin Nelson",
+        "popularity": 0.1657,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "6ac8e504066c332bda10cff6",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6537240,
+        "known_for_department": "Acting",
+        "name": "Eddie Frari",
+        "original_name": "Eddie Frari",
+        "popularity": 0.1284,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "6ac8e518c9b61e42b8bf5767",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5606257,
+        "known_for_department": "Acting",
+        "name": "Chichilo Viale",
+        "original_name": "Chichilo Viale",
+        "popularity": 0.1601,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "6ac8e5240894a472e1100c12",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3312384,
+        "known_for_department": "Acting",
+        "name": "Fabián Gómez",
+        "original_name": "Fabián Gómez",
+        "popularity": 0.1695,
+        "profile_path": "/dKcwg3WubWG94rVBb0eZspa9rW7.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "6ac8e52d4445bcff7210d1a1",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6537241,
+        "known_for_department": "Acting",
+        "name": "Flaco Pailos",
+        "original_name": "Flaco Pailos",
+        "popularity": 0.0838,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "6ac8e539024c862fdfab49f4",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3475715,
+        "known_for_department": "Acting",
+        "name": "Pablo Tamagnini",
+        "original_name": "Pablo Tamagnini",
+        "popularity": 0.1266,
+        "profile_path": "/edq0KtxbwrT66z09htmTi1eCGY3.jpg",
+        "cast_id": 12,
+        "character": "Q' Lokura",
+        "credit_id": "6ac8e654e0186d3341ab49f3",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5642855,
+        "known_for_department": "Acting",
+        "name": "Nelson Aguirre",
+        "original_name": "Nelson Aguirre",
+        "popularity": 0.136,
+        "profile_path": "/q4YaDvzTJ6ppuVWLgA63czjHyCQ.jpg",
+        "cast_id": 13,
+        "character": "Q' Lokura",
+        "credit_id": "6ac8e65f6b85b9eeb1ab4a52",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5642854,
+        "known_for_department": "Acting",
+        "name": "Diego Granadé",
+        "original_name": "Diego Granadé",
+        "popularity": 0.1897,
+        "profile_path": "/9RU1IKJIcqmRnxFiVG3pFGKIrdQ.jpg",
+        "cast_id": 14,
+        "character": "Q' Lokura",
+        "credit_id": "6ac8e66cc9b61e42b8bf57a8",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6537252,
+        "known_for_department": "Acting",
+        "name": "Eugenia Quevedo",
+        "original_name": "Eugenia Quevedo",
+        "popularity": 0.1088,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "",
+        "credit_id": "6ac8e635ac50ed0e9996eb0d",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6537243,
+        "known_for_department": "Acting",
+        "name": "Willy Magia",
+        "original_name": "Willy Magia",
+        "popularity": 0.3713,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "6ac8e57ef1da9a8891ab4aaf",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6537245,
+        "known_for_department": "Acting",
+        "name": "Gastón Massa",
+        "original_name": "Gastón Massa",
+        "popularity": 0.1639,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "6ac8e5bab5380d630c96ea10",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6537248,
+        "known_for_department": "Acting",
+        "name": "José Torres Gil",
+        "original_name": "José Torres Gil",
+        "popularity": 0.3475,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "6ac8e5d57b90648fa410d182",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6537249,
+        "known_for_department": "Acting",
+        "name": "Nicolás Sattler",
+        "original_name": "Nicolás Sattler",
+        "popularity": 0.087,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Q' Lokura",
+        "credit_id": "6ac8e5f8b25a70e98396ec3f",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6537250,
+        "known_for_department": "Acting",
+        "name": "Facundo Herrera",
+        "original_name": "Facundo Herrera",
+        "popularity": 0.1264,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Q' Lokura",
+        "credit_id": "6ac8e61123a21aef8a100e74",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6537254,
+        "known_for_department": "Directing",
+        "name": "Lucía Palacio",
+        "original_name": "Lucía Palacio",
+        "popularity": 0.1165,
+        "profile_path": null,
+        "credit_id": "6ac8e6a6ca829bba32100c9b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6537254,
+        "known_for_department": "Directing",
+        "name": "Lucía Palacio",
+        "original_name": "Lucía Palacio",
+        "popularity": 0.1165,
+        "profile_path": null,
+        "credit_id": "6ac8e6b86cc292330bb79b03",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6537240,
+        "known_for_department": "Acting",
+        "name": "Eddie Frari",
+        "original_name": "Eddie Frari",
+        "popularity": 0.1284,
+        "profile_path": null,
+        "credit_id": "6ac8e6c6d2a69eb04110d22b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3848796,
+        "known_for_department": "Writing",
+        "name": "Fabio Prepelitchi",
+        "original_name": "Fabio Prepelitchi",
+        "popularity": 0.0413,
+        "profile_path": null,
+        "credit_id": "6ac8e6d8b25a70e98396ec62",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2367560,
+        "known_for_department": "Directing",
+        "name": "Martín Mariani",
+        "original_name": "Martín Mariani",
+        "popularity": 0.3508,
+        "profile_path": null,
+        "credit_id": "6ac8e718e64333c08f100d2a",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6537261,
+        "known_for_department": "Writing",
+        "name": "Virginia Juárez",
+        "original_name": "Virginia Juárez",
+        "popularity": 0.2451,
+        "profile_path": null,
+        "credit_id": "6ac8e725074ce03b27100c3f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2305779,
+        "known_for_department": "Directing",
+        "name": "Santiago Sgarlatta",
+        "original_name": "Santiago Sgarlatta",
+        "popularity": 0.1929,
+        "profile_path": null,
+        "credit_id": "6ac8e7366cc292330bb79b09",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6537263,
+        "known_for_department": "Art",
+        "name": "Paula Olivero",
+        "original_name": "Paula Olivero",
+        "popularity": 0.0572,
+        "profile_path": null,
+        "credit_id": "6ac8e75039b6e73573bf55dc",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2492918,
+        "known_for_department": "Sound",
+        "name": "Jerónimo Piazza",
+        "original_name": "Jerónimo Piazza",
+        "popularity": 0.1764,
+        "profile_path": null,
+        "credit_id": "6ac8e75fccf29bd0a3b79aea",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2665450,
+        "known_for_department": "Sound",
+        "name": "Alejandro Di Rienzo",
+        "original_name": "Alejandro Di Rienzo",
+        "popularity": 0.5494,
+        "profile_path": null,
+        "credit_id": "6ac8e76dd66d609460bf564b",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "MX",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Kaitlin, una documentalista estadounidense, llega a Córdoba con una misión urgente: descifrar el secreto de la felicidad cordobesa para no perder su trabajo. Para eso contrata como productor local a Eddie, a quien considera un referente por su cuenta de Instagram. Aunque sus aportes carecen de rigor académico, Eddie se convierte en su guía por la provincia. Entre asados, rally, fútbol, sierras y cuarteto, Kaitlin intenta analizar con método cada ritual y los malinterpreta uno tras otro.",
+          "runtime": 90,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.698,
+        "height": 2048,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/eUlcEgtuZRtDC7nemNNSavcIFgX.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1430
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AR",
+        "release_dates": [
+          {
+            "certification": "ATP",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "",
+            "release_date": "2026-10-15T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

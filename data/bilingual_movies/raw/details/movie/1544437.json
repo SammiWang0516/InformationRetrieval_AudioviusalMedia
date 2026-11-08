@@ -1,0 +1,906 @@
+{
+  "adult": false,
+  "backdrop_path": "/2m4M3xNKc52tjJRoYAULjRHQ6Qq.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1544437,
+  "imdb_id": "tt38024578",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "La ragazza con la Leica",
+  "overview": "On Bastille Day in 1937, pioneering German-Jewish photojournalist Gerda Taro spends her final day in Paris confronting her past, her complex partnership with Robert Capa, and her absolute commitment to anti-fascist resistance before returning to the front lines of the Spanish Civil War.",
+  "popularity": 1.0201,
+  "poster_path": "/6b6b0lGrZTVAX8Uq0bVoB0PU8pH.jpg",
+  "production_companies": [
+    {
+      "id": 7144,
+      "logo_path": "/wqc8HTYdCCFnguN2Ma55lr2HIyC.png",
+      "name": "Vivo Film",
+      "origin_country": "IT"
+    },
+    {
+      "id": 14016,
+      "logo_path": "/snclwsIZQbgvqYCBJP8fqNlCA5y.png",
+      "name": "MiC",
+      "origin_country": "IT"
+    },
+    {
+      "id": 850,
+      "logo_path": "/aF7qajGJGtMpdrtvssM9g90YanX.png",
+      "name": "Eurimages",
+      "origin_country": "FR"
+    },
+    {
+      "id": 26261,
+      "logo_path": "/thn5VXJ5JegdrtiJn7mFuV2NWB6.png",
+      "name": "Film Commission Torino Piemonte",
+      "origin_country": "IT"
+    },
+    {
+      "id": 1618,
+      "logo_path": "/dacmPYkpGE9Mbu2dqG2sFTXpsqr.png",
+      "name": "Komplizen Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2026-10-22",
+  "revenue": 0,
+  "runtime": 119,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Girl with the Leica",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 70839,
+        "known_for_department": "Acting",
+        "name": "Emilia Schüle",
+        "original_name": "Emilia Schüle",
+        "popularity": 0.7599,
+        "profile_path": "/em77YMVTapnvCSq44Bs99OcDdLv.jpg",
+        "cast_id": 3,
+        "character": "Gerda Taro",
+        "credit_id": "68fcdda688566afd95275988",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1397749,
+        "known_for_department": "Acting",
+        "name": "Aaron Altaras",
+        "original_name": "Aaron Altaras",
+        "popularity": 0.5446,
+        "profile_path": "/n23EIdM8qJRNEMqudL1Sb0vnRAP.jpg",
+        "cast_id": 4,
+        "character": "Robert Capa",
+        "credit_id": "68fcddb83a61d287ebbbed88",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1824101,
+        "known_for_department": "Acting",
+        "name": "Lucas Englander",
+        "original_name": "Lucas Englander",
+        "popularity": 0.5753,
+        "profile_path": "/i6zNNLMHg5bNMzrdT3DE456Ds2q.jpg",
+        "cast_id": 5,
+        "character": "George Kurientzes",
+        "credit_id": "68fcddc567ed119f56275974",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1502016,
+        "known_for_department": "Acting",
+        "name": "Luna Wedler",
+        "original_name": "Luna Wedler",
+        "popularity": 0.6878,
+        "profile_path": "/2ykQMktlyynFjKWQ764LTBaT1xn.jpg",
+        "cast_id": 21,
+        "character": "Ruth Cerf",
+        "credit_id": "68fce101b2d99de05b9fa89f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1858625,
+        "known_for_department": "Acting",
+        "name": "Sebastian Schneider",
+        "original_name": "Sebastian Schneider",
+        "popularity": 0.3226,
+        "profile_path": "/wOZBQGHzMwTZ3KdxVeQvyd6NJVg.jpg",
+        "cast_id": 22,
+        "character": "Csiki Weisz",
+        "credit_id": "68fce11fe4dee033299fa87a",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 907352,
+        "known_for_department": "Acting",
+        "name": "Thomas Schubert",
+        "original_name": "Thomas Schubert",
+        "popularity": 0.5427,
+        "profile_path": "/pE0Xt6pjwg3BRJ6n6MsKw9X9ryV.jpg",
+        "cast_id": 23,
+        "character": "Willy Chardack",
+        "credit_id": "68fce135c4c7e60fe42aa227",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4537244,
+        "known_for_department": "Acting",
+        "name": "Idan Weiss",
+        "original_name": "Idan Weiss",
+        "popularity": 0.1798,
+        "profile_path": "/sG1UIfeNSYS1yhlRhbmxXgzYc7V.jpg",
+        "cast_id": 24,
+        "character": "David Seymour / Chim",
+        "credit_id": "68fce14c77a09bb710fb696d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3859756,
+        "known_for_department": "Acting",
+        "name": "Hans-Christian Hegewald",
+        "original_name": "Hans-Christian Hegewald",
+        "popularity": 0.3472,
+        "profile_path": "/aWGPnjIEe3EcMMLDZMyhOxpKkoY.jpg",
+        "cast_id": 25,
+        "character": "Fred Stein",
+        "credit_id": "68fce1640db63dc321fb6971",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2719248,
+        "known_for_department": "Acting",
+        "name": "Lia von Blarer",
+        "original_name": "Lia von Blarer",
+        "popularity": 0.3403,
+        "profile_path": "/b0kgRwAHs1MhEFb7xuo52iMk8cH.jpg",
+        "cast_id": 26,
+        "character": "Lilo Stein",
+        "credit_id": "68fce17441d97f347d926d4c",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51823,
+        "known_for_department": "Acting",
+        "name": "Jeremy Mockridge",
+        "original_name": "Jeremy Mockridge",
+        "popularity": 0.3627,
+        "profile_path": "/ryxTyLdN6p81q14MbKIIiDkMe4y.jpg",
+        "cast_id": 27,
+        "character": "Ted Allan",
+        "credit_id": "6967ba17ecb615728dec01a0",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 223477,
+        "known_for_department": "Acting",
+        "name": "Joel Basman",
+        "original_name": "Joel Basman",
+        "popularity": 0.9194,
+        "profile_path": "/uaBcyvAe8t5x5OuRiX50rPkTda6.jpg",
+        "cast_id": 28,
+        "character": "Bertolt Brecht",
+        "credit_id": "6967ba2c3c315e481cec0144",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5854865,
+        "known_for_department": "Acting",
+        "name": "Francesca Biliotti",
+        "original_name": "Francesca Biliotti",
+        "popularity": 0.1718,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Helene Weigel",
+        "credit_id": "6967ba42e3e4d07bc1ec0315",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 225784,
+        "known_for_department": "Directing",
+        "name": "Alina Marazzi",
+        "original_name": "Alina Marazzi",
+        "popularity": 0.5784,
+        "profile_path": "/qcsKyZNRCjCpWwfkZzW5Fo6BGQa.jpg",
+        "credit_id": "68c17d397e41965b91948562",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5681641,
+        "known_for_department": "Writing",
+        "name": "Helena Janeczek",
+        "original_name": "Helena Janeczek",
+        "popularity": 0.0696,
+        "profile_path": "/paBqlT9T4yqtS8jK1FUYswAuQiX.jpg",
+        "credit_id": "68c17d464e058dc0fe9c13db",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 41909,
+        "known_for_department": "Camera",
+        "name": "Manuel Alberto Claro",
+        "original_name": "Manuel Alberto Claro",
+        "popularity": 0.2093,
+        "profile_path": "/tEXxgfUKeDEM9Io5fSzyW4CKu2P.jpg",
+        "credit_id": "68fcde61a41184b054bbeca8",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2217314,
+        "known_for_department": "Production",
+        "name": "Gianluca Chiaretti",
+        "original_name": "Gianluca Chiaretti",
+        "popularity": 0.1821,
+        "profile_path": null,
+        "credit_id": "68fcde7445bd84222e2759c8",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 31014,
+        "known_for_department": "Art",
+        "name": "Giada Calabria",
+        "original_name": "Giada Calabria",
+        "popularity": 0.1573,
+        "profile_path": "/uidT1GUF5cFBKTfAUxCig0zon8f.jpg",
+        "credit_id": "68fcde8f0a89ba2a7afb6958",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 67733,
+        "known_for_department": "Sound",
+        "name": "Jörg Theil",
+        "original_name": "Jörg Theil",
+        "popularity": 0.0581,
+        "profile_path": null,
+        "credit_id": "68fcdea6239f36974eeaa764",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1525829,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Bettina Pontiggia",
+        "original_name": "Bettina Pontiggia",
+        "popularity": 0.1243,
+        "profile_path": null,
+        "credit_id": "68fcdec7b2bee3e9eebbed43",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 452204,
+        "known_for_department": "Editing",
+        "name": "Ilaria Fraioli",
+        "original_name": "Ilaria Fraioli",
+        "popularity": 0.1644,
+        "profile_path": null,
+        "credit_id": "68fcdedb4911e802b02aa254",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 238081,
+        "known_for_department": "Production",
+        "name": "Marta Donzelli",
+        "original_name": "Marta Donzelli",
+        "popularity": 0.4552,
+        "profile_path": "/sUpoZEoJ3s5wbMiEmBTYu999hDu.jpg",
+        "credit_id": "68fcdef82821befd76eaa7bf",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 238082,
+        "known_for_department": "Production",
+        "name": "Gregorio Paonessa",
+        "original_name": "Gregorio Paonessa",
+        "popularity": 0.1326,
+        "profile_path": "/dRmfhDUQRi0rQZEPaCgZgZmfZHw.jpg",
+        "credit_id": "68fcdf0483d7793e183bf47f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4728052,
+        "known_for_department": "Production",
+        "name": "Raffaella Milazzo",
+        "original_name": "Raffaella Milazzo",
+        "popularity": 0.0431,
+        "profile_path": null,
+        "credit_id": "68fcdf1be31a6839613bf5e8",
+        "department": "Production",
+        "job": "Delegated Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2785630,
+        "known_for_department": "Production",
+        "name": "Claudia Cravotta",
+        "original_name": "Claudia Cravotta",
+        "popularity": 0.0467,
+        "profile_path": null,
+        "credit_id": "68fcdf31ac8e9c4026fb69a3",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 583516,
+        "known_for_department": "Production",
+        "name": "Jonas Dornbach",
+        "original_name": "Jonas Dornbach",
+        "popularity": 0.2657,
+        "profile_path": "/5l1ahCq8cq0Cn6lngvTvDlJ0JDg.jpg",
+        "credit_id": "68fcdf48f0abe2e2109fa907",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 40475,
+        "known_for_department": "Production",
+        "name": "Janine Jackowski",
+        "original_name": "Janine Jackowski",
+        "popularity": 0.3278,
+        "profile_path": "/xwUf5iLGkALWJ6BvUH4950nSKue.jpg",
+        "credit_id": "68fcdf62c296bbaa112759fc",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 40476,
+        "known_for_department": "Directing",
+        "name": "Maren Ade",
+        "original_name": "Maren Ade",
+        "popularity": 0.6083,
+        "profile_path": "/4zeOpAVDxTto67ZELmiUCBsm976.jpg",
+        "credit_id": "68fcdf771055c23b08eaa819",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5291282,
+        "known_for_department": "Production",
+        "name": "Janine Hahmann",
+        "original_name": "Janine Hahmann",
+        "popularity": 0.0533,
+        "profile_path": null,
+        "credit_id": "68fcdf8d1296e64ea43bf494",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3502947,
+        "known_for_department": "Production",
+        "name": "Olivia Sieranski",
+        "original_name": "Olivia Sieranski",
+        "popularity": 0.1188,
+        "profile_path": null,
+        "credit_id": "68fcdfacffe8688fb4926b96",
+        "department": "Production",
+        "job": "Coordinating Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 225784,
+        "known_for_department": "Directing",
+        "name": "Alina Marazzi",
+        "original_name": "Alina Marazzi",
+        "popularity": 0.5784,
+        "profile_path": "/qcsKyZNRCjCpWwfkZzW5Fo6BGQa.jpg",
+        "credit_id": "6967bfbeb59d3744c4cacfc3",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 235042,
+        "known_for_department": "Writing",
+        "name": "Valia Santella",
+        "original_name": "Valia Santella",
+        "popularity": 0.2234,
+        "profile_path": "/cs6JmVObxXvpvLGHDhb3x3LnQEj.jpg",
+        "credit_id": "6967c8693e462e2006c5d527",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1420197,
+        "known_for_department": "Directing",
+        "name": "Gabriella Gobber",
+        "original_name": "Gabriella Gobber",
+        "popularity": 0.1087,
+        "profile_path": null,
+        "credit_id": "6a625d7353625972cea0eb63",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2784639,
+        "known_for_department": "Camera",
+        "name": "Federico Rossi",
+        "original_name": "Federico Rossi",
+        "popularity": 0.0718,
+        "profile_path": null,
+        "credit_id": "6a625d85e362a234486b8305",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3590741,
+        "known_for_department": "Camera",
+        "name": "Andrea Mazzuccato",
+        "original_name": "Andrea Mazzuccato",
+        "popularity": 0.3146,
+        "profile_path": null,
+        "credit_id": "6a625d8b53625972cea0eb67",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3813338,
+        "known_for_department": "Camera",
+        "name": "Felix Abraham",
+        "original_name": "Felix Abraham",
+        "popularity": 0.0428,
+        "profile_path": null,
+        "credit_id": "6a625d925f9d03db70d3e632",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2920066,
+        "known_for_department": "Lighting",
+        "name": "Andrea Rostellato",
+        "original_name": "Andrea Rostellato",
+        "popularity": 0.0852,
+        "profile_path": null,
+        "credit_id": "6a625d9af301e21dbcc8f722",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2358761,
+        "known_for_department": "Camera",
+        "name": "Fabio Fumelli",
+        "original_name": "Fabio Fumelli",
+        "popularity": 0.1885,
+        "profile_path": null,
+        "credit_id": "6a625da27203ecd87c3dce98",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 31014,
+        "known_for_department": "Art",
+        "name": "Giada Calabria",
+        "original_name": "Giada Calabria",
+        "popularity": 0.1573,
+        "profile_path": "/uidT1GUF5cFBKTfAUxCig0zon8f.jpg",
+        "credit_id": "6a625daec6d42394f1e2201a",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3582507,
+        "known_for_department": "Production",
+        "name": "Gaia Moltedo",
+        "original_name": "Gaia Moltedo",
+        "popularity": 0.0774,
+        "profile_path": null,
+        "credit_id": "6a625db7476490df55d3e622",
+        "department": "Art",
+        "job": "Assistant Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1893688,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Marika Knappe",
+        "original_name": "Marika Knappe",
+        "popularity": 0.0987,
+        "profile_path": null,
+        "credit_id": "6a625dc8c6d42394f1e22021",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5747,
+        "known_for_department": "Production",
+        "name": "Nina Haun",
+        "original_name": "Nina Haun",
+        "popularity": 0.2342,
+        "profile_path": null,
+        "credit_id": "6a625ddb8687140e0004b023",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4608815,
+        "known_for_department": "Sound",
+        "name": "Tony Nowak",
+        "original_name": "Tony Nowak",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "6a625dee574f0a76bbd1f6ac",
+        "department": "Sound",
+        "job": "Sound Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1273408,
+        "known_for_department": "Sound",
+        "name": "Kai Hesselbarth",
+        "original_name": "Kai Hesselbarth",
+        "popularity": 0.1913,
+        "profile_path": null,
+        "credit_id": "6a625df5278f412d5e75159d",
+        "department": "Sound",
+        "job": "Sound Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29415,
+        "known_for_department": "Sound",
+        "name": "Dominik Scherrer",
+        "original_name": "Dominik Scherrer",
+        "popularity": 0.1913,
+        "profile_path": "/oSn7O6wvDuZ7qjFTZVLLICmCHRA.jpg",
+        "credit_id": "6a625e0a98271ac3cca0eb59",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5594077,
+        "known_for_department": "Production",
+        "name": "Astrid Schütz",
+        "original_name": "Astrid Schütz",
+        "popularity": 0.0372,
+        "profile_path": null,
+        "credit_id": "6a625e2b46dc794bab6b8317",
+        "department": "Production",
+        "job": "Production Coordinator"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "IT",
+        "iso_639_1": "it",
+        "name": "Italiano",
+        "english_name": "Italian",
+        "data": {
+          "homepage": "",
+          "overview": "Parigi, 14 luglio 1937. In una danza di sentimenti che assume il carattere di un addio, Gerda Taro saluta i suoi amici e il suo compagno Robert Capa prima di tornare sul fronte spagnolo con la sua Leica.  Gli amori e gli ideali democratici si intrecciano nel ritratto di Gerda, la cui gioia di vivere ha acceso scintille nei cuori di chi ha condiviso con lei il tempo in cui tutto sembrava ancora possibile.",
+          "runtime": 116,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "On Bastille Day in 1937, pioneering German-Jewish photojournalist Gerda Taro spends her final day in Paris confronting her past, her complex partnership with Robert Capa, and her absolute commitment to anti-fascist resistance before returning to the front lines of the Spanish Civil War.",
+          "runtime": 119,
+          "tagline": "",
+          "title": "The Girl with the Leica"
+        }
+      },
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Das Mädchen mit der Leica"
+        }
+      },
+      {
+        "iso_3166_1": "PL",
+        "iso_639_1": "pl",
+        "name": "Polski",
+        "english_name": "Polish",
+        "data": {
+          "homepage": "",
+          "overview": "Paryż, 14 lipca 1937 roku. W tańcu emocji, który przybiera charakter pożegnania, Gerda Taro żegna się z przyjaciółmi i towarzyszem Robertem Capą, zanim wraca na front hiszpański ze swoją Leicą. Miłość i demokratyczne ideały przeplatają się w portrecie Gerdy, której radość życia rozpalała iskry w sercach tych, którzy dzielili z nią czas, gdy wszystko wydawało się jeszcze możliwe.",
+          "runtime": 116,
+          "tagline": "",
+          "title": "La ragazza con la Leica"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt38024578",
+    "wikidata_id": "Q140868747",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1440,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/2m4M3xNKc52tjJRoYAULjRHQ6Qq.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2560
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/s7NkkvwEXn1ts1eQlo1X4zYUiEf.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      }
+    ],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "São Paulo International Film Festival",
+            "release_date": "2026-10-18T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Toronto International Film Festival",
+            "release_date": "2026-09-13T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Filmfest Hamburg ",
+            "release_date": "2026-09-29T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2027-03-04T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ID",
+        "release_dates": [
+          {
+            "certification": "13+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Jakarta Film Week",
+            "release_date": "2026-10-25T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": " Venice International Film Festival",
+            "release_date": "2026-09-02T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-10-22T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

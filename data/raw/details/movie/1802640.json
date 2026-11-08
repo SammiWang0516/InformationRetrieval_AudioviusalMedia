@@ -1,0 +1,575 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 1000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 1802640,
+  "imdb_id": null,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Le bruit du dragon",
+  "overview": "",
+  "popularity": 0.4433,
+  "poster_path": "/ifXO9T71Qc4I3JzJ5FeEPnwZZy6.jpg",
+  "production_companies": [
+    {
+      "id": 176736,
+      "logo_path": null,
+      "name": "Eicar Paris",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2026-10-02",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Le bruit du dragon",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6563200,
+        "known_for_department": "Acting",
+        "name": "Alizée Erouart",
+        "original_name": "Alizée Erouart",
+        "popularity": 0.091,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Aurore",
+        "credit_id": "6ad78909f408cc5377090e55",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6563202,
+        "known_for_department": "Acting",
+        "name": "Giulia Cammiliti",
+        "original_name": "Giulia Cammiliti",
+        "popularity": 0.3544,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Leïla",
+        "credit_id": "6ad7891847fb9071468469c0",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6563203,
+        "known_for_department": "Acting",
+        "name": "Roman Turquin",
+        "original_name": "Roman Turquin",
+        "popularity": 0.2213,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Kali",
+        "credit_id": "6ad7892aed31c7bcff090e51",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6207537,
+        "known_for_department": "Acting",
+        "name": "Maxime L'Hôtellier",
+        "original_name": "Maxime L'Hôtellier",
+        "popularity": 0.2017,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Marc",
+        "credit_id": "6ad78945bbf7ab27ffcecd60",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6563204,
+        "known_for_department": "Directing",
+        "name": "Flora Guibert",
+        "original_name": "Flora Guibert",
+        "popularity": 0.1402,
+        "profile_path": null,
+        "credit_id": "6ad789599fd54d990d7a5729",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6563204,
+        "known_for_department": "Directing",
+        "name": "Flora Guibert",
+        "original_name": "Flora Guibert",
+        "popularity": 0.1402,
+        "profile_path": null,
+        "credit_id": "6ad78964c4adccf90a846a4d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6563205,
+        "known_for_department": "Directing",
+        "name": "Matthieu Martella",
+        "original_name": "Matthieu Martella",
+        "popularity": 0.2759,
+        "profile_path": null,
+        "credit_id": "6ad7897387213a4b70091072",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5191188,
+        "known_for_department": "Production",
+        "name": "Célie Papin",
+        "original_name": "Célie Papin",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6ad789872e0c937ffc7a5865",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6563208,
+        "known_for_department": "Crew",
+        "name": "Thomas Rolin",
+        "original_name": "Thomas Rolin",
+        "popularity": 0.1431,
+        "profile_path": null,
+        "credit_id": "6ad789a3c9acdc04f8ceced5",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5674030,
+        "known_for_department": "Lighting",
+        "name": "Mallory Fresneau",
+        "original_name": "Mallory Fresneau",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6ad789b33a9b8b2530b9daab",
+        "department": "Crew",
+        "job": "Script"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6563208,
+        "known_for_department": "Crew",
+        "name": "Thomas Rolin",
+        "original_name": "Thomas Rolin",
+        "popularity": 0.1431,
+        "profile_path": null,
+        "credit_id": "6ad789bf88bb57d773bee131",
+        "department": "Crew",
+        "job": "Script"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6563208,
+        "known_for_department": "Crew",
+        "name": "Thomas Rolin",
+        "original_name": "Thomas Rolin",
+        "popularity": 0.1431,
+        "profile_path": null,
+        "credit_id": "6ad789cc16841cde2bb9dac4",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6563205,
+        "known_for_department": "Directing",
+        "name": "Matthieu Martella",
+        "original_name": "Matthieu Martella",
+        "popularity": 0.2759,
+        "profile_path": null,
+        "credit_id": "6ad78a1671a59b2e57b9da43",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6563211,
+        "known_for_department": "Production",
+        "name": "Nina Bordey",
+        "original_name": "Nina Bordey",
+        "popularity": 0.0903,
+        "profile_path": null,
+        "credit_id": "6ad78a28f408cc5377090ea6",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6563209,
+        "known_for_department": "Art",
+        "name": "Amandine Mainfroy",
+        "original_name": "Amandine Mainfroy",
+        "popularity": 0.0785,
+        "profile_path": null,
+        "credit_id": "6ad78a56ef133e53de091083",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5765205,
+        "known_for_department": "Camera",
+        "name": "Arnaud Brandily",
+        "original_name": "Arnaud Brandily",
+        "popularity": 0.1022,
+        "profile_path": "/lrBbecbwz3WmWAGF8BMY46N66Ht.jpg",
+        "credit_id": "6ad78a6a0c686b53b5846a67",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6544727,
+        "known_for_department": "Camera",
+        "name": "Lucie Jouin",
+        "original_name": "Lucie Jouin",
+        "popularity": 0.1067,
+        "profile_path": null,
+        "credit_id": "6ad78a7bbbf7ab27ffcecd8d",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6544737,
+        "known_for_department": "Crew",
+        "name": "Alexis Lecordier",
+        "original_name": "Alexis Lecordier",
+        "popularity": 0.0891,
+        "profile_path": null,
+        "credit_id": "6ad78a8b2e0c937ffc7a588c",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6563214,
+        "known_for_department": "Lighting",
+        "name": "Killian Cordelette",
+        "original_name": "Killian Cordelette",
+        "popularity": 0.1153,
+        "profile_path": null,
+        "credit_id": "6ad78aa755ef9ebb1dcece4a",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5063731,
+        "known_for_department": "Lighting",
+        "name": "Avril Nguyen Angelot",
+        "original_name": "Avril Nguyen Angelot",
+        "popularity": 0.1625,
+        "profile_path": null,
+        "credit_id": "6ad78ab6ed31c7bcff090e9a",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6563215,
+        "known_for_department": "Lighting",
+        "name": "Matteo Marchi",
+        "original_name": "Matteo Marchi",
+        "popularity": 0.0963,
+        "profile_path": null,
+        "credit_id": "6ad78ace8ae42708d58468b7",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4658036,
+        "known_for_department": "Sound",
+        "name": "Axel De Guillebon",
+        "original_name": "Axel De Guillebon",
+        "popularity": 0.0627,
+        "profile_path": null,
+        "credit_id": "6ad78ade84273f396bcece48",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5939311,
+        "known_for_department": "Sound",
+        "name": "Hugo Muckensturm",
+        "original_name": "Hugo Muckensturm",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6ad78aee3a9b8b2530b9dabd",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6563211,
+        "known_for_department": "Production",
+        "name": "Nina Bordey",
+        "original_name": "Nina Bordey",
+        "popularity": 0.0903,
+        "profile_path": null,
+        "credit_id": "6ad78afe9fd54d990d7a5752",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6563217,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Eva Leguen",
+        "original_name": "Eva Leguen",
+        "popularity": 0.1431,
+        "profile_path": null,
+        "credit_id": "6ad78b21bea077649acece70",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Effects Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6563218,
+        "known_for_department": "Production",
+        "name": "Tiphayne Amzel",
+        "original_name": "Tiphayne Amzel",
+        "popularity": 0.0966,
+        "profile_path": null,
+        "credit_id": "6ad78b3887213a4b700910a3",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6563219,
+        "known_for_department": "Camera",
+        "name": "Lydia Sophia Brandetta",
+        "original_name": "Lydia Sophia Brandetta",
+        "popularity": 0.0762,
+        "profile_path": null,
+        "credit_id": "6ad78b560c686b53b5846a7c",
+        "department": "Camera",
+        "job": "Set Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5063724,
+        "known_for_department": "Directing",
+        "name": "Antoine Jury",
+        "original_name": "Antoine Jury",
+        "popularity": 0.1919,
+        "profile_path": null,
+        "credit_id": "6ad78b6ac9acdc04f8cecef7",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4658036,
+        "known_for_department": "Sound",
+        "name": "Axel De Guillebon",
+        "original_name": "Axel De Guillebon",
+        "popularity": 0.0627,
+        "profile_path": null,
+        "credit_id": "6ad78b7c2e0c937ffc7a58a1",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6563225,
+        "known_for_department": "Sound",
+        "name": "Thomas Mouret",
+        "original_name": "Thomas Mouret",
+        "popularity": 0.0655,
+        "profile_path": null,
+        "credit_id": "6ad78b9c4ed1812e0fcecfb3",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4603399,
+        "known_for_department": "Camera",
+        "name": "Antoine Gonzalez",
+        "original_name": "Antoine Gonzalez",
+        "popularity": 0.2414,
+        "profile_path": null,
+        "credit_id": "6ad78ba6378a39d4c27a56a1",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5765205,
+        "known_for_department": "Camera",
+        "name": "Arnaud Brandily",
+        "original_name": "Arnaud Brandily",
+        "popularity": 0.1022,
+        "profile_path": "/lrBbecbwz3WmWAGF8BMY46N66Ht.jpg",
+        "credit_id": "6ad78bb52624274ad5090e3d",
+        "department": "Editing",
+        "job": "Color Grading"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 10685,
+        "name": "escape"
+      },
+      {
+        "id": 18035,
+        "name": "family"
+      },
+      {
+        "id": 155294,
+        "name": "family conflict"
+      },
+      {
+        "id": 207691,
+        "name": "abuse"
+      },
+      {
+        "id": 207765,
+        "name": "wife beater"
+      },
+      {
+        "id": 215292,
+        "name": "anger issues"
+      },
+      {
+        "id": 274168,
+        "name": "angry dad"
+      },
+      {
+        "id": 293198,
+        "name": "fantasy"
+      },
+      {
+        "id": 312898,
+        "name": "violence"
+      },
+      {
+        "id": 346773,
+        "name": "dream"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "Cette nuit, le bruit du dragon se fait encore entendre. pour échapper à la peur, Aurore et Leïla, deux soeurs de 7 et 11 ans, s'inventent un monde où l'imaginaire devient leur refuge.",
+          "runtime": 4,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "fr",
+            "note": "EICAR private screening - Eicar Premiere",
+            "release_date": "2026-10-02T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

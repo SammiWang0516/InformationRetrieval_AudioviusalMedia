@@ -1,0 +1,436 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1793243,
+  "imdb_id": null,
+  "origin_country": [
+    "AR"
+  ],
+  "original_language": "es",
+  "original_title": "Entre Líneas",
+  "overview": "Just days before the premiere of a play, Pablo—an actor reeling from a breakup—finds himself in the grip of a creative crisis that prevents him from performing a pivotal scene. As he attempts to rehearse, memories of his ex-partner, Carolina, flood his mind, forcing him to relive their final conversation. He then realizes that the true conflict lies not in the script, but in the words he never dared to speak.",
+  "popularity": 0.7451,
+  "poster_path": "/pe0j3HYg98eoSFxyrFzYMEUO1Ff.jpg",
+  "production_companies": [
+    {
+      "id": 200442,
+      "logo_path": null,
+      "name": "Universidad Nacional de las Artes",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    }
+  ],
+  "release_date": "2026-06-29",
+  "revenue": 0,
+  "runtime": 4,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Entre Líneas",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6545008,
+        "known_for_department": "Acting",
+        "name": "Facundo Juarez Di Giacomo",
+        "original_name": "Facundo Juarez Di Giacomo",
+        "popularity": 0.4064,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Pablo",
+        "credit_id": "6acd9275e5b84a7f1d1352a9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6545009,
+        "known_for_department": "Acting",
+        "name": "Valentina Gonzalez",
+        "original_name": "Valentina Gonzalez",
+        "popularity": 0.0472,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Carolina",
+        "credit_id": "6acd9291e230453655e774c8",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6545011,
+        "known_for_department": "Acting",
+        "name": "Tarek Hamdan",
+        "original_name": "Tarek Hamdan",
+        "popularity": 0.0651,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Director",
+        "credit_id": "6acd92a91e594da1d6aab6df",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6545013,
+        "known_for_department": "Acting",
+        "name": "Nathalia Macias",
+        "original_name": "Nathalia Macias",
+        "popularity": 0.0504,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Actriz",
+        "credit_id": "6acd92bbe230453655e774d3",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6538595,
+        "known_for_department": "Directing",
+        "name": "Ximena Soledad",
+        "original_name": "Ximena Soledad",
+        "popularity": 0.2787,
+        "profile_path": "/bbX3hBxmYJFPQytDzppCCtyjyxx.jpg",
+        "credit_id": "6ac9a7ed654470e4a2e8899c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6538746,
+        "known_for_department": "Directing",
+        "name": "Agustin Tassinari",
+        "original_name": "Agustin Tassinari",
+        "popularity": 0.3737,
+        "profile_path": null,
+        "credit_id": "6ac9a80cc90cee66322243d5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6545018,
+        "known_for_department": "Writing",
+        "name": "Rosario Toledo",
+        "original_name": "Rosario Toledo",
+        "popularity": 0.0425,
+        "profile_path": null,
+        "credit_id": "6acd92ee81ad9e844a1f5544",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6538746,
+        "known_for_department": "Directing",
+        "name": "Agustin Tassinari",
+        "original_name": "Agustin Tassinari",
+        "popularity": 0.3737,
+        "profile_path": null,
+        "credit_id": "6acd92fe87a97d9f921f5664",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6545020,
+        "known_for_department": "Directing",
+        "name": "Julieta Beneyto",
+        "original_name": "Julieta Beneyto",
+        "popularity": 0.0513,
+        "profile_path": null,
+        "credit_id": "6acd933d3833e929abe775e8",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6545024,
+        "known_for_department": "Camera",
+        "name": "Leslie Mac Eachen",
+        "original_name": "Leslie Mac Eachen",
+        "popularity": 0.3702,
+        "profile_path": "/eqdvRPtrKjdVyXqIBnzs306Q1gH.jpg",
+        "credit_id": "6acd93a80e4dbe5d4daab5df",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4923395,
+        "known_for_department": "Production",
+        "name": "Mariana Cazabat",
+        "original_name": "Mariana Cazabat",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6acd93eb045deec0651f5532",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6545025,
+        "known_for_department": "Camera",
+        "name": "Santiago Peterson",
+        "original_name": "Santiago Peterson",
+        "popularity": 0.0858,
+        "profile_path": null,
+        "credit_id": "6acd94194ebb185dde1355c7",
+        "department": "Camera",
+        "job": "Focus Puller"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6426096,
+        "known_for_department": "Acting",
+        "name": "Delfina Ávila",
+        "original_name": "Delfina Ávila",
+        "popularity": 0.0907,
+        "profile_path": null,
+        "credit_id": "6acd94c1b411570a001f5533",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6545028,
+        "known_for_department": "Art",
+        "name": "Eugenia Mackay",
+        "original_name": "Eugenia Mackay",
+        "popularity": 0.1027,
+        "profile_path": null,
+        "credit_id": "6acd94e0f3697bf29baab676",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6545031,
+        "known_for_department": "Art",
+        "name": "Magaly Avalos",
+        "original_name": "Magaly Avalos",
+        "popularity": 0.0513,
+        "profile_path": null,
+        "credit_id": "6acd958b34f473e91d8e83a5",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6545032,
+        "known_for_department": "Sound",
+        "name": "Ramiro Marchetti",
+        "original_name": "Ramiro Marchetti",
+        "popularity": 0.1139,
+        "profile_path": null,
+        "credit_id": "6acd95a33a84411f2113554e",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6545035,
+        "known_for_department": "Editing",
+        "name": "Jose Córdova Tipiani",
+        "original_name": "Jose Córdova Tipiani",
+        "popularity": 0.1321,
+        "profile_path": null,
+        "credit_id": "6acd961d09097cc08c8e8415",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6545035,
+        "known_for_department": "Editing",
+        "name": "Jose Córdova Tipiani",
+        "original_name": "Jose Córdova Tipiani",
+        "popularity": 0.1321,
+        "profile_path": null,
+        "credit_id": "6acd96382520bea7821f55ce",
+        "department": "Editing",
+        "job": "Color Grading"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6545024,
+        "known_for_department": "Camera",
+        "name": "Leslie Mac Eachen",
+        "original_name": "Leslie Mac Eachen",
+        "popularity": 0.3702,
+        "profile_path": "/eqdvRPtrKjdVyXqIBnzs306Q1gH.jpg",
+        "credit_id": "6acd964fe230453655e77549",
+        "department": "Editing",
+        "job": "Color Grading"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6545037,
+        "known_for_department": "Production",
+        "name": "Tiago Pérez Castro",
+        "original_name": "Tiago Pérez Castro",
+        "popularity": 0.1394,
+        "profile_path": null,
+        "credit_id": "6ad0fe69ec3f02c1d0b23b06",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6545023,
+        "known_for_department": "Production",
+        "name": "Ana Vastag",
+        "original_name": "Ana Vastag",
+        "popularity": 0.0719,
+        "profile_path": null,
+        "credit_id": "6ad0fe767a25d0bace7a585d",
+        "department": "Production",
+        "job": "Producer's Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5262090,
+        "known_for_department": "Sound",
+        "name": "Tais Ayala Lempart",
+        "original_name": "Tais Ayala Lempart",
+        "popularity": 0.1165,
+        "profile_path": null,
+        "credit_id": "6ad10263831a75bc338efd67",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6545033,
+        "known_for_department": "Sound",
+        "name": "Denisse Volguein",
+        "original_name": "Denisse Volguein",
+        "popularity": 0.0471,
+        "profile_path": null,
+        "credit_id": "6ad104c330f19eef059fb32c",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 385746,
+        "name": "entre líneas"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Just days before the premiere of a play, Pablo—an actor reeling from a breakup—finds himself in the grip of a creative crisis that prevents him from performing a pivotal scene. As he attempts to rehearse, memories of his ex-partner, Carolina, flood his mind, forcing him to relive their final conversation. He then realizes that the true conflict lies not in the script, but in the words he never dared to speak.",
+          "runtime": 4,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "",
+            "release_date": "2026-06-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Entre Líneas | Cortometraje 2026 | Short Film",
+        "key": "7MlTBohihgU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "6ad117a0c2de9a58b37a58e7",
+        "published_at": "2026-08-28T01:46:01.000Z"
+      }
+    ]
+  }
+}

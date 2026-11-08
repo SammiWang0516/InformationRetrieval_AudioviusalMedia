@@ -1,0 +1,915 @@
+{
+  "adult": false,
+  "backdrop_path": "/3h2eaxPhTDLp2XTr9Js9v05tblg.jpg",
+  "belongs_to_collection": null,
+  "budget": 100000,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "https://uchroniafilm.com/",
+  "id": 1615764,
+  "imdb_id": "tt39052667",
+  "origin_country": [
+    "GR",
+    "NL"
+  ],
+  "original_language": "el",
+  "original_title": "Uchronia",
+  "overview": "A psychedelic docu-essay, inspired by Arthur Rimbaud’s visionary poem Une Saison en Enfer, in which the poet’s ghost travels through history, encountering revolutionary figures and queer ‘freaks’ such as Emma Goldman, David Wojnarowicz, and Marsha P. Johnson. These encounters form a multilayered collage that interrogates identity, the meaning of revolution, and the role of the artist in shaping radical histories and collective imaginaries.",
+  "popularity": 1.0693,
+  "poster_path": "/oeNZLo6XNLcqrwQpusytX3P9RrG.jpg",
+  "production_companies": [
+    {
+      "id": 249581,
+      "logo_path": null,
+      "name": "FYTA Films",
+      "origin_country": "GR"
+    },
+    {
+      "id": 285674,
+      "logo_path": null,
+      "name": "GROM Producties",
+      "origin_country": "NL"
+    },
+    {
+      "id": 13413,
+      "logo_path": "/eUVeNogxsgzL78KU5ugDvea2Cet.png",
+      "name": "Hubert Bals Fund",
+      "origin_country": "NL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GR",
+      "name": "Greece"
+    },
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "release_date": "2026-09-24",
+  "revenue": 0,
+  "runtime": 97,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Parallel histories of queer revolt",
+  "title": "Uchronia",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2851135,
+        "known_for_department": "Acting",
+        "name": "Flomaria Papadaki",
+        "original_name": "Φλομαρία Παπαδάκη",
+        "popularity": 0.0937,
+        "profile_path": "/i1o2ffjsGmDUbtoNWlCjp2ic8HT.jpg",
+        "cast_id": 6,
+        "character": "Louise Michel",
+        "credit_id": "6966f9ce7adf5e1eb3cacbd3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5952365,
+        "known_for_department": "Acting",
+        "name": "Marlo Mortimer",
+        "original_name": "Marlo Mortimer",
+        "popularity": 0.1214,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "The Devil",
+        "credit_id": "696ff3f9772bc060bb96232f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4425797,
+        "known_for_department": "Acting",
+        "name": "Macklin Kowal",
+        "original_name": "Macklin Kowal",
+        "popularity": 0.2499,
+        "profile_path": "/kNDk16wrCZ7nchc1DgLwu1l9OhT.jpg",
+        "cast_id": 33,
+        "character": "Deleuzian Bodybuilder",
+        "credit_id": "696ff417256be778b5962457",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2055024,
+        "known_for_department": "Acting",
+        "name": "Kristof Lamp",
+        "original_name": "Kristof Lamp",
+        "popularity": 0.0944,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Arthur Rimbaud",
+        "credit_id": "69a56aad70ca8de616c4bb58",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1094733,
+        "known_for_department": "Acting",
+        "name": "Marissa Triantafyllidou",
+        "original_name": "Μαρίσσα Τριανταφυλλίδου",
+        "popularity": 0.3858,
+        "profile_path": "/qsgTbSX4BAHpPzNpFfXlqUWbZ3w.jpg",
+        "cast_id": 35,
+        "character": "Trotski 2.0",
+        "credit_id": "69a56ad5bf28e3ccf6418e5a",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1185441,
+        "known_for_department": "Sound",
+        "name": "Alexander Voulgaris",
+        "original_name": "Αλέξανδρος Βούλγαρης",
+        "popularity": 0.6534,
+        "profile_path": "/8DSCbK6VmNyV946ZhlWORhKwDVK.jpg",
+        "cast_id": 36,
+        "character": "David Wojnarowicz",
+        "credit_id": "69a56ae8702fa54947e2be49",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1365802,
+        "known_for_department": "Directing",
+        "name": "Rea Wallden",
+        "original_name": "Ρέα Βαλντέν",
+        "popularity": 0.1973,
+        "profile_path": "/zkSANoEkYmOcaMAekGIQP4YA39W.jpg",
+        "cast_id": 37,
+        "character": "Emma Goldman",
+        "credit_id": "69a56af631fce8fa50e2bc79",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3943899,
+        "known_for_department": "Directing",
+        "name": "Christos Adrianopoulos",
+        "original_name": "Christos Adrianopoulos",
+        "popularity": 0.1013,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Guy Hocquenguem",
+        "credit_id": "69a56b11432f642060e2bd12",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6044281,
+        "known_for_department": "Acting",
+        "name": "Amani",
+        "original_name": "Amani",
+        "popularity": 0.1519,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Marsha P. Johnson",
+        "credit_id": "69a56b2bbb138909e1de944d",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4541485,
+        "known_for_department": "Crew",
+        "name": "Robert Carrithers",
+        "original_name": "Robert Carrithers",
+        "popularity": 0.0354,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Andy Warhol",
+        "credit_id": "69a56b8b3edc31020eff6917",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3287754,
+        "known_for_department": "Crew",
+        "name": "Foivos Dousos",
+        "original_name": "Foivos Dousos",
+        "popularity": 0.2449,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Jack Smith",
+        "credit_id": "69a56b99b60e88da6e418b89",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3445890,
+        "known_for_department": "Directing",
+        "name": "Aimee Le",
+        "original_name": "Aimee Le",
+        "popularity": 0.0531,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "",
+        "credit_id": "69a56bbf1c60a3bc3c188143",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1732830,
+        "known_for_department": "Acting",
+        "name": "Eve Libertine",
+        "original_name": "Eve Libertine",
+        "popularity": 0.1663,
+        "profile_path": "/zdPx9wlwPjjhHlKDFsUnAfum6QJ.jpg",
+        "cast_id": 43,
+        "character": "",
+        "credit_id": "69a56bc81ce08f089a418f39",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3287752,
+        "known_for_department": "Directing",
+        "name": "Fil Ieropoulos",
+        "original_name": "Fil Ieropoulos",
+        "popularity": 0.426,
+        "profile_path": "/xACcchKP85ZkcDVuten5bFaVM3O.jpg",
+        "credit_id": "6966f854e6ec4205a236d41c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3287754,
+        "known_for_department": "Crew",
+        "name": "Foivos Dousos",
+        "original_name": "Foivos Dousos",
+        "popularity": 0.2449,
+        "profile_path": null,
+        "credit_id": "6966f97aa614b2121d686b9b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3748411,
+        "known_for_department": "Production",
+        "name": "Spyros Patsouras",
+        "original_name": "Spyros Patsouras",
+        "popularity": 0.0473,
+        "profile_path": "/5jfvTJSbTl1YxvdZVJqEvTg9hcl.jpg",
+        "credit_id": "6966f98bced9e8eeab866026",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3287752,
+        "known_for_department": "Directing",
+        "name": "Fil Ieropoulos",
+        "original_name": "Fil Ieropoulos",
+        "popularity": 0.426,
+        "profile_path": "/xACcchKP85ZkcDVuten5bFaVM3O.jpg",
+        "credit_id": "6966f997946ead54e068727f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2650488,
+        "known_for_department": "Camera",
+        "name": "Yiorgos Koutsaliaris",
+        "original_name": "Γιώργος Κουτσαλιάρης",
+        "popularity": 0.2244,
+        "profile_path": null,
+        "credit_id": "696a8c9e4124f53e8cad2194",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 202,
+        "known_for_department": "Writing",
+        "name": "Charlie Kaufman",
+        "original_name": "Charlie Kaufman",
+        "popularity": 1.7339,
+        "profile_path": "/75aOpLBpvdtQM3BkWGFUvMs6LvH.jpg",
+        "credit_id": "696a8cbf6391e1f10a3332e9",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1561865,
+        "known_for_department": "Production",
+        "name": "Marina Danezi",
+        "original_name": "Μαρίνα Δανέζη",
+        "popularity": 0.0896,
+        "profile_path": null,
+        "credit_id": "696fed9bb7db6fd3aeabd446",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 118828,
+        "known_for_department": "Production",
+        "name": "Jürgen Brüning",
+        "original_name": "Jürgen Brüning",
+        "popularity": 0.1295,
+        "profile_path": "/lPotlHebSBCrhmIfAFjaRrjnO3t.jpg",
+        "credit_id": "696fedb0723d62d667962428",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5592222,
+        "known_for_department": "Writing",
+        "name": "Eva H.D.",
+        "original_name": "Eva H.D.",
+        "popularity": 0.3243,
+        "profile_path": null,
+        "credit_id": "696fedc5c7f97b4d20442c69",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3287754,
+        "known_for_department": "Crew",
+        "name": "Foivos Dousos",
+        "original_name": "Foivos Dousos",
+        "popularity": 0.2449,
+        "profile_path": null,
+        "credit_id": "696feddac7f97b4d20442c70",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1977035,
+        "known_for_department": "Production",
+        "name": "Steven Rubinstein Malamud",
+        "original_name": "Steven Rubinstein Malamud",
+        "popularity": 0.2145,
+        "profile_path": null,
+        "credit_id": "696fedf4b7db6fd3aeabd44b",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2826602,
+        "known_for_department": "Production",
+        "name": "Sacha Gertsik",
+        "original_name": "Sacha Gertsik",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "696fee0f8d8f691c6dabd2e4",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2379451,
+        "known_for_department": "Camera",
+        "name": "Pavlos Lygouris",
+        "original_name": "Παύλος Λύγουρης",
+        "popularity": 0.1709,
+        "profile_path": null,
+        "credit_id": "696fee5d44ce4804a0abd390",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4485541,
+        "known_for_department": "Camera",
+        "name": "Alex Kat",
+        "original_name": "Alex Kat",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "696fee6cadc32fc4d1f2bbd5",
+        "department": "Camera",
+        "job": "Set Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3943899,
+        "known_for_department": "Directing",
+        "name": "Christos Adrianopoulos",
+        "original_name": "Christos Adrianopoulos",
+        "popularity": 0.1013,
+        "profile_path": null,
+        "credit_id": "696fee7ca0e9cb71adf2ba9d",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4485549,
+        "known_for_department": "Camera",
+        "name": "Nikos Manolis",
+        "original_name": "Nikos Manolis",
+        "popularity": 0.0417,
+        "profile_path": null,
+        "credit_id": "696fee8df2d32f5790fe14cd",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3287752,
+        "known_for_department": "Directing",
+        "name": "Fil Ieropoulos",
+        "original_name": "Fil Ieropoulos",
+        "popularity": 0.426,
+        "profile_path": "/xACcchKP85ZkcDVuten5bFaVM3O.jpg",
+        "credit_id": "696fee9b949909d853abd4bc",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5952334,
+        "known_for_department": "Art",
+        "name": "Stella Angelidou",
+        "original_name": "Stella Angelidou",
+        "popularity": 0.0511,
+        "profile_path": null,
+        "credit_id": "696feeb347dfdbeee97abe9b",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5952335,
+        "known_for_department": "Art",
+        "name": "Maria Labrinidi",
+        "original_name": "Maria Labrinidi",
+        "popularity": 0.0507,
+        "profile_path": null,
+        "credit_id": "696feec01e7f40342aabd483",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5952339,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Dionisia Ioannou",
+        "original_name": "Dionisia Ioannou",
+        "popularity": 0.0685,
+        "profile_path": null,
+        "credit_id": "696fef5a10544f729e7ac044",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5952340,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Teo Zografaki",
+        "original_name": "Teo Zografaki",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "credit_id": "696fef7610544f729e7ac04f",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4485527,
+        "known_for_department": "Sound",
+        "name": "Pantelis Pilavios",
+        "original_name": "Pantelis Pilavios",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "696fef93af13eb7b1bdf0f5b",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4485527,
+        "known_for_department": "Sound",
+        "name": "Pantelis Pilavios",
+        "original_name": "Pantelis Pilavios",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "696fefa82de5e295c0df109f",
+        "department": "Sound",
+        "job": "Sound Mix Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3287752,
+        "known_for_department": "Directing",
+        "name": "Fil Ieropoulos",
+        "original_name": "Fil Ieropoulos",
+        "popularity": 0.426,
+        "profile_path": "/xACcchKP85ZkcDVuten5bFaVM3O.jpg",
+        "credit_id": "696fefb6c66613a70f7ac04f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4485519,
+        "known_for_department": "Art",
+        "name": "Petros Antoniou",
+        "original_name": "Petros Antoniou",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "696fefcb08c80e2262abd350",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2497673,
+        "known_for_department": "Editing",
+        "name": "Dimitris Manousiakis",
+        "original_name": "Δημήτρης Μανουσιάκης",
+        "popularity": 0.2045,
+        "profile_path": null,
+        "credit_id": "696fefe50a06a35c9f442b98",
+        "department": "Editing",
+        "job": "Color Grading"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4485519,
+        "known_for_department": "Art",
+        "name": "Petros Antoniou",
+        "original_name": "Petros Antoniou",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "696feff353749f83bff2b953",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5952346,
+        "known_for_department": "Production",
+        "name": "Marion Deligiannis",
+        "original_name": "Marion Deligiannis",
+        "popularity": 0.0687,
+        "profile_path": null,
+        "credit_id": "696ff005927588fd8f96237e",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3748411,
+        "known_for_department": "Production",
+        "name": "Spyros Patsouras",
+        "original_name": "Spyros Patsouras",
+        "popularity": 0.0473,
+        "profile_path": "/5jfvTJSbTl1YxvdZVJqEvTg9hcl.jpg",
+        "credit_id": "696ff01b3460ef0531df12d2",
+        "department": "Production",
+        "job": "Production Manager"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "https://uchroniafilm.com/",
+          "overview": "A psychedelic docu-essay, inspired by Arthur Rimbaud’s visionary poem Une Saison en Enfer, in which the poet’s ghost travels through history, encountering revolutionary figures and queer ‘freaks’ such as Emma Goldman, David Wojnarowicz, and Marsha P. Johnson. These encounters form a multilayered collage that interrogates identity, the meaning of revolution, and the role of the artist in shaping radical histories and collective imaginaries.",
+          "runtime": 97,
+          "tagline": "Parallel histories of queer revolt",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "GR",
+        "iso_639_1": "el",
+        "name": "ελληνικά",
+        "english_name": "Greek",
+        "data": {
+          "homepage": "",
+          "overview": "Το φάντασμα του Αρθούρου Ρεμπώ περιπλανιέται στην ιστορία, συναντώντας επαναστατικές προσωπικότητες όπως η Emma Goldman, ο David Wojnarowicz και η Marsha P. Johnson. Ένα πολυεπίπεδο κολάζ συναντήσεων που αμφισβητούν την ταυτότητα, την επανάσταση και τον ρόλο της καλλιτεχνικής πρωτοπορίας.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Uchronia: Parallel Histories of Queer Revolt",
+        "type": "full title"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt39052667",
+    "wikidata_id": "Q140374820",
+    "facebook_id": null,
+    "instagram_id": "uchronia.film",
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 720,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/3h2eaxPhTDLp2XTr9Js9v05tblg.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1280
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 720,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/fKqyX55QR3664h5l3tkGSf8nd57.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1280
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1440,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/lE7vJ5v3D3cIaYdUMLYIaPMcgH0.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2560
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1440,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/AskNlfejk57qlfS6zGiL6IZvvND.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2560
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1440,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/nB9etvQEYAJ4SpZ0HQ2TPpAHHQl.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2560
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1440,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/sg6UJh9cmOB0NXQVoVTxs77IJSk.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2560
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1440,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/1UIZ7mH9pnCDLBf7PW84YF7drNy.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2560
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1440,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/cvdKkawDBubHOuUMgdj9Cd4CvZ7.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2560
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1440,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/3lOYdd9NScKIRze8XVx6b31QOWH.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2560
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1440,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/gAWb2gsdDBTf5eKmV1o2mDevsWa.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2560
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/qcCmJWICuZC3UehesXMGUNdoKE1.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/oeNZLo6XNLcqrwQpusytX3P9RrG.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/p52N5QB6dptFnozb5H2dMegBnAi.jpg",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Berlin International Film Festival",
+            "release_date": "2026-02-17T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Hamburg International Queer Film Festival ",
+            "release_date": "2026-10-18T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Pornfilmfestival Berlin",
+            "release_date": "2026-10-22T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-09-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Subversive Film Festival Zagreb",
+            "release_date": "2026-05-21T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Uchronia, Official Trailer, 2026",
+        "key": "1152485902",
+        "site": "Vimeo",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "696a8b3c6895d2ee1df58c78",
+        "published_at": "2026-01-08T09:06:33.000Z"
+      }
+    ]
+  }
+}

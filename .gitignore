@@ -3,9 +3,6 @@
 .env.*
 !.env.example
 
-# Collected metadata and downloaded media
-data/
-
 # Python environments
 .venv/
 venv/

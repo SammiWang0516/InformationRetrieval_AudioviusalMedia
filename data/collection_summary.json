@@ -1,0 +1,26 @@
+{
+  "collection_type": "tmdb_recent_movies_raw_metadata",
+  "started_at_utc": "2026-11-08T04:16:34.598780+00:00",
+  "finished_at_utc": "2026-11-08T04:48:45.450642+00:00",
+  "target_detail_records": 6000,
+  "saved_detail_records_this_run": 6000,
+  "unique_ids_seen_this_run": 6000,
+  "discover_pages_examined_this_run": 337,
+  "cutoff_date": "2026-11-07",
+  "sort_by": "primary_release_date.desc",
+  "language": "en-US",
+  "include_adult": false,
+  "include_video": false,
+  "appended_resources": [
+    "credits",
+    "keywords",
+    "translations",
+    "alternative_titles",
+    "external_ids",
+    "images",
+    "release_dates",
+    "videos"
+  ],
+  "failure_count": 0,
+  "failures": []
+}

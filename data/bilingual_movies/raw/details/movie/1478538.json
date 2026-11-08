@@ -1,0 +1,665 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 9500,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1478538,
+  "imdb_id": null,
+  "origin_country": [
+    "AR"
+  ],
+  "original_language": "es",
+  "original_title": "La Liebre",
+  "overview": "After an accident on the road, Jimena accepts the help of Sergio, the only inhabitant of the area. But upon discovering the dark secret he hides, she must fight for her life and face the darkness awakening within her.",
+  "popularity": 1.1717,
+  "poster_path": "/dH8FZFAxE4oBc7HSxoJu8vqEzcr.jpg",
+  "production_companies": [
+    {
+      "id": 186625,
+      "logo_path": null,
+      "name": "UADE",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    }
+  ],
+  "release_date": "2025-05-21",
+  "revenue": 0,
+  "runtime": 14,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "La Liebre",
+  "video": false,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1794974,
+        "known_for_department": "Acting",
+        "name": "Mariano Bertolini",
+        "original_name": "Mariano Bertolini",
+        "popularity": 0.5866,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Sergio",
+        "credit_id": "682d279d3bf1467c07db368b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2436744,
+        "known_for_department": "Acting",
+        "name": "Martina Krasinsky",
+        "original_name": "Martina Krasinsky",
+        "popularity": 0.1225,
+        "profile_path": "/qZSlxWrOBJYIdW6YEYcBp0OKupS.jpg",
+        "cast_id": 2,
+        "character": "Jimena",
+        "credit_id": "682d27ab8a8e3de9759e3e21",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5451938,
+        "known_for_department": "Camera",
+        "name": "Lucía Pilar Pinto",
+        "original_name": "Lucía Pilar Pinto",
+        "popularity": 0.2051,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Dead Woman",
+        "credit_id": "682d2d0b425c06076e2f12da",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5451939,
+        "known_for_department": "Acting",
+        "name": "Francisco Matías Míe Luraschi",
+        "original_name": "Francisco Matías Míe Luraschi",
+        "popularity": 0.3417,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Leandro (off)",
+        "credit_id": "682d2d2b17f4b9cfc8db3575",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4607975,
+        "known_for_department": "Directing",
+        "name": "Lara Slaibe",
+        "original_name": "Lara Slaibe",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "682d27d25dc9100908f56761",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4607975,
+        "known_for_department": "Directing",
+        "name": "Lara Slaibe",
+        "original_name": "Lara Slaibe",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "682d27f4162d2e2858e25639",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5451903,
+        "known_for_department": "Writing",
+        "name": "Isabella Enia Shaurli",
+        "original_name": "Isabella Enia Shaurli",
+        "popularity": 0.1544,
+        "profile_path": null,
+        "credit_id": "682d283e7c9d2798e9db3550",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5451904,
+        "known_for_department": "Writing",
+        "name": "Martina Díaz",
+        "original_name": "Martina Díaz",
+        "popularity": 0.2228,
+        "profile_path": null,
+        "credit_id": "682d2852e25746e865f564a5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5451906,
+        "known_for_department": "Production",
+        "name": "Serena Villar",
+        "original_name": "Serena Villar",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "682d28b64321d6b1069e3f5d",
+        "department": "Production",
+        "job": "Production Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5451907,
+        "known_for_department": "Production",
+        "name": "Valentina Condon",
+        "original_name": "Valentina Condon",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "682d28cf005c09508a8c1182",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5451908,
+        "known_for_department": "Production",
+        "name": "Candela Mariani",
+        "original_name": "Candela Mariani",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "682d28dc74d5a83882f56295",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5451904,
+        "known_for_department": "Writing",
+        "name": "Martina Díaz",
+        "original_name": "Martina Díaz",
+        "popularity": 0.2228,
+        "profile_path": null,
+        "credit_id": "682d28fd55e73d0353e25619",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5451910,
+        "known_for_department": "Directing",
+        "name": "Lorenzo Dieguez",
+        "original_name": "Lorenzo Dieguez",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "682d2954adf57ca709f5658f",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5451911,
+        "known_for_department": "Camera",
+        "name": "Ignacio Fedorko",
+        "original_name": "Ignacio Fedorko",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "682d296ca91b6791f76494b2",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5451913,
+        "known_for_department": "Lighting",
+        "name": "Kiara Kavaliauskas",
+        "original_name": "Kiara Kavaliauskas",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "682d2980832e03ca62e25576",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5451915,
+        "known_for_department": "Camera",
+        "name": "Victoria Iglesias Acosta",
+        "original_name": "Victoria Iglesias Acosta",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "682d29a207605cb2a60be31e",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5451916,
+        "known_for_department": "Camera",
+        "name": "Lola Centeno Crowley",
+        "original_name": "Lola Centeno Crowley",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "682d29b2f2fcd444dd2f127a",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5451918,
+        "known_for_department": "Lighting",
+        "name": "Martina Popelka",
+        "original_name": "Martina Popelka",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "682d29cff42f1f12632f12fe",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5451923,
+        "known_for_department": "Lighting",
+        "name": "Daniel Sánchez",
+        "original_name": "Daniel Sánchez",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "credit_id": "682d2a21f06930f8c5e2559c",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4520687,
+        "known_for_department": "Lighting",
+        "name": "Lucas Calzada",
+        "original_name": "Lucas Calzada",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "682d2a3275274824c2e253de",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5451925,
+        "known_for_department": "Camera",
+        "name": "Florencio Tomás Varela",
+        "original_name": "Florencio Tomás Varela",
+        "popularity": 0.0372,
+        "profile_path": null,
+        "credit_id": "682d2a4a2a7ca4b1958c100d",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5451903,
+        "known_for_department": "Writing",
+        "name": "Isabella Enia Shaurli",
+        "original_name": "Isabella Enia Shaurli",
+        "popularity": 0.1544,
+        "profile_path": null,
+        "credit_id": "682d2a65b7c48cb8a2db3520",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5451926,
+        "known_for_department": "Art",
+        "name": "Yeirmer Méndez",
+        "original_name": "Yeirmer Méndez",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "682d2a79832e03ca62e2558a",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5451927,
+        "known_for_department": "Art",
+        "name": "Agustina Higa",
+        "original_name": "Agustina Higa",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "682d2a8d4f17777272e25458",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5451928,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Carolina Soca",
+        "original_name": "Carolina Soca",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "682d2a9fb3869d867de25389",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4321317,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Melisa Ontivero",
+        "original_name": "Melisa Ontivero",
+        "popularity": 0.1836,
+        "profile_path": null,
+        "credit_id": "682d2abb74d5a83882f562a2",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5451930,
+        "known_for_department": "Visual Effects",
+        "name": "Constanza Luz Martinez",
+        "original_name": "Constanza Luz Martinez",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "682d2b41c5a5bb50540be153",
+        "department": "Visual Effects",
+        "job": "Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5451930,
+        "known_for_department": "Visual Effects",
+        "name": "Constanza Luz Martinez",
+        "original_name": "Constanza Luz Martinez",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "682d2b6df5a4f4eac80be0be",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4321317,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Melisa Ontivero",
+        "original_name": "Melisa Ontivero",
+        "popularity": 0.1836,
+        "profile_path": null,
+        "credit_id": "682d2baa89c9d95cbe2f12b4",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5451931,
+        "known_for_department": "Crew",
+        "name": "Piromanía",
+        "original_name": "Piromanía",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "682d2bc0c5a5bb50540be16a",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5451932,
+        "known_for_department": "Art",
+        "name": "Iara Mora",
+        "original_name": "Iara Mora",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "682d2bebcc1d65777d8c12ac",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4548214,
+        "known_for_department": "Sound",
+        "name": "Juan Pedro Gaggia",
+        "original_name": "Juan Pedro Gaggia",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "682d2c0bf6cf2076f3e255b7",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5451934,
+        "known_for_department": "Sound",
+        "name": "Manuel Uzal",
+        "original_name": "Manuel Uzal",
+        "popularity": 0.2044,
+        "profile_path": null,
+        "credit_id": "682d2c18a91b6791f76494ca",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4548214,
+        "known_for_department": "Sound",
+        "name": "Juan Pedro Gaggia",
+        "original_name": "Juan Pedro Gaggia",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "682d2c2841f35855382f134a",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5451935,
+        "known_for_department": "Sound",
+        "name": "Salvador García Ratón",
+        "original_name": "Salvador García Ratón",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "682d2c78f5a4f4eac80be0cc",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2634962,
+        "known_for_department": "Acting",
+        "name": "Joaquín Gorbea",
+        "original_name": "Joaquín Gorbea",
+        "popularity": 0.3341,
+        "profile_path": null,
+        "credit_id": "682d2ca0e25746e865f564b6",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4039185,
+        "known_for_department": "Editing",
+        "name": "Nadia Amorena",
+        "original_name": "Nadia Amorena",
+        "popularity": 0.1305,
+        "profile_path": "/aBFYEk8nZeMvXb4fDKvcw5CIeRy.jpg",
+        "credit_id": "682d2cb7f2fcd444dd2f1286",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5451938,
+        "known_for_department": "Camera",
+        "name": "Lucía Pilar Pinto",
+        "original_name": "Lucía Pilar Pinto",
+        "popularity": 0.2051,
+        "profile_path": null,
+        "credit_id": "682d2cc94f17777272e2546c",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4039185,
+        "known_for_department": "Editing",
+        "name": "Nadia Amorena",
+        "original_name": "Nadia Amorena",
+        "popularity": 0.1305,
+        "profile_path": "/aBFYEk8nZeMvXb4fDKvcw5CIeRy.jpg",
+        "credit_id": "69dec57acbd120a1cb1b8ef3",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "After an accident on the road, Jimena accepts the help of Sergio, the only inhabitant of the area. But upon discovering the dark secret he hides, she must fight for her life and face the darkness awakening within her.",
+          "runtime": 14,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Tras un accidente en la ruta, Jimena acepta la ayuda de Sergio, el único habitante de la zona. Pero al descubrir el oscuro secreto que oculta, deberá luchar por su vida y enfrentarse a la sombra que despierta en su interior.",
+          "runtime": 14,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "IT",
+        "iso_639_1": "it",
+        "name": "Italiano",
+        "english_name": "Italian",
+        "data": {
+          "homepage": "",
+          "overview": "Una donna con l’auto in panne viene rapita da un uomo che inizialmente la soccorre.",
+          "runtime": 14,
+          "tagline": "",
+          "title": "The Hare"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "ENERC Se Proyecta 5° Edición",
+            "release_date": "2025-05-21T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Abruzzo Horror Festival - XI edizione",
+            "release_date": "2025-11-01T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

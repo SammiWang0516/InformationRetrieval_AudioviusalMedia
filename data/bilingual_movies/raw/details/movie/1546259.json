@@ -1,0 +1,823 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1546259,
+  "imdb_id": "tt31434191",
+  "origin_country": [
+    "HR"
+  ],
+  "original_language": "hr",
+  "original_title": "Jematva",
+  "overview": "Short horror film.",
+  "popularity": 1.0103,
+  "poster_path": "/vgF0YwFe7lLZ1BTul2H2rVRhPFM.jpg",
+  "production_companies": [
+    {
+      "id": 164675,
+      "logo_path": null,
+      "name": "VERN' University",
+      "origin_country": "HR"
+    },
+    {
+      "id": 94128,
+      "logo_path": "/2omVaLOZ0fHG1jSmQbmbsqTkzWI.png",
+      "name": "Hrvatski Audiovizualni Centar",
+      "origin_country": "HR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HR",
+      "name": "Croatia"
+    }
+  ],
+  "release_date": "2025-05-26",
+  "revenue": 0,
+  "runtime": 23,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Croatian",
+      "iso_639_1": "hr",
+      "name": "Hrvatski"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Harvest",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2961151,
+        "known_for_department": "Acting",
+        "name": "Tonka Mršić",
+        "original_name": "Tonka Mršić",
+        "popularity": 0.0974,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Klara",
+        "credit_id": "68c6b303f5b02f7603ca6dff",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1874124,
+        "known_for_department": "Acting",
+        "name": "Tatjana Bertok",
+        "original_name": "Tatjana Bertok",
+        "popularity": 0.1245,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Teta",
+        "credit_id": "68c6b314eb186e167af21ce1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1225205,
+        "known_for_department": "Acting",
+        "name": "Danira Gović",
+        "original_name": "Danira Gović",
+        "popularity": 0.1777,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Majka",
+        "credit_id": "68c6b328dc79ae1203f21c80",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1473565,
+        "known_for_department": "Acting",
+        "name": "Sanja Marin",
+        "original_name": "Sanja Marin",
+        "popularity": 0.3131,
+        "profile_path": "/509ybz5Sha60bxVClsHUb8ya7BA.jpg",
+        "cast_id": 4,
+        "character": "Nera",
+        "credit_id": "68c6b334dc79ae1203f21c83",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4987484,
+        "known_for_department": "Acting",
+        "name": "Lovro Ivanković",
+        "original_name": "Lovro Ivanković",
+        "popularity": 0.1797,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Pas",
+        "credit_id": "68c6b347689a7cb8fd230c66",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4294184,
+        "known_for_department": "Directing",
+        "name": "Donata Mustać",
+        "original_name": "Donata Mustać",
+        "popularity": 0.165,
+        "profile_path": null,
+        "credit_id": "68c6b368d6a80dcd8c220034",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4294184,
+        "known_for_department": "Directing",
+        "name": "Donata Mustać",
+        "original_name": "Donata Mustać",
+        "popularity": 0.165,
+        "profile_path": null,
+        "credit_id": "68c6b37cb9f9e2439fe2fd85",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5552171,
+        "known_for_department": "Production",
+        "name": "Matteo Sentinella",
+        "original_name": "Matteo Sentinella",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68c6b3956f6f28f1afc8fe3b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3987787,
+        "known_for_department": "Camera",
+        "name": "Filip Šarić",
+        "original_name": "Filip Šarić",
+        "popularity": 0.0539,
+        "profile_path": "/3VCoYPmBtImzuQevWWjxLiqzVdd.jpg",
+        "credit_id": "68c6b3a7054dba7f3070d29d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4294199,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Tea Pavec",
+        "original_name": "Tea Pavec",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68c6b3b5a6e842e50321fffe",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4294179,
+        "known_for_department": "Writing",
+        "name": "Luka Vukorepa",
+        "original_name": "Luka Vukorepa",
+        "popularity": 0.1671,
+        "profile_path": null,
+        "credit_id": "68c6b3c4eb186e167af21cf3",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5688561,
+        "known_for_department": "Directing",
+        "name": "Jan Kožić",
+        "original_name": "Jan Kožić",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68c6b495f35beb9a7aca6eef",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4294181,
+        "known_for_department": "Production",
+        "name": "David Šesto",
+        "original_name": "David Šesto",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68c6b4ade90963f6be70d2d5",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5552170,
+        "known_for_department": "Production",
+        "name": "Tonia Jurišić",
+        "original_name": "Tonia Jurišić",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "68c6b4c5edfd7359368683ec",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4294199,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Tea Pavec",
+        "original_name": "Tea Pavec",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68c6b4e9bc3b13afeda0f1d1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4984030,
+        "known_for_department": "Camera",
+        "name": "Rene Recek",
+        "original_name": "Rene Recek",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "68c6b50a4b7497a560c8fe55",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5688571,
+        "known_for_department": "Camera",
+        "name": "Antea Šoštarić",
+        "original_name": "Antea Šoštarić",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "68c6b53d76c84c2649f21ba1",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3057794,
+        "known_for_department": "Editing",
+        "name": "Denis Komljenović",
+        "original_name": "Denis Komljenović",
+        "popularity": 0.1331,
+        "profile_path": null,
+        "credit_id": "68c6b5536afda362c18682bc",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5552179,
+        "known_for_department": "Camera",
+        "name": "Dominik Belančić",
+        "original_name": "Dominik Belančić",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68c6b56a90eb78b4b0220143",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5552173,
+        "known_for_department": "Directing",
+        "name": "Jana Janjić",
+        "original_name": "Jana Janjić",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68c6b58221a9a452ccf21bab",
+        "department": "Crew",
+        "job": "Script"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5688573,
+        "known_for_department": "Production",
+        "name": "Tomislav Peleski",
+        "original_name": "Tomislav Peleski",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68c6b59936187be96bf21ba2",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5688575,
+        "known_for_department": "Crew",
+        "name": "Karlo Kaštelan",
+        "original_name": "Karlo Kaštelan",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68c6b5ac36187be96bf21bac",
+        "department": "Crew",
+        "job": "Public Relations"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5688576,
+        "known_for_department": "Production",
+        "name": "Stjepan Kelenić",
+        "original_name": "Stjepan Kelenić",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68c6b5d6be029eb3b170d31f",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5688577,
+        "known_for_department": "Production",
+        "name": "Luka Boduljak",
+        "original_name": "Luka Boduljak",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68c6b5ee8d696d4eec8683e3",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5688579,
+        "known_for_department": "Production",
+        "name": "Lora Pavić",
+        "original_name": "Lora Pavić",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68c6b608f3323b474e21ffd4",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5688580,
+        "known_for_department": "Production",
+        "name": "Ljubo Pudar",
+        "original_name": "Ljubo Pudar",
+        "popularity": 0.05,
+        "profile_path": null,
+        "credit_id": "68c6b61a8586916072868303",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4294197,
+        "known_for_department": "Camera",
+        "name": "Jure Režić",
+        "original_name": "Jure Režić",
+        "popularity": 0.1536,
+        "profile_path": null,
+        "credit_id": "68c6b62982a7f72f95c8feaf",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3057798,
+        "known_for_department": "Camera",
+        "name": "Marko Milohnić",
+        "original_name": "Marko Milohnić",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68c6b637e1783305372200ae",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5688582,
+        "known_for_department": "Camera",
+        "name": "Domen Martinić",
+        "original_name": "Domen Martinić",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "68c6b64ca6e842e50322002c",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5552180,
+        "known_for_department": "Crew",
+        "name": "Marko Erlić",
+        "original_name": "Marko Erlić",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "68c6b6625e59d5fd60230cad",
+        "department": "Crew",
+        "job": "Video Assist Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4294186,
+        "known_for_department": "Camera",
+        "name": "Zvonimir Murković",
+        "original_name": "Zvonimir Murković",
+        "popularity": 0.0473,
+        "profile_path": null,
+        "credit_id": "68c6b66ef59f8f7a70230d2e",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5688583,
+        "known_for_department": "Lighting",
+        "name": "Franjo Mihaljević",
+        "original_name": "Franjo Mihaljević",
+        "popularity": 0.0945,
+        "profile_path": null,
+        "credit_id": "68c6b687f30ab16ee2a0f297",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5688584,
+        "known_for_department": "Lighting",
+        "name": "Matej Tomac",
+        "original_name": "Matej Tomac",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68c6b6956499207736a0f33b",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4866500,
+        "known_for_department": "Camera",
+        "name": "Ivor Pondelak",
+        "original_name": "Ivor Pondelak",
+        "popularity": 0.0895,
+        "profile_path": null,
+        "credit_id": "68c6b6a2820ba56d7b868300",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5688586,
+        "known_for_department": "Lighting",
+        "name": "Juraj Matej Ćurdo",
+        "original_name": "Juraj Matej Ćurdo",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68c6b6b23fb750dff6c8fe40",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5318145,
+        "known_for_department": "Sound",
+        "name": "Vjeko Zuhrić Novaković",
+        "original_name": "Vjeko Zuhrić Novaković",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "68c6b6c4cb949d677c868279",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5552189,
+        "known_for_department": "Sound",
+        "name": "Lukas Crvelin",
+        "original_name": "Lukas Crvelin",
+        "popularity": 0.1063,
+        "profile_path": null,
+        "credit_id": "68c6b714b6a08a9fa8e2fd30",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5688590,
+        "known_for_department": "Sound",
+        "name": "Juraj Franolić",
+        "original_name": "Juraj Franolić",
+        "popularity": 0.0433,
+        "profile_path": null,
+        "credit_id": "68c6b730e5f9eb9fccf21d69",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5552190,
+        "known_for_department": "Sound",
+        "name": "Bartul Mušura",
+        "original_name": "Bartul Mušura",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "68c6b73cf8a4fa7b29ca6e7e",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5688591,
+        "known_for_department": "Art",
+        "name": "Roman Fraj Sladoljev",
+        "original_name": "Roman Fraj Sladoljev",
+        "popularity": 0.3365,
+        "profile_path": null,
+        "credit_id": "68c6b769148db5a5cfca6ec4",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5552197,
+        "known_for_department": "Art",
+        "name": "Antonia Vuković",
+        "original_name": "Antonia Vuković",
+        "popularity": 0.0386,
+        "profile_path": null,
+        "credit_id": "68c6b7950d32650a3970d40e",
+        "department": "Art",
+        "job": "Assistant Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5552200,
+        "known_for_department": "Art",
+        "name": "Marija Kršlović",
+        "original_name": "Marija Kršlović",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "68c6b7a7a0653a5ec8a0f2a1",
+        "department": "Art",
+        "job": "Prop Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5552199,
+        "known_for_department": "Art",
+        "name": "Marin Tokić",
+        "original_name": "Marin Tokić",
+        "popularity": 0.0359,
+        "profile_path": null,
+        "credit_id": "68c6b7d6d75bd408f2ca6e60",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4294204,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Gleonnisse Pezzolato",
+        "original_name": "Gleonnisse Pezzolato",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68c6b7eef8a4fa7b29ca6e89",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4294199,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Tea Pavec",
+        "original_name": "Tea Pavec",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68c6b7ff7a47ccf5eb230c75",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4294199,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Tea Pavec",
+        "original_name": "Tea Pavec",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68c6b810e5f9eb9fccf21d71",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5688593,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Laura Veselinović",
+        "original_name": "Laura Veselinović",
+        "popularity": 0.0347,
+        "profile_path": null,
+        "credit_id": "68c6b824edfd735936868409",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5552179,
+        "known_for_department": "Camera",
+        "name": "Dominik Belančić",
+        "original_name": "Dominik Belančić",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68c6b839443932a125220585",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4294179,
+        "known_for_department": "Writing",
+        "name": "Luka Vukorepa",
+        "original_name": "Luka Vukorepa",
+        "popularity": 0.1671,
+        "profile_path": null,
+        "credit_id": "68c6b85143fd3ad95b220030",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4866470,
+        "known_for_department": "Sound",
+        "name": "Dino Divković",
+        "original_name": "Dino Divković",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "68c6b864af5f3484a8c8fef1",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4866470,
+        "known_for_department": "Sound",
+        "name": "Dino Divković",
+        "original_name": "Dino Divković",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "68c6b86f9966ace3a9e2fd22",
+        "department": "Crew",
+        "job": "Mixing Engineer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5378952,
+        "known_for_department": "Visual Effects",
+        "name": "Andrej Bucalo",
+        "original_name": "Andrej Bucalo",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68c6b87decc9623d31ca6deb",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "HR",
+        "iso_639_1": "hr",
+        "name": "Hrvatski",
+        "english_name": "Croatian",
+        "data": {
+          "homepage": "",
+          "overview": "Pri Klarinom odlasku od Tete i Majke, Teta joj zaplijeni novac za neuobičajenog psa vodiča.",
+          "runtime": 23,
+          "tagline": "Jedan posjet može promijeniti sve",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Short horror film.",
+          "runtime": 23,
+          "tagline": "",
+          "title": "Harvest"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt31434191",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "HR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-05-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

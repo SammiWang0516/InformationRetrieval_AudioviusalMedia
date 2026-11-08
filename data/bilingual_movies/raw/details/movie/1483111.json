@@ -1,0 +1,574 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 500,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1483111,
+  "imdb_id": null,
+  "origin_country": [
+    "IE"
+  ],
+  "original_language": "en",
+  "original_title": "The Watcher",
+  "overview": "A lonely man turns to virtual reality to escape his sad, boring life. In the virtual world, he discovers a new life and loses touch with the real world.",
+  "popularity": 0.7921,
+  "poster_path": "/x31PepyedEEDtu2G40E3CGtUCUy.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    }
+  ],
+  "release_date": "2025-04-29",
+  "revenue": 0,
+  "runtime": 16,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Watcher",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5389789,
+        "known_for_department": "Acting",
+        "name": "Josh Dowds",
+        "original_name": "Josh Dowds",
+        "popularity": 0.0781,
+        "profile_path": "/y7uQEK5cDIQrDjryqZOrRajLE1s.jpg",
+        "cast_id": 27,
+        "character": "Aaron Bell",
+        "credit_id": "682a0190b6024603140bd278",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5446849,
+        "known_for_department": "Acting",
+        "name": "Leila Keeney",
+        "original_name": "Leila Keeney",
+        "popularity": 0.1897,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Donna Bell",
+        "credit_id": "682a01a2cc923137c06489be",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5446852,
+        "known_for_department": "Acting",
+        "name": "Conor Thornton",
+        "original_name": "Conor Thornton",
+        "popularity": 0.1595,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Tadhg Bell",
+        "credit_id": "682a01b35211a914f28c0279",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5446853,
+        "known_for_department": "Acting",
+        "name": "Harley Cubberley",
+        "original_name": "Harley Cubberley",
+        "popularity": 0.2207,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Kerry Burke",
+        "credit_id": "682a01ca4321d6b1069e32d5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4408346,
+        "known_for_department": "Acting",
+        "name": "Fergus Keane",
+        "original_name": "Fergus Keane",
+        "popularity": 0.1773,
+        "profile_path": "/w4wBPGGs1b0WqwXbG9GALvJ4oZs.jpg",
+        "cast_id": 31,
+        "character": "Tommy Sweeney",
+        "credit_id": "682a01d9832e03ca62e246ec",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5446855,
+        "known_for_department": "Acting",
+        "name": "Office Worker",
+        "original_name": "Office Worker",
+        "popularity": 0.1032,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Owen McKevett",
+        "credit_id": "682a01eaf7bf2e09def5589b",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5446420,
+        "known_for_department": "Directing",
+        "name": "Tim Nolan",
+        "original_name": "Tim Nolan",
+        "popularity": 0.1277,
+        "profile_path": null,
+        "credit_id": "6829b9a2bdd07163dd2f6f91",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5446421,
+        "known_for_department": "Writing",
+        "name": "Tim Nolan",
+        "original_name": "Tim Nolan",
+        "popularity": 0.1226,
+        "profile_path": null,
+        "credit_id": "6829b9b3bdd07163dd2f6f9a",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5446424,
+        "known_for_department": "Crew",
+        "name": "Oksana Vitsinska",
+        "original_name": "Oksana Vitsinska",
+        "popularity": 0.083,
+        "profile_path": null,
+        "credit_id": "6829ba089ab81af505f556b3",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5446427,
+        "known_for_department": "Camera",
+        "name": "Oksana Vitskinska",
+        "original_name": "Oksana Vitskinska",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6829ba5f1a38ecabcb2f6f17",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5347137,
+        "known_for_department": "Camera",
+        "name": "Luka Stack",
+        "original_name": "Luka Stack",
+        "popularity": 0.0968,
+        "profile_path": null,
+        "credit_id": "6829ba77a926e745695b5476",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5446431,
+        "known_for_department": "Camera",
+        "name": "Tim Nolan",
+        "original_name": "Tim Nolan",
+        "popularity": 0.0574,
+        "profile_path": null,
+        "credit_id": "6829ba8d1aa70e5c389e325a",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5347137,
+        "known_for_department": "Camera",
+        "name": "Luka Stack",
+        "original_name": "Luka Stack",
+        "popularity": 0.0968,
+        "profile_path": null,
+        "credit_id": "6829bb499d572efec60bd3a2",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5347136,
+        "known_for_department": "Camera",
+        "name": "Sam Barron",
+        "original_name": "Sam Barron",
+        "popularity": 0.0523,
+        "profile_path": null,
+        "credit_id": "6829bb7507605cb2a60bd443",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5446438,
+        "known_for_department": "Sound",
+        "name": "Conor Nolan",
+        "original_name": "Conor Nolan",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6829bb9fd9192568c18c04b4",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5346999,
+        "known_for_department": "Directing",
+        "name": "Charlie Leonard",
+        "original_name": "Charlie Leonard",
+        "popularity": 0.0788,
+        "profile_path": null,
+        "credit_id": "6829bbc984c17c112f8c0267",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5446441,
+        "known_for_department": "Directing",
+        "name": "Luka Stack",
+        "original_name": "Luka Stack",
+        "popularity": 0.0772,
+        "profile_path": null,
+        "credit_id": "6829bbeef0c5ed6dbd9e3080",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5347136,
+        "known_for_department": "Camera",
+        "name": "Sam Barron",
+        "original_name": "Sam Barron",
+        "popularity": 0.0523,
+        "profile_path": null,
+        "credit_id": "6829bc1d7d5cfbe96b0bd328",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5446442,
+        "known_for_department": "Directing",
+        "name": "Tom Lucas",
+        "original_name": "Tom Lucas",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "6829bc39c78f4532bf2f6f28",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5446830,
+        "known_for_department": "Production",
+        "name": "Tim Nolan",
+        "original_name": "Tim Nolan",
+        "popularity": 0.0463,
+        "profile_path": null,
+        "credit_id": "682a003d46b87340b12f7056",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5446832,
+        "known_for_department": "Camera",
+        "name": "Sam Barron",
+        "original_name": "Sam Barron",
+        "popularity": 0.0554,
+        "profile_path": null,
+        "credit_id": "682a0062eeec5423d90bd3a8",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5446833,
+        "known_for_department": "Camera",
+        "name": "Tom Lucas",
+        "original_name": "Tom Lucas",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "682a007108249d48190bd563",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5446834,
+        "known_for_department": "Editing",
+        "name": "Tim Nolan",
+        "original_name": "Tim Nolan",
+        "popularity": 0.0631,
+        "profile_path": null,
+        "credit_id": "682a00945ca7f2b329e2476a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5446836,
+        "known_for_department": "Sound",
+        "name": "Tim Nolan",
+        "original_name": "Tim Nolan",
+        "popularity": 0.0798,
+        "profile_path": null,
+        "credit_id": "682a00a0e19cab56120bd3f3",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5446837,
+        "known_for_department": "Editing",
+        "name": "Tim Nolan",
+        "original_name": "Tim Nolan",
+        "popularity": 0.1073,
+        "profile_path": null,
+        "credit_id": "682a00c31245855917db29c5",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5446839,
+        "known_for_department": "Art",
+        "name": "Tim Nolan",
+        "original_name": "Tim Nolan",
+        "popularity": 0.0611,
+        "profile_path": null,
+        "credit_id": "682a00d680692bab556489af",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5446840,
+        "known_for_department": "Visual Effects",
+        "name": "Tim Nolan",
+        "original_name": "Tim Nolan",
+        "popularity": 0.0663,
+        "profile_path": null,
+        "credit_id": "682a00ef989cf65c7edb272d",
+        "department": "Visual Effects",
+        "job": "VFX Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5446841,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sadhbh Redford",
+        "original_name": "Sadhbh Redford",
+        "popularity": 0.0658,
+        "profile_path": null,
+        "credit_id": "682a01073a422b7e335b54e8",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5446842,
+        "known_for_department": "Crew",
+        "name": "Mags Nolan",
+        "original_name": "Mags Nolan",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "682a01192d841d6a612f6fb1",
+        "department": "Crew",
+        "job": "Catering"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5446844,
+        "known_for_department": "Crew",
+        "name": "Mags Nolan",
+        "original_name": "Mags Nolan",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "682a0149a91b6791f7648941",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5446845,
+        "known_for_department": "Art",
+        "name": "Conor Nolan",
+        "original_name": "Conor Nolan",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "682a0163a29c81f3e1f558b1",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5446848,
+        "known_for_department": "Art",
+        "name": "Tim Nolan",
+        "original_name": "Tim Nolan",
+        "popularity": 0.0513,
+        "profile_path": null,
+        "credit_id": "682a017303dc7f4ef2db2842",
+        "department": "Art",
+        "job": "Props"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 4563,
+        "name": "virtual reality"
+      },
+      {
+        "id": 5306,
+        "name": "boss"
+      },
+      {
+        "id": 9673,
+        "name": "love"
+      },
+      {
+        "id": 18035,
+        "name": "family"
+      },
+      {
+        "id": 167104,
+        "name": "loner"
+      },
+      {
+        "id": 324700,
+        "name": "classic"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "A lonely man turns to virtual reality to escape his sad, boring life. In the virtual world, he discovers a new life and loses touch with the real world.",
+          "runtime": 16,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.675,
+        "height": 2963,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/x31PepyedEEDtu2G40E3CGtUCUy.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2025-04-29T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

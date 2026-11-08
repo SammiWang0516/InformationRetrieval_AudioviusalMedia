@@ -1,0 +1,684 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 1551563,
+  "imdb_id": null,
+  "origin_country": [
+    "IE"
+  ],
+  "original_language": "en",
+  "original_title": "Hostile Architecture",
+  "overview": "Without a place of their own, trans lovers Grace and Billy find intimacy in an extra-dimensional room; but just like the city outside, the room itself threatens to swallow them whole.",
+  "popularity": 0.7648,
+  "poster_path": "/xHTAvuosrLV7Iv6IcSYQhoi7rLM.jpg",
+  "production_companies": [
+    {
+      "id": 307110,
+      "logo_path": null,
+      "name": "Jaxbanded",
+      "origin_country": ""
+    },
+    {
+      "id": 195868,
+      "logo_path": null,
+      "name": "Colette's Garage",
+      "origin_country": ""
+    },
+    {
+      "id": 298794,
+      "logo_path": "/uC3MgzZj47s11sNi1D8HGcJnbTY.png",
+      "name": "Pink Eye Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2026-10-31",
+  "revenue": 0,
+  "runtime": 15,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Hostile Architecture",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4144563,
+        "known_for_department": "Acting",
+        "name": "Liath Hannon",
+        "original_name": "Liath Hannon",
+        "popularity": 0.1197,
+        "profile_path": "/4ExIW1nEh1oXR4PcS7TOpgsLyzI.jpg",
+        "cast_id": 1,
+        "character": "Grace",
+        "credit_id": "68d7f4a697406a9834e1b28a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2519329,
+        "known_for_department": "Acting",
+        "name": "Pete MacHale",
+        "original_name": "Pete MacHale",
+        "popularity": 0.1191,
+        "profile_path": "/9j5EE1WOu5pKiuR3FT687T1tL0R.jpg",
+        "cast_id": 2,
+        "character": "Billy",
+        "credit_id": "68d7f4afcdab94575f52ff1f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5966090,
+        "known_for_department": "Acting",
+        "name": "Ruairí Nicholl",
+        "original_name": "Ruairí Nicholl",
+        "popularity": 0.0963,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Niall",
+        "credit_id": "6978cc78ef6e956254a37ba5",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5966092,
+        "known_for_department": "Acting",
+        "name": "Melissa Hudson",
+        "original_name": "Melissa Hudson",
+        "popularity": 0.195,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Mam",
+        "credit_id": "6978cc80f0dd2a8abf089193",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4214956,
+        "known_for_department": "Directing",
+        "name": "Liadán Roche",
+        "original_name": "Liadán Roche",
+        "popularity": 0.1038,
+        "profile_path": null,
+        "credit_id": "68d7f4c4bd66200ffd38b60d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4214987,
+        "known_for_department": "Production",
+        "name": "James Hudson",
+        "original_name": "James Hudson",
+        "popularity": 0.1874,
+        "profile_path": null,
+        "credit_id": "68d7f4cf76719c573ee1be6f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4214956,
+        "known_for_department": "Directing",
+        "name": "Liadán Roche",
+        "original_name": "Liadán Roche",
+        "popularity": 0.1038,
+        "profile_path": null,
+        "credit_id": "68d7f4d9004e86a2a1e1bec5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4214987,
+        "known_for_department": "Production",
+        "name": "James Hudson",
+        "original_name": "James Hudson",
+        "popularity": 0.1874,
+        "profile_path": null,
+        "credit_id": "68d7f4e3bd66200ffd38b614",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5714751,
+        "known_for_department": "Production",
+        "name": "Ois O'Donoghue",
+        "original_name": "Ois O'Donoghue",
+        "popularity": 0.0621,
+        "profile_path": null,
+        "credit_id": "68d7f50c08335f4e5e2de094",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3864242,
+        "known_for_department": "Directing",
+        "name": "Hiram Harrington",
+        "original_name": "Hiram Harrington",
+        "popularity": 0.0529,
+        "profile_path": null,
+        "credit_id": "68d7f55095db2d4b0dc75a19",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5672166,
+        "known_for_department": "Acting",
+        "name": "Murky Anyango",
+        "original_name": "Murky Anyango",
+        "popularity": 0.0776,
+        "profile_path": null,
+        "credit_id": "68d7f5711e26b5fddce1b407",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3867742,
+        "known_for_department": "Editing",
+        "name": "Conor Toner",
+        "original_name": "Conor Toner",
+        "popularity": 0.0814,
+        "profile_path": null,
+        "credit_id": "697bb04a8ef393056fc21a2c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4214987,
+        "known_for_department": "Production",
+        "name": "James Hudson",
+        "original_name": "James Hudson",
+        "popularity": 0.1874,
+        "profile_path": null,
+        "credit_id": "6a79eeee5abc221cc76cca58",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4214956,
+        "known_for_department": "Directing",
+        "name": "Liadán Roche",
+        "original_name": "Liadán Roche",
+        "popularity": 0.1038,
+        "profile_path": null,
+        "credit_id": "6a79eefc629ef7c6ba8f3959",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4214987,
+        "known_for_department": "Production",
+        "name": "James Hudson",
+        "original_name": "James Hudson",
+        "popularity": 0.1874,
+        "profile_path": null,
+        "credit_id": "6a79ef0545546d97d98f3a66",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1771093,
+        "known_for_department": "Acting",
+        "name": "Thomas Purdy",
+        "original_name": "Thomas Purdy",
+        "popularity": 0.1802,
+        "profile_path": null,
+        "credit_id": "6a79ef162ed8579a942c6835",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3491515,
+        "known_for_department": "Directing",
+        "name": "Henry Hanson",
+        "original_name": "Henry Hanson",
+        "popularity": 0.1437,
+        "profile_path": "/sbUO9jkAvlVR91ouqP6qsEQpofc.jpg",
+        "credit_id": "6a79ef228dcfc94b593b158d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3667863,
+        "known_for_department": "Camera",
+        "name": "Alba Fernandez",
+        "original_name": "Alba Fernandez",
+        "popularity": 0.3111,
+        "profile_path": "/6yjqAkJ5XRJmMpBGCIe6dBMoQei.jpg",
+        "credit_id": "6a79ef56006b39be1c49d5ba",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6402510,
+        "known_for_department": "Art",
+        "name": "Sasha Fitzherbert",
+        "original_name": "Sasha Fitzherbert",
+        "popularity": 0.0347,
+        "profile_path": null,
+        "credit_id": "6a79ef90f7f762d4248f3afe",
+        "department": "Art",
+        "job": "Assistant Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6402511,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Lex Dux",
+        "original_name": "Lex Dux",
+        "popularity": 0.0835,
+        "profile_path": null,
+        "credit_id": "6a79efa33a69574246f57ec7",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6402512,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Lars Reeve-Tucker",
+        "original_name": "Lars Reeve-Tucker",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6a79efb6c6e12e14808f3b7c",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6402515,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Bronagh Dowling",
+        "original_name": "Bronagh Dowling",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "6a79efcdf275b9c0125f9a1a",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2849638,
+        "known_for_department": "Production",
+        "name": "Ben Spillane",
+        "original_name": "Ben Spillane",
+        "popularity": 0.1441,
+        "profile_path": null,
+        "credit_id": "6a79efe14e491d8915f57d86",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3867742,
+        "known_for_department": "Editing",
+        "name": "Conor Toner",
+        "original_name": "Conor Toner",
+        "popularity": 0.0814,
+        "profile_path": null,
+        "credit_id": "6a79efee2ed8579a942c683c",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4035066,
+        "known_for_department": "Acting",
+        "name": "Sinead Cassidy Holt",
+        "original_name": "Sinead Cassidy Holt",
+        "popularity": 0.2632,
+        "profile_path": null,
+        "credit_id": "6a79f0028347a915036cc858",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2849616,
+        "known_for_department": "Camera",
+        "name": "Jakub Bajerski",
+        "original_name": "Jakub Bajerski",
+        "popularity": 0.2741,
+        "profile_path": null,
+        "credit_id": "6a79f011a04d1b536d94888f",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6402517,
+        "known_for_department": "Camera",
+        "name": "Elena Bridgeman",
+        "original_name": "Elena Bridgeman",
+        "popularity": 0.0928,
+        "profile_path": null,
+        "credit_id": "6a79f01a154e00338b90db84",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5749929,
+        "known_for_department": "Directing",
+        "name": "Alex Monaghan",
+        "original_name": "Alex Monaghan",
+        "popularity": 0.0917,
+        "profile_path": null,
+        "credit_id": "6a79f0328dcfc94b593b159d",
+        "department": "Camera",
+        "job": "Camera Trainee"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5756873,
+        "known_for_department": "Camera",
+        "name": "Boróka Hegyi",
+        "original_name": "Boróka Hegyi",
+        "popularity": 0.0365,
+        "profile_path": null,
+        "credit_id": "6a79f043726a63429094896e",
+        "department": "Camera",
+        "job": "Camera Trainee"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5676497,
+        "known_for_department": "Crew",
+        "name": "Ashley Casey",
+        "original_name": "Ashley Casey",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a79f050d624a212d390d9d4",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6237864,
+        "known_for_department": "Production",
+        "name": "Claire Schmidt",
+        "original_name": "Claire Schmidt",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6a79f06384590e91d090db97",
+        "department": "Lighting",
+        "job": "Lighting Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6326845,
+        "known_for_department": "Sound",
+        "name": "Danilo Zambrano",
+        "original_name": "Danilo Zambrano",
+        "popularity": 0.1665,
+        "profile_path": null,
+        "credit_id": "6a79f076006b39be1c49d5d3",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5800897,
+        "known_for_department": "Sound",
+        "name": "Will Henley",
+        "original_name": "Will Henley",
+        "popularity": 0.1619,
+        "profile_path": null,
+        "credit_id": "6a79f084c9e158ecac2c6761",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4560789,
+        "known_for_department": "Sound",
+        "name": "Em Edwards",
+        "original_name": "Em Edwards",
+        "popularity": 0.0917,
+        "profile_path": null,
+        "credit_id": "6a79f0a12541b7ba5f49d682",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6402519,
+        "known_for_department": "Editing",
+        "name": "Lexie",
+        "original_name": "Lexie",
+        "popularity": 0.0801,
+        "profile_path": null,
+        "credit_id": "6a79f0b7e30d79de242c6846",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6402520,
+        "known_for_department": "Visual Effects",
+        "name": "Lexie",
+        "original_name": "Lexie",
+        "popularity": 0.0422,
+        "profile_path": null,
+        "credit_id": "6a79f0cacacf82187b6ccb3f",
+        "department": "Visual Effects",
+        "job": "VFX Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6402523,
+        "known_for_department": "Production",
+        "name": "Molly Phenom",
+        "original_name": "Molly Phenom",
+        "popularity": 0.0437,
+        "profile_path": null,
+        "credit_id": "6a79f0f1629ef7c6ba8f3991",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6402523,
+        "known_for_department": "Production",
+        "name": "Molly Phenom",
+        "original_name": "Molly Phenom",
+        "popularity": 0.0437,
+        "profile_path": null,
+        "credit_id": "6a79f11084590e91d090dbad",
+        "department": "Camera",
+        "job": "BTS Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6402527,
+        "known_for_department": "Camera",
+        "name": "Méabh Jade Bourke",
+        "original_name": "Méabh Jade Bourke",
+        "popularity": 0.0615,
+        "profile_path": null,
+        "credit_id": "6a79f1258dd8cb9c2e5f9bd9",
+        "department": "Camera",
+        "job": "BTS Photographer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Without a place of their own, trans lovers Grace and Billy find intimacy in an extra-dimensional room; but just like the city outside, the room itself threatens to swallow them whole.",
+          "runtime": 15,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 2250,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/xHTAvuosrLV7Iv6IcSYQhoi7rLM.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1500
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 750,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/sZK80QKQPV0wIwyaTgjnaxmWjXK.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 500
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 750,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/r1rtPSFwYj7Lj1OagWWusFXzgSX.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 500
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "Belfast Film Festival 2026",
+            "release_date": "2026-10-31T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "Cork International Film Festival 2026",
+            "release_date": "2026-11-17T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

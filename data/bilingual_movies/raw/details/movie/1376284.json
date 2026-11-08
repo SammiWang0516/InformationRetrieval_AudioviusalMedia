@@ -1,0 +1,826 @@
+{
+  "adult": false,
+  "backdrop_path": "/al9Y83q7rbMoJrRYck7vRrP042p.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1376284,
+  "imdb_id": "tt21154812",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Julia Set",
+  "overview": "Julia, a gifted mathematician, navigates the cutthroat world of academia. Pascal, a teaching assistant, recruits her to join an exclusive training program for the prestigious and notoriously difficult Putnam mathematics competition.",
+  "popularity": 0.9476,
+  "poster_path": "/vyxXaFMQfeMctbQdpcapiFJOHmH.jpg",
+  "production_companies": [
+    {
+      "id": 3672,
+      "logo_path": "/xpRwVe9NL5791oyUidzeRp8ezGj.png",
+      "name": "The Gotham Group",
+      "origin_country": "US"
+    },
+    {
+      "id": 197456,
+      "logo_path": null,
+      "name": "IF/Then",
+      "origin_country": ""
+    },
+    {
+      "id": 2395,
+      "logo_path": "/pZz4qs03FtP6UGtZ3hjQ6qimcwi.png",
+      "name": "HanWay Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 181611,
+      "logo_path": null,
+      "name": "Cinetrain",
+      "origin_country": "CH"
+    },
+    {
+      "id": 180885,
+      "logo_path": "/wWBAwCrVVw02jvxdWuo5ZfuOzKg.png",
+      "name": "Melograno Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 274685,
+      "logo_path": "/dOi8cmvTdZbVFLidw11eR04XSUN.png",
+      "name": "Vacancy Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "CH",
+      "name": "Switzerland"
+    }
+  ],
+  "release_date": "2026-09-11",
+  "revenue": 0,
+  "runtime": 112,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Julia Set",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3914706,
+        "known_for_department": "Acting",
+        "name": "Chase Infiniti",
+        "original_name": "Chase Infiniti",
+        "popularity": 1.6937,
+        "profile_path": "/2goENGgg9OCz7qjMmm0HNxV9Kjj.jpg",
+        "cast_id": 2,
+        "character": "Julia",
+        "credit_id": "671a4ceee833d92ef05fddef",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3031442,
+        "known_for_department": "Acting",
+        "name": "Christopher Briney",
+        "original_name": "Christopher Briney",
+        "popularity": 1.739,
+        "profile_path": "/1M21pqg3Lf8n6gwI9l9RX1PuPjw.jpg",
+        "cast_id": 6,
+        "character": "Pascal",
+        "credit_id": "68f7ddc14c57ef30dc608e65",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 12214,
+        "known_for_department": "Acting",
+        "name": "Gillian Anderson",
+        "original_name": "Gillian Anderson",
+        "popularity": 4.4849,
+        "profile_path": "/3Ny8ZYahb33vpqNEPNCE2IOXPew.jpg",
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "68f7ddd3f22f7b2563608eb3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11355,
+        "known_for_department": "Acting",
+        "name": "Jason Isaacs",
+        "original_name": "Jason Isaacs",
+        "popularity": 3.6183,
+        "profile_path": "/s6XRFjqUsrDJfDQuXPOoExAYPmb.jpg",
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "68f7dde25c1f051c44dbc16d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 681,
+        "known_for_department": "Acting",
+        "name": "Nina Hoss",
+        "original_name": "Nina Hoss",
+        "popularity": 2.1686,
+        "profile_path": "/qVmgHUAPWAAUEtZ4s4asd9xK0hZ.jpg",
+        "cast_id": 30,
+        "character": "",
+        "credit_id": "690114f1bcbe08f958fb7827",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 86800,
+        "known_for_department": "Acting",
+        "name": "Chlöe Bailey",
+        "original_name": "Chlöe Bailey",
+        "popularity": 1.186,
+        "profile_path": "/mZxukGTNv2FEZxWvnLGgBRpyMwr.jpg",
+        "cast_id": 31,
+        "character": "",
+        "credit_id": "690114fc9927659bc3bbfc95",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 37158,
+        "known_for_department": "Acting",
+        "name": "Carmen Ejogo",
+        "original_name": "Carmen Ejogo",
+        "popularity": 1.9649,
+        "profile_path": "/b2qi5NxOwoxK67LPz0MjVwjRcFp.jpg",
+        "cast_id": 32,
+        "character": "",
+        "credit_id": "69011508a114872dc6bbfd5a",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2027704,
+        "known_for_department": "Acting",
+        "name": "Nico Hiraga",
+        "original_name": "Nico Hiraga",
+        "popularity": 0.8763,
+        "profile_path": "/yd1Hx3C7BTevy3zvyGXUwtwvSft.jpg",
+        "cast_id": 33,
+        "character": "",
+        "credit_id": "69011514ce5a5c277ac3e2f4",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3420452,
+        "known_for_department": "Acting",
+        "name": "Liz Lin",
+        "original_name": "Liz Lin",
+        "popularity": 0.1634,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "",
+        "credit_id": "690115200890ed3f3a4e935e",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5780068,
+        "known_for_department": "Acting",
+        "name": "Alex Dillard",
+        "original_name": "Alex Dillard",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "",
+        "credit_id": "6901153af9ca7fc67ffb78d6",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3775285,
+        "known_for_department": "Acting",
+        "name": "Gassan Abdulrazek",
+        "original_name": "Gassan Abdulrazek",
+        "popularity": 0.3113,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Raven",
+        "credit_id": "69b8c3bdb597263aac5ca838",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4190385,
+        "known_for_department": "Acting",
+        "name": "Jem Matthews",
+        "original_name": "Jem Matthews",
+        "popularity": 0.5385,
+        "profile_path": "/BzRhJsjvDuGB7wsSuki8zvSVyM.jpg",
+        "cast_id": 38,
+        "character": "Angus",
+        "credit_id": "69b8c3c847798715fc08f8d5",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1394333,
+        "known_for_department": "Acting",
+        "name": "Dilyana Bouklieva",
+        "original_name": "Dilyana Bouklieva",
+        "popularity": 0.1414,
+        "profile_path": "/lbQBQWnn9hBV1r3tZbRjlGw3IiW.jpg",
+        "cast_id": 39,
+        "character": "Nurse",
+        "credit_id": "69b8c3d2642d082de35ca7df",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6076988,
+        "known_for_department": "Acting",
+        "name": "Leonardo Khan",
+        "original_name": "Leonardo Khan",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Chad",
+        "credit_id": "69b8c3ec991a7daada95fd3c",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5453397,
+        "known_for_department": "Acting",
+        "name": "Shane Afolabi",
+        "original_name": "Shane Afolabi",
+        "popularity": 0.2922,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Movie Theatre Boss",
+        "credit_id": "69b8c4e048de72271ea64019",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2398647,
+        "known_for_department": "Acting",
+        "name": "Ethan Leyland",
+        "original_name": "Ethan Leyland",
+        "popularity": 0.1782,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "Jock",
+        "credit_id": "69b8c4ea9e9086fa0a5a7aaa",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2029018,
+        "known_for_department": "Acting",
+        "name": "Fabrizio Matteini",
+        "original_name": "Fabrizio Matteini",
+        "popularity": 0.104,
+        "profile_path": "/xWpTEuKSxbLPlVLovL8v3esgFVC.jpg",
+        "cast_id": 43,
+        "character": "Giorgio",
+        "credit_id": "69b8c4f5aafd15e035960055",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6076990,
+        "known_for_department": "Acting",
+        "name": "Oscar Greenwood",
+        "original_name": "Oscar Greenwood",
+        "popularity": 0.1121,
+        "profile_path": null,
+        "cast_id": 44,
+        "character": "Student",
+        "credit_id": "69b8c4feb7450a1fb60202af",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2860850,
+        "known_for_department": "Acting",
+        "name": "Karl Farrer",
+        "original_name": "Karl Farrer",
+        "popularity": 0.3814,
+        "profile_path": null,
+        "cast_id": 45,
+        "character": "Diner (uncredited)",
+        "credit_id": "69b8c5169b5a9d785521e3b9",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2545219,
+        "known_for_department": "Acting",
+        "name": "Maurice Sardison",
+        "original_name": "Maurice Sardison",
+        "popularity": 0.0695,
+        "profile_path": "/lMZGskZZasQFXgnaDk7BLtZZQhH.jpg",
+        "cast_id": 46,
+        "character": "Cinema-goer (uncredited)",
+        "credit_id": "69b8c52674b23bd5e521e455",
+        "order": 19
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3543414,
+        "known_for_department": "Directing",
+        "name": "Niki Byrne",
+        "original_name": "Niki Byrne",
+        "popularity": 0.3896,
+        "profile_path": "/nPyHOh0pfQSlrYikbvOtIvx39Dy.jpg",
+        "credit_id": "671a4d014be15469e70d879f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3543414,
+        "known_for_department": "Directing",
+        "name": "Niki Byrne",
+        "original_name": "Niki Byrne",
+        "popularity": 0.3896,
+        "profile_path": "/nPyHOh0pfQSlrYikbvOtIvx39Dy.jpg",
+        "credit_id": "671a4d0c2685cb6563c0a46e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1824499,
+        "known_for_department": "Production",
+        "name": "Jeffrey Penman",
+        "original_name": "Jeffrey Penman",
+        "popularity": 0.3452,
+        "profile_path": null,
+        "credit_id": "68f7de5ac732cd54c8cac1bc",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1257754,
+        "known_for_department": "Production",
+        "name": "Ellen Goldsmith-Vein",
+        "original_name": "Ellen Goldsmith-Vein",
+        "popularity": 0.2483,
+        "profile_path": null,
+        "credit_id": "68f7de73ec72073a83482cc3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1328142,
+        "known_for_department": "Production",
+        "name": "Lee Stollman",
+        "original_name": "Lee Stollman",
+        "popularity": 0.4017,
+        "profile_path": "/whwcbXPUmybVWi9WiUfNTzhfetR.jpg",
+        "credit_id": "68f7de85215765e44b9d214a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 12214,
+        "known_for_department": "Acting",
+        "name": "Gillian Anderson",
+        "original_name": "Gillian Anderson",
+        "popularity": 4.4849,
+        "profile_path": "/3Ny8ZYahb33vpqNEPNCE2IOXPew.jpg",
+        "credit_id": "68f7deabdbc6713e6ddbc16e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5763881,
+        "known_for_department": "Production",
+        "name": "Nick Scherma",
+        "original_name": "Nick Scherma",
+        "popularity": 0.0616,
+        "profile_path": null,
+        "credit_id": "68f7ded04c57ef30dc608e82",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3731400,
+        "known_for_department": "Production",
+        "name": "Tayler Haynes",
+        "original_name": "Tayler Haynes",
+        "popularity": 0.0608,
+        "profile_path": null,
+        "credit_id": "68f7dee10a1d989a9aea18da",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2016906,
+        "known_for_department": "Production",
+        "name": "Andrey Epifanov",
+        "original_name": "Андрей Епифанов",
+        "popularity": 0.2396,
+        "profile_path": "/zyW0RUKlPyAjG6CDsVprdrzbYS7.jpg",
+        "credit_id": "68f7deef9796b88934608e93",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4151803,
+        "known_for_department": "Production",
+        "name": "Eleonora Granata-Jenkinson",
+        "original_name": "Eleonora Granata-Jenkinson",
+        "popularity": 0.049,
+        "profile_path": null,
+        "credit_id": "68f7defeca3988625ad3b75a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5763892,
+        "known_for_department": "Production",
+        "name": "Nicole G. Small",
+        "original_name": "Nicole G. Small",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "68f7df339cf01156bbb904a1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3435391,
+        "known_for_department": "Acting",
+        "name": "Margaret Black",
+        "original_name": "Margaret Black",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "68f7df474a936746669d210f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2872515,
+        "known_for_department": "Production",
+        "name": "Cecily Colahan",
+        "original_name": "Cecily Colahan",
+        "popularity": 0.1375,
+        "profile_path": null,
+        "credit_id": "68f7df845c1f051c44dbc183",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3914706,
+        "known_for_department": "Acting",
+        "name": "Chase Infiniti",
+        "original_name": "Chase Infiniti",
+        "popularity": 1.6937,
+        "profile_path": "/2goENGgg9OCz7qjMmm0HNxV9Kjj.jpg",
+        "credit_id": "68f7df95d7875e352a9d2123",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5763899,
+        "known_for_department": "Production",
+        "name": "Gabriel Jenkinson",
+        "original_name": "Gabriel Jenkinson",
+        "popularity": 0.0691,
+        "profile_path": null,
+        "credit_id": "68f7dfa6ea1e48ed1f805390",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3026331,
+        "known_for_department": "Production",
+        "name": "Lauren Beveridge",
+        "original_name": "Lauren Beveridge",
+        "popularity": 0.1174,
+        "profile_path": "/odWzBgNP5hrgHWSFfYb7y9JGsPj.jpg",
+        "credit_id": "68f7dfb87b364c4e53805358",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5763900,
+        "known_for_department": "Production",
+        "name": "Art Williams",
+        "original_name": "Art Williams",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68f7dfe39555367e64482cb7",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5763902,
+        "known_for_department": "Production",
+        "name": "David Fensterstock",
+        "original_name": "David Fensterstock",
+        "popularity": 0.0358,
+        "profile_path": null,
+        "credit_id": "68f7dff772521a4b6080536f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17175,
+        "known_for_department": "Camera",
+        "name": "Antonio Calvache",
+        "original_name": "Antonio Calvache",
+        "popularity": 0.2107,
+        "profile_path": null,
+        "credit_id": "68f7e015dd225c5caa608eae",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1484,
+        "known_for_department": "Production",
+        "name": "Ellen Chenoweth",
+        "original_name": "Ellen Chenoweth",
+        "popularity": 0.4693,
+        "profile_path": "/5zpVcxrqZXyOForETn5UeOJ8j4w.jpg",
+        "credit_id": "68f7e027f65ab45b53608e8e",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1603188,
+        "known_for_department": "Production",
+        "name": "Susanne Scheel",
+        "original_name": "Susanne Scheel",
+        "popularity": 0.2572,
+        "profile_path": null,
+        "credit_id": "68f7e033c1db2cbebf608ef4",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2560597,
+        "known_for_department": "Art",
+        "name": "Amy Maguire",
+        "original_name": "Amy Maguire",
+        "popularity": 0.0949,
+        "profile_path": null,
+        "credit_id": "68f7e04259c467b3da608ec9",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1287668,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Guy Speranza",
+        "original_name": "Guy Speranza",
+        "popularity": 0.164,
+        "profile_path": null,
+        "credit_id": "68f7e060fce6abeacd608eca",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1760490,
+        "known_for_department": "Art",
+        "name": "Teddy Blanks",
+        "original_name": "Teddy Blanks",
+        "popularity": 0.3934,
+        "profile_path": "/cgGmqpbiEWxx2eWejXfgZTF0Xrz.jpg",
+        "credit_id": "69065a5942d3d7b733dd81fd",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1555324,
+        "known_for_department": "Editing",
+        "name": "James LeSage",
+        "original_name": "James LeSage",
+        "popularity": 0.2044,
+        "profile_path": null,
+        "credit_id": "6a63a5155a1c78d34f338a3a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2181305,
+        "known_for_department": "Sound",
+        "name": "Herdís Stefánsdóttir",
+        "original_name": "Herdís Stefánsdóttir",
+        "popularity": 0.1489,
+        "profile_path": "/sgeQAH7I8sCxkdmAINCVbxhQKHv.jpg",
+        "credit_id": "6a92239d404e975caa7c6c0e",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 233130,
+        "known_for_department": "Sound",
+        "name": "Dustin O'Halloran",
+        "original_name": "Dustin O'Halloran",
+        "popularity": 0.2173,
+        "profile_path": "/jUoREoQoh69lfHJ2zSGteV1JobP.jpg",
+        "credit_id": "6a9223e1b5a783f8a07c6c19",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Julia, a gifted mathematician, navigates the cutthroat world of academia. Pascal, a teaching assistant, recruits her to join an exclusive training program for the prestigious and notoriously difficult Putnam mathematics competition.",
+          "runtime": 112,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt21154812",
+    "wikidata_id": "Q136558778",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/al9Y83q7rbMoJrRYck7vRrP042p.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.669,
+        "height": 1098,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/vyxXaFMQfeMctbQdpcapiFJOHmH.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 735
+      },
+      {
+        "aspect_ratio": 0.675,
+        "height": 1481,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/pDTx1KXXQ24Z7tGFKDokEOzA34p.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/6FoU0sW0slU8Yr3s96DpD7KWaKx.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Toronto International Film Festival",
+            "release_date": "2026-09-11T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

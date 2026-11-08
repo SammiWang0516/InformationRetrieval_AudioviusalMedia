@@ -1,0 +1,318 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 1788743,
+  "imdb_id": null,
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Casa mia",
+  "overview": "",
+  "popularity": 0.553,
+  "poster_path": "/5GiSoYUYyuvvtOnNKeCLlARVHBo.jpg",
+  "production_companies": [
+    {
+      "id": 313244,
+      "logo_path": null,
+      "name": "Istituto Cinematografico Michelangelo Antonioni",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2026-10-11",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "Casa mia",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6513616,
+        "known_for_department": "Camera",
+        "name": "Manuel Crugnola",
+        "original_name": "Manuel Crugnola",
+        "popularity": 0.1268,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Manuel",
+        "credit_id": "6ac388ece24d7a00344558c7",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6527339,
+        "known_for_department": "Acting",
+        "name": "Carmen Sara Francocci",
+        "original_name": "Carmen Sara Francocci",
+        "popularity": 0.1081,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "mamma",
+        "credit_id": "6ac38909f29ad927dbdcca94",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6527340,
+        "known_for_department": "Acting",
+        "name": "Gianfranco Francocci",
+        "original_name": "Gianfranco Francocci",
+        "popularity": 0.0903,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "nonno",
+        "credit_id": "6ac3891685f0556a5003cb84",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6527341,
+        "known_for_department": "Acting",
+        "name": "Rachele Piscia",
+        "original_name": "Rachele Piscia",
+        "popularity": 0.2241,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "nonna",
+        "credit_id": "6ac38922aba5d6884803cd35",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6513616,
+        "known_for_department": "Camera",
+        "name": "Manuel Crugnola",
+        "original_name": "Manuel Crugnola",
+        "popularity": 0.1268,
+        "profile_path": null,
+        "credit_id": "6ac387c9bac5d97ce745584d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6513615,
+        "known_for_department": "Camera",
+        "name": "Riccardo Bossi",
+        "original_name": "Riccardo Bossi",
+        "popularity": 0.1141,
+        "profile_path": null,
+        "credit_id": "6ac387e0b6c96bb7c9dcccbe",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6527330,
+        "known_for_department": "Lighting",
+        "name": "Ettore Seghizzi",
+        "original_name": "Ettore Seghizzi",
+        "popularity": 0.0799,
+        "profile_path": null,
+        "credit_id": "6ac387eb126c7ac2c3cd997b",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6527331,
+        "known_for_department": "Lighting",
+        "name": "Giacomo Latorraca",
+        "original_name": "Giacomo Latorraca",
+        "popularity": 0.0787,
+        "profile_path": null,
+        "credit_id": "6ac38803f785d9d2852f2ff1",
+        "department": "Lighting",
+        "job": "Assistant Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6527332,
+        "known_for_department": "Camera",
+        "name": "Mariana Merotto Fontana",
+        "original_name": "Mariana Merotto Fontana",
+        "popularity": 0.1994,
+        "profile_path": null,
+        "credit_id": "6ac388176ab76b4a672f30f2",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6513613,
+        "known_for_department": "Sound",
+        "name": "Pietro Ossola",
+        "original_name": "Pietro Ossola",
+        "popularity": 0.0918,
+        "profile_path": null,
+        "credit_id": "6ac388268581382e49455983",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6513858,
+        "known_for_department": "Directing",
+        "name": "Andrea Brandovardi",
+        "original_name": "Andrea Brandovardi",
+        "popularity": 0.2406,
+        "profile_path": null,
+        "credit_id": "6ac388337e365b5a1003cbb1",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6527333,
+        "known_for_department": "Sound",
+        "name": "Igor Zaccone",
+        "original_name": "Igor Zaccone",
+        "popularity": 0.1088,
+        "profile_path": null,
+        "credit_id": "6ac38841501aa6c76e03ca64",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6527323,
+        "known_for_department": "Camera",
+        "name": "Francesco Scandroglio",
+        "original_name": "Francesco Scandroglio",
+        "popularity": 0.0915,
+        "profile_path": null,
+        "credit_id": "6ac388517c9a53bd69dcc90e",
+        "department": "Crew",
+        "job": "Scenic Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6527336,
+        "known_for_department": "Production",
+        "name": "Andrea DI Meglio",
+        "original_name": "Andrea DI Meglio",
+        "popularity": 0.1122,
+        "profile_path": null,
+        "credit_id": "6ac388a0d3d0453a2dcd99a4",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6527337,
+        "known_for_department": "Crew",
+        "name": "Martina Moroni",
+        "original_name": "Martina Moroni",
+        "popularity": 0.0834,
+        "profile_path": null,
+        "credit_id": "6ac388acaba5d6884803cd2a",
+        "department": "Crew",
+        "job": "Production Controller"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "IT",
+        "iso_639_1": "it",
+        "name": "Italiano",
+        "english_name": "Italian",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 9,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/5GiSoYUYyuvvtOnNKeCLlARVHBo.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-10-11T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

@@ -1,0 +1,660 @@
+{
+  "adult": false,
+  "backdrop_path": "/rWxfIIbDpdL12eTVsjmcMwmyXOd.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1383266,
+  "imdb_id": "tt36987619",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Moi qui t'aimais",
+  "overview": "Simone Signoret and Yves Montand were the most famous couple of their time. Haunted by her husband’s affair with Marilyn Monroe and bruised by all those that followed, Signoret always refused the role of victim. What they knew was that they would never leave each other.",
+  "popularity": 0.9317,
+  "poster_path": "/9IwLq57nfP1wqLH5s1uTaS7PBRY.jpg",
+  "production_companies": [
+    {
+      "id": 6539,
+      "logo_path": null,
+      "name": "New Light Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 2926,
+      "logo_path": "/9c6iLKfw1Ho3ikxkFqz5TPn3Ht.png",
+      "name": "Alexandre Films",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2025-10-01",
+  "revenue": 0,
+  "runtime": 118,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "She loved him more than anything else, he loved her more than the others.",
+  "title": "The One I Loved",
+  "video": false,
+  "vote_average": 6.7,
+  "vote_count": 29,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20442,
+        "known_for_department": "Acting",
+        "name": "Roschdy Zem",
+        "original_name": "Roschdy Zem",
+        "popularity": 1.0099,
+        "profile_path": "/kx6FWwIKPDxFg3KNhGwctEjqWxX.jpg",
+        "cast_id": 3,
+        "character": "Yves Montand",
+        "credit_id": "672a719914d4a39972035e0c",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 76820,
+        "known_for_department": "Acting",
+        "name": "Marina Foïs",
+        "original_name": "Marina Foïs",
+        "popularity": 0.9316,
+        "profile_path": "/dLPo5cyKoH4Y8TNRkl2GIrd4Oae.jpg",
+        "cast_id": 4,
+        "character": "Simone Signoret",
+        "credit_id": "672a719fa8d9f9a0bc56e7bd",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 550418,
+        "known_for_department": "Directing",
+        "name": "Thierry de Peretti",
+        "original_name": "Thierry de Peretti",
+        "popularity": 0.1609,
+        "profile_path": "/w3ERYv9QXHHQRjVU8PEPYWTNJGt.jpg",
+        "cast_id": 5,
+        "character": "Serge Reggiani",
+        "credit_id": "672a71a542bec49877805473",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1607019,
+        "known_for_department": "Acting",
+        "name": "Vincent Colombe",
+        "original_name": "Vincent Colombe",
+        "popularity": 0.6085,
+        "profile_path": "/gX6p0VVA8PDmh9R1svg0ssky9za.jpg",
+        "cast_id": 10,
+        "character": "François Perier",
+        "credit_id": "67532da44624397fa8118aa5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3053050,
+        "known_for_department": "Acting",
+        "name": "Pauline Cassan",
+        "original_name": "Pauline Cassan",
+        "popularity": 0.274,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Carole Amiel",
+        "credit_id": "67532db337f1856202089be0",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54293,
+        "known_for_department": "Acting",
+        "name": "Xavier Robic",
+        "original_name": "Xavier Robic",
+        "popularity": 0.4345,
+        "profile_path": "/sXhSZ7Gyiq6sq3R85eRPMkoiJOh.jpg",
+        "cast_id": 12,
+        "character": "Claude Durand",
+        "credit_id": "6798e877df4b0191ce2b2f62",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4359920,
+        "known_for_department": "Acting",
+        "name": "Nicolas Dangoise",
+        "original_name": "Nicolas Dangoise",
+        "popularity": 0.2803,
+        "profile_path": "/ftI4znirSoyVq14c73h1139VEvC.jpg",
+        "cast_id": 29,
+        "character": "Reporter Hollywood",
+        "credit_id": "6a2d527681195cb75c955260",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 77005,
+        "known_for_department": "Directing",
+        "name": "Diane Kurys",
+        "original_name": "Diane Kurys",
+        "popularity": 0.4007,
+        "profile_path": "/34hMzzECWUmK5i8W1ku1I84r13x.jpg",
+        "credit_id": "672a718a433c82ea267e77cf",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 77005,
+        "known_for_department": "Directing",
+        "name": "Diane Kurys",
+        "original_name": "Diane Kurys",
+        "popularity": 0.4007,
+        "profile_path": "/34hMzzECWUmK5i8W1ku1I84r13x.jpg",
+        "credit_id": "672a719014d4a39972035e01",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64205,
+        "known_for_department": "Directing",
+        "name": "Alexandre Arcady",
+        "original_name": "Alexandre Arcady",
+        "popularity": 0.6877,
+        "profile_path": "/hRWYaCwBeb0HzDNgWNeaLeHsZzv.jpg",
+        "credit_id": "672a71e306dc8859632424c1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1493125,
+        "known_for_department": "Writing",
+        "name": "Martine Moriconi",
+        "original_name": "Martine Moriconi",
+        "popularity": 0.1732,
+        "profile_path": null,
+        "credit_id": "672a7214edca7f37f8e67a8f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2416825,
+        "known_for_department": "Production",
+        "name": "Aurélie Avram",
+        "original_name": "Aurélie Avram",
+        "popularity": 0.0919,
+        "profile_path": null,
+        "credit_id": "672a721e60f5b9ecdff06343",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1301,
+        "known_for_department": "Camera",
+        "name": "Philippe Rousselot",
+        "original_name": "Philippe Rousselot",
+        "popularity": 0.3232,
+        "profile_path": "/dxUrQKKnS0BAolYdp4Q7CkcWLSD.jpg",
+        "credit_id": "672a722960f5b9ecdff06354",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20075,
+        "known_for_department": "Sound",
+        "name": "Philippe Sarde",
+        "original_name": "Philippe Sarde",
+        "popularity": 0.4553,
+        "profile_path": "/hXtnCk9CAtUzn4pR1974EosvQOZ.jpg",
+        "credit_id": "681e1ed59404fd1ab593b3a5",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1022263,
+        "known_for_department": "Art",
+        "name": "Tony Egry",
+        "original_name": "Tony Egry",
+        "popularity": 0.1856,
+        "profile_path": "/17buNfvjlERzGnrlqnHCDrWBuxx.jpg",
+        "credit_id": "681e1ee01814f7d816c1e37f",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2386846,
+        "known_for_department": "Sound",
+        "name": "Ahmed Maalaoui",
+        "original_name": "Ahmed Maalaoui",
+        "popularity": 0.0626,
+        "profile_path": null,
+        "credit_id": "681e1f09fabf6d4bec01f06b",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2409339,
+        "known_for_department": "Directing",
+        "name": "Morgan Autexier",
+        "original_name": "Morgan Autexier",
+        "popularity": 0.1267,
+        "profile_path": "/p1TYK1eo6MBiHpFAm0dMjZB2jZD.jpg",
+        "credit_id": "682f6f570a5633dea91c215d",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3425811,
+        "known_for_department": "Directing",
+        "name": "Bastien Blum",
+        "original_name": "Bastien Blum",
+        "popularity": 0.1045,
+        "profile_path": null,
+        "credit_id": "682f6f6127a704863d34413a",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4300786,
+        "known_for_department": "Directing",
+        "name": "Capucine Prébois",
+        "original_name": "Capucine Prébois",
+        "popularity": 0.1083,
+        "profile_path": null,
+        "credit_id": "682f6f6d252e863d0d34407a",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1374471,
+        "known_for_department": "Camera",
+        "name": "David Koskas",
+        "original_name": "David Koskas",
+        "popularity": 0.1164,
+        "profile_path": null,
+        "credit_id": "6871337c6d007f066d1050aa",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2116851,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Emma Chicotot",
+        "original_name": "Emma Chicotot",
+        "popularity": 0.1604,
+        "profile_path": null,
+        "credit_id": "6896f50d127eab2f39e243e8",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3063929,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Mathilde Josset",
+        "original_name": "Mathilde Josset",
+        "popularity": 0.1228,
+        "profile_path": null,
+        "credit_id": "6896f519280951fa2c92e8f6",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1631877,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Milou Sanner",
+        "original_name": "Milou Sanner",
+        "popularity": 0.4119,
+        "profile_path": null,
+        "credit_id": "6896f5264f4665d261b6f670",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 935694,
+        "known_for_department": "Production",
+        "name": "Gaëtan David",
+        "original_name": "Gaëtan David",
+        "popularity": 0.2816,
+        "profile_path": "/gwMHoTEHqRK1P2JOuyptex48qPt.jpg",
+        "credit_id": "6896f5686791872e1a6d6257",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3628976,
+        "known_for_department": "Production",
+        "name": "Claude Fenioux",
+        "original_name": "Claude Fenioux",
+        "popularity": 0.1226,
+        "profile_path": null,
+        "credit_id": "6896f5744f4665d261b6f678",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 77005,
+        "known_for_department": "Directing",
+        "name": "Diane Kurys",
+        "original_name": "Diane Kurys",
+        "popularity": 0.4007,
+        "profile_path": "/34hMzzECWUmK5i8W1ku1I84r13x.jpg",
+        "credit_id": "6896f57f52642e53862c0ad4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 935695,
+        "known_for_department": "Production",
+        "name": "André Logie",
+        "original_name": "André Logie",
+        "popularity": 0.29,
+        "profile_path": "/8fJQHo43Y0kAY4TNS1ayS019NKu.jpg",
+        "credit_id": "6896f59100c4cdd17c5d084d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3548326,
+        "known_for_department": "Production",
+        "name": "Raphaëlle Beck",
+        "original_name": "Raphaëlle Beck",
+        "popularity": 0.2216,
+        "profile_path": null,
+        "credit_id": "6896f5ae8aaeac443c8da113",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1179893,
+        "known_for_department": "Production",
+        "name": "Elodie Demey",
+        "original_name": "Elodie Demey",
+        "popularity": 0.2008,
+        "profile_path": null,
+        "credit_id": "6896f5ba3b2be8256b8ea5fe",
+        "department": "Production",
+        "job": "Casting"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "https://pan-europeenne.com/film/moi-qui-taimais/",
+          "overview": "Elle l’aimait plus que tout, il l’aimait plus que toutes les autres. Simone Signoret et Yves Montand étaient le couple le plus célèbre de leur temps. Hantée par la liaison de son mari avec Marilyn Monroe et meurtrie par toutes celles qui ont suivi, Signoret a toujours refusé le rôle de victime. Ce qu’ils savaient, c’est qu’ils ne se quitteraient jamais.",
+          "runtime": 115,
+          "tagline": "Elle l’aimait plus que tout, il l’aimait plus que toutes les autres.",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Simone Signoret and Yves Montand were the most famous couple of their time. Haunted by her husband’s affair with Marilyn Monroe and bruised by all those that followed, Signoret always refused the role of victim. What they knew was that they would never leave each other.",
+          "runtime": 118,
+          "tagline": "She loved him more than anything else, he loved her more than the others.",
+          "title": "The One I Loved"
+        }
+      },
+      {
+        "iso_3166_1": "PL",
+        "iso_639_1": "pl",
+        "name": "Polski",
+        "english_name": "Polish",
+        "data": {
+          "homepage": "",
+          "overview": "Kochała go bardziej niż cokolwiek innego, on kochał ją bardziej niż kogokolwiek innego. Simone Signoret i Yves Montand byli najsłynniejszą parą swoich czasów. Dręczona romansem męża z Marilyn Monroe i zraniona wszystkimi, które po niej nastąpiły, Signoret zawsze odmawiała roli ofiary. Wiedzieli, że nigdy się nie opuszczą.",
+          "runtime": 118,
+          "tagline": "Kochała go bardziej niż cokolwiek innego, on kochał ją bardziej niż inne.",
+          "title": "Moi qui t'aimais"
+        }
+      },
+      {
+        "iso_3166_1": "BR",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "homepage": "https://www.autoralfilmes.com.br/catalogo/eu-que-te-amei",
+          "overview": "Simone Signoret e Yves Montand formavam o casal mais célebre de seu tempo. Assombrada pelo caso de seu marido com Marilyn Monroe e ferida por todos os que vieram depois, Signoret sempre recusou o papel de vítima. O que ambos sabiam é que jamais se separariam.",
+          "runtime": 118,
+          "tagline": "Ela o amava mais do que tudo, ele a amava mais do que a todas as outras.",
+          "title": "Eu, que te Amei"
+        }
+      },
+      {
+        "iso_3166_1": "RU",
+        "iso_639_1": "ru",
+        "name": "Pусский",
+        "english_name": "Russian",
+        "data": {
+          "homepage": "",
+          "overview": "Бурная история любви двух звезд кино на пике славы: Ива Монтана и Симоны Синьоре.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Мой любимый"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt36987619",
+    "wikidata_id": "Q136142247",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/rWxfIIbDpdL12eTVsjmcMwmyXOd.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/bnLHG4xLvnui2mCzDTZ4p7iz3o6.jpg",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/oZRvYJrrmEBett5ewfAWyiWhVag.jpg",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 720,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/nnkidfP6MPStJnUNADc43JHWZ4D.jpg",
+        "vote_average": 1.222,
+        "vote_count": 3,
+        "width": 1280
+      }
+    ],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Europa Film Festival",
+            "release_date": "2026-02-20T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [
+              "Sexual Content",
+              "Legal Drugs",
+              "Inappropriate Language"
+            ],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Cannes Film Festival",
+            "release_date": "2025-05-23T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-10-01T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Canal+",
+            "release_date": "2026-06-17T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Canal+",
+            "release_date": "2026-06-17T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

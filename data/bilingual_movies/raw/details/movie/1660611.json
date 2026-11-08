@@ -1,0 +1,923 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1660611,
+  "imdb_id": "tt41282726",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Greetings From Samson",
+  "overview": "Samson, a young and ambitious proofreader at a greeting card company, follows his dream of becoming a greeting card writer and learns that sometimes the hardest part is just showing up. Also, he’s a hot dog!",
+  "popularity": 0.7412,
+  "poster_path": "/prtOHqm9ehoXf8F3YotfjOK1tS2.jpg",
+  "production_companies": [
+    {
+      "id": 7899,
+      "logo_path": "/qnhd98hnBxCMMMod58FJqbCZ5O7.png",
+      "name": "Cartoon Network Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-03-30",
+  "revenue": 0,
+  "runtime": 8,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "Greetings From Samson",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2135035,
+        "known_for_department": "Acting",
+        "name": "Zeno Robinson",
+        "original_name": "Zeno Robinson",
+        "popularity": 0.6873,
+        "profile_path": "/PyoUSDPm4AiGcp6W2WTBD2zSMt.jpg",
+        "cast_id": 31,
+        "character": "Samson / Representative (voice)",
+        "credit_id": "69cac30673d822c0918aabf7",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105648,
+        "known_for_department": "Acting",
+        "name": "Nat Faxon",
+        "original_name": "Nat Faxon",
+        "popularity": 1.6256,
+        "profile_path": "/i7bsT8ewAjCr7zByWOyCnbrT0x9.jpg",
+        "cast_id": 32,
+        "character": "Jozeph / Tony / Rando (voice)",
+        "credit_id": "69cac321603c66f46563730f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2878524,
+        "known_for_department": "Writing",
+        "name": "Tiffany Ford",
+        "original_name": "Tiffany Ford",
+        "popularity": 0.2074,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Flora / Gladys / Waffle (voice)",
+        "credit_id": "69cac3370dc27e03688aa9a4",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1427681,
+        "known_for_department": "Acting",
+        "name": "Mimi Gianopulos",
+        "original_name": "Mimi Gianopulos",
+        "popularity": 0.6118,
+        "profile_path": "/1uIioPyiGp4XeOjbeJt9Yswf6rA.jpg",
+        "cast_id": 34,
+        "character": "Susan / Computer / Co-worker 1 (voice)",
+        "credit_id": "69cac34d124fae322ece3ba9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 944649,
+        "known_for_department": "Acting",
+        "name": "Ellen-Ray Hennessy",
+        "original_name": "Ellen-Ray Hennessy",
+        "popularity": 0.1851,
+        "profile_path": "/14ZS5pXBWYyBhmLS6Oj7RZHSe7t.jpg",
+        "cast_id": 35,
+        "character": "Harvey / Secretary / Co-Worker 2 (voice)",
+        "credit_id": "69cac3663df08e5b681ed2c0",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2003773,
+        "known_for_department": "Acting",
+        "name": "Melissa van der Schyff",
+        "original_name": "Melissa van der Schyff",
+        "popularity": 0.2661,
+        "profile_path": "/hA5y5TzLbaxSKUBTHkpOboNyDjO.jpg",
+        "cast_id": 36,
+        "character": "Announcer / Cricket / Wolf (voice)",
+        "credit_id": "69cac380124fae322ece3bb5",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2878524,
+        "known_for_department": "Writing",
+        "name": "Tiffany Ford",
+        "original_name": "Tiffany Ford",
+        "popularity": 0.2074,
+        "profile_path": null,
+        "credit_id": "69cab408e10761cf838aaacb",
+        "department": "Crew",
+        "job": "Creator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2720025,
+        "known_for_department": "Production",
+        "name": "Sophia Monico",
+        "original_name": "Sophia Monico",
+        "popularity": 0.1334,
+        "profile_path": null,
+        "credit_id": "69cabd9121d9014c7a5af39a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1780218,
+        "known_for_department": "Production",
+        "name": "Scott Malchus",
+        "original_name": "Scott Malchus",
+        "popularity": 0.2059,
+        "profile_path": null,
+        "credit_id": "69cabd9eb5461b4cab5af289",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2990231,
+        "known_for_department": "Art",
+        "name": "Paula Spence",
+        "original_name": "Paula Spence",
+        "popularity": 0.1736,
+        "profile_path": null,
+        "credit_id": "69cabdafbc7d588fc55af341",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1450349,
+        "known_for_department": "Art",
+        "name": "Nick Cross",
+        "original_name": "Nick Cross",
+        "popularity": 0.1469,
+        "profile_path": "/zyrAi7EgQJBpf9lGBhQ4BGnqORZ.jpg",
+        "credit_id": "69cabdbdde9e50ce7d733332",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2878524,
+        "known_for_department": "Writing",
+        "name": "Tiffany Ford",
+        "original_name": "Tiffany Ford",
+        "popularity": 0.2074,
+        "profile_path": null,
+        "credit_id": "69cabe95a0a09b493a8399bf",
+        "department": "Writing",
+        "job": "Storyboard"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2041940,
+        "known_for_department": "Art",
+        "name": "Jason Dwyer",
+        "original_name": "Jason Dwyer",
+        "popularity": 0.2514,
+        "profile_path": null,
+        "credit_id": "69cabea8a0a09b493a8399c4",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2303867,
+        "known_for_department": "Production",
+        "name": "Revati Dhomse",
+        "original_name": "Revati Dhomse",
+        "popularity": 0.1786,
+        "profile_path": null,
+        "credit_id": "69cabf3db1b32c37cb1ed1a8",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5038031,
+        "known_for_department": "Production",
+        "name": "Aria Clemens",
+        "original_name": "Aria Clemens",
+        "popularity": 0.1973,
+        "profile_path": null,
+        "credit_id": "69cabf915ac80422398aab94",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5998287,
+        "known_for_department": "Production",
+        "name": "Zack Flavin",
+        "original_name": "Zack Flavin",
+        "popularity": 0.2611,
+        "profile_path": null,
+        "credit_id": "69cabf9d6c4b088a76ce3c02",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5964674,
+        "known_for_department": "Production",
+        "name": "Anahit Sahakyan",
+        "original_name": "Anahit Sahakyan",
+        "popularity": 0.0691,
+        "profile_path": null,
+        "credit_id": "69cabfaac79cfed06173316d",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2017044,
+        "known_for_department": "Production",
+        "name": "Jonathan Hymen",
+        "original_name": "Jonathan Hymen",
+        "popularity": 0.1262,
+        "profile_path": null,
+        "credit_id": "69cabfb8501f8326b3263b47",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3031996,
+        "known_for_department": "Visual Effects",
+        "name": "Freddy Carrasco",
+        "original_name": "Freddy Carrasco",
+        "popularity": 0.0784,
+        "profile_path": null,
+        "credit_id": "69cabfee6da30f1f98263c28",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2124276,
+        "known_for_department": "Art",
+        "name": "Michelle Xin",
+        "original_name": "Michelle Xin",
+        "popularity": 0.3199,
+        "profile_path": null,
+        "credit_id": "69cabffb75ac2db80e8aaace",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2086196,
+        "known_for_department": "Art",
+        "name": "Angie Wang",
+        "original_name": "Angie Wang",
+        "popularity": 0.1201,
+        "profile_path": "/11cBdoSBXhWc7yfKtbxzhyJxDQc.jpg",
+        "credit_id": "69cac0cdf611d7ac868aaaf7",
+        "department": "Art",
+        "job": "Prop Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3367349,
+        "known_for_department": "Art",
+        "name": "Maaike Scherff",
+        "original_name": "Maaike Scherff",
+        "popularity": 0.0991,
+        "profile_path": null,
+        "credit_id": "69cac0d997d6f60a438aabfa",
+        "department": "Art",
+        "job": "Prop Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2226710,
+        "known_for_department": "Art",
+        "name": "Jasmin Lai",
+        "original_name": "Jasmin Lai",
+        "popularity": 0.2476,
+        "profile_path": null,
+        "credit_id": "69cac11666a1c8bb388397ff",
+        "department": "Visual Effects",
+        "job": "Visual Development"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1393207,
+        "known_for_department": "Art",
+        "name": "Elle Michalka",
+        "original_name": "Elle Michalka",
+        "popularity": 0.1893,
+        "profile_path": null,
+        "credit_id": "69cac129c974b4cb818399b3",
+        "department": "Visual Effects",
+        "job": "Visual Development"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6106526,
+        "known_for_department": "Visual Effects",
+        "name": "Ray Leong",
+        "original_name": "Ray Leong",
+        "popularity": 0.2211,
+        "profile_path": null,
+        "credit_id": "69cac163f2d36ff51a733279",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2086197,
+        "known_for_department": "Art",
+        "name": "Art Morales",
+        "original_name": "Art Morales",
+        "popularity": 0.3668,
+        "profile_path": null,
+        "credit_id": "69cac1e8ba645bc960637416",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2990231,
+        "known_for_department": "Art",
+        "name": "Paula Spence",
+        "original_name": "Paula Spence",
+        "popularity": 0.1736,
+        "profile_path": null,
+        "credit_id": "69cac1f446a36f0524839988",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4110372,
+        "known_for_department": "Visual Effects",
+        "name": "Rebecca Shieh",
+        "original_name": "Rebecca Shieh",
+        "popularity": 0.0673,
+        "profile_path": null,
+        "credit_id": "69cac20606b5c0d55e44ec20",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5124066,
+        "known_for_department": "Visual Effects",
+        "name": "Elaine Lee",
+        "original_name": "Elaine Lee",
+        "popularity": 0.2169,
+        "profile_path": null,
+        "credit_id": "69cac211b4045097ff733166",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1573486,
+        "known_for_department": "Art",
+        "name": "Craig Simmons",
+        "original_name": "Craig Simmons",
+        "popularity": 0.4383,
+        "profile_path": null,
+        "credit_id": "69cac222cc92df2eda44ec51",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2990225,
+        "known_for_department": "Art",
+        "name": "Jessica Yost",
+        "original_name": "Jessica Yost",
+        "popularity": 0.1124,
+        "profile_path": null,
+        "credit_id": "69cac23765bec5e54a44ed89",
+        "department": "Visual Effects",
+        "job": "Color Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81586,
+        "known_for_department": "Directing",
+        "name": "Robert Alvarez",
+        "original_name": "Robert Alvarez",
+        "popularity": 0.3411,
+        "profile_path": "/xptJnNsxOGz6tE3eJp1hyAVgOvD.jpg",
+        "credit_id": "69cac24afbebcdfc1f73357d",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2826685,
+        "known_for_department": "Editing",
+        "name": "Jill Calhoun",
+        "original_name": "Jill Calhoun",
+        "popularity": 0.2164,
+        "profile_path": null,
+        "credit_id": "69cac26965bec5e54a44ed92",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3474781,
+        "known_for_department": "Acting",
+        "name": "Oliver Akuin",
+        "original_name": "Oliver Akuin",
+        "popularity": 0.0476,
+        "profile_path": null,
+        "credit_id": "69cac278f0696865b25af8fc",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 81645,
+        "known_for_department": "Visual Effects",
+        "name": "Sandy Benenati",
+        "original_name": "Sandy Benenati",
+        "popularity": 0.1419,
+        "profile_path": null,
+        "credit_id": "69cac28573d822c0918aabef",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2478512,
+        "known_for_department": "Visual Effects",
+        "name": "Julie Benenati",
+        "original_name": "Julie Benenati",
+        "popularity": 0.24,
+        "profile_path": null,
+        "credit_id": "69cac2960b692478328aab6f",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 965333,
+        "known_for_department": "Production",
+        "name": "Linda Lamontagne",
+        "original_name": "Linda Lamontagne",
+        "popularity": 0.3061,
+        "profile_path": "/wpRxYVYMoNKE7tWpXPUPxhfsEK6.jpg",
+        "credit_id": "69cac39966299dab80263c2b",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2167647,
+        "known_for_department": "Production",
+        "name": "Stacy Renfroe",
+        "original_name": "Stacy Renfroe",
+        "popularity": 0.3342,
+        "profile_path": null,
+        "credit_id": "69cac3bf46a36f05248399a3",
+        "department": "Sound",
+        "job": "Recording Supervision"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3745784,
+        "known_for_department": "Production",
+        "name": "Alden Osborne",
+        "original_name": "Alden Osborne",
+        "popularity": 0.2124,
+        "profile_path": null,
+        "credit_id": "69cac3d98d6cbf4cd37332e6",
+        "department": "Sound",
+        "job": "Recording Supervision"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3367948,
+        "known_for_department": "Production",
+        "name": "Akina Ryder",
+        "original_name": "Akina Ryder",
+        "popularity": 0.1093,
+        "profile_path": null,
+        "credit_id": "69cac3eac199b627eb44ec77",
+        "department": "Sound",
+        "job": "Recording Supervision"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2919233,
+        "known_for_department": "Sound",
+        "name": "Simon Sampath-Kumar",
+        "original_name": "Simon Sampath-Kumar",
+        "popularity": 0.2755,
+        "profile_path": null,
+        "credit_id": "69cac3f9b5461b4cab5af293",
+        "department": "Sound",
+        "job": "Sound Engineer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2167646,
+        "known_for_department": "Production",
+        "name": "Kristi Reed",
+        "original_name": "Kristi Reed",
+        "popularity": 0.1637,
+        "profile_path": "/dUGKrqgoJnr3wAyIbseT8dymPV3.jpg",
+        "credit_id": "69cac469c1b57bb02d8aac2c",
+        "department": "Sound",
+        "job": "Vocals"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1718383,
+        "known_for_department": "Editing",
+        "name": "Bobby Gibis",
+        "original_name": "Bobby Gibis",
+        "popularity": 0.2507,
+        "profile_path": null,
+        "credit_id": "69cac489c199b627eb44ec87",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2726703,
+        "known_for_department": "Sound",
+        "name": "Krandal Crews",
+        "original_name": "Krandal Crews",
+        "popularity": 0.131,
+        "profile_path": null,
+        "credit_id": "69cac49a46a36f05248399b2",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81641,
+        "known_for_department": "Sound",
+        "name": "Robert Serda",
+        "original_name": "Robert Serda",
+        "popularity": 0.1349,
+        "profile_path": null,
+        "credit_id": "69cac4a8f48c424bb3637632",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81641,
+        "known_for_department": "Sound",
+        "name": "Robert Serda",
+        "original_name": "Robert Serda",
+        "popularity": 0.1349,
+        "profile_path": null,
+        "credit_id": "69cac5122740c75ddc5af49b",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81641,
+        "known_for_department": "Sound",
+        "name": "Robert Serda",
+        "original_name": "Robert Serda",
+        "popularity": 0.1349,
+        "profile_path": null,
+        "credit_id": "69cac51a70dd5002ea1ed1e0",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 81657,
+        "known_for_department": "Crew",
+        "name": "Antonio Gonella",
+        "original_name": "Antonio Gonella",
+        "popularity": 0.2861,
+        "profile_path": null,
+        "credit_id": "69cac528e332b735481ed21f",
+        "department": "Crew",
+        "job": "Other"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 81656,
+        "known_for_department": "Crew",
+        "name": "Alicia Parkinson",
+        "original_name": "Alicia Parkinson",
+        "popularity": 0.1792,
+        "profile_path": null,
+        "credit_id": "69cac544501f8326b3263b83",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2478515,
+        "known_for_department": "Crew",
+        "name": "Therisse Amunatigui",
+        "original_name": "Therisse Amunatigui",
+        "popularity": 0.102,
+        "profile_path": null,
+        "credit_id": "69cac55570dd5002ea1ed1e6",
+        "department": "Crew",
+        "job": "Post Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2478516,
+        "known_for_department": "Production",
+        "name": "Cecilia Rheins",
+        "original_name": "Cecilia Rheins",
+        "popularity": 0.1961,
+        "profile_path": null,
+        "credit_id": "69cac5b5b5461b4cab5af2c9",
+        "department": "Production",
+        "job": "Other"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2097391,
+        "known_for_department": "Production",
+        "name": "Linda Barry",
+        "original_name": "Linda Barry",
+        "popularity": 0.1923,
+        "profile_path": null,
+        "credit_id": "69cac5c0b7bcfd3bcd8aac88",
+        "department": "Production",
+        "job": "Administration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1219427,
+        "known_for_department": "Production",
+        "name": "Nick Jennings",
+        "original_name": "Nick Jennings",
+        "popularity": 0.1541,
+        "profile_path": null,
+        "credit_id": "69cac9cef611d7ac868aab50",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1251089,
+        "known_for_department": "Writing",
+        "name": "Mike Roth",
+        "original_name": "Mike Roth",
+        "popularity": 0.3403,
+        "profile_path": null,
+        "credit_id": "69cac9d9b0258ce4b08aab8d",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2826690,
+        "known_for_department": "Production",
+        "name": "Asalle Tanha",
+        "original_name": "Asalle Tanha",
+        "popularity": 0.0623,
+        "profile_path": null,
+        "credit_id": "69cac9f7b0258ce4b08aab95",
+        "department": "Crew",
+        "job": "Other"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1245739,
+        "known_for_department": "Production",
+        "name": "Rob Sorcher",
+        "original_name": "Rob Sorcher",
+        "popularity": 0.2492,
+        "profile_path": null,
+        "credit_id": "69caca69c5593a88e544ec85",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81613,
+        "known_for_department": "Production",
+        "name": "Brian A. Miller",
+        "original_name": "Brian A. Miller",
+        "popularity": 0.3342,
+        "profile_path": "/avueJauOX1nf9YK7FjBZS9LTyed.jpg",
+        "credit_id": "69caca73e10761cf838aab77",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 81612,
+        "known_for_department": "Production",
+        "name": "Jennifer Pelphrey",
+        "original_name": "Jennifer Pelphrey",
+        "popularity": 0.2319,
+        "profile_path": null,
+        "credit_id": "69caca8754ec9f438263738c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2107589,
+        "known_for_department": "Production",
+        "name": "Tramm Wigzell",
+        "original_name": "Tramm Wigzell",
+        "popularity": 0.2474,
+        "profile_path": null,
+        "credit_id": "69caca97c71bdee704263c39",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2878524,
+        "known_for_department": "Writing",
+        "name": "Tiffany Ford",
+        "original_name": "Tiffany Ford",
+        "popularity": 0.2074,
+        "profile_path": null,
+        "credit_id": "69cad068f4148b5352ce3cc4",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 11477,
+        "name": "anthropomorphism"
+      },
+      {
+        "id": 239237,
+        "name": "greeting cards"
+      },
+      {
+        "id": 360959,
+        "name": "career ambitions"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Samson, a young and ambitious proofreader at a greeting card company, follows his dream of becoming a greeting card writer and learns that sometimes the hardest part is just showing up. Also, he’s a hot dog!",
+          "runtime": 8,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt41282726",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/prtOHqm9ehoXf8F3YotfjOK1tS2.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-30T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

@@ -1,0 +1,545 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.agridulce.com",
+  "id": 1629351,
+  "imdb_id": null,
+  "origin_country": [
+    "DO",
+    "US"
+  ],
+  "original_language": "es",
+  "original_title": "Agridulce",
+  "overview": "A coming-of-age story set in the Dominican Republic, where a group of young aspiring bachata musicians seek answers to love and life through their music.  Filmed at the Academia de Bachata, the world's first bachata music school. Featuring maestro Martires de Leon, guitarist and arranger for Romeo Santos.",
+  "popularity": 1.0709,
+  "poster_path": "/qpdZlb9rYsTQMylax7bYT52GIMN.jpg",
+  "production_companies": [
+    {
+      "id": 15072,
+      "logo_path": "/g8IBO8XA7YDfs0BjRcNKnOOtl2K.png",
+      "name": "Aurora Dominicana",
+      "origin_country": "DO"
+    },
+    {
+      "id": 299506,
+      "logo_path": null,
+      "name": "iASO Records",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "DO",
+      "name": "Dominican Republic"
+    }
+  ],
+  "release_date": "2026-03-12",
+  "revenue": 0,
+  "runtime": 98,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Young bachateros find their way through music",
+  "title": "Bittersweet",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6035208,
+        "known_for_department": "Acting",
+        "name": "Edickson García Disla",
+        "original_name": "Edickson García Disla",
+        "popularity": 0.111,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "",
+        "credit_id": "69a0dcd14afb6ad888e94440",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6035203,
+        "known_for_department": "Sound",
+        "name": "Frandy Direze",
+        "original_name": "Frandy Direze",
+        "popularity": 0.1161,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "",
+        "credit_id": "69a0dcdd313bdce3afb301fc",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6035212,
+        "known_for_department": "Acting",
+        "name": "Orianny Bonilla",
+        "original_name": "Orianny Bonilla",
+        "popularity": 0.1237,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "",
+        "credit_id": "69a0dce8014c66ef1ef237b1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6035202,
+        "known_for_department": "Sound",
+        "name": "Yerian Castillo",
+        "original_name": "Yerian Castillo",
+        "popularity": 0.4434,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "",
+        "credit_id": "69a0dcf14ea8720aff04dfba",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6035214,
+        "known_for_department": "Acting",
+        "name": "Mártires De León",
+        "original_name": "Mártires De León",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "",
+        "credit_id": "69a0dcfa8cfd2716f8e94501",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1172231,
+        "known_for_department": "Directing",
+        "name": "Frank Pavich",
+        "original_name": "Frank Pavich",
+        "popularity": 0.1277,
+        "profile_path": "/kYZOkImKEQX2WGgMS0PyLqQkmZt.jpg",
+        "credit_id": "69840ee477378b5fa16e7455",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1380955,
+        "known_for_department": "Sound",
+        "name": "Benjamin de Menil",
+        "original_name": "Benjamín De Menil",
+        "popularity": 0.4525,
+        "profile_path": null,
+        "credit_id": "699cba965c4eda54cf591770",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1271957,
+        "known_for_department": "Production",
+        "name": "Nicolas Ordoñez",
+        "original_name": "Nicolas Ordoñez",
+        "popularity": 0.2042,
+        "profile_path": null,
+        "credit_id": "699d7a51d03b1b7bd9455cb2",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1172231,
+        "known_for_department": "Directing",
+        "name": "Frank Pavich",
+        "original_name": "Frank Pavich",
+        "popularity": 0.1277,
+        "profile_path": "/kYZOkImKEQX2WGgMS0PyLqQkmZt.jpg",
+        "credit_id": "69a0dba462093ea44704df39",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1043954,
+        "known_for_department": "Production",
+        "name": "Donald Rosenfeld",
+        "original_name": "Donald Rosenfeld",
+        "popularity": 0.1637,
+        "profile_path": null,
+        "credit_id": "69a0dbb8a29895fa03f236d9",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1506640,
+        "known_for_department": "Production",
+        "name": "Mónica de Moya",
+        "original_name": "Mónica de Moya",
+        "popularity": 0.6111,
+        "profile_path": null,
+        "credit_id": "69a0dbe04afb6ad888e94436",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2452839,
+        "known_for_department": "Editing",
+        "name": "Fabián Caballero",
+        "original_name": "Fabián Caballero",
+        "popularity": 0.0975,
+        "profile_path": null,
+        "credit_id": "69a0dbeee6abab5825e94435",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6035198,
+        "known_for_department": "Sound",
+        "name": "Nick Cipriano",
+        "original_name": "Nick Cipriano",
+        "popularity": 0.0498,
+        "profile_path": null,
+        "credit_id": "69a0dbfeaf660763a1ff5178",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1308214,
+        "known_for_department": "Sound",
+        "name": "Paul Vitolins",
+        "original_name": "Paul Vitolins",
+        "popularity": 0.0588,
+        "profile_path": null,
+        "credit_id": "69a0dc0c17af2b67acf20a29",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6035201,
+        "known_for_department": "Sound",
+        "name": "Jose Villa Castillo",
+        "original_name": "Jose Villa Castillo",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69a0dc1b44bd9d70dcf237f4",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6035202,
+        "known_for_department": "Sound",
+        "name": "Yerian Castillo",
+        "original_name": "Yerian Castillo",
+        "popularity": 0.4434,
+        "profile_path": null,
+        "credit_id": "69a0dc2b60d81eb065f5d129",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6035203,
+        "known_for_department": "Sound",
+        "name": "Frandy Direze",
+        "original_name": "Frandy Direze",
+        "popularity": 0.1161,
+        "profile_path": null,
+        "credit_id": "69a0dc41f07153af4fe86914",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6035204,
+        "known_for_department": "Sound",
+        "name": "Orianny Bonilla",
+        "original_name": "Orianny Bonilla",
+        "popularity": 0.0386,
+        "profile_path": null,
+        "credit_id": "69a0dc4eb967d1f25af5d388",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2000982,
+        "known_for_department": "Editing",
+        "name": "Pablo Chea",
+        "original_name": "Pablo Chea",
+        "popularity": 0.1591,
+        "profile_path": null,
+        "credit_id": "69a0dc6470fe0707e804dcf5",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1419206,
+        "known_for_department": "Directing",
+        "name": "Sonia Herman Dolz",
+        "original_name": "Sonia Herman Dolz",
+        "popularity": 0.2936,
+        "profile_path": null,
+        "credit_id": "69a0dc7b6057f57991e9455b",
+        "department": "Production",
+        "job": "Other"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2187892,
+        "known_for_department": "Sound",
+        "name": "Oscar Chabebe",
+        "original_name": "Oscar Chabebe",
+        "popularity": 0.0848,
+        "profile_path": null,
+        "credit_id": "69a0dc8bbc7d1049dce869a6",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6035205,
+        "known_for_department": "Production",
+        "name": "Vivien Wu",
+        "original_name": "Vivien Wu",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "69a0dc9ce6abab5825e9443f",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1038654,
+        "known_for_department": "Directing",
+        "name": "Laura Amelia Guzmán",
+        "original_name": "Laura Amelia Guzmán",
+        "popularity": 0.3842,
+        "profile_path": null,
+        "credit_id": "69a0dcace580ec3344e86b41",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1038653,
+        "known_for_department": "Directing",
+        "name": "Israel Cárdenas",
+        "original_name": "Israel Cárdenas",
+        "popularity": 0.1977,
+        "profile_path": null,
+        "credit_id": "69a0dcc2bfd96b3196e943df",
+        "department": "Production",
+        "job": "Co-Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 10683,
+        "name": "coming of age"
+      },
+      {
+        "id": 190019,
+        "name": "dominican republic"
+      },
+      {
+        "id": 224995,
+        "name": "latin music"
+      },
+      {
+        "id": 246377,
+        "name": "music documentary"
+      },
+      {
+        "id": 255632,
+        "name": "latino"
+      },
+      {
+        "id": 287046,
+        "name": "afro-latino"
+      },
+      {
+        "id": 313690,
+        "name": "bachata"
+      },
+      {
+        "id": 318364,
+        "name": "latin american music"
+      },
+      {
+        "id": 343548,
+        "name": "cine latino"
+      },
+      {
+        "id": 348698,
+        "name": "republica dominicana"
+      },
+      {
+        "id": 375701,
+        "name": "music latina"
+      },
+      {
+        "id": 375702,
+        "name": "latin culture"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "http://www.agridulce.com",
+          "overview": "A coming-of-age story set in the Dominican Republic, where a group of young aspiring bachata musicians seek answers to love and life through their music.  Filmed at the Academia de Bachata, the world's first bachata music school. Featuring maestro Martires de Leon, guitarist and arranger for Romeo Santos.",
+          "runtime": 98,
+          "tagline": "Young bachateros find their way through music",
+          "title": "Bittersweet"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.671,
+        "height": 2528,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/qpdZlb9rYsTQMylax7bYT52GIMN.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1696
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Castlemaine Documentary Festival",
+            "release_date": "2026-06-26T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "Guadalajara FICG",
+            "release_date": "2026-04-19T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "SXSW",
+            "release_date": "2026-03-12T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "DC Caribbean Film Festival AFI",
+            "release_date": "2026-06-07T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

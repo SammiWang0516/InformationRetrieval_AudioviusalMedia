@@ -1,0 +1,477 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1579375,
+  "imdb_id": "tt38855430",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Brame Techno",
+  "overview": "A summer in the countryside. Guilhem and Anthony are trying to rig up their sound system for a party. Rosa is attempting to attract deer with a life-size sculpture. And the mayor's son is handing out prizes at the annual flea market...",
+  "popularity": 0.8404,
+  "poster_path": "/64fS3dTTG7fPAGNLtioNLv9xrdW.jpg",
+  "production_companies": [
+    {
+      "id": 121251,
+      "logo_path": null,
+      "name": "Les Films d'Argile",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2025-10-15",
+  "revenue": 0,
+  "runtime": 25,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Brame Techno",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2422147,
+        "known_for_department": "Acting",
+        "name": "Luna Carpiaux",
+        "original_name": "Luna Carpiaux",
+        "popularity": 0.1858,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Rosa",
+        "credit_id": "691463f0c49fa5cfa4dd2d5b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5812218,
+        "known_for_department": "Acting",
+        "name": "Hugo Bourgeois",
+        "original_name": "Hugo Bourgeois",
+        "popularity": 0.0883,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "6914642010446865a6c06b89",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5812219,
+        "known_for_department": "Acting",
+        "name": "Clément Bonhomme",
+        "original_name": "Clément Bonhomme",
+        "popularity": 0.1192,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "6914643378a31ad1cbdd2f35",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5393640,
+        "known_for_department": "Acting",
+        "name": "Zakary Bairi",
+        "original_name": "Zakary Bairi",
+        "popularity": 0.1144,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Le fils du maire",
+        "credit_id": "691464443c6c3c652c4c9183",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5812220,
+        "known_for_department": "Acting",
+        "name": "Jacques Ville",
+        "original_name": "Jacques Ville",
+        "popularity": 0.0358,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Le maire",
+        "credit_id": "69146459eba221c4a93a3b55",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2848638,
+        "known_for_department": "Directing",
+        "name": "Clément Durand",
+        "original_name": "Clément Durand",
+        "popularity": 0.1352,
+        "profile_path": null,
+        "credit_id": "6914646c784b3005ccdd302b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2848638,
+        "known_for_department": "Directing",
+        "name": "Clément Durand",
+        "original_name": "Clément Durand",
+        "popularity": 0.1352,
+        "profile_path": null,
+        "credit_id": "69146478c49fa5cfa4dd2d6a",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2024217,
+        "known_for_department": "Directing",
+        "name": "Clément Schneider",
+        "original_name": "Clément Schneider",
+        "popularity": 0.6201,
+        "profile_path": "/ywZ6FsgoTNpQB3GgcZHGhJEQdAP.jpg",
+        "credit_id": "691464890041954608a0d846",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5812221,
+        "known_for_department": "Sound",
+        "name": "Loup Gangloff",
+        "original_name": "Loup Gangloff",
+        "popularity": 0.0727,
+        "profile_path": null,
+        "credit_id": "6914649a9e88fb480d875d75",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3742172,
+        "known_for_department": "Camera",
+        "name": "Arthur Patain",
+        "original_name": "Arthur Patain",
+        "popularity": 0.1225,
+        "profile_path": null,
+        "credit_id": "691464b3c4ea5b5c2e3a3b4f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3168125,
+        "known_for_department": "Editing",
+        "name": "Maxime François",
+        "original_name": "Maxime François",
+        "popularity": 0.2752,
+        "profile_path": null,
+        "credit_id": "691464c834eec9d9e7dd2d44",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5812225,
+        "known_for_department": "Production",
+        "name": "Astrid Lagarde",
+        "original_name": "Astrid Lagarde",
+        "popularity": 0.0942,
+        "profile_path": null,
+        "credit_id": "691464f170048d82ec9acfc7",
+        "department": "Art",
+        "job": "Art Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2239909,
+        "known_for_department": "Art",
+        "name": "Sarah Schneider",
+        "original_name": "Sarah Schneider",
+        "popularity": 0.1868,
+        "profile_path": null,
+        "credit_id": "691464fd3cd80ce17f3a3beb",
+        "department": "Art",
+        "job": "Art Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5704212,
+        "known_for_department": "Production",
+        "name": "Elodie Alreira",
+        "original_name": "Elodie Alreira",
+        "popularity": 0.0699,
+        "profile_path": null,
+        "credit_id": "6914650b3eb4570f659c4a5c",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5012187,
+        "known_for_department": "Production",
+        "name": "André Capriotti-Schaefer",
+        "original_name": "André Capriotti-Schaefer",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69146518d0450fa3063a3bca",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3127551,
+        "known_for_department": "Acting",
+        "name": "Antonin Bonnot",
+        "original_name": "Antonin Bonnot",
+        "popularity": 0.1578,
+        "profile_path": null,
+        "credit_id": "6914652c540af423d04c90e7",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5812228,
+        "known_for_department": "Art",
+        "name": "Sabine Algan",
+        "original_name": "Sabine Algan",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "69146549a3d94d8baa31bec9",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5812229,
+        "known_for_department": "Art",
+        "name": "Dylan Marr",
+        "original_name": "Dylan Marr",
+        "popularity": 0.1292,
+        "profile_path": null,
+        "credit_id": "6914655c3137c7daf1875d2f",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5812230,
+        "known_for_department": "Art",
+        "name": "Lola Roubert",
+        "original_name": "Lola Roubert",
+        "popularity": 0.0483,
+        "profile_path": null,
+        "credit_id": "6914656d9913d3c4f9876d5e",
+        "department": "Art",
+        "job": "Sculptor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3793929,
+        "known_for_department": "Sound",
+        "name": "Antoine Bougeard",
+        "original_name": "Antoine Bougeard",
+        "popularity": 0.1418,
+        "profile_path": null,
+        "credit_id": "6914657ae8d241e7b5c06ca1",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1965742,
+        "known_for_department": "Sound",
+        "name": "Corvo Lepesant-Lamari",
+        "original_name": "Corvo Lepesant-Lamari",
+        "popularity": 0.2064,
+        "profile_path": null,
+        "credit_id": "69146585e8d241e7b5c06ca4",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2244483,
+        "known_for_department": "Sound",
+        "name": "Maxime Roy",
+        "original_name": "Maxime Roy",
+        "popularity": 0.2109,
+        "profile_path": null,
+        "credit_id": "6914658daebdc1993d876112",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5812232,
+        "known_for_department": "Lighting",
+        "name": "Leonin Gaudilliere",
+        "original_name": "Leonin Gaudilliere",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "6914659cf125b88b5631bf4a",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3583515,
+        "known_for_department": "Camera",
+        "name": "Iris Ibanez",
+        "original_name": "Iris Ibanez",
+        "popularity": 0.1914,
+        "profile_path": null,
+        "credit_id": "691465b45ffda4900c4c8dca",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5802456,
+        "known_for_department": "Production",
+        "name": "Laura Blazquez-Pachon",
+        "original_name": "Laura Blazquez-Pachon",
+        "popularity": 0.1652,
+        "profile_path": null,
+        "credit_id": "691465de965b35bb239ace1b",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5043740,
+        "known_for_department": "Crew",
+        "name": "Valérie Chavanon",
+        "original_name": "Valérie Chavanon",
+        "popularity": 0.1429,
+        "profile_path": null,
+        "credit_id": "6914660844d974b7e99c4a45",
+        "department": "Crew",
+        "job": "Animal Coordinator"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "Un été à la campagne. Guilhem et Anthony cherchent à bricoler leur sound-system pour faire la fête. Rosa tente d’attirer les cerfs à l’aide d’une sculpture grandeur nature. Et le fils du maire décerne des prix sur le stand de la brocante annuelle…",
+          "runtime": 25,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "A summer in the countryside. Guilhem and Anthony are trying to rig up their sound system for a party. Rosa is attempting to attract deer with a life-size sculpture. And the mayor's son is handing out prizes at the annual flea market...",
+          "runtime": 25,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt38855430",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/64fS3dTTG7fPAGNLtioNLv9xrdW.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1200
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-10-15T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

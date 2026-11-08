@@ -1,0 +1,544 @@
+{
+  "adult": false,
+  "backdrop_path": "/zGrjRXEpC2t35RxTOYnb9e61xNz.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 1729643,
+  "imdb_id": "tt38468616",
+  "origin_country": [
+    "AR",
+    "US"
+  ],
+  "original_language": "es",
+  "original_title": "La ilusión de un verano sin fin",
+  "overview": "Filmed over 25 years, acclaimed photographer Alessandra Sanguinetti traces the lives of two inseparable cousins in the Argentine farmlands, beginning as a childhood game of fantasy and evolving into a profound collaborative study of time, memory, and womanhood.",
+  "popularity": 0.9153,
+  "poster_path": "/pSTyPDEnDB6OQFDShkKFZzNY5Ve.jpg",
+  "production_companies": [
+    {
+      "id": 304060,
+      "logo_path": null,
+      "name": "Everlasting Summer",
+      "origin_country": ""
+    },
+    {
+      "id": 204957,
+      "logo_path": "/16gclYCHdh6QFQyBRNOo3DuaqDT.png",
+      "name": "MUBI",
+      "origin_country": "GB"
+    },
+    {
+      "id": 14909,
+      "logo_path": "/8fLjVGiX8adkseQMCIBYt3UYFiO.png",
+      "name": "Impact Partners",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-08-08",
+  "revenue": 0,
+  "runtime": 94,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Illusion of an Everlasting Summer",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6339947,
+        "known_for_department": "Acting",
+        "name": "Guillermina Aranciaga",
+        "original_name": "Guillermina Aranciaga",
+        "popularity": 0.0372,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Self",
+        "credit_id": "6a51714d0d1f469650b8564e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6339948,
+        "known_for_department": "Acting",
+        "name": "Belinda Stutz",
+        "original_name": "Belinda Stutz",
+        "popularity": 0.0897,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Self",
+        "credit_id": "6a51715284fe6d72ea205d8a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6339949,
+        "known_for_department": "Acting",
+        "name": "Juana Falconet",
+        "original_name": "Juana Falconet",
+        "popularity": 0.1065,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Self",
+        "credit_id": "6a517160e583fb49e86120da",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6339950,
+        "known_for_department": "Directing",
+        "name": "Alessandra Sanguinetti",
+        "original_name": "Alessandra Sanguinetti",
+        "popularity": 0.07,
+        "profile_path": "/fk3Br15Iw37EhBcBsDXIC5ukVVb.jpg",
+        "credit_id": "6a51716e9c2f368e03698153",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6339950,
+        "known_for_department": "Directing",
+        "name": "Alessandra Sanguinetti",
+        "original_name": "Alessandra Sanguinetti",
+        "popularity": 0.07,
+        "profile_path": "/fk3Br15Iw37EhBcBsDXIC5ukVVb.jpg",
+        "credit_id": "6a517174aa38e9029061203e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6339950,
+        "known_for_department": "Directing",
+        "name": "Alessandra Sanguinetti",
+        "original_name": "Alessandra Sanguinetti",
+        "popularity": 0.07,
+        "profile_path": "/fk3Br15Iw37EhBcBsDXIC5ukVVb.jpg",
+        "credit_id": "6a51717b84fe6d72ea205d95",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 226347,
+        "known_for_department": "Writing",
+        "name": "Julia Solomonoff",
+        "original_name": "Julia Solomonoff",
+        "popularity": 0.1944,
+        "profile_path": "/6BJTqiZJUG714CZJIlEi6Wsm6lU.jpg",
+        "credit_id": "6a517183a0cfb8a447e2deab",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1386373,
+        "known_for_department": "Editing",
+        "name": "Andrés Tambornino",
+        "original_name": "Andrés Tambornino",
+        "popularity": 0.21,
+        "profile_path": "/nmFOcdmzkuzfvhBj1fpC27YkMDT.jpg",
+        "credit_id": "6a51718f18b883649f205e2f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1284155,
+        "known_for_department": "Sound",
+        "name": "Lena Esquenazi",
+        "original_name": "Lena Esquenazi",
+        "popularity": 0.0754,
+        "profile_path": null,
+        "credit_id": "6a517197e07ba1f75bb5d174",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1583168,
+        "known_for_department": "Sound",
+        "name": "Leandro de Loredo",
+        "original_name": "Leandro de Loredo",
+        "popularity": 0.1156,
+        "profile_path": "/xheje56NgewXAZrSDaDFUZmcf0o.jpg",
+        "credit_id": "6a5171a101a01f83d1f28d43",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1601556,
+        "known_for_department": "Production",
+        "name": "Efe Çakarel",
+        "original_name": "Efe Çakarel",
+        "popularity": 0.4628,
+        "profile_path": "/xUAGiEVwKGTOFDpvms8YopSsH0h.jpg",
+        "credit_id": "6a52396b0be2b8a064c0caa1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2090613,
+        "known_for_department": "Production",
+        "name": "Zane Meyer",
+        "original_name": "Zane Meyer",
+        "popularity": 0.1837,
+        "profile_path": "/xsIDECFOAbH65rMhcPnzpVQQvVy.jpg",
+        "credit_id": "6a52397886d317bf23817195",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1161763,
+        "known_for_department": "Production",
+        "name": "Jenny Raskin",
+        "original_name": "Jenny Raskin",
+        "popularity": 0.5095,
+        "profile_path": "/o3EMS1cNq7dHpQSpp9o5fj2tggA.jpg",
+        "credit_id": "6a5239829c71cd223d2e8dc4",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3187888,
+        "known_for_department": "Production",
+        "name": "Jason Ropell",
+        "original_name": "Jason Ropell",
+        "popularity": 0.2374,
+        "profile_path": "/aXco4gG3AWD79xh677mRTwWFCeA.jpg",
+        "credit_id": "6a5239a5cd0334488a66c3f6",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5200026,
+        "known_for_department": "Production",
+        "name": "Laura Jacobs",
+        "original_name": "Laura Jacobs",
+        "popularity": 0.3289,
+        "profile_path": null,
+        "credit_id": "6a5239aed8f7faaa0366c3d2",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 164829,
+        "name": "cousin relationship"
+      },
+      {
+        "id": 364687,
+        "name": "adolescence vs. adulthood"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Filmed over 25 years, acclaimed photographer Alessandra Sanguinetti traces the lives of two inseparable cousins in the Argentine farmlands, beginning as a childhood game of fantasy and evolving into a profound collaborative study of time, memory, and womanhood.",
+          "runtime": 94,
+          "tagline": "",
+          "title": "The Illusion of an Everlasting Summer"
+        }
+      },
+      {
+        "iso_3166_1": "IT",
+        "iso_639_1": "it",
+        "name": "Italiano",
+        "english_name": "Italian",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "BR",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "homepage": "",
+          "overview": "A obra registra a vida das primas Guillermina e Belinda ao longo de 25 anos na Pampa rural argentina. Filmada de 1999 a 2024, capta a transição da infância para a vida adulta, a maternidade e as marcas do tempo.",
+          "runtime": 94,
+          "tagline": "",
+          "title": "A Ilusão de um Verão sem Fim"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt38468616",
+    "wikidata_id": "Q140646973",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/zGrjRXEpC2t35RxTOYnb9e61xNz.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/g8c4f0rWLx5VWnV7d3vmF74B1JG.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/pSTyPDEnDB6OQFDShkKFZzNY5Ve.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 720
+      },
+      {
+        "aspect_ratio": 0.75,
+        "height": 1707,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/sOog140kq1XZsl6T1K3D98xHziO.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1280
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Rio de Janeiro International Film Festival",
+            "release_date": "2026-10-01T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Festival du Nouveau Cinéma",
+            "release_date": "2026-10-12T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Locarno Film Festival",
+            "release_date": "2026-08-08T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "San Sebastián Internacional Film Festival ",
+            "release_date": "2026-09-22T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Leeds International Film Festival",
+            "release_date": "2026-11-04T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "IDFA International Documentary Film Festival Amsterdam",
+            "release_date": "2026-11-13T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "QCinema International Film Festival",
+            "release_date": "2026-11-13T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Telluride Film Festival ",
+            "release_date": "2026-09-05T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Camden International Film Festival ",
+            "release_date": "2026-09-17T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Mill Valley Film Festival ",
+            "release_date": "2026-10-06T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Illusion of an Everlasting Summer (2026)",
+        "key": "CjzQ3epxsRQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6a7b3e32ae71d82dbcb736a8",
+        "published_at": "2026-07-15T09:46:09.000Z"
+      }
+    ]
+  }
+}

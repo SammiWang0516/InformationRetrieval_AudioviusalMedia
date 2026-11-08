@@ -1,0 +1,323 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1557124,
+  "imdb_id": "tt38592102",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Rando",
+  "overview": "",
+  "popularity": 1.6726,
+  "poster_path": "/o5rZryVBdnKs7e1GTUA6fyaaEoN.jpg",
+  "production_companies": [
+    {
+      "id": 169728,
+      "logo_path": "/czdqu9miSXvgbVFZxKH9BaOkFnV.png",
+      "name": "Eclettica",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2025-11-02",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "Rando",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3127535,
+        "known_for_department": "Acting",
+        "name": "Marco Valerio Bartocci",
+        "original_name": "Marco Valerio Bartocci",
+        "popularity": 0.5206,
+        "profile_path": "/l7gc3ng1elQ8ixxld0IQ5JcociL.jpg",
+        "cast_id": 1,
+        "character": "Lorenzo",
+        "credit_id": "68e166d3a0f27065a525ac13",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 129108,
+        "known_for_department": "Acting",
+        "name": "Valeria Bilello",
+        "original_name": "Valeria Bilello",
+        "popularity": 0.4511,
+        "profile_path": "/mR2SGckkRuScBhJeD42EXeygNgc.jpg",
+        "cast_id": 2,
+        "character": "Silvia",
+        "credit_id": "68e166e49c0452f88f61728e",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5729227,
+        "known_for_department": "Acting",
+        "name": "Giovanni Izzo",
+        "original_name": "Giovanni Izzo",
+        "popularity": 0.1148,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Franco",
+        "credit_id": "68e1672a9c0452f88f6172a0",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1934576,
+        "known_for_department": "Acting",
+        "name": "Giusi Merli",
+        "original_name": "Giusi Merli",
+        "popularity": 0.2871,
+        "profile_path": "/90lHFn3PUJdoHHzcYRS2Ky1gbyi.jpg",
+        "cast_id": 4,
+        "character": "Nonna",
+        "credit_id": "68e167367451cdade5c26a4c",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3900849,
+        "known_for_department": "Directing",
+        "name": "Edoardo Ulivelli",
+        "original_name": "Edoardo Ulivelli",
+        "popularity": 0.0784,
+        "profile_path": null,
+        "credit_id": "68e16b07926f04632836ddbd",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3900849,
+        "known_for_department": "Directing",
+        "name": "Edoardo Ulivelli",
+        "original_name": "Edoardo Ulivelli",
+        "popularity": 0.0784,
+        "profile_path": null,
+        "credit_id": "68e16b1e2be556d05b960fc5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3900849,
+        "known_for_department": "Directing",
+        "name": "Edoardo Ulivelli",
+        "original_name": "Edoardo Ulivelli",
+        "popularity": 0.0784,
+        "profile_path": null,
+        "credit_id": "68e16b2db5568dabc3c26a6b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2827816,
+        "known_for_department": "Directing",
+        "name": "Lorenzo Maria Chierici",
+        "original_name": "Lorenzo Maria Chierici",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "68e16baafa536d7f6fc26b24",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4472566,
+        "known_for_department": "Writing",
+        "name": "Vernante Pallotti",
+        "original_name": "Vernante Pallotti",
+        "popularity": 0.0667,
+        "profile_path": null,
+        "credit_id": "68e16bd01984999f4b25ac0b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3112244,
+        "known_for_department": "Camera",
+        "name": "Camilla Cattabriga",
+        "original_name": "Camilla Cattabriga",
+        "popularity": 0.0865,
+        "profile_path": null,
+        "credit_id": "68e16be7fa536d7f6fc26b38",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3422393,
+        "known_for_department": "Directing",
+        "name": "Andrea Sbarbaro",
+        "original_name": "Andrea Sbarbaro",
+        "popularity": 0.2815,
+        "profile_path": "/lFL68HjZZmf0EK24zgAWgDS7HgD.jpg",
+        "credit_id": "68e16bfc0bceb852f99ca351",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2619150,
+        "known_for_department": "Art",
+        "name": "Francesco Bacci",
+        "original_name": "Francesco Bacci",
+        "popularity": 0.067,
+        "profile_path": null,
+        "credit_id": "68e16c1f266976838ec26af6",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2107295,
+        "known_for_department": "Production",
+        "name": "Andrea Rapallini",
+        "original_name": "Andrea Rapallini",
+        "popularity": 0.1893,
+        "profile_path": null,
+        "credit_id": "68e16c367ed9c6f53e25ad8c",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3247333,
+        "known_for_department": "Directing",
+        "name": "Riccardo Copreni",
+        "original_name": "Riccardo Copreni",
+        "popularity": 0.498,
+        "profile_path": "/83gUaBNrTfjdqy6HrElDn72ict9.jpg",
+        "credit_id": "68e16c5052669dab81f81110",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3900853,
+        "known_for_department": "Sound",
+        "name": "Filippo Landi",
+        "original_name": "Filippo Landi",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "68e16c87698ac5bbc9c26b69",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "IT",
+        "iso_639_1": "it",
+        "name": "Italiano",
+        "english_name": "Italian",
+        "data": {
+          "homepage": "",
+          "overview": "Un bambino si rifugia emotivamente nel suo cartone animato preferito, mentre sua madre prova a ricondurlo in quel mondo reale che lui non è pronto ad affrontare.",
+          "runtime": 13,
+          "tagline": "Una favola sull'infanzia, la perdita e l'immaginazione.",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt38592102",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.749,
+        "height": 1716,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/o5rZryVBdnKs7e1GTUA6fyaaEoN.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1285
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-11-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

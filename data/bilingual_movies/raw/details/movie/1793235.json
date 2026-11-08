@@ -1,0 +1,577 @@
+{
+  "adult": false,
+  "backdrop_path": "/osZJ8XXXT3B7Cwxk4Pqdnw0W4XJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 1400,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1793235,
+  "imdb_id": null,
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_title": "Vilo",
+  "overview": "",
+  "popularity": 0.7394,
+  "poster_path": "/oyLFlhEZ2jhRSKf3sUUvOx71tML.jpg",
+  "production_companies": [
+    {
+      "id": 313767,
+      "logo_path": null,
+      "name": "Cinematopia",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "release_date": "2026-10-16",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "Vilo",
+  "video": false,
+  "vote_average": 10.0,
+  "vote_count": 2,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6538697,
+        "known_for_department": "Acting",
+        "name": "Gael Alexis",
+        "original_name": "Gael Alexis",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Vilo",
+        "credit_id": "6ac9a0b23e34ee7235224424",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6538698,
+        "known_for_department": "Acting",
+        "name": "Sofía Arizpe",
+        "original_name": "Sofía Arizpe",
+        "popularity": 0.1601,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Ale",
+        "credit_id": "6ac9a0c204dbc4a8a179fc04",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6368653,
+        "known_for_department": "Acting",
+        "name": "Juan Alanís Tamez",
+        "original_name": "Juan Alanís Tamez",
+        "popularity": 0.0575,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Tito Juan",
+        "credit_id": "6ac9a0e37f5a5d08f2d3307b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3698648,
+        "known_for_department": "Directing",
+        "name": "Roberto A. Carlos",
+        "original_name": "Roberto A. Carlos",
+        "popularity": 0.1412,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Manager",
+        "credit_id": "6ac9a0f9c294327689d3308e",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6538699,
+        "known_for_department": "Acting",
+        "name": "Zalo Hernández",
+        "original_name": "Zalo Hernández",
+        "popularity": 0.1712,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Zalo",
+        "credit_id": "6ac9a10f1e0d0ab89de88910",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6538700,
+        "known_for_department": "Directing",
+        "name": "Alex Sánchez Falcón",
+        "original_name": "Alex Sánchez Falcón",
+        "popularity": 0.1529,
+        "profile_path": "/ntgCt2xg8zT2ZrFEbwQfLAyOS4U.jpg",
+        "credit_id": "6ac9a1321898cf09e9480755",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6538700,
+        "known_for_department": "Directing",
+        "name": "Alex Sánchez Falcón",
+        "original_name": "Alex Sánchez Falcón",
+        "popularity": 0.1529,
+        "profile_path": "/ntgCt2xg8zT2ZrFEbwQfLAyOS4U.jpg",
+        "credit_id": "6ac9a14ef4f93f5f77de32e9",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6538701,
+        "known_for_department": "Production",
+        "name": "César Zavala",
+        "original_name": "César Zavala",
+        "popularity": 0.0513,
+        "profile_path": null,
+        "credit_id": "6ac9a16bc90cee663222438d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6538700,
+        "known_for_department": "Directing",
+        "name": "Alex Sánchez Falcón",
+        "original_name": "Alex Sánchez Falcón",
+        "popularity": 0.1529,
+        "profile_path": "/ntgCt2xg8zT2ZrFEbwQfLAyOS4U.jpg",
+        "credit_id": "6ac9a1800b704dde0279fba0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6538702,
+        "known_for_department": "Production",
+        "name": "Daniel Pastrana",
+        "original_name": "Daniel Pastrana",
+        "popularity": 0.0461,
+        "profile_path": null,
+        "credit_id": "6ac9a1a67f21da9e914806f7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6538703,
+        "known_for_department": "Art",
+        "name": "Valeria Flores",
+        "original_name": "Valeria Flores",
+        "popularity": 0.052,
+        "profile_path": null,
+        "credit_id": "6ac9a1cb705bfae8ce79fb78",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6538705,
+        "known_for_department": "Art",
+        "name": "Karol García Gaytán",
+        "original_name": "Karol García Gaytán",
+        "popularity": 0.186,
+        "profile_path": "/xNSsnOvZ9RwruzQ9nhcLISyKNsz.jpg",
+        "credit_id": "6ac9a1e8ee912c4179480771",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6538710,
+        "known_for_department": "Art",
+        "name": "Nubia Salazar",
+        "original_name": "Nubia Salazar",
+        "popularity": 0.0513,
+        "profile_path": null,
+        "credit_id": "6ac9a246654470e4a2e88967",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6538712,
+        "known_for_department": "Camera",
+        "name": "Alexander Domenech",
+        "original_name": "Alexander Domenech",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6ac9a287e60e2c4b0dd3309b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6538718,
+        "known_for_department": "Camera",
+        "name": "Damián Carrasco Madrigal",
+        "original_name": "Damián Carrasco Madrigal",
+        "popularity": 0.0461,
+        "profile_path": null,
+        "credit_id": "6ac9a2d4d9a621cef579fbce",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6538719,
+        "known_for_department": "Camera",
+        "name": "Diego Aguilar",
+        "original_name": "Diego Aguilar",
+        "popularity": 0.0513,
+        "profile_path": null,
+        "credit_id": "6ac9a3107f5a5d08f2d33093",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6538705,
+        "known_for_department": "Art",
+        "name": "Karol García Gaytán",
+        "original_name": "Karol García Gaytán",
+        "popularity": 0.186,
+        "profile_path": "/xNSsnOvZ9RwruzQ9nhcLISyKNsz.jpg",
+        "credit_id": "6ac9a32ebcaa370d2de88950",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6538700,
+        "known_for_department": "Directing",
+        "name": "Alex Sánchez Falcón",
+        "original_name": "Alex Sánchez Falcón",
+        "popularity": 0.1529,
+        "profile_path": "/ntgCt2xg8zT2ZrFEbwQfLAyOS4U.jpg",
+        "credit_id": "6ac9a34e5836f536fdd33112",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6538720,
+        "known_for_department": "Sound",
+        "name": "Braulio Corral",
+        "original_name": "Braulio Corral",
+        "popularity": 0.0568,
+        "profile_path": null,
+        "credit_id": "6ac9a372c90cee66322243ac",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5646517,
+        "known_for_department": "Art",
+        "name": "César Adriano Estala Espinosa",
+        "original_name": "César Adriano Estala Espinosa",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "6ac9a39957f42245e722438d",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6538721,
+        "known_for_department": "Sound",
+        "name": "Luis Chapa",
+        "original_name": "Luis Chapa",
+        "popularity": 0.052,
+        "profile_path": null,
+        "credit_id": "6ac9a3ade8402e670e480760",
+        "department": "Sound",
+        "job": "Sound Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6538723,
+        "known_for_department": "Directing",
+        "name": "Sara Rodríguez Castillo",
+        "original_name": "Sara Rodríguez Castillo",
+        "popularity": 0.0513,
+        "profile_path": null,
+        "credit_id": "6ac9a3dfa0eeac4391de32e5",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6538727,
+        "known_for_department": "Directing",
+        "name": "Brenda Sustaita",
+        "original_name": "Brenda Sustaita",
+        "popularity": 0.0513,
+        "profile_path": null,
+        "credit_id": "6ac9a3f91898cf09e948077f",
+        "department": "Directing",
+        "job": "Continuity"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5952183,
+        "known_for_department": "Lighting",
+        "name": "Napoleón Cruz",
+        "original_name": "Napoleón Cruz",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "6ac9a43f705bfae8ce79fbb2",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6538732,
+        "known_for_department": "Lighting",
+        "name": "Dante \"Sky\" George",
+        "original_name": "Dante \"Sky\" George",
+        "popularity": 0.0548,
+        "profile_path": null,
+        "credit_id": "6ac9a47e04dbc4a8a179fc2b",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6538733,
+        "known_for_department": "Sound",
+        "name": "Tony Vask",
+        "original_name": "Tony Vask",
+        "popularity": 0.0485,
+        "profile_path": null,
+        "credit_id": "6ac9a4c02f4863209fde3348",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6538734,
+        "known_for_department": "Production",
+        "name": "Flavio Dimas",
+        "original_name": "Flavio Dimas",
+        "popularity": 0.0572,
+        "profile_path": null,
+        "credit_id": "6ac9a4e9c294327689d330bb",
+        "department": "Production",
+        "job": "Data Management Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6538737,
+        "known_for_department": "Production",
+        "name": "Erik Villalobos",
+        "original_name": "Erik Villalobos",
+        "popularity": 0.052,
+        "profile_path": null,
+        "credit_id": "6ac9a5abe8402e670e480773",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6538738,
+        "known_for_department": "Production",
+        "name": "David Sánchez Vargas",
+        "original_name": "David Sánchez Vargas",
+        "popularity": 0.0513,
+        "profile_path": null,
+        "credit_id": "6ac9a5bf57f42245e72243ad",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5952183,
+        "known_for_department": "Lighting",
+        "name": "Napoleón Cruz",
+        "original_name": "Napoleón Cruz",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "6ac9a5e6cb090b941ede3298",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6538740,
+        "known_for_department": "Production",
+        "name": "Juan Luis Falcón",
+        "original_name": "Juan Luis Falcón",
+        "popularity": 0.046,
+        "profile_path": null,
+        "credit_id": "6ac9a5f5dfb94168f1d33111",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6538741,
+        "known_for_department": "Production",
+        "name": "Gloria Falcón",
+        "original_name": "Gloria Falcón",
+        "popularity": 0.0471,
+        "profile_path": null,
+        "credit_id": "6ac9a604f16cdb4a10e889f4",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 5609,
+        "name": "nostalgia"
+      },
+      {
+        "id": 325765,
+        "name": "amused"
+      },
+      {
+        "id": 325784,
+        "name": "comforting"
+      },
+      {
+        "id": 325807,
+        "name": "enchant"
+      },
+      {
+        "id": 385745,
+        "name": "vilo"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "MX",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Tras un reencuentro inesperado, Vilo, un robot asistente convertido en músico, deberá hacer las pases con su pasado antes de subir al escenario.",
+          "runtime": 9,
+          "tagline": "\"Tal vez esto es para lo que te construyeron, pero eso es para lo que estás hecho.\"",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/osZJ8XXXT3B7Cwxk4Pqdnw0W4XJ.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.75,
+        "height": 2048,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/oyLFlhEZ2jhRSKf3sUUvOx71tML.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1536
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "A",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "",
+            "release_date": "2026-10-16T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

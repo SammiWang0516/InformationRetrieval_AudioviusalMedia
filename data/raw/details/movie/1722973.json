@@ -1,0 +1,714 @@
+{
+  "adult": false,
+  "backdrop_path": "/d26k4FKTCYr56MtciUuUOQeLpp1.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1722973,
+  "imdb_id": null,
+  "origin_country": [
+    "PT"
+  ],
+  "original_language": "pt",
+  "original_title": "A Pulga",
+  "overview": "One hot night, a child captures the ‘beast’ that has long haunted the chicken coops in their village. The next day, racked with guilt at having hunted it down, she joins her cousins to save it from the adults’ punishment, but hides the fact that it was her hand that wounded it.",
+  "popularity": 0.4643,
+  "poster_path": "/63D9RrGmuF2xdWbFmrL0qNegEdm.jpg",
+  "production_companies": [
+    {
+      "id": 73801,
+      "logo_path": "/rgCuDxkHFEcRptf8BwaOtISoNzH.png",
+      "name": "Escola Superior de Teatro e Cinema",
+      "origin_country": "PT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "release_date": "2026-10-21",
+  "revenue": 0,
+  "runtime": 24,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "A Pulga",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6316015,
+        "known_for_department": "Acting",
+        "name": "Laura Caracol",
+        "original_name": "Laura Caracol",
+        "popularity": 0.0842,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Pulga",
+        "credit_id": "6a42595c603418d3a14e650d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6316017,
+        "known_for_department": "Acting",
+        "name": "Gabriel Nunes",
+        "original_name": "Gabriel Nunes",
+        "popularity": 0.0383,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Monteiro",
+        "credit_id": "6a42598fe909a68d13d8f1aa",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6316018,
+        "known_for_department": "Acting",
+        "name": "João Ferro",
+        "original_name": "João Ferro",
+        "popularity": 0.0478,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Toni",
+        "credit_id": "6a4259aabde46565fb96b845",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6316019,
+        "known_for_department": "Acting",
+        "name": "Simão Benta",
+        "original_name": "Simão Benta",
+        "popularity": 0.038,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Gil",
+        "credit_id": "6a4259bc8645097bb022b432",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6316020,
+        "known_for_department": "Acting",
+        "name": "Francisco Azevedo",
+        "original_name": "Francisco Azevedo",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Luisinho",
+        "credit_id": "6a4259d2c7f7b74c8b22b411",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5693047,
+        "known_for_department": "Directing",
+        "name": "Francisco João",
+        "original_name": "Francisco João",
+        "popularity": 0.105,
+        "profile_path": null,
+        "credit_id": "6a4259f3f9b7a6807bcad044",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4525014,
+        "known_for_department": "Directing",
+        "name": "Vasco Morais",
+        "original_name": "Vasco Morais",
+        "popularity": 0.038,
+        "profile_path": null,
+        "credit_id": "6a425a051eaa8b024822b43b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4525016,
+        "known_for_department": "Writing",
+        "name": "Duarte Rita",
+        "original_name": "Duarte Rita",
+        "popularity": 0.0473,
+        "profile_path": null,
+        "credit_id": "6a425a1e23ca8fd1c396b903",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4525018,
+        "known_for_department": "Production",
+        "name": "Raquel Porfírio",
+        "original_name": "Raquel Porfírio",
+        "popularity": 0.1306,
+        "profile_path": null,
+        "credit_id": "6a425a47d07c9891932c8e94",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5676578,
+        "known_for_department": "Production",
+        "name": "Rodrigo Rosário",
+        "original_name": "Rodrigo Rosário",
+        "popularity": 0.1451,
+        "profile_path": null,
+        "credit_id": "6a425a5fbcdd9aa0524e64f6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4519538,
+        "known_for_department": "Sound",
+        "name": "Pablo Dias Gomes",
+        "original_name": "Pablo Dias Gomes",
+        "popularity": 0.0432,
+        "profile_path": null,
+        "credit_id": "6a425a7c273766664290609a",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4523743,
+        "known_for_department": "Camera",
+        "name": "Mariana Martins",
+        "original_name": "Mariana Martins",
+        "popularity": 0.1443,
+        "profile_path": null,
+        "credit_id": "6a425aa0f9b7a6807bcad051",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4523750,
+        "known_for_department": "Lighting",
+        "name": "Alexandre Braz Henriques",
+        "original_name": "Alexandre Braz Henriques",
+        "popularity": 0.058,
+        "profile_path": null,
+        "credit_id": "6a425ab3bcdd9aa0524e64fe",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4525016,
+        "known_for_department": "Writing",
+        "name": "Duarte Rita",
+        "original_name": "Duarte Rita",
+        "popularity": 0.0473,
+        "profile_path": null,
+        "credit_id": "6a425b97686e229454b4bebd",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4525024,
+        "known_for_department": "Camera",
+        "name": "Tomás Veríssimo",
+        "original_name": "Tomás Pereira",
+        "popularity": 0.1081,
+        "profile_path": "/mWmICx5z66Pm0UywzDvM1IjK3m5.jpg",
+        "credit_id": "6a425bf3ea362ba698d8f1c9",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4522838,
+        "known_for_department": "Writing",
+        "name": "Miriam Carlos",
+        "original_name": "Miriam Carlos",
+        "popularity": 0.126,
+        "profile_path": null,
+        "credit_id": "6a425de7ea362ba698d8f1ed",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3915729,
+        "known_for_department": "Camera",
+        "name": "Ana Rita Barata",
+        "original_name": "Ana Rita Barata",
+        "popularity": 0.0489,
+        "profile_path": null,
+        "credit_id": "6a425e35b544215151d8f1e0",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4525022,
+        "known_for_department": "Sound",
+        "name": "Bruno D'Azar",
+        "original_name": "Bruno D'Azar",
+        "popularity": 0.1124,
+        "profile_path": null,
+        "credit_id": "6a425e46c0abc6d2cf2c8ec1",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4519539,
+        "known_for_department": "Sound",
+        "name": "Baltasar Cruz",
+        "original_name": "Baltasar Cruz",
+        "popularity": 0.1152,
+        "profile_path": null,
+        "credit_id": "6a425e640c12d9206d2c8eb4",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4522842,
+        "known_for_department": "Sound",
+        "name": "Maria de Oliveira Antunes",
+        "original_name": "Maria de Oliveira Antunes",
+        "popularity": 0.0386,
+        "profile_path": "/jvyg3VOAx9p8Mkm6pk2QxZprsSQ.jpg",
+        "credit_id": "6a425e95686e229454b4bee9",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4522847,
+        "known_for_department": "Sound",
+        "name": "Inês Coelho",
+        "original_name": "Inês Coelho",
+        "popularity": 0.1789,
+        "profile_path": null,
+        "credit_id": "6a425ea5e0ae13f56422b4ac",
+        "department": "Sound",
+        "job": "Sound Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4525023,
+        "known_for_department": "Sound",
+        "name": "Thiago Marcelino",
+        "original_name": "Thiago Marcelino",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6a425eb3cf343410f422b4c2",
+        "department": "Sound",
+        "job": "Sound Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4523746,
+        "known_for_department": "Sound",
+        "name": "Jordão Lima",
+        "original_name": "Jordão Lima",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a425ed918e7bcfc6db4bf20",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4519533,
+        "known_for_department": "Camera",
+        "name": "José Mendes",
+        "original_name": "José Mendes",
+        "popularity": 0.1421,
+        "profile_path": null,
+        "credit_id": "6a425f0191721c0708f79129",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4522835,
+        "known_for_department": "Directing",
+        "name": "Eliana Farinha",
+        "original_name": "Eliana Farinha",
+        "popularity": 0.0495,
+        "profile_path": null,
+        "credit_id": "6a425f16654e255390cad0a5",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2619716,
+        "known_for_department": "Crew",
+        "name": "Rita Grazina",
+        "original_name": "Rita Grazina",
+        "popularity": 0.1365,
+        "profile_path": null,
+        "credit_id": "6a425f3856582a72080d3a17",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4519538,
+        "known_for_department": "Sound",
+        "name": "Pablo Dias Gomes",
+        "original_name": "Pablo Dias Gomes",
+        "popularity": 0.0432,
+        "profile_path": null,
+        "credit_id": "6a425f51d635fb18710d3a3d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4523744,
+        "known_for_department": "Camera",
+        "name": "Beatriz Oliveira",
+        "original_name": "Beatriz Oliveira",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a425f7684482ba8d6cad039",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4525024,
+        "known_for_department": "Camera",
+        "name": "Tomás Veríssimo",
+        "original_name": "Tomás Pereira",
+        "popularity": 0.1081,
+        "profile_path": "/mWmICx5z66Pm0UywzDvM1IjK3m5.jpg",
+        "credit_id": "6a425fb90c12d9206d2c8ee4",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4519529,
+        "known_for_department": "Writing",
+        "name": "Afonso Pescada",
+        "original_name": "Afonso Pescada",
+        "popularity": 0.063,
+        "profile_path": null,
+        "credit_id": "6a425fda4f410596820d3a15",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4525018,
+        "known_for_department": "Production",
+        "name": "Raquel Porfírio",
+        "original_name": "Raquel Porfírio",
+        "popularity": 0.1306,
+        "profile_path": null,
+        "credit_id": "6a42a20b0aad72940306123d",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3915729,
+        "known_for_department": "Camera",
+        "name": "Ana Rita Barata",
+        "original_name": "Ana Rita Barata",
+        "popularity": 0.0489,
+        "profile_path": null,
+        "credit_id": "6a42a23b652ed16ef2c3a004",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4523744,
+        "known_for_department": "Camera",
+        "name": "Beatriz Oliveira",
+        "original_name": "Beatriz Oliveira",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a42a259fafe61c45389d794",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5524250,
+        "known_for_department": "Crew",
+        "name": "Madalena Varandas",
+        "original_name": "Madalena Varandas",
+        "popularity": 0.0544,
+        "profile_path": null,
+        "credit_id": "6a42a2719629613c94af0376",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6024840,
+        "known_for_department": "Production",
+        "name": "Margarida Belo",
+        "original_name": "Margarida Belo",
+        "popularity": 0.0916,
+        "profile_path": null,
+        "credit_id": "6a42a284b4684bea7ea1057c",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5524238,
+        "known_for_department": "Directing",
+        "name": "Ana Fiúza",
+        "original_name": "Ana Fiúza",
+        "popularity": 0.1423,
+        "profile_path": null,
+        "credit_id": "6a42a3b85af58348aaa105ab",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5223068,
+        "known_for_department": "Directing",
+        "name": "Daniela Figueiredo",
+        "original_name": "Daniela Figueiredo",
+        "popularity": 0.0498,
+        "profile_path": null,
+        "credit_id": "6a42a41e9629613c94af0383",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6316576,
+        "known_for_department": "Art",
+        "name": "Beatriz Graça",
+        "original_name": "Beatriz Graça",
+        "popularity": 0.046,
+        "profile_path": null,
+        "credit_id": "6a42a459b4684bea7ea1058c",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4523734,
+        "known_for_department": "Production",
+        "name": "João Bispo",
+        "original_name": "João Bispo",
+        "popularity": 0.038,
+        "profile_path": null,
+        "credit_id": "6a42a4a1bed6bae976c3a036",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5524238,
+        "known_for_department": "Directing",
+        "name": "Ana Fiúza",
+        "original_name": "Ana Fiúza",
+        "popularity": 0.1423,
+        "profile_path": null,
+        "credit_id": "6a43dee23dbcf4376bd9f77a",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5263433,
+        "known_for_department": "Sound",
+        "name": "Silvio Machado",
+        "original_name": "Silvio Machado",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "6a43defc168744e496829642",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5524250,
+        "known_for_department": "Crew",
+        "name": "Madalena Varandas",
+        "original_name": "Madalena Varandas",
+        "popularity": 0.0544,
+        "profile_path": null,
+        "credit_id": "6a43df1401247a6bd6829434",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4519536,
+        "known_for_department": "Lighting",
+        "name": "Diogo Lopes",
+        "original_name": "Diogo Lopes",
+        "popularity": 0.1217,
+        "profile_path": null,
+        "credit_id": "6a43df2bac34a0c622bc61b3",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3722401,
+        "known_for_department": "Directing",
+        "name": "João Rebocho",
+        "original_name": "João Rebocho",
+        "popularity": 0.1225,
+        "profile_path": null,
+        "credit_id": "6a43df63ba04f868ab3b5392",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "One hot night, a child captures the ‘beast’ that has long haunted the chicken coops in their village. The next day, racked with guilt at having hunted it down, she joins her cousins to save it from the adults’ punishment, but hides the fact that it was her hand that wounded it.",
+          "runtime": 24,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/d26k4FKTCYr56MtciUuUOQeLpp1.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/63D9RrGmuF2xdWbFmrL0qNegEdm.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "pt",
+            "note": "",
+            "release_date": "2026-10-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

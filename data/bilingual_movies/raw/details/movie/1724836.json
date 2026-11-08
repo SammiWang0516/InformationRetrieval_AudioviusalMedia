@@ -1,0 +1,640 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 7000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1724836,
+  "imdb_id": "tt37313636",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Passion machinale",
+  "overview": "",
+  "popularity": 1.6912,
+  "poster_path": "/dMq3d2tRBoHLs3BE5Vi2LKWtgLD.jpg",
+  "production_companies": [
+    {
+      "id": 303132,
+      "logo_path": null,
+      "name": "Underground City Production",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2026-08-01",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Passion machinale",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2018995,
+        "known_for_department": "Acting",
+        "name": "Marie-Joanne Boucher",
+        "original_name": "Marie-Joanne Boucher",
+        "popularity": 0.138,
+        "profile_path": "/xyF6hSiGlUbzgPQqWpEizBksuoG.jpg",
+        "cast_id": 1,
+        "character": "Valérie",
+        "credit_id": "6a4c4277bb2464635a3c1128",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4048238,
+        "known_for_department": "Acting",
+        "name": "Marianne Labonté",
+        "original_name": "Marianne Labonté",
+        "popularity": 0.1023,
+        "profile_path": "/pkSHEd1xBqaUqDVvXHm2B8cq9Uj.jpg",
+        "cast_id": 2,
+        "character": "Hénia",
+        "credit_id": "6a4c4282d5318d93a5fdc7f0",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1200396,
+        "known_for_department": "Acting",
+        "name": "Frédérike Bédard",
+        "original_name": "Frédérike Bédard",
+        "popularity": 0.0896,
+        "profile_path": "/aZcBoW9QxwbYclwSoWv7H2QHmfN.jpg",
+        "cast_id": 3,
+        "character": "Jeanne",
+        "credit_id": "6a4c429b15fb17bef1e743bc",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1939043,
+        "known_for_department": "Acting",
+        "name": "Patrick Renaud",
+        "original_name": "Patrick Renaud",
+        "popularity": 0.1249,
+        "profile_path": "/ne4GUA2WUzbL5qx5nAcec1n0Ht0.jpg",
+        "cast_id": 4,
+        "character": "Homme haineux",
+        "credit_id": "6a4c42a920ad0a50fffdc828",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5731926,
+        "known_for_department": "Acting",
+        "name": "Marc-André Decoste",
+        "original_name": "Marc-André Decoste",
+        "popularity": 0.3411,
+        "profile_path": "/i6czS6tlF2PaaOq7qTkabEKrz9S.jpg",
+        "cast_id": 8,
+        "character": "Serveur au bar",
+        "credit_id": "6a4c458e89fdeda2fad3677d",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5731966,
+        "known_for_department": "Art",
+        "name": "Juliette Taylor",
+        "original_name": "Juliette Taylor",
+        "popularity": 0.0911,
+        "profile_path": null,
+        "credit_id": "6a4c4362445000e69a3c10fa",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4111724,
+        "known_for_department": "Writing",
+        "name": "Justin Taylor",
+        "original_name": "Justin Taylor",
+        "popularity": 0.2936,
+        "profile_path": null,
+        "credit_id": "6a4c437444e34a039bd36775",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3648907,
+        "known_for_department": "Production",
+        "name": "Benjamin Schiavi-Paris",
+        "original_name": "Benjamin Schiavi-Paris",
+        "popularity": 0.2683,
+        "profile_path": null,
+        "credit_id": "6a4c454fe917672de9fdc8a9",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5731966,
+        "known_for_department": "Art",
+        "name": "Juliette Taylor",
+        "original_name": "Juliette Taylor",
+        "popularity": 0.0911,
+        "profile_path": null,
+        "credit_id": "6a4c45a9043cbd86b72d64a9",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4111724,
+        "known_for_department": "Writing",
+        "name": "Justin Taylor",
+        "original_name": "Justin Taylor",
+        "popularity": 0.2936,
+        "profile_path": null,
+        "credit_id": "6a4c45cde917672de9fdc8c0",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6321285,
+        "known_for_department": "Production",
+        "name": "Jasmine Fournier",
+        "original_name": "Jasmine Fournier",
+        "popularity": 0.0851,
+        "profile_path": null,
+        "credit_id": "6a4c45f4d232ae4944e743b4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6199424,
+        "known_for_department": "Crew",
+        "name": "Rémy Dolbec-Pilon",
+        "original_name": "Rémy Dolbec-Pilon",
+        "popularity": 0.1759,
+        "profile_path": null,
+        "credit_id": "6a4c460a4c239da5978ef8df",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5731966,
+        "known_for_department": "Art",
+        "name": "Juliette Taylor",
+        "original_name": "Juliette Taylor",
+        "popularity": 0.0911,
+        "profile_path": null,
+        "credit_id": "6a4c461632eb11f752d36746",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4111724,
+        "known_for_department": "Writing",
+        "name": "Justin Taylor",
+        "original_name": "Justin Taylor",
+        "popularity": 0.2936,
+        "profile_path": null,
+        "credit_id": "6a4c46214883f9b8958ef940",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6331290,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Thomas Frillici",
+        "original_name": "Thomas Frillici",
+        "popularity": 0.0502,
+        "profile_path": null,
+        "credit_id": "6a4c46670e8accc9ebe743d4",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5731983,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sarah Héroux",
+        "original_name": "Sarah Héroux",
+        "popularity": 0.0953,
+        "profile_path": null,
+        "credit_id": "6a4c469b119fdd2f22d3671e",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5731983,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sarah Héroux",
+        "original_name": "Sarah Héroux",
+        "popularity": 0.0953,
+        "profile_path": null,
+        "credit_id": "6a4c46abb7631397e9fdc825",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5731981,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Léa Sagnard",
+        "original_name": "Léa Sagnard",
+        "popularity": 0.1389,
+        "profile_path": null,
+        "credit_id": "6a4c46bd7eeb61f6993c1183",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5731981,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Léa Sagnard",
+        "original_name": "Léa Sagnard",
+        "popularity": 0.1389,
+        "profile_path": null,
+        "credit_id": "6a4c46cbe6793a9b7ddedbd8",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6331291,
+        "known_for_department": "Directing",
+        "name": "Delphine Grégoire-Gendron",
+        "original_name": "Delphine Grégoire-Gendron",
+        "popularity": 0.0978,
+        "profile_path": null,
+        "credit_id": "6a4c46f3626d50610c2d667a",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2913357,
+        "known_for_department": "Directing",
+        "name": "Tommy Harvey",
+        "original_name": "Tommy Harvey",
+        "popularity": 0.2383,
+        "profile_path": "/R27Du4WQ8jqGD4FZSFHsCpeXBr.jpg",
+        "credit_id": "6a4c46ffa66a2db9f8dedbd7",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6331292,
+        "known_for_department": "Directing",
+        "name": "Camille Schvirtz",
+        "original_name": "Camille Schvirtz",
+        "popularity": 0.1165,
+        "profile_path": null,
+        "credit_id": "6a4c472b8807e5c3e115cf44",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4634788,
+        "known_for_department": "Art",
+        "name": "Jean-Gabriel Cyr",
+        "original_name": "Jean-Gabriel Cyr",
+        "popularity": 0.039,
+        "profile_path": "/qdVWHdJhLEoPt8wrr3crF6K5iFc.jpg",
+        "credit_id": "6a4c473d20ad0a50fffdc85d",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5434691,
+        "known_for_department": "Sound",
+        "name": "Thomas Giros",
+        "original_name": "Thomas Giros",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "credit_id": "6a4c4772e6793a9b7ddedbde",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4498049,
+        "known_for_department": "Sound",
+        "name": "Paul Hannouche",
+        "original_name": "Paul Hannouche",
+        "popularity": 0.0519,
+        "profile_path": "/dAYPp6ugjsQMH2Oj4qcifwwAY5D.jpg",
+        "credit_id": "6a4c47a1ca1b396f8e8ef8a1",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6199424,
+        "known_for_department": "Crew",
+        "name": "Rémy Dolbec-Pilon",
+        "original_name": "Rémy Dolbec-Pilon",
+        "popularity": 0.1759,
+        "profile_path": null,
+        "credit_id": "6a4c47b80e8accc9ebe743dc",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3892214,
+        "known_for_department": "Camera",
+        "name": "Jérémie Gravel",
+        "original_name": "Jérémie Gravel",
+        "popularity": 0.6198,
+        "profile_path": "/pe0THZn6fiuRKtsFn8qZ0T8oON2.jpg",
+        "credit_id": "6a4c47c7d232ae4944e743d1",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6331293,
+        "known_for_department": "Lighting",
+        "name": "Ruslan Rotislav Kazimir",
+        "original_name": "Ruslan Rotislav Kazimir",
+        "popularity": 0.0543,
+        "profile_path": null,
+        "credit_id": "6a4c4820445000e69a3c1130",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6331294,
+        "known_for_department": "Lighting",
+        "name": "Sarah Coupal",
+        "original_name": "Sarah Coupal",
+        "popularity": 0.0824,
+        "profile_path": null,
+        "credit_id": "6a4c4838a66a2db9f8dedbfc",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5012409,
+        "known_for_department": "Camera",
+        "name": "Victor Buchou",
+        "original_name": "Victor Buchou",
+        "popularity": 0.0939,
+        "profile_path": null,
+        "credit_id": "6a4c484aa66a2db9f8dedbff",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2749692,
+        "known_for_department": "Directing",
+        "name": "Marc-André Morissette",
+        "original_name": "Marc-André Morissette",
+        "popularity": 0.6748,
+        "profile_path": "/qZFihCCkSY5eMEiLKKtKDE5aWdo.jpg",
+        "credit_id": "6a4c485ca32b121460fb372a",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6331295,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Roxane Bourassa",
+        "original_name": "Roxane Bourassa",
+        "popularity": 0.0785,
+        "profile_path": null,
+        "credit_id": "6a4c48b932eb11f752d36767",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6331296,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Carolie Delisle",
+        "original_name": "Carolie Delisle",
+        "popularity": 0.0645,
+        "profile_path": null,
+        "credit_id": "6a4c48cb89fdeda2fad36798",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6331297,
+        "known_for_department": "Directing",
+        "name": "Nicolas Trottier",
+        "original_name": "Nicolas Trottier",
+        "popularity": 0.1413,
+        "profile_path": null,
+        "credit_id": "6a4c48ec0708f01a3c2d64a7",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6331298,
+        "known_for_department": "Production",
+        "name": "David Adadji",
+        "original_name": "David Adadji",
+        "popularity": 0.0833,
+        "profile_path": null,
+        "credit_id": "6a4c4907bb2464635a3c118a",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5342479,
+        "known_for_department": "Production",
+        "name": "India Lagendyk",
+        "original_name": "India Lagendyk",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a4c49cdbb2464635a3c1196",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6331311,
+        "known_for_department": "Production",
+        "name": "Mathieu Deschesnes",
+        "original_name": "Mathieu Deschesnes",
+        "popularity": 0.0628,
+        "profile_path": null,
+        "credit_id": "6a4c4b1ea32b121460fb3746",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6331314,
+        "known_for_department": "Art",
+        "name": "Cindy Varin",
+        "original_name": "Cindy Varin",
+        "popularity": 0.0785,
+        "profile_path": null,
+        "credit_id": "6a4c4b4781fa61a86a2d64d9",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6331316,
+        "known_for_department": "Art",
+        "name": "Zoé Gonzalez",
+        "original_name": "Zoé Gonzalez",
+        "popularity": 0.1074,
+        "profile_path": null,
+        "credit_id": "6a4c4b8f445000e69a3c114f",
+        "department": "Art",
+        "job": "Property Master"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "Hénia, une jeune artiste et mannequin en devenir, habite avec sa grand-mère Jeanne, avec qui elle partage une belle complicité et un quotidien heureux. Leur vie est bouleversée lorsqu'un événement tragique survient, affectant également Valérie, la nièce de Jeanne. Cet événement conduit Valérie à une rencontre inattendue, la poussant sur un chemin obscur et insoupçonné.",
+          "runtime": 23,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt37313636",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "undergroundcityprod",
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/dMq3d2tRBoHLs3BE5Vi2LKWtgLD.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [
+              "Not Recommended For Children"
+            ],
+            "iso_639_1": "fr",
+            "note": "",
+            "release_date": "2026-08-01T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

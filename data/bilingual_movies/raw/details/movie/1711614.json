@@ -1,0 +1,424 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 1711614,
+  "imdb_id": null,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Desmayo",
+  "overview": "On his first day of retirement, Leo faints on his way to his best friend's funeral. When he regains consciousness, he resumes his journey to the cemetery, where he experiences a strange and sublime personal catharsis.",
+  "popularity": 0.9123,
+  "poster_path": "/6HFfwYYnscxssAnK6IUM9CM3mzQ.jpg",
+  "production_companies": [
+    {
+      "id": 213450,
+      "logo_path": null,
+      "name": "Mi Catarsis Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2026-06-03",
+  "revenue": 0,
+  "runtime": 10,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Leo faints on his way to his best friend's funeral. When he regains consciousness, he resumes his journey to the cemetery, where he experiences a strange and sublime personal catharsis.",
+  "title": "Daydream",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6274708,
+        "known_for_department": "Acting",
+        "name": "Javier G. Cuesta",
+        "original_name": "Javier G. Cuesta",
+        "popularity": 0.2229,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Leo",
+        "credit_id": "6a2851e9d892c124b6c96e81",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6274709,
+        "known_for_department": "Acting",
+        "name": "Nacho Laguna",
+        "original_name": "Nacho Laguna",
+        "popularity": 0.0954,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "6a2851fe4bd20837d3544f65",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4117949,
+        "known_for_department": "Directing",
+        "name": "Miguel Toledo Menéndez",
+        "original_name": "Miguel Toledo Menéndez",
+        "popularity": 0.1757,
+        "profile_path": null,
+        "credit_id": "6a28521756f839a490c9700c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4117949,
+        "known_for_department": "Directing",
+        "name": "Miguel Toledo Menéndez",
+        "original_name": "Miguel Toledo Menéndez",
+        "popularity": 0.1757,
+        "profile_path": null,
+        "credit_id": "6a285231821d7a0db9544f13",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4117949,
+        "known_for_department": "Directing",
+        "name": "Miguel Toledo Menéndez",
+        "original_name": "Miguel Toledo Menéndez",
+        "popularity": 0.1757,
+        "profile_path": null,
+        "credit_id": "6a28527dd96e2e57abeccc78",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4374084,
+        "known_for_department": "Acting",
+        "name": "Miguel Ángel Toledo",
+        "original_name": "Miguel Ángel Toledo",
+        "popularity": 0.1516,
+        "profile_path": null,
+        "credit_id": "6a285297e2df0e91487e81c1",
+        "department": "Writing",
+        "job": "Original Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4365472,
+        "known_for_department": "Sound",
+        "name": "Valentino Mascardi",
+        "original_name": "Valentino Mascardi",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "6a28530a34c7dd8ed97e7ffa",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4117944,
+        "known_for_department": "Directing",
+        "name": "Asif Ken Fernandes",
+        "original_name": "Asif Ken Fernandes",
+        "popularity": 0.2422,
+        "profile_path": null,
+        "credit_id": "6a285349edf8392cd980c804",
+        "department": "Camera",
+        "job": "Camera Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6274717,
+        "known_for_department": "Camera",
+        "name": "Pablo Caraballo",
+        "original_name": "Pablo Caraballo",
+        "popularity": 0.0429,
+        "profile_path": null,
+        "credit_id": "6a28535b8acf2ba8df0fb307",
+        "department": "Camera",
+        "job": "Camera Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4605604,
+        "known_for_department": "Acting",
+        "name": "Soleil Sferlazza",
+        "original_name": "Soleil Sferlazza",
+        "popularity": 0.1448,
+        "profile_path": null,
+        "credit_id": "6a2853729fbda33f8d0fb8da",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6274720,
+        "known_for_department": "Sound",
+        "name": "Carlos Tinas Rodríguez",
+        "original_name": "Carlos Tinas Rodríguez",
+        "popularity": 0.0682,
+        "profile_path": null,
+        "credit_id": "6a2853a41cdf540439544cbb",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6274722,
+        "known_for_department": "Sound",
+        "name": "Carlos Salazar",
+        "original_name": "Carlos Salazar",
+        "popularity": 0.042,
+        "profile_path": null,
+        "credit_id": "6a2853b8a6b48e55090fb2e5",
+        "department": "Sound",
+        "job": "Sound Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6274723,
+        "known_for_department": "Production",
+        "name": "Lindsay Cohen",
+        "original_name": "Lindsay Cohen",
+        "popularity": 0.0478,
+        "profile_path": null,
+        "credit_id": "6a2853ce34d54d9223fc31d3",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4117949,
+        "known_for_department": "Directing",
+        "name": "Miguel Toledo Menéndez",
+        "original_name": "Miguel Toledo Menéndez",
+        "popularity": 0.1757,
+        "profile_path": null,
+        "credit_id": "6a2853dfe48eb2cd4beccb35",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6274725,
+        "known_for_department": "Editing",
+        "name": "Ismael de la Cruz",
+        "original_name": "Ismael de la Cruz",
+        "popularity": 0.0524,
+        "profile_path": null,
+        "credit_id": "6a2853f578c3eef603ce8fea",
+        "department": "Editing",
+        "job": "Color Grading"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2084399,
+        "known_for_department": "Visual Effects",
+        "name": "Singarajan Praveen",
+        "original_name": "Singarajan Praveen",
+        "popularity": 0.0381,
+        "profile_path": null,
+        "credit_id": "6a28540a2d6dffd0f712cb53",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6274726,
+        "known_for_department": "Sound",
+        "name": "Carlos Vinnuesa",
+        "original_name": "Carlos Vinnuesa",
+        "popularity": 0.0454,
+        "profile_path": null,
+        "credit_id": "6a2854266e9eaf25c5240345",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6274728,
+        "known_for_department": "Crew",
+        "name": "Mario Zingone Canalda",
+        "original_name": "Mario Zingone Canalda",
+        "popularity": 0.0506,
+        "profile_path": null,
+        "credit_id": "6a285449fcc5fb358380cb49",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6274729,
+        "known_for_department": "Sound",
+        "name": "yung pope",
+        "original_name": "yung pope",
+        "popularity": 0.0429,
+        "profile_path": null,
+        "credit_id": "6a28545cfe400d39b4ce8f72",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4605601,
+        "known_for_department": "Acting",
+        "name": "Javier \"Menend\" Toledo Menéndez",
+        "original_name": "Javier \"Menend\" Toledo Menéndez",
+        "popularity": 0.312,
+        "profile_path": null,
+        "credit_id": "6a28546886aaabba8912c88b",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6274733,
+        "known_for_department": "Art",
+        "name": "Sabrina Piccinini",
+        "original_name": "Sabrina Piccinini",
+        "popularity": 0.0429,
+        "profile_path": null,
+        "credit_id": "6a2854850632e670f7ce9176",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4605604,
+        "known_for_department": "Acting",
+        "name": "Soleil Sferlazza",
+        "original_name": "Soleil Sferlazza",
+        "popularity": 0.1448,
+        "profile_path": null,
+        "credit_id": "6a2854b76a8c6af681fc31d9",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4605604,
+        "known_for_department": "Acting",
+        "name": "Soleil Sferlazza",
+        "original_name": "Soleil Sferlazza",
+        "popularity": 0.1448,
+        "profile_path": null,
+        "credit_id": "6a2854cbe48eb2cd4beccb6a",
+        "department": "Costume & Make-Up",
+        "job": "Costume Coordinator"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "On his first day of retirement, Leo faints on his way to his best friend's funeral. When he regains consciousness, he resumes his journey to the cemetery, where he experiences a strange and sublime personal catharsis.",
+          "runtime": 10,
+          "tagline": "Leo faints on his way to his best friend's funeral. When he regains consciousness, he resumes his journey to the cemetery, where he experiences a strange and sublime personal catharsis.",
+          "title": "Daydream"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-06-03T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

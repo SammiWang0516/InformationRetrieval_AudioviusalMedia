@@ -1,0 +1,802 @@
+{
+  "adult": false,
+  "backdrop_path": "/3RzQAQ8m7v4CLqc58ZuEMrO8dA.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1529142,
+  "imdb_id": "tt37724886",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Harakiri, Me Haces Falta",
+  "overview": "Three young men, restless and consumed by unfulfilled desires, drift through Madrid forming a volatile and toxic friendship. Their resentment toward women grows into a shared language of anger, pushing them into a spiral of reckless acts, broken relationships, and self-destruction.\r As their lives begin to unravel, each of them is forced to confront the darkness they’ve nurtured — and to face the uncomfortable truth about who they are and what they fear becoming.",
+  "popularity": 1.8602,
+  "poster_path": "/sZFcsfun0Yj1ZVMQATzrRkd8TiQ.jpg",
+  "production_companies": [
+    {
+      "id": 270936,
+      "logo_path": null,
+      "name": "Harakiri Villain Films SL",
+      "origin_country": ""
+    },
+    {
+      "id": 254523,
+      "logo_path": null,
+      "name": "Producciones Nau",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2025-09-12",
+  "revenue": 0,
+  "runtime": 99,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "\"The shame of being a man\"",
+  "title": "Harakiri, I Miss You",
+  "video": false,
+  "vote_average": 8.0,
+  "vote_count": 2,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3978770,
+        "known_for_department": "Acting",
+        "name": "Alejandro Castro Arias",
+        "original_name": "Alejandro Castro Arias",
+        "popularity": 0.7131,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Alejandro",
+        "credit_id": "689b8079497941efc61a31d3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5242560,
+        "known_for_department": "Directing",
+        "name": "Diego Salomon",
+        "original_name": "Diego Salomon",
+        "popularity": 0.1492,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Diego",
+        "credit_id": "689b808e0e97083fac5e3e31",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4283281,
+        "known_for_department": "Acting",
+        "name": "Samuel Rotter",
+        "original_name": "Samuel Rotter",
+        "popularity": 0.6407,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Samuel",
+        "credit_id": "689b80992dcdbf1f246d7533",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 115483,
+        "known_for_department": "Acting",
+        "name": "Enrique San Francisco",
+        "original_name": "Enrique San Francisco",
+        "popularity": 0.8676,
+        "profile_path": "/qqCGyo5yFIGr3KC8WLDzP7dhSZQ.jpg",
+        "cast_id": 4,
+        "character": "Rogelio",
+        "credit_id": "689b80a916d37b39a48eb74a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 27058,
+        "known_for_department": "Acting",
+        "name": "Inés Efrón",
+        "original_name": "Inés Efrón",
+        "popularity": 0.3102,
+        "profile_path": "/aSXV4etwXL8PGAeoFMcrmNGoSfG.jpg",
+        "cast_id": 5,
+        "character": "Magdalena",
+        "credit_id": "689b80c02dcdbf1f246d7537",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2460190,
+        "known_for_department": "Acting",
+        "name": "Cecilia Gómez",
+        "original_name": "Cecilia Gómez",
+        "popularity": 0.4441,
+        "profile_path": "/dHq4Bm6i3JgRm7ULAwgx8umUVQE.jpg",
+        "cast_id": 6,
+        "character": "Cecilia",
+        "credit_id": "689b80cfe92cb317a7c6ffeb",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1695422,
+        "known_for_department": "Acting",
+        "name": "Aia Kruse",
+        "original_name": "Aia Kruse",
+        "popularity": 0.3709,
+        "profile_path": "/1VU3fVXxjAq3FTXwh3RyAp1qQdi.jpg",
+        "cast_id": 7,
+        "character": "Carolina",
+        "credit_id": "689b80ddd7e1256b40c6ffdd",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 25025,
+        "known_for_department": "Acting",
+        "name": "María Barranco",
+        "original_name": "María Barranco",
+        "popularity": 0.4742,
+        "profile_path": "/47iVJl6a8oOenab7LeYEnBO40xe.jpg",
+        "cast_id": 8,
+        "character": "María",
+        "credit_id": "689b80ed914c8546a18db420",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1206290,
+        "known_for_department": "Acting",
+        "name": "Patricia Ponce de León",
+        "original_name": "Patricia Ponce de León",
+        "popularity": 0.2379,
+        "profile_path": "/yKipHwI9tYw41g9eXoYQKzCk2Wv.jpg",
+        "cast_id": 13,
+        "character": "Patricia",
+        "credit_id": "689b81a276150be6911a3376",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5621883,
+        "known_for_department": "Acting",
+        "name": "Simon T Kang",
+        "original_name": "Simon T Kang",
+        "popularity": 0.1346,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Dependiente",
+        "credit_id": "689b81b61c3e7e26bdb708b8",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3978770,
+        "known_for_department": "Acting",
+        "name": "Alejandro Castro Arias",
+        "original_name": "Alejandro Castro Arias",
+        "popularity": 0.7131,
+        "profile_path": null,
+        "credit_id": "689b811010ba8593fc5e3f0e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3978770,
+        "known_for_department": "Acting",
+        "name": "Alejandro Castro Arias",
+        "original_name": "Alejandro Castro Arias",
+        "popularity": 0.7131,
+        "profile_path": null,
+        "credit_id": "689b813278a26982771a31c3",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5242560,
+        "known_for_department": "Directing",
+        "name": "Diego Salomon",
+        "original_name": "Diego Salomon",
+        "popularity": 0.1492,
+        "profile_path": null,
+        "credit_id": "689b813eff20fc9428c6ffae",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3978770,
+        "known_for_department": "Acting",
+        "name": "Alejandro Castro Arias",
+        "original_name": "Alejandro Castro Arias",
+        "popularity": 0.7131,
+        "profile_path": null,
+        "credit_id": "689b81e41c3e7e26bdb708c8",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2403019,
+        "known_for_department": "Production",
+        "name": "Olmo Schnabel",
+        "original_name": "Olmo Schnabel",
+        "popularity": 0.3417,
+        "profile_path": "/bstnalDUmTlxBvivgvd6KlPXwmO.jpg",
+        "credit_id": "689b82277e4351410fb7093a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4017568,
+        "known_for_department": "Crew",
+        "name": "Inãki Pérez Morante",
+        "original_name": "Inãki Pérez Morante",
+        "popularity": 0.1799,
+        "profile_path": null,
+        "credit_id": "689b823dce44cdd34fb70542",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5621894,
+        "known_for_department": "Production",
+        "name": "Grear patterson",
+        "original_name": "Grear patterson",
+        "popularity": 0.049,
+        "profile_path": null,
+        "credit_id": "689b828ab8a9d066e48eb626",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3229958,
+        "known_for_department": "Directing",
+        "name": "Spartan Daggenhurst",
+        "original_name": "Spartan Daggenhurst",
+        "popularity": 0.1856,
+        "profile_path": null,
+        "credit_id": "689b82990e97083fac5e3e47",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5242560,
+        "known_for_department": "Directing",
+        "name": "Diego Salomon",
+        "original_name": "Diego Salomon",
+        "popularity": 0.1492,
+        "profile_path": null,
+        "credit_id": "689b83d426264816598eb53f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4283281,
+        "known_for_department": "Acting",
+        "name": "Samuel Rotter",
+        "original_name": "Samuel Rotter",
+        "popularity": 0.6407,
+        "profile_path": null,
+        "credit_id": "689b83e26e239fedf01a32ca",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5048443,
+        "known_for_department": "Directing",
+        "name": "Carolina Perelman",
+        "original_name": "Carolina Perelman",
+        "popularity": 0.1317,
+        "profile_path": null,
+        "credit_id": "689b83f48a67624c3d268819",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5621913,
+        "known_for_department": "Production",
+        "name": "Samuel Kizer",
+        "original_name": "Samuel Kizer",
+        "popularity": 0.1166,
+        "profile_path": null,
+        "credit_id": "689b848ca2808371d21a32f2",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5621914,
+        "known_for_department": "Production",
+        "name": "Juan Galindo",
+        "original_name": "Juan Galindo",
+        "popularity": 0.0538,
+        "profile_path": "/zCceT1V69FN3C3X1v3KmPp3DLa4.jpg",
+        "credit_id": "689b84abd08758ca0e2689a7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5621914,
+        "known_for_department": "Production",
+        "name": "Juan Galindo",
+        "original_name": "Juan Galindo",
+        "popularity": 0.0538,
+        "profile_path": "/zCceT1V69FN3C3X1v3KmPp3DLa4.jpg",
+        "credit_id": "689b84c9c257d220dab708e6",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5621916,
+        "known_for_department": "Production",
+        "name": "Aurora Fierro",
+        "original_name": "Aurora Fierro",
+        "popularity": 0.1478,
+        "profile_path": null,
+        "credit_id": "689b84e737eb97ec74b705cb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5621918,
+        "known_for_department": "Production",
+        "name": "Blanca Valdés",
+        "original_name": "Blanca Valdés",
+        "popularity": 0.0865,
+        "profile_path": null,
+        "credit_id": "689b84f49a98fae0306d75d6",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5621920,
+        "known_for_department": "Production",
+        "name": "Harry Castro",
+        "original_name": "Harry Castro",
+        "popularity": 0.1671,
+        "profile_path": null,
+        "credit_id": "689b850a667ed0d66bb70a06",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5621922,
+        "known_for_department": "Production",
+        "name": "Marcella Ciacci",
+        "original_name": "Marcella Ciacci",
+        "popularity": 0.129,
+        "profile_path": null,
+        "credit_id": "689b8533c370ee80eb6d7485",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5621923,
+        "known_for_department": "Crew",
+        "name": "Javier Díez Ena",
+        "original_name": "Javier Díez Ena",
+        "popularity": 0.1746,
+        "profile_path": null,
+        "credit_id": "689b85723d8d61e18d2688e2",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5621924,
+        "known_for_department": "Crew",
+        "name": "Kiko Faxas",
+        "original_name": "Kiko Faxas",
+        "popularity": 0.2011,
+        "profile_path": null,
+        "credit_id": "689b8584965db5e8f55e3f1f",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3983915,
+        "known_for_department": "Sound",
+        "name": "Carolina Eyck",
+        "original_name": "Carolina Eyck",
+        "popularity": 0.1835,
+        "profile_path": null,
+        "credit_id": "689b859ba4875980485d1d0d",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1843923,
+        "known_for_department": "Camera",
+        "name": "Hunter Zimny",
+        "original_name": "Hunter Zimny",
+        "popularity": 0.1769,
+        "profile_path": "/litGrz0SWyBbnL883seBmh9pSbX.jpg",
+        "credit_id": "689b85b72dcdbf1f246d755f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2598154,
+        "known_for_department": "Camera",
+        "name": "Jordan Tetewsky",
+        "original_name": "Jordan Tetewsky",
+        "popularity": 0.1513,
+        "profile_path": "/fTpH793rHjoCxWlnyBOkqQEySLy.jpg",
+        "credit_id": "689b85d710ba8593fc5e3f28",
+        "department": "Camera",
+        "job": "Camera Department Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2754083,
+        "known_for_department": "Lighting",
+        "name": "Conner Schuurmans",
+        "original_name": "Conner Schuurmans",
+        "popularity": 0.1808,
+        "profile_path": null,
+        "credit_id": "689b85ea10ba8593fc5e3f2d",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1725028,
+        "known_for_department": "Editing",
+        "name": "Ismael de Diego",
+        "original_name": "Ismael de Diego",
+        "popularity": 0.1101,
+        "profile_path": null,
+        "credit_id": "689b85fbc69f05151e268836",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5621931,
+        "known_for_department": "Directing",
+        "name": "Guillermo Rodríguez Marruecos",
+        "original_name": "Guillermo Rodríguez Marruecos",
+        "popularity": 0.1211,
+        "profile_path": null,
+        "credit_id": "689b86207f24db9c02b709ae",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2485513,
+        "known_for_department": "Sound",
+        "name": "Alberto Carlassare",
+        "original_name": "Alberto Carlassare",
+        "popularity": 0.0974,
+        "profile_path": "/1bWxKHxnVRR2XvBktWXR5o5BlT7.jpg",
+        "credit_id": "689b863a4c95e2be9d8dbc1a",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5242576,
+        "known_for_department": "Sound",
+        "name": "Fernando Nequecaur",
+        "original_name": "Fernando Nequecaur",
+        "popularity": 0.0974,
+        "profile_path": null,
+        "credit_id": "689b867065b31e37cf8eb822",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5621935,
+        "known_for_department": "Sound",
+        "name": "Silvia Torrico",
+        "original_name": "Silvia Torrico",
+        "popularity": 0.1209,
+        "profile_path": null,
+        "credit_id": "689b868fd08758ca0e2689bd",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2598154,
+        "known_for_department": "Camera",
+        "name": "Jordan Tetewsky",
+        "original_name": "Jordan Tetewsky",
+        "popularity": 0.1513,
+        "profile_path": "/fTpH793rHjoCxWlnyBOkqQEySLy.jpg",
+        "credit_id": "689b86acc257d220dab708f4",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5621914,
+        "known_for_department": "Production",
+        "name": "Juan Galindo",
+        "original_name": "Juan Galindo",
+        "popularity": 0.0538,
+        "profile_path": "/zCceT1V69FN3C3X1v3KmPp3DLa4.jpg",
+        "credit_id": "689b86ce4edcd1564f268910",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5621941,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Clara Galindo",
+        "original_name": "Clara Galindo",
+        "popularity": 0.1365,
+        "profile_path": null,
+        "credit_id": "689b86f9e92cb317a7c7000c",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5621943,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Araceli Pacheco",
+        "original_name": "Araceli Pacheco",
+        "popularity": 0.1334,
+        "profile_path": null,
+        "credit_id": "689b8716e92cb317a7c70015",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5622227,
+        "known_for_department": "Art",
+        "name": "Santiago Torres",
+        "original_name": "Santiago Torres",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "credit_id": "689bb10626264816598eb5c5",
+        "department": "Art",
+        "job": "Art Direction"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 744,
+        "name": "madrid, spain"
+      },
+      {
+        "id": 10683,
+        "name": "coming of age"
+      },
+      {
+        "id": 178649,
+        "name": "voyeurism"
+      },
+      {
+        "id": 217104,
+        "name": "male egos"
+      },
+      {
+        "id": 258955,
+        "name": "latin american immigration"
+      },
+      {
+        "id": 272434,
+        "name": "hara-kiri"
+      },
+      {
+        "id": 274750,
+        "name": "today's youth"
+      },
+      {
+        "id": 344073,
+        "name": "hombres perdidos"
+      },
+      {
+        "id": 355054,
+        "name": "emotional repression"
+      },
+      {
+        "id": 357032,
+        "name": "harakiri me haces falta"
+      },
+      {
+        "id": 357033,
+        "name": "enrique san francisco"
+      },
+      {
+        "id": 358505,
+        "name": "urban realism"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "En Madrid, tres jóvenes latinoamericanos —Samuel, Alejandro y Diego— pasan sus días entre charlas vacías, rituales machistas y un deseo que nunca se satisface. Cuando su atención se centra en Magdalena, una vecina misteriosa, la curiosidad se convierte en obsesión. Lo que empieza como un juego pronto deriva en rivalidad y heridas de ego, revelando la fragilidad y frustración que esconden bajo su aparente seguridad. Un retrato crudo de la juventud, el deseo y la violencia emocional.",
+          "runtime": 99,
+          "tagline": "La vergüenza de ser un hombre",
+          "title": "Harakiri, Me Haces Falta"
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Three young men, restless and consumed by unfulfilled desires, drift through Madrid forming a volatile and toxic friendship. Their resentment toward women grows into a shared language of anger, pushing them into a spiral of reckless acts, broken relationships, and self-destruction.\r As their lives begin to unravel, each of them is forced to confront the darkness they’ve nurtured — and to face the uncomfortable truth about who they are and what they fear becoming.",
+          "runtime": 99,
+          "tagline": "\"The shame of being a man\"",
+          "title": "Harakiri, I Miss You"
+        }
+      },
+      {
+        "iso_3166_1": "BR",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "homepage": "",
+          "overview": "Três jovens amigos em Madri consumidos por desejos não realizados, formam um vínculo tóxico baseado no ressentimento e misoginia. À medida que a amargura aumenta, a narrativa explora masculinidade, intimidade e laços fracassados, retratando a espiral autodestrutiva de suas vidas por uma noite caótica.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt37724886",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.666,
+        "height": 1280,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/sZFcsfun0Yj1ZVMQATzrRkd8TiQ.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 853
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "World Premiere - Oldenburg Film Festival",
+            "release_date": "2025-09-12T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

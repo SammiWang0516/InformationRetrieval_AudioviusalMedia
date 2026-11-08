@@ -1,0 +1,782 @@
+{
+  "adult": false,
+  "backdrop_path": "/6YBh6ZYVHqnIfC7hbA9RljPZpPE.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1427830,
+  "imdb_id": "tt27764052",
+  "origin_country": [
+    "DE",
+    "LU",
+    "AT"
+  ],
+  "original_language": "de",
+  "original_title": "Das geheime Stockwerk",
+  "overview": "When 12-year-old Karli moves to an old hotel in the Alps, he discovers an elevator that harbors a secret – it’s a magical time portal that transports him back to 1938! There, he befriends Hannah, a spirited Jewish girl, and Georg, a shoeshine boy. But when Georg is falsely accused of stealing, the children must solve a mystery case hidden within the hotel’s walls, all while the shadow of Nazi Germany begins to grow around them.",
+  "popularity": 0.9141,
+  "poster_path": "/siHVSp7n6nYrP2zx3F5IN78ggZB.jpg",
+  "production_companies": [
+    {
+      "id": 61895,
+      "logo_path": null,
+      "name": "Kevin Lee Filmgesellschaft",
+      "origin_country": "DE"
+    },
+    {
+      "id": 48467,
+      "logo_path": "/6Kbxor0pP4YLdjhn5tSLczqRlYk.png",
+      "name": "Amour Fou Luxembourg",
+      "origin_country": "LU"
+    },
+    {
+      "id": 82794,
+      "logo_path": "/sedPv0sKMmZvHIpzZSVlOm3vhPR.png",
+      "name": "Amour Fou Vienna",
+      "origin_country": "AT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "AT",
+      "name": "Austria"
+    },
+    {
+      "iso_3166_1": "LU",
+      "name": "Luxembourg"
+    }
+  ],
+  "release_date": "2026-03-12",
+  "revenue": 0,
+  "runtime": 96,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Secret Floor",
+  "video": false,
+  "vote_average": 5.6,
+  "vote_count": 5,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5240364,
+        "known_for_department": "Acting",
+        "name": "Silas John",
+        "original_name": "Silas John",
+        "popularity": 0.0639,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Karli",
+        "credit_id": "67ab4a42984e1e22179b98f5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5240365,
+        "known_for_department": "Acting",
+        "name": "Annika Benzin",
+        "original_name": "Annika Benzin",
+        "popularity": 0.4703,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Hanna",
+        "credit_id": "67ab4a4df71a3783e1bb2605",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1041249,
+        "known_for_department": "Acting",
+        "name": "Marie Jung",
+        "original_name": "Marie Jung",
+        "popularity": 0.1971,
+        "profile_path": "/wquNzcjuqmxl1FCPMQNoRbyGRKz.jpg",
+        "cast_id": 6,
+        "character": "Karlis Mother",
+        "credit_id": "67ab4a5b7c9910814f9ba5c8",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3516832,
+        "known_for_department": "Acting",
+        "name": "Tobias Resch",
+        "original_name": "Tobias Resch",
+        "popularity": 0.2589,
+        "profile_path": "/sQmpebwp10nVYMsAMVuJD8ayhJu.jpg",
+        "cast_id": 7,
+        "character": "Bruno",
+        "credit_id": "67ab4a647f2fa9eb79bb2452",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1184431,
+        "known_for_department": "Acting",
+        "name": "Oliver Rosskopf",
+        "original_name": "Oliver Rosskopf",
+        "popularity": 0.1946,
+        "profile_path": "/bUAWIT5ZlOiZgMEhvLrVb9YeGiu.jpg",
+        "cast_id": 8,
+        "character": "Karlis Father",
+        "credit_id": "67ab4a73984e1e22179b9905",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1692420,
+        "known_for_department": "Acting",
+        "name": "Marc Limpach",
+        "original_name": "Marc Limpach",
+        "popularity": 0.3186,
+        "profile_path": "/aoVEGFlkJEFQYvzvR8C9p2r2NuM.jpg",
+        "cast_id": 9,
+        "character": "Herr Friedländer",
+        "credit_id": "67ab4a7c6be6ab6e139b99b1",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4753204,
+        "known_for_department": "Acting",
+        "name": "Maximilian Reinwald",
+        "original_name": "Maximilian Reinwald",
+        "popularity": 0.1128,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Georg",
+        "credit_id": "67ab4a876be6ab6e139b99b5",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7828,
+        "known_for_department": "Acting",
+        "name": "André Jung",
+        "original_name": "André Jung",
+        "popularity": 0.2752,
+        "profile_path": "/cdpmnYjpRZ8mecM24K5CVDo7c1.jpg",
+        "cast_id": 11,
+        "character": "Hoteldirektor Schneider",
+        "credit_id": "67ab4a9009b8551a04b0a173",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5240369,
+        "known_for_department": "Acting",
+        "name": "Konstantin Horn",
+        "original_name": "Konstantin Horn",
+        "popularity": 0.0331,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Heinrich",
+        "credit_id": "67ab4a9b7f2fa9eb79bb2497",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4338635,
+        "known_for_department": "Acting",
+        "name": "Ben Winkler",
+        "original_name": "Ben Winkler",
+        "popularity": 0.0975,
+        "profile_path": "/8wcs6uKPogPOlEkxFFUJLE1cPc4.jpg",
+        "cast_id": 13,
+        "character": "Herrmann",
+        "credit_id": "67ab4aa57c9910814f9ba5d5",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1730944,
+        "known_for_department": "Acting",
+        "name": "Dominik Warta",
+        "original_name": "Dominik Warta",
+        "popularity": 0.1854,
+        "profile_path": "/zI3VmTfdKwjCIqXLVi3YQrILfif.jpg",
+        "cast_id": 14,
+        "character": "Johann",
+        "credit_id": "67ab4aae7f2fa9eb79bb24a0",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49842,
+        "known_for_department": "Acting",
+        "name": "Maximilian Simonischek",
+        "original_name": "Maximilian Simonischek",
+        "popularity": 0.7452,
+        "profile_path": "/7Oqa4RQJkdqxhwAgrWLrEpuAqSH.jpg",
+        "cast_id": 15,
+        "character": "Otto Hartwig",
+        "credit_id": "67ab4ab7984e1e22179b9927",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1818233,
+        "known_for_department": "Acting",
+        "name": "Fanny Altenburger",
+        "original_name": "Fanny Altenburger",
+        "popularity": 0.1782,
+        "profile_path": "/rPIIFsonbT6LZHcT7hQvBqp1YFH.jpg",
+        "cast_id": 16,
+        "character": "Rosa",
+        "credit_id": "67ab4ac009b8551a04b0a192",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1950082,
+        "known_for_department": "Acting",
+        "name": "Marlene Hauser",
+        "original_name": "Marlene Hauser",
+        "popularity": 0.1823,
+        "profile_path": "/c9QbkR2AdhWomy0nGYKT8yhaRNV.jpg",
+        "cast_id": 17,
+        "character": "Almuth Hartwig",
+        "credit_id": "67ab4ac85bd9fe5057b09817",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49175,
+        "known_for_department": "Acting",
+        "name": "Franz Buchrieser",
+        "original_name": "Franz Buchrieser",
+        "popularity": 0.7025,
+        "profile_path": "/ga156qrb6x7kupHBojE1jNHGRsw.jpg",
+        "cast_id": 18,
+        "character": "Grandfather",
+        "credit_id": "67ab4ad6984e1e22179b9945",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2425860,
+        "known_for_department": "Acting",
+        "name": "Lea Freund",
+        "original_name": "Lea Freund",
+        "popularity": 0.4301,
+        "profile_path": "/2xGrDd8nOniSFqOvr3LcvzBELfs.jpg",
+        "cast_id": 19,
+        "character": "Sarah",
+        "credit_id": "67ab4ae45bd9fe5057b09835",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 586675,
+        "known_for_department": "Acting",
+        "name": "Martin Weinek",
+        "original_name": "Martin Weinek",
+        "popularity": 0.2192,
+        "profile_path": "/hlJp5fREaPUUYPqsWqKys1aQ5MG.jpg",
+        "cast_id": 20,
+        "character": "Inspektor Hainbichler",
+        "credit_id": "6845cf872b99f1b0aa206023",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5492602,
+        "known_for_department": "Acting",
+        "name": "Daniel Hasler",
+        "original_name": "Daniel Hasler",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "School Boy",
+        "credit_id": "6845cfac2f516dfa281ea663",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5492603,
+        "known_for_department": "Acting",
+        "name": "Moritz Hohlrieder",
+        "original_name": "Moritz Hohlrieder",
+        "popularity": 0.0304,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Pepe",
+        "credit_id": "6845cfb795ac06a73e206024",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1083333,
+        "known_for_department": "Directing",
+        "name": "Norbert Lechner",
+        "original_name": "Norbert Lechner",
+        "popularity": 0.1765,
+        "profile_path": null,
+        "credit_id": "679f5880776edf4be3952f23",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 54960,
+        "known_for_department": "Writing",
+        "name": "Katrin Milhahn",
+        "original_name": "Katrin Milhahn",
+        "popularity": 0.5071,
+        "profile_path": null,
+        "credit_id": "679f58a4a74d8ee23b26472f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1175271,
+        "known_for_department": "Writing",
+        "name": "Antonia Rothe-Liermann",
+        "original_name": "Antonia Rothe-Liermann",
+        "popularity": 0.2767,
+        "profile_path": "/hvbYr1OgmnpuO0Gltz1sXWoaL0f.jpg",
+        "credit_id": "679f58ba80082986c8cb6e24",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1083333,
+        "known_for_department": "Directing",
+        "name": "Norbert Lechner",
+        "original_name": "Norbert Lechner",
+        "popularity": 0.1765,
+        "profile_path": null,
+        "credit_id": "69cd6505b8f82e6d3d2c8552",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 564793,
+        "known_for_department": "Production",
+        "name": "Alexander Dumreicher-Ivanceanu",
+        "original_name": "Alexander Dumreicher-Ivanceanu",
+        "popularity": 0.1754,
+        "profile_path": null,
+        "credit_id": "69cd650e9a3a140b0d2c8593",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1352765,
+        "known_for_department": "Production",
+        "name": "Bady Minck",
+        "original_name": "Bady Minck",
+        "popularity": 0.2225,
+        "profile_path": null,
+        "credit_id": "69cd6516d3693185a33f96bc",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "When 12-year-old Karli moves to an old hotel in the Alps, he discovers an elevator that harbors a secret – it’s a magical time portal that transports him back to 1938! There, he befriends Hannah, a spirited Jewish girl, and Georg, a shoeshine boy. But when Georg is falsely accused of stealing, the children must solve a mystery case hidden within the hotel’s walls, all while the shadow of Nazi Germany begins to grow around them.",
+          "runtime": 96,
+          "tagline": "",
+          "title": "The Secret Floor"
+        }
+      },
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "",
+          "overview": "Der zwölfjährige Karli  zieht nach Bad Gastein in die Alpen, wo sich seine Eltern endlich den Traum vom eigenen Hotel erfüllen. Doch die Renovierung des ehemaligen Grandhotels zieht sich die ganzen Sommerferien über hin.  Bei seinen Streifzügen durch das Hotel entdeckt er, dass er einen der alten Fahrstühle dazu bringen kann, in einer seltsamen Zwischenetage anzuhalten. Dort läuft der Hotelbetrieb auf Hochtouren und alles ist voller Leben ... aber hier schreibt man noch das Jahr 1938",
+          "runtime": 96,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "Karli (12) découvre qu'il peut voyager dans le temps dans l'hôtel de ses parents, jusqu'à un étage secret qui le renvoie en 1938. Il se lie d'amitié avec Hannah, jeune fille juive, et Georg, cireur de chaussures. Lorsque ensemble, ils résolvent une affaire criminelle passionnante, Karli réalise quelle ombre plane sur le monde de ses nouveaux amis.",
+          "runtime": 90,
+          "tagline": "",
+          "title": "L'Étage secret... Bad Gastein"
+        }
+      },
+      {
+        "iso_3166_1": "CN",
+        "iso_639_1": "zh",
+        "name": "普通话",
+        "english_name": "Mandarin",
+        "data": {
+          "homepage": "",
+          "overview": "在阿尔卑斯山的老旧饭店里，12岁的卡尔利无意间搭乘一部货运电梯穿越时空，来到了1938年——一个战火即将燃起的年份。他在这里结识了天真善良的汉娜和勤劳坚毅的格奥尔格，并卷入一场牵动命运的冒险。当误解与指控笼罩朋友，纳粹的阴影悄然逼近，卡尔利必须在童年的想象与历史的沉重之间作出抉择。谁是真正的盗贼？谁又藏着更深的秘密？",
+          "runtime": 0,
+          "tagline": "",
+          "title": "秘密楼层"
+        }
+      },
+      {
+        "iso_3166_1": "RU",
+        "iso_639_1": "ru",
+        "name": "Pусский",
+        "english_name": "Russian",
+        "data": {
+          "homepage": "",
+          "overview": "История 12-летнего Карли, способного путешествовать во времени на старом лифте отеля, переносит его в Европу 1938 года и поднимает темы памяти, дружбы и личного выбора на фоне надвигающихся исторических потрясений.",
+          "runtime": 96,
+          "tagline": "",
+          "title": "Тайный этаж"
+        }
+      },
+      {
+        "iso_3166_1": "LV",
+        "iso_639_1": "lv",
+        "name": "Latviešu",
+        "english_name": "Latvian",
+        "data": {
+          "homepage": "",
+          "overview": "12 gadus vecais Karli pārceļas uz Alpiem, kur viņa vecāki īsteno sen lolotu sapni par savu viesnīcu. Bet atpūtas vietā Karli nākas palīdzēt vecākiem nokasīt vecās tapetes. Tad zēns atklāj, ka ar veca lifta palīdzību viņš spēj ceļot laikā – uz 1938. gadu. Tur Karli iedraudzējas ar enerģisko Hannu un apavu spodrinātāju Džordžu.  Kad Džordžu melīgi apsūdz un arestē par zādzību, Hanna un Karli vēlas atrast īsto noziedznieku. Izmeklēšanas laikā viņi atklāj, ka viesnīcā norisinās dīvainas lietas. Trīs draugi vēlas atrisināt noslēpumu un uzsāk aizraujošu piedzīvojumu, kura laikā uzzina, ka viesnīcas sienas slēpj lielu noslēpumu.",
+          "runtime": 91,
+          "tagline": "",
+          "title": "Slepenais stāvs"
+        }
+      },
+      {
+        "iso_3166_1": "EE",
+        "iso_639_1": "et",
+        "name": "Eesti",
+        "english_name": "Estonian",
+        "data": {
+          "homepage": "",
+          "overview": "Kui 12-aastane Karli kolib koos vanematega vanasse hotelli Alpides, avastab ta lifti, mille uste taga peitub salajane ajavärav aastasse 1938. Seal sõbruneb ta kahe lapsega, innuka tüdruku Hanna ja kingaviksija Georgiga. Kui Georgi süüdistatakse ebaõiglaselt varguses, tuleb lastel lahendada hotelli seinte vahele peidetud mõistatus.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Salakorrus"
+        }
+      },
+      {
+        "iso_3166_1": "KR",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말",
+        "english_name": "Korean",
+        "data": {
+          "homepage": "",
+          "overview": "12살 소년 칼리는 알프스의 오래된 호텔로 이사 온 후, 자신을 1938년으로 데려다주는 마법의 엘리베이터를 발견한다. 그곳에서 당찬 유대인 소녀 한나, 구두닦이 소년 게오르그와 친구가 된 칼리. 하지만 게오르그가 억울하게 도둑으로 몰리자 아이들은 호텔에 숨겨진 미스터리를 풀기 위해 나선다.",
+          "runtime": 91,
+          "tagline": "",
+          "title": "비밀의 방"
+        }
+      },
+      {
+        "iso_3166_1": "HK",
+        "iso_639_1": "zh",
+        "name": "普通话",
+        "english_name": "Mandarin",
+        "data": {
+          "homepage": "",
+          "overview": "當12歲男孩加利和父母一起為在阿爾卑斯山的破落過氣豪華酒店修葺時，加利竟誤打誤撞穿越時空，回到1938，並在那裡認識 了猶太女孩漢娜和在酒店大堂為賓客擦鞋的男孩基奧克。當基奧克被誣陷偷錢時，他們誓要找出真兇，還基奧清白的同時，更發現了酒店牆壁隱藏著不可告人的秘密。奧地利導演諾拔力拿巧妙融合奇幻童趣及戰爭歷史，在回到未來之前，揭開納粹陰謀驚人真相。電影在多個國際影展參展，贏盡大人細路觀眾掌聲。",
+          "runtime": 0,
+          "tagline": "",
+          "title": "驚天大酒店"
+        }
+      },
+      {
+        "iso_3166_1": "CZ",
+        "iso_639_1": "cs",
+        "name": "Český",
+        "english_name": "Czech",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Tajemství Grandhotelu Evropa"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "PL",
+        "title": "Sekretne Piętro",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt27764052",
+    "wikidata_id": "Q134273707",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 2052,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/6YBh6ZYVHqnIfC7hbA9RljPZpPE.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 3648
+      },
+      {
+        "aspect_ratio": 1.781,
+        "height": 858,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/rTGgxZ0ZOmXZmhQYgvtI41kLhYX.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1528
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.706,
+        "height": 1699,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/siHVSp7n6nYrP2zx3F5IN78ggZB.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1200
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AT",
+        "release_dates": [
+          {
+            "certification": "8",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-12T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "HSBC German Film Festival",
+            "release_date": "2026-05-23T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Zurich Film Festival",
+            "release_date": "2025-09-28T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "de",
+            "note": "Shanghai International Film Festival",
+            "release_date": "2025-06-16T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Zlín Film Festival",
+            "release_date": "2026-05-30T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "6",
+            "descriptors": [
+              "Threat",
+              "Stressful Scenes"
+            ],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-12T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "EE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-04-24T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "fr",
+            "note": "Ciné+ Family",
+            "release_date": "2026-10-05T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": " KINO/26",
+            "release_date": "2026-09-19T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Busan International Kids & Youth Film Festival",
+            "release_date": "2026-07-11T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LV",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-06-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Spirit Of Fire International Festival Of Cinematographic Debuts",
+            "release_date": "2026-03-13T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

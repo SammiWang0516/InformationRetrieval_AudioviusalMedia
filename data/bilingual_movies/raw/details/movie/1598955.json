@@ -1,0 +1,574 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1598955,
+  "imdb_id": "tt39188807",
+  "origin_country": [
+    "MX",
+    "US"
+  ],
+  "original_language": "es",
+  "original_title": "Marga en el DF",
+  "overview": "In the wake of Selena Quintanilla’s murder, Marga’s life takes an unexpected turn at 21 weeks pregnant during a surprise visit to Mexico City.",
+  "popularity": 1.0746,
+  "poster_path": "/ibkq5WO4A3OzZD95iR8qj70bZNu.jpg",
+  "production_companies": [
+    {
+      "id": 205236,
+      "logo_path": "/yETnxIFACP6UYFgV8BmINw4xbGU.png",
+      "name": "Antigravity Academy",
+      "origin_country": "US"
+    },
+    {
+      "id": 41921,
+      "logo_path": "/bSxCLP0hx6F9XzqaReXdEohJZ9y.png",
+      "name": "Redrum",
+      "origin_country": "MX"
+    },
+    {
+      "id": 195257,
+      "logo_path": null,
+      "name": "Jevita Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-03-16",
+  "revenue": 0,
+  "runtime": 20,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Marga en el DF",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1891869,
+        "known_for_department": "Acting",
+        "name": "Camila Santana",
+        "original_name": "Camila Santana",
+        "popularity": 0.1385,
+        "profile_path": "/rPi6xweYMPCp6bb0dz5D2jHrFyG.jpg",
+        "cast_id": 16,
+        "character": "Marga Salinas",
+        "credit_id": "696b0a3aecb9dba2fbf93f79",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1892034,
+        "known_for_department": "Acting",
+        "name": "David Palacio",
+        "original_name": "David Palacio",
+        "popularity": 0.2576,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "",
+        "credit_id": "696b0a94e1c16198ff8fc36a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1295165,
+        "known_for_department": "Acting",
+        "name": "Xabiani Ponce de León",
+        "original_name": "Xabiani Ponce de León",
+        "popularity": 0.3244,
+        "profile_path": "/oCDFi7skff33gICGnHA1tcw494b.jpg",
+        "cast_id": 18,
+        "character": "",
+        "credit_id": "696b0aa733b6dda3196892f1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3188539,
+        "known_for_department": "Acting",
+        "name": "Andrea de Fátima",
+        "original_name": "Andrea de Fátima",
+        "popularity": 0.2401,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "",
+        "credit_id": "696b0aef492275b2d48fc29a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2596026,
+        "known_for_department": "Acting",
+        "name": "Diana Valencia",
+        "original_name": "Diana Valencia",
+        "popularity": 0.4158,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "",
+        "credit_id": "696b0afc5b00c16523aa9ec6",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2908888,
+        "known_for_department": "Acting",
+        "name": "Gabriela Ortega",
+        "original_name": "Gabriela Ortega",
+        "popularity": 0.1199,
+        "profile_path": null,
+        "credit_id": "6940a287a0c47c1f2692c223",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2908888,
+        "known_for_department": "Acting",
+        "name": "Gabriela Ortega",
+        "original_name": "Gabriela Ortega",
+        "popularity": 0.1199,
+        "profile_path": null,
+        "credit_id": "6940a297b72cd6b6c4f9b076",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1932178,
+        "known_for_department": "Directing",
+        "name": "Carlos López Estrada",
+        "original_name": "Carlos López Estrada",
+        "popularity": 0.7521,
+        "profile_path": "/hmmicxProrj8sXYu5obBu5QNsNR.jpg",
+        "credit_id": "6940a2a27eb235103cce988b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3134487,
+        "known_for_department": "Production",
+        "name": "Valerie Bush",
+        "original_name": "Valerie Bush",
+        "popularity": 0.2513,
+        "profile_path": null,
+        "credit_id": "6940a2a9131388e596f9b097",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1026247,
+        "known_for_department": "Production",
+        "name": "Stacy Perskie",
+        "original_name": "Stacy Perskie",
+        "popularity": 0.3115,
+        "profile_path": null,
+        "credit_id": "6940a2b0d05d7368edce98f7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2903902,
+        "known_for_department": "Production",
+        "name": "Karla Luna Cantu",
+        "original_name": "Karla Luna Cantu",
+        "popularity": 0.1311,
+        "profile_path": null,
+        "credit_id": "6940a2c14c0fca6b09ce98b8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5879869,
+        "known_for_department": "Production",
+        "name": "Eugenio Valero",
+        "original_name": "Eugenio Valero",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6940a2cfdcb5d454ee114775",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5879870,
+        "known_for_department": "Production",
+        "name": "Natalia Gonzalez",
+        "original_name": "Natalia Gonzalez",
+        "popularity": 0.0408,
+        "profile_path": null,
+        "credit_id": "6940a2e2c10e0fc0fda0b8a0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1504281,
+        "known_for_department": "Directing",
+        "name": "Glenn Kiser",
+        "original_name": "Glenn Kiser",
+        "popularity": 0.1898,
+        "profile_path": null,
+        "credit_id": "6940a30969a2968245f9b0d7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5879871,
+        "known_for_department": "Production",
+        "name": "Amanda Schneider",
+        "original_name": "Amanda Schneider",
+        "popularity": 0.2262,
+        "profile_path": null,
+        "credit_id": "6940a312475f28dd34f9b0bc",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5785072,
+        "known_for_department": "Production",
+        "name": "Holly Stanton",
+        "original_name": "Holly Stanton",
+        "popularity": 0.1245,
+        "profile_path": null,
+        "credit_id": "6940a31b96fb00d8d3911757",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2908888,
+        "known_for_department": "Acting",
+        "name": "Gabriela Ortega",
+        "original_name": "Gabriela Ortega",
+        "popularity": 0.1199,
+        "profile_path": null,
+        "credit_id": "6940a32e96fb00d8d391175b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 966787,
+        "known_for_department": "Camera",
+        "name": "María Secco",
+        "original_name": "María Secco",
+        "popularity": 0.0698,
+        "profile_path": "/80Q6NxGeaOfGxbA6tigOBHkyejh.jpg",
+        "credit_id": "6940a33d82a3c46d8dd9fcbc",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1755863,
+        "known_for_department": "Editing",
+        "name": "Monica Salazar",
+        "original_name": "Monica Salazar",
+        "popularity": 0.0965,
+        "profile_path": null,
+        "credit_id": "6940a35af1d2168d70b8440d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3915513,
+        "known_for_department": "Directing",
+        "name": "Anna Moskowitz",
+        "original_name": "Anna Moskowitz",
+        "popularity": 0.1876,
+        "profile_path": null,
+        "credit_id": "696b0bdd8b9d779b89f114bb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3386880,
+        "known_for_department": "Camera",
+        "name": "Gaddiel Ruffiar",
+        "original_name": "Gaddiel Ruffiar",
+        "popularity": 0.1254,
+        "profile_path": null,
+        "credit_id": "696b0c332ca1f7733d8fc1fe",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4493200,
+        "known_for_department": "Camera",
+        "name": "Ana Arregui",
+        "original_name": "Ana Arregui",
+        "popularity": 0.1291,
+        "profile_path": null,
+        "credit_id": "696b0c5a3ebcc624947f96e1",
+        "department": "Crew",
+        "job": "Loader"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5879869,
+        "known_for_department": "Production",
+        "name": "Eugenio Valero",
+        "original_name": "Eugenio Valero",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "696b0c8b0e3b8c398cf93fe6",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3199969,
+        "known_for_department": "Production",
+        "name": "Alan Luna",
+        "original_name": "Alan Luna",
+        "popularity": 0.5628,
+        "profile_path": "/ev8sNdvFjhHeXAM9Il6V29AwuSC.jpg",
+        "credit_id": "696b0ca6e131550d637f972c",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5944568,
+        "known_for_department": "Camera",
+        "name": "Jose Benito Gonzalez",
+        "original_name": "Jose Benito Gonzalez",
+        "popularity": 0.1468,
+        "profile_path": null,
+        "credit_id": "696b0cbcd73d81deceaa9ece",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2636019,
+        "known_for_department": "Camera",
+        "name": "Louis Faber",
+        "original_name": "Louis Faber",
+        "popularity": 0.112,
+        "profile_path": null,
+        "credit_id": "696b0cc95133e34b96689285",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2636019,
+        "known_for_department": "Camera",
+        "name": "Louis Faber",
+        "original_name": "Louis Faber",
+        "popularity": 0.112,
+        "profile_path": null,
+        "credit_id": "696b0cdacb195c9856f11554",
+        "department": "Camera",
+        "job": "Additional Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5944570,
+        "known_for_department": "Camera",
+        "name": "Jacobo Sas",
+        "original_name": "Jacobo Sas",
+        "popularity": 0.0789,
+        "profile_path": null,
+        "credit_id": "696b0daf7b3e123f3668928b",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3284158,
+        "known_for_department": "Production",
+        "name": "Elle Keseley",
+        "original_name": "Elle Keseley",
+        "popularity": 0.1557,
+        "profile_path": null,
+        "credit_id": "6a987503c3d3c9d386e611ba",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 1547,
+        "name": "mexico city, mexico"
+      },
+      {
+        "id": 9826,
+        "name": "murder"
+      },
+      {
+        "id": 18011,
+        "name": "pregnant woman"
+      },
+      {
+        "id": 210608,
+        "name": "1990s"
+      },
+      {
+        "id": 365935,
+        "name": "selena quintanilla"
+      },
+      {
+        "id": 365936,
+        "name": "selena"
+      },
+      {
+        "id": 365937,
+        "name": "celebrity death"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "In the wake of Selena Quintanilla’s murder, Marga’s life takes an unexpected turn at 21 weeks pregnant during a surprise visit to Mexico City.",
+          "runtime": 20,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt39188807",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.697,
+        "height": 2179,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/ibkq5WO4A3OzZD95iR8qj70bZNu.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1518
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Sundance Film Festival",
+            "release_date": "2026-01-25T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "SXSW | Narrative Short Program 2",
+            "release_date": "2026-03-13T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "SXSW | Narrative Short Program 2",
+            "release_date": "2026-03-16T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

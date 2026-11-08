@@ -1,0 +1,446 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 8000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1596237,
+  "imdb_id": null,
+  "origin_country": [
+    "AR"
+  ],
+  "original_language": "es",
+  "original_title": "El Condenado",
+  "overview": "",
+  "popularity": 0.7981,
+  "poster_path": "/mO9gO0KOLudbZ4DXAEItsXaDAhz.jpg",
+  "production_companies": [
+    {
+      "id": 282845,
+      "logo_path": null,
+      "name": "Gran Berta Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    }
+  ],
+  "release_date": "2025-11-19",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "El Condenado",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2509230,
+        "known_for_department": "Acting",
+        "name": "Sergio D'Angelo",
+        "original_name": "Sergio D'Angelo",
+        "popularity": 0.1886,
+        "profile_path": "/oZjYya1pLdaB3eoXHRFox2g9NHk.jpg",
+        "cast_id": 14,
+        "character": "Fabián",
+        "credit_id": "6939ab3df5caedc534af113c",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4802102,
+        "known_for_department": "Acting",
+        "name": "Mateo Bonamico",
+        "original_name": "Mateo Bonamico",
+        "popularity": 0.0425,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Casero",
+        "credit_id": "6939ab724f6b32519eaf1157",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3589937,
+        "known_for_department": "Directing",
+        "name": "Santiago Rey Salazar",
+        "original_name": "Santiago Rey Salazar",
+        "popularity": 0.0747,
+        "profile_path": "/kSI3r5kQBqq3vhuemFNKBoeWc8x.jpg",
+        "credit_id": "6939a8acfc6e5c20271d25a8",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5869363,
+        "known_for_department": "Directing",
+        "name": "Bautista Arizaga",
+        "original_name": "Bautista Arizaga",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6939a8e4bcb30b83e7b83c61",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3609924,
+        "known_for_department": "Production",
+        "name": "Ame Blanco",
+        "original_name": "Ame Blanco",
+        "popularity": 0.0692,
+        "profile_path": null,
+        "credit_id": "6939a8fc4f6b32519eaf1148",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3589937,
+        "known_for_department": "Directing",
+        "name": "Santiago Rey Salazar",
+        "original_name": "Santiago Rey Salazar",
+        "popularity": 0.0747,
+        "profile_path": "/kSI3r5kQBqq3vhuemFNKBoeWc8x.jpg",
+        "credit_id": "6939a915151de064e9af1124",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4672732,
+        "known_for_department": "Acting",
+        "name": "Lucas Gerson",
+        "original_name": "Lucas Gerson",
+        "popularity": 0.0376,
+        "profile_path": "/x0lcPFzVXUf1gOD0iSdwe22wCll.jpg",
+        "credit_id": "6939a924383815723ddfa595",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5869364,
+        "known_for_department": "Editing",
+        "name": "Gastón del Torto",
+        "original_name": "Gastón del Torto",
+        "popularity": 0.0708,
+        "profile_path": null,
+        "credit_id": "6939a93e26b010a3d9ae9e01",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4916164,
+        "known_for_department": "Lighting",
+        "name": "Diego Costilla",
+        "original_name": "Diego Costilla",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "6939a95b69e1f0dc05ae9e40",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4723016,
+        "known_for_department": "Directing",
+        "name": "Gonzalo Zilberman",
+        "original_name": "Gonzalo Zilberman",
+        "popularity": 0.0361,
+        "profile_path": null,
+        "credit_id": "6939a977a5b91cc28d690088",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5869366,
+        "known_for_department": "Camera",
+        "name": "Antonella Mónaco",
+        "original_name": "Antonella Mónaco",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6939a9959e69f7bfe0cdee13",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4192982,
+        "known_for_department": "Camera",
+        "name": "Davin Cristian Bög",
+        "original_name": "Davin Cristian Bög",
+        "popularity": 0.1478,
+        "profile_path": null,
+        "credit_id": "6939a9af9f9756ce61f61c84",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4837561,
+        "known_for_department": "Camera",
+        "name": "Santiago Triviño",
+        "original_name": "Santiago Triviño",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6939a9c07a399df255af111b",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3811083,
+        "known_for_department": "Lighting",
+        "name": "Ivan Castro",
+        "original_name": "Ivan Castro",
+        "popularity": 0.1316,
+        "profile_path": null,
+        "credit_id": "6939a9d8219919cb8dcdee57",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3973135,
+        "known_for_department": "Art",
+        "name": "Ignacio Concaro",
+        "original_name": "Ignacio Concaro",
+        "popularity": 0.0376,
+        "profile_path": "/fyXRnvdYzRLozxnr3pKH2wZGxZY.jpg",
+        "credit_id": "693b6be6275fd195626ec1f3",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4881844,
+        "known_for_department": "Editing",
+        "name": "Lucía Parysow",
+        "original_name": "Lucía Parysow",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "693b6c18f5a0028d97c3bb4a",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4464199,
+        "known_for_department": "Art",
+        "name": "Paula Burna",
+        "original_name": "Paula Burna",
+        "popularity": 0.0598,
+        "profile_path": "/p9pJLFfefEgB2K5vZzNz7vJay4r.jpg",
+        "credit_id": "693b6c95f5a0028d97c3bb4f",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5733542,
+        "known_for_department": "Art",
+        "name": "Carolina Muñoz Mosquera",
+        "original_name": "Carolina Muñoz Mosquera",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "693b6ceaf0fed80e8e012e8c",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5872682,
+        "known_for_department": "Art",
+        "name": "Avril Tenca",
+        "original_name": "Avril Tenca",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "693b6cfb21a9d3a731e0b9c0",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5872683,
+        "known_for_department": "Art",
+        "name": "Eliana gawer",
+        "original_name": "Eliana gawer",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "693b6d0645808b8ed6360991",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5872685,
+        "known_for_department": "Art",
+        "name": "Abril Gaia",
+        "original_name": "Abril Gaia",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "693b6d15298c6b43b1cafd1a",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3811220,
+        "known_for_department": "Directing",
+        "name": "Victoria Lombisano",
+        "original_name": "Victoria Lombisano",
+        "popularity": 0.0376,
+        "profile_path": null,
+        "credit_id": "693b6d2dfc173f09d336099c",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4916098,
+        "known_for_department": "Acting",
+        "name": "Valentín Gravina",
+        "original_name": "Valentín Gravina",
+        "popularity": 0.0406,
+        "profile_path": "/jGpWZ6f5v1KgSxkfVeE88t8YdYa.jpg",
+        "credit_id": "694701c6c961a0c6cd8eb328",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3535444,
+        "known_for_department": "Production",
+        "name": "Lautaro Matos",
+        "original_name": "Lautaro Matos",
+        "popularity": 0.1646,
+        "profile_path": "/h5Vpgia64ZG9h7fsyskLXjr3CKg.jpg",
+        "credit_id": "69e8d2671550b6bd28e44273",
+        "department": "Production",
+        "job": "Production Manager"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Un hombre llega al campo para deshacerse de algo que lo atormenta, convencido de que así podrá dejar el pasado atrás. Pero lo que empieza como una simple tarea se transforma en una pesadilla. La soledad, el miedo y la culpa comienzan a jugarle en contra, hasta que ya no puede distinguir si lo que está viviendo es real o parte de su imaginación. Todo se vuelve más confuso, descubriendo que hay cosas de las que no es tan fácil escapar.",
+          "runtime": 17,
+          "tagline": "Hay llamadas que ni la tierra puede silenciar.",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AR",
+        "release_dates": [
+          {
+            "certification": "+16",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "",
+            "release_date": "2025-11-19T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

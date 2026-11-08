@@ -1,0 +1,512 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 4,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 1679141,
+  "imdb_id": null,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "La Santeria",
+  "overview": "After enduring a series of disastrous online dates, Eric’s luck changes when he meets Xiomara—a woman of stunning beauty and intriguing aura. As the night unfolds, he finds himself falling under her spell. What could go wrong with loving a…witch?",
+  "popularity": 1.4049,
+  "poster_path": "/82OXanh8nkJK54zINnq5fB4PI01.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-04-01",
+  "revenue": 0,
+  "runtime": 15,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "La Santeria",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6006477,
+        "known_for_department": "Acting",
+        "name": "Amalie Rosales",
+        "original_name": "Amalie Rosales",
+        "popularity": 0.2162,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Xiomara",
+        "credit_id": "6ad6b6800bfcc7cb177a49ab",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2883437,
+        "known_for_department": "Acting",
+        "name": "Joe Mayes",
+        "original_name": "Joe Mayes",
+        "popularity": 0.1424,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Eric",
+        "credit_id": "6ad6b6b20b902f6db1845b4b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1970985,
+        "known_for_department": "Acting",
+        "name": "Sylvia Castro Galan",
+        "original_name": "Sylvia Castro Galan",
+        "popularity": 0.2878,
+        "profile_path": "/xsPvhrYFkIFfCJSYmunxOZR1mrN.jpg",
+        "cast_id": 4,
+        "character": "Old Xiomara",
+        "credit_id": "6ad6b6ee88bb57d773bed457",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3779497,
+        "known_for_department": "Acting",
+        "name": "David Moore",
+        "original_name": "David Moore",
+        "popularity": 0.1608,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Marcus (Santero)",
+        "credit_id": "6ad6b720f408cc53770900a0",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4982536,
+        "known_for_department": "Acting",
+        "name": "Andrew VanCamp",
+        "original_name": "Andrew VanCamp",
+        "popularity": 0.1607,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Bruce",
+        "credit_id": "6ad6b79e47fb907146845c22",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6561930,
+        "known_for_department": "Camera",
+        "name": "Itzel Fernandez",
+        "original_name": "Itzel Fernandez",
+        "popularity": 0.2597,
+        "profile_path": null,
+        "credit_id": "6ad6b7dded31c7bcff0900f9",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6433220,
+        "known_for_department": "Acting",
+        "name": "Colleen \"Colbie\" Inez",
+        "original_name": "Colleen \"Colbie\" Inez",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "credit_id": "6ad6b7ff0c686b53b5845af2",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6561931,
+        "known_for_department": "Camera",
+        "name": "Hugo Donis",
+        "original_name": "Hugo Donis",
+        "popularity": 0.4923,
+        "profile_path": null,
+        "credit_id": "6ad6b82416841cde2bb9ccb5",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3364448,
+        "known_for_department": "Lighting",
+        "name": "Bradley Kussy",
+        "original_name": "Bradley Kussy",
+        "popularity": 0.2592,
+        "profile_path": null,
+        "credit_id": "6ad6b850f408cc53770900f3",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6561933,
+        "known_for_department": "Crew",
+        "name": "Christopher Cerda",
+        "original_name": "Christopher Cerda",
+        "popularity": 0.7029,
+        "profile_path": null,
+        "credit_id": "6ad6b868ef133e53de090151",
+        "department": "Crew",
+        "job": "Drone Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4978886,
+        "known_for_department": "Crew",
+        "name": "Gabby Carbone",
+        "original_name": "Gabby Carbone",
+        "popularity": 0.1103,
+        "profile_path": null,
+        "credit_id": "6ad6b87e4ed1812e0fcec02b",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6561934,
+        "known_for_department": "Camera",
+        "name": "Sidney Travis",
+        "original_name": "Sidney Travis",
+        "popularity": 0.0573,
+        "profile_path": null,
+        "credit_id": "6ad6b8939dd2114da2b9cc04",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6561936,
+        "known_for_department": "Camera",
+        "name": "Gonzalo Betancor",
+        "original_name": "Gonzalo Betancor",
+        "popularity": 0.913,
+        "profile_path": null,
+        "credit_id": "6ad6b8b5c9acdc04f8cec07b",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2960298,
+        "known_for_department": "Sound",
+        "name": "Sebastian Haid",
+        "original_name": "Sebastian Haid",
+        "popularity": 0.226,
+        "profile_path": null,
+        "credit_id": "6ad6b8c76896f6fc47bed554",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4032670,
+        "known_for_department": "Production",
+        "name": "Kira Mason",
+        "original_name": "Kira Mason",
+        "popularity": 0.2036,
+        "profile_path": null,
+        "credit_id": "6ad6b8e109dbc82a6f0900ee",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4647734,
+        "known_for_department": "Directing",
+        "name": "Raphael Cosme",
+        "original_name": "Raphael Cosme",
+        "popularity": 0.0734,
+        "profile_path": "/qYgSQhfON0MJ3ByOc2ReiA5LbwJ.jpg",
+        "credit_id": "6ad6b8f42624274ad509006f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5841116,
+        "known_for_department": "Editing",
+        "name": "Kat Rolader",
+        "original_name": "Kat Rolader",
+        "popularity": 0.1069,
+        "profile_path": null,
+        "credit_id": "6ad6b919273b42f4847a49b7",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5947395,
+        "known_for_department": "Directing",
+        "name": "Borneo Sedeu Nishevikj",
+        "original_name": "Borneo Sedeu Nishevikj",
+        "popularity": 0.2201,
+        "profile_path": null,
+        "credit_id": "6ad6b9780b902f6db1845b6f",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5947397,
+        "known_for_department": "Directing",
+        "name": "Rolando Miranda",
+        "original_name": "Rolando Miranda",
+        "popularity": 0.1494,
+        "profile_path": null,
+        "credit_id": "6ad6b99d47fb907146845c4b",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5259009,
+        "known_for_department": "Production",
+        "name": "Isa Medina",
+        "original_name": "Isa Medina",
+        "popularity": 0.6375,
+        "profile_path": null,
+        "credit_id": "6ad6b9ad09dbc82a6f090104",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3751961,
+        "known_for_department": "Art",
+        "name": "Alejandra Arrieta Páez",
+        "original_name": "Alejandra Arrieta Páez",
+        "popularity": 0.2357,
+        "profile_path": null,
+        "credit_id": "6ad6b9c3ef133e53de090157",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4489428,
+        "known_for_department": "Production",
+        "name": "Isa Maria Jones",
+        "original_name": "Isa Maria Jones",
+        "popularity": 0.1959,
+        "profile_path": null,
+        "credit_id": "6ad6b9d447fb907146845c51",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6561938,
+        "known_for_department": "Sound",
+        "name": "Gabriela Polanco",
+        "original_name": "Gabriela Polanco",
+        "popularity": 0.6038,
+        "profile_path": null,
+        "credit_id": "6addb55c3031dfa461e1c644",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6561937,
+        "known_for_department": "Crew",
+        "name": "Myron Feltner",
+        "original_name": "Myron Feltner",
+        "popularity": 0.3292,
+        "profile_path": null,
+        "credit_id": "6ade24f4dc258947cf865a41",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6595190,
+        "known_for_department": "Directing",
+        "name": "Lisa Cerda Fernandez",
+        "original_name": "Lisa Cerda Fernandez",
+        "popularity": 0.0822,
+        "profile_path": null,
+        "credit_id": "6ae8de10a925f6a063e6d528",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6595190,
+        "known_for_department": "Directing",
+        "name": "Lisa Cerda Fernandez",
+        "original_name": "Lisa Cerda Fernandez",
+        "popularity": 0.0822,
+        "profile_path": null,
+        "credit_id": "6ae8de216f7d37ee78569412",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 3258,
+        "name": "beauty"
+      },
+      {
+        "id": 9016,
+        "name": "femme fatale"
+      },
+      {
+        "id": 156075,
+        "name": "evil"
+      },
+      {
+        "id": 286670,
+        "name": "latinx"
+      },
+      {
+        "id": 328590,
+        "name": "witches"
+      },
+      {
+        "id": 367713,
+        "name": "dark magic"
+      },
+      {
+        "id": 386418,
+        "name": "latina witch"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "After enduring a series of disastrous online dates, Eric’s luck changes when he meets Xiomara—a woman of stunning beauty and intriguing aura. As the night unfolds, he finds himself falling under her spell. What could go wrong with loving a…witch?",
+          "runtime": 15,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "santeria.film",
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 2250,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/82OXanh8nkJK54zINnq5fB4PI01.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1500
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "PG-13",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2026-04-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "La Santería Trailer",
+        "key": "_AZoAMRoyfM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "6ad6bb1571a59b2e57b9cd40",
+        "published_at": "2025-07-17T22:16:56.000Z"
+      }
+    ]
+  }
+}

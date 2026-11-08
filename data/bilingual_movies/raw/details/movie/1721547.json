@@ -1,0 +1,593 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 2600,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1721547,
+  "imdb_id": null,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Parasocial",
+  "overview": "After achieving breakout success in Hollywood, actor Claire Watson returns to her childhood friends for a dinner party, hoping for a brief escape from the exhaustion of fame. Instead of a warm welcome of familiarity, she is met with an unsettling intensity. Their nostalgia feels rehearsed, their admiration excessive, and a sentimental presentation of their past becomes uncomfortably centred on Claire’s fame. Claire's perspective on her past must be confronted, as this is not what she remembers it being like, where her friends always this way? As the night wears on, small disturbances escalate into violence as the group reveal their true nature. She must now not only battle her conflicting thoughts on nostalgia but also for her own life, as her friends shed any resemblance of humanity and become parasites willing to do whatever it takes to drag Claire to their level.",
+  "popularity": 0.9747,
+  "poster_path": "/4oWloiP9yaMCGs34gP8dh0cEXZ9.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2026-05-28",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Parasocial",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3777904,
+        "known_for_department": "Acting",
+        "name": "Sarah Coyne",
+        "original_name": "Sarah Coyne",
+        "popularity": 0.1793,
+        "profile_path": "/hWHlxMKXRffwmS11Du32WImRNEb.jpg",
+        "cast_id": 27,
+        "character": "Claire Watson",
+        "credit_id": "6a3fa452a8afd84a95cf052d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6022930,
+        "known_for_department": "Acting",
+        "name": "Felix Kennedy Somerville",
+        "original_name": "Felix Kennedy Somerville",
+        "popularity": 0.3313,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Mark Gannon",
+        "credit_id": "6a3faec6df09cfb72537f2a7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6311692,
+        "known_for_department": "Acting",
+        "name": "Jazahme Belmont",
+        "original_name": "Jazahme Belmont",
+        "popularity": 0.3184,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Peter Johnson",
+        "credit_id": "6a3fa4e6b4ce39efa2518760",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6311693,
+        "known_for_department": "Acting",
+        "name": "Freya O’Horo",
+        "original_name": "Freya O’Horo",
+        "popularity": 0.3374,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Sophie Lewis",
+        "credit_id": "6a3fa50aaa23e248f35187ad",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5017850,
+        "known_for_department": "Acting",
+        "name": "David Virgo",
+        "original_name": "David Virgo",
+        "popularity": 0.2584,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Craig Larsen",
+        "credit_id": "6a3fb282248b23571637f2db",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3642932,
+        "known_for_department": "Acting",
+        "name": "Gordon Millar",
+        "original_name": "Gordon Millar",
+        "popularity": 0.4682,
+        "profile_path": "/rbFxNLiGgCEcnYX2amZaGVdXWPV.jpg",
+        "cast_id": 32,
+        "character": "Robert Ellis",
+        "credit_id": "6a3fa542dc920654c451884b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6311694,
+        "known_for_department": "Acting",
+        "name": "Alistair Williams",
+        "original_name": "Alistair Williams",
+        "popularity": 0.1803,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Taxi Driver",
+        "credit_id": "6a3fa5686d53d96de29f3c34",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6310382,
+        "known_for_department": "Directing",
+        "name": "Adam Slater",
+        "original_name": "Adam Slater",
+        "popularity": 0.186,
+        "profile_path": null,
+        "credit_id": "6a3eb7a6c40e68fe8fc8f5af",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6310375,
+        "known_for_department": "Production",
+        "name": "Ryan Phillips",
+        "original_name": "Ryan Phillips",
+        "popularity": 0.1104,
+        "profile_path": null,
+        "credit_id": "6a3eb7d37ee5bf0082eb334a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6310386,
+        "known_for_department": "Writing",
+        "name": "Sam Campbell",
+        "original_name": "Sam Campbell",
+        "popularity": 0.1196,
+        "profile_path": null,
+        "credit_id": "6a3eb82e5c697cc48a814ac0",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6310389,
+        "known_for_department": "Camera",
+        "name": "Daisy Rafferty",
+        "original_name": "Daisy Rafferty",
+        "popularity": 0.0519,
+        "profile_path": null,
+        "credit_id": "6a3eb8447b8f7ceebff021f0",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6310390,
+        "known_for_department": "Editing",
+        "name": "Micheal Conner Macrury",
+        "original_name": "Micheal Conner Macrury",
+        "popularity": 0.0601,
+        "profile_path": null,
+        "credit_id": "6a3eb85b55d9211b9a814b59",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6310391,
+        "known_for_department": "Art",
+        "name": "Alexander Dall",
+        "original_name": "Alexander Dall",
+        "popularity": 0.0538,
+        "profile_path": null,
+        "credit_id": "6a3eb86e5a9c2d9e97eb347f",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6310393,
+        "known_for_department": "Sound",
+        "name": "Sol Clarkson",
+        "original_name": "Sol Clarkson",
+        "popularity": 0.0552,
+        "profile_path": null,
+        "credit_id": "6a3eb8860ad22235de180ef6",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6310389,
+        "known_for_department": "Camera",
+        "name": "Daisy Rafferty",
+        "original_name": "Daisy Rafferty",
+        "popularity": 0.0519,
+        "profile_path": null,
+        "credit_id": "6a3eb8a0c9549e4adae6ebf2",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6310395,
+        "known_for_department": "Directing",
+        "name": "Ben Aitken",
+        "original_name": "Ben Aitken",
+        "popularity": 0.052,
+        "profile_path": null,
+        "credit_id": "6a3eb8bd3bec774fc451a6fa",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6310397,
+        "known_for_department": "Camera",
+        "name": "Finn Ross",
+        "original_name": "Finn Ross",
+        "popularity": 0.0579,
+        "profile_path": null,
+        "credit_id": "6a3eb8d388707799f151a763",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6310390,
+        "known_for_department": "Editing",
+        "name": "Micheal Conner Macrury",
+        "original_name": "Micheal Conner Macrury",
+        "popularity": 0.0601,
+        "profile_path": null,
+        "credit_id": "6a3f9eefa5995453f2166001",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6310382,
+        "known_for_department": "Directing",
+        "name": "Adam Slater",
+        "original_name": "Adam Slater",
+        "popularity": 0.186,
+        "profile_path": null,
+        "credit_id": "6a3fa02ac40119f2d4c7ba6c",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6310386,
+        "known_for_department": "Writing",
+        "name": "Sam Campbell",
+        "original_name": "Sam Campbell",
+        "popularity": 0.1196,
+        "profile_path": null,
+        "credit_id": "6a3fa08c5b3f3ae9ac3ccfa9",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6311668,
+        "known_for_department": "Lighting",
+        "name": "Ross Anderson",
+        "original_name": "Ross Anderson",
+        "popularity": 0.0624,
+        "profile_path": null,
+        "credit_id": "6a3fa13ee1831e791c37f261",
+        "department": "Lighting",
+        "job": "Lighting Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6310393,
+        "known_for_department": "Sound",
+        "name": "Sol Clarkson",
+        "original_name": "Sol Clarkson",
+        "popularity": 0.0552,
+        "profile_path": null,
+        "credit_id": "6a3fa15c0cd7e5de74e732ea",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6311671,
+        "known_for_department": "Art",
+        "name": "Declan McGrotty",
+        "original_name": "Declan McGrotty",
+        "popularity": 0.0674,
+        "profile_path": null,
+        "credit_id": "6a3fa19fa74110dd4fc7bb42",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6310382,
+        "known_for_department": "Directing",
+        "name": "Adam Slater",
+        "original_name": "Adam Slater",
+        "popularity": 0.186,
+        "profile_path": null,
+        "credit_id": "6a3fa1b72d3b89f8e3e206d3",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6311673,
+        "known_for_department": "Sound",
+        "name": "Elizabeth Hernandez Moliko",
+        "original_name": "Elizabeth Hernandez Moliko",
+        "popularity": 0.0572,
+        "profile_path": null,
+        "credit_id": "6a3fa1d58fb179d2d8e2069e",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6311675,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Dylan Palmer",
+        "original_name": "Dylan Palmer",
+        "popularity": 0.0568,
+        "profile_path": null,
+        "credit_id": "6a3fa1f33dd7733c30c7bab4",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6310382,
+        "known_for_department": "Directing",
+        "name": "Adam Slater",
+        "original_name": "Adam Slater",
+        "popularity": 0.186,
+        "profile_path": null,
+        "credit_id": "6a3fa37e6d53d96de29f3c1c",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Effects Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6310375,
+        "known_for_department": "Production",
+        "name": "Ryan Phillips",
+        "original_name": "Ryan Phillips",
+        "popularity": 0.1104,
+        "profile_path": null,
+        "credit_id": "6a3fa39a10986a9f995186d8",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6310375,
+        "known_for_department": "Production",
+        "name": "Ryan Phillips",
+        "original_name": "Ryan Phillips",
+        "popularity": 0.1104,
+        "profile_path": null,
+        "credit_id": "6a3fa3fdaa23e248f351879e",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6310375,
+        "known_for_department": "Production",
+        "name": "Ryan Phillips",
+        "original_name": "Ryan Phillips",
+        "popularity": 0.1104,
+        "profile_path": null,
+        "credit_id": "6a3faa21443d3c0b57724756",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6022930,
+        "known_for_department": "Acting",
+        "name": "Felix Kennedy Somerville",
+        "original_name": "Felix Kennedy Somerville",
+        "popularity": 0.3313,
+        "profile_path": null,
+        "credit_id": "6a3fad555a95e61f74b08596",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6311692,
+        "known_for_department": "Acting",
+        "name": "Jazahme Belmont",
+        "original_name": "Jazahme Belmont",
+        "popularity": 0.3184,
+        "profile_path": null,
+        "credit_id": "6a3fada56d53d96de29f3c71",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6310382,
+        "known_for_department": "Directing",
+        "name": "Adam Slater",
+        "original_name": "Adam Slater",
+        "popularity": 0.186,
+        "profile_path": null,
+        "credit_id": "6a3fadba2bdb38307772476c",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6137439,
+        "known_for_department": "Sound",
+        "name": "Manuele Manieri",
+        "original_name": "Manuele Manieri",
+        "popularity": 0.0707,
+        "profile_path": null,
+        "credit_id": "6a3fb1670cd7e5de74e7338d",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6313869,
+        "known_for_department": "Sound",
+        "name": "Andrew Taylor",
+        "original_name": "Andrew Taylor",
+        "popularity": 0.0527,
+        "profile_path": null,
+        "credit_id": "6a40fb324875510e1345ee94",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "After achieving breakout success in Hollywood, actor Claire Watson returns to her childhood friends for a dinner party, hoping for a brief escape from the exhaustion of fame. Instead of a warm welcome of familiarity, she is met with an unsettling intensity. Their nostalgia feels rehearsed, their admiration excessive, and a sentimental presentation of their past becomes uncomfortably centred on Claire’s fame. Claire's perspective on her past must be confronted, as this is not what she remembers it being like, where her friends always this way? As the night wears on, small disturbances escalate into violence as the group reveal their true nature. She must now not only battle her conflicting thoughts on nostalgia but also for her own life, as her friends shed any resemblance of humanity and become parasites willing to do whatever it takes to drag Claire to their level.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.75,
+        "height": 2667,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/4oWloiP9yaMCGs34gP8dh0cEXZ9.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "Private Screening",
+            "release_date": "2026-05-28T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

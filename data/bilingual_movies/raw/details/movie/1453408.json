@@ -1,0 +1,704 @@
+{
+  "adult": false,
+  "backdrop_path": "/nYv0AsBXjMLPaV6gYwHKlaFqJnQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 2000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 1453408,
+  "imdb_id": null,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "fr",
+  "original_title": "Kairos",
+  "overview": "Emma is an ambitious computer science student at the Academy of Advanced Technologies. When she develops Kairos, an artificial intelligence for her final project, she is unknowingly shaping the course of her own life, as it can generate statistical predictions to guide her in shaping her future… But at what cost?",
+  "popularity": 1.3061,
+  "poster_path": "/sDChWykVYnW68VQjNwf2OgEwAf4.jpg",
+  "production_companies": [
+    {
+      "id": 218403,
+      "logo_path": null,
+      "name": "Studio QC",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2025-03-31",
+  "revenue": 0,
+  "runtime": 31,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Kairos",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4481397,
+        "known_for_department": "Acting",
+        "name": "Emmy Doody",
+        "original_name": "Emmy Doody",
+        "popularity": 0.0973,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Emma (20 ans)",
+        "credit_id": "67e157d735bd26a7d94dd440",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1670902,
+        "known_for_department": "Acting",
+        "name": "Gabrielle Côté",
+        "original_name": "Gabrielle Côté",
+        "popularity": 0.2416,
+        "profile_path": "/dGqcivSwsO1OxDfPnMyOeuc9Jvv.jpg",
+        "cast_id": 2,
+        "character": "Emma (35 ans)",
+        "credit_id": "67e157f1968ee208674d8eb1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1736454,
+        "known_for_department": "Acting",
+        "name": "Charlotte St-Martin",
+        "original_name": "Charlotte St-Martin",
+        "popularity": 0.406,
+        "profile_path": "/oevrr94QjhMUTHiZYLmCJeTHXIn.jpg",
+        "cast_id": 3,
+        "character": "Emma (15 ans)",
+        "credit_id": "67e1580b1f256aef1cc70e3d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4277541,
+        "known_for_department": "Acting",
+        "name": "Émile Ouellette",
+        "original_name": "Émile Ouellette",
+        "popularity": 0.3179,
+        "profile_path": "/2XupUzeLwMLZEdbwTQcylZcOp0D.jpg",
+        "cast_id": 4,
+        "character": "Paul",
+        "credit_id": "67e158181f256aef1cc70e4c",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1847614,
+        "known_for_department": "Acting",
+        "name": "Julien Leclerc",
+        "original_name": "Julien Leclerc",
+        "popularity": 0.4192,
+        "profile_path": "/65g63F7v82F1W2QfwFsKT6K4CYN.jpg",
+        "cast_id": 5,
+        "character": "Martin",
+        "credit_id": "67e1582735bd26a7d94dd483",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1546719,
+        "known_for_department": "Acting",
+        "name": "Jade Charbonneau",
+        "original_name": "Jade Charbonneau",
+        "popularity": 0.6055,
+        "profile_path": "/ajI2bbLwbo6Oj6mIQfueBINJpZO.jpg",
+        "cast_id": 6,
+        "character": "Elisabeth",
+        "credit_id": "67e1583435bd26a7d94dd49e",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4552257,
+        "known_for_department": "Acting",
+        "name": "Catherine-Audrey Volcy",
+        "original_name": "Catherine-Audrey Volcy",
+        "popularity": 0.3045,
+        "profile_path": "/qpo3jZI5bxlb7uqLhz59r1URdsM.jpg",
+        "cast_id": 7,
+        "character": "Marie-Pier",
+        "credit_id": "67e15841968ee208674d8edb",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2744689,
+        "known_for_department": "Acting",
+        "name": "Zakary Auclair",
+        "original_name": "Zakary Auclair",
+        "popularity": 0.1992,
+        "profile_path": "/q5Q9kZ008HMkz405m3th5gI1V4b.jpg",
+        "cast_id": 8,
+        "character": "Karl",
+        "credit_id": "67e1584c4ce07d684e080e3c",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1804570,
+        "known_for_department": "Acting",
+        "name": "Anik Lefebvre",
+        "original_name": "Anik Lefebvre",
+        "popularity": 0.1889,
+        "profile_path": "/dHfCIC3nAjNbPHxuLSC6DeKXlQu.jpg",
+        "cast_id": 9,
+        "character": "Nancy",
+        "credit_id": "67e158581f256aef1cc70e80",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2562501,
+        "known_for_department": "Acting",
+        "name": "Alexandre St-Martin",
+        "original_name": "Alexandre St-Martin",
+        "popularity": 0.3217,
+        "profile_path": "/n2tP3LOGGmJq7JrVvwZsjWiwi6P.jpg",
+        "cast_id": 10,
+        "character": "Pierre-Luc",
+        "credit_id": "67e1586735bd26a7d94dd4d5",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4048232,
+        "known_for_department": "Acting",
+        "name": "Félix Rompré",
+        "original_name": "Félix Rompré",
+        "popularity": 0.3716,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Étudiant de l'ATS",
+        "credit_id": "67e158814ce07d684e080e51",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2490971,
+        "known_for_department": "Acting",
+        "name": "P.J. Dufort",
+        "original_name": "P.J. Dufort",
+        "popularity": 0.0541,
+        "profile_path": "/za8HW0E4NmmmexmOFuXRNxJWQNP.jpg",
+        "cast_id": 12,
+        "character": "Investisseur",
+        "credit_id": "67e158931f256aef1cc70eaf",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5325280,
+        "known_for_department": "Acting",
+        "name": "Cedric Barrette",
+        "original_name": "Cedric Barrette",
+        "popularity": 0.0431,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Couple du parc",
+        "credit_id": "67e158b3ce605a1ed1c7527d",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3904465,
+        "known_for_department": "Acting",
+        "name": "Éloïse Lagacé",
+        "original_name": "Éloïse Lagacé",
+        "popularity": 0.0702,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Couple du parc",
+        "credit_id": "67e158c07d0565af0207ef83",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5325282,
+        "known_for_department": "Acting",
+        "name": "Loïc Alajarin",
+        "original_name": "Loïc Alajarin",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Fils d'Emma",
+        "credit_id": "67e158ce7d0565af0207ef8f",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3310031,
+        "known_for_department": "Directing",
+        "name": "Léo Leclerc",
+        "original_name": "Léo Leclerc",
+        "popularity": 0.1903,
+        "profile_path": null,
+        "credit_id": "67e158f2968ee208674d8f3a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1847614,
+        "known_for_department": "Acting",
+        "name": "Julien Leclerc",
+        "original_name": "Julien Leclerc",
+        "popularity": 0.4192,
+        "profile_path": "/65g63F7v82F1W2QfwFsKT6K4CYN.jpg",
+        "credit_id": "67e158fc1f256aef1cc70edc",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3892214,
+        "known_for_department": "Camera",
+        "name": "Jérémie Gravel",
+        "original_name": "Jérémie Gravel",
+        "popularity": 0.6198,
+        "profile_path": "/pe0THZn6fiuRKtsFn8qZ0T8oON2.jpg",
+        "credit_id": "67e1592a35bd26a7d94dd524",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4006900,
+        "known_for_department": "Directing",
+        "name": "Renaud Gélinas",
+        "original_name": "Renaud Gélinas",
+        "popularity": 0.2102,
+        "profile_path": "/dRsQnEUfuzABNkPDvdvYHklBTdF.jpg",
+        "credit_id": "67e159501c3663cb814d8485",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2122698,
+        "known_for_department": "Acting",
+        "name": "Maya Gosselin",
+        "original_name": "Maya Gosselin",
+        "popularity": 0.1428,
+        "profile_path": "/yC6sIFTuIu14vcBuHemDvdeYXRP.jpg",
+        "credit_id": "67e15986c2d819df69c76b34",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5325294,
+        "known_for_department": "Production",
+        "name": "justin lachaine",
+        "original_name": "justin lachaine",
+        "popularity": 0.0386,
+        "profile_path": null,
+        "credit_id": "67e159af7d0565af0207f017",
+        "department": "Production",
+        "job": "Producer's Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2490971,
+        "known_for_department": "Acting",
+        "name": "P.J. Dufort",
+        "original_name": "P.J. Dufort",
+        "popularity": 0.0541,
+        "profile_path": "/za8HW0E4NmmmexmOFuXRNxJWQNP.jpg",
+        "credit_id": "67e159bf1c3663cb814d84f3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5102520,
+        "known_for_department": "Directing",
+        "name": "Marlène Gaudreau",
+        "original_name": "Marlène Gaudreau",
+        "popularity": 0.1779,
+        "profile_path": null,
+        "credit_id": "67e159d84ce07d684e080eda",
+        "department": "Crew",
+        "job": "Script"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4006920,
+        "known_for_department": "Directing",
+        "name": "Florence Coulombe",
+        "original_name": "Florence Coulombe",
+        "popularity": 0.0553,
+        "profile_path": null,
+        "credit_id": "67e159e24ce07d684e080ede",
+        "department": "Crew",
+        "job": "Script"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3310030,
+        "known_for_department": "Camera",
+        "name": "Dylan Garand",
+        "original_name": "Dylan Garand",
+        "popularity": 0.2685,
+        "profile_path": null,
+        "credit_id": "67e159f14ce07d684e080eec",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3310026,
+        "known_for_department": "Camera",
+        "name": "Antoine Jacob",
+        "original_name": "Antoine Jacob",
+        "popularity": 0.2747,
+        "profile_path": "/rlXv8cUZyqndfSxH7GE3BIGocd0.jpg",
+        "credit_id": "67e159fbce605a1ed1c75310",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4012005,
+        "known_for_department": "Camera",
+        "name": "Andrej Milisav",
+        "original_name": "Andrej Milisav",
+        "popularity": 0.475,
+        "profile_path": null,
+        "credit_id": "67e15a24c2d819df69c76b82",
+        "department": "Crew",
+        "job": "Machinist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3892203,
+        "known_for_department": "Acting",
+        "name": "William Houde",
+        "original_name": "William Houde",
+        "popularity": 0.1245,
+        "profile_path": null,
+        "credit_id": "67e15a361c3663cb814d855c",
+        "department": "Crew",
+        "job": "Machinist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1847613,
+        "known_for_department": "Acting",
+        "name": "Justin Leyrolles-Bouchard",
+        "original_name": "Justin Leyrolles-Bouchard",
+        "popularity": 0.2741,
+        "profile_path": "/jllDKEBwBetvxNF91drPHgZUzvM.jpg",
+        "credit_id": "67e15a441c3663cb814d8569",
+        "department": "Crew",
+        "job": "Machinist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3870939,
+        "known_for_department": "Sound",
+        "name": "Victor Fraternali",
+        "original_name": "Victor Fraternali",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67e15a51c2d819df69c76b91",
+        "department": "Crew",
+        "job": "Machinist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3310026,
+        "known_for_department": "Camera",
+        "name": "Antoine Jacob",
+        "original_name": "Antoine Jacob",
+        "popularity": 0.2747,
+        "profile_path": "/rlXv8cUZyqndfSxH7GE3BIGocd0.jpg",
+        "credit_id": "67e15a5cce605a1ed1c7532d",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5325302,
+        "known_for_department": "Sound",
+        "name": "Maxime Olivier Paradis",
+        "original_name": "Maxime Olivier Paradis",
+        "popularity": 0.2308,
+        "profile_path": null,
+        "credit_id": "67e15a731c3663cb814d85a2",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3870939,
+        "known_for_department": "Sound",
+        "name": "Victor Fraternali",
+        "original_name": "Victor Fraternali",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67e15a831c3663cb814d85ab",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4006915,
+        "known_for_department": "Art",
+        "name": "Justine Filion",
+        "original_name": "Justine Filion",
+        "popularity": 0.0963,
+        "profile_path": null,
+        "credit_id": "67e15a971c3663cb814d85bd",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4012005,
+        "known_for_department": "Camera",
+        "name": "Andrej Milisav",
+        "original_name": "Andrej Milisav",
+        "popularity": 0.475,
+        "profile_path": null,
+        "credit_id": "67e15af77d0565af0207f0e3",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4011994,
+        "known_for_department": "Sound",
+        "name": "Vincent Ménard",
+        "original_name": "Vincent Ménard",
+        "popularity": 0.3161,
+        "profile_path": null,
+        "credit_id": "67e15b02ce605a1ed1c75366",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4006923,
+        "known_for_department": "Editing",
+        "name": "Gabrielle Massé",
+        "original_name": "Gabrielle Massé",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "67e15b14968ee208674d8f4d",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3310031,
+        "known_for_department": "Directing",
+        "name": "Léo Leclerc",
+        "original_name": "Léo Leclerc",
+        "popularity": 0.1903,
+        "profile_path": null,
+        "credit_id": "67e15b28c2d819df69c76bcc",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5325308,
+        "known_for_department": "Editing",
+        "name": "Émile Tremblay",
+        "original_name": "Émile Tremblay",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "67e15b35c2d819df69c76bda",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3310031,
+        "known_for_department": "Directing",
+        "name": "Léo Leclerc",
+        "original_name": "Léo Leclerc",
+        "popularity": 0.1903,
+        "profile_path": null,
+        "credit_id": "67e15ba71c3663cb814d8615",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1847614,
+        "known_for_department": "Acting",
+        "name": "Julien Leclerc",
+        "original_name": "Julien Leclerc",
+        "popularity": 0.4192,
+        "profile_path": "/65g63F7v82F1W2QfwFsKT6K4CYN.jpg",
+        "credit_id": "67e15bb31c3663cb814d8623",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4481402,
+        "known_for_department": "Acting",
+        "name": "Mael Bacon",
+        "original_name": "Mael Bacon",
+        "popularity": 0.1523,
+        "profile_path": null,
+        "credit_id": "67e324c6a63bcc4997dc9329",
+        "department": "Art",
+        "job": "Art Direction"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Emma is an ambitious computer science student at the Academy of Advanced Technologies. When she develops Kairos, an artificial intelligence for her final project, she is unknowingly shaping the course of her own life, as it can generate statistical predictions to guide her in shaping her future… But at what cost?",
+          "runtime": 31,
+          "tagline": "",
+          "title": "Kairos"
+        }
+      },
+      {
+        "iso_3166_1": "CA",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "Emma est une étudiante ambitieuse en informatique à l’académie des technologies supérieures. Lorsqu’elle développe Kairos, une intelligence artificielle pour son projet de fin de session, elle planifie du même coup le projet de sa propre vie puisqu’il est en mesure de faire des prévisions statistiques pour lui indiquer comment transformer son futur… Mais à quel prix?",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/nYv0AsBXjMLPaV6gYwHKlaFqJnQ.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      }
+    ],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "fr",
+            "note": "Première Studio QC",
+            "release_date": "2025-03-31T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

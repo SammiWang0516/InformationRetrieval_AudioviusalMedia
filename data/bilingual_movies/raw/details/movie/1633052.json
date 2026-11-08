@@ -1,0 +1,623 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 20,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://www.daydreamthemovie.com/",
+  "id": 1633052,
+  "imdb_id": "tt39481333",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Daydream",
+  "overview": "A young adult recounts childhood memories involving his 6th grade teacher and the lessons she taught, particularly her unconventional assignment: to daydream.",
+  "popularity": 1.0056,
+  "poster_path": "/opfXUeIVvuX53KzxDUMRieIWkxW.jpg",
+  "production_companies": [
+    {
+      "id": 288935,
+      "logo_path": null,
+      "name": "Blackbird Features",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-05-29",
+  "revenue": 0,
+  "runtime": 70,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "There's always one teacher you never forget",
+  "title": "Daydream",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6000127,
+        "known_for_department": "Acting",
+        "name": "Maura Aimette",
+        "original_name": "Maura Aimette",
+        "popularity": 0.1161,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Ms. Aimette",
+        "credit_id": "698be45d309b7c3fed67e78d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2018065,
+        "known_for_department": "Acting",
+        "name": "Kevin C. Carr",
+        "original_name": "Kevin C. Carr",
+        "popularity": 0.1868,
+        "profile_path": "/ApdGWKAxUwuKgyZD7I3J6YYkbDo.jpg",
+        "cast_id": 2,
+        "character": "Frank",
+        "credit_id": "698be47235cb8a1c0809c117",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6000128,
+        "known_for_department": "Acting",
+        "name": "Kieran Patrick",
+        "original_name": "Kieran Patrick",
+        "popularity": 0.0954,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Nick",
+        "credit_id": "698be484d2b189682c09c078",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6000129,
+        "known_for_department": "Acting",
+        "name": "Patrick Cogan",
+        "original_name": "Patrick Cogan",
+        "popularity": 0.1472,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Interviewee",
+        "credit_id": "698be4b74aba47108cbb76bd",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6000130,
+        "known_for_department": "Acting",
+        "name": "Maxim Kuc",
+        "original_name": "Maxim Kuc",
+        "popularity": 0.1632,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Interviewee",
+        "credit_id": "698be4c6022842996509c129",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1549877,
+        "known_for_department": "Acting",
+        "name": "Henri Douvry",
+        "original_name": "Henri Douvry",
+        "popularity": 0.2154,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Interviewee",
+        "credit_id": "698be4d450f31a5deb09c014",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6000131,
+        "known_for_department": "Acting",
+        "name": "Jutta Gassner",
+        "original_name": "Jutta Gassner",
+        "popularity": 0.0593,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Interviewee",
+        "credit_id": "698be4e21f3dbd427cd3a59d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6000132,
+        "known_for_department": "Acting",
+        "name": "Cameron Balbi",
+        "original_name": "Cameron Balbi",
+        "popularity": 0.1297,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Student",
+        "credit_id": "698be52b548fff8357f7b4ad",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6000133,
+        "known_for_department": "Acting",
+        "name": "Cecilia Campbell",
+        "original_name": "Cecilia Campbell",
+        "popularity": 0.2095,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Student",
+        "credit_id": "698be539022842996509c144",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6000134,
+        "known_for_department": "Acting",
+        "name": "Cassie Carlina",
+        "original_name": "Cassie Carlina",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Student",
+        "credit_id": "698be545f1b78c5651f7b43b",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3597189,
+        "known_for_department": "Acting",
+        "name": "Lucas Colterelli",
+        "original_name": "Lucas Colterelli",
+        "popularity": 0.1302,
+        "profile_path": "/XUkRW5O2xo5PGslpZLjNoYIilp.jpg",
+        "cast_id": 11,
+        "character": "Student",
+        "credit_id": "698be5562a1c6126e7885d21",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6000135,
+        "known_for_department": "Acting",
+        "name": "Clara Downey",
+        "original_name": "Clara Downey",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Student",
+        "credit_id": "698be564349da68fdcd3a616",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6000136,
+        "known_for_department": "Acting",
+        "name": "Judith Downey",
+        "original_name": "Judith Downey",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Student",
+        "credit_id": "698be57260993b029dbb76da",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6000137,
+        "known_for_department": "Acting",
+        "name": "Coretta Jewell",
+        "original_name": "Coretta Jewell",
+        "popularity": 0.0532,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Student",
+        "credit_id": "698be57fc0c44949c2d54078",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6000138,
+        "known_for_department": "Acting",
+        "name": "Arabella Noelle",
+        "original_name": "Arabella Noelle",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Student",
+        "credit_id": "698be58d8646bf047ed3a569",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6000139,
+        "known_for_department": "Acting",
+        "name": "Emily Spencer",
+        "original_name": "Emily Spencer",
+        "popularity": 0.0329,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Student",
+        "credit_id": "698be59c1f3dbd427cd3a5bc",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6000140,
+        "known_for_department": "Acting",
+        "name": "Jackson Cooperman",
+        "original_name": "Jackson Cooperman",
+        "popularity": 0.2303,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Narrator (uncredited)",
+        "credit_id": "698be5eb33c7f40b06a61412",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6000140,
+        "known_for_department": "Acting",
+        "name": "Jackson Cooperman",
+        "original_name": "Jackson Cooperman",
+        "popularity": 0.2303,
+        "profile_path": null,
+        "credit_id": "698be677e097bd9b6cf7b523",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6000140,
+        "known_for_department": "Acting",
+        "name": "Jackson Cooperman",
+        "original_name": "Jackson Cooperman",
+        "popularity": 0.2303,
+        "profile_path": null,
+        "credit_id": "698be68a170fb17da9f7b41b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6000140,
+        "known_for_department": "Acting",
+        "name": "Jackson Cooperman",
+        "original_name": "Jackson Cooperman",
+        "popularity": 0.2303,
+        "profile_path": null,
+        "credit_id": "698be699afd8e055c7bb7688",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6000149,
+        "known_for_department": "Crew",
+        "name": "Brian Wennersten",
+        "original_name": "Brian Wennersten",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "698be6e2303faa277cd5416c",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3131442,
+        "known_for_department": "Directing",
+        "name": "Rob Ciano",
+        "original_name": "Rob Ciano",
+        "popularity": 0.3429,
+        "profile_path": null,
+        "credit_id": "698be7f1f92f487252f7b4d4",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6000140,
+        "known_for_department": "Acting",
+        "name": "Jackson Cooperman",
+        "original_name": "Jackson Cooperman",
+        "popularity": 0.2303,
+        "profile_path": null,
+        "credit_id": "698be7fdad430ba1bc67e738",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6000140,
+        "known_for_department": "Acting",
+        "name": "Jackson Cooperman",
+        "original_name": "Jackson Cooperman",
+        "popularity": 0.2303,
+        "profile_path": null,
+        "credit_id": "698be81a60993b029dbb772d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6000140,
+        "known_for_department": "Acting",
+        "name": "Jackson Cooperman",
+        "original_name": "Jackson Cooperman",
+        "popularity": 0.2303,
+        "profile_path": null,
+        "credit_id": "698be8259e58da271009c081",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6000156,
+        "known_for_department": "Camera",
+        "name": "Alexandra McDowell",
+        "original_name": "Alexandra McDowell",
+        "popularity": 0.0331,
+        "profile_path": null,
+        "credit_id": "698be85b022842996509c1a8",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6000157,
+        "known_for_department": "Sound",
+        "name": "Ryan Mitchell",
+        "original_name": "Ryan Mitchell",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "698be8afed30d9237367e767",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6000158,
+        "known_for_department": "Camera",
+        "name": "Matthew Trezza",
+        "original_name": "Matthew Trezza",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "698be906e0bcd17a6609c138",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6000159,
+        "known_for_department": "Camera",
+        "name": "John Lepes",
+        "original_name": "John Lepes",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "698be93be3c74010fe7be3f5",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6000161,
+        "known_for_department": "Sound",
+        "name": "Anthony Fuscaldo",
+        "original_name": "Anthony Fuscaldo",
+        "popularity": 0.0531,
+        "profile_path": null,
+        "credit_id": "698be98ae3c74010fe7be400",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6000163,
+        "known_for_department": "Sound",
+        "name": "Itamar Erez",
+        "original_name": "Itamar Erez",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "698be996ed30d9237367e799",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1583597,
+        "known_for_department": "Directing",
+        "name": "Taylor Morano",
+        "original_name": "Taylor Morano",
+        "popularity": 0.041,
+        "profile_path": null,
+        "credit_id": "698be9d91f3dbd427cd3a5ef",
+        "department": "Editing",
+        "job": "Editorial Production Assistant"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 704,
+        "name": "adolescence"
+      },
+      {
+        "id": 2470,
+        "name": "education"
+      },
+      {
+        "id": 10683,
+        "name": "coming of age"
+      },
+      {
+        "id": 9825,
+        "name": "growing up"
+      },
+      {
+        "id": 188841,
+        "name": "daydreaming"
+      },
+      {
+        "id": 193547,
+        "name": "teachers and students"
+      },
+      {
+        "id": 240119,
+        "name": "father son relationship"
+      },
+      {
+        "id": 275041,
+        "name": "imagination"
+      },
+      {
+        "id": 294334,
+        "name": "parents and child"
+      },
+      {
+        "id": 319357,
+        "name": "heartwarming"
+      },
+      {
+        "id": 337397,
+        "name": "looking back"
+      },
+      {
+        "id": 358650,
+        "name": "quirky characters"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "https://www.daydreamthemovie.com/",
+          "overview": "A young adult recounts childhood memories involving his 6th grade teacher and the lessons she taught, particularly her unconventional assignment: to daydream.",
+          "runtime": 70,
+          "tagline": "There's always one teacher you never forget",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt39481333",
+    "wikidata_id": null,
+    "facebook_id": "profile.php",
+    "instagram_id": "daydream_the_movie",
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.679,
+        "height": 2916,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/opfXUeIVvuX53KzxDUMRieIWkxW.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1980
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "Film Festival",
+            "release_date": "2026-05-29T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Daydream | Official Trailer | Maura Aimette",
+        "key": "HiACjaq74pc",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": false,
+        "id": "698bf12a01811c17cad3a5f0",
+        "published_at": "2025-05-02T14:00:25.000Z"
+      }
+    ]
+  }
+}

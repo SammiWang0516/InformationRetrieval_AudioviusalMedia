@@ -1,0 +1,864 @@
+{
+  "adult": false,
+  "backdrop_path": "/5kJ1mnF6MWy39w6QTZaHwrq1yBo.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "",
+  "id": 1478626,
+  "imdb_id": null,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Aux origines, l'esclavage",
+  "overview": "",
+  "popularity": 0.9675,
+  "poster_path": "/suhgV6CxvilzRtBfMLFieePWA76.jpg",
+  "production_companies": [
+    {
+      "id": 10323,
+      "logo_path": "/uMlnpzZGM0rWxp69JU5cuAQEJbB.png",
+      "name": "Gedeon Programmes",
+      "origin_country": "FR"
+    },
+    {
+      "id": 7131,
+      "logo_path": "/qpFsGoa96SytbWkhtkkpllu5Cch.png",
+      "name": "France Télévisions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 310,
+      "logo_path": "/4Gp5A4YdjPBfsHT47ngHMaXWmb9.png",
+      "name": "CNC",
+      "origin_country": "FR"
+    },
+    {
+      "id": 11935,
+      "logo_path": null,
+      "name": "Fonds Images de la Diversité",
+      "origin_country": "FR"
+    },
+    {
+      "id": 93878,
+      "logo_path": "/3Zqp7vuvOcUJMuhMiZtXY7ngsQq.png",
+      "name": "Région Réunion",
+      "origin_country": "FR"
+    },
+    {
+      "id": 270017,
+      "logo_path": null,
+      "name": "Ministère des Outre-Mer",
+      "origin_country": ""
+    },
+    {
+      "id": 309,
+      "logo_path": "/eVdJe4ha50lW1Eop1tq93TMh1XW.png",
+      "name": "Angoa-Agicoa",
+      "origin_country": "FR"
+    },
+    {
+      "id": 311,
+      "logo_path": "/TNGvZ8zOklntjPP3EcsHtrR8Rc.png",
+      "name": "PROCIREP",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2025-05-09",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Aux origines, l'esclavage",
+  "video": false,
+  "vote_average": 8.0,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5744891,
+        "known_for_department": "Acting",
+        "name": "Elsa Hamnane",
+        "original_name": "Elsa Hamnane",
+        "popularity": 0.1841,
+        "profile_path": "/abUcbViOW4lS8z3GMlRRwFhcBXy.jpg",
+        "cast_id": 23,
+        "character": "Narrator (voice over)",
+        "credit_id": "6952a46bb773c3216cd79c1b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3388664,
+        "known_for_department": "Acting",
+        "name": "Karine Baste-Régis",
+        "original_name": "Karine Baste-Régis",
+        "popularity": 0.3681,
+        "profile_path": "/7axj57KLaW78ggWeossZaYBT9rt.jpg",
+        "cast_id": 36,
+        "character": "Self",
+        "credit_id": "6952a6799ddde4d93588e1c0",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1145003,
+        "known_for_department": "Acting",
+        "name": "Stéfi Celma",
+        "original_name": "Stéfi Celma",
+        "popularity": 0.4531,
+        "profile_path": "/kyB5o93J4vhPLriy1NrSDuxY9IP.jpg",
+        "cast_id": 37,
+        "character": "Self",
+        "credit_id": "6952a682678196e6c77c7664",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5272852,
+        "known_for_department": "Acting",
+        "name": "Marie-Laure Garnier",
+        "original_name": "Marie-Laure Garnier",
+        "popularity": 0.3308,
+        "profile_path": "/9RlEk9AW3omv8lIAEYu6BGgtZ3h.jpg",
+        "cast_id": 34,
+        "character": "Self",
+        "credit_id": "6952a651a5dc163eac7c7852",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5905073,
+        "known_for_department": "Acting",
+        "name": "Guillaume Hoarau",
+        "original_name": "Guillaume Hoarau",
+        "popularity": 0.1633,
+        "profile_path": "/1feII5x6o51LtrDUTO4wbt9IVdV.jpg",
+        "cast_id": 38,
+        "character": "Self",
+        "credit_id": "6952a8dd2f6fd97c8ac37fe1",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51508,
+        "known_for_department": "Acting",
+        "name": "JoeyStarr",
+        "original_name": "JoeyStarr",
+        "popularity": 0.596,
+        "profile_path": "/dI6M8ibHVq78gC753BTSmdwNPZo.jpg",
+        "cast_id": 33,
+        "character": "Self : Didier Morville",
+        "credit_id": "6952a62d02500da7574ad724",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3961736,
+        "known_for_department": "Acting",
+        "name": "Kalash",
+        "original_name": "Kalash",
+        "popularity": 0.1727,
+        "profile_path": "/9TnBGwzX64cP2mI5VGVaoSh9roI.jpg",
+        "cast_id": 39,
+        "character": "Self : Kévin Valleray",
+        "credit_id": "6952aaa2bf538b7f4fd79b72",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5428820,
+        "known_for_department": "Directing",
+        "name": "Sonia Dauger",
+        "original_name": "Sonia Dauger",
+        "popularity": 0.0698,
+        "profile_path": null,
+        "credit_id": "681edc42badcd951ef4b39c1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5428821,
+        "known_for_department": "Directing",
+        "name": "Xavier Lefebvre",
+        "original_name": "Xavier Lefebvre",
+        "popularity": 0.4203,
+        "profile_path": null,
+        "credit_id": "681edc5153f6015367ad87e0",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5428820,
+        "known_for_department": "Directing",
+        "name": "Sonia Dauger",
+        "original_name": "Sonia Dauger",
+        "popularity": 0.0698,
+        "profile_path": null,
+        "credit_id": "6952a234f2fce17b29d79b27",
+        "department": "Writing",
+        "job": "Author"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5428821,
+        "known_for_department": "Directing",
+        "name": "Xavier Lefebvre",
+        "original_name": "Xavier Lefebvre",
+        "popularity": 0.4203,
+        "profile_path": null,
+        "credit_id": "6952a2414f27feed6f88e088",
+        "department": "Writing",
+        "job": "Author"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1973164,
+        "known_for_department": "Writing",
+        "name": "Laurent Martein",
+        "original_name": "Laurent Martein",
+        "popularity": 0.1391,
+        "profile_path": null,
+        "credit_id": "6952a36c14228f6d0688e222",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3186634,
+        "known_for_department": "Directing",
+        "name": "Raphaël De Vellis",
+        "original_name": "Raphaël De Vellis",
+        "popularity": 0.082,
+        "profile_path": null,
+        "credit_id": "6952a37b894aad2210d79ad0",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5905025,
+        "known_for_department": "Directing",
+        "name": "Anaïs Nativel",
+        "original_name": "Anaïs Nativel",
+        "popularity": 0.0944,
+        "profile_path": null,
+        "credit_id": "6952a387873cb5cf287c756c",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5905027,
+        "known_for_department": "Camera",
+        "name": "Frédéric Sudry",
+        "original_name": "Frédéric Sudry",
+        "popularity": 0.1211,
+        "profile_path": null,
+        "credit_id": "6952a39b31339b66b570fd51",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3026560,
+        "known_for_department": "Camera",
+        "name": "Christophe Boyer",
+        "original_name": "Christophe Boyer",
+        "popularity": 0.1198,
+        "profile_path": null,
+        "credit_id": "6952a3a91748af5a5bc37b45",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5428821,
+        "known_for_department": "Directing",
+        "name": "Xavier Lefebvre",
+        "original_name": "Xavier Lefebvre",
+        "popularity": 0.4203,
+        "profile_path": null,
+        "credit_id": "6952a3b69ddde4d93588e188",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3575253,
+        "known_for_department": "Camera",
+        "name": "Teddy Albert",
+        "original_name": "Teddy Albert",
+        "popularity": 0.0473,
+        "profile_path": null,
+        "credit_id": "6952a3c2cd4b4945b988e1cc",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2059493,
+        "known_for_department": "Camera",
+        "name": "Thomas Ozoux",
+        "original_name": "Thomas Ozoux",
+        "popularity": 0.388,
+        "profile_path": null,
+        "credit_id": "6952a3cd27d1f16d4574e765",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5905030,
+        "known_for_department": "Sound",
+        "name": "Tanguy Laillier",
+        "original_name": "Tanguy Laillier",
+        "popularity": 0.1046,
+        "profile_path": null,
+        "credit_id": "6952a3e0650a414493e4165b",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2284585,
+        "known_for_department": "Sound",
+        "name": "Christophe Baudry",
+        "original_name": "Christophe Baudry",
+        "popularity": 0.1666,
+        "profile_path": null,
+        "credit_id": "6952a3ed650a414493e4165e",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5905032,
+        "known_for_department": "Sound",
+        "name": "Rémy Frappas",
+        "original_name": "Rémy Frappas",
+        "popularity": 0.0541,
+        "profile_path": null,
+        "credit_id": "6952a3fac9e9634b7474e87c",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2588095,
+        "known_for_department": "Sound",
+        "name": "Corneille Houssou",
+        "original_name": "Corneille Houssou",
+        "popularity": 0.0788,
+        "profile_path": null,
+        "credit_id": "6952a40786486486b770fc45",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5905035,
+        "known_for_department": "Sound",
+        "name": "Grégory Cauty",
+        "original_name": "Grégory Cauty",
+        "popularity": 0.0847,
+        "profile_path": null,
+        "credit_id": "6952a413de508858c9cbd5a9",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1554985,
+        "known_for_department": "Sound",
+        "name": "Benjamin Charier",
+        "original_name": "Benjamin Charier",
+        "popularity": 0.4362,
+        "profile_path": null,
+        "credit_id": "6952a422a41d97424f74e60d",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5905036,
+        "known_for_department": "Sound",
+        "name": "Gianny Aldo Tayalay",
+        "original_name": "Gianny Aldo Tayalay",
+        "popularity": 0.1145,
+        "profile_path": null,
+        "credit_id": "6952a42dc754922da1cbd59f",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2133692,
+        "known_for_department": "Editing",
+        "name": "Myriam Milent",
+        "original_name": "Myriam Milent",
+        "popularity": 0.0603,
+        "profile_path": null,
+        "credit_id": "6952a43d478d01ceb570faa9",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5575991,
+        "known_for_department": "Writing",
+        "name": "Gilles Deiss",
+        "original_name": "Gilles Deiss",
+        "popularity": 0.2828,
+        "profile_path": null,
+        "credit_id": "6952a44886486486b770fc4a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4137268,
+        "known_for_department": "Editing",
+        "name": "Nicolas Moncadas",
+        "original_name": "Nicolas Moncadas",
+        "popularity": 0.17,
+        "profile_path": null,
+        "credit_id": "6952a453db151d9ef84ad839",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1958702,
+        "known_for_department": "Sound",
+        "name": "Vincent Jacq",
+        "original_name": "Vincent Jacq",
+        "popularity": 0.1363,
+        "profile_path": null,
+        "credit_id": "6952a4815c07f65bbfcbd6ad",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4463274,
+        "known_for_department": "Sound",
+        "name": "Yann Ruffieux",
+        "original_name": "Yann Ruffieux",
+        "popularity": 0.5947,
+        "profile_path": null,
+        "credit_id": "6952a492db151d9ef84ad83c",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2798149,
+        "known_for_department": "Sound",
+        "name": "Claire Jouan",
+        "original_name": "Claire Jouan",
+        "popularity": 0.0955,
+        "profile_path": null,
+        "credit_id": "6952a4aa86486486b770fc53",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4793668,
+        "known_for_department": "Sound",
+        "name": "Rémy Tabouret",
+        "original_name": "Rémy Tabouret",
+        "popularity": 0.1232,
+        "profile_path": null,
+        "credit_id": "6952a4b49ddde4d93588e1ab",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5905041,
+        "known_for_department": "Art",
+        "name": "Maxime Fittes",
+        "original_name": "Maxime Fittes",
+        "popularity": 0.1567,
+        "profile_path": null,
+        "credit_id": "6952a4c0478d01ceb570fabf",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3069083,
+        "known_for_department": "Production",
+        "name": "Amélie Sourice",
+        "original_name": "Amélie Sourice",
+        "popularity": 0.1443,
+        "profile_path": null,
+        "credit_id": "6952a4ccc01f88cf5774e508",
+        "department": "Crew",
+        "job": "Documentation & Support"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1371279,
+        "known_for_department": "Production",
+        "name": "Stéphane Millière",
+        "original_name": "Stéphane Millière",
+        "popularity": 0.3025,
+        "profile_path": "/j5yjghEnI31YvE0SgMBK0jVnSPq.jpg",
+        "credit_id": "6952a4dcc9e9634b7474e891",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1957360,
+        "known_for_department": "Production",
+        "name": "Fanny Glissant",
+        "original_name": "Fanny Glissant",
+        "popularity": 0.5143,
+        "profile_path": null,
+        "credit_id": "6952a4e33afd2674bc70fb03",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 2831,
+        "name": "slavery"
+      },
+      {
+        "id": 172839,
+        "name": "historical society"
+      },
+      {
+        "id": 187196,
+        "name": "french colonialism"
+      },
+      {
+        "id": 187200,
+        "name": "french colony"
+      },
+      {
+        "id": 216873,
+        "name": "genealogy"
+      },
+      {
+        "id": 258300,
+        "name": "french history"
+      },
+      {
+        "id": 350859,
+        "name": "colonial slavery"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "https://www.gedeonmediagroup.com/production/aux-origines-lesclavage/",
+          "overview": "Raconter l’esclavage en France, c’est regarder en face un passé que notre mémoire collective a longtemps occulté. Entre le XVIIème et le XIXème siècle, notre pays a déporté 1,2 millions d’hommes et de femmes et exploité des millions d’Africains sur son sol et dans ses colonies. Pendant des mois, nous avons enquêté et proposé à six personnalités françaises d’explorer leur arbre généalogique: Kalash, Joey Starr, Marie-Laure Garnier, Guillaume Hoarau, Karine Baste et Stefi Celma.De St Malo à Cayenne, en passant par la Réunion, la Martinique, Nantes ou Bordeaux le film va aussi à la rencontre d’autres Français, descendants de marchands d’esclaves, de capitaines de navire négrier, ou de résistants comme Toussaint-Louverture – héritiers de cette même Histoire.Grâce à cette quête inédite, enracinée dans l’Histoire de France, nous découvrons des destins marqués par la lutte incessante pour la liberté.",
+          "runtime": 106,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "",
+          "overview": "Die Geschichte der Sklaverei und ihrer Abschaffung wird anhand mehrerer Familien nachgezeichnet. Die Nachkommen der Sklaven, der Händler und der Eigentümer setzen sich mit dieser Geschichte auseinander.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/5kJ1mnF6MWy39w6QTZaHwrq1yBo.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/1cGiBvBrSRBCXZv2TV8ifsgzZbP.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/a4ROnw1IlKVql5uxpj57RcAubpJ.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/k5e4CqdEl57w6KQcxy7YKzwuE4P.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/oOqlp8hRrty9437EIqsFjnbrpAS.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/rFYM3SdOmLfQDETDVv9QB4fnVO6.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/qr9pad75zBLKkOduecE23LYf4R8.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/6bvAxgqNrnizfDutip5qe13hRH9.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/bN0n8KmhLFP8xrOKqDJjWMDKoBY.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/tW8SE2jG4ALKVlLkBYhTLi7YWHi.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/s9QsprjEdnEVsh9thYAGjMgifWi.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/9hYglm28ZOajpJuM5bpNtucTIb8.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/mJDyFTZstRDisRK64mneFc2Se5j.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/nL6e5uuI4l7fupNX2ZPvxnmmvT1.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.713,
+        "height": 1262,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/suhgV6CxvilzRtBfMLFieePWA76.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 900
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "France•tv",
+            "release_date": "2025-05-09T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "France•2",
+            "release_date": "2025-05-13T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

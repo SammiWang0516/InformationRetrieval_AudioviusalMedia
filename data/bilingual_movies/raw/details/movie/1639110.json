@@ -1,0 +1,564 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 600,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 1639110,
+  "imdb_id": null,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Sí, quiero",
+  "overview": "",
+  "popularity": 1.458,
+  "poster_path": "/sM5xGyF4TPl77iLpyzowvA0Bgp9.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2026-02-19",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "Sí, quiero",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6020661,
+        "known_for_department": "Acting",
+        "name": "África Salguero",
+        "original_name": "África Salguero",
+        "popularity": 0.0476,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Julia",
+        "credit_id": "6998b58174e5fe2189c9996b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6020662,
+        "known_for_department": "Acting",
+        "name": "Jaime Ordóñez",
+        "original_name": "Jaime Ordóñez",
+        "popularity": 0.2634,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Ricardo",
+        "credit_id": "6998b5940c55782365ab93d7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6020663,
+        "known_for_department": "Acting",
+        "name": "Francisco Villa",
+        "original_name": "Francisco Villa",
+        "popularity": 0.2628,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Padre Cristóbal",
+        "credit_id": "6998b5aff25d9487c0666bf8",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6020664,
+        "known_for_department": "Directing",
+        "name": "Pablo Jesús Toledano de la Puente",
+        "original_name": "Pablo Jesús Toledano de la Puente",
+        "popularity": 0.5539,
+        "profile_path": null,
+        "credit_id": "6998b5e7b796f9801e666aa4",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6020665,
+        "known_for_department": "Camera",
+        "name": "Daniel Fernández Moreno",
+        "original_name": "Daniel Fernández Moreno",
+        "popularity": 0.0552,
+        "profile_path": null,
+        "credit_id": "6998b616b9e6b93efea7344a",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6020666,
+        "known_for_department": "Camera",
+        "name": "Nicolás Rodríguez Rodríguez",
+        "original_name": "Nicolás Rodríguez Rodríguez",
+        "popularity": 0.0598,
+        "profile_path": null,
+        "credit_id": "6998b64440e3dc9e60a72cde",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6020667,
+        "known_for_department": "Production",
+        "name": "María Ramiro Macarro",
+        "original_name": "María Ramiro Macarro",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "6998b6670193bd0e9aab92bb",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6020668,
+        "known_for_department": "Production",
+        "name": "Alba Herencia Alonso",
+        "original_name": "Alba Herencia Alonso",
+        "popularity": 0.5924,
+        "profile_path": null,
+        "credit_id": "6998b6a0e87b1210f8ba3ccf",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6020669,
+        "known_for_department": "Production",
+        "name": "Garazi Saceda Odria",
+        "original_name": "Garazi Saceda Odria",
+        "popularity": 0.0567,
+        "profile_path": null,
+        "credit_id": "6998b6c125edc9d1d513c246",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6020664,
+        "known_for_department": "Directing",
+        "name": "Pablo Jesús Toledano de la Puente",
+        "original_name": "Pablo Jesús Toledano de la Puente",
+        "popularity": 0.5539,
+        "profile_path": null,
+        "credit_id": "6998b70dd798b5bff2c99a0b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6020667,
+        "known_for_department": "Production",
+        "name": "María Ramiro Macarro",
+        "original_name": "María Ramiro Macarro",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "6998b7238142d5ecaaab9479",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6020668,
+        "known_for_department": "Production",
+        "name": "Alba Herencia Alonso",
+        "original_name": "Alba Herencia Alonso",
+        "popularity": 0.5924,
+        "profile_path": null,
+        "credit_id": "6998b73060dbd2469fab936a",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6020666,
+        "known_for_department": "Camera",
+        "name": "Nicolás Rodríguez Rodríguez",
+        "original_name": "Nicolás Rodríguez Rodríguez",
+        "popularity": 0.0598,
+        "profile_path": null,
+        "credit_id": "6998b79c8db6570d69c99a4c",
+        "department": "Writing",
+        "job": "Screenstory"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6020672,
+        "known_for_department": "Production",
+        "name": "Javier Vidal Toro",
+        "original_name": "Javier Vidal Toro",
+        "popularity": 0.056,
+        "profile_path": null,
+        "credit_id": "6998b7ecf25704bf8eab9438",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6020667,
+        "known_for_department": "Production",
+        "name": "María Ramiro Macarro",
+        "original_name": "María Ramiro Macarro",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "6998b802dcd7754545d2d16b",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6020664,
+        "known_for_department": "Directing",
+        "name": "Pablo Jesús Toledano de la Puente",
+        "original_name": "Pablo Jesús Toledano de la Puente",
+        "popularity": 0.5539,
+        "profile_path": null,
+        "credit_id": "6998b81a3c0ec96fc8ba3b8d",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6020672,
+        "known_for_department": "Production",
+        "name": "Javier Vidal Toro",
+        "original_name": "Javier Vidal Toro",
+        "popularity": 0.056,
+        "profile_path": null,
+        "credit_id": "6998b847865a7012dd13c15a",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6020665,
+        "known_for_department": "Camera",
+        "name": "Daniel Fernández Moreno",
+        "original_name": "Daniel Fernández Moreno",
+        "popularity": 0.0552,
+        "profile_path": null,
+        "credit_id": "6998b895b1b81be0cbba3c5b",
+        "department": "Sound",
+        "job": "Sound Post Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6020666,
+        "known_for_department": "Camera",
+        "name": "Nicolás Rodríguez Rodríguez",
+        "original_name": "Nicolás Rodríguez Rodríguez",
+        "popularity": 0.0598,
+        "profile_path": null,
+        "credit_id": "6998b9859fefbc1ae1d2cfc5",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6020667,
+        "known_for_department": "Production",
+        "name": "María Ramiro Macarro",
+        "original_name": "María Ramiro Macarro",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "6998b9ebd0c8c6aad7ba3c6f",
+        "department": "Crew",
+        "job": "Script"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6020679,
+        "known_for_department": "Crew",
+        "name": "Lena Paulus",
+        "original_name": "Lena Paulus",
+        "popularity": 0.0489,
+        "profile_path": null,
+        "credit_id": "6998b9fb7001e56181c99a63",
+        "department": "Crew",
+        "job": "Script"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6020667,
+        "known_for_department": "Production",
+        "name": "María Ramiro Macarro",
+        "original_name": "María Ramiro Macarro",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "6998ba2e865a7012dd13c182",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6020668,
+        "known_for_department": "Production",
+        "name": "Alba Herencia Alonso",
+        "original_name": "Alba Herencia Alonso",
+        "popularity": 0.5924,
+        "profile_path": null,
+        "credit_id": "6998ba7c890c61a821ab9500",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6020679,
+        "known_for_department": "Crew",
+        "name": "Lena Paulus",
+        "original_name": "Lena Paulus",
+        "popularity": 0.0489,
+        "profile_path": null,
+        "credit_id": "6998baa7409dbed9dcd2d15c",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6020679,
+        "known_for_department": "Crew",
+        "name": "Lena Paulus",
+        "original_name": "Lena Paulus",
+        "popularity": 0.0489,
+        "profile_path": null,
+        "credit_id": "6998bade688bc973966669a6",
+        "department": "Art",
+        "job": "Art Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6020667,
+        "known_for_department": "Production",
+        "name": "María Ramiro Macarro",
+        "original_name": "María Ramiro Macarro",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "6998baf58ac300f6e230291a",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6020669,
+        "known_for_department": "Production",
+        "name": "Garazi Saceda Odria",
+        "original_name": "Garazi Saceda Odria",
+        "popularity": 0.0567,
+        "profile_path": null,
+        "credit_id": "6998bb02da300179613027b6",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6020682,
+        "known_for_department": "Art",
+        "name": "Cristina Hurtado Molina",
+        "original_name": "Cristina Hurtado Molina",
+        "popularity": 0.0431,
+        "profile_path": null,
+        "credit_id": "6998bb16409dbed9dcd2d169",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6020666,
+        "known_for_department": "Camera",
+        "name": "Nicolás Rodríguez Rodríguez",
+        "original_name": "Nicolás Rodríguez Rodríguez",
+        "popularity": 0.0598,
+        "profile_path": null,
+        "credit_id": "6998bc0221c5a6390bab9681",
+        "department": "Crew",
+        "job": "Director of Communications"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6020667,
+        "known_for_department": "Production",
+        "name": "María Ramiro Macarro",
+        "original_name": "María Ramiro Macarro",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "6998bc292429d4709e734496",
+        "department": "Crew",
+        "job": "Director of Communications"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6020672,
+        "known_for_department": "Production",
+        "name": "Javier Vidal Toro",
+        "original_name": "Javier Vidal Toro",
+        "popularity": 0.056,
+        "profile_path": null,
+        "credit_id": "6998bd2d864c80684ec998ad",
+        "department": "Crew",
+        "job": "Public Relations"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6020665,
+        "known_for_department": "Camera",
+        "name": "Daniel Fernández Moreno",
+        "original_name": "Daniel Fernández Moreno",
+        "popularity": 0.0552,
+        "profile_path": null,
+        "credit_id": "6998bd88618e8f64aca72df7",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6020665,
+        "known_for_department": "Camera",
+        "name": "Daniel Fernández Moreno",
+        "original_name": "Daniel Fernández Moreno",
+        "popularity": 0.0552,
+        "profile_path": null,
+        "credit_id": "6998bd9e49d815d4bcc99d5c",
+        "department": "Editing",
+        "job": "Color Grading"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6020667,
+        "known_for_department": "Production",
+        "name": "María Ramiro Macarro",
+        "original_name": "María Ramiro Macarro",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "6998c9c5b829fc83f3ba3dbf",
+        "department": "Art",
+        "job": "Title Designer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 346457,
+        "name": "boda"
+      },
+      {
+        "id": 368105,
+        "name": "amor propio"
+      },
+      {
+        "id": 368295,
+        "name": "hilo rojo"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "https://hdvirtual.us.es/discovirt/index.php/s/Pr84eJf3WjWKi8T",
+          "overview": "Julia pensaba que Ricardo era el amor de su vida, pero este la deja plantada en el altar. Destrozada, decide deshacerse de todo lo que la unía a su expareja, pero un hilo rojo tirante se lo impide. Esto despierta su curiosidad y la embarca en un viaje mental que hará cambiar su percepción del amor.",
+          "runtime": 6,
+          "tagline": "El amor de tu vida puedes ser tú",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "@buenoyquestudio",
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "",
+            "release_date": "2026-02-19T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

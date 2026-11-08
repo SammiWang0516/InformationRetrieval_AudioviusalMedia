@@ -1,0 +1,206 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1535185,
+  "imdb_id": "tt27521775",
+  "origin_country": [
+    "ME"
+  ],
+  "original_language": "sr",
+  "original_title": "Lavež",
+  "overview": "Father and son wander through a white wasteland covered with snow.",
+  "popularity": 1.6841,
+  "poster_path": "/tGpZozdOQ6UzyTKAar7IuuI1yOT.jpg",
+  "production_companies": [
+    {
+      "id": 160772,
+      "logo_path": "/h54xzXBipoFlkNCwUDrrhU09JQS.png",
+      "name": "Bitter Frames Productions",
+      "origin_country": "ME"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ME",
+      "name": "Montenegro"
+    }
+  ],
+  "release_date": "2025-03-11",
+  "revenue": 0,
+  "runtime": 17,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Serbian",
+      "iso_639_1": "sr",
+      "name": "Srpski"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Bark",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1990123,
+        "known_for_department": "Acting",
+        "name": "Jovan Krivokapić",
+        "original_name": "Jovan Krivokapić",
+        "popularity": 0.3298,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Sin",
+        "credit_id": "69bbfc657ca1b4ebcc23d9db",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1427372,
+        "known_for_department": "Acting",
+        "name": "Momo Pićurić",
+        "original_name": "Momčilo 'Momo' Pićurić",
+        "popularity": 0.2037,
+        "profile_path": "/eWMp1x8XOkVlRfbASx2LY9q1VDE.jpg",
+        "cast_id": 5,
+        "character": "Otac",
+        "credit_id": "69bbfc6ecbdcdc729500f42e",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1827104,
+        "known_for_department": "Writing",
+        "name": "Branislav Milatović",
+        "original_name": "Branislav Milatović",
+        "popularity": 0.1718,
+        "profile_path": null,
+        "credit_id": "68ab84a1e15eaed8e48d2398",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1714704,
+        "known_for_department": "Writing",
+        "name": "Stefan Bošković",
+        "original_name": "Stefan Bošković",
+        "popularity": 0.1528,
+        "profile_path": null,
+        "credit_id": "69bbfc4aa029aabab100f3d0",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1827104,
+        "known_for_department": "Writing",
+        "name": "Branislav Milatović",
+        "original_name": "Branislav Milatović",
+        "popularity": 0.1718,
+        "profile_path": null,
+        "credit_id": "69bbfc5541127de15d57dbfc",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Father and son wander through a white wasteland covered with snow.",
+          "runtime": 17,
+          "tagline": "",
+          "title": "Bark"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt27521775",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.707,
+        "height": 2078,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/tGpZozdOQ6UzyTKAar7IuuI1yOT.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1470
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "BG",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "sr",
+            "note": "IN THE PALACE International Short Film Festival",
+            "release_date": "2025-06-29T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ME",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-03-11T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

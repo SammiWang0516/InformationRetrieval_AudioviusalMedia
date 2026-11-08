@@ -1,0 +1,365 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1460327,
+  "imdb_id": null,
+  "origin_country": [
+    "RU"
+  ],
+  "original_language": "ru",
+  "original_title": "Отвёртка",
+  "overview": "A husband and wife try to cover up a random crime, but at a cemetery they encounter local looters.",
+  "popularity": 0.8373,
+  "poster_path": "/wZN92O39tCQvP0A3sor9DLLYnnj.jpg",
+  "production_companies": [
+    {
+      "id": 105691,
+      "logo_path": "/bHcojjbJalpcFUpHhzKKYAdGHBH.png",
+      "name": "Moscow Film School",
+      "origin_country": "RU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "RU",
+      "name": "Russia"
+    }
+  ],
+  "release_date": "2025-04-11",
+  "revenue": 0,
+  "runtime": 25,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Отвёртка",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1790719,
+        "known_for_department": "Acting",
+        "name": "Evgeny Mikheev",
+        "original_name": "Евгений Михеев",
+        "popularity": 0.4204,
+        "profile_path": "/iCgYk5ZmCJKsS3yxbk8yVfGmQcI.jpg",
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "67f29bc9f5a80aa54599ed11",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2368668,
+        "known_for_department": "Acting",
+        "name": "Tasha Tsvetkova",
+        "original_name": "Таша Цветкова",
+        "popularity": 0.4073,
+        "profile_path": "/7UZjZJ6jkFWJAVFudoSaqe6Q1Wr.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "67f29bd0eddec28b03ad6b88",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2673740,
+        "known_for_department": "Acting",
+        "name": "Lyudmila Lisova",
+        "original_name": "Людмила Лисова",
+        "popularity": 0.1189,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "67f29bd7ddf9194387d93e05",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 928474,
+        "known_for_department": "Acting",
+        "name": "Sergey Legostaev",
+        "original_name": "Сергей Легостаев",
+        "popularity": 0.5227,
+        "profile_path": "/m0EHrvaIC4O3oDm7KcXmwOxgCGk.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "67f29be97b43bdce20acf56e",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81002,
+        "known_for_department": "Acting",
+        "name": "Mikhail Evlanov",
+        "original_name": "Михаил Евланов",
+        "popularity": 0.4244,
+        "profile_path": "/pW3DxWZ1LwCaROcvAGcbxyddlKA.jpg",
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "67f29bf0ddf9194387d93e13",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5353006,
+        "known_for_department": "Acting",
+        "name": "Evgeny Kazantsev",
+        "original_name": "Евгений Казанцев",
+        "popularity": 0.1859,
+        "profile_path": "/bBebZB3TPsp53JHJLORVObmNqLw.jpg",
+        "credit_id": "67f29c0fede8d82f3bada901",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5353006,
+        "known_for_department": "Acting",
+        "name": "Evgeny Kazantsev",
+        "original_name": "Евгений Казанцев",
+        "popularity": 0.1859,
+        "profile_path": "/bBebZB3TPsp53JHJLORVObmNqLw.jpg",
+        "credit_id": "67f29c172f7d43702799e0ea",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5353028,
+        "known_for_department": "Camera",
+        "name": "Apollinaria Gerasimova",
+        "original_name": "Аполлинария Герасимова",
+        "popularity": 0.0401,
+        "profile_path": null,
+        "credit_id": "67f29fd0f5a80aa54599ef60",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5110266,
+        "known_for_department": "Sound",
+        "name": "Alexander Shumilov",
+        "original_name": "Александр Шумилов",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "67f29fd97b43bdce20acf72f",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5353031,
+        "known_for_department": "Sound",
+        "name": "Karina Mingaleeva",
+        "original_name": "Карина Мингалеева",
+        "popularity": 0.0413,
+        "profile_path": null,
+        "credit_id": "67f29fe7e1d5c23c6ed95b8a",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5353034,
+        "known_for_department": "Sound",
+        "name": "Mikhail Bury",
+        "original_name": "Михаил Бурый",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67f29ffd854b0538cfd90bbd",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5110264,
+        "known_for_department": "Sound",
+        "name": "Ruslan Bukataev",
+        "original_name": "Руслан Букатаев",
+        "popularity": 0.0472,
+        "profile_path": null,
+        "credit_id": "67f2a00d7b43bdce20acf751",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5353036,
+        "known_for_department": "Art",
+        "name": "Arina Demyanchuk",
+        "original_name": "Арина Демянчук",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67f2a02e1bb04728999929bb",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5353037,
+        "known_for_department": "Production",
+        "name": "Irina Striga",
+        "original_name": "Ирина Стрига",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67f2a03d7b43bdce20acf76d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5353038,
+        "known_for_department": "Production",
+        "name": "Kristina Ivanova",
+        "original_name": "Кристина Иванова",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "67f2a04fddf9194387d93f2d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5353039,
+        "known_for_department": "Production",
+        "name": "Ekaterina Pantyukhova",
+        "original_name": "Екатерина Пантюхова",
+        "popularity": 0.0433,
+        "profile_path": null,
+        "credit_id": "67f2a05cf5a80aa54599ef82",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "RU",
+        "iso_639_1": "ru",
+        "name": "Pусский",
+        "english_name": "Russian",
+        "data": {
+          "homepage": "",
+          "overview": "Муж и жена пытаются скрыть случайное преступление, однако на кладбище они сталкиваются с местными мародерами.",
+          "runtime": 25,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "A husband and wife try to cover up a random crime, but at a cemetery they encounter local looters.",
+          "runtime": 25,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "RU",
+        "title": "Отвертка",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Otvertka",
+        "type": "transliteration"
+      },
+      {
+        "iso_3166_1": "RU",
+        "title": "Otvyortka",
+        "type": "transliteration"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Saint Anna Student & Debut Short Film Festival",
+            "release_date": "2025-04-11T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Koroche Short And Debut Film Festival",
+            "release_date": "2025-08-21T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

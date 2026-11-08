@@ -1,0 +1,695 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 27000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1532196,
+  "imdb_id": "tt43658133",
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_title": "Como si fueras luz",
+  "overview": "Lazarus, an ancient vampire, transforms his dying partner in a desperate attempt to keep her. But what seemed like an act of love becomes an irreversible betrayal.",
+  "popularity": 1.282,
+  "poster_path": "/xfoDkZD7GT7W5XZ2KIjfShmLGAU.jpg",
+  "production_companies": [
+    {
+      "id": 175438,
+      "logo_path": null,
+      "name": "Expansión Films",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "release_date": "2026-05-19",
+  "revenue": 0,
+  "runtime": 22,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "If You Were Light",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5705650,
+        "known_for_department": "Acting",
+        "name": "Alejandra Ranero",
+        "original_name": "Alejandra Ranero",
+        "popularity": 0.0432,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Aura",
+        "credit_id": "68d1df74cb57157b6397e16f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2580292,
+        "known_for_department": "Acting",
+        "name": "Luis Fernando Jiménez Mayagoitia",
+        "original_name": "Luis Fernando Jiménez Mayagoitia",
+        "popularity": 0.4222,
+        "profile_path": "/gNUjpK0t1s2XZRhl1U5veXz1z4f.jpg",
+        "cast_id": 17,
+        "character": "Lázaro",
+        "credit_id": "68d1df88138fd961b8cecf31",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5705651,
+        "known_for_department": "Acting",
+        "name": "Deborah Rios",
+        "original_name": "Deborah Rios",
+        "popularity": 0.273,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Aura (mayor)",
+        "credit_id": "68d1df9d775c266ea3cc3cda",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5747784,
+        "known_for_department": "Acting",
+        "name": "Diana Uscanga",
+        "original_name": "Diana Uscanga",
+        "popularity": 0.0944,
+        "profile_path": null,
+        "cast_id": 46,
+        "character": "Bailarina",
+        "credit_id": "68ed82dac8e2a6bc86f11fcc",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4769601,
+        "known_for_department": "Acting",
+        "name": "Juan Vergara",
+        "original_name": "Juan Vergara",
+        "popularity": 0.066,
+        "profile_path": "/duYth7aqQASroSCKgx5X0inJ7cp.jpg",
+        "cast_id": 50,
+        "character": "Bailarín",
+        "credit_id": "68eefd8c41383cffb1aeddd2",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5632521,
+        "known_for_department": "Directing",
+        "name": "Maurilio Rodríguez",
+        "original_name": "Maurilio Rodríguez",
+        "popularity": 0.0876,
+        "profile_path": "/rAehPRePc0a64s7nK5yWwmO2TOl.jpg",
+        "credit_id": "68a37b1d8fdf5b9993a20208",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5634257,
+        "known_for_department": "Production",
+        "name": "Adrián Madrigal",
+        "original_name": "Adrián Madrigal",
+        "popularity": 0.1058,
+        "profile_path": null,
+        "credit_id": "68a37b3a982ee7b52c653a50",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5634270,
+        "known_for_department": "Production",
+        "name": "Santiago Niembro",
+        "original_name": "Santiago Niembro",
+        "popularity": 0.0981,
+        "profile_path": null,
+        "credit_id": "68a37b4ceda2fd2bd2653a12",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5634257,
+        "known_for_department": "Production",
+        "name": "Adrián Madrigal",
+        "original_name": "Adrián Madrigal",
+        "popularity": 0.1058,
+        "profile_path": null,
+        "credit_id": "68a37b5ceda2fd2bd2653a18",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5632521,
+        "known_for_department": "Directing",
+        "name": "Maurilio Rodríguez",
+        "original_name": "Maurilio Rodríguez",
+        "popularity": 0.0876,
+        "profile_path": "/rAehPRePc0a64s7nK5yWwmO2TOl.jpg",
+        "credit_id": "68a37b6c5ef25f991fc7a780",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5632529,
+        "known_for_department": "Camera",
+        "name": "Emiliano Rodríguez",
+        "original_name": "Emiliano Rodríguez",
+        "popularity": 0.1183,
+        "profile_path": "/5mTdzvTgy4RB5p6TgpCtL0ZyDNj.jpg",
+        "credit_id": "68a37ba933507e0ba4807d00",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5632526,
+        "known_for_department": "Directing",
+        "name": "Valeria Trejo",
+        "original_name": "Valeria Trejo",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68a37bf8b034730027a201fc",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4848479,
+        "known_for_department": "Production",
+        "name": "Pato Brown",
+        "original_name": "Pato Brown",
+        "popularity": 0.1076,
+        "profile_path": "/7ecsG6CRgpXDjwqYMzn7JaKT3Io.jpg",
+        "credit_id": "68d1deb8e4bd19ceadcc3e1e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5632521,
+        "known_for_department": "Directing",
+        "name": "Maurilio Rodríguez",
+        "original_name": "Maurilio Rodríguez",
+        "popularity": 0.0876,
+        "profile_path": "/rAehPRePc0a64s7nK5yWwmO2TOl.jpg",
+        "credit_id": "68d1ded686a549200bcc3bc3",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5634257,
+        "known_for_department": "Production",
+        "name": "Adrián Madrigal",
+        "original_name": "Adrián Madrigal",
+        "popularity": 0.1058,
+        "profile_path": null,
+        "credit_id": "68d1def07c3544784aac8a86",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5705646,
+        "known_for_department": "Directing",
+        "name": "Sebastian De Oto",
+        "original_name": "Sebastian De Oto",
+        "popularity": 0.3451,
+        "profile_path": null,
+        "credit_id": "68d1df17519f725d68cc3e18",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5632526,
+        "known_for_department": "Directing",
+        "name": "Valeria Trejo",
+        "original_name": "Valeria Trejo",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68d1e9901e60804dc174a220",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5632529,
+        "known_for_department": "Camera",
+        "name": "Emiliano Rodríguez",
+        "original_name": "Emiliano Rodríguez",
+        "popularity": 0.1183,
+        "profile_path": "/5mTdzvTgy4RB5p6TgpCtL0ZyDNj.jpg",
+        "credit_id": "68d43829f8f41943fc898088",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5709252,
+        "known_for_department": "Camera",
+        "name": "José López",
+        "original_name": "José López",
+        "popularity": 0.3361,
+        "profile_path": null,
+        "credit_id": "68d4385f8165152eaf6d5461",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5632533,
+        "known_for_department": "Art",
+        "name": "Salma Ortega",
+        "original_name": "Salma Ortega",
+        "popularity": 0.1013,
+        "profile_path": null,
+        "credit_id": "68d44fa1df018e99112ec687",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5709372,
+        "known_for_department": "Art",
+        "name": "Giovani Rocha",
+        "original_name": "Giovani Rocha",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68d44fc1e169c927088404fa",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5709380,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Martha Millán",
+        "original_name": "Martha Millán",
+        "popularity": 0.1621,
+        "profile_path": null,
+        "credit_id": "68d452863ad451e6cb0e3fec",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3683944,
+        "known_for_department": "Directing",
+        "name": "Luz Jaimes",
+        "original_name": "Luz Jaimes",
+        "popularity": 0.1568,
+        "profile_path": null,
+        "credit_id": "68d5de4b90ffae701c610fb3",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5634270,
+        "known_for_department": "Production",
+        "name": "Santiago Niembro",
+        "original_name": "Santiago Niembro",
+        "popularity": 0.0981,
+        "profile_path": null,
+        "credit_id": "68d5de75ceecc9da77c48285",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5632536,
+        "known_for_department": "Camera",
+        "name": "Adad Rivas",
+        "original_name": "Adad Rivas",
+        "popularity": 0.1213,
+        "profile_path": null,
+        "credit_id": "68dda67bcb55b90b23b42a59",
+        "department": "Lighting",
+        "job": "Lighting Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5740560,
+        "known_for_department": "Production",
+        "name": "Luisa Melo",
+        "original_name": "Luisa Melo",
+        "popularity": 0.1096,
+        "profile_path": null,
+        "credit_id": "68e80fc1d6ad72c51330c139",
+        "department": "Production",
+        "job": "Post Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5740563,
+        "known_for_department": "Production",
+        "name": "Ludwig Zweifel",
+        "original_name": "Ludwig Zweifel",
+        "popularity": 0.1161,
+        "profile_path": null,
+        "credit_id": "68e80fdbd84e5512204a983e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5632521,
+        "known_for_department": "Directing",
+        "name": "Maurilio Rodríguez",
+        "original_name": "Maurilio Rodríguez",
+        "popularity": 0.0876,
+        "profile_path": "/rAehPRePc0a64s7nK5yWwmO2TOl.jpg",
+        "credit_id": "68ed83d383dde0a7ded693b2",
+        "department": "Writing",
+        "job": "Storyboard"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5784695,
+        "known_for_department": "Directing",
+        "name": "Carlos Johnson",
+        "original_name": "Carlos Johnson",
+        "popularity": 0.1911,
+        "profile_path": null,
+        "credit_id": "69039da687d18920bfe997a4",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5784697,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Lilia De la Rosa",
+        "original_name": "Lilia De la Rosa",
+        "popularity": 0.6389,
+        "profile_path": null,
+        "credit_id": "69039dfde9356019a6db748a",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5742498,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Carol Yuliana Hernández",
+        "original_name": "Carol Yuliana Hernández",
+        "popularity": 0.6608,
+        "profile_path": null,
+        "credit_id": "69039e2e954264d5f5196a92",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3752205,
+        "known_for_department": "Art",
+        "name": "Anby Lyak",
+        "original_name": "Anby Lyak",
+        "popularity": 0.0775,
+        "profile_path": null,
+        "credit_id": "6967fabffe65a63d968e5047",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5939399,
+        "known_for_department": "Camera",
+        "name": "Wendy Rivas",
+        "original_name": "Wendy Rivas",
+        "popularity": 0.1941,
+        "profile_path": null,
+        "credit_id": "6967fc0f606782b2049e8f9f",
+        "department": "Lighting",
+        "job": "Lighting Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5939409,
+        "known_for_department": "Lighting",
+        "name": "Alexis Monroy",
+        "original_name": "Alexis Monroy",
+        "popularity": 0.1776,
+        "profile_path": null,
+        "credit_id": "6967fc1f5393e0a2dc2c3896",
+        "department": "Lighting",
+        "job": "Lighting Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 127825,
+        "known_for_department": "Acting",
+        "name": "Dagoberto Gama",
+        "original_name": "Dagoberto Gama",
+        "popularity": 0.328,
+        "profile_path": "/gVobDr7rVx58LHnB5WVyExiTUjS.jpg",
+        "credit_id": "6967fc62f22eac13e7c5d6c0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5986879,
+        "known_for_department": "Art",
+        "name": "Matus Cortina",
+        "original_name": "Matus Cortina",
+        "popularity": 0.3648,
+        "profile_path": null,
+        "credit_id": "6983c23259f4627d7b4f6564",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6082852,
+        "known_for_department": "Sound",
+        "name": "Paola Decanini",
+        "original_name": "Paola Decanini",
+        "popularity": 0.1129,
+        "profile_path": null,
+        "credit_id": "69bc36d74c9439703c0529ac",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6130877,
+        "known_for_department": "Camera",
+        "name": "Sonny Fernández",
+        "original_name": "Sonny Fernández",
+        "popularity": 0.1508,
+        "profile_path": null,
+        "credit_id": "69d832b66728ce212c44a1c8",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2188525,
+        "known_for_department": "Sound",
+        "name": "Jorge Mondragón Cruz",
+        "original_name": "Jorge Mondragón Cruz",
+        "popularity": 0.5395,
+        "profile_path": null,
+        "credit_id": "6a0365385c6c9766f268b2fc",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2188525,
+        "known_for_department": "Sound",
+        "name": "Jorge Mondragón Cruz",
+        "original_name": "Jorge Mondragón Cruz",
+        "popularity": 0.5395,
+        "profile_path": null,
+        "credit_id": "6a036563ef3eb7af6afb8978",
+        "department": "Sound",
+        "job": "Sound"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "MX",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "https://expansion-films.odoo.com/vampirico",
+          "overview": "Tras una vida juntos, la relación de Lázaro, un vampiro milenario, y su esposa Aura está a punto de llegar a su fin.  Vieja y enferma, Aura le pide a Lázaro que ponga fin a su sufrimiento. Incapaz de enfrentar la soledad, Lázaro toma la drástica decisión de convertirla en vampiro contra su voluntad.  Esto someterá su relación a la prueba más difícil hasta ahora: descubrir si el \"felices para siempre\" realmente existe.",
+          "runtime": 0,
+          "tagline": "¿Cuándo dejamos de vernos a los ojos?",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Tras toda una vida juntos, la relación de Lázaro, un vampiro milenario y su esposa Aura está por llegar a su fin cuando ella, vieja y enferma, le pide acabar con su vida. Ante la imposibilidad de quedarse solo, Lázaro decide convertirla en vampiro en contra de su voluntad, enfrentando a su relación a su prueba más difícil hasta el momento: comprobar si el “para siempre” si existe.",
+          "runtime": 22,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Lazarus, an ancient vampire, transforms his dying partner in a desperate attempt to keep her. But what seemed like an act of love becomes an irreversible betrayal.",
+          "runtime": 22,
+          "tagline": "",
+          "title": "If You Were Light"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "If you were Light",
+        "type": "English"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt43658133",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/xfoDkZD7GT7W5XZ2KIjfShmLGAU.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-05-19T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

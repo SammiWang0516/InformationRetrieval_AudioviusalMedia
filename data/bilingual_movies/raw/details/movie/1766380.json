@@ -1,0 +1,805 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1766380,
+  "imdb_id": "tt44940440",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Cross My Heart",
+  "overview": "Sharp witted Lydia escapes the drudgery of her nine-to-five by singing at a punk bar with her best girlfriends — that is, until a predatory man targets one of them, and her fury turns to blood-lust.",
+  "popularity": 0.7275,
+  "poster_path": "/z7r6mwmrB78Z99RT79ajlA2MSQ0.jpg",
+  "production_companies": [
+    {
+      "id": 174372,
+      "logo_path": null,
+      "name": "VCUarts Cinema",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2026-02-07",
+  "revenue": 0,
+  "runtime": 10,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "And hope you die...",
+  "title": "Cross My Heart",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6465295,
+        "known_for_department": "Acting",
+        "name": "Nia Alise Frazier",
+        "original_name": "Nia Alise Frazier",
+        "popularity": 0.4649,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Lydia",
+        "credit_id": "6aa04638a0db4d0caba8522c",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4433181,
+        "known_for_department": "Acting",
+        "name": "Nolani",
+        "original_name": "Nolani",
+        "popularity": 0.0878,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Serena",
+        "credit_id": "6aa0464400f7ed905660f8d7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6465297,
+        "known_for_department": "Acting",
+        "name": "Ricky Branch",
+        "original_name": "Ricky Branch",
+        "popularity": 0.1242,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Aiyana",
+        "credit_id": "6aa046699d95bab790157ce2",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4062617,
+        "known_for_department": "Acting",
+        "name": "Justin McEneny",
+        "original_name": "Justin McEneny",
+        "popularity": 0.5354,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Zach",
+        "credit_id": "6aa0468866dc75956e60fa48",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6022911,
+        "known_for_department": "Acting",
+        "name": "Joy Sharpe",
+        "original_name": "Joy Sharpe",
+        "popularity": 0.4096,
+        "profile_path": null,
+        "credit_id": "6aa04734a0db4d0caba85247",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6465308,
+        "known_for_department": "Writing",
+        "name": "Madi Aragon",
+        "original_name": "Madi Aragon",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "6aa04745b5b1cb5bd9ca55f2",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6465310,
+        "known_for_department": "Writing",
+        "name": "Brooke-Lynn McGar",
+        "original_name": "Brooke-Lynn McGar",
+        "popularity": 0.4093,
+        "profile_path": null,
+        "credit_id": "6aa0474f66dc75956e60fa56",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6465311,
+        "known_for_department": "Production",
+        "name": "Kamryn Shuler",
+        "original_name": "Kamryn Shuler",
+        "popularity": 0.1669,
+        "profile_path": null,
+        "credit_id": "6aa0475d0d1f1f571ace5ac6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2075717,
+        "known_for_department": "Camera",
+        "name": "Kevin Gallagher",
+        "original_name": "Kevin Gallagher",
+        "popularity": 0.2352,
+        "profile_path": null,
+        "credit_id": "6aa0479ba3420d8538ca576e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6022926,
+        "known_for_department": "Camera",
+        "name": "Catherine Paz-Ramirez",
+        "original_name": "Catherine Paz-Ramirez",
+        "popularity": 0.0581,
+        "profile_path": null,
+        "credit_id": "6aa048194e0375d0e3145239",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6465319,
+        "known_for_department": "Editing",
+        "name": "Ella Johnson",
+        "original_name": "Ella Johnson",
+        "popularity": 0.1606,
+        "profile_path": null,
+        "credit_id": "6aa04843b5cae3ef48ce5948",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3016460,
+        "known_for_department": "Production",
+        "name": "Anne N. Chapman",
+        "original_name": "Anne N. Chapman",
+        "popularity": 0.1557,
+        "profile_path": null,
+        "credit_id": "6aa0485145c7adcf8c4b5d48",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4805731,
+        "known_for_department": "Acting",
+        "name": "Ash Jones",
+        "original_name": "Ash Jones",
+        "popularity": 0.0911,
+        "profile_path": null,
+        "credit_id": "6aa04882b5cae3ef48ce594c",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6465691,
+        "known_for_department": "Art",
+        "name": "Dakarai Perry-Brown",
+        "original_name": "Dakarai Perry-Brown",
+        "popularity": 0.1482,
+        "profile_path": null,
+        "credit_id": "6aa072e98fbffa6283c92d0b",
+        "department": "Art",
+        "job": "Assistant Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3846443,
+        "known_for_department": "Crew",
+        "name": "Ansel Scudder",
+        "original_name": "Ansel Scudder",
+        "popularity": 0.0852,
+        "profile_path": null,
+        "credit_id": "6aa072fb3289ce9c10e82a5c",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6465310,
+        "known_for_department": "Writing",
+        "name": "Brooke-Lynn McGar",
+        "original_name": "Brooke-Lynn McGar",
+        "popularity": 0.4093,
+        "profile_path": null,
+        "credit_id": "6aa0730abad02879024fc621",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6465695,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jessika Meyer",
+        "original_name": "Jessika Meyer",
+        "popularity": 0.1308,
+        "profile_path": null,
+        "credit_id": "6aa073268c02948ca8d7ca44",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6465696,
+        "known_for_department": "Directing",
+        "name": "Rand Al-Safi",
+        "original_name": "Rand Al-Safi",
+        "popularity": 0.153,
+        "profile_path": null,
+        "credit_id": "6aa07334891a8ab0b6e82aa5",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6465700,
+        "known_for_department": "Directing",
+        "name": "Kevin Malisko",
+        "original_name": "Kevin Malisko",
+        "popularity": 0.2534,
+        "profile_path": null,
+        "credit_id": "6aa073486a105b36f4643b2f",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5801689,
+        "known_for_department": "Art",
+        "name": "Joey Kim",
+        "original_name": "Joey Kim",
+        "popularity": 0.1134,
+        "profile_path": null,
+        "credit_id": "6aa0736011975a37bf0eb181",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6465705,
+        "known_for_department": "Sound",
+        "name": "Charlie Elliott",
+        "original_name": "Charlie Elliott",
+        "popularity": 0.1079,
+        "profile_path": null,
+        "credit_id": "6aa07391891a8ab0b6e82ab5",
+        "department": "Sound",
+        "job": "Utility Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6465707,
+        "known_for_department": "Sound",
+        "name": "Aaron Garner",
+        "original_name": "Aaron Garner",
+        "popularity": 0.0986,
+        "profile_path": null,
+        "credit_id": "6aa073b43289ce9c10e82a66",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6465708,
+        "known_for_department": "Sound",
+        "name": "Jaxson Leonard",
+        "original_name": "Jaxson Leonard",
+        "popularity": 0.0978,
+        "profile_path": null,
+        "credit_id": "6aa073c3cd57c25e750013fd",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6465710,
+        "known_for_department": "Camera",
+        "name": "Francesca Angeles",
+        "original_name": "Francesca Angeles",
+        "popularity": 0.1723,
+        "profile_path": null,
+        "credit_id": "6aa073dde4dfff47b5d7ca54",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6465712,
+        "known_for_department": "Lighting",
+        "name": "Francesca Buzzanca",
+        "original_name": "Francesca Buzzanca",
+        "popularity": 0.1005,
+        "profile_path": null,
+        "credit_id": "6aa073edb4370b5d18aab938",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6021410,
+        "known_for_department": "Production",
+        "name": "Richard Crispino",
+        "original_name": "Richard Crispino",
+        "popularity": 0.1243,
+        "profile_path": null,
+        "credit_id": "6aa073fa48c382340c319001",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6465719,
+        "known_for_department": "Crew",
+        "name": "Chris Duble",
+        "original_name": "Chris Duble",
+        "popularity": 0.1365,
+        "profile_path": null,
+        "credit_id": "6aa0747cd989739ab94fc5fb",
+        "department": "Crew",
+        "job": "Generator Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6465721,
+        "known_for_department": "Lighting",
+        "name": "Jaclyn Fierro-Jefferson",
+        "original_name": "Jaclyn Fierro-Jefferson",
+        "popularity": 0.1416,
+        "profile_path": null,
+        "credit_id": "6aa074a3a4da0ffab8366e9f",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6056538,
+        "known_for_department": "Sound",
+        "name": "Lucas Gomez",
+        "original_name": "Lucas Gomez",
+        "popularity": 0.0898,
+        "profile_path": null,
+        "credit_id": "6aa074c8ed1a4e734f319008",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6465319,
+        "known_for_department": "Editing",
+        "name": "Ella Johnson",
+        "original_name": "Ella Johnson",
+        "popularity": 0.1606,
+        "profile_path": null,
+        "credit_id": "6aa074d5e4dfff47b5d7ca6a",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6465724,
+        "known_for_department": "Camera",
+        "name": "Libby Marks",
+        "original_name": "Libby Marks",
+        "popularity": 0.1662,
+        "profile_path": null,
+        "credit_id": "6aa075175a25a2bf0900145c",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6465727,
+        "known_for_department": "Camera",
+        "name": "Paityn Perdue",
+        "original_name": "Paityn Perdue",
+        "popularity": 0.085,
+        "profile_path": null,
+        "credit_id": "6aa07544e3a2ff957d643b28",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6465731,
+        "known_for_department": "Camera",
+        "name": "Heath Russell",
+        "original_name": "Heath Russell",
+        "popularity": 0.0359,
+        "profile_path": null,
+        "credit_id": "6aa07572f736d5075e23b5d7",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6056528,
+        "known_for_department": "Acting",
+        "name": "Caroline Ryan",
+        "original_name": "Caroline Ryan",
+        "popularity": 0.3442,
+        "profile_path": null,
+        "credit_id": "6aa07584a4f5e63b73643af7",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6465734,
+        "known_for_department": "Camera",
+        "name": "Arianna Santos",
+        "original_name": "Arianna Santos",
+        "popularity": 0.197,
+        "profile_path": null,
+        "credit_id": "6aa075b99ec18bc781001473",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6022912,
+        "known_for_department": "Acting",
+        "name": "Keegan Shepard",
+        "original_name": "Keegan Shepard",
+        "popularity": 0.1172,
+        "profile_path": null,
+        "credit_id": "6aa075c4e4dfff47b5d7ca8c",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6465736,
+        "known_for_department": "Camera",
+        "name": "Elizabeth Van Hilst",
+        "original_name": "Elizabeth Van Hilst",
+        "popularity": 0.2911,
+        "profile_path": null,
+        "credit_id": "6aa075d09903e30d84c92cf4",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6465739,
+        "known_for_department": "Production",
+        "name": "Kailah Augustine",
+        "original_name": "Kailah Augustine",
+        "popularity": 0.0837,
+        "profile_path": null,
+        "credit_id": "6aa07601603e6edf18aab9a5",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6465740,
+        "known_for_department": "Production",
+        "name": "JT Haley",
+        "original_name": "JT Haley",
+        "popularity": 0.229,
+        "profile_path": null,
+        "credit_id": "6aa07615569eb359aab644b8",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4875363,
+        "known_for_department": "Production",
+        "name": "Carly Hough",
+        "original_name": "Carly Hough",
+        "popularity": 0.1709,
+        "profile_path": null,
+        "credit_id": "6aa07628e36770ad97d7cab1",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6465743,
+        "known_for_department": "Production",
+        "name": "Skylar Lanier",
+        "original_name": "Skylar Lanier",
+        "popularity": 0.0425,
+        "profile_path": null,
+        "credit_id": "6aa07636a4cfb9343c3190a9",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6465745,
+        "known_for_department": "Production",
+        "name": "Cash Alexander",
+        "original_name": "Cash Alexander",
+        "popularity": 0.1842,
+        "profile_path": null,
+        "credit_id": "6aa0766089f7004ce523b62a",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6056527,
+        "known_for_department": "Acting",
+        "name": "Jules Byrd",
+        "original_name": "Jules Byrd",
+        "popularity": 0.0553,
+        "profile_path": null,
+        "credit_id": "6aa076843289ce9c10e82a7d",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6465743,
+        "known_for_department": "Production",
+        "name": "Skylar Lanier",
+        "original_name": "Skylar Lanier",
+        "popularity": 0.0425,
+        "profile_path": null,
+        "credit_id": "6aa07692a4f5e63b73643b03",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6056538,
+        "known_for_department": "Sound",
+        "name": "Lucas Gomez",
+        "original_name": "Lucas Gomez",
+        "popularity": 0.0898,
+        "profile_path": null,
+        "credit_id": "6aa0769e3e257e675bd7ca7f",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6465724,
+        "known_for_department": "Camera",
+        "name": "Libby Marks",
+        "original_name": "Libby Marks",
+        "popularity": 0.1662,
+        "profile_path": null,
+        "credit_id": "6aa076aa670f86c567c92cf2",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6465691,
+        "known_for_department": "Art",
+        "name": "Dakarai Perry-Brown",
+        "original_name": "Dakarai Perry-Brown",
+        "popularity": 0.1482,
+        "profile_path": null,
+        "credit_id": "6aa076b31880873216643aa3",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6465740,
+        "known_for_department": "Production",
+        "name": "JT Haley",
+        "original_name": "JT Haley",
+        "popularity": 0.229,
+        "profile_path": null,
+        "credit_id": "6aa076bded1a4e734f319026",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6056535,
+        "known_for_department": "Directing",
+        "name": "Elena Gutierrez",
+        "original_name": "Elena Gutierrez",
+        "popularity": 0.116,
+        "profile_path": null,
+        "credit_id": "6aa076c8569eb359aab644c2",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6056536,
+        "known_for_department": "Camera",
+        "name": "Evelyn McDowell",
+        "original_name": "Evelyn McDowell",
+        "popularity": 0.1461,
+        "profile_path": null,
+        "credit_id": "6aa076d1e4dfff47b5d7caa7",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6465308,
+        "known_for_department": "Writing",
+        "name": "Madi Aragon",
+        "original_name": "Madi Aragon",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "6aa076e02589d80dea318fb5",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6465755,
+        "known_for_department": "Art",
+        "name": "Ken Hewitt",
+        "original_name": "Ken Hewitt",
+        "popularity": 0.0905,
+        "profile_path": null,
+        "credit_id": "6aa076fb5b1d4ac4960eb16d",
+        "department": "Art",
+        "job": "Property Master"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Sharp witted Lydia escapes the drudgery of her nine-to-five by singing at a punk bar with her best girlfriends — that is, until a predatory man targets one of them, and her fury turns to blood-lust.",
+          "runtime": 10,
+          "tagline": "And hope you die...",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt44940440",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/z7r6mwmrB78Z99RT79ajlA2MSQ0.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2026-02-07T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

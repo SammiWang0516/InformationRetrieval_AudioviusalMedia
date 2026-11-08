@@ -1,0 +1,835 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 165000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1458298,
+  "imdb_id": "tt36447990",
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_title": "Antônio Odisseia",
+  "overview": "Tony and his best friend, Ivy, decide to rob the bar where he works to steal a new drug that will take them on a journey to meet God.",
+  "popularity": 1.4888,
+  "poster_path": "/autzTYBbhnj8mBoo9inM7A6aBHX.jpg",
+  "production_companies": [
+    {
+      "id": 258308,
+      "logo_path": null,
+      "name": "5 PRA 2",
+      "origin_country": ""
+    },
+    {
+      "id": 286101,
+      "logo_path": null,
+      "name": "5 BY 2 ARTS",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "release_date": "2026-02-23",
+  "revenue": 0,
+  "runtime": 105,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "I hate reality.",
+  "title": "Tony Odyssey",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2198181,
+        "known_for_department": "Acting",
+        "name": "Kelson Succi",
+        "original_name": "Kelson Succi",
+        "popularity": 0.2161,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Antônio",
+        "credit_id": "67edbd814680f26bf3a78f08",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5345390,
+        "known_for_department": "Acting",
+        "name": "Iraci Estrela",
+        "original_name": "Iraci Estrela",
+        "popularity": 0.0824,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Ivy",
+        "credit_id": "67edbd9664a516cc46e174bb",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1363260,
+        "known_for_department": "Acting",
+        "name": "Sandro Guerra",
+        "original_name": "Sandro Guerra",
+        "popularity": 0.283,
+        "profile_path": "/eX3uLApbxeQ01NNVZKFP3YjDh1Q.jpg",
+        "cast_id": 32,
+        "character": "Seu Cássio",
+        "credit_id": "67edbda964a516cc46e174bf",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 230269,
+        "known_for_department": "Acting",
+        "name": "Antônio Pitanga",
+        "original_name": "Antônio Pitanga",
+        "popularity": 0.4249,
+        "profile_path": "/6Sdhnxw4CQk2TbFk3L9D25nbga6.jpg",
+        "cast_id": 33,
+        "character": "Humberto",
+        "credit_id": "67edbdbe4680f26bf3a78f0c",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1463135,
+        "known_for_department": "Acting",
+        "name": "Leci Brandão",
+        "original_name": "Leci Brandão",
+        "popularity": 0.1445,
+        "profile_path": "/8sMqXtbpSiU3pv7ET4bw23qYdCQ.jpg",
+        "cast_id": 34,
+        "character": "Bisa",
+        "credit_id": "67edbdc715f6ba86f1e17458",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 482261,
+        "known_for_department": "Acting",
+        "name": "Teuda Bara",
+        "original_name": "Teuda Bara",
+        "popularity": 0.1029,
+        "profile_path": "/mK71NY1xtEyxFl05u0e9Jq9aePs.jpg",
+        "cast_id": 35,
+        "character": "Vovó Sheilla",
+        "credit_id": "67edbdd35f3bd7242e6287ee",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 142830,
+        "known_for_department": "Acting",
+        "name": "Luiz Bertazzo",
+        "original_name": "Luiz Bertazzo",
+        "popularity": 0.2366,
+        "profile_path": "/9rpkxfChPTkNkOscTfd2lqqENix.jpg",
+        "cast_id": 36,
+        "character": "Motorista de Aplicativo",
+        "credit_id": "67edbddf9c68504cf2628b37",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1656013,
+        "known_for_department": "Acting",
+        "name": "Chico César",
+        "original_name": "Chico César",
+        "popularity": 0.1193,
+        "profile_path": "/tl0sc3V6kCn90qo6pi9mT3JDIy5.jpg",
+        "cast_id": 37,
+        "character": "Narrador",
+        "credit_id": "67edbdf24680f26bf3a78f16",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5345392,
+        "known_for_department": "Acting",
+        "name": "Arthur Lima",
+        "original_name": "Arthur Lima",
+        "popularity": 0.0855,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Menino Charrete",
+        "credit_id": "67edbe234680f26bf3a78f20",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5345392,
+        "known_for_department": "Acting",
+        "name": "Arthur Lima",
+        "original_name": "Arthur Lima",
+        "popularity": 0.0855,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Valtinho Pipa",
+        "credit_id": "67edbe4c4680f26bf3a78f25",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1515882,
+        "known_for_department": "Acting",
+        "name": "Herberth Vital",
+        "original_name": "Herberth Vital",
+        "popularity": 0.153,
+        "profile_path": "/1Sv71UNP5s17T5Ifhz4QHJDuCD9.jpg",
+        "cast_id": 40,
+        "character": "Jonas",
+        "credit_id": "67edbe6f4680f26bf3a78f2a",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5345394,
+        "known_for_department": "Acting",
+        "name": "Shaolin Shabba",
+        "original_name": "Shaolin Shabba",
+        "popularity": 0.0383,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "James",
+        "credit_id": "67edbec24680f26bf3a78f39",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5345395,
+        "known_for_department": "Acting",
+        "name": "Dayane Galdino",
+        "original_name": "Dayane Galdino",
+        "popularity": 0.0439,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "Milla",
+        "credit_id": "67edbf4a54f595bb55a78b1b",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5345396,
+        "known_for_department": "Acting",
+        "name": "Mattheus Diasz",
+        "original_name": "Mattheus Diasz",
+        "popularity": 0.0706,
+        "profile_path": null,
+        "cast_id": 43,
+        "character": "Mike",
+        "credit_id": "67edbf5e15f6ba86f1e17493",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2880047,
+        "known_for_department": "Acting",
+        "name": "Dani Câmara",
+        "original_name": "Dani Câmara",
+        "popularity": 0.0626,
+        "profile_path": null,
+        "cast_id": 44,
+        "character": "Lucia",
+        "credit_id": "67edbf8564a516cc46e17517",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1890793,
+        "known_for_department": "Acting",
+        "name": "Cláudio Márcio",
+        "original_name": "Cláudio Márcio",
+        "popularity": 0.2835,
+        "profile_path": "/4W8P1IiZRCFGzRR2fV0XPaIXnQx.jpg",
+        "cast_id": 45,
+        "character": "Maguinho",
+        "credit_id": "67edbfc164a516cc46e17525",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4399374,
+        "known_for_department": "Production",
+        "name": "Mona Rikumbi",
+        "original_name": "Mona Rikumbi",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "cast_id": 46,
+        "character": "Secretária Sandra",
+        "credit_id": "67edbfda15f6ba86f1e174a2",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5345401,
+        "known_for_department": "Acting",
+        "name": "Renata Melo",
+        "original_name": "Renata Melo",
+        "popularity": 0.0345,
+        "profile_path": null,
+        "cast_id": 47,
+        "character": "Beth",
+        "credit_id": "67edbff615f6ba86f1e174ab",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4876343,
+        "known_for_department": "Acting",
+        "name": "Da Lapa",
+        "original_name": "Da Lapa",
+        "popularity": 0.0379,
+        "profile_path": "/2Ajka6aZXYN4z3hlr9xP9E9554M.jpg",
+        "cast_id": 48,
+        "character": "Beto",
+        "credit_id": "67edbfff1d1ccf5f4f62889f",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1636449,
+        "known_for_department": "Acting",
+        "name": "Sergio Pardal",
+        "original_name": "Sergio Pardal",
+        "popularity": 0.4984,
+        "profile_path": "/m7xxQtrfpYFh9cF1riTTJnx8K3Q.jpg",
+        "cast_id": 51,
+        "character": "Pastor",
+        "credit_id": "6860b0388e6dc5474091581f",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3923262,
+        "known_for_department": "Acting",
+        "name": "Lukas Cabral",
+        "original_name": "Lukas Cabral",
+        "popularity": 0.0512,
+        "profile_path": "/xdqSlGXxiz1BDSurAU2GXqHgqrx.jpg",
+        "cast_id": 50,
+        "character": "Deus",
+        "credit_id": "67edc0349c68504cf2628b84",
+        "order": 20
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5345353,
+        "known_for_department": "Directing",
+        "name": "Thales Banzai",
+        "original_name": "Thales Banzai",
+        "popularity": 0.0632,
+        "profile_path": null,
+        "credit_id": "67edb7d44909e25b07a78afd",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2841913,
+        "known_for_department": "Camera",
+        "name": "Camila Cornelsen",
+        "original_name": "Camila Cornelsen",
+        "popularity": 0.051,
+        "profile_path": null,
+        "credit_id": "67edb7ea4680f26bf3a78cb5",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2198181,
+        "known_for_department": "Acting",
+        "name": "Kelson Succi",
+        "original_name": "Kelson Succi",
+        "popularity": 0.2161,
+        "profile_path": null,
+        "credit_id": "67edb8241d1ccf5f4f62869a",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1468943,
+        "known_for_department": "Sound",
+        "name": "Kiko Dinucci",
+        "original_name": "Kiko Dinucci",
+        "popularity": 0.1317,
+        "profile_path": null,
+        "credit_id": "67edb8e44680f26bf3a78d47",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2984782,
+        "known_for_department": "Acting",
+        "name": "Arthur Verocai",
+        "original_name": "Arthur Verocai",
+        "popularity": 0.1316,
+        "profile_path": null,
+        "credit_id": "67edb90e4680f26bf3a78d67",
+        "department": "Sound",
+        "job": "Music Arranger"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1463135,
+        "known_for_department": "Acting",
+        "name": "Leci Brandão",
+        "original_name": "Leci Brandão",
+        "popularity": 0.1445,
+        "profile_path": "/8sMqXtbpSiU3pv7ET4bw23qYdCQ.jpg",
+        "credit_id": "67edb9439c68504cf26289f7",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5345376,
+        "known_for_department": "Sound",
+        "name": "Elisa Pieruccini",
+        "original_name": "Elisa Pieruccini",
+        "popularity": 0.0467,
+        "profile_path": null,
+        "credit_id": "67edb9891d1ccf5f4f6286d2",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 145009,
+        "known_for_department": "Sound",
+        "name": "Jesica Suárez",
+        "original_name": "Jesica Suárez",
+        "popularity": 0.1688,
+        "profile_path": "/jOo4KzyL8H1N0vcOVVMQo7NjsmV.jpg",
+        "credit_id": "67edb9b11d1ccf5f4f62870a",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2841913,
+        "known_for_department": "Camera",
+        "name": "Camila Cornelsen",
+        "original_name": "Camila Cornelsen",
+        "popularity": 0.051,
+        "profile_path": null,
+        "credit_id": "67edb9db1d1ccf5f4f628717",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5345353,
+        "known_for_department": "Directing",
+        "name": "Thales Banzai",
+        "original_name": "Thales Banzai",
+        "popularity": 0.0632,
+        "profile_path": null,
+        "credit_id": "67edb9e35f3bd7242e628739",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1986899,
+        "known_for_department": "Production",
+        "name": "Mario Peixoto",
+        "original_name": "Mario Peixoto",
+        "popularity": 0.0497,
+        "profile_path": null,
+        "credit_id": "67edb9ef03540cf8e562860b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1848961,
+        "known_for_department": "Editing",
+        "name": "Estevão Meneguzzo",
+        "original_name": "Estevão Meneguzzo",
+        "popularity": 0.4446,
+        "profile_path": null,
+        "credit_id": "67edba104909e25b07a78b7f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2114854,
+        "known_for_department": "Directing",
+        "name": "Laura Barzotto",
+        "original_name": "Laura Barzotto",
+        "popularity": 0.1076,
+        "profile_path": null,
+        "credit_id": "67edba284680f26bf3a78dbb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5345378,
+        "known_for_department": "Production",
+        "name": "Marcela Sutter",
+        "original_name": "Marcela Sutter",
+        "popularity": 0.0372,
+        "profile_path": null,
+        "credit_id": "67edba5103540cf8e562861a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5345381,
+        "known_for_department": "Art",
+        "name": "Lucas Mariano",
+        "original_name": "Lucas Mariano",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "67edba6ecf06190cbae175f4",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5345382,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Vinny Araújo",
+        "original_name": "Vinny Araújo",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67edbaa44680f26bf3a78e1a",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3325618,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Paula Vidal",
+        "original_name": "Paula Vidal",
+        "popularity": 0.2443,
+        "profile_path": null,
+        "credit_id": "67edbab903540cf8e562864e",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5345383,
+        "known_for_department": "Production",
+        "name": "Bruno Felsmann",
+        "original_name": "Bruno Felsmann",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "67edbadd9c68504cf2628aac",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5345384,
+        "known_for_department": "Production",
+        "name": "Éder dos Anjos",
+        "original_name": "Éder dos Anjos",
+        "popularity": 0.0408,
+        "profile_path": null,
+        "credit_id": "67edbb3b9c68504cf2628acd",
+        "department": "Production",
+        "job": "Casting Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5345385,
+        "known_for_department": "Directing",
+        "name": "Arthur Schmidt",
+        "original_name": "Arthur Schmidt",
+        "popularity": 0.0667,
+        "profile_path": null,
+        "credit_id": "67edbb9903540cf8e5628678",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2035350,
+        "known_for_department": "Production",
+        "name": "Bruno Alfano",
+        "original_name": "Bruno Alfano",
+        "popularity": 0.0622,
+        "profile_path": null,
+        "credit_id": "67edbc9e4909e25b07a78be6",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4161083,
+        "known_for_department": "Visual Effects",
+        "name": "Luan Banzai",
+        "original_name": "Luan Banzai",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "67edbcb34680f26bf3a78ee6",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5345383,
+        "known_for_department": "Production",
+        "name": "Bruno Felsmann",
+        "original_name": "Bruno Felsmann",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "67edbcbe4909e25b07a78bec",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2198181,
+        "known_for_department": "Acting",
+        "name": "Kelson Succi",
+        "original_name": "Kelson Succi",
+        "popularity": 0.2161,
+        "profile_path": null,
+        "credit_id": "67edbcc854f595bb55a78ad9",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5345389,
+        "known_for_department": "Production",
+        "name": "Jeanete Coelho de Souza",
+        "original_name": "Jeanete Coelho de Souza",
+        "popularity": 0.0532,
+        "profile_path": null,
+        "credit_id": "67edbcd9cf06190cbae176a7",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5345353,
+        "known_for_department": "Directing",
+        "name": "Thales Banzai",
+        "original_name": "Thales Banzai",
+        "popularity": 0.0632,
+        "profile_path": null,
+        "credit_id": "67edbcfd1d1ccf5f4f62882d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5345353,
+        "known_for_department": "Directing",
+        "name": "Thales Banzai",
+        "original_name": "Thales Banzai",
+        "popularity": 0.0632,
+        "profile_path": null,
+        "credit_id": "67edbd4e4680f26bf3a78f01",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2198181,
+        "known_for_department": "Acting",
+        "name": "Kelson Succi",
+        "original_name": "Kelson Succi",
+        "popularity": 0.2161,
+        "profile_path": null,
+        "credit_id": "67edbd564680f26bf3a78f04",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3796115,
+        "known_for_department": "Sound",
+        "name": "Francisco Polosecki",
+        "original_name": "Francisco Polosecki",
+        "popularity": 0.3269,
+        "profile_path": "/tc1A0lRBc5dPCTqXlYBfJRtYxP1.jpg",
+        "credit_id": "69f9251afa7a7e662ad2c91a",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Tony and his best friend, Ivy, decide to rob the bar where he works to steal a new drug that will take them on a journey to meet God.",
+          "runtime": 105,
+          "tagline": "I hate reality.",
+          "title": "Tony Odyssey"
+        }
+      },
+      {
+        "iso_3166_1": "BR",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "NL",
+        "iso_639_1": "nl",
+        "name": "Nederlands",
+        "english_name": "Dutch",
+        "data": {
+          "homepage": "",
+          "overview": "Tony en zijn beste vriendin Ivy besluiten de bar waar hij werkt te beroven om een ​​nieuw medicijn te stelen dat hen op een reis naar God zal leiden.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Tony Odyssey",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt36447990",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/autzTYBbhnj8mBoo9inM7A6aBHX.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-23T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

@@ -1,0 +1,611 @@
+{
+  "adult": false,
+  "backdrop_path": "/qag3e3WcMXBALAfAgKfQXUnTTwt.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1725092,
+  "imdb_id": null,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "Evanescent",
+  "overview": "A young girl makes a bid for connection with her emotionally unavailable father.",
+  "popularity": 0.5059,
+  "poster_path": "/pQ6qMf18BbT5GepFMUzCF92vcX9.jpg",
+  "production_companies": [
+    {
+      "id": 175212,
+      "logo_path": null,
+      "name": "Bison FilmWorks",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2026-11-07",
+  "revenue": 0,
+  "runtime": 10,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Evanescent",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4561446,
+        "known_for_department": "Acting",
+        "name": "Hailey James Trifts",
+        "original_name": "Hailey James Trifts",
+        "popularity": 0.1559,
+        "profile_path": "/hEu957YCSgHPonJPhyf8GtRI3rk.jpg",
+        "cast_id": 1,
+        "character": "Harper",
+        "credit_id": "6a46e6d291e8834c0aad096e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6323407,
+        "known_for_department": "Acting",
+        "name": "Jake Martin",
+        "original_name": "Jake Martin",
+        "popularity": 0.097,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Craig",
+        "credit_id": "6a46e721f32984579463bdc5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6323410,
+        "known_for_department": "Acting",
+        "name": "Cassidy Dewar",
+        "original_name": "Cassidy Dewar",
+        "popularity": 0.1214,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Holly",
+        "credit_id": "6a46e734eac12c31a8e4c7fb",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6323445,
+        "known_for_department": "Acting",
+        "name": "Shauna Betts",
+        "original_name": "Shauna Betts",
+        "popularity": 0.1199,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Movie Theatre Patron",
+        "credit_id": "6a46ea42ec1988ab84765fc6",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6323446,
+        "known_for_department": "Acting",
+        "name": "Dane Giffin",
+        "original_name": "Dane Giffin",
+        "popularity": 0.1037,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Movie Theatre Patron",
+        "credit_id": "6a46ea4e7dfce846ff73c27c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6323436,
+        "known_for_department": "Crew",
+        "name": "Linda Soucy",
+        "original_name": "Linda Soucy",
+        "popularity": 0.1142,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Movie Theatre Patron",
+        "credit_id": "6a46ea5ae9d481dd9951712e",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6323447,
+        "known_for_department": "Acting",
+        "name": "Mackenzie Soucy",
+        "original_name": "Mackenzie Soucy",
+        "popularity": 0.2552,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Movie Theatre Patron",
+        "credit_id": "6a46ea6b4f40adf6fe517395",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6323448,
+        "known_for_department": "Acting",
+        "name": "Melyssa Soucy",
+        "original_name": "Melyssa Soucy",
+        "popularity": 0.0945,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Movie Theatre Patron",
+        "credit_id": "6a46ea74e9d481dd99517139",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3462883,
+        "known_for_department": "Production",
+        "name": "Lance Kenneth Blakney",
+        "original_name": "Lance Kenneth Blakney",
+        "popularity": 0.0731,
+        "profile_path": "/7mUbvkhlRTb7RJYRprcnpXrwp0e.jpg",
+        "cast_id": 24,
+        "character": "Movie Theatre Patron",
+        "credit_id": "6a46ea867f4d8cb79e30f247",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6323450,
+        "known_for_department": "Acting",
+        "name": "Ellie Hanam",
+        "original_name": "Ellie Hanam",
+        "popularity": 0.1046,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Movie Theatre Patron",
+        "credit_id": "6a46eaaf05fb5677b00619c7",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6323451,
+        "known_for_department": "Acting",
+        "name": "Kaitlyn Trifts",
+        "original_name": "Kaitlyn Trifts",
+        "popularity": 0.0743,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Movie Theatre Patron",
+        "credit_id": "6a46eabe6a626b6f8b30f38f",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6343623,
+        "known_for_department": "Acting",
+        "name": "Karen Connor",
+        "original_name": "Karen Connor",
+        "popularity": 0.0961,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Movie Theatre Patron",
+        "credit_id": "6a53e2ccd13d1dc7eab64a21",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3462881,
+        "known_for_department": "Production",
+        "name": "Courtni Soucy",
+        "original_name": "Courtni Soucy",
+        "popularity": 0.3045,
+        "profile_path": "/cT4kADFKZ0dCgU1Uks3d572siSC.jpg",
+        "credit_id": "6a46e753233320617d30f36c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2193457,
+        "known_for_department": "Directing",
+        "name": "Ty Giffin",
+        "original_name": "Ty Giffin",
+        "popularity": 0.3012,
+        "profile_path": "/7fAd5AfrB5bNSFNwDO3IHjhabVC.jpg",
+        "credit_id": "6a46e7680e7e54d29063bdd3",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3462881,
+        "known_for_department": "Production",
+        "name": "Courtni Soucy",
+        "original_name": "Courtni Soucy",
+        "popularity": 0.3045,
+        "profile_path": "/cT4kADFKZ0dCgU1Uks3d572siSC.jpg",
+        "credit_id": "6a46e7753d10260fb7e4c8d9",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2193457,
+        "known_for_department": "Directing",
+        "name": "Ty Giffin",
+        "original_name": "Ty Giffin",
+        "popularity": 0.3012,
+        "profile_path": "/7fAd5AfrB5bNSFNwDO3IHjhabVC.jpg",
+        "credit_id": "6a46e788249469dbcd63be37",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3875038,
+        "known_for_department": "Directing",
+        "name": "Deviina Hajela",
+        "original_name": "Deviina Hajela",
+        "popularity": 0.0643,
+        "profile_path": null,
+        "credit_id": "6a46e7a28862baf1ad73c2f7",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3607859,
+        "known_for_department": "Sound",
+        "name": "Bruce Legrow",
+        "original_name": "Bruce Legrow",
+        "popularity": 0.2753,
+        "profile_path": null,
+        "credit_id": "6a46e7b37f4d8cb79e30f218",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2371017,
+        "known_for_department": "Production",
+        "name": "Arianna Martinez",
+        "original_name": "Arianna Martinez",
+        "popularity": 0.0834,
+        "profile_path": "/3RzU9S8UMk61J9J4rQWFuSvSbeB.jpg",
+        "credit_id": "6a46e7ea4f40adf6fe517367",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2371014,
+        "known_for_department": "Directing",
+        "name": "Jillian Acreman",
+        "original_name": "Jillian Acreman",
+        "popularity": 0.1298,
+        "profile_path": null,
+        "credit_id": "6a46e7f8e7351d89e5e4c82c",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3462882,
+        "known_for_department": "Production",
+        "name": "Gordon Mihan",
+        "original_name": "Gordon Mihan",
+        "popularity": 0.1625,
+        "profile_path": "/8H80fbk7wKkjAlZec2Q2XZzDXji.jpg",
+        "credit_id": "6a46e809d03501db5b061a5b",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3020658,
+        "known_for_department": "Camera",
+        "name": "Mark Kincey",
+        "original_name": "Mark Kincey",
+        "popularity": 0.2111,
+        "profile_path": "/nWY6I4PeAOGJ6XtO7duTZ3Lqhd6.jpg",
+        "credit_id": "6a46e82af32984579463bdd0",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2373973,
+        "known_for_department": "Camera",
+        "name": "Kaleigh Stultz",
+        "original_name": "Kaleigh Stultz",
+        "popularity": 0.0633,
+        "profile_path": null,
+        "credit_id": "6a46e83b75f09133aead0836",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4989196,
+        "known_for_department": "Directing",
+        "name": "Anna Melanson",
+        "original_name": "Anna Melanson",
+        "popularity": 0.1378,
+        "profile_path": null,
+        "credit_id": "6a46e849c112f8d74bd7396e",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2193457,
+        "known_for_department": "Directing",
+        "name": "Ty Giffin",
+        "original_name": "Ty Giffin",
+        "popularity": 0.3012,
+        "profile_path": "/7fAd5AfrB5bNSFNwDO3IHjhabVC.jpg",
+        "credit_id": "6a46e8a969b1a8959163bcd0",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5808634,
+        "known_for_department": "Acting",
+        "name": "Andressa Cutini",
+        "original_name": "Andressa Cutini",
+        "popularity": 0.0702,
+        "profile_path": null,
+        "credit_id": "6a46e949611f413bcf73c308",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6323436,
+        "known_for_department": "Crew",
+        "name": "Linda Soucy",
+        "original_name": "Linda Soucy",
+        "popularity": 0.1142,
+        "profile_path": null,
+        "credit_id": "6a46e9587dffc30cfe766003",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6324553,
+        "known_for_department": "Sound",
+        "name": "Hannah Freeze",
+        "original_name": "Hannah Freeze",
+        "popularity": 0.0998,
+        "profile_path": null,
+        "credit_id": "6a47ce73f84f7ae2a889f0b0",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6324554,
+        "known_for_department": "Sound",
+        "name": "John Freeze",
+        "original_name": "John Freeze",
+        "popularity": 0.081,
+        "profile_path": null,
+        "credit_id": "6a47ce8f6fa2f3c22a222ea5",
+        "department": "Sound",
+        "job": "Music Score Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 10683,
+        "name": "coming of age"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "A young girl makes a bid for connection with her emotionally unavailable father.",
+          "runtime": 10,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/qag3e3WcMXBALAfAgKfQXUnTTwt.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/myGq88m95StcDdy6AT5l5dkhpKO.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/dUyCrTTjVZC5UbktnM6OzKfIB1R.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/kP3mW78dUsFvzaRptXLD5sgfXkE.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/vHD67ihGRMZsIRtHITRsbA7qNKg.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/ci5ostWZ3nBNbp7RTpe7YPZARgC.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/9jXx5xcez6qUk6XPHZrtWtewlLw.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/jLWkwZJ8jiU63qR8aFiBEh6v1kQ.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/rzZkK1h1cLMyT1R7lv7sJwUq0Zx.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/pQ6qMf18BbT5GepFMUzCF92vcX9.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "Silver Wave Film Festival",
+            "release_date": "2026-11-07T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

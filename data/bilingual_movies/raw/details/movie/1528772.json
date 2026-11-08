@@ -1,0 +1,634 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1528772,
+  "imdb_id": null,
+  "origin_country": [
+    "AR"
+  ],
+  "original_language": "xx",
+  "original_title": "Un corto de zombies",
+  "overview": "Escaping a zombie horde, a girl enters an empty house to seek shelter, not knowing what she will find there.",
+  "popularity": 0.9026,
+  "poster_path": "/j3dKJnQRcF3wzLSm2SNqvwVmf6q.jpg",
+  "production_companies": [
+    {
+      "id": 242492,
+      "logo_path": null,
+      "name": "Nos dormimos",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    }
+  ],
+  "release_date": "2025-11-21",
+  "revenue": 0,
+  "runtime": 4,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Un corto de zombies",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4221975,
+        "known_for_department": "Acting",
+        "name": "Nayla Accinelli",
+        "original_name": "Nayla Accinelli",
+        "popularity": 0.0372,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Nayla",
+        "credit_id": "689a74917335a303ce6d7279",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5620458,
+        "known_for_department": "Acting",
+        "name": "Arturo Caviglia",
+        "original_name": "Arturo Caviglia",
+        "popularity": 0.1316,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Arturo Zombie",
+        "credit_id": "689a74a1ce44cdd34fb70174",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4858436,
+        "known_for_department": "Acting",
+        "name": "Simón Godoy",
+        "original_name": "Simón Godoy",
+        "popularity": 0.1824,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Zombie destripado",
+        "credit_id": "689a74ae8a67624c3d2684bb",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4468954,
+        "known_for_department": "Acting",
+        "name": "Guillermo Moyano",
+        "original_name": "Guillermo Moyano",
+        "popularity": 0.0883,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Zombie 1",
+        "credit_id": "689a74be35e0e2d2106d7157",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5620460,
+        "known_for_department": "Acting",
+        "name": "Camila Moscardi",
+        "original_name": "Camila Moscardi",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Zombie 2",
+        "credit_id": "689a74c90e97083fac5e39a6",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3902046,
+        "known_for_department": "Art",
+        "name": "Natán Silvestre",
+        "original_name": "Natán Silvestre",
+        "popularity": 0.1683,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Zombie 3",
+        "credit_id": "689a74d57e4351410fb705b1",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3902048,
+        "known_for_department": "Camera",
+        "name": "Lucas Mendoza",
+        "original_name": "Lucas Mendoza",
+        "popularity": 0.0938,
+        "profile_path": "/1Ve908nXzc1UH28kYUcpHb7fIKj.jpg",
+        "credit_id": "689a74faba92f57338b7003f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3902048,
+        "known_for_department": "Camera",
+        "name": "Lucas Mendoza",
+        "original_name": "Lucas Mendoza",
+        "popularity": 0.0938,
+        "profile_path": "/1Ve908nXzc1UH28kYUcpHb7fIKj.jpg",
+        "credit_id": "689a74ffb77a6ff4935d16aa",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3902048,
+        "known_for_department": "Camera",
+        "name": "Lucas Mendoza",
+        "original_name": "Lucas Mendoza",
+        "popularity": 0.0938,
+        "profile_path": "/1Ve908nXzc1UH28kYUcpHb7fIKj.jpg",
+        "credit_id": "689a751b14835f85285d16c3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3902051,
+        "known_for_department": "Sound",
+        "name": "Zeferí Encina Leveratto",
+        "original_name": "Zeferí Encina Leveratto",
+        "popularity": 0.1809,
+        "profile_path": null,
+        "credit_id": "689a752865b31e37cf8eb394",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3902051,
+        "known_for_department": "Sound",
+        "name": "Zeferí Encina Leveratto",
+        "original_name": "Zeferí Encina Leveratto",
+        "popularity": 0.1809,
+        "profile_path": null,
+        "credit_id": "689a752d9890b05dcf8dad68",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3902051,
+        "known_for_department": "Sound",
+        "name": "Zeferí Encina Leveratto",
+        "original_name": "Zeferí Encina Leveratto",
+        "popularity": 0.1809,
+        "profile_path": null,
+        "credit_id": "689a7532829fb899418eb360",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3902051,
+        "known_for_department": "Sound",
+        "name": "Zeferí Encina Leveratto",
+        "original_name": "Zeferí Encina Leveratto",
+        "popularity": 0.1809,
+        "profile_path": null,
+        "credit_id": "689a753707456e824e8dae22",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3902051,
+        "known_for_department": "Sound",
+        "name": "Zeferí Encina Leveratto",
+        "original_name": "Zeferí Encina Leveratto",
+        "popularity": 0.1809,
+        "profile_path": null,
+        "credit_id": "689a753d07456e824e8dae25",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4016849,
+        "known_for_department": "Art",
+        "name": "María Laura Moyano",
+        "original_name": "María Laura Moyano",
+        "popularity": 0.8861,
+        "profile_path": null,
+        "credit_id": "689a754b6026a8e6058eb2c0",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4016849,
+        "known_for_department": "Art",
+        "name": "María Laura Moyano",
+        "original_name": "María Laura Moyano",
+        "popularity": 0.8861,
+        "profile_path": null,
+        "credit_id": "689a7554ba6b1a31045e3c1d",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4016849,
+        "known_for_department": "Art",
+        "name": "María Laura Moyano",
+        "original_name": "María Laura Moyano",
+        "popularity": 0.8861,
+        "profile_path": null,
+        "credit_id": "689a755ab1a4590dbe5e3c5e",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4016849,
+        "known_for_department": "Art",
+        "name": "María Laura Moyano",
+        "original_name": "María Laura Moyano",
+        "popularity": 0.8861,
+        "profile_path": null,
+        "credit_id": "689a755f4a4b0f6b098eb303",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5014591,
+        "known_for_department": "Acting",
+        "name": "Carolina Strada",
+        "original_name": "Carolina Strada",
+        "popularity": 0.1752,
+        "profile_path": null,
+        "credit_id": "689a756d6e239fedf01a2e8c",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5014591,
+        "known_for_department": "Acting",
+        "name": "Carolina Strada",
+        "original_name": "Carolina Strada",
+        "popularity": 0.1752,
+        "profile_path": null,
+        "credit_id": "689a7575f7c834ebd3c6fc32",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3902046,
+        "known_for_department": "Art",
+        "name": "Natán Silvestre",
+        "original_name": "Natán Silvestre",
+        "popularity": 0.1683,
+        "profile_path": null,
+        "credit_id": "689a75814848151129b7048d",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4858436,
+        "known_for_department": "Acting",
+        "name": "Simón Godoy",
+        "original_name": "Simón Godoy",
+        "popularity": 0.1824,
+        "profile_path": null,
+        "credit_id": "689a758ba8cae6d7a58eb251",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4858436,
+        "known_for_department": "Acting",
+        "name": "Simón Godoy",
+        "original_name": "Simón Godoy",
+        "popularity": 0.1824,
+        "profile_path": null,
+        "credit_id": "689a7592f23379ad1f1a2f85",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4102299,
+        "known_for_department": "Art",
+        "name": "Milagros Rocha",
+        "original_name": "Milagros Rocha",
+        "popularity": 0.1152,
+        "profile_path": null,
+        "credit_id": "689a75ad993a5e97772681b6",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4102299,
+        "known_for_department": "Art",
+        "name": "Milagros Rocha",
+        "original_name": "Milagros Rocha",
+        "popularity": 0.1152,
+        "profile_path": null,
+        "credit_id": "689a75b64f4665d261b703c5",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3968219,
+        "known_for_department": "Camera",
+        "name": "María Sol Rodríguez",
+        "original_name": "María Sol Rodríguez",
+        "popularity": 0.1757,
+        "profile_path": null,
+        "credit_id": "689a75cb68c37615c3c6fccb",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3968219,
+        "known_for_department": "Camera",
+        "name": "María Sol Rodríguez",
+        "original_name": "María Sol Rodríguez",
+        "popularity": 0.1757,
+        "profile_path": null,
+        "credit_id": "689a75d1c69f05151e2683f4",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5448761,
+        "known_for_department": "Camera",
+        "name": "Tomás Iriarte",
+        "original_name": "Tomás Iriarte",
+        "popularity": 0.0438,
+        "profile_path": null,
+        "credit_id": "689a75d9e99a7048a95e3c56",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3902055,
+        "known_for_department": "Lighting",
+        "name": "Kevin Rosenberger",
+        "original_name": "Kevin Rosenberger",
+        "popularity": 0.0821,
+        "profile_path": null,
+        "credit_id": "689a75e2b20edaa8725e3be0",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3902055,
+        "known_for_department": "Lighting",
+        "name": "Kevin Rosenberger",
+        "original_name": "Kevin Rosenberger",
+        "popularity": 0.0821,
+        "profile_path": null,
+        "credit_id": "689a75e7ba6b1a31045e3c2b",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5448761,
+        "known_for_department": "Camera",
+        "name": "Tomás Iriarte",
+        "original_name": "Tomás Iriarte",
+        "popularity": 0.0438,
+        "profile_path": null,
+        "credit_id": "689a75f33d8d61e18d2684a3",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3208315,
+        "known_for_department": "Art",
+        "name": "Juana Ramos",
+        "original_name": "Juana Ramos",
+        "popularity": 0.0916,
+        "profile_path": null,
+        "credit_id": "689a760a80f5d0efceb705e2",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4221985,
+        "known_for_department": "Camera",
+        "name": "Camila Aranda",
+        "original_name": "Camila Aranda",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "689a7613023b4acb8826831f",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5014591,
+        "known_for_department": "Acting",
+        "name": "Carolina Strada",
+        "original_name": "Carolina Strada",
+        "popularity": 0.1752,
+        "profile_path": null,
+        "credit_id": "689a7cb337eb97ec74b702ec",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4102299,
+        "known_for_department": "Art",
+        "name": "Milagros Rocha",
+        "original_name": "Milagros Rocha",
+        "popularity": 0.1152,
+        "profile_path": null,
+        "credit_id": "689a7cbb9e81e6e63b268385",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3902046,
+        "known_for_department": "Art",
+        "name": "Natán Silvestre",
+        "original_name": "Natán Silvestre",
+        "popularity": 0.1683,
+        "profile_path": null,
+        "credit_id": "689a7cc3124b7c08f45d1690",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4016849,
+        "known_for_department": "Art",
+        "name": "María Laura Moyano",
+        "original_name": "María Laura Moyano",
+        "popularity": 0.8861,
+        "profile_path": null,
+        "credit_id": "689a7db86e239fedf01a2eaa",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Escapando de una horda de zombies, una chica entra en una casa vacía a buscar refugio, sin saber lo que encontrará allí.",
+          "runtime": 4,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Escaping a zombie horde, a girl enters an empty house to seek shelter, not knowing what she will find there.",
+          "runtime": 4,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/j3dKJnQRcF3wzLSm2SNqvwVmf6q.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "xx",
+            "note": "Buenos Aires Rojo Sangre",
+            "release_date": "2025-11-21T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

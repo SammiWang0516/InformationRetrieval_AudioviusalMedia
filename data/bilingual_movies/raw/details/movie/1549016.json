@@ -1,0 +1,502 @@
+{
+  "adult": false,
+  "backdrop_path": "/pPvFHu0WyJ5uwxC3SdRz2QFmvOE.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1549016,
+  "imdb_id": null,
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_title": "Pido al tiempo que no te lleve",
+  "overview": "Artemio, a young man with financial problems, returns to his apartment after a long day of work to find his cat, Franz, gravely ill.",
+  "popularity": 0.9311,
+  "poster_path": "/i3qyDgWEtHe2mVsV49Mgs5wTzKn.jpg",
+  "production_companies": [
+    {
+      "id": 88614,
+      "logo_path": "/jpid5wWEkbpSqRTsHdJjWwzLWv8.png",
+      "name": "UNAM",
+      "origin_country": "MX"
+    },
+    {
+      "id": 134655,
+      "logo_path": "/mg9nMn3TCIY2qDvICJ1CGEGsDpA.png",
+      "name": "Escuela Nacional de Artes Cinematográficas (ENAC)",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "release_date": "2025-05-08",
+  "revenue": 0,
+  "runtime": 7,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "I Plead Time Does Not Take You Away",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3858554,
+        "known_for_department": "Acting",
+        "name": "Carlos Shock Luna",
+        "original_name": "Carlos Shock Luna",
+        "popularity": 0.2845,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Artemio",
+        "credit_id": "68cd89da82ce345bb37a3abb",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5698911,
+        "known_for_department": "Acting",
+        "name": "Bucky",
+        "original_name": "Bucky",
+        "popularity": 0.0862,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Franz",
+        "credit_id": "68cd89edc9beb2ffcbd40dd0",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3972177,
+        "known_for_department": "Acting",
+        "name": "Graciela Jiménez",
+        "original_name": "Graciela Jiménez",
+        "popularity": 0.3359,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Veterinarian",
+        "credit_id": "68cd8a0e90c8310f66ceb89e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5698913,
+        "known_for_department": "Acting",
+        "name": "Samuel Morales",
+        "original_name": "Samuel Morales",
+        "popularity": 0.2379,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Franz Kitten",
+        "credit_id": "68cd8a28c835f4eb2ccc2a3c",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5307455,
+        "known_for_department": "Directing",
+        "name": "Raúl Pardo G.",
+        "original_name": "Luis Raúl Pardo González",
+        "popularity": 0.7085,
+        "profile_path": "/kA8Pxx445PdUfo2R3XRvaxznpls.jpg",
+        "credit_id": "68cd8a4cabed0313be97cde6",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5307455,
+        "known_for_department": "Directing",
+        "name": "Raúl Pardo G.",
+        "original_name": "Luis Raúl Pardo González",
+        "popularity": 0.7085,
+        "profile_path": "/kA8Pxx445PdUfo2R3XRvaxznpls.jpg",
+        "credit_id": "68cd8a58a6c9b8821c748dd7",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5307455,
+        "known_for_department": "Directing",
+        "name": "Raúl Pardo G.",
+        "original_name": "Luis Raúl Pardo González",
+        "popularity": 0.7085,
+        "profile_path": "/kA8Pxx445PdUfo2R3XRvaxznpls.jpg",
+        "credit_id": "68cd8a648ec1c32f4497cdbe",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5326768,
+        "known_for_department": "Sound",
+        "name": "Kevin Saviñón",
+        "original_name": "Kevin Saviñón",
+        "popularity": 0.1343,
+        "profile_path": null,
+        "credit_id": "68cd8ab72baabdf9e9748def",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5307452,
+        "known_for_department": "Camera",
+        "name": "Alan Ríos",
+        "original_name": "Alan Ríos",
+        "popularity": 0.2338,
+        "profile_path": "/ZjV1Dfws4VCj2JsurasWOyxr3H.jpg",
+        "credit_id": "68cd8ac25315e3b9e2748e2f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5307452,
+        "known_for_department": "Camera",
+        "name": "Alan Ríos",
+        "original_name": "Alan Ríos",
+        "popularity": 0.2338,
+        "profile_path": "/ZjV1Dfws4VCj2JsurasWOyxr3H.jpg",
+        "credit_id": "68cd8acd4dd0410a64748e28",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5326787,
+        "known_for_department": "Camera",
+        "name": "Valeria Olmedo",
+        "original_name": "Valeria Olmedo",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "68cd8ae25e2bcb5439748e3b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5698918,
+        "known_for_department": "Sound",
+        "name": "Mario Reyes",
+        "original_name": "Mario Reyes",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "68cd8b43c835f4eb2ccc2a4b",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5307428,
+        "known_for_department": "Directing",
+        "name": "Julio Cesar Silva",
+        "original_name": "Julio César Silva",
+        "popularity": 0.217,
+        "profile_path": "/xgIhCnUDuOQU6cGO6sUk2X99MXM.jpg",
+        "credit_id": "68cd8b512baabdf9e9748dfa",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5307428,
+        "known_for_department": "Directing",
+        "name": "Julio Cesar Silva",
+        "original_name": "Julio César Silva",
+        "popularity": 0.217,
+        "profile_path": "/xgIhCnUDuOQU6cGO6sUk2X99MXM.jpg",
+        "credit_id": "68cd8b69c835f4eb2ccc2a50",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5307428,
+        "known_for_department": "Directing",
+        "name": "Julio Cesar Silva",
+        "original_name": "Julio César Silva",
+        "popularity": 0.217,
+        "profile_path": "/xgIhCnUDuOQU6cGO6sUk2X99MXM.jpg",
+        "credit_id": "68cd8b74552d66bc3e7a3a6f",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5326787,
+        "known_for_department": "Camera",
+        "name": "Valeria Olmedo",
+        "original_name": "Valeria Olmedo",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "68cd8b8c9cd23d1be7cc29cd",
+        "department": "Production",
+        "job": "Post Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5403703,
+        "known_for_department": "Directing",
+        "name": "Alejandra López Alvarado",
+        "original_name": "Alejandra López Alvarado",
+        "popularity": 0.0886,
+        "profile_path": null,
+        "credit_id": "68cd8bfe844a1f0e1efe8a46",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5698920,
+        "known_for_department": "Directing",
+        "name": "Gabriela Falcón",
+        "original_name": "Gabriela Falcón",
+        "popularity": 0.057,
+        "profile_path": null,
+        "credit_id": "68cd8c13c372f8082697cdc8",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 5307433,
+        "known_for_department": "Camera",
+        "name": "Alann Tew",
+        "original_name": "Alann Tew",
+        "popularity": 0.1102,
+        "profile_path": "/a1dzQXPGWPy75ANVD1cP3qnnPBY.jpg",
+        "credit_id": "68cd8c26c372f8082697cdcb",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5698934,
+        "known_for_department": "Camera",
+        "name": "Mercedes Santiago",
+        "original_name": "Mercedes Santiago",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68cd8dc9cb57157b6397cdd5",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3269956,
+        "known_for_department": "Directing",
+        "name": "Uxmal Álvarez Trejo",
+        "original_name": "Uxmal Alvarez Trejo",
+        "popularity": 0.1464,
+        "profile_path": "/ye71kOenQDhSOyczmtOBEBB9YSP.jpg",
+        "credit_id": "68cd8dd75bd01524f4fe8a5f",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5307717,
+        "known_for_department": "Writing",
+        "name": "David Ballesteros",
+        "original_name": "David Ballesteros",
+        "popularity": 0.0509,
+        "profile_path": null,
+        "credit_id": "68cd8dee14789c92b3d40df0",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5698947,
+        "known_for_department": "Production",
+        "name": "Carlos Orozco",
+        "original_name": "Carlos Orozco",
+        "popularity": 0.0804,
+        "profile_path": null,
+        "credit_id": "68cd8f1a4a73372dcdceb8ea",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4072909,
+        "known_for_department": "Art",
+        "name": "Metztli Ollin",
+        "original_name": "Metztli Ramírez",
+        "popularity": 0.0762,
+        "profile_path": null,
+        "credit_id": "68cd988c2baabdf9e9748e3f",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4072909,
+        "known_for_department": "Art",
+        "name": "Metztli Ollin",
+        "original_name": "Metztli Ramírez",
+        "popularity": 0.0762,
+        "profile_path": null,
+        "credit_id": "68cd9893930a49446dac7687",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4072909,
+        "known_for_department": "Art",
+        "name": "Metztli Ollin",
+        "original_name": "Metztli Ramírez",
+        "popularity": 0.0762,
+        "profile_path": null,
+        "credit_id": "68cd9899bdfacb84a7cd6ce6",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 263548,
+        "name": "short film"
+      },
+      {
+        "id": 287519,
+        "name": "film student"
+      },
+      {
+        "id": 289406,
+        "name": "enac"
+      },
+      {
+        "id": 299885,
+        "name": "unam"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Artemio, a young man with financial problems, returns to his apartment after a long day of work to find his cat, Franz, gravely ill.",
+          "runtime": 7,
+          "tagline": "",
+          "title": "I Plead Time Does Not Take You Away"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/pPvFHu0WyJ5uwxC3SdRz2QFmvOE.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/i3qyDgWEtHe2mVsV49Mgs5wTzKn.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "2nd No Somos de Cristal: Youth Film Festival of Guadalajara",
+            "release_date": "2025-05-08T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

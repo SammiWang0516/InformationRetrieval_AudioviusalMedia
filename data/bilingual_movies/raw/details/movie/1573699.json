@@ -1,0 +1,506 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 8000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 1573699,
+  "imdb_id": "tt31988175",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Theater Kid",
+  "overview": "Theater Kid is a musical drama which focuses on the relationship between Kenneth and Jane, the two leads of their high school's upcoming winter musical.",
+  "popularity": 0.9359,
+  "poster_path": "/AoFA8sl4fihcvC5TcrgPpb9YyD0.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2025-04-06",
+  "revenue": 0,
+  "runtime": 15,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "See. Him. Dance.",
+  "title": "Theater Kid",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4075904,
+        "known_for_department": "Acting",
+        "name": "Alena Mauhs",
+        "original_name": "Alena Mauhs",
+        "popularity": 0.3439,
+        "profile_path": "/bL8y3l0CUQnUmLNOg1Yf7b19m7P.jpg",
+        "cast_id": 1,
+        "character": "Jane",
+        "credit_id": "6908149d45c8aa6128f93138",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4075905,
+        "known_for_department": "Acting",
+        "name": "Curran Seth",
+        "original_name": "Curran Seth",
+        "popularity": 0.1582,
+        "profile_path": "/4m3lITKzuzpSScz1hBnDGIjIcS7.jpg",
+        "cast_id": 2,
+        "character": "Kenneth",
+        "credit_id": "690814b145c8aa6128f9313c",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1074125,
+        "known_for_department": "Acting",
+        "name": "Peyton Kennedy",
+        "original_name": "Peyton Kennedy",
+        "popularity": 0.5521,
+        "profile_path": "/45U2xwnC5plfyDtNmTSvFPVD8aU.jpg",
+        "cast_id": 3,
+        "character": "Friend Peyton",
+        "credit_id": "690814cf0c1bd0a525f93188",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5792484,
+        "known_for_department": "Acting",
+        "name": "Zackery Mondin",
+        "original_name": "Zackery Mondin",
+        "popularity": 0.0818,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Freshman Zack",
+        "credit_id": "69081500de9e86f7d92fecbf",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5792485,
+        "known_for_department": "Acting",
+        "name": "Sasha Von Sydow",
+        "original_name": "Sasha Von Sydow",
+        "popularity": 0.1581,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Ensemble",
+        "credit_id": "6908151ac9e03067f7463f9e",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5792486,
+        "known_for_department": "Acting",
+        "name": "Deborah Feisa",
+        "original_name": "Deborah Feisa",
+        "popularity": 0.1324,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Ensemble",
+        "credit_id": "690815280c1bd0a525f93193",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5792488,
+        "known_for_department": "Acting",
+        "name": "Wells Hodder",
+        "original_name": "Wells Hodder",
+        "popularity": 0.2158,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Ensemble",
+        "credit_id": "6908153b136f7487fdf9373b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5792491,
+        "known_for_department": "Acting",
+        "name": "Eli Morse",
+        "original_name": "Eli Morse",
+        "popularity": 0.1274,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Ensemble",
+        "credit_id": "69081562782a47ddaf472c74",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5792498,
+        "known_for_department": "Acting",
+        "name": "Benji Wolmark",
+        "original_name": "Benji Wolmark",
+        "popularity": 0.0525,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Ensemble",
+        "credit_id": "6908159c1369fc80002fedd3",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5792500,
+        "known_for_department": "Acting",
+        "name": "Isabella Anderson-Hinn",
+        "original_name": "Isabella Anderson-Hinn",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Gymnast",
+        "credit_id": "690815b456062f6ec5f93301",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1793283,
+        "known_for_department": "Acting",
+        "name": "Phillip Caires",
+        "original_name": "Phillip Caires",
+        "popularity": 0.1894,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Director",
+        "credit_id": "690815f838195f6a2af93282",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4075886,
+        "known_for_department": "Directing",
+        "name": "Liam Burns",
+        "original_name": "Liam Burns",
+        "popularity": 0.0812,
+        "profile_path": null,
+        "credit_id": "6908161422e808726a598409",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4083026,
+        "known_for_department": "Directing",
+        "name": "Destiny Hernandez",
+        "original_name": "Destiny Hernandez",
+        "popularity": 0.0915,
+        "profile_path": null,
+        "credit_id": "6908165e22e808726a598411",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4599151,
+        "known_for_department": "Writing",
+        "name": "Joey Buzzella",
+        "original_name": "Joey Buzzella",
+        "popularity": 0.0813,
+        "profile_path": null,
+        "credit_id": "6908168ac9a0319556dd864c",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4869551,
+        "known_for_department": "Camera",
+        "name": "Lucas Frazier",
+        "original_name": "Lucas Frazier",
+        "popularity": 0.0774,
+        "profile_path": null,
+        "credit_id": "690816b7b15b07b06ee130e3",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4075888,
+        "known_for_department": "Crew",
+        "name": "Brandon Tran",
+        "original_name": "Brandon Tran",
+        "popularity": 0.1541,
+        "profile_path": null,
+        "credit_id": "690816e9ddcc21c40cdd87ad",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4116039,
+        "known_for_department": "Camera",
+        "name": "Andrew St. John",
+        "original_name": "Andrew St. John",
+        "popularity": 0.2195,
+        "profile_path": null,
+        "credit_id": "690816ff410d559b8a4c87af",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4075908,
+        "known_for_department": "Acting",
+        "name": "Reed Gaynor",
+        "original_name": "Reed Gaynor",
+        "popularity": 0.0708,
+        "profile_path": null,
+        "credit_id": "6908171ab257dca5f9081755",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5792522,
+        "known_for_department": "Camera",
+        "name": "Jackson Demelo",
+        "original_name": "Jackson Demelo",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6908172b5058e6f1722fed2e",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4075903,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Louise Bill",
+        "original_name": "Louise Bill",
+        "popularity": 0.1625,
+        "profile_path": null,
+        "credit_id": "690817621be149ee3de13102",
+        "department": "Art",
+        "job": "Assistant Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4116042,
+        "known_for_department": "Sound",
+        "name": "Trevor Hilton",
+        "original_name": "Trevor Hilton",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "69081770f0dff3c3572fee12",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4116036,
+        "known_for_department": "Directing",
+        "name": "Sawyer Nicoll",
+        "original_name": "Sawyer Nicoll",
+        "popularity": 0.498,
+        "profile_path": null,
+        "credit_id": "690817805cb195a961472ba1",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4075899,
+        "known_for_department": "Art",
+        "name": "Natalia Gagliano",
+        "original_name": "Natalia Gagliano",
+        "popularity": 0.1428,
+        "profile_path": null,
+        "credit_id": "690817a3783661a1262fed1c",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4075904,
+        "known_for_department": "Acting",
+        "name": "Alena Mauhs",
+        "original_name": "Alena Mauhs",
+        "popularity": 0.3439,
+        "profile_path": "/bL8y3l0CUQnUmLNOg1Yf7b19m7P.jpg",
+        "credit_id": "690817e342d3d7b733dd8911",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4075889,
+        "known_for_department": "Production",
+        "name": "Sehaj Basrai",
+        "original_name": "Sehaj Basrai",
+        "popularity": 0.0962,
+        "profile_path": null,
+        "credit_id": "690817fbd466743a1ce12d71",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4075886,
+        "known_for_department": "Directing",
+        "name": "Liam Burns",
+        "original_name": "Liam Burns",
+        "popularity": 0.0812,
+        "profile_path": null,
+        "credit_id": "6908180a38195f6a2af93291",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Theater Kid is a musical drama which focuses on the relationship between Kenneth and Jane, the two leads of their high school's upcoming winter musical.",
+          "runtime": 15,
+          "tagline": "See. Him. Dance.",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt31988175",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.675,
+        "height": 2963,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/AoFA8sl4fihcvC5TcrgPpb9YyD0.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 900,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/rFrS3eua9r2qk1JKrVejQzOxFhC.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 600
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/6AGi8gHxoxAUIbgeydEdD3QdMCP.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1200
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "Beverly Hills Film Festival",
+            "release_date": "2025-04-06T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "San Luis Obispo International Film Festival",
+            "release_date": "2025-05-26T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Theater Kid (2025) Trailer",
+        "key": "ZYZg0g5BiFw",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "6908188d272d99de6a08196c",
+        "published_at": "2025-11-03T02:29:18.000Z"
+      }
+    ]
+  }
+}

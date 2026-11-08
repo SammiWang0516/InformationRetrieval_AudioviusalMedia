@@ -1,0 +1,588 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "",
+  "id": 1717850,
+  "imdb_id": "tt39254839",
+  "origin_country": [
+    "CZ"
+  ],
+  "original_language": "en",
+  "original_title": "The Future Shapes the Past: The Hilsner Case",
+  "overview": "",
+  "popularity": 0.8673,
+  "poster_path": "/2N2Ybp7L9s5yLQlbr1meYiuz2zL.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-12-14",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "Český"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "\"History is not a tourist attraction, but a witness to the future.\" - Michael March",
+  "title": "The Future Shapes the Past: The Hilsner Case",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6297624,
+        "known_for_department": "Acting",
+        "name": "Bryan Felber",
+        "original_name": "Bryan Felber",
+        "popularity": 0.2565,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "director",
+        "credit_id": "6a36475e1d8924e1c9e9b6da",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6297619,
+        "known_for_department": "Acting",
+        "name": "Jan Prchal",
+        "original_name": "Jan Prchal",
+        "popularity": 0.0985,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "interviewee",
+        "credit_id": "6a3646b9aed48596d9e6fbc2",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2319658,
+        "known_for_department": "Writing",
+        "name": "Martin Šmok",
+        "original_name": "Martin Šmok",
+        "popularity": 0.4868,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "interviewee",
+        "credit_id": "6a6871aa684774d225945a95",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6374861,
+        "known_for_department": "Acting",
+        "name": "Hillel Kieval",
+        "original_name": "Hillel Kieval",
+        "popularity": 0.0694,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "interviewee",
+        "credit_id": "6a6871c11366b331a768a25f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2908078,
+        "known_for_department": "Crew",
+        "name": "Jaroslav Mareš",
+        "original_name": "Jaroslav Mareš",
+        "popularity": 0.3163,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "interviewee",
+        "credit_id": "6a364709059b055c05d799cf",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2415794,
+        "known_for_department": "Acting",
+        "name": "Jaroslav Róna",
+        "original_name": "Jaroslav Róna",
+        "popularity": 0.3652,
+        "profile_path": "/o9vkco1sfLJlCXjFKb6DyApftAj.jpg",
+        "cast_id": 3,
+        "character": "interviewee",
+        "credit_id": "6a364713dcceea5a1c2d1bbf",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2273414,
+        "known_for_department": "Directing",
+        "name": "Pavel Štingl",
+        "original_name": "Pavel Štingl",
+        "popularity": 0.3384,
+        "profile_path": "/pVAwSgf1E8M7U1yQbyKYPYjrvF3.jpg",
+        "cast_id": 4,
+        "character": "interviewee",
+        "credit_id": "6a36473e51c9179654271537",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2101859,
+        "known_for_department": "Acting",
+        "name": "Kateřina Čapková",
+        "original_name": "Kateřina Čapková",
+        "popularity": 0.0829,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "interviewee",
+        "credit_id": "6a364937da14c781b02d1943",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6297626,
+        "known_for_department": "Acting",
+        "name": "Jan Fichtner",
+        "original_name": "Jan Fichtner",
+        "popularity": 0.052,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "interviewee",
+        "credit_id": "6a36495373eae6b49ad79a8c",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1537651,
+        "known_for_department": "Writing",
+        "name": "Karol Sidon",
+        "original_name": "Karol Sidon",
+        "popularity": 0.1932,
+        "profile_path": "/hcmLak70uL7ifEDT6q8y0UdKQwG.jpg",
+        "cast_id": 12,
+        "character": "interviewee",
+        "credit_id": "6a364985b0297d39a9f37f96",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5603675,
+        "known_for_department": "Sound",
+        "name": "Ivan Prokop",
+        "original_name": "Ivan Prokop",
+        "popularity": 0.0742,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "interviewee",
+        "credit_id": "6a68722921eaba60caed1552",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6374870,
+        "known_for_department": "Acting",
+        "name": "Charles Heller",
+        "original_name": "Charles Heller",
+        "popularity": 0.0747,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "interviewee",
+        "credit_id": "6a6872620124800e70ed163e",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6374873,
+        "known_for_department": "Acting",
+        "name": "Petr Vašíček",
+        "original_name": "Petr Vašíček",
+        "popularity": 0.1208,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "interviewee",
+        "credit_id": "6a68727b30dc9f9ceeed17a2",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6374876,
+        "known_for_department": "Acting",
+        "name": "Marta Vomelová",
+        "original_name": "Marta Vomelová",
+        "popularity": 0.1179,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "interviewee",
+        "credit_id": "6a68728913ab122f4aed14f3",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6374878,
+        "known_for_department": "Acting",
+        "name": "Michael March",
+        "original_name": "Michael March",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "poet",
+        "credit_id": "6a6872a769ce892faa9459bd",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6374881,
+        "known_for_department": "Acting",
+        "name": "Miroslav Vomela",
+        "original_name": "Miroslav Vomela",
+        "popularity": 0.0867,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "interviewee",
+        "credit_id": "6a6872b6a55768ef4f10008a",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6374882,
+        "known_for_department": "Acting",
+        "name": "Renata Písková",
+        "original_name": "Renata Písková",
+        "popularity": 0.0386,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "interviewee",
+        "credit_id": "6a6872c1a55768ef4f100095",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6374883,
+        "known_for_department": "Acting",
+        "name": "Lubomír Müller",
+        "original_name": "Lubomír Müller",
+        "popularity": 0.0904,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "interviewee",
+        "credit_id": "6a6872e7ae3d9ba4b44f6940",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6374884,
+        "known_for_department": "Acting",
+        "name": "Mario Morini",
+        "original_name": "Mario Morini",
+        "popularity": 0.0384,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "interviewee",
+        "credit_id": "6a6872f621eaba60caed1570",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6374886,
+        "known_for_department": "Acting",
+        "name": "Ben Ratskoff",
+        "original_name": "Ben Ratskoff",
+        "popularity": 0.065,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "interviewee",
+        "credit_id": "6a68730e0124800e70ed1663",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6374888,
+        "known_for_department": "Acting",
+        "name": "Anna Hájková",
+        "original_name": "Anna Hájková",
+        "popularity": 0.0435,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "interviwee",
+        "credit_id": "6a68732469ce892faa9459cb",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6374890,
+        "known_for_department": "Acting",
+        "name": "Trevor Sage",
+        "original_name": "Trevor Sage",
+        "popularity": 0.0507,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "interviewee",
+        "credit_id": "6a687330ae3d9ba4b44f6950",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6374891,
+        "known_for_department": "Acting",
+        "name": "Šimon Fiala",
+        "original_name": "Šimon Fiala",
+        "popularity": 0.1265,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "interviewee",
+        "credit_id": "6a68733b3764abddec689f62",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6374893,
+        "known_for_department": "Acting",
+        "name": "Vojtěch Blodig",
+        "original_name": "Vojtěch Blodig",
+        "popularity": 0.0388,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "interviewee",
+        "credit_id": "6a687346f8ad380905147157",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6374894,
+        "known_for_department": "Acting",
+        "name": "František Bányai",
+        "original_name": "František Bányai",
+        "popularity": 0.0425,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "interviewee",
+        "credit_id": "6a68735653fd80e0750fff8e",
+        "order": 24
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6297624,
+        "known_for_department": "Acting",
+        "name": "Bryan Felber",
+        "original_name": "Bryan Felber",
+        "popularity": 0.2565,
+        "profile_path": null,
+        "credit_id": "6a364779bb72af630689855b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6297624,
+        "known_for_department": "Acting",
+        "name": "Bryan Felber",
+        "original_name": "Bryan Felber",
+        "popularity": 0.2565,
+        "profile_path": null,
+        "credit_id": "6a36479950c2a3f556271790",
+        "department": "Writing",
+        "job": "Scenario Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6246883,
+        "known_for_department": "Acting",
+        "name": "Dheeraj Thakur",
+        "original_name": "Dheeraj Thakur",
+        "popularity": 0.1868,
+        "profile_path": null,
+        "credit_id": "6a3647e3e96706ba2f4d8aec",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2917192,
+        "known_for_department": "Sound",
+        "name": "Jan Vacek",
+        "original_name": "Jan Vacek",
+        "popularity": 0.1176,
+        "profile_path": null,
+        "credit_id": "6a364905da14c781b02d193c",
+        "department": "Sound",
+        "job": "Location Sound Mixer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 10144,
+        "name": "antisemitism"
+      },
+      {
+        "id": 33722,
+        "name": "true crime"
+      },
+      {
+        "id": 245769,
+        "name": "jewish history"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "CZ",
+        "iso_639_1": "cs",
+        "name": "Český",
+        "english_name": "Czech",
+        "data": {
+          "homepage": "https://www.steelantproductions.com/",
+          "overview": "V roce 1899 vyvolala vražda mladé ženy ve městě Polná krvavou pomluvu, která vešla do dějin jako hilsneriáda. Nové důkazy ukazují na skutečného pachatele, ale české soudy odmítají očistit židovského muže obviněného z vraždy.  In 1899, the murder of a young woman in the woods of Bohemia sparked a blood libel that still haunts the Czech Republic today. More than a century later, the Czech justice system has never overturned the verdict against Leopold Hilsner, the Jewish man wrongly convicted in one of the country’s most infamous antisemitic political trials. Can a nation truly confront its role in the Holocaust while this injustice still stands?",
+          "runtime": 80,
+          "tagline": "",
+          "title": "Budoucnost utváří minulost: Kauza Hilsner"
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "\"History is not a tourist attraction, but a witness to the future.\" - Michael March",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "CZ",
+        "title": "Budoucnost utváří minulost: Kauza Hilsner",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "The Future Shapes the Past: The Hilsner Case",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt39254839",
+    "wikidata_id": null,
+    "facebook_id": "profile.php",
+    "instagram_id": "steelant_productions",
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.75,
+        "height": 1333,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/2N2Ybp7L9s5yLQlbr1meYiuz2zL.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-11-15T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "12+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-07-02T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Santa Clarita International Film Festival",
+            "release_date": "2025-12-14T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

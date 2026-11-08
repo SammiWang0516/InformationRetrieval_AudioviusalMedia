@@ -1,0 +1,464 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1473425,
+  "imdb_id": "tt35650342",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "PINPOINT",
+  "overview": "Driven by school pressures and unhealthy obsessions, a med student chases success by any means.",
+  "popularity": 1.0268,
+  "poster_path": "/2FBusiZbdYmd0ulhgKu5E0tzsrk.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2025-10-17",
+  "revenue": 0,
+  "runtime": 16,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "PINPOINT",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3528198,
+        "known_for_department": "Directing",
+        "name": "Michael Merlino",
+        "original_name": "Michael Merlino",
+        "popularity": 0.2932,
+        "profile_path": "/iK4TYDEQQIWsgCZZdXcDogeH8hb.jpg",
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "6812b6e64b041a66f6aeb4d5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3200176,
+        "known_for_department": "Acting",
+        "name": "Pete Berwick",
+        "original_name": "Pete Berwick",
+        "popularity": 0.5551,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "6812b7365cfd0313f8567c10",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3683510,
+        "known_for_department": "Crew",
+        "name": "Luke Venegas",
+        "original_name": "Luke Venegas",
+        "popularity": 0.1468,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "6812b749b8354664d714559f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3528207,
+        "known_for_department": "Acting",
+        "name": "Hannah Ignacio",
+        "original_name": "Hannah Ignacio",
+        "popularity": 0.2076,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "6812b76e70360b83351459a7",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5407589,
+        "known_for_department": "Acting",
+        "name": "Sara Vianna",
+        "original_name": "Sara Vianna",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "6812b7779862082665a0f13a",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4110479,
+        "known_for_department": "Acting",
+        "name": "Brian McCreadie",
+        "original_name": "Brian McCreadie",
+        "popularity": 0.0423,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "6812b79612e5cea88390fd21",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3528198,
+        "known_for_department": "Directing",
+        "name": "Michael Merlino",
+        "original_name": "Michael Merlino",
+        "popularity": 0.2932,
+        "profile_path": "/iK4TYDEQQIWsgCZZdXcDogeH8hb.jpg",
+        "credit_id": "6812b7c3786cc42edc90fd2e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3528198,
+        "known_for_department": "Directing",
+        "name": "Michael Merlino",
+        "original_name": "Michael Merlino",
+        "popularity": 0.2932,
+        "profile_path": "/iK4TYDEQQIWsgCZZdXcDogeH8hb.jpg",
+        "credit_id": "6812b7ce78ff6c1ed09b3811",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3528198,
+        "known_for_department": "Directing",
+        "name": "Michael Merlino",
+        "original_name": "Michael Merlino",
+        "popularity": 0.2932,
+        "profile_path": "/iK4TYDEQQIWsgCZZdXcDogeH8hb.jpg",
+        "credit_id": "6812b7d912e5cea88390fd41",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3528207,
+        "known_for_department": "Acting",
+        "name": "Hannah Ignacio",
+        "original_name": "Hannah Ignacio",
+        "popularity": 0.2076,
+        "profile_path": null,
+        "credit_id": "6812b7e7bea19cdd9927ee8b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3528198,
+        "known_for_department": "Directing",
+        "name": "Michael Merlino",
+        "original_name": "Michael Merlino",
+        "popularity": 0.2932,
+        "profile_path": "/iK4TYDEQQIWsgCZZdXcDogeH8hb.jpg",
+        "credit_id": "6812b803bea19cdd9927ee97",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3683518,
+        "known_for_department": "Sound",
+        "name": "Cassidy Winston",
+        "original_name": "Cassidy Winston",
+        "popularity": 0.0536,
+        "profile_path": null,
+        "credit_id": "6812b8a155e1c3490b9b37d7",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3528207,
+        "known_for_department": "Acting",
+        "name": "Hannah Ignacio",
+        "original_name": "Hannah Ignacio",
+        "popularity": 0.2076,
+        "profile_path": null,
+        "credit_id": "6812b8b578ff6c1ed09b3841",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3683510,
+        "known_for_department": "Crew",
+        "name": "Luke Venegas",
+        "original_name": "Luke Venegas",
+        "popularity": 0.1468,
+        "profile_path": null,
+        "credit_id": "6812b8dcd27aa7f78629b87b",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5407602,
+        "known_for_department": "Camera",
+        "name": "Rainier Dela Cruz",
+        "original_name": "Rainier Dela Cruz",
+        "popularity": 0.1219,
+        "profile_path": null,
+        "credit_id": "6812b9083e311a273202099c",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5407603,
+        "known_for_department": "Camera",
+        "name": "Gabrielle Dacuycuy",
+        "original_name": "Gabrielle Dacuycuy",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6812b91b786cc42edc90fd3f",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5203627,
+        "known_for_department": "Art",
+        "name": "Mishka Witkin",
+        "original_name": "Mishka Witkin",
+        "popularity": 0.0494,
+        "profile_path": null,
+        "credit_id": "6812b930c27e6f183a02076a",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4303031,
+        "known_for_department": "Sound",
+        "name": "Jonah Fiden",
+        "original_name": "Jonah Fiden",
+        "popularity": 0.0855,
+        "profile_path": null,
+        "credit_id": "6812b9449c95e7c112567c07",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4803081,
+        "known_for_department": "Sound",
+        "name": "Hannah Vrbancic",
+        "original_name": "Hannah Vrbancic",
+        "popularity": 0.0489,
+        "profile_path": null,
+        "credit_id": "6812b94f3e4d23e50827f003",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5203627,
+        "known_for_department": "Art",
+        "name": "Mishka Witkin",
+        "original_name": "Mishka Witkin",
+        "popularity": 0.0494,
+        "profile_path": null,
+        "credit_id": "6812b96bab716497b890fd29",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5407602,
+        "known_for_department": "Camera",
+        "name": "Rainier Dela Cruz",
+        "original_name": "Rainier Dela Cruz",
+        "popularity": 0.1219,
+        "profile_path": null,
+        "credit_id": "6812b978085aeb74ef9b37d7",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5407607,
+        "known_for_department": "Production",
+        "name": "Anna Katz",
+        "original_name": "Anna Katz",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "6812b9a0b12f788e7490fd4f",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5407611,
+        "known_for_department": "Camera",
+        "name": "Luis Rocha",
+        "original_name": "Luis Rocha",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6812b9fe3c7bd941b60552e4",
+        "department": "Camera",
+        "job": "BTS Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5407621,
+        "known_for_department": "Camera",
+        "name": "Brandon Rocha",
+        "original_name": "Brandon Rocha",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6812baeb886b4558f40555f6",
+        "department": "Camera",
+        "job": "BTS Videographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3528198,
+        "known_for_department": "Directing",
+        "name": "Michael Merlino",
+        "original_name": "Michael Merlino",
+        "popularity": 0.2932,
+        "profile_path": "/iK4TYDEQQIWsgCZZdXcDogeH8hb.jpg",
+        "credit_id": "6812bbd1359b4df69e567e03",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3528198,
+        "known_for_department": "Directing",
+        "name": "Michael Merlino",
+        "original_name": "Michael Merlino",
+        "popularity": 0.2932,
+        "profile_path": "/iK4TYDEQQIWsgCZZdXcDogeH8hb.jpg",
+        "credit_id": "6812bc0b2b8ae42086055306",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Driven by school pressures and unhealthy obsessions, a med student chases success by any means.",
+          "runtime": 16,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt35650342",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.664,
+        "height": 2048,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/2FBusiZbdYmd0ulhgKu5E0tzsrk.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1360
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "The Chicago International Film Festival",
+            "release_date": "2025-10-17T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2025-10-30T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

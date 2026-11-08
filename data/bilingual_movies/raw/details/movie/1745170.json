@@ -1,0 +1,814 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1745170,
+  "imdb_id": null,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "A Good Man 3",
+  "overview": "Ethan uses a secret dating app for married people looking for affairs. A new romantic link makes him doubt his choices while the police close in on him.",
+  "popularity": 0.9734,
+  "poster_path": "/8h2Zv0daZZsrxJLnPIKW3VymLBf.jpg",
+  "production_companies": [
+    {
+      "id": 153734,
+      "logo_path": "/bsgAvAzw5U06P73A3n1pqeFiu4F.png",
+      "name": "Tubi",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-08-07",
+  "revenue": 0,
+  "runtime": 119,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "A Good Man 3",
+  "video": false,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4027543,
+        "known_for_department": "Acting",
+        "name": "Kamal Smith",
+        "original_name": "Kamal Smith",
+        "popularity": 0.4219,
+        "profile_path": "/vEBb0o77USb9BG6hFeTnFoGQDkU.jpg",
+        "cast_id": 1,
+        "character": "Ethan Carter",
+        "credit_id": "6ab9f576fdcff3cd08ddbae7",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5548788,
+        "known_for_department": "Acting",
+        "name": "Syreeta O",
+        "original_name": "Syreeta O",
+        "popularity": 0.2374,
+        "profile_path": "/im9vca0o6RrdN13mFMQ03OOqWWZ.jpg",
+        "cast_id": 2,
+        "character": "Cierra",
+        "credit_id": "6ab9f583bd441d2a96ddbb34",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4854119,
+        "known_for_department": "Acting",
+        "name": "Ro Spit",
+        "original_name": "Ro Spit",
+        "popularity": 0.1105,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Shamar",
+        "credit_id": "6ab9f5cb409241be641b713a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3869158,
+        "known_for_department": "Acting",
+        "name": "Nikia \"Kia B\" Briggs",
+        "original_name": "Nikia \"Kia B\" Briggs",
+        "popularity": 0.6944,
+        "profile_path": "/3et1QmOAZeWhqOZvXQlkMYXbQwo.jpg",
+        "cast_id": 4,
+        "character": "London",
+        "credit_id": "6ab9f5d988737513e3ddbb4d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3683103,
+        "known_for_department": "Acting",
+        "name": "Johnathan C. Williams",
+        "original_name": "Johnathan C. Williams",
+        "popularity": 0.1676,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "James",
+        "credit_id": "6ab9f62a2de6b0a50921077a",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5625241,
+        "known_for_department": "Acting",
+        "name": "Devonna Prince",
+        "original_name": "Devonna Prince",
+        "popularity": 0.1526,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Carla",
+        "credit_id": "6ab9f6414ce98cb24521066e",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2493142,
+        "known_for_department": "Acting",
+        "name": "Marcus Woods",
+        "original_name": "Marcus Woods",
+        "popularity": 0.1479,
+        "profile_path": "/zbSRJFOUqB1sD3XjXRpoFh8kW3B.jpg",
+        "cast_id": 7,
+        "character": "Detective Owens",
+        "credit_id": "6ab9f65307ebf55c2704022c",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6298133,
+        "known_for_department": "Acting",
+        "name": "Robert Q. Jackson",
+        "original_name": "Robert Q. Jackson",
+        "popularity": 0.0826,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Matt",
+        "credit_id": "6ab9f664d61cbb68bc1b7093",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6510744,
+        "known_for_department": "Acting",
+        "name": "Diallo Alexander",
+        "original_name": "Diallo Alexander",
+        "popularity": 0.1454,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Bar Patron",
+        "credit_id": "6ab9f9d1a9ee0d9d8936ef45",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4086193,
+        "known_for_department": "Acting",
+        "name": "Epiphany Anderson",
+        "original_name": "Epiphany Anderson",
+        "popularity": 0.1657,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Tamar",
+        "credit_id": "6ab9f9e0af78ccbffe8f0453",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6511178,
+        "known_for_department": "Acting",
+        "name": "Ben Boulus",
+        "original_name": "Ben Boulus",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Detective",
+        "credit_id": "6aba26695ad4e696282110f0",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1759310,
+        "known_for_department": "Acting",
+        "name": "Gary Brunner",
+        "original_name": "Gary Brunner",
+        "popularity": 0.3185,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Captain Jaworski",
+        "credit_id": "6aba26834ce98cb245210993",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6574082,
+        "known_for_department": "Acting",
+        "name": "Demar Byas",
+        "original_name": "Demar Byas",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Detective",
+        "credit_id": "6addcf5c5a405ae1dae1c7a6",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6574084,
+        "known_for_department": "Acting",
+        "name": "Dashiki Conway",
+        "original_name": "Dashiki Conway",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Bar Patron",
+        "credit_id": "6addcf6b315bf80058e1c88f",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6574086,
+        "known_for_department": "Acting",
+        "name": "Ernest Cordell Jr.",
+        "original_name": "Ernest Cordell Jr.",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Detective",
+        "credit_id": "6addcf7db3a8491d83d82574",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5267754,
+        "known_for_department": "Acting",
+        "name": "Erin Ealy",
+        "original_name": "Erin Ealy",
+        "popularity": 0.2154,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Dr. Gordon",
+        "credit_id": "6addcf9a5a405ae1dae1c7b4",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5164048,
+        "known_for_department": "Acting",
+        "name": "Tulauni Felton",
+        "original_name": "Tulauni Felton",
+        "popularity": 0.0422,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Ethan's Mother",
+        "credit_id": "6addcfad7a0cf0752557701b",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6574094,
+        "known_for_department": "Acting",
+        "name": "Micah Grier",
+        "original_name": "Micah Grier",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Young James",
+        "credit_id": "6addd077f89a7f5d5bd825de",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5267753,
+        "known_for_department": "Acting",
+        "name": "Akeira Hamil",
+        "original_name": "Akeira Hamil",
+        "popularity": 0.178,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Bar Patron",
+        "credit_id": "6addd08740f2d18dff171939",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6574098,
+        "known_for_department": "Acting",
+        "name": "Ray Hopson",
+        "original_name": "Ray Hopson",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Bar Patron",
+        "credit_id": "6addd0a5cc61532970e1c8bd",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2549994,
+        "known_for_department": "Acting",
+        "name": "Dominic Jackson",
+        "original_name": "Dominic Jackson",
+        "popularity": 0.161,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Young Ethan",
+        "credit_id": "6addd0bc73459b7abe171b96",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2743315,
+        "known_for_department": "Acting",
+        "name": "Shelby Leigh",
+        "original_name": "Shelby Leigh",
+        "popularity": 0.3888,
+        "profile_path": "/oLhvREcfLE1vAaG4Tj6VDdR3O7F.jpg",
+        "cast_id": 22,
+        "character": "LaShawna",
+        "credit_id": "6addd0e8bbe807308a171b83",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6574101,
+        "known_for_department": "Acting",
+        "name": "Lina Monroe",
+        "original_name": "Lina Monroe",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Christy",
+        "credit_id": "6addd107448cea4018636969",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6574102,
+        "known_for_department": "Acting",
+        "name": "Tyrell O'Neal",
+        "original_name": "Tyrell O'Neal",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Detective",
+        "credit_id": "6addd11b50b0c49540d825e5",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4156541,
+        "known_for_department": "Acting",
+        "name": "Quentin Sharpe",
+        "original_name": "Quentin Sharpe",
+        "popularity": 0.3176,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Will",
+        "credit_id": "6addd13073459b7abe171b9f",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6472011,
+        "known_for_department": "Acting",
+        "name": "Alayna Sky",
+        "original_name": "Alayna Sky",
+        "popularity": 0.2191,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Cindy The Receptionist",
+        "credit_id": "6addd141dcd5194b9b9a9741",
+        "order": 25
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4027548,
+        "known_for_department": "Directing",
+        "name": "Joe Smith",
+        "original_name": "Joe Smith",
+        "popularity": 0.2283,
+        "profile_path": null,
+        "credit_id": "6addd182b3a8491d83d825f3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4027548,
+        "known_for_department": "Directing",
+        "name": "Joe Smith",
+        "original_name": "Joe Smith",
+        "popularity": 0.2283,
+        "profile_path": null,
+        "credit_id": "6addd18e7644202e01e1c902",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4027548,
+        "known_for_department": "Directing",
+        "name": "Joe Smith",
+        "original_name": "Joe Smith",
+        "popularity": 0.2283,
+        "profile_path": null,
+        "credit_id": "6addd19973ecb24214636982",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4027548,
+        "known_for_department": "Directing",
+        "name": "Joe Smith",
+        "original_name": "Joe Smith",
+        "popularity": 0.2283,
+        "profile_path": null,
+        "credit_id": "6addd1a86611064da8171a30",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4027543,
+        "known_for_department": "Acting",
+        "name": "Kamal Smith",
+        "original_name": "Kamal Smith",
+        "popularity": 0.4219,
+        "profile_path": "/vEBb0o77USb9BG6hFeTnFoGQDkU.jpg",
+        "credit_id": "6addd1c2a0ad02b9dce1c919",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4027543,
+        "known_for_department": "Acting",
+        "name": "Kamal Smith",
+        "original_name": "Kamal Smith",
+        "popularity": 0.4219,
+        "profile_path": "/vEBb0o77USb9BG6hFeTnFoGQDkU.jpg",
+        "credit_id": "6addd1cf358b81cfe5636b7a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3652003,
+        "known_for_department": "Production",
+        "name": "Thomas Pawlowski",
+        "original_name": "Thomas Pawlowski",
+        "popularity": 0.0439,
+        "profile_path": null,
+        "credit_id": "6addd1dfb3a8491d83d82605",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4728752,
+        "known_for_department": "Editing",
+        "name": "Charles \"Spudd\" Spence",
+        "original_name": "Charles \"Spudd\" Spence",
+        "popularity": 0.1026,
+        "profile_path": null,
+        "credit_id": "6addd1eff89a7f5d5bd825f2",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5410011,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Amber Cann",
+        "original_name": "Amber Cann",
+        "popularity": 0.4766,
+        "profile_path": null,
+        "credit_id": "6addd20a9f07ee6537576ef3",
+        "department": "Costume & Make-Up",
+        "job": "Hair Setup"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4041083,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Candice Fowler",
+        "original_name": "Candice Fowler",
+        "popularity": 0.1206,
+        "profile_path": null,
+        "credit_id": "6addd22433eb9fd64ae1c95a",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3743760,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jenai Leonard",
+        "original_name": "Jenai Leonard",
+        "popularity": 0.0415,
+        "profile_path": null,
+        "credit_id": "6addd2343031dfa461e1c884",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4188263,
+        "known_for_department": "Production",
+        "name": "Kamry Peake",
+        "original_name": "Kamry Peake",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "6addd24520eca6e931636bb9",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2743315,
+        "known_for_department": "Acting",
+        "name": "Shelby Leigh",
+        "original_name": "Shelby Leigh",
+        "popularity": 0.3888,
+        "profile_path": "/oLhvREcfLE1vAaG4Tj6VDdR3O7F.jpg",
+        "credit_id": "6addd256f74dc0ba349a96e6",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4007144,
+        "known_for_department": "Sound",
+        "name": "Andrew Elya",
+        "original_name": "Andrew Elya",
+        "popularity": 0.0425,
+        "profile_path": null,
+        "credit_id": "6addd268cc61532970e1c8f0",
+        "department": "Sound",
+        "job": "Sound Engineer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3628132,
+        "known_for_department": "Sound",
+        "name": "Travis B. Williams",
+        "original_name": "Travis B. Williams",
+        "popularity": 0.1271,
+        "profile_path": null,
+        "credit_id": "6addd27a547ac25036636c47",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3628132,
+        "known_for_department": "Sound",
+        "name": "Travis B. Williams",
+        "original_name": "Travis B. Williams",
+        "popularity": 0.1271,
+        "profile_path": null,
+        "credit_id": "6addd28b5a405ae1dae1c7f7",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3628132,
+        "known_for_department": "Sound",
+        "name": "Travis B. Williams",
+        "original_name": "Travis B. Williams",
+        "popularity": 0.1271,
+        "profile_path": null,
+        "credit_id": "6addd29653c2715ea09a9719",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5797245,
+        "known_for_department": "Lighting",
+        "name": "Reginald Branner",
+        "original_name": "Reginald Branner",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "6addd2a273ecb242146369ac",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6471979,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sheila Shoppz",
+        "original_name": "Sheila Shoppz",
+        "popularity": 0.2847,
+        "profile_path": null,
+        "credit_id": "6addd2c273459b7abe171bec",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3374156,
+        "known_for_department": "Production",
+        "name": "Nicole Coleman",
+        "original_name": "Nicole Coleman",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6addd2d03031dfa461e1c89e",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5267754,
+        "known_for_department": "Acting",
+        "name": "Erin Ealy",
+        "original_name": "Erin Ealy",
+        "popularity": 0.2154,
+        "profile_path": null,
+        "credit_id": "6addd2e1b3a8491d83d82645",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6472011,
+        "known_for_department": "Acting",
+        "name": "Alayna Sky",
+        "original_name": "Alayna Sky",
+        "popularity": 0.2191,
+        "profile_path": null,
+        "credit_id": "6addd2fb9b2dab3ec2d824d7",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6574113,
+        "known_for_department": "Production",
+        "name": "Elliott D.L. Ward",
+        "original_name": "Elliott D.L. Ward",
+        "popularity": 0.0573,
+        "profile_path": null,
+        "credit_id": "6addd30a6611064da8171a58",
+        "department": "Production",
+        "job": "Production Assistant"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 288394,
+        "name": "suspense"
+      },
+      {
+        "id": 315058,
+        "name": "horror"
+      },
+      {
+        "id": 316362,
+        "name": "thriller"
+      },
+      {
+        "id": 343880,
+        "name": "good  thriller"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Ethan uses a secret dating app for married people looking for affairs. A new romantic link makes him doubt his choices while the police close in on him.",
+          "runtime": 119,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.697,
+        "height": 1435,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/8h2Zv0daZZsrxJLnPIKW3VymLBf.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "R is closest to its \"TV-MA\" rating.",
+            "release_date": "2026-08-07T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

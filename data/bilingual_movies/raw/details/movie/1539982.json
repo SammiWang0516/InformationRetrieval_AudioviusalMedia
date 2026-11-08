@@ -1,0 +1,665 @@
+{
+  "adult": false,
+  "backdrop_path": "/cFoj1Cu3ebBWd8XdHY8GztUNVOP.jpg",
+  "belongs_to_collection": null,
+  "budget": 16000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1539982,
+  "imdb_id": "tt38611981",
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_title": "O Caçador",
+  "overview": "In the rural interior of Paraná, an elderly worker, ravaged by hunger, follows the trail of a mysterious black dog that hunts to survive.",
+  "popularity": 2.4021,
+  "poster_path": "/9UhNGVmg20xZ4iVAvCpVBoUVCQ9.jpg",
+  "production_companies": [
+    {
+      "id": 161000,
+      "logo_path": "/ar2qgXSKunvpj6VdDvlASPkC3di.png",
+      "name": "Sabará Filmes",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "release_date": "2026-03-31",
+  "revenue": 0,
+  "runtime": 20,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "\"Who do you want to love you, if not me?\"",
+  "title": "The Hunter",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2328599,
+        "known_for_department": "Acting",
+        "name": "Altamar Cezar",
+        "original_name": "Altamar Cezar",
+        "popularity": 0.1552,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Velho",
+        "credit_id": "68b734ea78edceaf8a3f0632",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2209569,
+        "known_for_department": "Acting",
+        "name": "Sidy Correa",
+        "original_name": "Sidy Correa",
+        "popularity": 0.5178,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Homem",
+        "credit_id": "68b734f6d69a48767254ed5b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3831846,
+        "known_for_department": "Acting",
+        "name": "Wenry Bueno",
+        "original_name": "Wenry Bueno",
+        "popularity": 0.3034,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Jovem",
+        "credit_id": "68b735067ddb1b490f201413",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5666677,
+        "known_for_department": "Acting",
+        "name": "Negão",
+        "original_name": "Negão",
+        "popularity": 0.407,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Cão",
+        "credit_id": "68b73526bf4d65d4132017b8",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2459728,
+        "known_for_department": "Directing",
+        "name": "Lucas Mancini",
+        "original_name": "Lucas Mancini",
+        "popularity": 0.0652,
+        "profile_path": "/kup7YnRa1lA36dLx1j63jmPmusf.jpg",
+        "credit_id": "68b7342068f7d3c525201431",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2653299,
+        "known_for_department": "Camera",
+        "name": "Michel Rautmann",
+        "original_name": "Michel Rautmann",
+        "popularity": 0.0892,
+        "profile_path": "/4XAZIsnXZAP0OlJBY6BqNdTKqMA.jpg",
+        "credit_id": "68b734328543bbf34d3f0f65",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2653302,
+        "known_for_department": "Art",
+        "name": "Clara Bressane",
+        "original_name": "Clara Bressane",
+        "popularity": 0.0358,
+        "profile_path": null,
+        "credit_id": "68b73467bc91fd85441589fe",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2195000,
+        "known_for_department": "Production",
+        "name": "Hugo Lobo Mejía",
+        "original_name": "Hugo Lobo Mejía",
+        "popularity": 0.2058,
+        "profile_path": null,
+        "credit_id": "68b734798eb22f307754f287",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2459728,
+        "known_for_department": "Directing",
+        "name": "Lucas Mancini",
+        "original_name": "Lucas Mancini",
+        "popularity": 0.0652,
+        "profile_path": "/kup7YnRa1lA36dLx1j63jmPmusf.jpg",
+        "credit_id": "68b734cafae73684bd158b40",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2653298,
+        "known_for_department": "Acting",
+        "name": "Brenda Sodré",
+        "original_name": "Brenda Sodré",
+        "popularity": 0.0913,
+        "profile_path": "/d9BjDfHh5qRx3anDDRF9y0JXu5H.jpg",
+        "credit_id": "68b7354002be9ac67f3986ba",
+        "department": "Directing",
+        "job": "Continuity"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2459728,
+        "known_for_department": "Directing",
+        "name": "Lucas Mancini",
+        "original_name": "Lucas Mancini",
+        "popularity": 0.0652,
+        "profile_path": "/kup7YnRa1lA36dLx1j63jmPmusf.jpg",
+        "credit_id": "68b735536e6580be24398548",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2195000,
+        "known_for_department": "Production",
+        "name": "Hugo Lobo Mejía",
+        "original_name": "Hugo Lobo Mejía",
+        "popularity": 0.2058,
+        "profile_path": null,
+        "credit_id": "68b7356165908b0fa82014e2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3139878,
+        "known_for_department": "Directing",
+        "name": "Mia Marzy",
+        "original_name": "Mia Marzy",
+        "popularity": 0.1833,
+        "profile_path": "/5VUJ0UIqhpj06cBqWXCDwZMQKws.jpg",
+        "credit_id": "68b73577fae73684bd158b53",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5666683,
+        "known_for_department": "Production",
+        "name": "Arnon Nogueira",
+        "original_name": "Arnon Nogueira",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68b735ab84d6596c221f2dcc",
+        "department": "Production",
+        "job": "Production Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3680434,
+        "known_for_department": "Art",
+        "name": "Jay Silva",
+        "original_name": "Jay Silva",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68b735c1775000a3dd3f0b21",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5538886,
+        "known_for_department": "Art",
+        "name": "Fer Bueno",
+        "original_name": "Fer Bueno",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68b735df9914898fd5398d88",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2653301,
+        "known_for_department": "Crew",
+        "name": "Monise Guaraldo",
+        "original_name": "Monise Guaraldo",
+        "popularity": 0.0886,
+        "profile_path": null,
+        "credit_id": "68b735fe450460b491398799",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2576145,
+        "known_for_department": "Acting",
+        "name": "Rebecca Rautmann",
+        "original_name": "Rebecca Rautmann",
+        "popularity": 0.0463,
+        "profile_path": "/5epIFDz3tmvSp2rNUh9shRTdbLg.jpg",
+        "credit_id": "68b736178b4a2674b09e273e",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4633983,
+        "known_for_department": "Directing",
+        "name": "Ana Torres",
+        "original_name": "Ana Torres",
+        "popularity": 0.0376,
+        "profile_path": null,
+        "credit_id": "68b7366c5890b17f293cdca8",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4441199,
+        "known_for_department": "Camera",
+        "name": "Maju Tohme",
+        "original_name": "Maju Tohme",
+        "popularity": 0.0413,
+        "profile_path": "/7uX2Hefc0ScPqPnpOlDBMyVFKUg.jpg",
+        "credit_id": "68b73681140789fd593cdc39",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4441199,
+        "known_for_department": "Camera",
+        "name": "Maju Tohme",
+        "original_name": "Maju Tohme",
+        "popularity": 0.0413,
+        "profile_path": "/7uX2Hefc0ScPqPnpOlDBMyVFKUg.jpg",
+        "credit_id": "68b73694b475d962e19e28df",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5666699,
+        "known_for_department": "Lighting",
+        "name": "Daniel Garcia",
+        "original_name": "Daniel Garcia",
+        "popularity": 0.0439,
+        "profile_path": null,
+        "credit_id": "68b736f67b0e28ad821f2f00",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5666701,
+        "known_for_department": "Lighting",
+        "name": "Gabriel Guerreiro",
+        "original_name": "Gabriel Guerreiro",
+        "popularity": 0.1079,
+        "profile_path": null,
+        "credit_id": "68b7372772909b2f681f2f46",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2757063,
+        "known_for_department": "Sound",
+        "name": "Vinicius Contiero",
+        "original_name": "Vinicius Contiero",
+        "popularity": 0.0556,
+        "profile_path": null,
+        "credit_id": "68b737617ce9979b913988e7",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2757063,
+        "known_for_department": "Sound",
+        "name": "Vinicius Contiero",
+        "original_name": "Vinicius Contiero",
+        "popularity": 0.0556,
+        "profile_path": null,
+        "credit_id": "68b7376f5890b17f293cdcb4",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5012390,
+        "known_for_department": "Sound",
+        "name": "Pitthi Zampronio",
+        "original_name": "Pitthi Zampronio",
+        "popularity": 0.1391,
+        "profile_path": null,
+        "credit_id": "68b737911c658d8eed3f0c30",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2289232,
+        "known_for_department": "Directing",
+        "name": "Gabriel Borges",
+        "original_name": "Gabriel Borges",
+        "popularity": 0.1514,
+        "profile_path": "/lRr3vdiOs2cMN73hJXw3TiqCHfL.jpg",
+        "credit_id": "68b737a57eda1c6aba1f2ee0",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2757063,
+        "known_for_department": "Sound",
+        "name": "Vinicius Contiero",
+        "original_name": "Vinicius Contiero",
+        "popularity": 0.0556,
+        "profile_path": null,
+        "credit_id": "68b737d83cafc9f12b54f2cd",
+        "department": "Sound",
+        "job": "Sound Post Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2447665,
+        "known_for_department": "Sound",
+        "name": "Tulio Borges",
+        "original_name": "Tulio Borges",
+        "popularity": 0.214,
+        "profile_path": null,
+        "credit_id": "68b737f4bbc812af9eb5001f",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5666724,
+        "known_for_department": "Art",
+        "name": "Lucas Demo",
+        "original_name": "Lucas Demo",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68b7382abbc812af9eb5002d",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2459728,
+        "known_for_department": "Directing",
+        "name": "Lucas Mancini",
+        "original_name": "Lucas Mancini",
+        "popularity": 0.0652,
+        "profile_path": "/kup7YnRa1lA36dLx1j63jmPmusf.jpg",
+        "credit_id": "69943807c6af8d459f6f73b8",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 18256,
+        "name": "spiritual"
+      },
+      {
+        "id": 251619,
+        "name": "rural"
+      },
+      {
+        "id": 254006,
+        "name": "paraná"
+      },
+      {
+        "id": 355672,
+        "name": "transcendental"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "In the rural interior of Paraná, an elderly worker, ravaged by hunger, follows the trail of a mysterious black dog that hunts to survive.",
+          "runtime": 20,
+          "tagline": "\"Who do you want to love you, if not me?\"",
+          "title": "The Hunter"
+        }
+      },
+      {
+        "iso_3166_1": "BR",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "homepage": "",
+          "overview": "No interior rural do Paraná, um trabalhador idoso, assolado pela fome, segue o rastro de um misterioso cachorro preto que caça para sobreviver.",
+          "runtime": 20,
+          "tagline": "Quem tu queres para amar-te, se não eu?",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "GB",
+        "title": "The Hunter",
+        "type": "Internacional"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt38611981",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "ocacadorfilme",
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/cFoj1Cu3ebBWd8XdHY8GztUNVOP.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/fDlWgHR7wI3KONlCR0SRC7rrF96.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/cS7LPmXwJ1FStg4EfOnrFQqFZO8.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/tJtxQyFynabGTcLT4l7zyKWrA4N.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/5Gzu2wGXcNVYUQcOMtbtEGBZAgv.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/xxomSwYay5yNFWlSCrWNKaGav7Y.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/u7B9T2Y5fDwfCBxt7RaAZiKk2Zq.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/A5zWW5425Q8titaJ5WLRdC8nRub.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      }
+    ],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "pt",
+            "note": "Olhar de Cinema - Festival Internacional de Cinema",
+            "release_date": "2026-06-07T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "12o Festival CineMistica",
+            "release_date": "2026-06-14T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "International Film Festival Delhi (IFFD)",
+            "release_date": "2026-03-31T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

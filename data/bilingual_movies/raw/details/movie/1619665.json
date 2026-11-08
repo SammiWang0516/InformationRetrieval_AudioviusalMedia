@@ -1,0 +1,739 @@
+{
+  "adult": false,
+  "backdrop_path": "/scajss1DdAZRvp1Im5j51xc45sW.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 1619665,
+  "imdb_id": null,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Too Many Cooks",
+  "overview": "A group of desperate musicians must complete favors for prospective band members in order to win a coveted music competition.",
+  "popularity": 0.8141,
+  "poster_path": "/jtc9JWsIMTEkHEin06CBMIzVeCz.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-01-22",
+  "revenue": 0,
+  "runtime": 13,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "Favor? Yeah, we're desperate.",
+  "title": "Too Many Cooks",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4423018,
+        "known_for_department": "Acting",
+        "name": "Sam Langenfeld",
+        "original_name": "Sam Langenfeld",
+        "popularity": 0.1403,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Riley",
+        "credit_id": "6970dff5be75f744d3fd1088",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5953488,
+        "known_for_department": "Acting",
+        "name": "Katharyn McNamara",
+        "original_name": "Katharyn McNamara",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Mac",
+        "credit_id": "6970e1703a08352b6a75752b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769221,
+        "known_for_department": "Production",
+        "name": "Daniel Shull",
+        "original_name": "Daniel Shull",
+        "popularity": 0.0435,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Morgan",
+        "credit_id": "6970e1803a08352b6a75752f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769253,
+        "known_for_department": "Crew",
+        "name": "Alex Persons",
+        "original_name": "Alex Persons",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Alex",
+        "credit_id": "6970e18cb27d2f5ff2fd103f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5953491,
+        "known_for_department": "Acting",
+        "name": "Rob Boseman",
+        "original_name": "Rob Boseman",
+        "popularity": 0.0852,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Carmen",
+        "credit_id": "6970e1aa4fab7ef2df813eb5",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769238,
+        "known_for_department": "Camera",
+        "name": "Madelyn Ford",
+        "original_name": "Madelyn Ford",
+        "popularity": 0.0632,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Sky",
+        "credit_id": "6970e1b74fab7ef2df813eba",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5950130,
+        "known_for_department": "Directing",
+        "name": "Connor Ambrose",
+        "original_name": "Connor Ambrose",
+        "popularity": 0.0698,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Yelir",
+        "credit_id": "6970e1c87572241b9d813e73",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769238,
+        "known_for_department": "Camera",
+        "name": "Madelyn Ford",
+        "original_name": "Madelyn Ford",
+        "popularity": 0.0632,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Yelir's Goon One",
+        "credit_id": "6970e1e4bb82fd563aceb627",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5953493,
+        "known_for_department": "Acting",
+        "name": "Summer Whittemore",
+        "original_name": "Summer Whittemore",
+        "popularity": 0.1192,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Yelir's Goon Two",
+        "credit_id": "6970e1f75660e487ff26f2c7",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769250,
+        "known_for_department": "Camera",
+        "name": "Kohen Brooks",
+        "original_name": "Kohen Brooks",
+        "popularity": 0.0608,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Cult Leader Marius",
+        "credit_id": "6970e238456613afe4757525",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769254,
+        "known_for_department": "Production",
+        "name": "Micah Jackson",
+        "original_name": "Micah Jackson",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Cult Member One",
+        "credit_id": "6970e250646008b39fceb766",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5953488,
+        "known_for_department": "Acting",
+        "name": "Katharyn McNamara",
+        "original_name": "Katharyn McNamara",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Cult Member Two",
+        "credit_id": "6970e2634b7c45fee2a90bb9",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4423018,
+        "known_for_department": "Acting",
+        "name": "Sam Langenfeld",
+        "original_name": "Sam Langenfeld",
+        "popularity": 0.1403,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Kim the Alien",
+        "credit_id": "6970e27b68b90dd9fd26f1c0",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769243,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Audrey Hembree",
+        "original_name": "Audrey Hembree",
+        "popularity": 0.0622,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Libby the Alien",
+        "credit_id": "6970e295d54f32dea4552785",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769253,
+        "known_for_department": "Crew",
+        "name": "Alex Persons",
+        "original_name": "Alex Persons",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Kim the Alien (voice)",
+        "credit_id": "6970e2cd44a9df096026f2d1",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769253,
+        "known_for_department": "Crew",
+        "name": "Alex Persons",
+        "original_name": "Alex Persons",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Libby the Alien (voice)",
+        "credit_id": "6970e2d94b7c45fee2a90bc6",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5950130,
+        "known_for_department": "Directing",
+        "name": "Connor Ambrose",
+        "original_name": "Connor Ambrose",
+        "popularity": 0.0698,
+        "profile_path": null,
+        "credit_id": "696ebdc9ac35787a6f7faa1d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4423018,
+        "known_for_department": "Acting",
+        "name": "Sam Langenfeld",
+        "original_name": "Sam Langenfeld",
+        "popularity": 0.1403,
+        "profile_path": null,
+        "credit_id": "696ebde517cda064c67fad76",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5950130,
+        "known_for_department": "Directing",
+        "name": "Connor Ambrose",
+        "original_name": "Connor Ambrose",
+        "popularity": 0.0698,
+        "profile_path": null,
+        "credit_id": "6970e0cb8f9a1bb45c5528f0",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4423018,
+        "known_for_department": "Acting",
+        "name": "Sam Langenfeld",
+        "original_name": "Sam Langenfeld",
+        "popularity": 0.1403,
+        "profile_path": null,
+        "credit_id": "6970e0d4ccac939d87ceb701",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4423018,
+        "known_for_department": "Acting",
+        "name": "Sam Langenfeld",
+        "original_name": "Sam Langenfeld",
+        "popularity": 0.1403,
+        "profile_path": null,
+        "credit_id": "6970e0e1002d517f7955284e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5950130,
+        "known_for_department": "Directing",
+        "name": "Connor Ambrose",
+        "original_name": "Connor Ambrose",
+        "popularity": 0.0698,
+        "profile_path": null,
+        "credit_id": "6970e0ee8f9a1bb45c5528f3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4423018,
+        "known_for_department": "Acting",
+        "name": "Sam Langenfeld",
+        "original_name": "Sam Langenfeld",
+        "popularity": 0.1403,
+        "profile_path": null,
+        "credit_id": "6970e1076c8e627830552770",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769201,
+        "known_for_department": "Directing",
+        "name": "Molly Tippey",
+        "original_name": "Molly Tippey",
+        "popularity": 0.4093,
+        "profile_path": null,
+        "credit_id": "6970e31ab017a36445a90b66",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4423018,
+        "known_for_department": "Acting",
+        "name": "Sam Langenfeld",
+        "original_name": "Sam Langenfeld",
+        "popularity": 0.1403,
+        "profile_path": null,
+        "credit_id": "6970e328002d517f7955285d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5769202,
+        "known_for_department": "Directing",
+        "name": "Ethan J. Faulkner",
+        "original_name": "Ethan J. Faulkner",
+        "popularity": 0.6586,
+        "profile_path": "/qDLKL2xTjl3fJb1JT54d6GwwDgt.jpg",
+        "credit_id": "6970e3394b7c45fee2a90bcd",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5769202,
+        "known_for_department": "Directing",
+        "name": "Ethan J. Faulkner",
+        "original_name": "Ethan J. Faulkner",
+        "popularity": 0.6586,
+        "profile_path": "/qDLKL2xTjl3fJb1JT54d6GwwDgt.jpg",
+        "credit_id": "6970e34029520c7f23038a62",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769246,
+        "known_for_department": "Directing",
+        "name": "Erika Giaconia",
+        "original_name": "Erika Giaconia",
+        "popularity": 0.1128,
+        "profile_path": null,
+        "credit_id": "6970e34def6b30edd4813ea3",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5950130,
+        "known_for_department": "Directing",
+        "name": "Connor Ambrose",
+        "original_name": "Connor Ambrose",
+        "popularity": 0.0698,
+        "profile_path": null,
+        "credit_id": "6970e35ff6484e0176a90c5d",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4423018,
+        "known_for_department": "Acting",
+        "name": "Sam Langenfeld",
+        "original_name": "Sam Langenfeld",
+        "popularity": 0.1403,
+        "profile_path": null,
+        "credit_id": "6970e36d699cdc7564813e4f",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769221,
+        "known_for_department": "Production",
+        "name": "Daniel Shull",
+        "original_name": "Daniel Shull",
+        "popularity": 0.0435,
+        "profile_path": null,
+        "credit_id": "6970e37e5660e487ff26f2db",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4423018,
+        "known_for_department": "Acting",
+        "name": "Sam Langenfeld",
+        "original_name": "Sam Langenfeld",
+        "popularity": 0.1403,
+        "profile_path": null,
+        "credit_id": "6970e392ef6b30edd4813ea7",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5950130,
+        "known_for_department": "Directing",
+        "name": "Connor Ambrose",
+        "original_name": "Connor Ambrose",
+        "popularity": 0.0698,
+        "profile_path": null,
+        "credit_id": "6970e3ac646008b39fceb774",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4423018,
+        "known_for_department": "Acting",
+        "name": "Sam Langenfeld",
+        "original_name": "Sam Langenfeld",
+        "popularity": 0.1403,
+        "profile_path": null,
+        "credit_id": "6970e3bae5340adce6fd110e",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5950130,
+        "known_for_department": "Directing",
+        "name": "Connor Ambrose",
+        "original_name": "Connor Ambrose",
+        "popularity": 0.0698,
+        "profile_path": null,
+        "credit_id": "6970e3c47761eaa967ceb5be",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769238,
+        "known_for_department": "Camera",
+        "name": "Madelyn Ford",
+        "original_name": "Madelyn Ford",
+        "popularity": 0.0632,
+        "profile_path": null,
+        "credit_id": "6970e42b76c3f381a88b04a0",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769254,
+        "known_for_department": "Production",
+        "name": "Micah Jackson",
+        "original_name": "Micah Jackson",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "6970e4446c8e627830552796",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5953491,
+        "known_for_department": "Acting",
+        "name": "Rob Boseman",
+        "original_name": "Rob Boseman",
+        "popularity": 0.0852,
+        "profile_path": null,
+        "credit_id": "6970e454002d517f79552898",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769243,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Audrey Hembree",
+        "original_name": "Audrey Hembree",
+        "popularity": 0.0622,
+        "profile_path": null,
+        "credit_id": "6970e468646008b39fceb77c",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769238,
+        "known_for_department": "Camera",
+        "name": "Madelyn Ford",
+        "original_name": "Madelyn Ford",
+        "popularity": 0.0632,
+        "profile_path": null,
+        "credit_id": "6970e474082bf78bac7575e4",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5950130,
+        "known_for_department": "Directing",
+        "name": "Connor Ambrose",
+        "original_name": "Connor Ambrose",
+        "popularity": 0.0698,
+        "profile_path": null,
+        "credit_id": "6970e48081500cff7b813db7",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4423018,
+        "known_for_department": "Acting",
+        "name": "Sam Langenfeld",
+        "original_name": "Sam Langenfeld",
+        "popularity": 0.1403,
+        "profile_path": null,
+        "credit_id": "6970e4886b2146bb3d5527f5",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769254,
+        "known_for_department": "Production",
+        "name": "Micah Jackson",
+        "original_name": "Micah Jackson",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "6970e4c58b35618abca90c54",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769240,
+        "known_for_department": "Camera",
+        "name": "Tyler Burbage",
+        "original_name": "Tyler Burbage",
+        "popularity": 0.0751,
+        "profile_path": null,
+        "credit_id": "6970e4d5d54f32dea45527aa",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5769246,
+        "known_for_department": "Directing",
+        "name": "Erika Giaconia",
+        "original_name": "Erika Giaconia",
+        "popularity": 0.1128,
+        "profile_path": null,
+        "credit_id": "6970e4e4430e5532bb8b0565",
+        "department": "Production",
+        "job": "Production Assistant"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "A group of desperate musicians must complete favors for prospective band members in order to win a coveted music competition.",
+          "runtime": 13,
+          "tagline": "Favor? Yeah, we're desperate.",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/scajss1DdAZRvp1Im5j51xc45sW.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/n6k0nLof8FamBNSP4fK74Fxjlq3.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1920
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.75,
+        "height": 2640,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/jtc9JWsIMTEkHEin06CBMIzVeCz.jpg",
+        "vote_average": 0.0,
+        "vote_count": 1,
+        "width": 1980
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "Winter Film Showcase",
+            "release_date": "2026-01-22T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

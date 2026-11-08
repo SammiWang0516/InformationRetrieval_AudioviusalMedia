@@ -1,0 +1,779 @@
+{
+  "adult": false,
+  "backdrop_path": "/72CQ5Ej4ZAGBAH3A26iDZXq4icC.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1447392,
+  "imdb_id": "tt35889157",
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_title": "Delusyon",
+  "overview": "A desperate wife whose husband is shot after a robbery attempt. Desperate to help him financially, she turns to Kap, a man who's always been interested in her, sparking an affair that shatters their relationships.",
+  "popularity": 1.6128,
+  "poster_path": "/qEL2ZmXKJZn5QvQc6NwuHEcK999.jpg",
+  "production_companies": [
+    {
+      "id": 149142,
+      "logo_path": "/25oYoXHsfWYlddAzJSBReajN3BM.png",
+      "name": "Vivamax",
+      "origin_country": "PH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "release_date": "2025-03-21",
+  "revenue": 0,
+  "runtime": 71,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Delusyon",
+  "video": false,
+  "vote_average": 5.5,
+  "vote_count": 6,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4012042,
+        "known_for_department": "Acting",
+        "name": "Apple Dy",
+        "original_name": "Apple Dy",
+        "popularity": 1.9455,
+        "profile_path": "/QMETB1ypQs7rGgdCDwcTW0hCxR.jpg",
+        "cast_id": 1,
+        "character": "Esme",
+        "credit_id": "67d30837a97c646cb581343d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3882623,
+        "known_for_department": "Acting",
+        "name": "Ardy Raymundo",
+        "original_name": "Ardy Raymundo",
+        "popularity": 0.293,
+        "profile_path": "/mysxwQkIbVTCF8c5iyCOq5iAJHd.jpg",
+        "cast_id": 6,
+        "character": "Noli",
+        "credit_id": "67dcec5d1cda1dbb467a6143",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4069300,
+        "known_for_department": "Acting",
+        "name": "Gboy Pablo",
+        "original_name": "Gboy Pablo",
+        "popularity": 0.3088,
+        "profile_path": "/mM0xjeapItbqEB3ynxdQjZvx1Mt.jpg",
+        "cast_id": 4,
+        "character": "Kapitan Francis",
+        "credit_id": "67d3086c66892bad6281b9d6",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4939984,
+        "known_for_department": "Acting",
+        "name": "Racquel Enriquez",
+        "original_name": "Racquel Enriquez",
+        "popularity": 0.278,
+        "profile_path": "/g4kjebP4rGkkNj1OH2kzs4i2jcn.jpg",
+        "cast_id": 2,
+        "character": "Rica",
+        "credit_id": "67d30847e188eaa47c1de46a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5746483,
+        "known_for_department": "Acting",
+        "name": "Mondi Lopez",
+        "original_name": "Mondi Lopez",
+        "popularity": 0.0452,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Notnot",
+        "credit_id": "68ecdad8d0b103bc3c282597",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3887434,
+        "known_for_department": "Directing",
+        "name": "Punky Taguines",
+        "original_name": "Punky Taguines",
+        "popularity": 0.1294,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Hospital Nurse",
+        "credit_id": "68ecdaeabdfe689774a21614",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5746484,
+        "known_for_department": "Acting",
+        "name": "Denden Valeda",
+        "original_name": "Denden Valeda",
+        "popularity": 0.0809,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Mental Nurse",
+        "credit_id": "68ecdafd885d7d53249deb89",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5746485,
+        "known_for_department": "Acting",
+        "name": "Jhayr Domingo",
+        "original_name": "Jhayr Domingo",
+        "popularity": 0.1341,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Tanod 1",
+        "credit_id": "68ecdb1261ed36d89ca72a20",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3971064,
+        "known_for_department": "Acting",
+        "name": "Moises Mulingtapang",
+        "original_name": "Moises Mulingtapang",
+        "popularity": 0.1179,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Tanod 2",
+        "credit_id": "68ecdb219b6b1748bb0d7b3e",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5746486,
+        "known_for_department": "Acting",
+        "name": "Grace Bañares",
+        "original_name": "Grace Bañares",
+        "popularity": 0.0777,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Babae With Phone",
+        "credit_id": "68ecdb4b70a239a9e1a21696",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5746487,
+        "known_for_department": "Acting",
+        "name": "Alexis Miasco",
+        "original_name": "Alexis Miasco",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Binata With Vape",
+        "credit_id": "68ecdb5e85bd3523690d7b78",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3426508,
+        "known_for_department": "Acting",
+        "name": "RJ Tan",
+        "original_name": "RJ Tan",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "iPad Buyer",
+        "credit_id": "68ecdb715b1a7c393e5ee80c",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4462046,
+        "known_for_department": "Acting",
+        "name": "Aaron Hewson",
+        "original_name": "Aaron Hewson",
+        "popularity": 0.0511,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Foreigner Husband",
+        "credit_id": "68ecdb925d238fcdccf11ba2",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5746488,
+        "known_for_department": "Acting",
+        "name": "Elena Passion",
+        "original_name": "Elena Passion",
+        "popularity": 0.0604,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Wife",
+        "credit_id": "68ecdba59602e344649deccf",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5746489,
+        "known_for_department": "Acting",
+        "name": "Julien Antonuccio",
+        "original_name": "Julien Antonuccio",
+        "popularity": 0.0609,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Foreigner At Park",
+        "credit_id": "68ecdbc993ed351f18d6900a",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5746491,
+        "known_for_department": "Acting",
+        "name": "Enrique Yulo",
+        "original_name": "Enrique Yulo",
+        "popularity": 0.0744,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Balikbayan",
+        "credit_id": "68ecdbde5d238fcdccf11bad",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5746492,
+        "known_for_department": "Acting",
+        "name": "Rachel Guererro",
+        "original_name": "Rachel Guererro",
+        "popularity": 0.0542,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Fighting Girl",
+        "credit_id": "68ecdbfc4ae6d256af784f92",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5746494,
+        "known_for_department": "Acting",
+        "name": "Kamiya",
+        "original_name": "Kamiya",
+        "popularity": 0.0792,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Crowd",
+        "credit_id": "68ecdc748fa64426bf784f02",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5746495,
+        "known_for_department": "Acting",
+        "name": "Biboy Banares",
+        "original_name": "Biboy Banares",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Crowd",
+        "credit_id": "68ecdc894696ca4a02282430",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5746497,
+        "known_for_department": "Acting",
+        "name": "Pablo Pineda",
+        "original_name": "Pablo Pineda",
+        "popularity": 0.0372,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Crowd",
+        "credit_id": "68ecdca85b1a7c393e5ee82f",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5227855,
+        "known_for_department": "Acting",
+        "name": "Virginia Garcia",
+        "original_name": "Virginia Garcia",
+        "popularity": 0.1766,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Crowd",
+        "credit_id": "68ecdcca8fa64426bf784f0d",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5675006,
+        "known_for_department": "Acting",
+        "name": "Kim Barea",
+        "original_name": "Kim Barea",
+        "popularity": 0.0342,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Crowd",
+        "credit_id": "68ecdcdf46f9f16f3fa729fa",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3353631,
+        "known_for_department": "Acting",
+        "name": "Christine May Banares",
+        "original_name": "Christine May Banares",
+        "popularity": 0.0863,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Crowd",
+        "credit_id": "68ecdcf0580da9868df11bdb",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5746499,
+        "known_for_department": "Acting",
+        "name": "Norman Guererro",
+        "original_name": "Norman Guererro",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Fight Instructor",
+        "credit_id": "68ecdd0dbf9c899ad1784e47",
+        "order": 23
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4820414,
+        "known_for_department": "Directing",
+        "name": "Carby Salvador",
+        "original_name": "Carby Salvador",
+        "popularity": 0.2364,
+        "profile_path": "/airOwKqO0CFoLelQ8jMOTbRGeCX.jpg",
+        "credit_id": "67d30891a97c646cb5813473",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5570617,
+        "known_for_department": "Sound",
+        "name": "Norman Buena",
+        "original_name": "Norman Buena",
+        "popularity": 0.2026,
+        "profile_path": null,
+        "credit_id": "68ecdd7b7fce8e6ce45ee705",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5191012,
+        "known_for_department": "Sound",
+        "name": "Leo Ong",
+        "original_name": "Leo Ong",
+        "popularity": 0.074,
+        "profile_path": null,
+        "credit_id": "68ecdd915b1a7c393e5ee83c",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5596306,
+        "known_for_department": "Editing",
+        "name": "Karla Diaz",
+        "original_name": "Karla Diaz",
+        "popularity": 0.098,
+        "profile_path": null,
+        "credit_id": "68ecdda6f6e477617aa729a9",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2046146,
+        "known_for_department": "Art",
+        "name": "Juan Pablo Pineda III",
+        "original_name": "Juan Pablo Pineda III",
+        "popularity": 0.2712,
+        "profile_path": null,
+        "credit_id": "68ecddc9df0fa81ad45ee7aa",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4110179,
+        "known_for_department": "Acting",
+        "name": "Maria Denice Valeda",
+        "original_name": "Maria Denice Valeda",
+        "popularity": 0.1776,
+        "profile_path": "/2im0WE48A48MErCbsMwzode9Go7.jpg",
+        "credit_id": "68ecdde8bc8329d7a7d6904a",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4188014,
+        "known_for_department": "Camera",
+        "name": "Marcee R. Lacap",
+        "original_name": "Marcee R. Lacap",
+        "popularity": 0.0548,
+        "profile_path": null,
+        "credit_id": "68ecddfdd2c0bf5fe7f11b51",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4391504,
+        "known_for_department": "Writing",
+        "name": "Maya Diaz",
+        "original_name": "Maya Diaz",
+        "popularity": 0.3278,
+        "profile_path": null,
+        "credit_id": "68ecde1c362f3ffb7aa2156b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5746502,
+        "known_for_department": "Writing",
+        "name": "George Bryan Pablo",
+        "original_name": "George Bryan Pablo",
+        "popularity": 0.1954,
+        "profile_path": null,
+        "credit_id": "68ecde3f62512ec08c5eeace",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4591307,
+        "known_for_department": "Production",
+        "name": "Zane Mendoza",
+        "original_name": "Zane Mendoza",
+        "popularity": 0.1183,
+        "profile_path": null,
+        "credit_id": "68ecde4f517948a33d9dea6c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4207773,
+        "known_for_department": "Directing",
+        "name": "Rodante Pajemna Jr.",
+        "original_name": "Rodante Pajemna Jr.",
+        "popularity": 1.3361,
+        "profile_path": "/db1ocKoW8iXE6BrjnMnW6zr7eLS.jpg",
+        "credit_id": "68ecde670a40e73bfda2165f",
+        "department": "Writing",
+        "job": "Creative Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5252070,
+        "known_for_department": "Writing",
+        "name": "Ramon Virrey",
+        "original_name": "Ramon Virrey",
+        "popularity": 0.0799,
+        "profile_path": null,
+        "credit_id": "68ecde7762953f2a829dead1",
+        "department": "Writing",
+        "job": "Creative Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2039407,
+        "known_for_department": "Directing",
+        "name": "Roni S. Benaid",
+        "original_name": "Roni S. Benaid",
+        "popularity": 0.1554,
+        "profile_path": "/lFpXFFPi2aYCjd1oljdGQAzCbkn.jpg",
+        "credit_id": "68ecde9a40c29c997ca728bb",
+        "department": "Art",
+        "job": "Creative Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4591307,
+        "known_for_department": "Production",
+        "name": "Zane Mendoza",
+        "original_name": "Zane Mendoza",
+        "popularity": 0.1183,
+        "profile_path": null,
+        "credit_id": "68ecdeb19369c5dcb3a729a7",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5252074,
+        "known_for_department": "Production",
+        "name": "Emma Valenzuela",
+        "original_name": "Emma Valenzuela",
+        "popularity": 0.0518,
+        "profile_path": null,
+        "credit_id": "68ecded939803cde3c9dec3c",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2393333,
+        "known_for_department": "Production",
+        "name": "Niña De Castro",
+        "original_name": "Niña De Castro",
+        "popularity": 0.3373,
+        "profile_path": null,
+        "credit_id": "68ecdefbae86cd4c48a216a4",
+        "department": "Production",
+        "job": "Supervising Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 256466,
+        "name": "erotic"
+      },
+      {
+        "id": 321739,
+        "name": "sexy"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "A desperate wife whose husband is shot after a robbery attempt. Desperate to help him financially, she turns to Kap, a man who's always been interested in her, sparking an affair that shatters their relationships.",
+          "runtime": 71,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "NL",
+        "iso_639_1": "nl",
+        "name": "Nederlands",
+        "english_name": "Dutch",
+        "data": {
+          "homepage": "",
+          "overview": "Een wanhopige vrouw wiens man wordt neergeschoten na een overval. Wanhopig om hem financieel te helpen, wendt ze zich tot Kap, een man die altijd al in haar geïnteresseerd is geweest, waardoor een affaire ontstaat die hun relaties verbrijzelt.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "KR",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말",
+        "english_name": "Korean",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": "거부할 수 없는 제안"
+        }
+      },
+      {
+        "iso_3166_1": "TH",
+        "iso_639_1": "th",
+        "name": "ภาษาไทย",
+        "english_name": "Thai",
+        "data": {
+          "homepage": "",
+          "overview": "ภรรยาผู้สิ้นหวังหลังจากสามีถูกยิงเสียชีวิตหลังพยายามปล้น เธอต้องการช่วยเหลือสามีด้านการเงิน จึงหันไปหาแคป ชายผู้แอบชอบเธอมาตลอด ก่อให้เกิดความสัมพันธ์ลับที่ทำลายความสัมพันธ์ของทั้งคู่",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt35889157",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/9RjXqQKcjAc6LIpgPhqwljA2ZRw.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/72CQ5Ej4ZAGBAH3A26iDZXq4icC.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/ApBS3nixwjwqMfW7aHty8xLJrNI.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/qEL2ZmXKJZn5QvQc6NwuHEcK999.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1200
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "19",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "2025-VF00675",
+            "release_date": "2025-08-08T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PH",
+        "release_dates": [
+          {
+            "certification": "R-18",
+            "descriptors": [],
+            "iso_639_1": "tl",
+            "note": "",
+            "release_date": "2025-03-21T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "DELUSYON Official Trailer | #VMX",
+        "key": "wVQJri5QcMU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "67df2e63e4a9c8690607b4ea",
+        "published_at": "2025-03-19T11:00:06.000Z"
+      }
+    ]
+  }
+}

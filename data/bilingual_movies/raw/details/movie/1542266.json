@@ -1,0 +1,783 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 600,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1542266,
+  "imdb_id": "tt11693446",
+  "origin_country": [
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_title": "Innan Jag Växer Upp",
+  "overview": "",
+  "popularity": 0.7843,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "2025-02-02",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Innan Jag Växer Upp",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4129371,
+        "known_for_department": "Acting",
+        "name": "Rasmus Dahlenlund",
+        "original_name": "Rasmus Dahlenlund",
+        "popularity": 0.3645,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Theo Normling",
+        "credit_id": "68bc11a59d4617380e98b892",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5673832,
+        "known_for_department": "Acting",
+        "name": "Sara Remback",
+        "original_name": "Sara Remback",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Olivia Mejj",
+        "credit_id": "68bc1242b657aeb10a1f4bec",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5673835,
+        "known_for_department": "Acting",
+        "name": "Arvid Törnquist",
+        "original_name": "Arvid Törnquist",
+        "popularity": 0.0985,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Arvid Skogh",
+        "credit_id": "68bc126f66584852359bbd47",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3069180,
+        "known_for_department": "Acting",
+        "name": "Carl-Petter Eriksson",
+        "original_name": "Carl-Petter Eriksson",
+        "popularity": 0.3735,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Ove Skogh",
+        "credit_id": "68bc1297344b8fee0d98ba85",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5673837,
+        "known_for_department": "Acting",
+        "name": "Norea Gustafsson",
+        "original_name": "Norea Gustafsson",
+        "popularity": 0.1559,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Nora Normling",
+        "credit_id": "68bc12fcd30329dff68ceb26",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3370956,
+        "known_for_department": "Acting",
+        "name": "Cecilia Olsson",
+        "original_name": "Cecilia Olsson",
+        "popularity": 0.4019,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Helena Skogh",
+        "credit_id": "68bc148104dd0798a5069b00",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5673871,
+        "known_for_department": "Acting",
+        "name": "Göran Ekelund",
+        "original_name": "Göran Ekelund",
+        "popularity": 0.1648,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Ulf (gas station manager)",
+        "credit_id": "68bc165ef23d3e32039470e8",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5673877,
+        "known_for_department": "Acting",
+        "name": "Kajsa Hedström",
+        "original_name": "Kajsa Hedström",
+        "popularity": 0.2584,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Cisselia (art-teacher)",
+        "credit_id": "68bc16d81cc83836311bbffb",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5673887,
+        "known_for_department": "Acting",
+        "name": "Ulrika Goude-Westby",
+        "original_name": "Ulrika Goude-Westby",
+        "popularity": 0.16,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Curator #1",
+        "credit_id": "68bc17e710647f072c1bc1dc",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5673891,
+        "known_for_department": "Acting",
+        "name": "Anders Larsson",
+        "original_name": "Anders Larsson",
+        "popularity": 0.1423,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Curator #2",
+        "credit_id": "68bc1885b4b474000c1f4d31",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5673894,
+        "known_for_department": "Acting",
+        "name": "Lina Hadin",
+        "original_name": "Lina Hadin",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Zoostore-clerk",
+        "credit_id": "68bc18a6f7675287ff94710e",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2278355,
+        "known_for_department": "Directing",
+        "name": "Mika Wiborgh",
+        "original_name": "Mika Wiborgh",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "The lonely man",
+        "credit_id": "68bc2044cb00241a8c4e5a0f",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5673897,
+        "known_for_department": "Acting",
+        "name": "Tindra Alderback",
+        "original_name": "Tindra Alderback",
+        "popularity": 0.1047,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Extra",
+        "credit_id": "68bc18d20459e37f171bc33a",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5673899,
+        "known_for_department": "Acting",
+        "name": "Martin G Hansson",
+        "original_name": "Martin G Hansson",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Extra",
+        "credit_id": "68bc1955ba1293b3929bbd47",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4129461,
+        "known_for_department": "Directing",
+        "name": "Emil Broo",
+        "original_name": "Emil Broo",
+        "popularity": 0.0677,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Extra",
+        "credit_id": "68bc1968538501451b4e59e7",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4060292,
+        "known_for_department": "Directing",
+        "name": "Halvar Wallman",
+        "original_name": "Halvar Wallman",
+        "popularity": 0.1678,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Extra",
+        "credit_id": "68bc197df896fc684b4e5899",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5673904,
+        "known_for_department": "Acting",
+        "name": "Charlotte Jernberg",
+        "original_name": "Charlotte Jernberg",
+        "popularity": 0.1142,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Extra",
+        "credit_id": "68bc199aa72100a4704e5805",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5673907,
+        "known_for_department": "Acting",
+        "name": "Wilma Larsson",
+        "original_name": "Wilma Larsson",
+        "popularity": 0.0737,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Extra",
+        "credit_id": "68bc19b07e41965b91946eee",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4060290,
+        "known_for_department": "Directing",
+        "name": "Eric Norberg",
+        "original_name": "Eric Norberg",
+        "popularity": 0.1242,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Extra",
+        "credit_id": "68bc19c4688a1614eb1bc57b",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5673912,
+        "known_for_department": "Acting",
+        "name": "Oscar Brandell",
+        "original_name": "Oscar Brandell",
+        "popularity": 0.0914,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Extra",
+        "credit_id": "68bc19df196c16412398b6c0",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5673915,
+        "known_for_department": "Acting",
+        "name": "Annie Atter",
+        "original_name": "Annie Atter",
+        "popularity": 0.1111,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Extra",
+        "credit_id": "68bc1a00538501451b4e59fb",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5673933,
+        "known_for_department": "Acting",
+        "name": "Bea Edsvik",
+        "original_name": "Bea Edsvik",
+        "popularity": 0.0733,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Extra",
+        "credit_id": "68bc1ad2d826c7d50906989a",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5673936,
+        "known_for_department": "Acting",
+        "name": "Aphatsara Ketmanee",
+        "original_name": "Aphatsara Ketmanee",
+        "popularity": 0.0876,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Extra",
+        "credit_id": "68bc1b0825f494771c4e5c47",
+        "order": 22
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4062382,
+        "known_for_department": "Directing",
+        "name": "Martin Ekelund",
+        "original_name": "Martin Ekelund",
+        "popularity": 0.5135,
+        "profile_path": "/gs9GTVDB8CBnDcc5NzV8dYJlLPD.jpg",
+        "credit_id": "68bc1e268470119c921f4812",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4062382,
+        "known_for_department": "Directing",
+        "name": "Martin Ekelund",
+        "original_name": "Martin Ekelund",
+        "popularity": 0.5135,
+        "profile_path": "/gs9GTVDB8CBnDcc5NzV8dYJlLPD.jpg",
+        "credit_id": "68bc1e59b657aeb10a1f4c7e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2278355,
+        "known_for_department": "Directing",
+        "name": "Mika Wiborgh",
+        "original_name": "Mika Wiborgh",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "68bc201de2761164679bbd9f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5673966,
+        "known_for_department": "Sound",
+        "name": "Melvin Borne",
+        "original_name": "Melvin Borne",
+        "popularity": 0.1229,
+        "profile_path": null,
+        "credit_id": "68bc20fc79652a04e74e582a",
+        "department": "Sound",
+        "job": "Music Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3376889,
+        "known_for_department": "Camera",
+        "name": "Peter Sn",
+        "original_name": "Peter Sn",
+        "popularity": 0.1792,
+        "profile_path": null,
+        "credit_id": "68bc212f4232fbfcd74e57bb",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5673982,
+        "known_for_department": "Production",
+        "name": "Esther Forslin",
+        "original_name": "Esther Forslin",
+        "popularity": 0.0852,
+        "profile_path": null,
+        "credit_id": "68bc23f24935e5d1e31bc1ee",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4060290,
+        "known_for_department": "Directing",
+        "name": "Eric Norberg",
+        "original_name": "Eric Norberg",
+        "popularity": 0.1242,
+        "profile_path": null,
+        "credit_id": "68bc2463f7675287ff94716b",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4129461,
+        "known_for_department": "Directing",
+        "name": "Emil Broo",
+        "original_name": "Emil Broo",
+        "popularity": 0.0677,
+        "profile_path": null,
+        "credit_id": "68bc2481bce7b2a2989bfe65",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5673985,
+        "known_for_department": "Sound",
+        "name": "Anton järnber",
+        "original_name": "Anton järnber",
+        "popularity": 0.128,
+        "profile_path": null,
+        "credit_id": "68bc24a3857b91a4c18ceb1a",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5673987,
+        "known_for_department": "Sound",
+        "name": "Jonas strömberg",
+        "original_name": "Jonas strömberg",
+        "popularity": 0.2049,
+        "profile_path": null,
+        "credit_id": "68bc250f840ac1eeea9bc0ae",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4060292,
+        "known_for_department": "Directing",
+        "name": "Halvar Wallman",
+        "original_name": "Halvar Wallman",
+        "popularity": 0.1678,
+        "profile_path": null,
+        "credit_id": "68bc252ee2761164679bbdb9",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5673988,
+        "known_for_department": "Directing",
+        "name": "Maja Rood",
+        "original_name": "Maja Rood",
+        "popularity": 0.1455,
+        "profile_path": null,
+        "credit_id": "68bc255079652a04e74e586e",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4062382,
+        "known_for_department": "Directing",
+        "name": "Martin Ekelund",
+        "original_name": "Martin Ekelund",
+        "popularity": 0.5135,
+        "profile_path": "/gs9GTVDB8CBnDcc5NzV8dYJlLPD.jpg",
+        "credit_id": "68bc25a2ae986077d29bbe09",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5673989,
+        "known_for_department": "Camera",
+        "name": "Johannes Ahlros",
+        "original_name": "Johannes Ahlros",
+        "popularity": 0.2237,
+        "profile_path": null,
+        "credit_id": "68bc268970d14bf26c1f4bcd",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3376889,
+        "known_for_department": "Camera",
+        "name": "Peter Sn",
+        "original_name": "Peter Sn",
+        "popularity": 0.1792,
+        "profile_path": null,
+        "credit_id": "68bc279f344b8fee0d98bb1a",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4062382,
+        "known_for_department": "Directing",
+        "name": "Martin Ekelund",
+        "original_name": "Martin Ekelund",
+        "popularity": 0.5135,
+        "profile_path": "/gs9GTVDB8CBnDcc5NzV8dYJlLPD.jpg",
+        "credit_id": "68bc2801d30329dff68cebe5",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3920595,
+        "known_for_department": "Directing",
+        "name": "Tilde Hernström",
+        "original_name": "Tilde Hernström",
+        "popularity": 0.0566,
+        "profile_path": null,
+        "credit_id": "68bc286e575a1efdb59bbcfd",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3376879,
+        "known_for_department": "Sound",
+        "name": "Mimin Mangson",
+        "original_name": "Mimin Mangson",
+        "popularity": 0.0359,
+        "profile_path": null,
+        "credit_id": "68bc289ad9be0cdf3698bc25",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3920606,
+        "known_for_department": "Art",
+        "name": "Viktor Ivarsson",
+        "original_name": "Viktor Ivarsson",
+        "popularity": 0.1178,
+        "profile_path": null,
+        "credit_id": "68bc28b6d826c7d5090698cf",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3920606,
+        "known_for_department": "Art",
+        "name": "Viktor Ivarsson",
+        "original_name": "Viktor Ivarsson",
+        "popularity": 0.1178,
+        "profile_path": null,
+        "credit_id": "68bc28d5b78b04eda24e55b4",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3920606,
+        "known_for_department": "Art",
+        "name": "Viktor Ivarsson",
+        "original_name": "Viktor Ivarsson",
+        "popularity": 0.1178,
+        "profile_path": null,
+        "credit_id": "68bc29124232fbfcd74e57ec",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3376889,
+        "known_for_department": "Camera",
+        "name": "Peter Sn",
+        "original_name": "Peter Sn",
+        "popularity": 0.1792,
+        "profile_path": null,
+        "credit_id": "68bc292bae6c28830e9bbd64",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3386895,
+        "known_for_department": "Acting",
+        "name": "Hugo Persson",
+        "original_name": "Hugo Persson",
+        "popularity": 0.1079,
+        "profile_path": null,
+        "credit_id": "68bc299cb657aeb10a1f4c93",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5674002,
+        "known_for_department": "Production",
+        "name": "Erik Boqvist",
+        "original_name": "Erik Boqvist",
+        "popularity": 0.1731,
+        "profile_path": null,
+        "credit_id": "68bc29f9122c836fc74e58e2",
+        "department": "Production",
+        "job": "Assistant Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4060290,
+        "known_for_department": "Directing",
+        "name": "Eric Norberg",
+        "original_name": "Eric Norberg",
+        "popularity": 0.1242,
+        "profile_path": null,
+        "credit_id": "68bc2a2cc7cfcca8619bbf39",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3920606,
+        "known_for_department": "Art",
+        "name": "Viktor Ivarsson",
+        "original_name": "Viktor Ivarsson",
+        "popularity": 0.1178,
+        "profile_path": null,
+        "credit_id": "68bc2a45de6563fdec8ce9c2",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 10683,
+        "name": "coming of age"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "SE",
+        "iso_639_1": "sv",
+        "name": "svenska",
+        "english_name": "Swedish",
+        "data": {
+          "homepage": "",
+          "overview": "Historien följer tre ungdomar som försöker växa upp i en deprimerad småstad i Sverige.",
+          "runtime": 50,
+          "tagline": "Det är en sak där man bor på pappret och en annan sak där hjärtat bor liksom",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Before We Grow Up",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt11693446",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "7",
+            "descriptors": [],
+            "iso_639_1": "sv",
+            "note": "Shot 2020 but released 2025",
+            "release_date": "2025-02-02T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

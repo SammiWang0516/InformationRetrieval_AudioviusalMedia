@@ -1,0 +1,411 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1715238,
+  "imdb_id": null,
+  "origin_country": [
+    "CO"
+  ],
+  "original_language": "es",
+  "original_title": "Opus Magnum",
+  "overview": "",
+  "popularity": 1.1462,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 276708,
+      "logo_path": null,
+      "name": "Escuela Nacional de Cine (CO)",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CO",
+      "name": "Colombia"
+    }
+  ],
+  "release_date": "2025-12-15",
+  "revenue": 0,
+  "runtime": 20,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "Opus Magnum",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5028970,
+        "known_for_department": "Editing",
+        "name": "Juan Sebastián Rincón",
+        "original_name": "Juan Sebastián Rincón",
+        "popularity": 0.2267,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "The Writer",
+        "credit_id": "6a305ce8a8ef362c278d568f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1775511,
+        "known_for_department": "Acting",
+        "name": "Sandro Romero Rey",
+        "original_name": "Sandro Romero Rey",
+        "popularity": 0.6676,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "The Count",
+        "credit_id": "6a305d06a64b874fdd6dfb43",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3430464,
+        "known_for_department": "Acting",
+        "name": "Edgar Duran Jr.",
+        "original_name": "Edgar Duran Jr.",
+        "popularity": 0.4201,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "The Policeman",
+        "credit_id": "6a305d1fd02bc698c16552fc",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6287782,
+        "known_for_department": "Directing",
+        "name": "Santiago Uribe Jiménez",
+        "original_name": "Santiago Uribe Jiménez",
+        "popularity": 0.1562,
+        "profile_path": null,
+        "credit_id": "6a305b603be39deb32437c41",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6287782,
+        "known_for_department": "Directing",
+        "name": "Santiago Uribe Jiménez",
+        "original_name": "Santiago Uribe Jiménez",
+        "popularity": 0.1562,
+        "profile_path": null,
+        "credit_id": "6a305b6b9ecfa915b16df9d1",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6287784,
+        "known_for_department": "Production",
+        "name": "Male Carrasco Habib",
+        "original_name": "Male Carrasco Habib",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a305b8e82b39bd3a9f6ff6f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6287786,
+        "known_for_department": "Directing",
+        "name": "Lea Hoyos",
+        "original_name": "Lea Hoyos",
+        "popularity": 0.1336,
+        "profile_path": null,
+        "credit_id": "6a305ba9b16e012ef36df9a9",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6287787,
+        "known_for_department": "Directing",
+        "name": "Mauricio Díaz",
+        "original_name": "Mauricio Díaz",
+        "popularity": 0.1376,
+        "profile_path": null,
+        "credit_id": "6a305bbb48d9406476d4c1cc",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3952065,
+        "known_for_department": "Acting",
+        "name": "Federico Montoya",
+        "original_name": "Federico Montoya",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "6a305bd1621f0e5e0cd4c169",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3952065,
+        "known_for_department": "Acting",
+        "name": "Federico Montoya",
+        "original_name": "Federico Montoya",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "6a305bdf48d9406476d4c1d5",
+        "department": "Crew",
+        "job": "Script"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6287790,
+        "known_for_department": "Production",
+        "name": "Gabriela Guacaneme",
+        "original_name": "Gabriela Guacaneme",
+        "popularity": 0.1011,
+        "profile_path": null,
+        "credit_id": "6a305bfdb31a606869508df7",
+        "department": "Production",
+        "job": "Assistant Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6287791,
+        "known_for_department": "Camera",
+        "name": "Sebastián Cuellar",
+        "original_name": "Sebastián Cuellar",
+        "popularity": 0.1388,
+        "profile_path": null,
+        "credit_id": "6a305c244c02abeae84892db",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6287793,
+        "known_for_department": "Camera",
+        "name": "Omar Gutierrez",
+        "original_name": "Omar Gutierrez",
+        "popularity": 0.1074,
+        "profile_path": null,
+        "credit_id": "6a305c3893c89e454c8d56cb",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6287794,
+        "known_for_department": "Camera",
+        "name": "Jihrem Amaya",
+        "original_name": "Jihrem Amaya",
+        "popularity": 0.0951,
+        "profile_path": null,
+        "credit_id": "6a305c58621f0e5e0cd4c17e",
+        "department": "Camera",
+        "job": "Additional Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6287796,
+        "known_for_department": "Lighting",
+        "name": "Nicolás López",
+        "original_name": "Nicolás López",
+        "popularity": 0.2096,
+        "profile_path": null,
+        "credit_id": "6a305c6b6a0b4ec9ae8d547e",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5797238,
+        "known_for_department": "Production",
+        "name": "Nicolás Krapp",
+        "original_name": "Nicolás Krapp",
+        "popularity": 0.07,
+        "profile_path": null,
+        "credit_id": "6a305c9b280a997750f6a41f",
+        "department": "Camera",
+        "job": "Additional Set Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6287798,
+        "known_for_department": "Art",
+        "name": "Corinna Cano",
+        "original_name": "Corinna Cano",
+        "popularity": 0.1411,
+        "profile_path": null,
+        "credit_id": "6a305cb56202b26902f6a479",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6287799,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sol Rodriguez",
+        "original_name": "Sol Rodriguez",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a305cc9776fd5fe098d560a",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6287801,
+        "known_for_department": "Sound",
+        "name": "Carlos Torres",
+        "original_name": "Carlos Torres",
+        "popularity": 0.0337,
+        "profile_path": null,
+        "credit_id": "6a305d59a8ef362c278d56a7",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6287802,
+        "known_for_department": "Sound",
+        "name": "Daniel Rivera",
+        "original_name": "Daniel Rivera",
+        "popularity": 0.103,
+        "profile_path": null,
+        "credit_id": "6a305d6a4e9c972105508fa3",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2551168,
+        "known_for_department": "Sound",
+        "name": "Juan Manuel Uribe",
+        "original_name": "Juan Manuel Uribe",
+        "popularity": 0.1418,
+        "profile_path": null,
+        "credit_id": "6a305d7ca64b874fdd6dfb50",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6287803,
+        "known_for_department": "Editing",
+        "name": "César Yagüé",
+        "original_name": "César Yagüé",
+        "popularity": 0.1855,
+        "profile_path": null,
+        "credit_id": "6a305d979e447e4dc4f6fed0",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 48415,
+        "known_for_department": "Writing",
+        "name": "Edgar Allan Poe",
+        "original_name": "Edgar Allan Poe",
+        "popularity": 0.8457,
+        "profile_path": "/AlgddAgqBWRZUNHtX2Rue60HSIg.jpg",
+        "credit_id": "6a305de793c89e454c8d56d6",
+        "department": "Writing",
+        "job": "Original Story"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 20,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "",
+            "release_date": "2025-12-15T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

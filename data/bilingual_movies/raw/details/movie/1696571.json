@@ -1,0 +1,776 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [],
+  "homepage": "",
+  "id": 1696571,
+  "imdb_id": null,
+  "origin_country": [
+    "DO"
+  ],
+  "original_language": "es",
+  "original_title": "Eco",
+  "overview": "Love leaves traces that resonate far beyond what we see.",
+  "popularity": 0.9545,
+  "poster_path": "/yMDFIbRielYL9AbzxARSVVyHZ9I.jpg",
+  "production_companies": [
+    {
+      "id": 227994,
+      "logo_path": "/oBV7533bQmWJUBRqSGBA3KkUqTx.png",
+      "name": "Universidad Iberoamericana (UNIBE)",
+      "origin_country": "DO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DO",
+      "name": "Dominican Republic"
+    }
+  ],
+  "release_date": "2026-03-26",
+  "revenue": 0,
+  "runtime": 14,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Love leaves traces that resonate far beyond what we see.",
+  "title": "Eco",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4278504,
+        "known_for_department": "Acting",
+        "name": "Coral González",
+        "original_name": "Coral González",
+        "popularity": 0.121,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Miranda",
+        "credit_id": "6a08da1a5ecc9221ce87824e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6202919,
+        "known_for_department": "Acting",
+        "name": "Raymal García",
+        "original_name": "Raymal García",
+        "popularity": 0.1303,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Papá",
+        "credit_id": "6a08da28a95ba711c1cfc4cf",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6218815,
+        "known_for_department": "Acting",
+        "name": "Christopher Lantigua",
+        "original_name": "Christopher Lantigua",
+        "popularity": 0.1513,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Matías",
+        "credit_id": "6a08da3747cdb126e987813a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6218816,
+        "known_for_department": "Acting",
+        "name": "Angelica Blanco",
+        "original_name": "Angelica Blanco",
+        "popularity": 0.1059,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Mamá",
+        "credit_id": "6a08da5047cdb126e9878144",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6205037,
+        "known_for_department": "Camera",
+        "name": "José Alberto Peña",
+        "original_name": "José Alberto Peña",
+        "popularity": 0.2223,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Paramédico",
+        "credit_id": "6a08da5e4e7db39bbe5fe306",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6190309,
+        "known_for_department": "Directing",
+        "name": "Jaideline Severino",
+        "original_name": "Jaideline Severino",
+        "popularity": 0.0513,
+        "profile_path": null,
+        "credit_id": "6a08da7314707ddb655fe381",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6190309,
+        "known_for_department": "Directing",
+        "name": "Jaideline Severino",
+        "original_name": "Jaideline Severino",
+        "popularity": 0.0513,
+        "profile_path": null,
+        "credit_id": "6a08da8277efdd373fbc65b8",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5282644,
+        "known_for_department": "Art",
+        "name": "Adelin Berihuete",
+        "original_name": "Adelin Berihuete",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a08da8e761b0725215a0296",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6190321,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Inés Vargas",
+        "original_name": "Inés Vargas",
+        "popularity": 0.0733,
+        "profile_path": null,
+        "credit_id": "6a08da998034a3a08a5a0307",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6201310,
+        "known_for_department": "Directing",
+        "name": "Jomar Olivarez",
+        "original_name": "Jomar Olivarez",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a08daa4742cad77f35a03ae",
+        "department": "Directing",
+        "job": "Continuity"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6201314,
+        "known_for_department": "Production",
+        "name": "Wander Ramírez",
+        "original_name": "Wander Ramírez",
+        "popularity": 0.038,
+        "profile_path": null,
+        "credit_id": "6a08dab41563d5255c68ff96",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6201315,
+        "known_for_department": "Production",
+        "name": "Elena Carrasco",
+        "original_name": "Elena Carrasco",
+        "popularity": 0.1225,
+        "profile_path": null,
+        "credit_id": "6a08db7223151a3f23658f80",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5305089,
+        "known_for_department": "Production",
+        "name": "Diana Guerrero",
+        "original_name": "Diana Guerrero",
+        "popularity": 0.0707,
+        "profile_path": null,
+        "credit_id": "6a08db874bdf57989065906e",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6201316,
+        "known_for_department": "Production",
+        "name": "Hugo Oscar Chávez",
+        "original_name": "Hugo Chavez",
+        "popularity": 0.088,
+        "profile_path": null,
+        "credit_id": "6a08db949d7ab30afede3085",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6218825,
+        "known_for_department": "Production",
+        "name": "Ava Samanian",
+        "original_name": "Ava Samanian",
+        "popularity": 0.0688,
+        "profile_path": null,
+        "credit_id": "6a08dbbc47cdb126e9878176",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6201314,
+        "known_for_department": "Production",
+        "name": "Wander Ramírez",
+        "original_name": "Wander Ramírez",
+        "popularity": 0.038,
+        "profile_path": null,
+        "credit_id": "6a08dbca9d7ab30afede3098",
+        "department": "Production",
+        "job": "Location Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6190309,
+        "known_for_department": "Directing",
+        "name": "Jaideline Severino",
+        "original_name": "Jaideline Severino",
+        "popularity": 0.0513,
+        "profile_path": null,
+        "credit_id": "6a08dbd6618f78c0439ce96e",
+        "department": "Production",
+        "job": "Location Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6190320,
+        "known_for_department": "Art",
+        "name": "Alexia Castillo",
+        "original_name": "Alexia Castillo",
+        "popularity": 0.0444,
+        "profile_path": null,
+        "credit_id": "6a08df16ae98be23eade304f",
+        "department": "Crew",
+        "job": "Catering"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6218215,
+        "known_for_department": "Production",
+        "name": "Ivan Toledo",
+        "original_name": "Ivan Toledo",
+        "popularity": 0.1151,
+        "profile_path": null,
+        "credit_id": "6a08df3c82a60a2d28de2f88",
+        "department": "Production",
+        "job": "Production Runner"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6201335,
+        "known_for_department": "Camera",
+        "name": "Ana Paola Muñoz",
+        "original_name": "Ana Paola Muñoz",
+        "popularity": 0.0376,
+        "profile_path": null,
+        "credit_id": "6a08df5b77efdd373fbc6643",
+        "department": "Crew",
+        "job": "Catering"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6218872,
+        "known_for_department": "Art",
+        "name": "Ambar Lora",
+        "original_name": "Ambar Lora",
+        "popularity": 0.0827,
+        "profile_path": null,
+        "credit_id": "6a08df6fc1bdbef0c58781d2",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5239761,
+        "known_for_department": "Production",
+        "name": "Paola Bruno",
+        "original_name": "Paola Bruno",
+        "popularity": 0.1201,
+        "profile_path": null,
+        "credit_id": "6a08df80c1bdbef0c58781d5",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5622499,
+        "known_for_department": "Acting",
+        "name": "Emil Guillén",
+        "original_name": "Emil Guillén",
+        "popularity": 0.065,
+        "profile_path": null,
+        "credit_id": "6a08df8b366d1716339ce96a",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6202937,
+        "known_for_department": "Camera",
+        "name": "Carlos De León",
+        "original_name": "Carlos De León",
+        "popularity": 0.0769,
+        "profile_path": null,
+        "credit_id": "6a08df9d9359c810fe9ce901",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6201327,
+        "known_for_department": "Camera",
+        "name": "Nayarette González",
+        "original_name": "Nayarette González",
+        "popularity": 0.0447,
+        "profile_path": null,
+        "credit_id": "6a08dfef8ae2c6dec39ce99e",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5316377,
+        "known_for_department": "Camera",
+        "name": "Sofia Richiez",
+        "original_name": "Sofia Richiez",
+        "popularity": 0.0436,
+        "profile_path": null,
+        "credit_id": "6a08e001742cad77f35a040f",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6202939,
+        "known_for_department": "Lighting",
+        "name": "Jhondry Cabrera",
+        "original_name": "Jhondry Cabrera",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a08e022366d1716339ce972",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6218880,
+        "known_for_department": "Camera",
+        "name": "Raymer Luciano",
+        "original_name": "Raymer Luciano",
+        "popularity": 0.082,
+        "profile_path": null,
+        "credit_id": "6a08e02c77efdd373fbc6654",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6218885,
+        "known_for_department": "Camera",
+        "name": "Nicole Sang",
+        "original_name": "Nicole Sang",
+        "popularity": 0.1249,
+        "profile_path": null,
+        "credit_id": "6a08e05e14707ddb655fe40d",
+        "department": "Camera",
+        "job": "BTS Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6218886,
+        "known_for_department": "Camera",
+        "name": "Aldward Castillo",
+        "original_name": "Aldward Castillo",
+        "popularity": 0.1327,
+        "profile_path": null,
+        "credit_id": "6a08e06abac80f0044bc6668",
+        "department": "Camera",
+        "job": "BTS Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5274721,
+        "known_for_department": "Art",
+        "name": "Liza Sánchez",
+        "original_name": "Liza Sánchez",
+        "popularity": 0.2968,
+        "profile_path": null,
+        "credit_id": "6a08e076eea700916368ff72",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5274725,
+        "known_for_department": "Art",
+        "name": "Martha Cabrera",
+        "original_name": "Martha Cabrera",
+        "popularity": 0.1268,
+        "profile_path": null,
+        "credit_id": "6a08e082dee2ac056acfc5b8",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6190313,
+        "known_for_department": "Art",
+        "name": "Jerson Wispi",
+        "original_name": "Jerson Wispi",
+        "popularity": 0.1227,
+        "profile_path": null,
+        "credit_id": "6a08e08fdc31d8d27d68ff27",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6218888,
+        "known_for_department": "Art",
+        "name": "Alorin Doriel",
+        "original_name": "Alorin Doriel",
+        "popularity": 0.0695,
+        "profile_path": null,
+        "credit_id": "6a08e0a23761a122f55fe350",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6218890,
+        "known_for_department": "Art",
+        "name": "Randy Buenos",
+        "original_name": "Randy Buenos",
+        "popularity": 0.0827,
+        "profile_path": null,
+        "credit_id": "6a08e0b8a95ba711c1cfc530",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6190316,
+        "known_for_department": "Art",
+        "name": "Joy Castillo",
+        "original_name": "Joy Castillo",
+        "popularity": 0.2405,
+        "profile_path": null,
+        "credit_id": "6a08e0c22f670f65485a02ab",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Master"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6218892,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Raicely Rodriguez",
+        "original_name": "Raicely Rodriguez",
+        "popularity": 0.0695,
+        "profile_path": null,
+        "credit_id": "6a08e0f52f670f65485a02b5",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6201304,
+        "known_for_department": "Production",
+        "name": "Lucía Amelia Pérez Castillo",
+        "original_name": "Lucía Pérez",
+        "popularity": 0.1195,
+        "profile_path": null,
+        "credit_id": "6a08e104a4aced63679ce8ba",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6202929,
+        "known_for_department": "Production",
+        "name": "Francine Alburquerque",
+        "original_name": "Francine Alburquerque",
+        "popularity": 0.0626,
+        "profile_path": null,
+        "credit_id": "6a08e1129d7ab30afede30f0",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6201309,
+        "known_for_department": "Directing",
+        "name": "Camila del Carmen",
+        "original_name": "Camila del Carmen",
+        "popularity": 0.068,
+        "profile_path": null,
+        "credit_id": "6a08e11ce66763714cde2f6e",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6201300,
+        "known_for_department": "Art",
+        "name": "Alexia Gómez",
+        "original_name": "Alexia Gómez",
+        "popularity": 0.0612,
+        "profile_path": null,
+        "credit_id": "6a08e1394bdf5798906590d3",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4243672,
+        "known_for_department": "Sound",
+        "name": "Robert Romero",
+        "original_name": "Robert Romero",
+        "popularity": 0.183,
+        "profile_path": null,
+        "credit_id": "6a08e147dee2ac056acfc5c3",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5274755,
+        "known_for_department": "Sound",
+        "name": "Claudio Rafael De Los Santos",
+        "original_name": "Claudio Rafael De Los Santos",
+        "popularity": 0.4273,
+        "profile_path": "/sUtznv9MCBmP81EmarpF8BJ450E.jpg",
+        "credit_id": "6a08e15607af51d4835a039c",
+        "department": "Sound",
+        "job": "Sound Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4110789,
+        "known_for_department": "Camera",
+        "name": "Miguel de la Cruz",
+        "original_name": "Miguel de la Cruz",
+        "popularity": 0.0773,
+        "profile_path": null,
+        "credit_id": "6a08e19b23151a3f23658feb",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6202937,
+        "known_for_department": "Camera",
+        "name": "Carlos De León",
+        "original_name": "Carlos De León",
+        "popularity": 0.0769,
+        "profile_path": null,
+        "credit_id": "6a08e290e03973a72d9ce864",
+        "department": "Editing",
+        "job": "Color Grading"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4439494,
+        "known_for_department": "Sound",
+        "name": "Su long Sang",
+        "original_name": "Su long Sang",
+        "popularity": 0.3575,
+        "profile_path": null,
+        "credit_id": "6a08e2ac3761a122f55fe3b3",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6218918,
+        "known_for_department": "Sound",
+        "name": "John Cocinsky",
+        "original_name": "John Cocinsky",
+        "popularity": 0.0764,
+        "profile_path": null,
+        "credit_id": "6a08e2de07af51d4835a03ce",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6218919,
+        "known_for_department": "Sound",
+        "name": "Carlos Martinez",
+        "original_name": "Carlos Martinez",
+        "popularity": 0.1209,
+        "profile_path": null,
+        "credit_id": "6a08e2f707af51d4835a03d7",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6201300,
+        "known_for_department": "Art",
+        "name": "Alexia Gómez",
+        "original_name": "Alexia Gómez",
+        "popularity": 0.0612,
+        "profile_path": null,
+        "credit_id": "6a08e30251593a4fe7de2f70",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5274761,
+        "known_for_department": "Visual Effects",
+        "name": "Jim Hernández Rosario",
+        "original_name": "Jim Hernández Rosario",
+        "popularity": 0.2823,
+        "profile_path": null,
+        "credit_id": "6a08e31174be7325d45fe311",
+        "department": "Visual Effects",
+        "job": "Animation"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Love leaves traces that resonate far beyond what we see.",
+          "runtime": 14,
+          "tagline": "Love leaves traces that resonate far beyond what we see.",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.675,
+        "height": 889,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/yMDFIbRielYL9AbzxARSVVyHZ9I.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 600
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "DO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "(UFFEST 2026)",
+            "release_date": "2026-03-26T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

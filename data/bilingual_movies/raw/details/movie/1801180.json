@@ -1,0 +1,498 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 1801180,
+  "imdb_id": null,
+  "origin_country": [
+    "CL"
+  ],
+  "original_language": "es",
+  "original_title": "Copahue Extremo",
+  "overview": "This fascinating documentary follows a Chilean-Argentine team of scientists in their search for extremophiles—living organisms that inhabit the most inhospitable conditions on Earth—to understand how, after billions of years of evolution and environmental change, they continue to exist and thrive. The expedition not only traverses stunning, remote landscapes but also invites reflection on the major challenges facing humanity, from climate change to the search for life on other planets.",
+  "popularity": 1.646,
+  "poster_path": "/jRkpheGxw6hAZk75i4hwouFhLqh.jpg",
+  "production_companies": [
+    {
+      "id": 314779,
+      "logo_path": null,
+      "name": "G.V.G Producciones",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CL",
+      "name": "Chile"
+    }
+  ],
+  "release_date": "2025-05-27",
+  "revenue": 0,
+  "runtime": 40,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "#documentary",
+  "title": "Copahue Extremo",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6558859,
+        "known_for_department": "Acting",
+        "name": "Dra. Raquel Quatrini",
+        "original_name": "Dra. Raquel Quatrini",
+        "popularity": 0.4166,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Self",
+        "credit_id": "6ad53ffb3242f589431e6376",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6558871,
+        "known_for_department": "Acting",
+        "name": "Fernando Díaz-Gonzáles",
+        "original_name": "Fernando Díaz-Gonzáles",
+        "popularity": 0.2898,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Self",
+        "credit_id": "6ad5414c1ccd3f8d8c20d94e",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6558878,
+        "known_for_department": "Acting",
+        "name": "M. Alejandra Giaveno",
+        "original_name": "M. Alejandra Giaveno",
+        "popularity": 0.0764,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Self",
+        "credit_id": "6ad541eee24eebda52797e3e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6558882,
+        "known_for_department": "Acting",
+        "name": "Simón Beard",
+        "original_name": "Simón Beard",
+        "popularity": 0.2195,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Self",
+        "credit_id": "6ad542838f1f0ebca920d73a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6558890,
+        "known_for_department": "Acting",
+        "name": "Camila Rojas-Villalobos",
+        "original_name": "Camila Rojas-Villalobos",
+        "popularity": 0.1756,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Self",
+        "credit_id": "6ad543620e288f6e876eaaf3",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6558913,
+        "known_for_department": "Acting",
+        "name": "Juan C. Duarte",
+        "original_name": "Juan C. Duarte",
+        "popularity": 0.2641,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Self",
+        "credit_id": "6ad545685410fcd5c21d4bac",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6558919,
+        "known_for_department": "Acting",
+        "name": "Francisco Issotta",
+        "original_name": "Francisco Issotta",
+        "popularity": 0.1917,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Self",
+        "credit_id": "6ad54600be6735963a797cad",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6558922,
+        "known_for_department": "Acting",
+        "name": "Dilanas Arisan",
+        "original_name": "Dilanas Arisan",
+        "popularity": 0.2289,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Self",
+        "credit_id": "6ad54699dda0be39240d9a54",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6558923,
+        "known_for_department": "Acting",
+        "name": "Rubén \"Cani\"  Vargas",
+        "original_name": "Rubén \"Cani\"  Vargas",
+        "popularity": 0.2155,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Self",
+        "credit_id": "6ad547397ddbe019a03db8ab",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6558927,
+        "known_for_department": "Acting",
+        "name": "José Ricardo Ulloa",
+        "original_name": "José Ricardo Ulloa",
+        "popularity": 0.032,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Self",
+        "credit_id": "6ad5482dd84e5cc0a61d4a3b",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6558929,
+        "known_for_department": "Acting",
+        "name": "Ana Moya-Beltrán",
+        "original_name": "Ana Moya-Beltrán",
+        "popularity": 0.032,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Self",
+        "credit_id": "6ad54985e1235242700d9962",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6558932,
+        "known_for_department": "Acting",
+        "name": "Carmen Rosa Paine Tranamin",
+        "original_name": "Carmen Rosa Paine Tranamin",
+        "popularity": 0.045,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Self",
+        "credit_id": "6ad54ae6079be8ac73797bca",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6558937,
+        "known_for_department": "Acting",
+        "name": "Héctor Carrasco",
+        "original_name": "Héctor Carrasco",
+        "popularity": 0.032,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Self",
+        "credit_id": "6ad54bd68b5f0ffd05366f82",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3283384,
+        "known_for_department": "Directing",
+        "name": "Julián Rosenblatt",
+        "original_name": "Julián Rosenblatt",
+        "popularity": 0.4374,
+        "profile_path": null,
+        "credit_id": "6ad538ce0584e525c6797954",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3283384,
+        "known_for_department": "Directing",
+        "name": "Julián Rosenblatt",
+        "original_name": "Julián Rosenblatt",
+        "popularity": 0.4374,
+        "profile_path": null,
+        "credit_id": "6ad539323c1ea96f5a0d802d",
+        "department": "Crew",
+        "job": "Script"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2008504,
+        "known_for_department": "Writing",
+        "name": "Paula Armstrong",
+        "original_name": "Paula Armstrong",
+        "popularity": 0.2211,
+        "profile_path": null,
+        "credit_id": "6ad5395f1ccd3f8d8c20d8dc",
+        "department": "Crew",
+        "job": "Script"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1347842,
+        "known_for_department": "Directing",
+        "name": "Pablo Rosenblatt",
+        "original_name": "Pablo Rosenblatt",
+        "popularity": 0.1395,
+        "profile_path": null,
+        "credit_id": "6ad53a45234128718e0d99dc",
+        "department": "Production",
+        "job": "Production Executive"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6558753,
+        "known_for_department": "Crew",
+        "name": "Belén Honores",
+        "original_name": "Belén Honores",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6ad53a71079be8ac73797ad5",
+        "department": "Crew",
+        "job": "Script"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2509047,
+        "known_for_department": "Production",
+        "name": "Pamela Mardones",
+        "original_name": "Pamela Mardones",
+        "popularity": 0.0675,
+        "profile_path": null,
+        "credit_id": "6ad53b57f9405bc2021e6250",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6558801,
+        "known_for_department": "Camera",
+        "name": "Matías Pizarro",
+        "original_name": "Matías Pizarro",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6ad53beebfea06bc4120d69b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4433443,
+        "known_for_department": "Editing",
+        "name": "Anelich Hernández",
+        "original_name": "Anelich Hernández",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "6ad53c5bdda0be39240d999e",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2008504,
+        "known_for_department": "Writing",
+        "name": "Paula Armstrong",
+        "original_name": "Paula Armstrong",
+        "popularity": 0.2211,
+        "profile_path": null,
+        "credit_id": "6ad53c718d2d65f182033496",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6558812,
+        "known_for_department": "Sound",
+        "name": "Joseph Villanelo",
+        "original_name": "Joseph Villanelo",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6ad53c87e24eebda52797df0",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6558814,
+        "known_for_department": "Sound",
+        "name": "Rodrigo Olivares Urbina",
+        "original_name": "Rodrigo Olivares Urbina",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "6ad53ca1df0dc5b3543db5f9",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6558835,
+        "known_for_department": "Editing",
+        "name": "Daniela Toscano",
+        "original_name": "Daniela Toscano",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6ad53d8c8f1f0ebca920d6af",
+        "department": "Editing",
+        "job": "Color Grading"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6558814,
+        "known_for_department": "Sound",
+        "name": "Rodrigo Olivares Urbina",
+        "original_name": "Rodrigo Olivares Urbina",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "6ad53dc6dd33dcd3fa6ea9db",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 2210,
+        "name": "climate change"
+      },
+      {
+        "id": 6460,
+        "name": "chile"
+      },
+      {
+        "id": 10596,
+        "name": "argentina"
+      },
+      {
+        "id": 175985,
+        "name": "landscape"
+      },
+      {
+        "id": 221355,
+        "name": "nature documentary"
+      },
+      {
+        "id": 282080,
+        "name": "documentary"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "This fascinating documentary follows a Chilean-Argentine team of scientists in their search for extremophiles—living organisms that inhabit the most inhospitable conditions on Earth—to understand how, after billions of years of evolution and environmental change, they continue to exist and thrive. The expedition not only traverses stunning, remote landscapes but also invites reflection on the major challenges facing humanity, from climate change to the search for life on other planets.",
+          "runtime": 40,
+          "tagline": "#documentary",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "Cine Arte Alameda",
+            "release_date": "2025-05-27T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Copahue Extremo, Un Viaje al Pasado y el Futuro del Planeta",
+        "key": "fKLmIxDInQU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": false,
+        "id": "6ad54d60391ab279ec797e33",
+        "published_at": "2025-05-28T16:00:06.000Z"
+      }
+    ]
+  }
+}

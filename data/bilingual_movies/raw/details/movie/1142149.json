@@ -1,0 +1,876 @@
+{
+  "adult": false,
+  "backdrop_path": "/rjoLKgOZeqdWUMEYhVq2Vf7JVxu.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "https://www.nfb.ca/distribution/film/the-girl-who-cried-pearls",
+  "id": 1142149,
+  "imdb_id": "tt36956820",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "fr",
+  "original_title": "La jeune fille qui pleurait des perles",
+  "overview": "A poor boy’s love for a girl whose tears turn to pearls leads him into a perilous bargain between love, greed, and survival.",
+  "popularity": 3.1376,
+  "poster_path": "/sqdqvstmM2vOBnb5beVT8lOQ4Oi.jpg",
+  "production_companies": [
+    {
+      "id": 10473,
+      "logo_path": "/lMUDQZVtg8On4PAW5XFQPaQy6UK.png",
+      "name": "ONF | NFB",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2025-06-08",
+  "revenue": 0,
+  "runtime": 17,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Girl Who Cried Pearls",
+  "video": false,
+  "vote_average": 7.533,
+  "vote_count": 61,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 574834,
+        "known_for_department": "Acting",
+        "name": "James Hyndman",
+        "original_name": "James Hyndman",
+        "popularity": 0.2404,
+        "profile_path": "/j82zTlwKxylV3qHCtycJ09epeU9.jpg",
+        "cast_id": 5,
+        "character": "Grandfather (voice)",
+        "credit_id": "68ae3cf8c8730bdfb156b573",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5651548,
+        "known_for_department": "Acting",
+        "name": "Simone Paradis",
+        "original_name": "Simone Paradis",
+        "popularity": 0.1228,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Petite-fille (voice)",
+        "credit_id": "68ae3d0491b9836e9362469a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5651546,
+        "known_for_department": "Acting",
+        "name": "Gabrielle Dallaire",
+        "original_name": "Gabrielle Dallaire",
+        "popularity": 0.2207,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Ambiance (voice)",
+        "credit_id": "68ae3ce1589a21e0ff56b477",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5883344,
+        "known_for_department": "Acting",
+        "name": "Charlotte Loseth",
+        "original_name": "Charlotte Loseth",
+        "popularity": 0.0463,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Ambiance (voice)",
+        "credit_id": "6942f53fa51ce8a7cf52bb25",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 114351,
+        "known_for_department": "Directing",
+        "name": "Chris Lavis",
+        "original_name": "Chris Lavis",
+        "popularity": 0.4972,
+        "profile_path": "/7oKmSuldZMh9WkaENf3DcyYVxrW.jpg",
+        "credit_id": "64905608c2ff3d0139af5caa",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 114352,
+        "known_for_department": "Directing",
+        "name": "Maciek Szczerbowski",
+        "original_name": "Maciek Szczerbowski",
+        "popularity": 0.3481,
+        "profile_path": "/oIkJJ3OxzXFY30mxypcsQWZCxu.jpg",
+        "credit_id": "64905615c2ff3d00ad033223",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 114351,
+        "known_for_department": "Directing",
+        "name": "Chris Lavis",
+        "original_name": "Chris Lavis",
+        "popularity": 0.4972,
+        "profile_path": "/7oKmSuldZMh9WkaENf3DcyYVxrW.jpg",
+        "credit_id": "68ae3d1d7cd909df3b3d86fd",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5651551,
+        "known_for_department": "Writing",
+        "name": "Isabelle Mandalian",
+        "original_name": "Isabelle Mandalian",
+        "popularity": 0.1074,
+        "profile_path": null,
+        "credit_id": "68ae3d2a99cfa3794c390327",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 114352,
+        "known_for_department": "Directing",
+        "name": "Maciek Szczerbowski",
+        "original_name": "Maciek Szczerbowski",
+        "popularity": 0.3481,
+        "profile_path": "/oIkJJ3OxzXFY30mxypcsQWZCxu.jpg",
+        "credit_id": "68ae3d3399cfa3794c39032e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 588800,
+        "known_for_department": "Production",
+        "name": "Marc Bertrand",
+        "original_name": "Marc Bertrand",
+        "popularity": 0.4307,
+        "profile_path": null,
+        "credit_id": "68ae3d40e74c81dee9b36d6a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3888980,
+        "known_for_department": "Production",
+        "name": "Christine Noël",
+        "original_name": "Christine Noël",
+        "popularity": 0.2154,
+        "profile_path": null,
+        "credit_id": "68ae3d4b094daa6ff54eba6b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 588677,
+        "known_for_department": "Production",
+        "name": "Julie Roy",
+        "original_name": "Julie Roy",
+        "popularity": 0.4416,
+        "profile_path": "/zRLaeoFkAK8jvZ1I0HArn2BFaxP.jpg",
+        "credit_id": "68ae3d587cd909df3b3d8704",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2699839,
+        "known_for_department": "Directing",
+        "name": "Laura Stewart",
+        "original_name": "Laura Stewart",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "695ff40d3a8dfbe973363be9",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5541848,
+        "known_for_department": "Directing",
+        "name": "Laura Venditti",
+        "original_name": "Laura Venditti",
+        "popularity": 0.0425,
+        "profile_path": null,
+        "credit_id": "695ff420b4814dbc5d5956a6",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1584350,
+        "known_for_department": "Visual Effects",
+        "name": "Peggy Arel",
+        "original_name": "Peggy Arel",
+        "popularity": 0.0579,
+        "profile_path": null,
+        "credit_id": "695ff43248a48952385956fe",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 114358,
+        "known_for_department": "Sound",
+        "name": "Olivier Calvert",
+        "original_name": "Olivier Calvert",
+        "popularity": 0.3471,
+        "profile_path": "/e3iZCsoamtUcVDmN1rwsxAJVFgr.jpg",
+        "credit_id": "6973b1ee867fe319ffdca80b",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1195235,
+        "known_for_department": "Art",
+        "name": "Brigitte Henry",
+        "original_name": "Brigitte Henry",
+        "popularity": 0.0751,
+        "profile_path": null,
+        "credit_id": "6973b20344aef8400be3d9f2",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5243467,
+        "known_for_department": "Acting",
+        "name": "Yso",
+        "original_name": "Yso",
+        "popularity": 0.0372,
+        "profile_path": null,
+        "credit_id": "6973b25739d2c3199fdca858",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3888980,
+        "known_for_department": "Production",
+        "name": "Christine Noël",
+        "original_name": "Christine Noël",
+        "popularity": 0.2154,
+        "profile_path": null,
+        "credit_id": "6973b26e2c629aea78dca7cb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 588677,
+        "known_for_department": "Production",
+        "name": "Julie Roy",
+        "original_name": "Julie Roy",
+        "popularity": 0.4416,
+        "profile_path": "/zRLaeoFkAK8jvZ1I0HArn2BFaxP.jpg",
+        "credit_id": "6973b2a8313a65fe79893fbc",
+        "department": "Production",
+        "job": "Development Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1026437,
+        "known_for_department": "Sound",
+        "name": "Patrick Watson",
+        "original_name": "Patrick Watson",
+        "popularity": 0.2851,
+        "profile_path": "/5FSP2NWgR6GDjyMJYIZVLsUN5G0.jpg",
+        "credit_id": "69b85beb801a326ccc08f40f",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1267055,
+        "known_for_department": "Sound",
+        "name": "Lise Wedlock",
+        "original_name": "Lise Wedlock",
+        "popularity": 0.1598,
+        "profile_path": null,
+        "credit_id": "6ae8cf108fca175f18e6d476",
+        "department": "Sound",
+        "job": "Foley"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 3431,
+        "name": "materialism"
+      },
+      {
+        "id": 198423,
+        "name": "moral dilemma"
+      },
+      {
+        "id": 229352,
+        "name": "opportunism"
+      },
+      {
+        "id": 248870,
+        "name": "memories"
+      },
+      {
+        "id": 328072,
+        "name": "fight for survival"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "https://www.nfb.ca/distribution/film/the-girl-who-cried-pearls",
+          "overview": "A poor boy’s love for a girl whose tears turn to pearls leads him into a perilous bargain between love, greed, and survival.",
+          "runtime": 17,
+          "tagline": "",
+          "title": "The Girl Who Cried Pearls"
+        }
+      },
+      {
+        "iso_3166_1": "TW",
+        "iso_639_1": "zh",
+        "name": "普通话",
+        "english_name": "Mandarin",
+        "data": {
+          "homepage": "",
+          "overview": "一則令人揮之不去的寓言、一位因悲傷而潰堤的女孩、一位默默愛著她的男孩；當貪婪染指純真，善良的心也將走向墮落。",
+          "runtime": 0,
+          "tagline": "",
+          "title": "珍珠的眼淚"
+        }
+      },
+      {
+        "iso_3166_1": "PL",
+        "iso_639_1": "pl",
+        "name": "Polski",
+        "english_name": "Polish",
+        "data": {
+          "homepage": "",
+          "overview": "Przejmująca baśń o dziewczynie przytłoczonej smutkiem, chłopaku, który ją kocha, i o tym, jak chciwość popycha dobre serca do złych uczynków.",
+          "runtime": 17,
+          "tagline": "",
+          "title": "Dziewczynka, która płakała perłami"
+        }
+      },
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "",
+          "overview": "In Montreal verliebt sich zu Beginn des 20. Jahrhunderts ein armer Junge in ein Mädchen, dessen Tränen sich in Perlen verwandeln. Er verkauft sie an einen skrupellosen und gierigen Pfandleiher. Von der Aussicht auf Wohlstand getrieben, muss der Junge sich zwischen Liebe und Reichtum entscheiden.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Das Mädchen, das Perlen weinte"
+        }
+      },
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "Un garçon pauvre tombe amoureux d’une jeune fille dont les larmes se transforment en perles. Il les vend à un prêteur sur gages impitoyable et avide. Tenté par la cupidité le garçon doit choisir entre l’amour et la fortune. Montréal, à l’aube du XXème siècle.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "RU",
+        "iso_639_1": "ru",
+        "name": "Pусский",
+        "english_name": "Russian",
+        "data": {
+          "homepage": "",
+          "overview": "Пронзительная притча о девочке, объятой скорбью, мальчике, который её любит, и о том, как алчность толкает добрые сердца на злые поступки.",
+          "runtime": 17,
+          "tagline": "",
+          "title": "Девушка, которая плакала жемчугом"
+        }
+      },
+      {
+        "iso_3166_1": "NL",
+        "iso_639_1": "nl",
+        "name": "Nederlands",
+        "english_name": "Dutch",
+        "data": {
+          "homepage": "",
+          "overview": "Een verontrustend verhaal over een door verdriet overrompeld meisje, de jongen die van haar houdt en hoe hebzucht zelfs goede harten kan verderven.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "The Girl Who Cried Pearls"
+        }
+      },
+      {
+        "iso_3166_1": "IT",
+        "iso_639_1": "it",
+        "name": "Italiano",
+        "english_name": "Italian",
+        "data": {
+          "homepage": "",
+          "overview": "Una favola inquietante su una ragazza sopraffatta dal dolore, il ragazzo che la ama e su come l'avidità porti i cuori buoni a compiere azioni malvagie.",
+          "runtime": 16,
+          "tagline": "",
+          "title": "La ragazza che piangeva perle"
+        }
+      },
+      {
+        "iso_3166_1": "CN",
+        "iso_639_1": "zh",
+        "name": "普通话",
+        "english_name": "Mandarin",
+        "data": {
+          "homepage": "",
+          "overview": "一位穷苦少年爱上了一位泪水能化作珍珠的少女，这份爱将他卷入了一场在爱情、贪婪与生存之间险象环生的交易之中。",
+          "runtime": 0,
+          "tagline": "",
+          "title": "泪珠成珍的女孩"
+        }
+      },
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "En Montreal, a principios del siglo XX, un joven pobre se enamora de una joven cuyo dolor se transforma en perlas. Las vende a un prestamista despiadado, ávido de más. Tentado por la codicia, el joven debe elegir entre el amor y la fortuna.",
+          "runtime": 18,
+          "tagline": "",
+          "title": "La chica que lloraba perlas"
+        }
+      },
+      {
+        "iso_3166_1": "CA",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "À Montréal, à l’aube du 20e siècle, un garçon miséreux tombe amoureux d’une jeune fille dont les pleurs se transforment en perles. Pour survivre, il les vend à un prêteur sur gages sans scrupules et avide d’en obtenir davantage. Tiraillé entre l’amour et la cupidité, le garçon doit subir les conséquences périlleuses de ses choix. Réalisé par Chris Lavis et Maciek Szczerbowski (Madame Tutli-Putli), nommés aux Oscars, La jeune fille qui pleurait des perles est un conte de fées moderne qui prend vie grâce à un travail artisanal raffiné d’animation image par image. Les marionnettes fabriquées à la main, la narration envoûtante de James Hyndman (en français) et de Colm Feore (en anglais), ainsi que la musique évocatrice de Patrick Watson, concourent à faire du film une parabole intemporelle sur les thèmes du désir, de la duperie et du prix de l’innocence.",
+          "runtime": 17,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "BR",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "homepage": "",
+          "overview": "Em Montreal, no alvorecer do século XX, um rapaz pobre apaixona-se por uma rapariga cuja tristeza se transforma em pérolas. Ele vende-as a um agiota implacável, ávido por mais. Tentado pela ganância, o rapaz tem de escolher entre o amor e a fortuna. A escolha poderá condenar a sua alma.",
+          "runtime": 18,
+          "tagline": "",
+          "title": "A Garota que Chorava Pérolas"
+        }
+      },
+      {
+        "iso_3166_1": "HU",
+        "iso_639_1": "hu",
+        "name": "Magyar",
+        "english_name": "Hungarian",
+        "data": {
+          "homepage": "",
+          "overview": "Egy kísérteties mese egy bánatába süllyedt lányról; a fiúról, aki szereti őt; és arról, hogyan vezet a kapzsiság a jó szívű embereket gonosz cselekedetekre.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt36956820",
+    "wikidata_id": "Q136290241",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/rjoLKgOZeqdWUMEYhVq2Vf7JVxu.jpg",
+        "vote_average": 3.334,
+        "vote_count": 2,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/6GDpqqBm91cTo3yRZKsn3He4duQ.jpg",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.78,
+        "height": 722,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/ju36Eobq3J9RxrxF15hdr3wAJ7W.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1285
+      },
+      {
+        "aspect_ratio": 1.78,
+        "height": 722,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/mgMVYadSnRjI28S7wfZzYJ3lfVT.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1285
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/sOHaT23CtG5Oea8gfEorI7WfezD.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/cni0ERVmmjMpwm17lZwCIefuXd7.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/nB4yAxOq6175OtwAxWmufvEFd93.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/usn1jU2T1nrsklTqYMN6izExED6.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/rvqo5vHphkFKQzQnGiCra23ItYC.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      }
+    ],
+    "logos": [
+      {
+        "aspect_ratio": 2.309,
+        "height": 866,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/vbzh8l3nf9Kjhh0VWQr8cWVmTt7.png",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/sqdqvstmM2vOBnb5beVT8lOQ4Oi.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/3gcYOD9k9KtChUld4f78tm7WJjt.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1536,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/ecIsRj9YUTVdRCoxqOQmDvejGPy.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1024
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Tirana International Film Festival",
+            "release_date": "2025-09-24T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Toronto International Film Festival",
+            "release_date": "2025-09-04T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "Animation Festival of Halifax",
+            "release_date": "2026-05-08T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Ottawa International Animation Festival",
+            "release_date": "2025-09-25T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-18T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Annecy International Animation Film Festival",
+            "release_date": "2025-06-08T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Arte (Court-circuit)",
+            "release_date": "2025-11-23T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Bucheon Int'l Animation Festival",
+            "release_date": "2025-10-24T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TW",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Taichung International Animation Festival",
+            "release_date": "2025-10-13T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Taichung International Animation Festival",
+            "release_date": "2026-10-06T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "'The Girl Who Cried Pearls' Wins Best Animated Short Film | 98th Oscars Speech (2026)",
+        "key": "kPwwRyYumYM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6a09fef710c9dec2cdf9ed01",
+        "published_at": "2026-05-07T15:01:17.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Girl Who Cried Pearls Best Animated Short Film Press Room Speech | 98th Oscars (2026)",
+        "key": "5LgWhIdKYXE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "69b7d6ef4e5c86200a08f22b",
+        "published_at": "2026-03-16T01:11:34.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Girl Who Cried Pearls | OFFICIAL TRAILER",
+        "key": "c_amkqzonSM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "693713fdd3a5610c2b1343d9",
+        "published_at": "2025-11-07T14:25:41.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "🕯️MAKING OF | The Girl Who Cried Pearls",
+        "key": "C6n1Cw3MYZg",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Behind the Scenes",
+        "official": false,
+        "id": "690380de935a8b47e634cd9a",
+        "published_at": "2025-10-30T08:57:54.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "THE GIRL WHO CRIED PEARLS Clip | TIFF 2025",
+        "key": "SEXnnHtAmyU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6906e2e4ffd9d63115dd824e",
+        "published_at": "2025-08-07T14:00:43.000Z"
+      }
+    ]
+  }
+}

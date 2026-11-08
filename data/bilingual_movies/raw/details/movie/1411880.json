@@ -1,0 +1,620 @@
+{
+  "adult": false,
+  "backdrop_path": "/rTRCzrpHlpMJGy4zO59DCZIcVc4.jpg",
+  "belongs_to_collection": null,
+  "budget": 20000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1411880,
+  "imdb_id": "tt35249744",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Take Care",
+  "overview": "A self-destructive woman deliberately injures herself to be taken care of by an ER nurse she's grown attached to.",
+  "popularity": 1.0587,
+  "poster_path": "/gSILXvFZX8MP9Qx4yLpiVlPeC8s.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-10-04",
+  "revenue": 0,
+  "runtime": 12,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Take Care",
+  "video": false,
+  "vote_average": 4.0,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1693214,
+        "known_for_department": "Acting",
+        "name": "Courtney Pauroso",
+        "original_name": "Courtney Pauroso",
+        "popularity": 0.455,
+        "profile_path": "/rRbWPqRUq8eDbz7wXew4Nnzw7pc.jpg",
+        "cast_id": 1,
+        "character": "Leah",
+        "credit_id": "67783818496dd952c8726320",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 159396,
+        "known_for_department": "Acting",
+        "name": "Stephanie Courtney",
+        "original_name": "Stephanie Courtney",
+        "popularity": 0.4625,
+        "profile_path": "/vcytGt5hAPQltCpVXfYdMyWqDR8.jpg",
+        "cast_id": 2,
+        "character": "Nelly",
+        "credit_id": "67783826b55ff939be669f44",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1701444,
+        "known_for_department": "Acting",
+        "name": "DeMorge Brown",
+        "original_name": "DeMorge Brown",
+        "popularity": 0.3745,
+        "profile_path": "/zbwVRldLiwq5NrCB9JQcZEgLqm7.jpg",
+        "cast_id": 3,
+        "character": "Torian",
+        "credit_id": "6778382d55d4b38f93669c9d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2997583,
+        "known_for_department": "Acting",
+        "name": "Ben Coleman",
+        "original_name": "Ben Coleman",
+        "popularity": 0.0741,
+        "profile_path": "/23kkzCprcOyfKoBvQAuvkaXMmgn.jpg",
+        "cast_id": 4,
+        "character": "Garrett",
+        "credit_id": "67783835496dd952c8726346",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1980001,
+        "known_for_department": "Acting",
+        "name": "Jackie Gonzalez-Durruthy",
+        "original_name": "Jackie Gonzalez-Durruthy",
+        "popularity": 0.2602,
+        "profile_path": "/pfjEQ6hzIRwe8IpcPhJ9gn3hnwy.jpg",
+        "cast_id": 5,
+        "character": "ER Receptionist",
+        "credit_id": "6778384a496dd952c8726352",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5156850,
+        "known_for_department": "Acting",
+        "name": "Jamie Manelis",
+        "original_name": "Jamie Manelis",
+        "popularity": 0.1812,
+        "profile_path": "/3JA6IHunHBFFSSLBq06Bp70iu1i.jpg",
+        "cast_id": 6,
+        "character": "Annoyed Woman",
+        "credit_id": "67783857c11ee61dd874b17a",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3306061,
+        "known_for_department": "Acting",
+        "name": "Derrick DeBlasis",
+        "original_name": "Derrick DeBlasis",
+        "popularity": 0.1517,
+        "profile_path": "/bux4HpQ7gwgULOrqPGdQvIbAjlQ.jpg",
+        "cast_id": 19,
+        "character": "Boyfriend",
+        "credit_id": "677839d9b55ff939be669fd0",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1441599,
+        "known_for_department": "Acting",
+        "name": "Devin Lytle",
+        "original_name": "Devin Lytle",
+        "popularity": 0.2018,
+        "profile_path": "/dFK6yytOac6NeTY1LUzFfceCkFV.jpg",
+        "cast_id": 20,
+        "character": "Girlfriend",
+        "credit_id": "677839e682cce15a7674b8b0",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2376894,
+        "known_for_department": "Writing",
+        "name": "Amanda Holland",
+        "original_name": "Amanda Holland",
+        "popularity": 0.1829,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Masked Woman",
+        "credit_id": "677839ef496dd952c87263fb",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5156862,
+        "known_for_department": "Acting",
+        "name": "Steph Cheng",
+        "original_name": "Steph Cheng",
+        "popularity": 0.2352,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Ill Woman",
+        "credit_id": "677839f7c11ee61dd874b226",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1946760,
+        "known_for_department": "Writing",
+        "name": "Nick Fascitelli",
+        "original_name": "Nick Fascitelli",
+        "popularity": 0.3035,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Beat Up Guy",
+        "credit_id": "677839fe38d26a2a637260b6",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5156863,
+        "known_for_department": "Acting",
+        "name": "Sam Block",
+        "original_name": "Sam Block",
+        "popularity": 0.1802,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Injured Longboarder",
+        "credit_id": "67783a0ab55ff939be669ff3",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2097210,
+        "known_for_department": "Writing",
+        "name": "Gregg Zehentner",
+        "original_name": "Gregg Zehentner",
+        "popularity": 0.1284,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Waiting Room Dad",
+        "credit_id": "67783a1338d26a2a637260c9",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3474239,
+        "known_for_department": "Writing",
+        "name": "Brittany Ashley",
+        "original_name": "Brittany Ashley",
+        "popularity": 0.1254,
+        "profile_path": "/hc7dX2ZErzKsK0aGqY8EmALzS76.jpg",
+        "credit_id": "67783870c11ee61dd874b189",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3474239,
+        "known_for_department": "Writing",
+        "name": "Brittany Ashley",
+        "original_name": "Brittany Ashley",
+        "popularity": 0.1254,
+        "profile_path": "/hc7dX2ZErzKsK0aGqY8EmALzS76.jpg",
+        "credit_id": "6778387d38d26a2a63726036",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3474239,
+        "known_for_department": "Writing",
+        "name": "Brittany Ashley",
+        "original_name": "Brittany Ashley",
+        "popularity": 0.1254,
+        "profile_path": "/hc7dX2ZErzKsK0aGqY8EmALzS76.jpg",
+        "credit_id": "6778388638d26a2a63726042",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4475907,
+        "known_for_department": "Writing",
+        "name": "Henry Loevner",
+        "original_name": "Henry Loevner",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "6778388e496dd952c872636d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2482693,
+        "known_for_department": "Crew",
+        "name": "Matthew A. Miller",
+        "original_name": "Matthew A. Miller",
+        "popularity": 0.182,
+        "profile_path": "/a0vomYYlvpE9fTvUGwH3fzmQXGE.jpg",
+        "credit_id": "677838a382cce15a7674b818",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2713512,
+        "known_for_department": "Acting",
+        "name": "Claudia Restrepo",
+        "original_name": "Claudia Restrepo",
+        "popularity": 0.4387,
+        "profile_path": "/a3FeSQBYSsUXWGv2Z1toaet1hNC.jpg",
+        "credit_id": "677838b1c11ee61dd874b191",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3681000,
+        "known_for_department": "Sound",
+        "name": "Adisa Septuri",
+        "original_name": "Adisa Septuri",
+        "popularity": 0.1178,
+        "profile_path": null,
+        "credit_id": "677838c2496dd952c8726389",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3207236,
+        "known_for_department": "Art",
+        "name": "Amelia Blackburn",
+        "original_name": "Amelia Blackburn",
+        "popularity": 0.1316,
+        "profile_path": null,
+        "credit_id": "677838ed82cce15a7674b831",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5156854,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Cristina Keane",
+        "original_name": "Cristina Keane",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6778390182cce15a7674b83d",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2875968,
+        "known_for_department": "Directing",
+        "name": "Steven Kanter",
+        "original_name": "Steven Kanter",
+        "popularity": 0.2203,
+        "profile_path": null,
+        "credit_id": "6778392355d4b38f93669cec",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4565277,
+        "known_for_department": "Camera",
+        "name": "Ben Palmer",
+        "original_name": "Ben Palmer",
+        "popularity": 0.1033,
+        "profile_path": null,
+        "credit_id": "6778393a5ac1bd8261669669",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3306061,
+        "known_for_department": "Acting",
+        "name": "Derrick DeBlasis",
+        "original_name": "Derrick DeBlasis",
+        "popularity": 0.1517,
+        "profile_path": "/bux4HpQ7gwgULOrqPGdQvIbAjlQ.jpg",
+        "credit_id": "67783a33313383d2ad725a9a",
+        "department": "Camera",
+        "job": "BTS Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5752128,
+        "known_for_department": "Sound",
+        "name": "Tancred",
+        "original_name": "Tancred",
+        "popularity": 0.1296,
+        "profile_path": null,
+        "credit_id": "68f05f8d9ad23a5ba9c23d42",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5752131,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Leigh Mader",
+        "original_name": "Leigh Mader",
+        "popularity": 0.0811,
+        "profile_path": null,
+        "credit_id": "68f05fbb907fee2486ad7c7d",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1302966,
+        "known_for_department": "Sound",
+        "name": "Michael J. McDonald",
+        "original_name": "Michael J. McDonald",
+        "popularity": 0.2169,
+        "profile_path": null,
+        "credit_id": "68f06026b2956527fdad7c61",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 10123,
+        "name": "dark comedy"
+      },
+      {
+        "id": 283085,
+        "name": "body horror"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "A self-destructive woman deliberately injures herself to be taken care of by an ER nurse she's grown attached to.",
+          "runtime": 12,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt35249744",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "@takecare_thefilm",
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/rTRCzrpHlpMJGy4zO59DCZIcVc4.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/9LH5iDVGF6lFdqy72mNvhS8ckee.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.682,
+        "height": 2110,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/gSILXvFZX8MP9Qx4yLpiVlPeC8s.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1440
+      },
+      {
+        "aspect_ratio": 0.671,
+        "height": 1796,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/nt6dTnK1tzT3xKlbGhVPg4ZvAwl.jpg",
+        "vote_average": 0.0,
+        "vote_count": 1,
+        "width": 1206
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Australia Premiere - Melbourne Queer Film Festival",
+            "release_date": "2025-11-15T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "UK Premiere - York, UK at Aesthetica Film Festival",
+            "release_date": "2025-11-05T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Italy Premiere - Milano, Italy at MIX Italia LGBTQ Film Festival",
+            "release_date": "2025-09-21T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "North American Premiere - San Francisco, CA at Frameline Film Festival",
+            "release_date": "2025-06-28T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Southeastern US Premiere - Nashville Film Festival",
+            "release_date": "2025-09-19T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Southwestern Premiere - Provo, UT at FilmQuest Film Festival",
+            "release_date": "2025-11-01T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Northeastern US Premiere - Baltimore, MD at New/Next Festival",
+            "release_date": "2025-10-04T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "TAKE CARE (2025) 0:25 trailer, dir. Brittany Ashley",
+        "key": "1138403373",
+        "site": "Vimeo",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "6965609bc00d19b43edb258c",
+        "published_at": "2025-11-19T07:38:48.000Z"
+      }
+    ]
+  }
+}

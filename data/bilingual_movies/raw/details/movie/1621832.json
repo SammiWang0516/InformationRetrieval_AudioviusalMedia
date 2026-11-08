@@ -1,0 +1,703 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 2500,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.stellarxstudios.com/retrospection",
+  "id": 1621832,
+  "imdb_id": "tt32085129",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Retrospection",
+  "overview": "Timothee and Hope reunite after years apart under mysterious circumstances. As the key to the future, they must race against time to prevent a radical organization, led by Agent 5010 and his counterparts, from exploiting their special abilities.",
+  "popularity": 0.7663,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 200601,
+      "logo_path": null,
+      "name": "Stellar X Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2026-01-17",
+  "revenue": 0,
+  "runtime": 84,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "Retrospection",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4070726,
+        "known_for_department": "Production",
+        "name": "Brady Copeland",
+        "original_name": "Brady Copeland",
+        "popularity": 0.0929,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Timothee",
+        "credit_id": "6973dec00277a4eb64380b47",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5612405,
+        "known_for_department": "Acting",
+        "name": "Emily Slass",
+        "original_name": "Emily Slass",
+        "popularity": 0.0473,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Hope",
+        "credit_id": "6973de6492bab261a7e3dab9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2554398,
+        "known_for_department": "Acting",
+        "name": "Jeremy Miller",
+        "original_name": "Jeremy Miller",
+        "popularity": 0.3687,
+        "profile_path": "/fzKKQUmLnBgjeTiXCNv1o2wwOKF.jpg",
+        "cast_id": 3,
+        "character": "Agent 5010",
+        "credit_id": "6973de72f803dd6405dca957",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4129015,
+        "known_for_department": "Acting",
+        "name": "Joshwa Copeland",
+        "original_name": "Joshwa Copeland",
+        "popularity": 0.0921,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Elias",
+        "credit_id": "6973ecdbb4998f40a037be43",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4807359,
+        "known_for_department": "Acting",
+        "name": "Veronica Bernier",
+        "original_name": "Veronica Bernier",
+        "popularity": 0.0813,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Rosario",
+        "credit_id": "6973ed0cc3be7bc7aa942db6",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5958508,
+        "known_for_department": "Acting",
+        "name": "Triny Beaty",
+        "original_name": "Triny Beaty",
+        "popularity": 0.0747,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Agent 2735",
+        "credit_id": "6973ed1ec3be7bc7aa942dc1",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5958523,
+        "known_for_department": "Acting",
+        "name": "Gary Fredrick Allen",
+        "original_name": "Gary Fredrick Allen",
+        "popularity": 0.2276,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Gael",
+        "credit_id": "6973eebe985165dc56380bd4",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5958527,
+        "known_for_department": "Acting",
+        "name": "Jeremy Griffin",
+        "original_name": "Jeremy Griffin",
+        "popularity": 0.1624,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Agent 7734",
+        "credit_id": "6973eeef63a5b8f30337bb6b",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5958476,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Danny Guy Day",
+        "original_name": "Danny Guy Day",
+        "popularity": 0.1689,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Agent 8008",
+        "credit_id": "6973ef533ee9addfc1e3de90",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5958531,
+        "known_for_department": "Acting",
+        "name": "Emmanuel Gabriel",
+        "original_name": "Emmanuel Gabriel",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Agent 4467",
+        "credit_id": "6973ef7ac5025fb8cf8940cf",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5958532,
+        "known_for_department": "Acting",
+        "name": "Zina Crook",
+        "original_name": "Zina Crook",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Agent 9988",
+        "credit_id": "6973ef881dc806c7b7e3d8e7",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1506888,
+        "known_for_department": "Acting",
+        "name": "Rich Zvosec",
+        "original_name": "Rich Zvosec",
+        "popularity": 0.1164,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Doctor",
+        "credit_id": "6973ef9b39d2c3199fdca9bf",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4717318,
+        "known_for_department": "Acting",
+        "name": "MaKenzie Lauren",
+        "original_name": "MaKenzie Lauren",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Nurse",
+        "credit_id": "6973efb26c6da071c013d427",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5958535,
+        "known_for_department": "Acting",
+        "name": "Mercedes Henry",
+        "original_name": "Mercedes Henry",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Church Member",
+        "credit_id": "6973efd9b4c5608ec6e3da27",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5958471,
+        "known_for_department": "Production",
+        "name": "Luis Rivera",
+        "original_name": "Luis Rivera",
+        "popularity": 0.0469,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Timothee / Hope's Father",
+        "credit_id": "6973effc221f1ecafcdca9c1",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4070718,
+        "known_for_department": "Directing",
+        "name": "Alexander Rivera",
+        "original_name": "Alexander Rivera",
+        "popularity": 0.0485,
+        "profile_path": null,
+        "credit_id": "6973e580f2cd777d53942dfb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4070718,
+        "known_for_department": "Directing",
+        "name": "Alexander Rivera",
+        "original_name": "Alexander Rivera",
+        "popularity": 0.0485,
+        "profile_path": null,
+        "credit_id": "6973e58bd47b0412889d0a92",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4070726,
+        "known_for_department": "Production",
+        "name": "Brady Copeland",
+        "original_name": "Brady Copeland",
+        "popularity": 0.0929,
+        "profile_path": null,
+        "credit_id": "6973e665eaaaee1654aee67e",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4070718,
+        "known_for_department": "Directing",
+        "name": "Alexander Rivera",
+        "original_name": "Alexander Rivera",
+        "popularity": 0.0485,
+        "profile_path": null,
+        "credit_id": "6973e67693dbbe290437bbb7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5958471,
+        "known_for_department": "Production",
+        "name": "Luis Rivera",
+        "original_name": "Luis Rivera",
+        "popularity": 0.0469,
+        "profile_path": null,
+        "credit_id": "6973e6a459ffedceef9d0c49",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5464559,
+        "known_for_department": "Production",
+        "name": "Sean Denney",
+        "original_name": "Sean Denney",
+        "popularity": 0.054,
+        "profile_path": null,
+        "credit_id": "6973e6bd91cdad1073942fdd",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4070723,
+        "known_for_department": "Editing",
+        "name": "Brandon Maysonet",
+        "original_name": "Brandon Maysonet",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6973e6c93ee9addfc1e3de50",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4070726,
+        "known_for_department": "Production",
+        "name": "Brady Copeland",
+        "original_name": "Brady Copeland",
+        "popularity": 0.0929,
+        "profile_path": null,
+        "credit_id": "6973e6d7cd8a6e2c0637b9f6",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5958474,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Maria Azpiri",
+        "original_name": "Maria Azpiri",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6973e6e9e8159a702213d40c",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5958474,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Maria Azpiri",
+        "original_name": "Maria Azpiri",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6973e6f7867fe319ffdca900",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5958476,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Danny Guy Day",
+        "original_name": "Danny Guy Day",
+        "popularity": 0.1689,
+        "profile_path": null,
+        "credit_id": "6973e70792bab261a7e3db14",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4513280,
+        "known_for_department": "Directing",
+        "name": "Julio Aceituno",
+        "original_name": "Julio Aceituno",
+        "popularity": 0.0448,
+        "profile_path": "/4AkENQaRsISX1F5IYwSvgF9kQs4.jpg",
+        "credit_id": "6973e7170bd663dd0689401a",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4070726,
+        "known_for_department": "Production",
+        "name": "Brady Copeland",
+        "original_name": "Brady Copeland",
+        "popularity": 0.0929,
+        "profile_path": null,
+        "credit_id": "6973e722cd8a6e2c0637b9fd",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4129015,
+        "known_for_department": "Acting",
+        "name": "Joshwa Copeland",
+        "original_name": "Joshwa Copeland",
+        "popularity": 0.0921,
+        "profile_path": null,
+        "credit_id": "6973e73819060ac949894351",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4070723,
+        "known_for_department": "Editing",
+        "name": "Brandon Maysonet",
+        "original_name": "Brandon Maysonet",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6973e7b7ab41bc3e8837bbc5",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5958479,
+        "known_for_department": "Sound",
+        "name": "Michael Slass",
+        "original_name": "Michael Slass",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6973e7ca02b5e42d9d894097",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5958481,
+        "known_for_department": "Crew",
+        "name": "Gabriel Castro",
+        "original_name": "Gabriel Castro",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6973e7fcc51ce940c789414b",
+        "department": "Crew",
+        "job": "Drone Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5958482,
+        "known_for_department": "Crew",
+        "name": "Billy Wilson",
+        "original_name": "Billy Wilson",
+        "popularity": 0.0362,
+        "profile_path": null,
+        "credit_id": "6973e822c51ce940c7894157",
+        "department": "Crew",
+        "job": "Security"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5464559,
+        "known_for_department": "Production",
+        "name": "Sean Denney",
+        "original_name": "Sean Denney",
+        "popularity": 0.054,
+        "profile_path": null,
+        "credit_id": "6973e85dd3761d55a8380c85",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5464559,
+        "known_for_department": "Production",
+        "name": "Sean Denney",
+        "original_name": "Sean Denney",
+        "popularity": 0.054,
+        "profile_path": null,
+        "credit_id": "6973e8665338d9309213d361",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5464559,
+        "known_for_department": "Production",
+        "name": "Sean Denney",
+        "original_name": "Sean Denney",
+        "popularity": 0.054,
+        "profile_path": null,
+        "credit_id": "6973e86f0dd7f38aca13d454",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5464559,
+        "known_for_department": "Production",
+        "name": "Sean Denney",
+        "original_name": "Sean Denney",
+        "popularity": 0.054,
+        "profile_path": null,
+        "credit_id": "6973e87793db053258380a77",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5958483,
+        "known_for_department": "Camera",
+        "name": "Luis Rivera",
+        "original_name": "Luis Rivera",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "credit_id": "6973e8a083a46d227c380a9c",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5958484,
+        "known_for_department": "Camera",
+        "name": "Hector Serrano",
+        "original_name": "Hector Serrano",
+        "popularity": 0.0401,
+        "profile_path": null,
+        "credit_id": "6973e8bd8f539b70a8380b84",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "https://www.stellarxstudios.com/retrospection",
+          "overview": "Timothee and Hope reunite after years apart under mysterious circumstances. As the key to the future, they must race against time to prevent a radical organization, led by Agent 5010 and his counterparts, from exploiting their special abilities.",
+          "runtime": 84,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt32085129",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-17T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Retrospection | Final Trailer | Stellar X Studios",
+        "key": "Jc3bNp5dwz4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "6973ddbb92bab261a7e3daaf",
+        "published_at": "2025-11-07T23:00:33.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Retrospection | Collaborative Teaser Trailer | Stellar X Studios",
+        "key": "IHFLavJU-c8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": false,
+        "id": "6973dd9fb2a562d29f13d2e9",
+        "published_at": "2025-03-27T12:00:32.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Retrospection | Special Look | Stellar X Studios",
+        "key": "ZIzbeS9eebk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Behind the Scenes",
+        "official": false,
+        "id": "6973ddb1258e4b78c8e3dc8c",
+        "published_at": "2025-03-07T17:00:45.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Retrospection | Official Trailer | Stellar X Studios",
+        "key": "gkt3ZVONWIo",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "6973ddc647053c12d837bc14",
+        "published_at": "2024-09-10T16:15:06.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Retrospection | Announcement Trailer",
+        "key": "PynvYe6Q86E",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": false,
+        "id": "6973dd9305255f4b21aee2da",
+        "published_at": "2024-09-09T16:00:20.000Z"
+      }
+    ]
+  }
+}

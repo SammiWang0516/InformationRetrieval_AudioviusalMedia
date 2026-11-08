@@ -1,0 +1,981 @@
+{
+  "adult": false,
+  "backdrop_path": "/n1X2JWxcTO2eziYsYpgLcy9cczV.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1733418,
+  "imdb_id": "tt44567511",
+  "origin_country": [
+    "KZ"
+  ],
+  "original_language": "kk",
+  "original_title": "Ürei",
+  "overview": "When a young girl is left with her aging grandmother in rural Kazakhstan, an ordinary act of familial care quickly turns into an unsettling descent into the unknown where loss can take monstrous forms.",
+  "popularity": 1.2181,
+  "poster_path": "/3N5tHCiDycUNCGmUzrVjDXifLQW.jpg",
+  "production_companies": [
+    {
+      "id": 278127,
+      "logo_path": "/coVTlIZVdZsAXICOns7duXRztCc.png",
+      "name": "Salem Entertainment",
+      "origin_country": "KZ"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KZ",
+      "name": "Kazakhstan"
+    }
+  ],
+  "release_date": "2026-09-18",
+  "revenue": 0,
+  "runtime": 80,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Kazakh",
+      "iso_639_1": "kk",
+      "name": "қазақ"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Ürei",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5405219,
+        "known_for_department": "Acting",
+        "name": "Tynyshgul Sultanberdieva",
+        "original_name": "Tynyshgul Sultanberdieva",
+        "popularity": 0.294,
+        "profile_path": "/7tWV0KSyALA7KIHpAhubVsfKs3X.jpg",
+        "cast_id": 1,
+        "character": "Amina",
+        "credit_id": "6a5b1392ca9437b22e258105",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6068662,
+        "known_for_department": "Acting",
+        "name": "Akerke Kozaiyr",
+        "original_name": "Akerke Kozaiyr",
+        "popularity": 0.3657,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Kalima",
+        "credit_id": "6a5b13a8526d724698ace9c7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4439910,
+        "known_for_department": "Acting",
+        "name": "Asset Eszhan",
+        "original_name": "Асет Есжан",
+        "popularity": 0.2293,
+        "profile_path": "/1lLifkpa5cwiGK6adjnWSLKc91o.jpg",
+        "cast_id": 3,
+        "character": "Askar",
+        "credit_id": "6a5b13ba85935cc0db7bd119",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5417397,
+        "known_for_department": "Acting",
+        "name": "Gulbahram Baybosynova",
+        "original_name": "Gulbahram Baybosynova",
+        "popularity": 0.0413,
+        "profile_path": "/7AcdSHqeTPfofX0QyDXZc3wHbLS.jpg",
+        "cast_id": 4,
+        "character": "Aliya",
+        "credit_id": "6a5b13e43a2f2e8d85306337",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6354831,
+        "known_for_department": "Acting",
+        "name": "Zangar Miyatuly",
+        "original_name": "Zangar Miyatuly",
+        "popularity": 0.0718,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Azamat",
+        "credit_id": "6a5b13fce1c0308f39ace986",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6270234,
+        "known_for_department": "Acting",
+        "name": "Almagul Holmuhanova",
+        "original_name": "Almagul Holmuhanova",
+        "popularity": 0.0661,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Young Amina",
+        "credit_id": "6a85d2ea859126a5c95f078c",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6247148,
+        "known_for_department": "Acting",
+        "name": "Miras Kayrolla",
+        "original_name": "Miras Kayrolla",
+        "popularity": 0.3358,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Damir",
+        "credit_id": "6a85d326859126a5c95f07aa",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6422730,
+        "known_for_department": "Acting",
+        "name": "Yerbol Shukirov",
+        "original_name": "Yerbol Shukirov",
+        "popularity": 0.1194,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Drunk Man",
+        "credit_id": "6a85d33b8b58b45525b58576",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6422731,
+        "known_for_department": "Acting",
+        "name": "Fariza Duisembiyeva",
+        "original_name": "Fariza Duisembiyeva",
+        "popularity": 0.4324,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Aigul",
+        "credit_id": "6a85d34aee7b31848a9e59e0",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6422733,
+        "known_for_department": "Acting",
+        "name": "Irada Aman",
+        "original_name": "Irada Aman",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Kalima's Friend",
+        "credit_id": "6a85d360ee7b31848a9e59eb",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3781935,
+        "known_for_department": "Acting",
+        "name": "Sultan Nurmuha",
+        "original_name": "Sultan Nurmuha",
+        "popularity": 0.1519,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Kaisar",
+        "credit_id": "6a85d36eee7b31848a9e59ee",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5362800,
+        "known_for_department": "Acting",
+        "name": "Raushan Izmaganbetova",
+        "original_name": "Raushan Izmaganbetova",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Doctor",
+        "credit_id": "6a85d3814be9aafb520b8d0c",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4934592,
+        "known_for_department": "Directing",
+        "name": "Yerkezhan Baizhan",
+        "original_name": "Yerkezhan Baizhan",
+        "popularity": 0.1939,
+        "profile_path": null,
+        "credit_id": "6a5b1415998962e1a8ace9be",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4934592,
+        "known_for_department": "Directing",
+        "name": "Yerkezhan Baizhan",
+        "original_name": "Yerkezhan Baizhan",
+        "popularity": 0.1939,
+        "profile_path": null,
+        "credit_id": "6a5b142223520018de193683",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2180628,
+        "known_for_department": "Camera",
+        "name": "Kairat Temirgaliyev",
+        "original_name": "Kairat Temirgaliyev",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a5b14db998962e1a8ace9d2",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4934576,
+        "known_for_department": "Editing",
+        "name": "Yerkin Sagindykov",
+        "original_name": "Yerkin Sagindykov",
+        "popularity": 0.0979,
+        "profile_path": null,
+        "credit_id": "6a5b14ebca9437b22e25811e",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4497505,
+        "known_for_department": "Production",
+        "name": "Nurym Aydingali",
+        "original_name": "Nurym Aydingali",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6a849269d07192e65cb0a5c4",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2174863,
+        "known_for_department": "Directing",
+        "name": "Igor Tsay",
+        "original_name": "Igor Tsay",
+        "popularity": 0.3032,
+        "profile_path": null,
+        "credit_id": "6a8492e4963a0c15736702ee",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4558919,
+        "known_for_department": "Production",
+        "name": "Kuat Sadykov",
+        "original_name": "Kuat Sadykov",
+        "popularity": 0.1354,
+        "profile_path": null,
+        "credit_id": "6a8492f8fc8778468e595d20",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4561313,
+        "known_for_department": "Acting",
+        "name": "Rustem Omarov",
+        "original_name": "Рустем Омаров",
+        "popularity": 0.0643,
+        "profile_path": null,
+        "credit_id": "6a84931292e1d38e1b11a78b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4558920,
+        "known_for_department": "Production",
+        "name": "Timur Smagulov",
+        "original_name": "Timur Smagulov",
+        "popularity": 0.1224,
+        "profile_path": null,
+        "credit_id": "6a849323066e85da8cac92d6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3119881,
+        "known_for_department": "Production",
+        "name": "Evgeniy Severov",
+        "original_name": "Evgeniy Severov",
+        "popularity": 0.066,
+        "profile_path": null,
+        "credit_id": "6a85d3cdc6a463f1960b8ecc",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6422739,
+        "known_for_department": "Directing",
+        "name": "Elena Levchenko",
+        "original_name": "Elena Levchenko",
+        "popularity": 0.1288,
+        "profile_path": null,
+        "credit_id": "6a85d437a4e569b5de5f0352",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6422740,
+        "known_for_department": "Directing",
+        "name": "Alisher Shamshidenov",
+        "original_name": "Alisher Shamshidenov",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "6a85d4472dd3af36a4da4d2e",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6422743,
+        "known_for_department": "Lighting",
+        "name": "Daulet Yesbol",
+        "original_name": "Daulet Yesbol",
+        "popularity": 0.0432,
+        "profile_path": null,
+        "credit_id": "6a85d4be0daf4bfa7dda4cc2",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4207015,
+        "known_for_department": "Camera",
+        "name": "Eldar Dzhabrailov",
+        "original_name": "Eldar Dzhabrailov",
+        "popularity": 0.0354,
+        "profile_path": null,
+        "credit_id": "6a85d4e452c97e2a40674487",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6398798,
+        "known_for_department": "Camera",
+        "name": "Tlek Nurlan",
+        "original_name": "Тлек Нурлан",
+        "popularity": 0.1204,
+        "profile_path": null,
+        "credit_id": "6a85d56752c97e2a406744a7",
+        "department": "Camera",
+        "job": "Camera Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6422757,
+        "known_for_department": "Camera",
+        "name": "Amir Tatubayev",
+        "original_name": "Amir Tatubayev",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "6a85d57552c97e2a406744b3",
+        "department": "Camera",
+        "job": "Camera Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6422758,
+        "known_for_department": "Camera",
+        "name": "Nurtleu Aitbayev",
+        "original_name": "Nurtleu Aitbayev",
+        "popularity": 0.0467,
+        "profile_path": null,
+        "credit_id": "6a85d58361866999ae9a4ccf",
+        "department": "Camera",
+        "job": "Focus Puller"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6422761,
+        "known_for_department": "Lighting",
+        "name": "Adilet Zhetpisbayev",
+        "original_name": "Adilet Zhetpisbayev",
+        "popularity": 0.0626,
+        "profile_path": null,
+        "credit_id": "6a85d599aef49ee66fdcc5be",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6422763,
+        "known_for_department": "Lighting",
+        "name": "Nursultan Sailaubek",
+        "original_name": "Nursultan Sailaubek",
+        "popularity": 0.1482,
+        "profile_path": null,
+        "credit_id": "6a85d5ab8b58b45525b585c8",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6422765,
+        "known_for_department": "Lighting",
+        "name": "Alimbek Bekmyrza",
+        "original_name": "Alimbek Bekmyrza",
+        "popularity": 0.1094,
+        "profile_path": null,
+        "credit_id": "6a85d5b9d1245855799e5a29",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3781938,
+        "known_for_department": "Art",
+        "name": "Nazira Baybekova",
+        "original_name": "Nazira Baybekova",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a85d5ca61866999ae9a4ce2",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6422767,
+        "known_for_department": "Art",
+        "name": "Almat Konakbayev",
+        "original_name": "Almat Konakbayev",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "6a85d5dc1784d6a8a1da4c21",
+        "department": "Art",
+        "job": "Assistant Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6422768,
+        "known_for_department": "Art",
+        "name": "Darkhan Oryntai",
+        "original_name": "Darkhan Oryntai",
+        "popularity": 0.1094,
+        "profile_path": null,
+        "credit_id": "6a85d5e9e1382fbfa49a4e3c",
+        "department": "Art",
+        "job": "Assistant Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6422771,
+        "known_for_department": "Art",
+        "name": "Yernur Pernebay",
+        "original_name": "Yernur Pernebay",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "6a85d5ff4be9aafb520b8d37",
+        "department": "Art",
+        "job": "Assistant Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1926175,
+        "known_for_department": "Acting",
+        "name": "Madina Esmanova",
+        "original_name": "Madina Esmanova",
+        "popularity": 0.1138,
+        "profile_path": null,
+        "credit_id": "6a85d6930daf4bfa7dda4d02",
+        "department": "Art",
+        "job": "Assistant Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6422774,
+        "known_for_department": "Art",
+        "name": "Aigerim Algozhayeva",
+        "original_name": "Aigerim Algozhayeva",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6a85d6a246d37fe36167484e",
+        "department": "Art",
+        "job": "Assistant Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6422779,
+        "known_for_department": "Production",
+        "name": "Kunsulu Sadykbekova",
+        "original_name": "Kunsulu Sadykbekova",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "6a85d6b429e3b6b211b5858a",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6422783,
+        "known_for_department": "Production",
+        "name": "Arnur Rymbekova",
+        "original_name": "Arnur Rymbekova",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "6a85d6dde05d29c00ab585d7",
+        "department": "Production",
+        "job": "Casting Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6422789,
+        "known_for_department": "Production",
+        "name": "Nazerke Izbasarova",
+        "original_name": "Nazerke Izbasarova",
+        "popularity": 0.1288,
+        "profile_path": null,
+        "credit_id": "6a85d7122758b6dae3dcc74c",
+        "department": "Production",
+        "job": "Background Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2024236,
+        "known_for_department": "Acting",
+        "name": "Nurgul Alpysbayeva",
+        "original_name": "Nurgul Alpysbayeva",
+        "popularity": 0.0642,
+        "profile_path": null,
+        "credit_id": "6a85d7252758b6dae3dcc74f",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6422791,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Makhabbat Tineibay",
+        "original_name": "Makhabbat Tineibay",
+        "popularity": 0.1095,
+        "profile_path": null,
+        "credit_id": "6a85d7392dd3af36a4da4d5f",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6422793,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Aizhan Abdildayeva",
+        "original_name": "Aizhan Abdildayeva",
+        "popularity": 0.1094,
+        "profile_path": null,
+        "credit_id": "6a85d74bd0967a27ee9a4cfa",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6422796,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Andrey Tsirulnik",
+        "original_name": "Andrey Tsirulnik",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "6a85d764aef49ee66fdcc5e3",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6422800,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Zhansaya Orynbai",
+        "original_name": "Zhansaya Orynbai",
+        "popularity": 0.0848,
+        "profile_path": null,
+        "credit_id": "6a85d78e9e6b667f5c67471c",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5508114,
+        "known_for_department": "Acting",
+        "name": "Polina Gutova",
+        "original_name": "Polina Gutova",
+        "popularity": 0.0477,
+        "profile_path": null,
+        "credit_id": "6a85d7b5c87fa276d1dcc5dc",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6422802,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Aimen Asankyzy",
+        "original_name": "Aimen Asankyzy",
+        "popularity": 0.1288,
+        "profile_path": null,
+        "credit_id": "6a85d7c1788c22a04f9e587a",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5059751,
+        "known_for_department": "Sound",
+        "name": "Alexander Khimich",
+        "original_name": "Alexandr Khimich",
+        "popularity": 0.1017,
+        "profile_path": null,
+        "credit_id": "6a85d7d95f1a0294a6dcc719",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6422810,
+        "known_for_department": "Sound",
+        "name": "Vladislav Pivnenko",
+        "original_name": "Vladislav Pivnenko",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6a85d81e78c42ffb7bda4d6b",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6422813,
+        "known_for_department": "Sound",
+        "name": "Aknar Kasen",
+        "original_name": "Aknar Kasen",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "6a85d82b2758b6dae3dcc77c",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6422815,
+        "known_for_department": "Sound",
+        "name": "Vladimir Mosunov",
+        "original_name": "Vladimir Mosunov",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "6a85d84111b4870b1ddcc57c",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6422818,
+        "known_for_department": "Sound",
+        "name": "Akzhol Kasen",
+        "original_name": "Akzhol Kasen",
+        "popularity": 0.1288,
+        "profile_path": null,
+        "credit_id": "6a85d84e0ecea80067b0d0f0",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6422821,
+        "known_for_department": "Production",
+        "name": "Aset Tauekelov",
+        "original_name": "Aset Tauekelov",
+        "popularity": 0.0342,
+        "profile_path": null,
+        "credit_id": "6a85d87f859126a5c95f07fc",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6422822,
+        "known_for_department": "Crew",
+        "name": "Aisha Kyzyrkhanova",
+        "original_name": "Aisha Kyzyrkhanova",
+        "popularity": 0.0588,
+        "profile_path": null,
+        "credit_id": "6a85d8ae33f4c228d99e5a36",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6422824,
+        "known_for_department": "Crew",
+        "name": "Rakhim Arshidinov",
+        "original_name": "Rakhim Arshidinov",
+        "popularity": 0.1243,
+        "profile_path": null,
+        "credit_id": "6a85d8bf1784d6a8a1da4c4a",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6422825,
+        "known_for_department": "Editing",
+        "name": "Ulan Sagindykov",
+        "original_name": "Ulan Sagindykov",
+        "popularity": 0.1288,
+        "profile_path": null,
+        "credit_id": "6a85d8f16d5adc0c06da4bea",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4524275,
+        "known_for_department": "Sound",
+        "name": "Abai Akbaev",
+        "original_name": "Abai Akbaev",
+        "popularity": 0.0655,
+        "profile_path": "/vIcKJyrDSE3CEbib6bYbkjZfWHn.jpg",
+        "credit_id": "6a85d91a2a7ab93b9c9e5ac1",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6422830,
+        "known_for_department": "Production",
+        "name": "Ayagoz Kulynbetova",
+        "original_name": "Ayagoz Kulynbetova",
+        "popularity": 0.056,
+        "profile_path": null,
+        "credit_id": "6a85d952175da9f624da4afb",
+        "department": "Production",
+        "job": "Coordinating Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5228557,
+        "known_for_department": "Writing",
+        "name": "Altynbek Krykbaev",
+        "original_name": "Altynbek Krykbaev",
+        "popularity": 0.3311,
+        "profile_path": null,
+        "credit_id": "6a85d97d3a16e7c1400b8f58",
+        "department": "Writing",
+        "job": "Creative Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6422834,
+        "known_for_department": "Writing",
+        "name": "Sakhit Dauletbayev",
+        "original_name": "Sakhit Dauletbayev",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "6a85d98b175da9f624da4b06",
+        "department": "Writing",
+        "job": "Creative Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "When a young girl is left with her aging grandmother in rural Kazakhstan, an ordinary act of familial care quickly turns into an unsettling descent into the unknown where loss can take monstrous forms.",
+          "runtime": 80,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt44567511",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/n1X2JWxcTO2eziYsYpgLcy9cczV.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/3N5tHCiDycUNCGmUzrVjDXifLQW.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Weird Weekender International Film Festival Stuttgart",
+            "release_date": "2026-11-13T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Mórbido Film Fest",
+            "release_date": "2026-11-01T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Splat!FilmFest",
+            "release_date": "2026-10-23T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Fantastic Fest",
+            "release_date": "2026-09-18T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

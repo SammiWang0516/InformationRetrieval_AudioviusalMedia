@@ -1,0 +1,411 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1427180,
+  "imdb_id": "tt27368425",
+  "origin_country": [
+    "AU"
+  ],
+  "original_language": "en",
+  "original_title": "Love or Horror",
+  "overview": "Stranded on a countryside road, Jess meets a stranger. Her encounter is told as both a horror and romance, but only one is true.",
+  "popularity": 1.0416,
+  "poster_path": "/opT5FOXHD10gI7fPmQoQUuQ9LyC.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    }
+  ],
+  "release_date": "2025-11-27",
+  "revenue": 0,
+  "runtime": 52,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Love or Horror",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1600795,
+        "known_for_department": "Acting",
+        "name": "Laura Jane Turner",
+        "original_name": "Laura Jane Turner",
+        "popularity": 0.4486,
+        "profile_path": "/nkHiIuEQenWF1lXO9U96fd5ZRw.jpg",
+        "cast_id": 1,
+        "character": "Jess",
+        "credit_id": "679dc5a1b06437a4ee261fae",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5217441,
+        "known_for_department": "Acting",
+        "name": "Ryan Toft",
+        "original_name": "Ryan Toft",
+        "popularity": 0.2654,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Ryan",
+        "credit_id": "679dc5c6176fdb2244cb3842",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1532998,
+        "known_for_department": "Acting",
+        "name": "Pip Edwards",
+        "original_name": "Pip Edwards",
+        "popularity": 0.1754,
+        "profile_path": "/qFdnWpk96WcuDeTgjomt976RP5Z.jpg",
+        "cast_id": 3,
+        "character": "Katie",
+        "credit_id": "679dc5d1a8935914159534d3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1715302,
+        "known_for_department": "Acting",
+        "name": "Lee McClenaghan",
+        "original_name": "Lee McClenaghan",
+        "popularity": 0.1884,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Emma",
+        "credit_id": "679dc5e8b06437a4ee261fd7",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2036470,
+        "known_for_department": "Acting",
+        "name": "Trudy Ager",
+        "original_name": "Trudy Ager",
+        "popularity": 0.2478,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Auntie Sue",
+        "credit_id": "679dc5f39e2bc4b0bc95359b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6282784,
+        "known_for_department": "Acting",
+        "name": "Ellie Stewart",
+        "original_name": "Ellie Stewart",
+        "popularity": 0.0936,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "TV Voice (Kid)",
+        "credit_id": "6a2d59e564a3038f27fd5064",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3228904,
+        "known_for_department": "Directing",
+        "name": "Holly Hargreaves",
+        "original_name": "Holly Hargreaves",
+        "popularity": 0.1367,
+        "profile_path": "/2Xp20wUiKN7NrlXJDX9z6spjTOO.jpg",
+        "credit_id": "679dc617176fdb2244cb385f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3279985,
+        "known_for_department": "Sound",
+        "name": "Bruce Armstrong",
+        "original_name": "Bruce Armstrong",
+        "popularity": 0.0525,
+        "profile_path": null,
+        "credit_id": "679dc6687b4153a3b9953d8e",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4352911,
+        "known_for_department": "Sound",
+        "name": "Olivier Savrimoutou",
+        "original_name": "Olivier Savrimoutou",
+        "popularity": 0.0859,
+        "profile_path": null,
+        "credit_id": "679dc68ca57909701acb3299",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5217447,
+        "known_for_department": "Camera",
+        "name": "Sam orchard",
+        "original_name": "Sam orchard",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a2d5b8306b15b45ab896a11",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6282807,
+        "known_for_department": "Camera",
+        "name": "Matt Porter",
+        "original_name": "Matt Porter",
+        "popularity": 0.0554,
+        "profile_path": null,
+        "credit_id": "6a2d5bf94d456cbf0e9d404f",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6282809,
+        "known_for_department": "Camera",
+        "name": "Max Mews",
+        "original_name": "Max Mews",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "6a2d5c108386fa1b1c23e6ea",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6282813,
+        "known_for_department": "Art",
+        "name": "Caity Lee",
+        "original_name": "Caity Lee",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "6a2d5c6236e4adc5519552b7",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6282814,
+        "known_for_department": "Directing",
+        "name": "Kyah Ramaekers",
+        "original_name": "Kyah Ramaekers",
+        "popularity": 0.0383,
+        "profile_path": null,
+        "credit_id": "6a2d5c895d7aa0ce41fd4ff3",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6282816,
+        "known_for_department": "Visual Effects",
+        "name": "Josh Bailey",
+        "original_name": "Josh Bailey",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "6a2d5cb206b15b45ab896a23",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5217447,
+        "known_for_department": "Camera",
+        "name": "Sam orchard",
+        "original_name": "Sam orchard",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a2d5cea36e4adc5519552bb",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6282822,
+        "known_for_department": "Sound",
+        "name": "Evan Hodges",
+        "original_name": "Evan Hodges",
+        "popularity": 0.0337,
+        "profile_path": null,
+        "credit_id": "6a2d5d49171526c79ffd4ff0",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6282824,
+        "known_for_department": "Sound",
+        "name": "Max Borghesi",
+        "original_name": "Max Borghesi",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a2d5d6d9a68c19a46302167",
+        "department": "Sound",
+        "job": "Sound Designer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 5248,
+        "name": "female friendship"
+      },
+      {
+        "id": 14534,
+        "name": "relationship"
+      },
+      {
+        "id": 158718,
+        "name": "lgbt"
+      },
+      {
+        "id": 187056,
+        "name": "woman director"
+      },
+      {
+        "id": 346131,
+        "name": "loveorhorror"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Stranded on a countryside road, Jess meets a stranger. Her encounter is told as both a horror and romance, but only one is true.",
+          "runtime": 52,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt27368425",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.707,
+        "height": 2000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/opT5FOXHD10gI7fPmQoQUuQ9LyC.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1414
+      },
+      {
+        "aspect_ratio": 0.673,
+        "height": 1454,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/nEvqaFgB4SsUre4fdug0nlu3gqr.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 978
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2025-11-27T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Love or Horror | Official Trailer",
+        "key": "O6IwVB9NCCs",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": false,
+        "id": "67b27098a65d6303e7e0ca87",
+        "published_at": "2025-02-16T04:18:15.000Z"
+      }
+    ]
+  }
+}

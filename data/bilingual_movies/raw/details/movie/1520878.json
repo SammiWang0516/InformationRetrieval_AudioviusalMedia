@@ -1,0 +1,411 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1520878,
+  "imdb_id": null,
+  "origin_country": [
+    "PT"
+  ],
+  "original_language": "pt",
+  "original_title": "Laura - O Musical",
+  "overview": "",
+  "popularity": 1.1448,
+  "poster_path": "/aYK9Y5EVzx8XmrZVn1cHNwSAu3B.jpg",
+  "production_companies": [
+    {
+      "id": 8492,
+      "logo_path": "/wYhNCpXIThYDXevad6n90vsMXZ2.png",
+      "name": "RTP",
+      "origin_country": "PT"
+    },
+    {
+      "id": 220432,
+      "logo_path": null,
+      "name": "La Féria Produções",
+      "origin_country": "PT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "release_date": "2025-07-19",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Laura - O Musical",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3692381,
+        "known_for_department": "Acting",
+        "name": "Sissi Martins",
+        "original_name": "Sissi Martins",
+        "popularity": 0.042,
+        "profile_path": "/59C3mMV9iVYvpduYlOOqNEa4ywQ.jpg",
+        "cast_id": 1,
+        "character": "Laura Alves",
+        "credit_id": "6887c450f56b89c49b52b90f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1903235,
+        "known_for_department": "Acting",
+        "name": "Rui Andrade",
+        "original_name": "Rui Andrade",
+        "popularity": 0.6365,
+        "profile_path": "/z7AZB1uunVJUQkn0IgYeXGPspuA.jpg",
+        "cast_id": 2,
+        "character": "Vasco Morgado",
+        "credit_id": "6887c47850915a744e246f5b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5592824,
+        "known_for_department": "Acting",
+        "name": "Francisca Barroca",
+        "original_name": "Francisca Barroca",
+        "popularity": 0.0759,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Laurinha",
+        "credit_id": "6887f9a92f591ad8d18a78bd",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3298478,
+        "known_for_department": "Acting",
+        "name": "Paula Sá",
+        "original_name": "Paula Sá",
+        "popularity": 0.4982,
+        "profile_path": "/gVjGMXQFUlwvsUVPPkvNwfJ7XLr.jpg",
+        "cast_id": 3,
+        "character": "Palmira Bastos",
+        "credit_id": "6887c487ee4cb01c3fd9bbe9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4113319,
+        "known_for_department": "Acting",
+        "name": "Filipe de Albuquerque",
+        "original_name": "Filipe de Albuquerque",
+        "popularity": 0.2419,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Frederico Valério",
+        "credit_id": "6887c59e0f25d300c352b90d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4113320,
+        "known_for_department": "Acting",
+        "name": "João Frizza",
+        "original_name": "João Frizza",
+        "popularity": 0.2305,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "João Villaret",
+        "credit_id": "6887c5efb94e667f8b52b6fb",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5592830,
+        "known_for_department": "Acting",
+        "name": "Miguel Marques",
+        "original_name": "Miguel Marques",
+        "popularity": 0.1144,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Ribeirinho / Ruy de Carvalho",
+        "credit_id": "6887fa3fee4cb01c3fd9bd52",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4113324,
+        "known_for_department": "Acting",
+        "name": "Jonas Cardoso",
+        "original_name": "Jonas Cardoso",
+        "popularity": 0.1147,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Vasquinho",
+        "credit_id": "6887c5c1a854e42eb3f79672",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4527154,
+        "known_for_department": "Acting",
+        "name": "Rosa Areia",
+        "original_name": "Rosa Areia",
+        "popularity": 0.324,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Teresa",
+        "credit_id": "6887fa5109a8f9ddc0390907",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5145852,
+        "known_for_department": "Acting",
+        "name": "Sara Cabeleira",
+        "original_name": "Sara Cabeleira",
+        "popularity": 0.0789,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Milú",
+        "credit_id": "6887c5cad098f600d972f37e",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1339559,
+        "known_for_department": "Acting",
+        "name": "Luís Garcia",
+        "original_name": "Luís Garcia",
+        "popularity": 0.3156,
+        "profile_path": "/z8aHdFN1qsVyeMKtXn5eTzkf3Y4.jpg",
+        "cast_id": 10,
+        "character": "Paulo Renato / Vigilante",
+        "credit_id": "6887c5fc730882225255fa61",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4113323,
+        "known_for_department": "Acting",
+        "name": "Paulo Miguel Ferreira",
+        "original_name": "Paulo Miguel Ferreira",
+        "popularity": 0.3047,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Pai / Contra-Regra / Censor",
+        "credit_id": "6887c6862c5aa3134539062a",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5592836,
+        "known_for_department": "Acting",
+        "name": "Andreia Ventura",
+        "original_name": "Andreia Ventura",
+        "popularity": 0.0938,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Mãe / Margarida Ventura / Censor",
+        "credit_id": "6887faab2e48947adff795f2",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4113322,
+        "known_for_department": "Acting",
+        "name": "Élia González",
+        "original_name": "Élia González",
+        "popularity": 0.0376,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Madalena / Governanta / Censor",
+        "credit_id": "6887c5b323e3f6d0903901f4",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4127521,
+        "known_for_department": "Acting",
+        "name": "Augusto Gonçalves",
+        "original_name": "Augusto Gonçalves",
+        "popularity": 0.0369,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Padre",
+        "credit_id": "6887fb1afe85a1d5452473f5",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4723510,
+        "known_for_department": "Crew",
+        "name": "Miguel Amorim",
+        "original_name": "Miguel Amorim",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "6887fb53268343956855fa1d",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2620850,
+        "known_for_department": "Acting",
+        "name": "Filipe La Féria",
+        "original_name": "Filipe La Féria",
+        "popularity": 0.8418,
+        "profile_path": "/wUesbaFDz2nLZKj3dENPPxdLBc3.jpg",
+        "credit_id": "6887fb62e088d578c78a7942",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2620850,
+        "known_for_department": "Acting",
+        "name": "Filipe La Féria",
+        "original_name": "Filipe La Féria",
+        "popularity": 0.8418,
+        "profile_path": "/wUesbaFDz2nLZKj3dENPPxdLBc3.jpg",
+        "credit_id": "6887fb72dff0081dac72f6d0",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5592855,
+        "known_for_department": "Sound",
+        "name": "José Viegas",
+        "original_name": "José Viegas",
+        "popularity": 0.1753,
+        "profile_path": null,
+        "credit_id": "6887fbb5807abd7583d9b8b4",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4113316,
+        "known_for_department": "Directing",
+        "name": "Pedro Miguel Martins",
+        "original_name": "Pedro Miguel Martins",
+        "popularity": 0.317,
+        "profile_path": null,
+        "credit_id": "6887fc1fa571086a4055f693",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "PT",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "homepage": "",
+          "overview": "Laura Alves foi a maior comediante do século XX. A sua lenda permanece viva na memória dos portugueses atravessando várias gerações. \"Laura - O Musical\" de Filipe La Féria percorre diversas épocas da vida da grande atriz e foca os acontecimentos mais importantes da nossa história desde o final da 1ª República até à viragem para o século XXI.  La Féria juntou um elenco fantástico que revela Sissi Martins no papel de Laura Alves e Rui Andrade no de Vasco Morgado que vive a apaixonante história de amor da maior vedeta portuguesa e do maior empresário, que marcaram o panorama teatral português.",
+          "runtime": 156,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 960,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/aYK9Y5EVzx8XmrZVn1cHNwSAu3B.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 640
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "M/12",
+            "descriptors": [],
+            "iso_639_1": "pt",
+            "note": "RTP",
+            "release_date": "2025-07-19T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

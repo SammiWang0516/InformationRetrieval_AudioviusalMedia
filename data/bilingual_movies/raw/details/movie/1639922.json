@@ -1,0 +1,228 @@
+{
+  "adult": false,
+  "backdrop_path": "/wuhPyU6UylABrCbTQqel8oRh32F.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 1639922,
+  "imdb_id": "tt48785742",
+  "origin_country": [
+    "DE",
+    "AT"
+  ],
+  "original_language": "de",
+  "original_title": ">1,5°C Pyropolitics and the New World",
+  "overview": "The devastating forest fires in Los Angeles are described in three acts.",
+  "popularity": 0.7997,
+  "poster_path": "/vb4KY3pa408BAThlbR6wJoWJ9ys.jpg",
+  "production_companies": [
+    {
+      "id": 290124,
+      "logo_path": null,
+      "name": "s u n³b°u°r°s t FILM",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "AT",
+      "name": "Austria"
+    }
+  ],
+  "release_date": "2026-10-27",
+  "revenue": 0,
+  "runtime": 73,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": ">1,5°C Pyropolitics and the New World",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 1,
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1617531,
+        "known_for_department": "Directing",
+        "name": "Lukas Marxt",
+        "original_name": "Lukas Marxt",
+        "popularity": 0.3327,
+        "profile_path": null,
+        "credit_id": "699a56c2b2fdd02c27590981",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6592744,
+        "known_for_department": "Camera",
+        "name": "Carson Brown",
+        "original_name": "Carson Brown",
+        "popularity": 0.0195,
+        "profile_path": null,
+        "credit_id": "6ae77e45bffedee5b5f1bfdb",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 2210,
+        "name": "climate change"
+      },
+      {
+        "id": 191404,
+        "name": "forest fire"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "The devastating forest fires in Los Angeles are described in three acts.",
+          "runtime": 73,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "",
+          "overview": "Lukas Marxt findet in seinem Film >1,5°C Pyropolitics and the New World eindrückliche Bilder für die verheerende Brandkatastrophe von Los Angeles im Januar 2025. Sein Film wirft Fragen nach dem Umgang mit den Folgen des Klimawandels und der Erderwärmung auf.",
+          "runtime": 73,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "AT",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt48785742",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.777,
+        "height": 864,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/wuhPyU6UylABrCbTQqel8oRh32F.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1535
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 2880,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/vb4KY3pa408BAThlbR6wJoWJ9ys.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Viennale Wien",
+            "release_date": "2026-10-30T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DOK Leipzig ",
+            "release_date": "2026-10-27T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "1.5°C: Pyropolitics and the New World - Official Trailer",
+        "key": "97AmPGK7_fM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "6aeefa6f9a060e4ebb5ce029",
+        "published_at": "2026-11-04T16:04:06.000Z"
+      }
+    ]
+  }
+}

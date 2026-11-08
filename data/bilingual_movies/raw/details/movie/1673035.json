@@ -1,0 +1,511 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1673035,
+  "imdb_id": null,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Last Knife",
+  "overview": "Shelby is one knife set sale away from the vacation of her dreams, if her fantasies don’t get in the way.",
+  "popularity": 1.1138,
+  "poster_path": "/dByt3wWdCtoRdj5pszpl7KjQAmb.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2025-10-05",
+  "revenue": 0,
+  "runtime": 15,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "Last Knife",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3887696,
+        "known_for_department": "Acting",
+        "name": "Rachel Coster",
+        "original_name": "Rachel Coster",
+        "popularity": 0.0813,
+        "profile_path": "/8pYnWramFxrj9uHTHJYr3hlsIYn.jpg",
+        "cast_id": 1,
+        "character": "Shelby",
+        "credit_id": "69dfcd3a82a1dde0a5012a2a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6144440,
+        "known_for_department": "Acting",
+        "name": "Danielle Clarke Fisher",
+        "original_name": "Danielle Clarke Fisher",
+        "popularity": 0.1422,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "69dfcd46d3337f2bb60129f1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3514777,
+        "known_for_department": "Acting",
+        "name": "Ben Groh",
+        "original_name": "Ben Groh",
+        "popularity": 0.1254,
+        "profile_path": "/wgLglPi9JotvPRz9khs3I4Yfi9O.jpg",
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "69dfcd4fa0625f9f86af94af",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2115907,
+        "known_for_department": "Acting",
+        "name": "Susan Slatin",
+        "original_name": "Susan Slatin",
+        "popularity": 0.2236,
+        "profile_path": "/lOgrPqkTSs0KwSySMC44zy01XGH.jpg",
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "69dfcd57f3c94a6309af92b7",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6144444,
+        "known_for_department": "Acting",
+        "name": "Natalie Austin",
+        "original_name": "Natalie Austin",
+        "popularity": 0.2483,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "69dfcd64a0625f9f86af94bb",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3865246,
+        "known_for_department": "Production",
+        "name": "Allie Viti",
+        "original_name": "Allie Viti",
+        "popularity": 0.264,
+        "profile_path": null,
+        "credit_id": "69dfcd76eb6ef73fd93af706",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3887696,
+        "known_for_department": "Acting",
+        "name": "Rachel Coster",
+        "original_name": "Rachel Coster",
+        "popularity": 0.0813,
+        "profile_path": "/8pYnWramFxrj9uHTHJYr3hlsIYn.jpg",
+        "credit_id": "69dfcd819e783e25aa2d980b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1928552,
+        "known_for_department": "Directing",
+        "name": "Willy McGee",
+        "original_name": "Willy McGee",
+        "popularity": 0.5015,
+        "profile_path": "/fhAoiei8Jn4XMHSSSfuwHEUeHBl.jpg",
+        "credit_id": "69dfcd8841cccb0bf1f93ef6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2754083,
+        "known_for_department": "Lighting",
+        "name": "Conner Schuurmans",
+        "original_name": "Conner Schuurmans",
+        "popularity": 0.1808,
+        "profile_path": null,
+        "credit_id": "69dfcda0f33dcbe19201291e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1092570,
+        "known_for_department": "Editing",
+        "name": "Stephen Gurewitz",
+        "original_name": "Stephen Gurewitz",
+        "popularity": 0.4233,
+        "profile_path": null,
+        "credit_id": "69dfcdb22fc929431d0129b2",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2182101,
+        "known_for_department": "Art",
+        "name": "Lili Teplan",
+        "original_name": "Lili Teplan",
+        "popularity": 0.1684,
+        "profile_path": null,
+        "credit_id": "69dfcdc6449a4a11c60129b8",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3085271,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Nell Simon",
+        "original_name": "Nell Simon",
+        "popularity": 0.0986,
+        "profile_path": null,
+        "credit_id": "69dfcdd8aa4a645831f940a0",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1583649,
+        "known_for_department": "Directing",
+        "name": "Gordon Bell",
+        "original_name": "Gordon Bell",
+        "popularity": 0.0909,
+        "profile_path": null,
+        "credit_id": "69dfcdeba0bafc9e75af9348",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2665807,
+        "known_for_department": "Sound",
+        "name": "Pat Zimmon",
+        "original_name": "Pat Zimmon",
+        "popularity": 0.1113,
+        "profile_path": null,
+        "credit_id": "69dfcdf87ff9c291d30129e2",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1578228,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Emily Schubert",
+        "original_name": "Emily Schubert",
+        "popularity": 0.2076,
+        "profile_path": null,
+        "credit_id": "69dfce111310a2149ab7f975",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5259984,
+        "known_for_department": "Art",
+        "name": "Katie Balun",
+        "original_name": "Katie Balun",
+        "popularity": 0.1034,
+        "profile_path": null,
+        "credit_id": "69dfce25fb87d51cfc3945dc",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2634711,
+        "known_for_department": "Production",
+        "name": "Emily Kob",
+        "original_name": "Emily Kob",
+        "popularity": 0.0997,
+        "profile_path": null,
+        "credit_id": "69dfce617ff9c291d30129e5",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6144463,
+        "known_for_department": "Production",
+        "name": "Mack Miller",
+        "original_name": "Mack Miller",
+        "popularity": 0.1097,
+        "profile_path": null,
+        "credit_id": "69dfce8e3a54a6ba933af7a6",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2107339,
+        "known_for_department": "Crew",
+        "name": "Ben Elias",
+        "original_name": "Ben Elias",
+        "popularity": 0.1396,
+        "profile_path": null,
+        "credit_id": "69dfce9da0625f9f86af94d9",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6144470,
+        "known_for_department": "Camera",
+        "name": "Danny Teplán",
+        "original_name": "Danny Teplán",
+        "popularity": 0.1873,
+        "profile_path": null,
+        "credit_id": "69dfceb4d531f54c89af932e",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6144471,
+        "known_for_department": "Lighting",
+        "name": "Alex Hufschmid",
+        "original_name": "Alex Hufschmid",
+        "popularity": 0.1873,
+        "profile_path": null,
+        "credit_id": "69dfcec819e1a17d173af67d",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5160230,
+        "known_for_department": "Directing",
+        "name": "Eli Beutel",
+        "original_name": "Eli Beutel",
+        "popularity": 0.1059,
+        "profile_path": null,
+        "credit_id": "69dfced4f33dcbe192012931",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1843923,
+        "known_for_department": "Camera",
+        "name": "Hunter Zimny",
+        "original_name": "Hunter Zimny",
+        "popularity": 0.1769,
+        "profile_path": "/litGrz0SWyBbnL883seBmh9pSbX.jpg",
+        "credit_id": "69dfcedcd531f54c89af9332",
+        "department": "Art",
+        "job": "Swing"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3184371,
+        "known_for_department": "Acting",
+        "name": "Leia Jospe",
+        "original_name": "Leia Jospe",
+        "popularity": 0.1204,
+        "profile_path": null,
+        "credit_id": "69dfceecd3337f2bb6012a36",
+        "department": "Camera",
+        "job": "BTS Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2044104,
+        "known_for_department": "Sound",
+        "name": "Chase Everett",
+        "original_name": "Chase Everett",
+        "popularity": 0.1202,
+        "profile_path": null,
+        "credit_id": "69dfcef6d531f54c89af9339",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3463117,
+        "known_for_department": "Editing",
+        "name": "Luca Balser",
+        "original_name": "Luca Balser",
+        "popularity": 0.1547,
+        "profile_path": null,
+        "credit_id": "69dfcf0256fc0d7dc13af58b",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2851733,
+        "known_for_department": "Sound",
+        "name": "Simon Hanes",
+        "original_name": "Simon Hanes",
+        "popularity": 0.0674,
+        "profile_path": null,
+        "credit_id": "69dfcf1f9c4236be4aaf9133",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6147638,
+        "known_for_department": "Production",
+        "name": "Matt Sweeney",
+        "original_name": "Matt Sweeney",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "69e167e0f5348488cde46523",
+        "department": "Production",
+        "job": "Production Manager"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 6876,
+        "name": "vacation"
+      },
+      {
+        "id": 355291,
+        "name": "saleswoman"
+      },
+      {
+        "id": 356734,
+        "name": "fantasies"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Shelby is one knife set sale away from the vacation of her dreams, if her fantasies don’t get in the way.",
+          "runtime": 15,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 900,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/dByt3wWdCtoRdj5pszpl7KjQAmb.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 600
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "New/Next Film Festival",
+            "release_date": "2025-10-05T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2026-04-15T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

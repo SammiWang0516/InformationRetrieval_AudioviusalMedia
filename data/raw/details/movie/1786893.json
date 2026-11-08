@@ -1,0 +1,545 @@
+{
+  "adult": false,
+  "backdrop_path": "/3EDR0NOTBeYXUBL57jCaUveHI6Y.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 1786893,
+  "imdb_id": null,
+  "origin_country": [
+    "AR"
+  ],
+  "original_language": "xx",
+  "original_title": "Manjar",
+  "overview": "A dinner turns into a ritual of subjugation when a woman is forced to eat her meal. The consumption becomes an uncontrollable, monstrous impulse, revealing the face of guilt.",
+  "popularity": 0.6733,
+  "poster_path": "/hf0P3rP2BqG4VwU0vBf3nb7G1kb.jpg",
+  "production_companies": [
+    {
+      "id": 312992,
+      "logo_path": null,
+      "name": "Caranueva Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    }
+  ],
+  "release_date": "2026-11-03",
+  "revenue": 0,
+  "runtime": 7,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "Served with white gloves, consumed by guilt.",
+  "title": "Delicatessen",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5752772,
+        "known_for_department": "Acting",
+        "name": "Camila Rimoldi",
+        "original_name": "Camila Rimoldi",
+        "popularity": 0.081,
+        "profile_path": "/jNdGvYrxOctzj4PYl5G3ZAZ2w7.jpg",
+        "cast_id": 22,
+        "character": "Woman 1 / Woman 2",
+        "credit_id": "6ac01f0acd899a4a23c71ea8",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5087940,
+        "known_for_department": "Crew",
+        "name": "Camila Pellicena Rome",
+        "original_name": "Camila Pellicena Rome",
+        "popularity": 0.0851,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Woman 2",
+        "credit_id": "6ac01f6b4fd72032ec1f47fd",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5427491,
+        "known_for_department": "Directing",
+        "name": "Leandro Sabo",
+        "original_name": "Leandro Sabo",
+        "popularity": 0.3569,
+        "profile_path": "/sE8B3E6lGZnFQI5OlD6BDFoyKzF.jpg",
+        "credit_id": "6ac017645645b11f445d1522",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6521446,
+        "known_for_department": "Camera",
+        "name": "Emilia Ascua",
+        "original_name": "Emilia Ascua",
+        "popularity": 0.0657,
+        "profile_path": null,
+        "credit_id": "6ac017a37fd0c966b9ed3b62",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6521449,
+        "known_for_department": "Production",
+        "name": "Isabella Drada",
+        "original_name": "Isabella Drada",
+        "popularity": 0.0927,
+        "profile_path": null,
+        "credit_id": "6ac0181236c49e7904ed3af9",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5037142,
+        "known_for_department": "Production",
+        "name": "Carla Zapico",
+        "original_name": "Carla Zapico",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6ac018506d0969f9aaa37ae6",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6110867,
+        "known_for_department": "Art",
+        "name": "Lina Cabral",
+        "original_name": "Lina Cabral",
+        "popularity": 0.0706,
+        "profile_path": null,
+        "credit_id": "6ac01897f86a691277a37af0",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5658559,
+        "known_for_department": "Directing",
+        "name": "Juan Livellara Laplace",
+        "original_name": "Juan Livellara Laplace",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6ac018c6b2ab495d98aa1439",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6521454,
+        "known_for_department": "Camera",
+        "name": "José López Ruano",
+        "original_name": "José López Ruano",
+        "popularity": 0.0684,
+        "profile_path": null,
+        "credit_id": "6ac0191cb2ab495d98aa1443",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6521457,
+        "known_for_department": "Lighting",
+        "name": "Mateo Acosta",
+        "original_name": "Mateo Acosta",
+        "popularity": 0.0668,
+        "profile_path": null,
+        "credit_id": "6ac01984c097b9f9f0b9a2c8",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4119489,
+        "known_for_department": "Art",
+        "name": "Carola Espinillo",
+        "original_name": "Carola Espinillo",
+        "popularity": 0.2462,
+        "profile_path": "/9VoZUokwOMEUjGNogbnlGz1Fgc9.jpg",
+        "credit_id": "6ac019ec04ce5f0f96aa14c5",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6521468,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Rocío Cervellera Agrelo",
+        "original_name": "Rocío Cervellera Agrelo",
+        "popularity": 0.0668,
+        "profile_path": null,
+        "credit_id": "6ac019fdf7742c57d230ff89",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6521481,
+        "known_for_department": "Lighting",
+        "name": "Marina Taylor",
+        "original_name": "Marina Taylor",
+        "popularity": 0.1039,
+        "profile_path": null,
+        "credit_id": "6ac01b01d687f4f8dd23af68",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5037155,
+        "known_for_department": "Art",
+        "name": "Verónica Belén Vera Samudio",
+        "original_name": "Verónica Belén Vera Samudio",
+        "popularity": 0.1097,
+        "profile_path": null,
+        "credit_id": "6ac01c24c7e7dd4c46c4b638",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4125695,
+        "known_for_department": "Art",
+        "name": "Mathias Cristaldo",
+        "original_name": "Mathias Cristaldo",
+        "popularity": 0.0959,
+        "profile_path": null,
+        "credit_id": "6ac01c566ed62db6f23962d4",
+        "department": "Art",
+        "job": "Prop Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5087930,
+        "known_for_department": "Sound",
+        "name": "Alejo Passaro",
+        "original_name": "Alejo Passaro",
+        "popularity": 0.0655,
+        "profile_path": null,
+        "credit_id": "6ac01c7a872a137346b9a29d",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6521509,
+        "known_for_department": "Camera",
+        "name": "Magdalena Segovia",
+        "original_name": "Magdalena Segovia",
+        "popularity": 0.0655,
+        "profile_path": null,
+        "credit_id": "6ac01c9ae8d7cd4bd98968a8",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6426140,
+        "known_for_department": "Art",
+        "name": "Magdalena Carreras",
+        "original_name": "Magdalena Carreras",
+        "popularity": 0.112,
+        "profile_path": null,
+        "credit_id": "6ac01d628bd08082e76095d1",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6521524,
+        "known_for_department": "Camera",
+        "name": "Julio C. Ledesma",
+        "original_name": "Julio C. Ledesma",
+        "popularity": 0.0709,
+        "profile_path": null,
+        "credit_id": "6ac01dd0261f0c476863d917",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6521526,
+        "known_for_department": "Camera",
+        "name": "Rodrigo Stefano",
+        "original_name": "Rodrigo Stefano",
+        "popularity": 0.0761,
+        "profile_path": null,
+        "credit_id": "6ac01df0cd899a4a23c71ea5",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6521526,
+        "known_for_department": "Camera",
+        "name": "Rodrigo Stefano",
+        "original_name": "Rodrigo Stefano",
+        "popularity": 0.0761,
+        "profile_path": null,
+        "credit_id": "6ac01e13261f0c476863d91a",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6521537,
+        "known_for_department": "Art",
+        "name": "Francisco Martín",
+        "original_name": "Francisco Martín",
+        "popularity": 0.0746,
+        "profile_path": null,
+        "credit_id": "6ac01e80a03e35787cacd8a2",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6521540,
+        "known_for_department": "Sound",
+        "name": "Joaquín Doynel",
+        "original_name": "Joaquín Doynel",
+        "popularity": 0.0643,
+        "profile_path": null,
+        "credit_id": "6ac01eaa9cd79ff1bef9eea2",
+        "department": "Sound",
+        "job": "Music Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5427491,
+        "known_for_department": "Directing",
+        "name": "Leandro Sabo",
+        "original_name": "Leandro Sabo",
+        "popularity": 0.3569,
+        "profile_path": "/sE8B3E6lGZnFQI5OlD6BDFoyKzF.jpg",
+        "credit_id": "6ac16f971d4c8a98c141544c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5427491,
+        "known_for_department": "Directing",
+        "name": "Leandro Sabo",
+        "original_name": "Leandro Sabo",
+        "popularity": 0.3569,
+        "profile_path": "/sE8B3E6lGZnFQI5OlD6BDFoyKzF.jpg",
+        "credit_id": "6ac16ff12ec92598e53df58c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6529737,
+        "known_for_department": "Editing",
+        "name": "Renzo Giroldi",
+        "original_name": "Renzo Giroldi",
+        "popularity": 0.0643,
+        "profile_path": null,
+        "credit_id": "6ac4e2c6b6c96bb7c9dce191",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6529737,
+        "known_for_department": "Editing",
+        "name": "Renzo Giroldi",
+        "original_name": "Renzo Giroldi",
+        "popularity": 0.0643,
+        "profile_path": null,
+        "credit_id": "6ac4e2dc272eb9467bdcdc4c",
+        "department": "Directing",
+        "job": "Continuity"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5037145,
+        "known_for_department": "Production",
+        "name": "Denis Espíndola",
+        "original_name": "Denis Espíndola",
+        "popularity": 0.0932,
+        "profile_path": null,
+        "credit_id": "6ac4e4947ca2844b5f25cfb3",
+        "department": "Production",
+        "job": "Post Coordinator"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 263548,
+        "name": "short film"
+      },
+      {
+        "id": 358000,
+        "name": "corto"
+      },
+      {
+        "id": 363566,
+        "name": "corto universitario"
+      },
+      {
+        "id": 385132,
+        "name": "manjar"
+      },
+      {
+        "id": 385133,
+        "name": "leandro sabo"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "A dinner turns into a ritual of subjugation when a woman is forced to eat her meal. The consumption becomes an uncontrollable, monstrous impulse, revealing the face of guilt.",
+          "runtime": 7,
+          "tagline": "Served with white gloves, consumed by guilt.",
+          "title": "Delicatessen"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/3EDR0NOTBeYXUBL57jCaUveHI6Y.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/gxlROF4Fx9ZzxVGq8MDSoG2WY0t.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 3840
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 2532,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/hf0P3rP2BqG4VwU0vBf3nb7G1kb.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1688
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AR",
+        "release_dates": [
+          {
+            "certification": "ATP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-11-03T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Manjar - Teaser",
+        "key": "mJDTzImujWs",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": false,
+        "id": "6ad3ef8f1979b3c3d4d828cc",
+        "published_at": "2026-10-17T21:46:17.000Z"
+      }
+    ]
+  }
+}

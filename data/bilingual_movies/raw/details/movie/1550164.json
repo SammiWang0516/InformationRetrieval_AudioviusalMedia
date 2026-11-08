@@ -1,0 +1,507 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 1550164,
+  "imdb_id": null,
+  "origin_country": [
+    "HR"
+  ],
+  "original_language": "hr",
+  "original_title": "Među nama",
+  "overview": "Marina and David, two young artists, no longer feel the same passion that they've had for one another upon the early stages of their relationship. As time goes on, tensions grow and it all reaches a powerful breaking point.",
+  "popularity": 0.9632,
+  "poster_path": "/pI13bt1PVUMj2wn9HtCNTKUxhy0.jpg",
+  "production_companies": [
+    {
+      "id": 33964,
+      "logo_path": null,
+      "name": "Blank",
+      "origin_country": "HR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HR",
+      "name": "Croatia"
+    }
+  ],
+  "release_date": "2026-10-20",
+  "revenue": 0,
+  "runtime": 89,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Croatian",
+      "iso_639_1": "hr",
+      "name": "Hrvatski"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Between Us",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4820443,
+        "known_for_department": "Acting",
+        "name": "Vini Jurčić",
+        "original_name": "Vini Jurčić",
+        "popularity": 0.1295,
+        "profile_path": "/lxEzJZeBFBInPrIj3xXQBXnMN09.jpg",
+        "cast_id": 1,
+        "character": "Marina",
+        "credit_id": "68d08a61df5ca0f79fcd791f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5703443,
+        "known_for_department": "Acting",
+        "name": "Adrian Bagarić",
+        "original_name": "Adrian Bagarić",
+        "popularity": 0.1821,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "David",
+        "credit_id": "68d08a6f67b7b3c0cd74998b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5703445,
+        "known_for_department": "Acting",
+        "name": "Goran Mihaljević",
+        "original_name": "Goran Mihaljević",
+        "popularity": 0.0592,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Borko",
+        "credit_id": "68d08a832c2637d317cec601",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1473565,
+        "known_for_department": "Acting",
+        "name": "Sanja Marin",
+        "original_name": "Sanja Marin",
+        "popularity": 0.3131,
+        "profile_path": "/509ybz5Sha60bxVClsHUb8ya7BA.jpg",
+        "cast_id": 4,
+        "character": "Ruža",
+        "credit_id": "68d08a94775c266ea3cc36f5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2507150,
+        "known_for_department": "Acting",
+        "name": "Ognjen Milovanović",
+        "original_name": "Ognjen Milovanović",
+        "popularity": 0.1113,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Josip",
+        "credit_id": "68d08aa332ea51ff01ac85dc",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2870213,
+        "known_for_department": "Acting",
+        "name": "Luna Pilić",
+        "original_name": "Luna Pilić",
+        "popularity": 0.2467,
+        "profile_path": "/6mIWpZ1YHVzSlrCb5vEJnOL6Rhx.jpg",
+        "cast_id": 6,
+        "character": "Vita",
+        "credit_id": "68d08ab1e99679837c7a49fd",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3929497,
+        "known_for_department": "Acting",
+        "name": "Vili Gobac",
+        "original_name": "Primož Pirnat",
+        "popularity": 0.1699,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Tibor",
+        "credit_id": "68d08abf552d66bc3e7a47f2",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5703446,
+        "known_for_department": "Acting",
+        "name": "Mihovil Burek",
+        "original_name": "Mihovil Burek",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Matej",
+        "credit_id": "68d08ace552d66bc3e7a47fc",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5703457,
+        "known_for_department": "Acting",
+        "name": "Hrvoje Dizdar",
+        "original_name": "Hrvoje Dizdar",
+        "popularity": 0.2752,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Dino",
+        "credit_id": "68d08b7ddfa54f5659d41b2d",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5703459,
+        "known_for_department": "Acting",
+        "name": "Linda Kliman",
+        "original_name": "Linda Kliman",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Maria",
+        "credit_id": "68d08b92cec8440247d41a7b",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5096629,
+        "known_for_department": "Acting",
+        "name": "Jan Kovačić",
+        "original_name": "Jan Kovačić",
+        "popularity": 0.0671,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Jan",
+        "credit_id": "68d08bc16f9f494cccd4197a",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5703462,
+        "known_for_department": "Acting",
+        "name": "Lovro Rimac",
+        "original_name": "Lovro Rimac",
+        "popularity": 0.032,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Richard",
+        "credit_id": "68d08bcb3bc7598e04d41a46",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5703469,
+        "known_for_department": "Directing",
+        "name": "Laura Pascu",
+        "original_name": "Laura Pascu",
+        "popularity": 0.1237,
+        "profile_path": null,
+        "credit_id": "68d08cd102048cfe22ac8575",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5703469,
+        "known_for_department": "Directing",
+        "name": "Laura Pascu",
+        "original_name": "Laura Pascu",
+        "popularity": 0.1237,
+        "profile_path": null,
+        "credit_id": "68d08cdcc372f8082697dcd0",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5703469,
+        "known_for_department": "Directing",
+        "name": "Laura Pascu",
+        "original_name": "Laura Pascu",
+        "popularity": 0.1237,
+        "profile_path": null,
+        "credit_id": "68d08cead9c0ebc2d2fe9b04",
+        "department": "Writing",
+        "job": "Original Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5703471,
+        "known_for_department": "Writing",
+        "name": "Matej Sudarić",
+        "original_name": "Matej Sudarić",
+        "popularity": 0.084,
+        "profile_path": null,
+        "credit_id": "68d08cfadfa54f5659d41b39",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4820443,
+        "known_for_department": "Acting",
+        "name": "Vini Jurčić",
+        "original_name": "Vini Jurčić",
+        "popularity": 0.1295,
+        "profile_path": "/lxEzJZeBFBInPrIj3xXQBXnMN09.jpg",
+        "credit_id": "68d08d18c5872b335197db22",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5287604,
+        "known_for_department": "Sound",
+        "name": "Norina Largiadèr",
+        "original_name": "Norina Largiadèr",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "68d08d6d33e4eab140ac837f",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5703479,
+        "known_for_department": "Sound",
+        "name": "Natalia Wohler",
+        "original_name": "Natalia Wohler",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "68d08d7c1e60804dc1749a1d",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5703482,
+        "known_for_department": "Crew",
+        "name": "Filip Kos",
+        "original_name": "Filip Kos",
+        "popularity": 0.0383,
+        "profile_path": null,
+        "credit_id": "68d08d95e2401a23cafe960c",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4353469,
+        "known_for_department": "Acting",
+        "name": "Zorana Rajić",
+        "original_name": "Zorana Rajić",
+        "popularity": 0.0579,
+        "profile_path": null,
+        "credit_id": "68d08da3ae30a3e9f6cd7939",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3057788,
+        "known_for_department": "Art",
+        "name": "Viktoria Knezić",
+        "original_name": "Viktoria Knezić",
+        "popularity": 0.2849,
+        "profile_path": null,
+        "credit_id": "68d08daf1fe1eea1cecec60f",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5703486,
+        "known_for_department": "Art",
+        "name": "Zrinka Zagorec",
+        "original_name": "Zrinka Zagorec",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "68d08dbe775c266ea3cc3728",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5703489,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Giorgia Gleonisse Pezzolato",
+        "original_name": "Giorgia Gleonisse Pezzolato",
+        "popularity": 0.038,
+        "profile_path": null,
+        "credit_id": "68d08dd35bf393793fcec53d",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5703491,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ana Paola",
+        "original_name": "Ana Paola",
+        "popularity": 0.0447,
+        "profile_path": null,
+        "credit_id": "68d08deedb4c421484d41a28",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2979402,
+        "known_for_department": "Writing",
+        "name": "Martina Marasović",
+        "original_name": "Martina Marasović",
+        "popularity": 0.123,
+        "profile_path": null,
+        "credit_id": "68fe8c9a73241d9944da00d9",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Marina and David, two young artists, no longer feel the same passion that they've had for one another upon the early stages of their relationship. As time goes on, tensions grow and it all reaches a powerful breaking point.",
+          "runtime": 89,
+          "tagline": "",
+          "title": "Between Us"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "HR",
+        "title": "U afektu",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.707,
+        "height": 1415,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/pI13bt1PVUMj2wn9HtCNTKUxhy0.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "HR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Pula Film Festival ",
+            "release_date": "2026-07-12T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-10-20T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

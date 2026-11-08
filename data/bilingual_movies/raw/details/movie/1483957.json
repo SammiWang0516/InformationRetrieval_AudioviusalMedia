@@ -1,0 +1,804 @@
+{
+  "adult": false,
+  "backdrop_path": "/lJ1AyGlBK6c8CyMvsAcCHKxNogw.jpg",
+  "belongs_to_collection": null,
+  "budget": 11750,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://rougefilm.fr",
+  "id": 1483957,
+  "imdb_id": "tt31023201",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "ROUGE : Chasseuse de bêtes",
+  "overview": "When a young shepherdess is kidnapped by a mysterious beast on the eve of her wedding, it is Red, a fierce mercenary, who is hired to find her and slay the creature. Yet, deep in the forest, a horrifying truth comes to light: the worst monsters don’t live in the woods.",
+  "popularity": 0.974,
+  "poster_path": "/x3dhZbRbDnug3rB3R0JHSCsbeCM.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2025-04-30",
+  "revenue": 0,
+  "runtime": 29,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The worst monsters don’t live in the woods.",
+  "title": "RED: Beast Huntress",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4054445,
+        "known_for_department": "Directing",
+        "name": "Sarah Cotten",
+        "original_name": "Sarah Cotten",
+        "popularity": 0.0876,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Rouge",
+        "credit_id": "6ac96116228ee99406ef1769",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5019596,
+        "known_for_department": "Acting",
+        "name": "Julie Moulin",
+        "original_name": "Julie Moulin",
+        "popularity": 0.4138,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Alix",
+        "credit_id": "6ac9615fbbe52b519311bc69",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3742669,
+        "known_for_department": "Acting",
+        "name": "George Grisbi",
+        "original_name": "George Grisbi",
+        "popularity": 0.1801,
+        "profile_path": "/A5Xv87PvWGWD4c8zqYJRZvdFQEQ.jpg",
+        "cast_id": 4,
+        "character": "Vincent",
+        "credit_id": "6ac96169d63c20b90611bc84",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4666770,
+        "known_for_department": "Acting",
+        "name": "Nicolas Verdier",
+        "original_name": "Nicolas Verdier",
+        "popularity": 0.2207,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Arnaud",
+        "credit_id": "6ac9618f6ab69cf61ca05cc5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6538280,
+        "known_for_department": "Acting",
+        "name": "Jean-Pierre Cliquet",
+        "original_name": "Jean-Pierre Cliquet",
+        "popularity": 0.1361,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Jean",
+        "credit_id": "6ac96647789bcb2a9881fdb1",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5448767,
+        "known_for_department": "Directing",
+        "name": "Benjamin Maublanc",
+        "original_name": "Benjamin Maublanc",
+        "popularity": 0.0585,
+        "profile_path": "/q9rKkaJW8YkYEpDjozWcVIymThp.jpg",
+        "credit_id": "682b5c46cc923137c06490b3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6538205,
+        "known_for_department": "Production",
+        "name": "François Javerliat",
+        "original_name": "François Javerliat",
+        "popularity": 0.1394,
+        "profile_path": null,
+        "credit_id": "6ac961b7e971a2490d7f450d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6538212,
+        "known_for_department": "Camera",
+        "name": "Roméo Robaglia",
+        "original_name": "Roméo Robaglia",
+        "popularity": 0.123,
+        "profile_path": null,
+        "credit_id": "6ac961e6234c2ac28617470d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5448767,
+        "known_for_department": "Directing",
+        "name": "Benjamin Maublanc",
+        "original_name": "Benjamin Maublanc",
+        "popularity": 0.0585,
+        "profile_path": "/q9rKkaJW8YkYEpDjozWcVIymThp.jpg",
+        "credit_id": "6ac961ffc93ad4aacda05cd1",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5861800,
+        "known_for_department": "Sound",
+        "name": "Alexandre Wettstein",
+        "original_name": "Alexandre Wettstein",
+        "popularity": 0.0926,
+        "profile_path": null,
+        "credit_id": "6ac962127ee0eb9e57e59ade",
+        "department": "Crew",
+        "job": "Mixing Engineer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5838818,
+        "known_for_department": "Editing",
+        "name": "Susanne Fournier",
+        "original_name": "Susanne Fournier",
+        "popularity": 0.1553,
+        "profile_path": null,
+        "credit_id": "6ac96225cb01e5a1e49fd669",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1560179,
+        "known_for_department": "Sound",
+        "name": "Thomas Kubler",
+        "original_name": "Thomas Kubler",
+        "popularity": 0.0523,
+        "profile_path": null,
+        "credit_id": "6ac9623778611455847f4487",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5731981,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Léa Sagnard",
+        "original_name": "Léa Sagnard",
+        "popularity": 0.1389,
+        "profile_path": null,
+        "credit_id": "6ac9624c3deca78a652d141c",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4603406,
+        "known_for_department": "Camera",
+        "name": "Hugo Meslin",
+        "original_name": "Hugo Meslin",
+        "popularity": 0.1682,
+        "profile_path": null,
+        "credit_id": "6ac962600b1ba6d9509e3acb",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5448767,
+        "known_for_department": "Directing",
+        "name": "Benjamin Maublanc",
+        "original_name": "Benjamin Maublanc",
+        "popularity": 0.0585,
+        "profile_path": "/q9rKkaJW8YkYEpDjozWcVIymThp.jpg",
+        "credit_id": "6ac962794b95a66688ef1736",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5448767,
+        "known_for_department": "Directing",
+        "name": "Benjamin Maublanc",
+        "original_name": "Benjamin Maublanc",
+        "popularity": 0.0585,
+        "profile_path": "/q9rKkaJW8YkYEpDjozWcVIymThp.jpg",
+        "credit_id": "6ac9628bcb01e5a1e49fd67b",
+        "department": "Art",
+        "job": "Decorator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5448767,
+        "known_for_department": "Directing",
+        "name": "Benjamin Maublanc",
+        "original_name": "Benjamin Maublanc",
+        "popularity": 0.0585,
+        "profile_path": "/q9rKkaJW8YkYEpDjozWcVIymThp.jpg",
+        "credit_id": "6ac962ac8a331612c4174726",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6538205,
+        "known_for_department": "Production",
+        "name": "François Javerliat",
+        "original_name": "François Javerliat",
+        "popularity": 0.1394,
+        "profile_path": null,
+        "credit_id": "6ac962c03deca78a652d1429",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6538205,
+        "known_for_department": "Production",
+        "name": "François Javerliat",
+        "original_name": "François Javerliat",
+        "popularity": 0.1394,
+        "profile_path": null,
+        "credit_id": "6ac962d4807ff038eb96e75b",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5448767,
+        "known_for_department": "Directing",
+        "name": "Benjamin Maublanc",
+        "original_name": "Benjamin Maublanc",
+        "popularity": 0.0585,
+        "profile_path": "/q9rKkaJW8YkYEpDjozWcVIymThp.jpg",
+        "credit_id": "6ac962e15fd2fa40d69e3b7f",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3906359,
+        "known_for_department": "Sound",
+        "name": "Antonin Galichet",
+        "original_name": "Antonin Galichet",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "6ac962fc0ef0a6a32c9e3afb",
+        "department": "Sound",
+        "job": "Sound Engineer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4403634,
+        "known_for_department": "Crew",
+        "name": "Nathan Dufresnoy",
+        "original_name": "Nathan Dufresnoy",
+        "popularity": 0.1056,
+        "profile_path": null,
+        "credit_id": "6ac96334e971a2490d7f4528",
+        "department": "Sound",
+        "job": "Foley Recording Engineer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6538230,
+        "known_for_department": "Editing",
+        "name": "Lise Dorsemaine",
+        "original_name": "Lise Dorsemaine",
+        "popularity": 0.1652,
+        "profile_path": null,
+        "credit_id": "6ac963656fb47e9c701fa2d4",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6538233,
+        "known_for_department": "Editing",
+        "name": "Jeanne Javerliat",
+        "original_name": "Jeanne Javerliat",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "6ac9637024446496d796e7dd",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4603406,
+        "known_for_department": "Camera",
+        "name": "Hugo Meslin",
+        "original_name": "Hugo Meslin",
+        "popularity": 0.1682,
+        "profile_path": null,
+        "credit_id": "6ac9637ae971a2490d7f452b",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6538239,
+        "known_for_department": "Production",
+        "name": "Martin Esteve",
+        "original_name": "Martin Esteve",
+        "popularity": 0.1281,
+        "profile_path": null,
+        "credit_id": "6ac963bb53ab5d54d11fa242",
+        "department": "Production",
+        "job": "Extras Casting Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5448767,
+        "known_for_department": "Directing",
+        "name": "Benjamin Maublanc",
+        "original_name": "Benjamin Maublanc",
+        "popularity": 0.0585,
+        "profile_path": "/q9rKkaJW8YkYEpDjozWcVIymThp.jpg",
+        "credit_id": "6ac96666c90cee663222416f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6538287,
+        "known_for_department": "Art",
+        "name": "Léna-Gabrielle Bertin",
+        "original_name": "Léna-Gabrielle Bertin",
+        "popularity": 0.1258,
+        "profile_path": null,
+        "credit_id": "6ac96716705bfae8ce79f943",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6538205,
+        "known_for_department": "Production",
+        "name": "François Javerliat",
+        "original_name": "François Javerliat",
+        "popularity": 0.1394,
+        "profile_path": null,
+        "credit_id": "6ac9f994ee912c4179480cb0",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5448767,
+        "known_for_department": "Directing",
+        "name": "Benjamin Maublanc",
+        "original_name": "Benjamin Maublanc",
+        "popularity": 0.0585,
+        "profile_path": "/q9rKkaJW8YkYEpDjozWcVIymThp.jpg",
+        "credit_id": "6ac9f9ad5836f536fdd3369c",
+        "department": "Sound",
+        "job": "Foley Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5448767,
+        "known_for_department": "Directing",
+        "name": "Benjamin Maublanc",
+        "original_name": "Benjamin Maublanc",
+        "popularity": 0.0585,
+        "profile_path": "/q9rKkaJW8YkYEpDjozWcVIymThp.jpg",
+        "credit_id": "6ac9f9ea04dbc4a8a17a00fe",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6539176,
+        "known_for_department": "Camera",
+        "name": "Lucien Gillonnier",
+        "original_name": "Lucien Gillonnier",
+        "popularity": 0.0642,
+        "profile_path": null,
+        "credit_id": "6ac9fa29cb090b941ede3880",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6538212,
+        "known_for_department": "Camera",
+        "name": "Roméo Robaglia",
+        "original_name": "Roméo Robaglia",
+        "popularity": 0.123,
+        "profile_path": null,
+        "credit_id": "6ac9fa36c90cee663222491b",
+        "department": "Crew",
+        "job": "Special Effects Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6539176,
+        "known_for_department": "Camera",
+        "name": "Lucien Gillonnier",
+        "original_name": "Lucien Gillonnier",
+        "popularity": 0.0642,
+        "profile_path": null,
+        "credit_id": "6ac9fa4001efac6cb5d334a4",
+        "department": "Crew",
+        "job": "Special Effects Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5448767,
+        "known_for_department": "Directing",
+        "name": "Benjamin Maublanc",
+        "original_name": "Benjamin Maublanc",
+        "popularity": 0.0585,
+        "profile_path": "/q9rKkaJW8YkYEpDjozWcVIymThp.jpg",
+        "credit_id": "6ac9fa5dbcaa370d2de88d3b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5448767,
+        "known_for_department": "Directing",
+        "name": "Benjamin Maublanc",
+        "original_name": "Benjamin Maublanc",
+        "popularity": 0.0585,
+        "profile_path": "/q9rKkaJW8YkYEpDjozWcVIymThp.jpg",
+        "credit_id": "6ac9fa6dee912c4179480cc4",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6539179,
+        "known_for_department": "Production",
+        "name": "Agathe Grangeon",
+        "original_name": "Agathe Grangeon",
+        "popularity": 0.1032,
+        "profile_path": null,
+        "credit_id": "6ac9fa882883b998cfe88d87",
+        "department": "Production",
+        "job": "Location Assistant"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 1938,
+        "name": "sword"
+      },
+      {
+        "id": 5147,
+        "name": "sorcery"
+      },
+      {
+        "id": 5774,
+        "name": "forest"
+      },
+      {
+        "id": 155800,
+        "name": "atmospheric"
+      },
+      {
+        "id": 177895,
+        "name": "dark fantasy"
+      },
+      {
+        "id": 191144,
+        "name": "female mercenary"
+      },
+      {
+        "id": 209568,
+        "name": "folk horror"
+      },
+      {
+        "id": 268054,
+        "name": "night"
+      },
+      {
+        "id": 271888,
+        "name": "medieval knight"
+      },
+      {
+        "id": 286926,
+        "name": "folk tale"
+      },
+      {
+        "id": 288728,
+        "name": "witch legend"
+      },
+      {
+        "id": 357101,
+        "name": "saphic"
+      },
+      {
+        "id": 369163,
+        "name": "french film"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "https://rougefilm.fr",
+          "overview": "Cuando una joven pastora es secuestrada por una misteriosa bestia en vísperas de su boda, surge Roja, una feroz mercenaria, que es contratada para encontrar la pastora y matar a la criatura. Sin embargo, en lo profundo del bosque, una horrible verdad sale a la luz: los peores monstruos no viven en el bosque.",
+          "runtime": 29,
+          "tagline": "Los peores monstruos no viven en el bosque.",
+          "title": "ROJA: Cazadora de bestias"
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "https://rougefilm.fr",
+          "overview": "When a young shepherdess is kidnapped by a mysterious beast on the eve of her wedding, it is Red, a fierce mercenary, who is hired to find her and slay the creature. Yet, deep in the forest, a horrifying truth comes to light: the worst monsters don’t live in the woods.",
+          "runtime": 29,
+          "tagline": "The worst monsters don’t live in the woods.",
+          "title": "RED: Beast Huntress"
+        }
+      },
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "https://rougefilm.fr",
+          "overview": "Quand une jeune bergère se fait enlever par une bête mystérieuse la veille de son mariage, c’est Rouge, une féroce mercenaire, qui est engagée pour la retrouver et occire la créature. Pourtant, au cœur de la forêt, une horrible vérité prend vie : les pires monstres ne vivent pas dans les bois.",
+          "runtime": 29,
+          "tagline": "Les pires monstres ne vivent pas dans les bois.",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "RED: Beast Huntress",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "ROJA: Cazadora de bestias",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt31023201",
+    "wikidata_id": null,
+    "facebook_id": "RougeLeFilm",
+    "instagram_id": "benjamin_maublanc",
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1920,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/lJ1AyGlBK6c8CyMvsAcCHKxNogw.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3413
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1920,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/uRvey2KA0HtSR7x4h1U0QvgoFDD.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3413
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1920,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/9K2nHYbxWymYmK4RPMborxrK0ia.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3413
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1920,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/UHd3J6qJXx2HtpKBEwPxNL0GjQ.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3413
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1920,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/qtpqAXJ6NZYFls6zp13JP3s3gPr.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3413
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1920,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/h3JMwevAtcyCVIyaufAABY07Rds.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3413
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1920,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/xbjh0MLG7H1ttzSt8IxFEw7O6kt.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3413
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1920,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/cP4Bih1l9SUbCjCdgn8HkngjmKq.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3413
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1920,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/3C9MaQl4EpeyOqjBKdoLx0Zau8h.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3413
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1920,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/s829BcE6vz47ODtKtqOxYWElDu2.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3413
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/x3dhZbRbDnug3rB3R0JHSCsbeCM.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "fr",
+            "note": "",
+            "release_date": "2025-04-30T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

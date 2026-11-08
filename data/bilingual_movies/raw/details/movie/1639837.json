@@ -1,0 +1,425 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "",
+  "id": 1639837,
+  "imdb_id": "tt37820061",
+  "origin_country": [
+    "HU"
+  ],
+  "original_language": "hu",
+  "original_title": "Távol",
+  "overview": "",
+  "popularity": 0.7895,
+  "poster_path": "/sMedqp1rUVKSzXZTrPMGjd3ttfl.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "HU",
+      "name": "Hungary"
+    }
+  ],
+  "release_date": "2026-03-01",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Távol",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3389723,
+        "known_for_department": "Acting",
+        "name": "Előd Marosvölgyi",
+        "original_name": "Előd Marosvölgyi",
+        "popularity": 0.2783,
+        "profile_path": "/x2FV0ocA5Nvk0PqFCKX3mbAgZoq.jpg",
+        "cast_id": 1,
+        "character": "Katona",
+        "credit_id": "699a28761005ca8cd4373f1e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2055738,
+        "known_for_department": "Acting",
+        "name": "Szabolcs Ruszina",
+        "original_name": "Ruszina Szabolcs",
+        "popularity": 0.3285,
+        "profile_path": "/fTuRg4Fbqo9iyRtyyECPwxDEjLA.jpg",
+        "cast_id": 2,
+        "character": "Őrmester",
+        "credit_id": "699a2881653fc0ed87e8ef22",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6023077,
+        "known_for_department": "Acting",
+        "name": "Kardos Eszter",
+        "original_name": "Kardos Eszter",
+        "popularity": 0.1383,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Feleség",
+        "credit_id": "699a28aea4ff8e95f90e4e1a",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6023080,
+        "known_for_department": "Directing",
+        "name": "Laudon Andrea",
+        "original_name": "Laudon Andrea",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "699a29129c8bca161380e7ce",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6023080,
+        "known_for_department": "Directing",
+        "name": "Laudon Andrea",
+        "original_name": "Laudon Andrea",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "699a2922010a90a218373d50",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3389723,
+        "known_for_department": "Acting",
+        "name": "Előd Marosvölgyi",
+        "original_name": "Előd Marosvölgyi",
+        "popularity": 0.2783,
+        "profile_path": "/x2FV0ocA5Nvk0PqFCKX3mbAgZoq.jpg",
+        "credit_id": "699a2936204c49156fe8eec1",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3389723,
+        "known_for_department": "Acting",
+        "name": "Előd Marosvölgyi",
+        "original_name": "Előd Marosvölgyi",
+        "popularity": 0.2783,
+        "profile_path": "/x2FV0ocA5Nvk0PqFCKX3mbAgZoq.jpg",
+        "credit_id": "699a2943d2e8e30c38e8ee79",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6023080,
+        "known_for_department": "Directing",
+        "name": "Laudon Andrea",
+        "original_name": "Laudon Andrea",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "699a294cb89928b7110e4d2d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6023084,
+        "known_for_department": "Camera",
+        "name": "Kovács Zsuzsi",
+        "original_name": "Kovács Zsuzsi",
+        "popularity": 0.1537,
+        "profile_path": null,
+        "credit_id": "699a2a1fa4ff8e95f90e4e4a",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6023091,
+        "known_for_department": "Sound",
+        "name": "Jámbor Klára",
+        "original_name": "Jámbor Klára",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "699a2af9bcd5650199c59da7",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6023092,
+        "known_for_department": "Art",
+        "name": "Angler Marcell",
+        "original_name": "Angler Marcell",
+        "popularity": 0.1581,
+        "profile_path": null,
+        "credit_id": "699a2b13671c65cf135907b8",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1713345,
+        "known_for_department": "Writing",
+        "name": "Zoltán Füle",
+        "original_name": "Zoltán Füle",
+        "popularity": 0.1514,
+        "profile_path": null,
+        "credit_id": "699a2b3095aa4a8dc80e4d89",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6023093,
+        "known_for_department": "Directing",
+        "name": "Deli Péter",
+        "original_name": "Deli Péter",
+        "popularity": 0.1493,
+        "profile_path": null,
+        "credit_id": "699a2b4e7f4fd87372590745",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6023094,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Marton Dzsenifer",
+        "original_name": "Marton Dzsenifer",
+        "popularity": 0.1182,
+        "profile_path": null,
+        "credit_id": "699a2b793b8b453a64b28821",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6023097,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Uri-Kovács Alexandra",
+        "original_name": "Uri-Kovács Alexandra",
+        "popularity": 0.1011,
+        "profile_path": null,
+        "credit_id": "699a2bca9b1dc8bf2ab2884e",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5938481,
+        "known_for_department": "Editing",
+        "name": "Felleg Noé",
+        "original_name": "Felleg Noé",
+        "popularity": 0.0295,
+        "profile_path": "/a4233EM0GzqSIZPCnk5P7Wj2z8V.jpg",
+        "credit_id": "699a2bf0d2e8e30c38e8eec1",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5956482,
+        "known_for_department": "Crew",
+        "name": "Gojdár Ákos",
+        "original_name": "Gojdár Ákos",
+        "popularity": 0.0494,
+        "profile_path": null,
+        "credit_id": "699a2e62b2fdd02c27590841",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5956482,
+        "known_for_department": "Crew",
+        "name": "Gojdár Ákos",
+        "original_name": "Gojdár Ákos",
+        "popularity": 0.0494,
+        "profile_path": null,
+        "credit_id": "699a2e8131825b5261fc2155",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6023135,
+        "known_for_department": "Production",
+        "name": "Ajtony Angler",
+        "original_name": "Ajtony Angler",
+        "popularity": 0.1296,
+        "profile_path": null,
+        "credit_id": "699a2e942a2e6d938980e918",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6023136,
+        "known_for_department": "Production",
+        "name": "Mazák Dóra",
+        "original_name": "Mazák Dóra",
+        "popularity": 0.1564,
+        "profile_path": null,
+        "credit_id": "699a2eaa37254a416f80e871",
+        "department": "Production",
+        "job": "Location Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6023138,
+        "known_for_department": "Production",
+        "name": "Brettschneider Árpád",
+        "original_name": "Brettschneider Árpád",
+        "popularity": 0.0694,
+        "profile_path": null,
+        "credit_id": "699a2ebe7a3b9ed33cfc21bb",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6023139,
+        "known_for_department": "Sound",
+        "name": "Bánszky Gyula",
+        "original_name": "Bánszky Gyula",
+        "popularity": 0.1419,
+        "profile_path": null,
+        "credit_id": "699a2ed341df8e1e3e373d57",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6023140,
+        "known_for_department": "Sound",
+        "name": "Császár Bíró Szabolcs",
+        "original_name": "Császár Bíró Szabolcs",
+        "popularity": 0.0831,
+        "profile_path": null,
+        "credit_id": "699a2eeab2fdd02c2759084d",
+        "department": "Sound",
+        "job": "Sound Engineer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "HU",
+        "iso_639_1": "hu",
+        "name": "Magyar",
+        "english_name": "Hungarian",
+        "data": {
+          "homepage": "",
+          "overview": "1916: Egy katona a frontvonaltól távol, egy réten tér magához. Hamarosan olyan döntést kell meghoznia, mely kihatással lesz mindarra, ami fontos számára.",
+          "runtime": 12,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt37820061",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/sMedqp1rUVKSzXZTrPMGjd3ttfl.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "HU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "hu",
+            "note": "",
+            "release_date": "2026-03-01T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

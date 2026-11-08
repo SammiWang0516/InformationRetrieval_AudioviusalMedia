@@ -1,0 +1,664 @@
+{
+  "adult": false,
+  "backdrop_path": "/lQg3LaHcgMDXV7PSdKORCX3PpAR.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1418565,
+  "imdb_id": "tt35439830",
+  "origin_country": [
+    "AU"
+  ],
+  "original_language": "en",
+  "original_title": "Fwends",
+  "overview": "When an estranged friend spontaneously arrives in Melbourne from Sydney, two girls spend a weekend confronting their personal struggles, existential dread, and the messy realities of growing up and growing apart.",
+  "popularity": 1.0473,
+  "poster_path": "/luEnVu9xQP61K0CndpETBihtMO3.jpg",
+  "production_companies": [
+    {
+      "id": 252876,
+      "logo_path": null,
+      "name": "Excellent Friends and Future Success!",
+      "origin_country": "AU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    }
+  ],
+  "release_date": "2025-11-06",
+  "revenue": 0,
+  "runtime": 92,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Fwends",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1891885,
+        "known_for_department": "Acting",
+        "name": "Emmanuelle Mattana",
+        "original_name": "Emmanuelle Mattana",
+        "popularity": 0.384,
+        "profile_path": "/mNhnKKnULDfV3IqJ0ygaNzkYo4U.jpg",
+        "cast_id": 2,
+        "character": "Em",
+        "credit_id": "6790f4f6fc2519b43f775e4d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5196220,
+        "known_for_department": "Acting",
+        "name": "Melissa Gan",
+        "original_name": "Melissa Gan",
+        "popularity": 0.2948,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Jessie",
+        "credit_id": "6790f4ffbe9a9aa7827758c1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5729777,
+        "known_for_department": "Acting",
+        "name": "Jason Resoort",
+        "original_name": "Jason Resoort",
+        "popularity": 0.2523,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "“Clown Dude”",
+        "credit_id": "68e1afb6613b5e4dfc9610ce",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3660644,
+        "known_for_department": "Lighting",
+        "name": "Carter Looker",
+        "original_name": "Carter Looker",
+        "popularity": 0.1222,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "",
+        "credit_id": "68e1afccfeaba716a9f813be",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5729778,
+        "known_for_department": "Acting",
+        "name": "Ned Walta",
+        "original_name": "Ned Walta",
+        "popularity": 0.0365,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "",
+        "credit_id": "68e1afdecccbc41ace96117f",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3025225,
+        "known_for_department": "Directing",
+        "name": "Sophie Somerville",
+        "original_name": "Sophie Somerville",
+        "popularity": 0.295,
+        "profile_path": null,
+        "credit_id": "6789252579cf13ee41ad2c83",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3025225,
+        "known_for_department": "Directing",
+        "name": "Sophie Somerville",
+        "original_name": "Sophie Somerville",
+        "popularity": 0.295,
+        "profile_path": null,
+        "credit_id": "67a75a4e31001bec13c8b2f8",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1891885,
+        "known_for_department": "Acting",
+        "name": "Emmanuelle Mattana",
+        "original_name": "Emmanuelle Mattana",
+        "popularity": 0.384,
+        "profile_path": "/mNhnKKnULDfV3IqJ0ygaNzkYo4U.jpg",
+        "credit_id": "67a75a55b9360c3e33e06e1f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5196220,
+        "known_for_department": "Acting",
+        "name": "Melissa Gan",
+        "original_name": "Melissa Gan",
+        "popularity": 0.2948,
+        "profile_path": null,
+        "credit_id": "67a75a5bb9360c3e33e06e25",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3660644,
+        "known_for_department": "Lighting",
+        "name": "Carter Looker",
+        "original_name": "Carter Looker",
+        "popularity": 0.1222,
+        "profile_path": null,
+        "credit_id": "67a75a61b9360c3e33e06e2a",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3025225,
+        "known_for_department": "Directing",
+        "name": "Sophie Somerville",
+        "original_name": "Sophie Somerville",
+        "popularity": 0.295,
+        "profile_path": null,
+        "credit_id": "67a75a67b9360c3e33e06e32",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5233656,
+        "known_for_department": "Sound",
+        "name": "Mike Tilbrook",
+        "original_name": "Mike Tilbrook",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "credit_id": "67a75a6e31001bec13c8b31d",
+        "department": "Sound",
+        "job": "Music Arranger"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4091351,
+        "known_for_department": "Sound",
+        "name": "Rizky Pratama",
+        "original_name": "Rizky Pratama",
+        "popularity": 0.1245,
+        "profile_path": null,
+        "credit_id": "67a75a77269f0bc4f5f11adc",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 82608,
+        "known_for_department": "Acting",
+        "name": "Brendan Donoghue",
+        "original_name": "Brendan Donoghue",
+        "popularity": 0.6443,
+        "profile_path": "/waOUm5OYVdgdUBIDG5MrNciybmE.jpg",
+        "credit_id": "67a75a801729ffa1cae06833",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2554196,
+        "known_for_department": "Acting",
+        "name": "Amanda Maple-Brown",
+        "original_name": "Amanda Maple-Brown",
+        "popularity": 0.1316,
+        "profile_path": "/uhmMC1qo1SzifmQTv5g0q1vSOmS.jpg",
+        "credit_id": "67a75a87b9360c3e33e06e45",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3660644,
+        "known_for_department": "Lighting",
+        "name": "Carter Looker",
+        "original_name": "Carter Looker",
+        "popularity": 0.1222,
+        "profile_path": null,
+        "credit_id": "67a75aa61c0f3abf87e069eb",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3025225,
+        "known_for_department": "Directing",
+        "name": "Sophie Somerville",
+        "original_name": "Sophie Somerville",
+        "popularity": 0.295,
+        "profile_path": null,
+        "credit_id": "67a75aad571d707f14c8b181",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4413325,
+        "known_for_department": "Production",
+        "name": "Sarah Hegge-Taylor",
+        "original_name": "Sarah Hegge-Taylor",
+        "popularity": 0.3851,
+        "profile_path": "/liq1AWXpIyKVqckybu81xJGRWzj.jpg",
+        "credit_id": "67a75ab41c0f3abf87e06a00",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6260802,
+        "known_for_department": "Crew",
+        "name": "Jack Thompson",
+        "original_name": "Jack Thompson",
+        "popularity": 0.1526,
+        "profile_path": "/gw50AbFjxKYwJSU2SMqMNutuliW.jpg",
+        "credit_id": "6a2000517af46931cdbd1747",
+        "department": "Editing",
+        "job": "Colorist"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 5656,
+        "name": "sydney, australia"
+      },
+      {
+        "id": 9941,
+        "name": "melbourne, australia"
+      },
+      {
+        "id": 181145,
+        "name": "woman lawyer"
+      },
+      {
+        "id": 187056,
+        "name": "woman director"
+      },
+      {
+        "id": 272740,
+        "name": "friends reunion"
+      },
+      {
+        "id": 322484,
+        "name": "weekend"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "When an estranged friend spontaneously arrives in Melbourne from Sydney, two girls spend a weekend confronting their personal struggles, existential dread, and the messy realities of growing up and growing apart.",
+          "runtime": 92,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "CN",
+        "iso_639_1": "zh",
+        "name": "普通话",
+        "english_name": "Mandarin",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": "盆友"
+        }
+      },
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Em ha viajado desde Sydney para visitar a su amiga Jessie. No tienen ningún plan y ni siquiera hay un edredón adecuado para Em, aunque las dos jóvenes no dormirán de todos modos. Pronto, su dulce e inteligente parloteo fluye a toda velocidad, pasando de lo banal a lo pesado y viceversa. Ambas están perdidas a su manera: Em porque su supuesto trabajo soñado viene acompañado de un clima explotador y misógino; Jessie porque ahora se encuentra en el vacío tras una ruptura. Las horas que comparten se convierten en un espacio de juego, al igual que sus movimientos vagos por la ciudad se convierten en una observación de sí mismas y de quienes las rodean.",
+          "runtime": 92,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "KR",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말",
+        "english_name": "Korean",
+        "data": {
+          "homepage": "",
+          "overview": "오랜 친구인 엠과 제시가 재회해 주말을 함께 보낸다. 두 사람의 대화는 가벼운 이야기와 깊은 감정을 아우르며 자연스럽게 흘러간다. 이들은 솔직함과 유머로 삶의 우여곡절을 헤쳐 나가는 강인한 젊은 여성 세대를 대표한다.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "주말의 친구들"
+        }
+      },
+      {
+        "iso_3166_1": "TW",
+        "iso_639_1": "zh",
+        "name": "普通话",
+        "english_name": "Mandarin",
+        "data": {
+          "homepage": "",
+          "overview": "年輕律師艾姆透過拚命工作證明自己，不料遭遇職場性騷擾；潔西剛結束一段多年關係，獨自對抗生活的虛無與孤寂。兩人久別重逢，原本只是敘舊的週末，意外展開一場城市漫遊。從親密關係到職場困境、從失落情感到生存焦慮，逐漸向彼此坦誠的傷口和心事，笑中帶淚，那些難以言喻的經歷，輕盈又真實。",
+          "runtime": 0,
+          "tagline": "",
+          "title": "墨爾本週末不回家"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt35439830",
+    "wikidata_id": "Q132348446",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/lQg3LaHcgMDXV7PSdKORCX3PpAR.jpg",
+        "vote_average": 3.334,
+        "vote_count": 2,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1001,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/hel3TNvNGDKnbBpTGdTC1geE6eX.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1780
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/haKPBBDfo55KOGRVsQ4kKqk8kO.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.75,
+        "height": 1600,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/luEnVu9xQP61K0CndpETBihtMO3.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1200
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/x9DktRstoT6E1KfO94zztUxWwyG.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/jagMPaqt5YZIWk1SGQuimt2xvGk.jpg",
+        "vote_average": 0.0,
+        "vote_count": 1,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Sydney Film Festival",
+            "release_date": "2025-06-07T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "M",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Melbourne International Film Festival",
+            "release_date": "2025-08-19T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "M",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Adelaide Film Festival",
+            "release_date": "2025-10-16T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Brisbane International Film Festival",
+            "release_date": "2025-11-29T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "M",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-11-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Beijing International Film Festival",
+            "release_date": "2025-04-19T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Berlin International Film Festival",
+            "release_date": "2025-02-15T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Cinema Jove",
+            "release_date": "2025-06-20T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "BFI London Film Festival",
+            "release_date": "2025-10-09T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Seoul International Women's Film Festival",
+            "release_date": "2025-08-24T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NZ",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-03-11T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TW",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Women Make Waves International Film Festival",
+            "release_date": "2025-10-22T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Hawai'i International Film Festival",
+            "release_date": "2025-10-18T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer",
+        "key": "OLpWvEBOEtU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6878e00acdd02efddf5fac87",
+        "published_at": "2025-07-15T05:56:36.000Z"
+      }
+    ]
+  }
+}

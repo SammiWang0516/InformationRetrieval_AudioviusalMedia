@@ -1,0 +1,607 @@
+{
+  "adult": false,
+  "backdrop_path": "/qsT69o77SSXrJebwm5cCF8yIlRG.jpg",
+  "belongs_to_collection": null,
+  "budget": 25,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1650641,
+  "imdb_id": null,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Only the Dead Know Brooklyn",
+  "overview": "An adaptation of Thomas Wolfe's timeless 1935 short story where a man tries to direct a drunk to his train",
+  "popularity": 0.7518,
+  "poster_path": "/eABuNa7wkEMAVufwvqkYy1YKOK3.jpg",
+  "production_companies": [
+    {
+      "id": 277499,
+      "logo_path": null,
+      "name": "Ignatius Artists",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-04-27",
+  "revenue": 0,
+  "runtime": 2,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "I like the sound of the name... \"Bensonhoist\"",
+  "title": "Only the Dead Know Brooklyn",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4722617,
+        "known_for_department": "Acting",
+        "name": "Griffin Long-Sinnott",
+        "original_name": "Griffin Long-Sinnott",
+        "popularity": 0.1315,
+        "profile_path": "/lrVYPy2vvZed6EGA5nrYANwn4gC.jpg",
+        "cast_id": 8,
+        "character": "Narrator",
+        "credit_id": "69ee7c2bc30de8aa70b4f241",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5160917,
+        "known_for_department": "Directing",
+        "name": "Mike Ehrenkranz",
+        "original_name": "Mike Ehrenkranz",
+        "popularity": 0.2963,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Wise Guy",
+        "credit_id": "69ee7c3aa1813eb63c151448",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6067277,
+        "known_for_department": "Acting",
+        "name": "Kaan O'Shea",
+        "original_name": "Kaan O'Shea",
+        "popularity": 0.2469,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Big Guy",
+        "credit_id": "69ee7c45f4a056745c93692c",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 398382,
+        "known_for_department": "Writing",
+        "name": "Thomas Wolfe",
+        "original_name": "Thomas Wolfe",
+        "popularity": 0.1431,
+        "profile_path": null,
+        "credit_id": "69b30e9e270b3c0ea5817970",
+        "department": "Writing",
+        "job": "Original Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3405448,
+        "known_for_department": "Directing",
+        "name": "Danny Jeremias",
+        "original_name": "Danny Jeremias",
+        "popularity": 0.4537,
+        "profile_path": "/4sUQsmCDfyozi2kH1yijsidsiCP.jpg",
+        "credit_id": "69b30eab48b5249cbf4b71d4",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3405448,
+        "known_for_department": "Directing",
+        "name": "Danny Jeremias",
+        "original_name": "Danny Jeremias",
+        "popularity": 0.4537,
+        "profile_path": "/4sUQsmCDfyozi2kH1yijsidsiCP.jpg",
+        "credit_id": "69b30f2c34356d367c685f3c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3405448,
+        "known_for_department": "Directing",
+        "name": "Danny Jeremias",
+        "original_name": "Danny Jeremias",
+        "popularity": 0.4537,
+        "profile_path": "/4sUQsmCDfyozi2kH1yijsidsiCP.jpg",
+        "credit_id": "69cea685eddea241db8feb5e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3405448,
+        "known_for_department": "Directing",
+        "name": "Danny Jeremias",
+        "original_name": "Danny Jeremias",
+        "popularity": 0.4537,
+        "profile_path": "/4sUQsmCDfyozi2kH1yijsidsiCP.jpg",
+        "credit_id": "69cea693a1d839cb664d1cf2",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3405448,
+        "known_for_department": "Directing",
+        "name": "Danny Jeremias",
+        "original_name": "Danny Jeremias",
+        "popularity": 0.4537,
+        "profile_path": "/4sUQsmCDfyozi2kH1yijsidsiCP.jpg",
+        "credit_id": "69ee7c5bd26d96b86c0299d0",
+        "department": "Lighting",
+        "job": "Lighting Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3405448,
+        "known_for_department": "Directing",
+        "name": "Danny Jeremias",
+        "original_name": "Danny Jeremias",
+        "popularity": 0.4537,
+        "profile_path": "/4sUQsmCDfyozi2kH1yijsidsiCP.jpg",
+        "credit_id": "69ee7c675db96cd1c3151109",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3405448,
+        "known_for_department": "Directing",
+        "name": "Danny Jeremias",
+        "original_name": "Danny Jeremias",
+        "popularity": 0.4537,
+        "profile_path": "/4sUQsmCDfyozi2kH1yijsidsiCP.jpg",
+        "credit_id": "69ee7c71140423b81115126a",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4722617,
+        "known_for_department": "Acting",
+        "name": "Griffin Long-Sinnott",
+        "original_name": "Griffin Long-Sinnott",
+        "popularity": 0.1315,
+        "profile_path": "/lrVYPy2vvZed6EGA5nrYANwn4gC.jpg",
+        "credit_id": "69ee7c7f8512be5feb9367c3",
+        "department": "Art",
+        "job": "Location Scout"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5160917,
+        "known_for_department": "Directing",
+        "name": "Mike Ehrenkranz",
+        "original_name": "Mike Ehrenkranz",
+        "popularity": 0.2963,
+        "profile_path": null,
+        "credit_id": "69ee7c993094b4133db4f34c",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3405448,
+        "known_for_department": "Directing",
+        "name": "Danny Jeremias",
+        "original_name": "Danny Jeremias",
+        "popularity": 0.4537,
+        "profile_path": "/4sUQsmCDfyozi2kH1yijsidsiCP.jpg",
+        "credit_id": "69ee7ccec63f8349330294c1",
+        "department": "Art",
+        "job": "Location Scout"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3405448,
+        "known_for_department": "Directing",
+        "name": "Danny Jeremias",
+        "original_name": "Danny Jeremias",
+        "popularity": 0.4537,
+        "profile_path": "/4sUQsmCDfyozi2kH1yijsidsiCP.jpg",
+        "credit_id": "69ee7cd91189724a7a02955f",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3405448,
+        "known_for_department": "Directing",
+        "name": "Danny Jeremias",
+        "original_name": "Danny Jeremias",
+        "popularity": 0.4537,
+        "profile_path": "/4sUQsmCDfyozi2kH1yijsidsiCP.jpg",
+        "credit_id": "69ee7cecc341c2591ad4929a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 858,
+        "known_for_department": "Acting",
+        "name": "Duke Ellington",
+        "original_name": "Duke Ellington",
+        "popularity": 0.7312,
+        "profile_path": "/eeGUhNryUGMWpUupvKE61aFjzAp.jpg",
+        "credit_id": "69ef8c6a52feb6b54f029c37",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 858,
+        "known_for_department": "Acting",
+        "name": "Duke Ellington",
+        "original_name": "Duke Ellington",
+        "popularity": 0.7312,
+        "profile_path": "/eeGUhNryUGMWpUupvKE61aFjzAp.jpg",
+        "credit_id": "69ef8c89efc287ff9c936ca3",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3405448,
+        "known_for_department": "Directing",
+        "name": "Danny Jeremias",
+        "original_name": "Danny Jeremias",
+        "popularity": 0.4537,
+        "profile_path": "/4sUQsmCDfyozi2kH1yijsidsiCP.jpg",
+        "credit_id": "69ef8caaa90abbe3bbdc8dba",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3405448,
+        "known_for_department": "Directing",
+        "name": "Danny Jeremias",
+        "original_name": "Danny Jeremias",
+        "popularity": 0.4537,
+        "profile_path": "/4sUQsmCDfyozi2kH1yijsidsiCP.jpg",
+        "credit_id": "69ef8cb6918b03bfdc17e339",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5160917,
+        "known_for_department": "Directing",
+        "name": "Mike Ehrenkranz",
+        "original_name": "Mike Ehrenkranz",
+        "popularity": 0.2963,
+        "profile_path": null,
+        "credit_id": "69ef8d00903a0bdcb4b4fa3f",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6067277,
+        "known_for_department": "Acting",
+        "name": "Kaan O'Shea",
+        "original_name": "Kaan O'Shea",
+        "popularity": 0.2469,
+        "profile_path": null,
+        "credit_id": "69ef8d819c99883059d49b8e",
+        "department": "Production",
+        "job": "Grip Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3405448,
+        "known_for_department": "Directing",
+        "name": "Danny Jeremias",
+        "original_name": "Danny Jeremias",
+        "popularity": 0.4537,
+        "profile_path": "/4sUQsmCDfyozi2kH1yijsidsiCP.jpg",
+        "credit_id": "69ef8dc7325625ab15dc8cc3",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3405448,
+        "known_for_department": "Directing",
+        "name": "Danny Jeremias",
+        "original_name": "Danny Jeremias",
+        "popularity": 0.4537,
+        "profile_path": "/4sUQsmCDfyozi2kH1yijsidsiCP.jpg",
+        "credit_id": "69ef8dd6476ac3cd16dc8d37",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5160917,
+        "known_for_department": "Directing",
+        "name": "Mike Ehrenkranz",
+        "original_name": "Mike Ehrenkranz",
+        "popularity": 0.2963,
+        "profile_path": null,
+        "credit_id": "69ef8ded325625ab15dc8cc9",
+        "department": "Production",
+        "job": "Location Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5160917,
+        "known_for_department": "Directing",
+        "name": "Mike Ehrenkranz",
+        "original_name": "Mike Ehrenkranz",
+        "popularity": 0.2963,
+        "profile_path": null,
+        "credit_id": "69ef8e07d51f75eca8937091",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4722617,
+        "known_for_department": "Acting",
+        "name": "Griffin Long-Sinnott",
+        "original_name": "Griffin Long-Sinnott",
+        "popularity": 0.1315,
+        "profile_path": "/lrVYPy2vvZed6EGA5nrYANwn4gC.jpg",
+        "credit_id": "69ef8e665db96cd1c3151616",
+        "department": "Camera",
+        "job": "Camera Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5160917,
+        "known_for_department": "Directing",
+        "name": "Mike Ehrenkranz",
+        "original_name": "Mike Ehrenkranz",
+        "popularity": 0.2963,
+        "profile_path": null,
+        "credit_id": "69ef8ea9c30de8aa70b4f89e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3405448,
+        "known_for_department": "Directing",
+        "name": "Danny Jeremias",
+        "original_name": "Danny Jeremias",
+        "popularity": 0.4537,
+        "profile_path": "/4sUQsmCDfyozi2kH1yijsidsiCP.jpg",
+        "credit_id": "69ef8eb6cdcdef39c5936a03",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4722617,
+        "known_for_department": "Acting",
+        "name": "Griffin Long-Sinnott",
+        "original_name": "Griffin Long-Sinnott",
+        "popularity": 0.1315,
+        "profile_path": "/lrVYPy2vvZed6EGA5nrYANwn4gC.jpg",
+        "credit_id": "69ef8ecf1e296fcc89937012",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6067277,
+        "known_for_department": "Acting",
+        "name": "Kaan O'Shea",
+        "original_name": "Kaan O'Shea",
+        "popularity": 0.2469,
+        "profile_path": null,
+        "credit_id": "69ef8f169d7659e7b8029ea1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3405448,
+        "known_for_department": "Directing",
+        "name": "Danny Jeremias",
+        "original_name": "Danny Jeremias",
+        "popularity": 0.4537,
+        "profile_path": "/4sUQsmCDfyozi2kH1yijsidsiCP.jpg",
+        "credit_id": "6a02a68f9abd78d4c8cfcf6b",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3405448,
+        "known_for_department": "Directing",
+        "name": "Danny Jeremias",
+        "original_name": "Danny Jeremias",
+        "popularity": 0.4537,
+        "profile_path": "/4sUQsmCDfyozi2kH1yijsidsiCP.jpg",
+        "credit_id": "6ab26efbf6c7c4d2b50bc638",
+        "department": "Camera",
+        "job": "Camera Operator"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 214548,
+        "name": "1930s"
+      },
+      {
+        "id": 286957,
+        "name": "adaptation"
+      },
+      {
+        "id": 315302,
+        "name": "comedic"
+      },
+      {
+        "id": 355144,
+        "name": "timeless"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "An adaptation of Thomas Wolfe's timeless 1935 short story where a man tries to direct a drunk to his train",
+          "runtime": 2,
+          "tagline": "I like the sound of the name... \"Bensonhoist\"",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.777,
+        "height": 1540,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/qsT69o77SSXrJebwm5cCF8yIlRG.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2737
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.674,
+        "height": 1555,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/eABuNa7wkEMAVufwvqkYy1YKOK3.jpg",
+        "vote_average": 0.0,
+        "vote_count": 1,
+        "width": 1048
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2026-04-27T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2026-05-14T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Only the Dead Know Brooklyn",
+        "key": "cw-mU6n7wew",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Featurette",
+        "official": false,
+        "id": "6a059a97903daf08155bfe4d",
+        "published_at": "2026-05-14T04:29:21.000Z"
+      }
+    ]
+  }
+}

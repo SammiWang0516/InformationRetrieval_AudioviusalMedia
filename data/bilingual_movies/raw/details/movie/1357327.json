@@ -1,0 +1,574 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1357327,
+  "imdb_id": "tt13921808",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Mantopus",
+  "overview": "In his quest to make the most realistic monster movie ever made, an insane movie director begins production on a film about a half-man half-octopus.",
+  "popularity": 1.2516,
+  "poster_path": "/bf7JI6S7IzO59EWMO411kDNf4WJ.jpg",
+  "production_companies": [
+    {
+      "id": 100523,
+      "logo_path": null,
+      "name": "Gooey Film Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-05-16",
+  "revenue": 0,
+  "runtime": 84,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Mantopus",
+  "video": false,
+  "vote_average": 3.7,
+  "vote_count": 3,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 123411,
+        "known_for_department": "Acting",
+        "name": "Joshua Kennedy",
+        "original_name": "Joshua Kennedy",
+        "popularity": 0.1824,
+        "profile_path": "/uzsoWzO5CTIy6OFyFFkeJvRJzFu.jpg",
+        "cast_id": 8,
+        "character": "Charles Landor",
+        "credit_id": "66e805b8050f14e4fccfed82",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4013674,
+        "known_for_department": "Acting",
+        "name": "Valerie Prince",
+        "original_name": "Valerie Prince",
+        "popularity": 0.5178,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Julia Landor",
+        "credit_id": "66e8047e050f14e4fccfecf7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3919343,
+        "known_for_department": "Acting",
+        "name": "Mitzi Venus",
+        "original_name": "Mitzi Venus",
+        "popularity": 0.4336,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Cindy Banks",
+        "credit_id": "66e804999dfbbdf0e6cff1fd",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4013682,
+        "known_for_department": "Acting",
+        "name": "Jamie Torres",
+        "original_name": "Jamie Torres",
+        "popularity": 0.0435,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Rick Fallon",
+        "credit_id": "66e80502e8211ecd22b0fa1e",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2968335,
+        "known_for_department": "Acting",
+        "name": "Brian J. Warren",
+        "original_name": "Brian J. Warren",
+        "popularity": 0.0773,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "John Danziger",
+        "credit_id": "66e8052f9dfbbdf0e6cff21f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2968334,
+        "known_for_department": "Acting",
+        "name": "Bryan Martinez",
+        "original_name": "Bryan Martinez",
+        "popularity": 0.3413,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "The Shopkeeper",
+        "credit_id": "6a01e19c4cb797e302eab877",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6034477,
+        "known_for_department": "Acting",
+        "name": "Victoria Rose",
+        "original_name": "Victoria Rose",
+        "popularity": 0.1722,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Aggie Perkins",
+        "credit_id": "6a01e511feda30c03e132f1e",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1358946,
+        "known_for_department": "Acting",
+        "name": "Dani Thompson",
+        "original_name": "Dani Thompson",
+        "popularity": 0.4321,
+        "profile_path": "/jEVoILMILvAzqpDFWFkW7J92X6c.jpg",
+        "cast_id": 7,
+        "character": "Karen Hamilton",
+        "credit_id": "66e80572e8211ecd22b0fa39",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2968331,
+        "known_for_department": "Acting",
+        "name": "Jonathan Tamez",
+        "original_name": "Jonathan Tamez",
+        "popularity": 0.0987,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Detective Troy Sheppard",
+        "credit_id": "6a01e52fd202aaecf7799af7",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1685256,
+        "known_for_department": "Acting",
+        "name": "Tom Pearson",
+        "original_name": "Tom Pearson",
+        "popularity": 0.1155,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Chief Flanagan",
+        "credit_id": "6a01e5c1bc5ad1cd2079a305",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3919342,
+        "known_for_department": "Acting",
+        "name": "Hilda Sofia Bautista",
+        "original_name": "Hilda Sofia Bautista",
+        "popularity": 0.2013,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Stacy",
+        "credit_id": "6a01e5d6d015391a87132eef",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3788220,
+        "known_for_department": "Acting",
+        "name": "Julian Flores",
+        "original_name": "Julian Flores",
+        "popularity": 0.0921,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Hugo",
+        "credit_id": "6a01e5ee07153402033a797a",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2968341,
+        "known_for_department": "Acting",
+        "name": "Stefanie Jo Saenz",
+        "original_name": "Stefanie Jo Saenz",
+        "popularity": 0.1486,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Diva Auditioning Actress",
+        "credit_id": "6a01e6076c5e039dffeab856",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3576138,
+        "known_for_department": "Acting",
+        "name": "Ronnie Zamora",
+        "original_name": "Ronnie Zamora",
+        "popularity": 0.0567,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Actor on Set",
+        "credit_id": "6a01e66e4807f5fe516306b8",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3211660,
+        "known_for_department": "Acting",
+        "name": "Rose Cano",
+        "original_name": "Rose Cano",
+        "popularity": 0.2096,
+        "profile_path": "/yK9jo9v3o87arv17rfQimCcIAH4.jpg",
+        "cast_id": 22,
+        "character": "Rosa Cano",
+        "credit_id": "6a01e6814cb797e302eab8e7",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6205643,
+        "known_for_department": "Acting",
+        "name": "Kevin Shropshire",
+        "original_name": "Kevin Shropshire",
+        "popularity": 0.0395,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Projectionist",
+        "credit_id": "6a01e6998181e6913e132f70",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 79633,
+        "known_for_department": "Acting",
+        "name": "Jess Conrad",
+        "original_name": "Jess Conrad",
+        "popularity": 0.5289,
+        "profile_path": "/cvIDSrjbAnFrKRMH0XWkCnm1pmx.jpg",
+        "cast_id": 24,
+        "character": "Bob Kenton (voice)",
+        "credit_id": "6a01e6bbf3db0b97323a7a31",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2968331,
+        "known_for_department": "Acting",
+        "name": "Jonathan Tamez",
+        "original_name": "Jonathan Tamez",
+        "popularity": 0.0987,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "The Mantopus",
+        "credit_id": "6a01e6d92651dfe826cfd5b7",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 123411,
+        "known_for_department": "Acting",
+        "name": "Joshua Kennedy",
+        "original_name": "Joshua Kennedy",
+        "popularity": 0.1824,
+        "profile_path": "/uzsoWzO5CTIy6OFyFFkeJvRJzFu.jpg",
+        "credit_id": "66e80436e8211ecd22b0f984",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 123411,
+        "known_for_department": "Acting",
+        "name": "Joshua Kennedy",
+        "original_name": "Joshua Kennedy",
+        "popularity": 0.1824,
+        "profile_path": "/uzsoWzO5CTIy6OFyFFkeJvRJzFu.jpg",
+        "credit_id": "6a01e1bc7dbfe656e2eab85e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 123411,
+        "known_for_department": "Acting",
+        "name": "Joshua Kennedy",
+        "original_name": "Joshua Kennedy",
+        "popularity": 0.1824,
+        "profile_path": "/uzsoWzO5CTIy6OFyFFkeJvRJzFu.jpg",
+        "credit_id": "6a01e1c7fb36483ef9cfd337",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3788220,
+        "known_for_department": "Acting",
+        "name": "Julian Flores",
+        "original_name": "Julian Flores",
+        "popularity": 0.0921,
+        "profile_path": null,
+        "credit_id": "6a01e1da6b0a18f2f6a64b2a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2946389,
+        "known_for_department": "Art",
+        "name": "Lauro S. Hinojosa",
+        "original_name": "Lauro S. Hinojosa",
+        "popularity": 0.2485,
+        "profile_path": null,
+        "credit_id": "6a01e1e807153402033a7930",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1198116,
+        "known_for_department": "Acting",
+        "name": "Mitch Gonzales",
+        "original_name": "Mitch Gonzales",
+        "popularity": 0.1332,
+        "profile_path": null,
+        "credit_id": "6a01e77379b1cb8cbb3a78fa",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3211660,
+        "known_for_department": "Acting",
+        "name": "Rose Cano",
+        "original_name": "Rose Cano",
+        "popularity": 0.2096,
+        "profile_path": "/yK9jo9v3o87arv17rfQimCcIAH4.jpg",
+        "credit_id": "6a01e789c3fd6945ae3608ea",
+        "department": "Lighting",
+        "job": "Lighting Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6205652,
+        "known_for_department": "Editing",
+        "name": "James Wants",
+        "original_name": "James Wants",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "6a01e7a28c313acc276308fc",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1488975,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Daniela García",
+        "original_name": "Daniela García",
+        "popularity": 0.1575,
+        "profile_path": null,
+        "credit_id": "6a01e7b73c35688c35a64605",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1575385,
+        "known_for_department": "Sound",
+        "name": "Reber Clark",
+        "original_name": "Reber Clark",
+        "popularity": 0.0955,
+        "profile_path": null,
+        "credit_id": "6a01e7fa6278f4ebbc360e4c",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4050916,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Daniela García",
+        "original_name": "Daniela García",
+        "popularity": 0.157,
+        "profile_path": null,
+        "credit_id": "6a01e83f0fd89b2f59eab892",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2946376,
+        "known_for_department": "Acting",
+        "name": "Gus Kennedy",
+        "original_name": "Gus Kennedy",
+        "popularity": 0.2395,
+        "profile_path": null,
+        "credit_id": "6a01e84cc61f6e6f86132f1e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3576139,
+        "known_for_department": "Production",
+        "name": "Ana Kennedy",
+        "original_name": "Ana Kennedy",
+        "popularity": 0.4647,
+        "profile_path": null,
+        "credit_id": "6a01e8590551ab6f9c132f48",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "In his quest to make the most realistic monster movie ever made, an insane movie director begins production on a film about a half-man half-octopus.",
+          "runtime": 84,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt13921808",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/bf7JI6S7IzO59EWMO411kDNf4WJ.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 2048,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/uBlLj4uq6zF9W3gujZYC30OfNkV.jpg",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 1365
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-05-16T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "MANTOPUS! (2025) Official Trailer",
+        "key": "nz10Hb9IJCA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "69b79cc3d1cf92ccee3b99cf",
+        "published_at": "2026-03-15T21:14:42.000Z"
+      }
+    ]
+  }
+}

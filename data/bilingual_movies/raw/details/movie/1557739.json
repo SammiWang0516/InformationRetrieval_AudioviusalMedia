@@ -1,0 +1,559 @@
+{
+  "adult": false,
+  "backdrop_path": "/p2bOLyH6h0vennkWgvTJzm3w4f2.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1557739,
+  "imdb_id": null,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "fr",
+  "original_title": "La chute du Roi Soleil",
+  "overview": "With only his bowling champion title to make him forget his loneliness, Alain sees his world turned upside down when a new player takes the title from him.",
+  "popularity": 0.801,
+  "poster_path": "/jXrwsqCFR6xNxj03zrQFKJEU6Su.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2025-04-29",
+  "revenue": 0,
+  "runtime": 10,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Fall of the Sun King",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5731926,
+        "known_for_department": "Acting",
+        "name": "Marc-André Decoste",
+        "original_name": "Marc-André Decoste",
+        "popularity": 0.3411,
+        "profile_path": "/i6czS6tlF2PaaOq7qTkabEKrz9S.jpg",
+        "cast_id": 1,
+        "character": "Alain",
+        "credit_id": "68e2cc11e1736b9e9d9caa0f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4828252,
+        "known_for_department": "Acting",
+        "name": "Carina Medawar",
+        "original_name": "Carina Medawar",
+        "popularity": 0.3829,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Mélanie",
+        "credit_id": "68e2cc2c65aecc98a99cadb1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3529312,
+        "known_for_department": "Acting",
+        "name": "Diane-Marie Racicot",
+        "original_name": "Diane-Marie Racicot",
+        "popularity": 0.3804,
+        "profile_path": "/pEITftpCB6aBLCVkB22YnAo4hYT.jpg",
+        "cast_id": 3,
+        "character": "Monique",
+        "credit_id": "68e2cc42f0e07989ed9cac1e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5731931,
+        "known_for_department": "Acting",
+        "name": "Jean-Yves Cardin",
+        "original_name": "Jean-Yves Cardin",
+        "popularity": 0.0943,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Sylvain",
+        "credit_id": "68e2cc5b1ae2ff89c1bd991a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3713128,
+        "known_for_department": "Acting",
+        "name": "Sébastien Pacchiardi",
+        "original_name": "Sébastien Pacchiardi",
+        "popularity": 0.2034,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Denis",
+        "credit_id": "68e2d6bdf6d32fab28bd9609",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4062706,
+        "known_for_department": "Directing",
+        "name": "Charles Muloin",
+        "original_name": "Charles Muloin",
+        "popularity": 0.0428,
+        "profile_path": null,
+        "credit_id": "68e2ccc16c29ab3c95bd959f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4062706,
+        "known_for_department": "Directing",
+        "name": "Charles Muloin",
+        "original_name": "Charles Muloin",
+        "popularity": 0.0428,
+        "profile_path": null,
+        "credit_id": "68e2d1a576040052a9c225d8",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3982722,
+        "known_for_department": "Directing",
+        "name": "Myriam Guérin",
+        "original_name": "Myriam Guérin",
+        "popularity": 0.0435,
+        "profile_path": null,
+        "credit_id": "68e2d1e22be556d05b961867",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5731966,
+        "known_for_department": "Art",
+        "name": "Juliette Taylor",
+        "original_name": "Juliette Taylor",
+        "popularity": 0.0911,
+        "profile_path": null,
+        "credit_id": "68e2d211266976838ec2720d",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5731968,
+        "known_for_department": "Camera",
+        "name": "Théo Gagné",
+        "original_name": "Théo Gagné",
+        "popularity": 0.0498,
+        "profile_path": null,
+        "credit_id": "68e2d27d039d42b270bd966e",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4957099,
+        "known_for_department": "Camera",
+        "name": "Lucien Cornaz",
+        "original_name": "Lucien Cornaz",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "68e2d316d715164943f817f1",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2913357,
+        "known_for_department": "Directing",
+        "name": "Tommy Harvey",
+        "original_name": "Tommy Harvey",
+        "popularity": 0.2383,
+        "profile_path": "/R27Du4WQ8jqGD4FZSFHsCpeXBr.jpg",
+        "credit_id": "68e2d3380c05b338ec961785",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4258676,
+        "known_for_department": "Lighting",
+        "name": "Ruslan Kazimir",
+        "original_name": "Ruslan Kazimir",
+        "popularity": 0.0524,
+        "profile_path": null,
+        "credit_id": "68e2d3c046ee24ca799cac98",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3982732,
+        "known_for_department": "Directing",
+        "name": "Carole-Ann Côté",
+        "original_name": "Carole-Ann Côté",
+        "popularity": 0.0604,
+        "profile_path": null,
+        "credit_id": "68e2d3de89b1b9bab0c2264e",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5731977,
+        "known_for_department": "Sound",
+        "name": "Florence Lasalle",
+        "original_name": "Florence Lasalle",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "68e2d40e46ee24ca799caca3",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5731978,
+        "known_for_department": "Lighting",
+        "name": "Quentin Porte",
+        "original_name": "Quentin Porte",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68e2d4309ab71b8aa825b47b",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5731981,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Léa Sagnard",
+        "original_name": "Léa Sagnard",
+        "popularity": 0.1389,
+        "profile_path": null,
+        "credit_id": "68e2d46e8dba4d8e56bd9710",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5731982,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Alexandre Deslauriers",
+        "original_name": "Alexandre Deslauriers",
+        "popularity": 0.083,
+        "profile_path": null,
+        "credit_id": "68e2d48b698ac5bbc9c2738b",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5731983,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sarah Héroux",
+        "original_name": "Sarah Héroux",
+        "popularity": 0.0953,
+        "profile_path": null,
+        "credit_id": "68e2d49d23acf8d01dbd95b8",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4674722,
+        "known_for_department": "Production",
+        "name": "Cedric Zinck",
+        "original_name": "Cedric Zinck",
+        "popularity": 0.0797,
+        "profile_path": null,
+        "credit_id": "68e2d55ef0e07989ed9cac68",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5731985,
+        "known_for_department": "Lighting",
+        "name": "Gauthier Millet",
+        "original_name": "Gauthier Millet",
+        "popularity": 0.0523,
+        "profile_path": null,
+        "credit_id": "68e2d59292b7410d0436e758",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5731979,
+        "known_for_department": "Lighting",
+        "name": "Florence Demeules",
+        "original_name": "Florence Demeules",
+        "popularity": 0.0744,
+        "profile_path": null,
+        "credit_id": "68e2d5d37ed9c6f53e25b508",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5731984,
+        "known_for_department": "Lighting",
+        "name": "Aaron Timizar",
+        "original_name": "Aaron Timizar",
+        "popularity": 0.0721,
+        "profile_path": null,
+        "credit_id": "68e2d5ea9c0452f88f617b0d",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5731988,
+        "known_for_department": "Camera",
+        "name": "Charles-Antoine Bédard",
+        "original_name": "Charles-Antoine Bédard",
+        "popularity": 0.0515,
+        "profile_path": null,
+        "credit_id": "68e2d60281ddbbc250f81793",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4062706,
+        "known_for_department": "Directing",
+        "name": "Charles Muloin",
+        "original_name": "Charles Muloin",
+        "popularity": 0.0428,
+        "profile_path": null,
+        "credit_id": "68e2d6360c25d33785c225e3",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5731993,
+        "known_for_department": "Sound",
+        "name": "Jasmin Lacasse Roy",
+        "original_name": "Jasmin Lacasse Roy",
+        "popularity": 0.0692,
+        "profile_path": null,
+        "credit_id": "68e2d65faf06b97b32961571",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3906546,
+        "known_for_department": "Lighting",
+        "name": "Kané Beignet",
+        "original_name": "Kané Beignet",
+        "popularity": 0.124,
+        "profile_path": "/oc1ZH0hYUh4KHJOtkocsYEiQaOW.jpg",
+        "credit_id": "68e32e4ef54a5487f9961658",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5731971,
+        "known_for_department": "Directing",
+        "name": "Holly Gagnon",
+        "original_name": "Holly Gagnon",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68e3cfcd10fb2072ddc27dd7",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3892195,
+        "known_for_department": "Directing",
+        "name": "Adrien Perez Romo",
+        "original_name": "Adrien Perez Romo",
+        "popularity": 0.328,
+        "profile_path": null,
+        "credit_id": "68e3d05552669dab81f81cea",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3892214,
+        "known_for_department": "Camera",
+        "name": "Jérémie Gravel",
+        "original_name": "Jérémie Gravel",
+        "popularity": 0.6198,
+        "profile_path": "/pe0THZn6fiuRKtsFn8qZ0T8oON2.jpg",
+        "credit_id": "68e3d0ef19f26313f29caff9",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 420,
+        "name": "bowling"
+      },
+      {
+        "id": 263548,
+        "name": "short film"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "Alain, un homme au quotidien monotone et solitaire menant une double vie de champion de bowling dans un club amateur, voit son monde basculer lorsqu'une nouvelle joueuse lui ravit le titre.",
+          "runtime": 10,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "CA",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "Alain, un homme au quotidien monotone et solitaire menant une double vie de champion de bowling dans un club amateur, voit son monde basculer lorsqu'une nouvelle joueuse lui ravit le titre.",
+          "runtime": 10,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "With only his bowling champion title to make him forget his loneliness, Alain sees his world turned upside down when a new player takes the title from him.",
+          "runtime": 10,
+          "tagline": "",
+          "title": "The Fall of the Sun King"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/p2bOLyH6h0vennkWgvTJzm3w4f2.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/aZo6wmYJUF0sUkshQ2UE3RH8R1U.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 3840
+      }
+    ],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "fr",
+            "note": "Kino Mentorat 2025",
+            "release_date": "2025-04-29T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

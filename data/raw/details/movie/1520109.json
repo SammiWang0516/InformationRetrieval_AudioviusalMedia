@@ -1,0 +1,541 @@
+{
+  "adult": false,
+  "backdrop_path": "/7jUhz6F29xpUwR004DGwoPnGQzg.jpg",
+  "belongs_to_collection": null,
+  "budget": 10000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 1520109,
+  "imdb_id": "tt33030099",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Es frisst",
+  "overview": "After a botched robbery, a young gangster couple takes a mother and her daughter hostage and ends up in a forgotten forest cemetery on the edge of a disused industrial estate.",
+  "popularity": 1.3486,
+  "poster_path": "/7BSlR9LAGabIKxS2puAwH2PLCuY.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2026-10-22",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Es frisst",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1455260,
+        "known_for_department": "Acting",
+        "name": "Yvo René Scharf",
+        "original_name": "Yvo René Scharf",
+        "popularity": 0.1989,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Tom",
+        "credit_id": "68863ae8692b97576e38fb58",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4461414,
+        "known_for_department": "Acting",
+        "name": "Kati Rausch",
+        "original_name": "Kati Rausch",
+        "popularity": 0.2027,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Gina",
+        "credit_id": "68863b18268343956855ee5c",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1277770,
+        "known_for_department": "Directing",
+        "name": "Christoph Steinau",
+        "original_name": "Christoph Steinau",
+        "popularity": 0.5067,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Komissar Lech",
+        "credit_id": "68863b6c2b5caff9fa8a6dc6",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1557960,
+        "known_for_department": "Acting",
+        "name": "Claudius Freyer",
+        "original_name": "Claudius Freyer",
+        "popularity": 0.2794,
+        "profile_path": "/tS8DnriCL9mIrLwqrlLcLU6XsfL.jpg",
+        "cast_id": 4,
+        "character": "Gröger",
+        "credit_id": "68863bacee4cb01c3fd9b55d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2355879,
+        "known_for_department": "Acting",
+        "name": "Katharina Brehl",
+        "original_name": "Katharina Brehl",
+        "popularity": 0.3384,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Birgit",
+        "credit_id": "68863bed2c5aa3134538ff6a",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5589651,
+        "known_for_department": "Acting",
+        "name": "Julia Dernbach",
+        "original_name": "Julia Dernbach",
+        "popularity": 0.1296,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Martha",
+        "credit_id": "68863c2f268343956855ee83",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5589656,
+        "known_for_department": "Acting",
+        "name": "Corrina Hartmann",
+        "original_name": "Corrina Hartmann",
+        "popularity": 0.1666,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Tommy",
+        "credit_id": "68863c5bee4cb01c3fd9b57a",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5589662,
+        "known_for_department": "Acting",
+        "name": "Simon Pietsch",
+        "original_name": "Simon Pietsch",
+        "popularity": 0.3442,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Spurensicherung",
+        "credit_id": "68863c84b756a2f57d52ade6",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5589665,
+        "known_for_department": "Acting",
+        "name": "L.W. Martin",
+        "original_name": "L.W. Martin",
+        "popularity": 0.2636,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Samuel",
+        "credit_id": "68863cb9317a5cfe9cf79014",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5589667,
+        "known_for_department": "Acting",
+        "name": "Matthias Baumgart",
+        "original_name": "Matthias Baumgart",
+        "popularity": 0.0643,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Polizist",
+        "credit_id": "68863cd06585bd4edbd9b87a",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5589669,
+        "known_for_department": "Acting",
+        "name": "Verena Jasmin Baumgart",
+        "original_name": "Verena Jasmin Baumgart",
+        "popularity": 0.1215,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Polizistin",
+        "credit_id": "68863cec3d8d9dfd9038fa4b",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5589670,
+        "known_for_department": "Acting",
+        "name": "Brian Liu",
+        "original_name": "Brian Liu",
+        "popularity": 0.0759,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Ghoul",
+        "credit_id": "68863d137b01f1092616c318",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5589671,
+        "known_for_department": "Acting",
+        "name": "Anne-Cécile Thomas",
+        "original_name": "Anne-Cécile Thomas",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Radfahrerin",
+        "credit_id": "68863d2dff26beb16372ee95",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6223405,
+        "known_for_department": "Directing",
+        "name": "Anton Dellit",
+        "original_name": "Anton Dellit",
+        "popularity": 0.2254,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Missing Person",
+        "credit_id": "6a0b73445aac0cc9e3248e15",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4984992,
+        "known_for_department": "Writing",
+        "name": "Natalie Novak",
+        "original_name": "Natalie Novak",
+        "popularity": 0.0657,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Gertrud",
+        "credit_id": "6a3d588f910598cad3767c7e",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1043258,
+        "known_for_department": "Directing",
+        "name": "Ralf Kemper",
+        "original_name": "Ralf Kemper",
+        "popularity": 0.2921,
+        "profile_path": null,
+        "credit_id": "68863d506309222fee72ed5f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1043258,
+        "known_for_department": "Directing",
+        "name": "Ralf Kemper",
+        "original_name": "Ralf Kemper",
+        "popularity": 0.2921,
+        "profile_path": null,
+        "credit_id": "68863d5fbe0fabb0b238fc16",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1632381,
+        "known_for_department": "Acting",
+        "name": "Gerrit Reinecke",
+        "original_name": "Gerrit Reinecke",
+        "popularity": 0.0907,
+        "profile_path": null,
+        "credit_id": "68863da14a27e542aed9b2a0",
+        "department": "Writing",
+        "job": "Story Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5589673,
+        "known_for_department": "Writing",
+        "name": "Harald weber",
+        "original_name": "Harald weber",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "68863dbe889cf9581e246b44",
+        "department": "Writing",
+        "job": "Co-Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1043258,
+        "known_for_department": "Directing",
+        "name": "Ralf Kemper",
+        "original_name": "Ralf Kemper",
+        "popularity": 0.2921,
+        "profile_path": null,
+        "credit_id": "68863dd7be0fabb0b238fc1e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5589676,
+        "known_for_department": "Production",
+        "name": "Christian Peter",
+        "original_name": "Christian Peter",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "68863e0f90d9bd73978a711b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5589677,
+        "known_for_department": "Production",
+        "name": "Frank Ullrich",
+        "original_name": "Frank Ullrich",
+        "popularity": 0.0655,
+        "profile_path": null,
+        "credit_id": "68863e2edf411187b516c437",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5589678,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Konstantin melchger",
+        "original_name": "Konstantin melchger",
+        "popularity": 0.0633,
+        "profile_path": null,
+        "credit_id": "68863e633f67cfd7aa55f39e",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5589678,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Konstantin melchger",
+        "original_name": "Konstantin melchger",
+        "popularity": 0.0633,
+        "profile_path": null,
+        "credit_id": "68863ebdfd945531ee8a70ea",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4019102,
+        "known_for_department": "Directing",
+        "name": "Stephan Haberzettl",
+        "original_name": "Stephan Haberzettl",
+        "popularity": 0.0674,
+        "profile_path": null,
+        "credit_id": "68863ee150eaf66252246b49",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5589681,
+        "known_for_department": "Camera",
+        "name": "Dirk Lepperhoff",
+        "original_name": "Dirk Lepperhoff",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "68863f11342a4dafbf72ecce",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5589682,
+        "known_for_department": "Art",
+        "name": "Alexander Schreivogel",
+        "original_name": "Alexander Schreivogel",
+        "popularity": 0.068,
+        "profile_path": null,
+        "credit_id": "68863f32bf9903a48bf78d3f",
+        "department": "Art",
+        "job": "Location Scout"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5589684,
+        "known_for_department": "Art",
+        "name": "Sven schreivogel",
+        "original_name": "Sven schreivogel",
+        "popularity": 0.0721,
+        "profile_path": null,
+        "credit_id": "68863f4348ea55973355f3e4",
+        "department": "Art",
+        "job": "Location Scout"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6223408,
+        "known_for_department": "Directing",
+        "name": "Luca Kemper",
+        "original_name": "Luca Kemper",
+        "popularity": 0.2919,
+        "profile_path": null,
+        "credit_id": "6a0b736777d4e1590ba01285",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6223405,
+        "known_for_department": "Directing",
+        "name": "Anton Dellit",
+        "original_name": "Anton Dellit",
+        "popularity": 0.2254,
+        "profile_path": null,
+        "credit_id": "6a8aee2b74ed2afdcd3ea3ac",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "After a botched robbery, a young gangster couple takes a mother and her daughter hostage and ends up in a forgotten forest cemetery on the edge of a disused industrial estate.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "",
+          "overview": "Nach einem missglückten Überfall nimmt ein junges Gangsterpärchen eine Mutter mit ihrer Tochter als Geiseln und landet auf einem vergessenen Waldfriedhof am Rand eines stillgelegten Industriegebietes. Sie treffen auf einen alten Friedhofswärter und seine geistig zurückgebliebene Tochter. Schnell stellen sie fest, dass nicht Sie das wirklich Böse sind.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt33030099",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "esfrisst",
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.666,
+        "height": 1955,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/oBYcHe4asPdePOGqaFDMDOlJBYV.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1303
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "de",
+            "note": "Fright Nights Festival",
+            "release_date": "2026-10-22T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

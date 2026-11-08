@@ -1,0 +1,656 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1439510,
+  "imdb_id": null,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Fatal Affair",
+  "overview": "A married therapist's life is turned upside down after she gives into temptation with a charming but unstable patient.",
+  "popularity": 3.838,
+  "poster_path": "/jvcfDi4m3y0hDDV11ZzwJUAjZI2.jpg",
+  "production_companies": [
+    {
+      "id": 78424,
+      "logo_path": null,
+      "name": "DR2 Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2025-02-01",
+  "revenue": 0,
+  "runtime": 61,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "Fatal Affair",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2626938,
+        "known_for_department": "Acting",
+        "name": "Royce Reed",
+        "original_name": "Royce Reed",
+        "popularity": 0.6683,
+        "profile_path": "/cioFHfAcwzGBGiYAwF1VeNlsEMb.jpg",
+        "cast_id": 10,
+        "character": "London",
+        "credit_id": "67bd249718f1e77cfaa47f70",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2894915,
+        "known_for_department": "Acting",
+        "name": "Montreal Diggs",
+        "original_name": "Montreal Diggs",
+        "popularity": 0.7912,
+        "profile_path": "/wrjk3xEDkQBv4MUO0vOVpPlHDf1.jpg",
+        "cast_id": 11,
+        "character": "Cole",
+        "credit_id": "67bd24ae9c230b52e599b2a6",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3362964,
+        "known_for_department": "Acting",
+        "name": "Donald Brumfield Jr.",
+        "original_name": "Donald Brumfield Jr.",
+        "popularity": 0.7959,
+        "profile_path": "/zs3Z86qYPSzkg6tJwVJ4C52N0tq.jpg",
+        "cast_id": 12,
+        "character": "Justin",
+        "credit_id": "67bd24bb18f1e77cfaa47f86",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5030764,
+        "known_for_department": "Acting",
+        "name": "Ciara Cravens",
+        "original_name": "Ciara Cravens",
+        "popularity": 0.1871,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Tiffany",
+        "credit_id": "67bd24cb9c230b52e599b2aa",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2493140,
+        "known_for_department": "Acting",
+        "name": "Velda Hunter",
+        "original_name": "Velda Hunter",
+        "popularity": 0.3089,
+        "profile_path": "/kTgjRToroIrvmMfxETYQwpliFM6.jpg",
+        "cast_id": 14,
+        "character": "Hannah",
+        "credit_id": "67bd25534d940b124ba47d49",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5267752,
+        "known_for_department": "Acting",
+        "name": "Talia Lewis",
+        "original_name": "Talia Lewis",
+        "popularity": 0.1725,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Paris",
+        "credit_id": "67bd2565af7ae4a6f26be7cc",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3619697,
+        "known_for_department": "Acting",
+        "name": "Darius Brantley Jr.",
+        "original_name": "Darius Brantley Jr.",
+        "popularity": 0.6533,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "JJ",
+        "credit_id": "67bd25837cbc485ba499a712",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1865163,
+        "known_for_department": "Acting",
+        "name": "Chiquita Dunham-Parker",
+        "original_name": "Chiquita Dunham-Parker",
+        "popularity": 0.1815,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Prosecutor",
+        "credit_id": "67bd2594472875122ba480a7",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5267753,
+        "known_for_department": "Acting",
+        "name": "Akeira Hamil",
+        "original_name": "Akeira Hamil",
+        "popularity": 0.178,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Nail Tech",
+        "credit_id": "67bd25a84d940b124ba47d65",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5267754,
+        "known_for_department": "Acting",
+        "name": "Erin Ealy",
+        "original_name": "Erin Ealy",
+        "popularity": 0.2154,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Hair Stylist",
+        "credit_id": "67bd25b718f1e77cfaa47fa9",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4657181,
+        "known_for_department": "Acting",
+        "name": "NiJah McMillan",
+        "original_name": "NiJah McMillan",
+        "popularity": 0.2758,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Homegirl 1",
+        "credit_id": "67bd25c918f1e77cfaa47faf",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5267755,
+        "known_for_department": "Acting",
+        "name": "Starkia Drake",
+        "original_name": "Starkia Drake",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Homegirl 2",
+        "credit_id": "67bd25d81fc271291b6bdd03",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5267756,
+        "known_for_department": "Acting",
+        "name": "Shelton Braziel",
+        "original_name": "Shelton Braziel",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Judge Lewis",
+        "credit_id": "67bd25ec18f1e77cfaa47fbe",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5267749,
+        "known_for_department": "Production",
+        "name": "Takeita Drake",
+        "original_name": "Takeita Drake",
+        "popularity": 0.176,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Secretary",
+        "credit_id": "67bd260118f1e77cfaa47fc4",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5267757,
+        "known_for_department": "Acting",
+        "name": "Too Shai",
+        "original_name": "Too Shai",
+        "popularity": 0.152,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Woman",
+        "credit_id": "67bd26107cbc485ba499a731",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5267759,
+        "known_for_department": "Acting",
+        "name": "Varney Barclay",
+        "original_name": "Varney Barclay",
+        "popularity": 0.0474,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Man",
+        "credit_id": "67bd2667b46cc31b206be92e",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5267760,
+        "known_for_department": "Acting",
+        "name": "Vakeisha Calloway",
+        "original_name": "Vakeisha Calloway",
+        "popularity": 0.0466,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Customer",
+        "credit_id": "67bd267e1fc271291b6bdd1c",
+        "order": 16
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1865166,
+        "known_for_department": "Directing",
+        "name": "Dennis L. Reed II",
+        "original_name": "Dennis L. Reed II",
+        "popularity": 1.1401,
+        "profile_path": "/uVhsrgql5hJcQ6KZYQjXervVRIN.jpg",
+        "credit_id": "67bd237c18f1e77cfaa47e60",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1865166,
+        "known_for_department": "Directing",
+        "name": "Dennis L. Reed II",
+        "original_name": "Dennis L. Reed II",
+        "popularity": 1.1401,
+        "profile_path": "/uVhsrgql5hJcQ6KZYQjXervVRIN.jpg",
+        "credit_id": "67bd23d052d870585899ad0a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5267749,
+        "known_for_department": "Production",
+        "name": "Takeita Drake",
+        "original_name": "Takeita Drake",
+        "popularity": 0.176,
+        "profile_path": null,
+        "credit_id": "67bd23e47cbc485ba499a694",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3362965,
+        "known_for_department": "Production",
+        "name": "Sonia Renee Miller",
+        "original_name": "Sonia Renee Miller",
+        "popularity": 0.591,
+        "profile_path": null,
+        "credit_id": "67bd23f852d870585899ad0e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3861711,
+        "known_for_department": "Directing",
+        "name": "Bradford Clark",
+        "original_name": "Bradford Clark",
+        "popularity": 0.2907,
+        "profile_path": null,
+        "credit_id": "67bd241318f1e77cfaa47ef3",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3628129,
+        "known_for_department": "Production",
+        "name": "Erie Sharmayne",
+        "original_name": "Erie Sharmayne",
+        "popularity": 0.1519,
+        "profile_path": null,
+        "credit_id": "67bd242daf7ae4a6f26be721",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4435051,
+        "known_for_department": "Camera",
+        "name": "Jared Stephens",
+        "original_name": "Jared Stephens",
+        "popularity": 0.1643,
+        "profile_path": null,
+        "credit_id": "67bd2443af7ae4a6f26be777",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3412263,
+        "known_for_department": "Camera",
+        "name": "Peter Poulos",
+        "original_name": "Peter Poulos",
+        "popularity": 0.1997,
+        "profile_path": null,
+        "credit_id": "67bd245cb46cc31b206be8bd",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3628133,
+        "known_for_department": "Sound",
+        "name": "Cullen Brooks",
+        "original_name": "Cullen Brooks",
+        "popularity": 0.2866,
+        "profile_path": "/5TYBWOJKWam50guq0pjJQJTbqSC.jpg",
+        "credit_id": "67bd24767cbc485ba499a6ee",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1865163,
+        "known_for_department": "Acting",
+        "name": "Chiquita Dunham-Parker",
+        "original_name": "Chiquita Dunham-Parker",
+        "popularity": 0.1815,
+        "profile_path": null,
+        "credit_id": "67bd26ab4d940b124ba47da6",
+        "department": "Art",
+        "job": "Location Scout"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5267760,
+        "known_for_department": "Acting",
+        "name": "Vakeisha Calloway",
+        "original_name": "Vakeisha Calloway",
+        "popularity": 0.0466,
+        "profile_path": null,
+        "credit_id": "67bd26b7b46cc31b206be94c",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5267761,
+        "known_for_department": "Camera",
+        "name": "Jeffrey Burke",
+        "original_name": "Jeffrey Burke",
+        "popularity": 0.2531,
+        "profile_path": null,
+        "credit_id": "67bd26ce9c230b52e599b319",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2726535,
+        "known_for_department": "Camera",
+        "name": "Andy Westra",
+        "original_name": "Andy Westra",
+        "popularity": 0.1452,
+        "profile_path": null,
+        "credit_id": "67bd26df9c230b52e599b32f",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4007087,
+        "known_for_department": "Camera",
+        "name": "Jordan Currie",
+        "original_name": "Jordan Currie",
+        "popularity": 0.051,
+        "profile_path": null,
+        "credit_id": "67bd26f39c230b52e599b332",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2696539,
+        "known_for_department": "Sound",
+        "name": "Matt Baum",
+        "original_name": "Matt Baum",
+        "popularity": 0.6973,
+        "profile_path": "/178UJvR1jvRrTFD9USMYpHDVqOI.jpg",
+        "credit_id": "67bd27121fc271291b6bdd34",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5267763,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Treasure Whitefield",
+        "original_name": "Treasure Whitefield",
+        "popularity": 0.172,
+        "profile_path": null,
+        "credit_id": "67bd2722af7ae4a6f26be7e3",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5267765,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Trina The Stylist",
+        "original_name": "Trina The Stylist",
+        "popularity": 0.1899,
+        "profile_path": null,
+        "credit_id": "67bd279d7cbc485ba499a77b",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5267766,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ebony Jackson",
+        "original_name": "Ebony Jackson",
+        "popularity": 0.0359,
+        "profile_path": null,
+        "credit_id": "67bd27b37cbc485ba499a7ac",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5267767,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Alexandria Swinger",
+        "original_name": "Alexandria Swinger",
+        "popularity": 0.0738,
+        "profile_path": null,
+        "credit_id": "67bd27c27cbc485ba499a7b6",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5267764,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Camille \"I Am The Paper Doll\" Gavin",
+        "original_name": "Camille \"I Am The Paper Doll\" Gavin",
+        "popularity": 0.5491,
+        "profile_path": null,
+        "credit_id": "67bd2861e050d9b8b399a5c1",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Master"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5267773,
+        "known_for_department": "Production",
+        "name": "Christian Kress",
+        "original_name": "Christian Kress",
+        "popularity": 0.0935,
+        "profile_path": null,
+        "credit_id": "67bd288912bfc85bc36be84e",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5267774,
+        "known_for_department": "Production",
+        "name": "Alisa Nelson",
+        "original_name": "Alisa Nelson",
+        "popularity": 0.0855,
+        "profile_path": null,
+        "credit_id": "67bd2892472875122ba4811c",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5267775,
+        "known_for_department": "Production",
+        "name": "Shaina Lynn Griffin",
+        "original_name": "Shaina Lynn Griffin",
+        "popularity": 0.4946,
+        "profile_path": null,
+        "credit_id": "67bd28b81fc271291b6bdd91",
+        "department": "Production",
+        "job": "Production Assistant"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "A married therapist's life is turned upside down after she gives into temptation with a charming but unstable patient.",
+          "runtime": 61,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.675,
+        "height": 1500,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/jvcfDi4m3y0hDDV11ZzwJUAjZI2.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1012
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-02-01T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

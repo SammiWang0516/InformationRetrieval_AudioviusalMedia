@@ -1,0 +1,812 @@
+{
+  "adult": false,
+  "backdrop_path": "/zeXfMizCGja94V4ZJV0D2frPYGr.jpg",
+  "belongs_to_collection": null,
+  "budget": 2000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1608823,
+  "imdb_id": null,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "The Cheerleader...",
+  "overview": "After a young cheerleader, Niamh, works her back from an injury, she finds out she has been replaced by her team.",
+  "popularity": 0.8251,
+  "poster_path": "/b12DFgmLhNkfHJaWeEYP7dL5Sn0.jpg",
+  "production_companies": [
+    {
+      "id": 285098,
+      "logo_path": null,
+      "name": "Raplyz Fusion",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2025-12-31",
+  "revenue": 0,
+  "runtime": 21,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Cheerleader...",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5913888,
+        "known_for_department": "Acting",
+        "name": "Rae Akinbo",
+        "original_name": "Rae Akinbo",
+        "popularity": 0.0428,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Niamh",
+        "credit_id": "69588c5ddf21a1bbb4cbf2e2",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5913889,
+        "known_for_department": "Acting",
+        "name": "Bianca Popa",
+        "original_name": "Bianca Popa",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Radiologist",
+        "credit_id": "69588c702f6fd97c8ac398d1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5913890,
+        "known_for_department": "Acting",
+        "name": "Harriet Hope",
+        "original_name": "Harriet Hope",
+        "popularity": 0.3897,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Scarlett",
+        "credit_id": "69588d08c3709ebe35e40d24",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5913891,
+        "known_for_department": "Acting",
+        "name": "Gill Briggs",
+        "original_name": "Gill Briggs",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Deirdre",
+        "credit_id": "69588d24209d3df6d6c37c6a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5913893,
+        "known_for_department": "Acting",
+        "name": "Ron Parker",
+        "original_name": "Ron Parker",
+        "popularity": 0.2267,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Iain",
+        "credit_id": "69588d4480c3c0ef73cc8e69",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5913894,
+        "known_for_department": "Acting",
+        "name": "Liam Clear",
+        "original_name": "Liam Clear",
+        "popularity": 0.274,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Store manager",
+        "credit_id": "69588d55cfb9f33b757c7843",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5913895,
+        "known_for_department": "Acting",
+        "name": "Michael McKenzie",
+        "original_name": "Michael McKenzie",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Adam",
+        "credit_id": "69588d6bb007b144144ace9d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5913896,
+        "known_for_department": "Acting",
+        "name": "Khushi Kaur",
+        "original_name": "Khushi Kaur",
+        "popularity": 0.1058,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Zara",
+        "credit_id": "69588d7b6050d1c175d7b4dc",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5913897,
+        "known_for_department": "Acting",
+        "name": "Tom Brinkworth",
+        "original_name": "Tom Brinkworth",
+        "popularity": 0.0755,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Younger Iain",
+        "credit_id": "69588d916050d1c175d7b4e7",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5913898,
+        "known_for_department": "Acting",
+        "name": "Abi Haberfield",
+        "original_name": "Abi Haberfield",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Younger Deirdre",
+        "credit_id": "69588da5209d3df6d6c37c7d",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4950524,
+        "known_for_department": "Acting",
+        "name": "Maisy Bates",
+        "original_name": "Maisy Bates",
+        "popularity": 0.1031,
+        "profile_path": "/fHcIwVnqKpXNqpxT4MEhec2wWH0.jpg",
+        "cast_id": 11,
+        "character": "Hope",
+        "credit_id": "69588db990b1567a4bc3965b",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5913899,
+        "known_for_department": "Acting",
+        "name": "Rhianna Hurst",
+        "original_name": "Rhianna Hurst",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Judge Anna",
+        "credit_id": "69588de75e7068066cd79798",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5913900,
+        "known_for_department": "Acting",
+        "name": "Ethan Ralph Alexander",
+        "original_name": "Ethan Ralph Alexander",
+        "popularity": 0.1111,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Judge Willy",
+        "credit_id": "69588dfcaee9f647a474fe2c",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4926270,
+        "known_for_department": "Acting",
+        "name": "Rupi Lal",
+        "original_name": "Rupi Lal",
+        "popularity": 0.1342,
+        "profile_path": "/hwkJL2yUhtx41u9PFSzAxxQofCa.jpg",
+        "cast_id": 14,
+        "character": "Judge Jeff",
+        "credit_id": "69588e0ced9cd8303bcc917b",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2761430,
+        "known_for_department": "Acting",
+        "name": "Joshua Gill",
+        "original_name": "Joshua Gill",
+        "popularity": 0.1851,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Mickey",
+        "credit_id": "69588e5af9bca077e24af267",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5913904,
+        "known_for_department": "Acting",
+        "name": "Jaylan Gulbahce",
+        "original_name": "Jaylan Gulbahce",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Audience member 1",
+        "credit_id": "69588e7d4620527137cc8fdf",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5504442,
+        "known_for_department": "Acting",
+        "name": "Marley Lawrence",
+        "original_name": "Marley Lawrence",
+        "popularity": 0.0361,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Audience member 2",
+        "credit_id": "69588f5a3251db027ac37ccc",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5913909,
+        "known_for_department": "Acting",
+        "name": "Catriona Murphy",
+        "original_name": "Catriona Murphy",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Audience member 3",
+        "credit_id": "69588f98d4413669423bdaad",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5913910,
+        "known_for_department": "Acting",
+        "name": "Daisy Swaby",
+        "original_name": "Daisy Swaby",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Audience member 4",
+        "credit_id": "69588fc0cc4c9e73274af49b",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5913911,
+        "known_for_department": "Acting",
+        "name": "Samuel Moore",
+        "original_name": "Samuel Moore",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Audience member 5",
+        "credit_id": "69589002e09c4abf8dcc8f45",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5913912,
+        "known_for_department": "Acting",
+        "name": "Adjele Gunn",
+        "original_name": "Adjele Gunn",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Jess",
+        "credit_id": "695890246af8a26cdac37e7b",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5913913,
+        "known_for_department": "Acting",
+        "name": "Emefa Tagboto",
+        "original_name": "Emefa Tagboto",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Molly",
+        "credit_id": "695890366ff6cb07287c77ab",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5913914,
+        "known_for_department": "Acting",
+        "name": "Kalyani Largie",
+        "original_name": "Kalyani Largie",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Minnie",
+        "credit_id": "6958904b7258bf9724cbd9b1",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5913915,
+        "known_for_department": "Acting",
+        "name": "Rachel Zheng",
+        "original_name": "Rachel Zheng",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Jennifer",
+        "credit_id": "6958906110220412e54ace56",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5913916,
+        "known_for_department": "Acting",
+        "name": "Yohana Drar",
+        "original_name": "Yohana Drar",
+        "popularity": 0.0376,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Audience member 6",
+        "credit_id": "69589073f79bd0c6b6750117",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5913917,
+        "known_for_department": "Acting",
+        "name": "Winnie Lange",
+        "original_name": "Winnie Lange",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Audience member 7",
+        "credit_id": "695890867258bf9724cbd9bf",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5913920,
+        "known_for_department": "Acting",
+        "name": "Joshua Smith",
+        "original_name": "Joshua Smith",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Detective Constable Neil",
+        "credit_id": "6958912808f7423875e42ed2",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5913921,
+        "known_for_department": "Acting",
+        "name": "Angel Dara",
+        "original_name": "Angel Dara",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Angel Dara",
+        "credit_id": "6958914ad257e773157c73a7",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5913922,
+        "known_for_department": "Acting",
+        "name": "Rebecca Abel",
+        "original_name": "Rebecca Abel",
+        "popularity": 0.0342,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Rebecca Abel",
+        "credit_id": "6958915955d88a32f67c7acc",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5913923,
+        "known_for_department": "Acting",
+        "name": "Candice Palmer",
+        "original_name": "Candice Palmer",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Candice Palmer",
+        "credit_id": "695891690cf7610cedcbf148",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3921128,
+        "known_for_department": "Acting",
+        "name": "Brynmore Leyshon",
+        "original_name": "Brynmore Leyshon",
+        "popularity": 0.1021,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Brynmor Leyshon",
+        "credit_id": "6958919cb460c4b4eed7b71a",
+        "order": 30
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5913924,
+        "known_for_department": "Acting",
+        "name": "Neha Begum",
+        "original_name": "Neha Begum",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Neha Begum",
+        "credit_id": "695891b6a00713496acc8fee",
+        "order": 31
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5913925,
+        "known_for_department": "Acting",
+        "name": "Bosy Hazem",
+        "original_name": "Bosy Hazem",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Bosy Hazem",
+        "credit_id": "695891c7d81c52dae1c39739",
+        "order": 32
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2361453,
+        "known_for_department": "Crew",
+        "name": "Olivia Jackson",
+        "original_name": "Olivia Jackson",
+        "popularity": 0.2245,
+        "profile_path": "/64RUnCiqutnhZZFTGl2nD2OwSI1.jpg",
+        "cast_id": 34,
+        "character": "Olivia Jackson",
+        "credit_id": "695891d82f6fd97c8ac398e1",
+        "order": 33
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3831977,
+        "known_for_department": "Acting",
+        "name": "Sinead De Vries",
+        "original_name": "Sinead De Vries",
+        "popularity": 0.0467,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Sinead De Vries",
+        "credit_id": "695891eb01fdd85625e43354",
+        "order": 34
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5913928,
+        "known_for_department": "Acting",
+        "name": "Alexandra Birring",
+        "original_name": "Alexandra Birring",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Alexandra Birring",
+        "credit_id": "695891feb2d865bbb6cbd661",
+        "order": 35
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5913929,
+        "known_for_department": "Acting",
+        "name": "Luke Whitehead",
+        "original_name": "Luke Whitehead",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Luke Whitehead",
+        "credit_id": "69589212032ef594a174fb48",
+        "order": 36
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5913931,
+        "known_for_department": "Acting",
+        "name": "Moin Younis",
+        "original_name": "Moin Younis",
+        "popularity": 0.0536,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Moin Younis",
+        "credit_id": "6958921e7fb07d1e2dcc9089",
+        "order": 37
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5913933,
+        "known_for_department": "Acting",
+        "name": "Hailey D'Lynn Smith",
+        "original_name": "Hailey D'Lynn Smith",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Hailey D'Lynn Smith",
+        "credit_id": "6958925419ccc2f5923bdaba",
+        "order": 38
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5913900,
+        "known_for_department": "Acting",
+        "name": "Ethan Ralph Alexander",
+        "original_name": "Ethan Ralph Alexander",
+        "popularity": 0.1111,
+        "profile_path": null,
+        "credit_id": "6958929b209d3df6d6c37cb0",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5913900,
+        "known_for_department": "Acting",
+        "name": "Ethan Ralph Alexander",
+        "original_name": "Ethan Ralph Alexander",
+        "popularity": 0.1111,
+        "profile_path": null,
+        "credit_id": "695892b0cf2828c21be40ce0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5913900,
+        "known_for_department": "Acting",
+        "name": "Ethan Ralph Alexander",
+        "original_name": "Ethan Ralph Alexander",
+        "popularity": 0.1111,
+        "profile_path": null,
+        "credit_id": "695892c4de4b0683c1cbf347",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5913900,
+        "known_for_department": "Acting",
+        "name": "Ethan Ralph Alexander",
+        "original_name": "Ethan Ralph Alexander",
+        "popularity": 0.1111,
+        "profile_path": null,
+        "credit_id": "695892dec30c9e664ecc8f45",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4803257,
+        "known_for_department": "Acting",
+        "name": "Anna Piggott-Reeves",
+        "original_name": "Anna Piggott-Reeves",
+        "popularity": 0.071,
+        "profile_path": null,
+        "credit_id": "6958935b5e7068066cd797ae",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5913939,
+        "known_for_department": "Crew",
+        "name": "Harry Stoker",
+        "original_name": "Harry Stoker",
+        "popularity": 0.0369,
+        "profile_path": null,
+        "credit_id": "69589384e9cd364f64d79780",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5913941,
+        "known_for_department": "Crew",
+        "name": "Matt Lansdown",
+        "original_name": "Matt Lansdown",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "695893b455d88a32f67c7aed",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4889180,
+        "known_for_department": "Crew",
+        "name": "Mackenzie Groutage",
+        "original_name": "Mackenzie Groutage",
+        "popularity": 0.0519,
+        "profile_path": null,
+        "credit_id": "695893c589540e9709cbd7dc",
+        "department": "Crew",
+        "job": "Cinematography"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 2920,
+        "name": "cheerleader"
+      },
+      {
+        "id": 11672,
+        "name": "cheerleading"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "After a young cheerleader, Niamh, works her back from an injury, she finds out she has been replaced by her team.",
+          "runtime": 21,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "raplyzfusion",
+    "twitter_id": "raplyzfusion"
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/zeXfMizCGja94V4ZJV0D2frPYGr.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/b12DFgmLhNkfHJaWeEYP7dL5Sn0.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "PG",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2025-12-31T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Cheerleader... (2025) | Official Teaser",
+        "key": "C2RMwyFKkDM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": false,
+        "id": "69588be3198abab033d7b6d8",
+        "published_at": "2025-12-25T17:58:58.000Z"
+      }
+    ]
+  }
+}

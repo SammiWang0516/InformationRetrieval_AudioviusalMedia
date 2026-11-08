@@ -1,0 +1,923 @@
+{
+  "adult": false,
+  "backdrop_path": "/iEjmCBS2ED8s0yoZOQiNf2AAUz7.jpg",
+  "belongs_to_collection": null,
+  "budget": 3000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 1461922,
+  "imdb_id": "tt36414870",
+  "origin_country": [
+    "VE"
+  ],
+  "original_language": "es",
+  "original_title": "Valle Inquietante",
+  "overview": "During a camping trip, five friends are hunted by a creature that twists human appearance.",
+  "popularity": 0.981,
+  "poster_path": "/4VTcZX7Zc9oEr6ka6RbXbZ8vOTN.jpg",
+  "production_companies": [
+    {
+      "id": 220705,
+      "logo_path": null,
+      "name": "Burning Pine Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "VE",
+      "name": "Venezuela"
+    }
+  ],
+  "release_date": "2025-05-17",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The monster is in the details.",
+  "title": "Uncanny Valley",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5359700,
+        "known_for_department": "Acting",
+        "name": "Alonzo Ferrer",
+        "original_name": "Alonzo Ferrer",
+        "popularity": 0.0901,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Demián",
+        "credit_id": "67f68deca5471a51ee99da1c",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4191924,
+        "known_for_department": "Acting",
+        "name": "Will Vanegas",
+        "original_name": "Will Vanegas",
+        "popularity": 0.2404,
+        "profile_path": "/71K8XJ80sniCXc8WVZ6ve3R8Qsu.jpg",
+        "cast_id": 2,
+        "character": "Alejandro",
+        "credit_id": "67f68e09cce7690230acebdf",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4166452,
+        "known_for_department": "Acting",
+        "name": "Alejandro Suzzarini",
+        "original_name": "Alejandro Suzzarini",
+        "popularity": 0.1188,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Juan",
+        "credit_id": "67f68e27cce7690230acebeb",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5359704,
+        "known_for_department": "Acting",
+        "name": "Diego Abreu",
+        "original_name": "Diego Abreu",
+        "popularity": 0.0399,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Guillermo",
+        "credit_id": "67f68e4ed4c444a1cc993e9b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5359706,
+        "known_for_department": "Acting",
+        "name": "Jorge Contreras",
+        "original_name": "Jorge Contreras",
+        "popularity": 0.2518,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Gustavo",
+        "credit_id": "67f68e6d7b43bdce20addae5",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4533520,
+        "known_for_department": "Production",
+        "name": "Diego Pino",
+        "original_name": "Diego Pino",
+        "popularity": 0.1205,
+        "profile_path": "/38fcnMujP1y3lpcQ3CE9wBxxUp3.jpg",
+        "credit_id": "67f68eaea5471a51ee99da49",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4533520,
+        "known_for_department": "Production",
+        "name": "Diego Pino",
+        "original_name": "Diego Pino",
+        "popularity": 0.1205,
+        "profile_path": "/38fcnMujP1y3lpcQ3CE9wBxxUp3.jpg",
+        "credit_id": "67f68eebd3ab7d7a8bad066f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4533520,
+        "known_for_department": "Production",
+        "name": "Diego Pino",
+        "original_name": "Diego Pino",
+        "popularity": 0.1205,
+        "profile_path": "/38fcnMujP1y3lpcQ3CE9wBxxUp3.jpg",
+        "credit_id": "67f68f01d4c444a1cc993ef2",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4533525,
+        "known_for_department": "Camera",
+        "name": "Jeremy Castillo",
+        "original_name": "Jeremy Castillo",
+        "popularity": 0.0923,
+        "profile_path": null,
+        "credit_id": "67f68f58d3ab7d7a8bad0699",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4533530,
+        "known_for_department": "Art",
+        "name": "Nikolle Vergel",
+        "original_name": "Nikolle Vergel",
+        "popularity": 0.0439,
+        "profile_path": null,
+        "credit_id": "67f68f771bc639566ad9267c",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5359710,
+        "known_for_department": "Directing",
+        "name": "Fai Rivero",
+        "original_name": "Fai Rivero",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67f68f97d3ab7d7a8bad06b4",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5359711,
+        "known_for_department": "Art",
+        "name": "Annette Naveda",
+        "original_name": "Annette Naveda",
+        "popularity": 0.0625,
+        "profile_path": null,
+        "credit_id": "67f68fb37b43bdce20addb45",
+        "department": "Art",
+        "job": "Assistant Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4997833,
+        "known_for_department": "Directing",
+        "name": "Ángel Marín",
+        "original_name": "Ángel Marín",
+        "popularity": 0.2312,
+        "profile_path": "/kcfQ96zwvW3nQasoMMFdUUucqDt.jpg",
+        "credit_id": "67f68fd61bc639566ad926a7",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4298175,
+        "known_for_department": "Acting",
+        "name": "Stefany Bohórquez",
+        "original_name": "Stefany Bohórquez",
+        "popularity": 0.0705,
+        "profile_path": null,
+        "credit_id": "67f69021d3ab7d7a8bad0709",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5359714,
+        "known_for_department": "Lighting",
+        "name": "Gilberto Chaparro",
+        "original_name": "Gilberto Chaparro",
+        "popularity": 0.0464,
+        "profile_path": null,
+        "credit_id": "67f6906a7b43bdce20addb8a",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3135279,
+        "known_for_department": "Directing",
+        "name": "Omar Arteaga",
+        "original_name": "Omar Arteaga",
+        "popularity": 0.0794,
+        "profile_path": null,
+        "credit_id": "67f690b77b43bdce20addbf2",
+        "department": "Production",
+        "job": "Data Management Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5359724,
+        "known_for_department": "Visual Effects",
+        "name": "C.C. Luzardo",
+        "original_name": "C.C. Luzardo",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67f6911fddf9194387da5df9",
+        "department": "Visual Effects",
+        "job": "Creature Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5359725,
+        "known_for_department": "Camera",
+        "name": "Yaya Uzcátegui",
+        "original_name": "Yaya Uzcátegui",
+        "popularity": 0.0383,
+        "profile_path": "/7yTzssWyiwqTAjQTx4NZBOM1qHA.jpg",
+        "credit_id": "67f69149ddf9194387da5e26",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5359715,
+        "known_for_department": "Camera",
+        "name": "Luiggi Hidalgo",
+        "original_name": "Luiggi Hidalgo",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67f691836c3583c97599cb4d",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5359730,
+        "known_for_department": "Lighting",
+        "name": "Roger Reyes",
+        "original_name": "Roger Reyes",
+        "popularity": 0.0386,
+        "profile_path": null,
+        "credit_id": "67f691b8ddf9194387da5e97",
+        "department": "Lighting",
+        "job": "Assistant Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5022093,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Isis Semprún",
+        "original_name": "Isis Semprún",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "67f691f3de5e4dec62acf4b7",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5359736,
+        "known_for_department": "Editing",
+        "name": "Reinaldo Arrieta",
+        "original_name": "Reinaldo Arrieta",
+        "popularity": 0.0668,
+        "profile_path": null,
+        "credit_id": "67f69254d4c444a1cc99404f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5359738,
+        "known_for_department": "Visual Effects",
+        "name": "Gustavo Cohen",
+        "original_name": "Gustavo Cohen",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67f6927d7b43bdce20addc51",
+        "department": "Visual Effects",
+        "job": "VFX Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5359743,
+        "known_for_department": "Visual Effects",
+        "name": "Jesús Becerra",
+        "original_name": "Jesús Becerra",
+        "popularity": 0.0386,
+        "profile_path": null,
+        "credit_id": "67f6931ccce7690230acecab",
+        "department": "Visual Effects",
+        "job": "Creature Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5359745,
+        "known_for_department": "Visual Effects",
+        "name": "Enmanuel Maestre",
+        "original_name": "Enmanuel Maestre",
+        "popularity": 0.0769,
+        "profile_path": null,
+        "credit_id": "67f69339de5e4dec62acf540",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5359734,
+        "known_for_department": "Crew",
+        "name": "Edwing Pérez",
+        "original_name": "Edwing Pérez",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67f69363de5e4dec62acf54c",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5022077,
+        "known_for_department": "Directing",
+        "name": "Lusiany Atencio Casas",
+        "original_name": "Lusiany Atencio Casas",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "67f69374a5471a51ee99dad2",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5359751,
+        "known_for_department": "Visual Effects",
+        "name": "Mary Berrios",
+        "original_name": "Mary Berrios",
+        "popularity": 0.038,
+        "profile_path": null,
+        "credit_id": "67f693b26c3583c97599cc20",
+        "department": "Visual Effects",
+        "job": "Creature Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5359755,
+        "known_for_department": "Visual Effects",
+        "name": "Marlon Herrera Portillo",
+        "original_name": "Marlon Herrera Portillo",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67f694011bc639566ad92758",
+        "department": "Visual Effects",
+        "job": "Creature Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5359758,
+        "known_for_department": "Visual Effects",
+        "name": "Maykol Vílchez",
+        "original_name": "Maykol Vílchez",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67f69423a5471a51ee99dae4",
+        "department": "Visual Effects",
+        "job": "Creature Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5022093,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Isis Semprún",
+        "original_name": "Isis Semprún",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "67f6943d6c3583c97599cc70",
+        "department": "Visual Effects",
+        "job": "Creature Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5359763,
+        "known_for_department": "Visual Effects",
+        "name": "Andrea Morán",
+        "original_name": "Andrea Morán",
+        "popularity": 0.0386,
+        "profile_path": null,
+        "credit_id": "67f69491ddf9194387da609e",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5359771,
+        "known_for_department": "Visual Effects",
+        "name": "José Vargas Vásquez",
+        "original_name": "José Vargas Vásquez",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67f694f36c3583c97599ccec",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5359776,
+        "known_for_department": "Production",
+        "name": "Diego Contreras",
+        "original_name": "Diego Contreras",
+        "popularity": 0.0372,
+        "profile_path": null,
+        "credit_id": "67f6952f6c3583c97599cd02",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5022084,
+        "known_for_department": "Production",
+        "name": "Sammyrly El Yaafary",
+        "original_name": "Sammyrly El Yaafary",
+        "popularity": 0.0411,
+        "profile_path": null,
+        "credit_id": "67f695447b43bdce20addcb9",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5359781,
+        "known_for_department": "Production",
+        "name": "Roger Vílchez",
+        "original_name": "Roger Vílchez",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67f6956c7b43bdce20addcca",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4533520,
+        "known_for_department": "Production",
+        "name": "Diego Pino",
+        "original_name": "Diego Pino",
+        "popularity": 0.1205,
+        "profile_path": "/38fcnMujP1y3lpcQ3CE9wBxxUp3.jpg",
+        "credit_id": "67f6958ad4c444a1cc9940f0",
+        "department": "Visual Effects",
+        "job": "Creature Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4533525,
+        "known_for_department": "Camera",
+        "name": "Jeremy Castillo",
+        "original_name": "Jeremy Castillo",
+        "popularity": 0.0923,
+        "profile_path": null,
+        "credit_id": "67f695b3d4c444a1cc9940f4",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5359711,
+        "known_for_department": "Art",
+        "name": "Annette Naveda",
+        "original_name": "Annette Naveda",
+        "popularity": 0.0625,
+        "profile_path": null,
+        "credit_id": "67f695cdcce7690230aced7b",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4533531,
+        "known_for_department": "Art",
+        "name": "Karolain Chacin",
+        "original_name": "Karolain Chacin",
+        "popularity": 0.0347,
+        "profile_path": null,
+        "credit_id": "67f695f2ddf9194387da6173",
+        "department": "Camera",
+        "job": "BTS Footage"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5359736,
+        "known_for_department": "Editing",
+        "name": "Reinaldo Arrieta",
+        "original_name": "Reinaldo Arrieta",
+        "popularity": 0.0668,
+        "profile_path": null,
+        "credit_id": "67f69610ea80d8517599362d",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4166279,
+        "known_for_department": "Editing",
+        "name": "Emanuel Parra",
+        "original_name": "Emanuel Parra",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "67f69631d4c444a1cc99412c",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4533520,
+        "known_for_department": "Production",
+        "name": "Diego Pino",
+        "original_name": "Diego Pino",
+        "popularity": 0.1205,
+        "profile_path": "/38fcnMujP1y3lpcQ3CE9wBxxUp3.jpg",
+        "credit_id": "67f6971bddf9194387da6209",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4533520,
+        "known_for_department": "Production",
+        "name": "Diego Pino",
+        "original_name": "Diego Pino",
+        "popularity": 0.1205,
+        "profile_path": "/38fcnMujP1y3lpcQ3CE9wBxxUp3.jpg",
+        "credit_id": "67f697477b43bdce20addd1f",
+        "department": "Writing",
+        "job": "Storyboard"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5359795,
+        "known_for_department": "Production",
+        "name": "Lionel Castellano",
+        "original_name": "Lionel Castellano",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "67f697c7de5e4dec62acf5ef",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5022078,
+        "known_for_department": "Directing",
+        "name": "Fai Rivero",
+        "original_name": "Fai Rivero",
+        "popularity": 0.1045,
+        "profile_path": "/ioRrqjwv2o9gU5crSb9MiUjXHsE.jpg",
+        "credit_id": "67fef912de5e4dec62ae9388",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4312633,
+        "known_for_department": "Production",
+        "name": "Eugenia Añez",
+        "original_name": "Eugenia Añez",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "693b7bb2e20cf69182fc4702",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4729669,
+        "known_for_department": "Directing",
+        "name": "José Salaverría",
+        "original_name": "Jose Salaverria",
+        "popularity": 0.309,
+        "profile_path": "/mRRf2pgXN0ls2I9cMcceWa9r2C6.jpg",
+        "credit_id": "693b7bc7a29dc2351bc3bae8",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5379190,
+        "known_for_department": "Production",
+        "name": "Ionesco Troconis",
+        "original_name": "Ionesco Troconis",
+        "popularity": 0.0855,
+        "profile_path": null,
+        "credit_id": "693b7be223cd32661aac9bfe",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5872840,
+        "known_for_department": "Crew",
+        "name": "Luis Alberto Urribarrí",
+        "original_name": "Luis Alberto Urribarrí",
+        "popularity": 0.0383,
+        "profile_path": null,
+        "credit_id": "693b7c05e964ae6bb5012f74",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5622368,
+        "known_for_department": "Acting",
+        "name": "Jairo Rivero",
+        "original_name": "Jairo Rivero",
+        "popularity": 0.0254,
+        "profile_path": "/3iriymVCWqcbbK0M85bl3PvPbx9.jpg",
+        "credit_id": "693b7c1a66a3f37257fc477a",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5872845,
+        "known_for_department": "Crew",
+        "name": "Jorge Guzmán",
+        "original_name": "Jorge Guzmán",
+        "popularity": 0.0882,
+        "profile_path": null,
+        "credit_id": "693b7c3b564de5f8406ec1ba",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5872846,
+        "known_for_department": "Crew",
+        "name": "Manuel Melean",
+        "original_name": "Manuel Melean",
+        "popularity": 0.0657,
+        "profile_path": null,
+        "credit_id": "693b7c4ff10f145910c3bba3",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5872848,
+        "known_for_department": "Crew",
+        "name": "Miguel Ángel Villanueva",
+        "original_name": "Miguel Ángel Villanueva",
+        "popularity": 0.0386,
+        "profile_path": null,
+        "credit_id": "693b7c757737fa43a36ec246",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5872853,
+        "known_for_department": "Crew",
+        "name": "José Ballesteros",
+        "original_name": "José Ballesteros",
+        "popularity": 0.0386,
+        "profile_path": null,
+        "credit_id": "693b7cf5f72914bba7cafd53",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5938709,
+        "known_for_department": "Directing",
+        "name": "Javier Rincon",
+        "original_name": "Javier Rincon",
+        "popularity": 0.0676,
+        "profile_path": "/smlSIvtpc9T0HGFpngNg2QQVsaA.jpg",
+        "credit_id": "69a38fb25b9f88f37dff6060",
+        "department": "Art",
+        "job": "Set Decoration"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "MX",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Cinco amigos en una acampada son perseguidos por una criatura que distorsiona la apariencia humana, forzándolos a confrontar sus miedos más profundos mientras luchan por escapar del bosque.",
+          "runtime": 8,
+          "tagline": "El monstruo está en los detalles.",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "During a camping trip, five friends are hunted by a creature that twists human appearance.",
+          "runtime": 0,
+          "tagline": "The monster is in the details.",
+          "title": "Uncanny Valley"
+        }
+      },
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "VE",
+        "title": "Valle Inquietante",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt36414870",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 810,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/iEjmCBS2ED8s0yoZOQiNf2AAUz7.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1440
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 2999,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/4VTcZX7Zc9oEr6ka6RbXbZ8vOTN.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "Glowflare Horror Film Festival",
+            "release_date": "2025-05-17T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "VE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "Biencortos International Short Film Festival",
+            "release_date": "2025-09-25T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

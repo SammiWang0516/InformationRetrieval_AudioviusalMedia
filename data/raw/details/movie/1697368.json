@@ -1,0 +1,538 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 700,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.cinemashields.com/good-time-girl",
+  "id": 1697368,
+  "imdb_id": null,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Good Time Girl!",
+  "overview": "A young woman still healing from a painful past, pushes herself to go on a first date in hopes of reclaiming a sense of normalcy. What begins as a playful, promising night out soon tests the fragile line between moving forward and confronting what she hasn’t fully left behind.",
+  "popularity": 0.6525,
+  "poster_path": "/i4aJNuPi8inDZrAeRT5TfVCbOX1.jpg",
+  "production_companies": [
+    {
+      "id": 228002,
+      "logo_path": null,
+      "name": "Cinema Shields",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-11-05",
+  "revenue": 0,
+  "runtime": 17,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "Learn how to be her.",
+  "title": "Good Time Girl!",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6221094,
+        "known_for_department": "Acting",
+        "name": "Lily Van Grinsven",
+        "original_name": "Lily Van Grinsven",
+        "popularity": 0.2921,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Bridget",
+        "credit_id": "6a0a2ca4a202ae508a767fec",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4589972,
+        "known_for_department": "Acting",
+        "name": "Marin Masar",
+        "original_name": "Marin Masar",
+        "popularity": 0.2394,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Darren",
+        "credit_id": "6a0a2caef38e8d8c77ee49e6",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6221095,
+        "known_for_department": "Acting",
+        "name": "Chloe Tschetter",
+        "original_name": "Chloe Tschetter",
+        "popularity": 0.3182,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Sadie",
+        "credit_id": "6a0a2cc356074e5afe293d8e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5238748,
+        "known_for_department": "Acting",
+        "name": "Madyson Riedinger",
+        "original_name": "Madyson Riedinger",
+        "popularity": 0.1692,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "The Waitress",
+        "credit_id": "6a0a2cd52eebf01ae4293c62",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6221096,
+        "known_for_department": "Acting",
+        "name": "Jacob Blyton",
+        "original_name": "Jacob Blyton",
+        "popularity": 0.292,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "The Ex",
+        "credit_id": "6a0a2ceafa723da4faee4e3e",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5536375,
+        "known_for_department": "Writing",
+        "name": "Christina Phillips",
+        "original_name": "Christina Phillips",
+        "popularity": 0.0419,
+        "profile_path": null,
+        "credit_id": "6a0a2d1cbbc9bfb56e767ffc",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3919019,
+        "known_for_department": "Directing",
+        "name": "Chris Shields",
+        "original_name": "Chris Shields",
+        "popularity": 0.3831,
+        "profile_path": "/sQNoFUOjMgaNtNYA8XUN8BtOI9s.jpg",
+        "credit_id": "6a0a2d29f38e8d8c77ee49f7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3919019,
+        "known_for_department": "Directing",
+        "name": "Chris Shields",
+        "original_name": "Chris Shields",
+        "popularity": 0.3831,
+        "profile_path": "/sQNoFUOjMgaNtNYA8XUN8BtOI9s.jpg",
+        "credit_id": "6a0a2d367b8a31dce9293ba0",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3919019,
+        "known_for_department": "Directing",
+        "name": "Chris Shields",
+        "original_name": "Chris Shields",
+        "popularity": 0.3831,
+        "profile_path": "/sQNoFUOjMgaNtNYA8XUN8BtOI9s.jpg",
+        "credit_id": "6a0a2d408bfa115e80ee4987",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3919019,
+        "known_for_department": "Directing",
+        "name": "Chris Shields",
+        "original_name": "Chris Shields",
+        "popularity": 0.3831,
+        "profile_path": "/sQNoFUOjMgaNtNYA8XUN8BtOI9s.jpg",
+        "credit_id": "6a0a2d4b15d7604b71ee47ea",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3919019,
+        "known_for_department": "Directing",
+        "name": "Chris Shields",
+        "original_name": "Chris Shields",
+        "popularity": 0.3831,
+        "profile_path": "/sQNoFUOjMgaNtNYA8XUN8BtOI9s.jpg",
+        "credit_id": "6a0a2d56f38e8d8c77ee49fc",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3919019,
+        "known_for_department": "Directing",
+        "name": "Chris Shields",
+        "original_name": "Chris Shields",
+        "popularity": 0.3831,
+        "profile_path": "/sQNoFUOjMgaNtNYA8XUN8BtOI9s.jpg",
+        "credit_id": "6a0a2d61da72e49b47f9ece9",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3919019,
+        "known_for_department": "Directing",
+        "name": "Chris Shields",
+        "original_name": "Chris Shields",
+        "popularity": 0.3831,
+        "profile_path": "/sQNoFUOjMgaNtNYA8XUN8BtOI9s.jpg",
+        "credit_id": "6a0a2d6f8bfa115e80ee498c",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5536375,
+        "known_for_department": "Writing",
+        "name": "Christina Phillips",
+        "original_name": "Christina Phillips",
+        "popularity": 0.0419,
+        "profile_path": null,
+        "credit_id": "6a0a2d7fd9fd3325617685dc",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5469450,
+        "known_for_department": "Production",
+        "name": "Anya Wells",
+        "original_name": "Anya Wells",
+        "popularity": 0.1889,
+        "profile_path": null,
+        "credit_id": "6a0a2da18efe791da9db310e",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5469450,
+        "known_for_department": "Production",
+        "name": "Anya Wells",
+        "original_name": "Anya Wells",
+        "popularity": 0.1889,
+        "profile_path": null,
+        "credit_id": "6a0a2db12ca55e6e171e7455",
+        "department": "Production",
+        "job": "Producer's Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6221100,
+        "known_for_department": "Camera",
+        "name": "Gwendelyn Fleming-Campbell",
+        "original_name": "Gwendelyn Fleming-Campbell",
+        "popularity": 0.1049,
+        "profile_path": null,
+        "credit_id": "6a0a2dc91756a4f9aedb2f68",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6221100,
+        "known_for_department": "Camera",
+        "name": "Gwendelyn Fleming-Campbell",
+        "original_name": "Gwendelyn Fleming-Campbell",
+        "popularity": 0.1049,
+        "profile_path": null,
+        "credit_id": "6a0a2dd92ca55e6e171e7458",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5238780,
+        "known_for_department": "Production",
+        "name": "Maxwell Lenik",
+        "original_name": "Maxwell Lenik",
+        "popularity": 0.0337,
+        "profile_path": null,
+        "credit_id": "6a0a2df0310ed73d971e763c",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5238780,
+        "known_for_department": "Production",
+        "name": "Maxwell Lenik",
+        "original_name": "Maxwell Lenik",
+        "popularity": 0.0337,
+        "profile_path": null,
+        "credit_id": "6a0a2dfe1756a4f9aedb2f6b",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5734152,
+        "known_for_department": "Camera",
+        "name": "Sebastien O'Halloran",
+        "original_name": "Sebastien O'Halloran",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a0a2e4610c9dec2cdf9eeea",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3408850,
+        "known_for_department": "Sound",
+        "name": "Jared Benge",
+        "original_name": "Jared Benge",
+        "popularity": 0.0996,
+        "profile_path": null,
+        "credit_id": "6a0a2eb16ab2ef7ee1ee4b87",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4725436,
+        "known_for_department": "Sound",
+        "name": "Graham Schijf",
+        "original_name": "Graham Schijf",
+        "popularity": 0.1653,
+        "profile_path": null,
+        "credit_id": "6a0a2ec2a168a9424eee4bf3",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4725436,
+        "known_for_department": "Sound",
+        "name": "Graham Schijf",
+        "original_name": "Graham Schijf",
+        "popularity": 0.1653,
+        "profile_path": null,
+        "credit_id": "6a0a2ee701750c1284dfb1d8",
+        "department": "Sound",
+        "job": "Sound Post Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4725436,
+        "known_for_department": "Sound",
+        "name": "Graham Schijf",
+        "original_name": "Graham Schijf",
+        "popularity": 0.1653,
+        "profile_path": null,
+        "credit_id": "6a0a2ef77ee9687ad51e7217",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4159490,
+        "known_for_department": "Camera",
+        "name": "Mark Harvey",
+        "original_name": "Mark Harvey",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a0a2f0e98ae4d01f7293fb3",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4159490,
+        "known_for_department": "Camera",
+        "name": "Mark Harvey",
+        "original_name": "Mark Harvey",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a0a2f192eebf01ae4293ca9",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5469451,
+        "known_for_department": "Production",
+        "name": "Jack Huffine",
+        "original_name": "Jack Huffine",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a0a2f2998ae4d01f7293fba",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4589972,
+        "known_for_department": "Acting",
+        "name": "Marin Masar",
+        "original_name": "Marin Masar",
+        "popularity": 0.2394,
+        "profile_path": null,
+        "credit_id": "6a0a2f338bfa115e80ee49a0",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5064255,
+        "known_for_department": "Acting",
+        "name": "McKenna Munden",
+        "original_name": "McKenna Munden",
+        "popularity": 0.1368,
+        "profile_path": null,
+        "credit_id": "6a0a2f85d29c3e0248dfb1ed",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5064255,
+        "known_for_department": "Acting",
+        "name": "McKenna Munden",
+        "original_name": "McKenna Munden",
+        "popularity": 0.1368,
+        "profile_path": null,
+        "credit_id": "6a0a2f91d29c3e0248dfb1fa",
+        "department": "Camera",
+        "job": "BTS Photographer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "https://www.cinemashields.com/good-time-girl",
+          "overview": "A young woman still healing from a painful past, pushes herself to go on a first date in hopes of reclaiming a sense of normalcy. What begins as a playful, promising night out soon tests the fragile line between moving forward and confronting what she hasn’t fully left behind.",
+          "runtime": 17,
+          "tagline": "Learn how to be her.",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/i4aJNuPi8inDZrAeRT5TfVCbOX1.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/25SaNZhnLY5rmdsnMKAd5Afsguq.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Snooze Fest",
+            "release_date": "2026-11-05T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

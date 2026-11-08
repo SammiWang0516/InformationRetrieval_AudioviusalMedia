@@ -1,0 +1,687 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1727705,
+  "imdb_id": null,
+  "origin_country": [
+    "AT"
+  ],
+  "original_language": "de",
+  "original_title": "Narben",
+  "overview": "",
+  "popularity": 0.9877,
+  "poster_path": "/t8ezKpbqwdRKDAU0Yu94FnuMsMq.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "AT",
+      "name": "Austria"
+    }
+  ],
+  "release_date": "2026-06-14",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Narben",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1808397,
+        "known_for_department": "Acting",
+        "name": "Laura Bilgeri",
+        "original_name": "Laura Bilgeri",
+        "popularity": 0.5122,
+        "profile_path": "/AjcHvbF6NkzjxH3zxK7OgDFZ3uT.jpg",
+        "cast_id": 1,
+        "character": "Junge Lina",
+        "credit_id": "6a4d3a44519c56e59ef56ce1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1144977,
+        "known_for_department": "Acting",
+        "name": "Susa Meyer",
+        "original_name": "Susa Meyer",
+        "popularity": 0.0793,
+        "profile_path": "/mUSlI0oUK8vYrjeCQLIda7m7kQZ.jpg",
+        "cast_id": 2,
+        "character": "Lina",
+        "credit_id": "6a4d3a58ac4abd41f2407ca7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6333140,
+        "known_for_department": "Acting",
+        "name": "Lea Kriegshaber",
+        "original_name": "Lea Kriegshaber",
+        "popularity": 0.0928,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Junge Frau",
+        "credit_id": "6a4d3ae96efe18ea40f56bb2",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6333144,
+        "known_for_department": "Acting",
+        "name": "Kadi Sakho",
+        "original_name": "Kadi Sakho",
+        "popularity": 0.095,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Kind 1",
+        "credit_id": "6a4d3b2c8b0fc95274131b98",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6333146,
+        "known_for_department": "Acting",
+        "name": "Djiké Sakho",
+        "original_name": "Djiké Sakho",
+        "popularity": 0.2516,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Kind 2",
+        "credit_id": "6a4d3b47fa79a9ef5d94776e",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6333148,
+        "known_for_department": "Acting",
+        "name": "Allegra Sakho",
+        "original_name": "Allegra Sakho",
+        "popularity": 0.1483,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Kind 3",
+        "credit_id": "6a4d3b5db8e8b855a6af2eeb",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6333154,
+        "known_for_department": "Acting",
+        "name": "Benedict Heinz",
+        "original_name": "Benedict Heinz",
+        "popularity": 0.1438,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Baby",
+        "credit_id": "6a4d3b9a519c56e59ef56d00",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2998671,
+        "known_for_department": "Directing",
+        "name": "Joshua Haiden",
+        "original_name": "Joshua Haiden",
+        "popularity": 0.1335,
+        "profile_path": null,
+        "credit_id": "6a4d3bf81d70d1e15cf56c7a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2998671,
+        "known_for_department": "Directing",
+        "name": "Joshua Haiden",
+        "original_name": "Joshua Haiden",
+        "popularity": 0.1335,
+        "profile_path": null,
+        "credit_id": "6a4d3c148b0fc95274131bb7",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2998671,
+        "known_for_department": "Directing",
+        "name": "Joshua Haiden",
+        "original_name": "Joshua Haiden",
+        "popularity": 0.1335,
+        "profile_path": null,
+        "credit_id": "6a4d3c2b8b0fc95274131bc1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6333155,
+        "known_for_department": "Directing",
+        "name": "Nicole Scherleitner",
+        "original_name": "Nicole Scherleitner",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6a4d3c5b3864a0d510947620",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6333156,
+        "known_for_department": "Production",
+        "name": "Maximilian Gübitz",
+        "original_name": "Maximilian Gübitz",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6a4d3c82c470ac9663141364",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5227568,
+        "known_for_department": "Acting",
+        "name": "Leonie Federle",
+        "original_name": "Leonie Federle",
+        "popularity": 0.3042,
+        "profile_path": null,
+        "credit_id": "6a4d3cf77791bf008b9475d5",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6333157,
+        "known_for_department": "Crew",
+        "name": "Stella Permantier",
+        "original_name": "Stella Permantier",
+        "popularity": 0.0488,
+        "profile_path": null,
+        "credit_id": "6a4d3d1fcf946c28b7c6805a",
+        "department": "Crew",
+        "job": "Set Runner"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5504367,
+        "known_for_department": "Directing",
+        "name": "Jannis Berner",
+        "original_name": "Jannis Berner",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "6a4d3d39653948ddabc6816e",
+        "department": "Crew",
+        "job": "Set Runner"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5813253,
+        "known_for_department": "Camera",
+        "name": "Xaver Haiden",
+        "original_name": "Xaver Haiden",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a4d3d8db7295b70c3f56b84",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5813178,
+        "known_for_department": "Camera",
+        "name": "Anne-Sophie Hasenhütl",
+        "original_name": "Anne-Sophie Hasenhütl",
+        "popularity": 0.0372,
+        "profile_path": null,
+        "credit_id": "6a4d3da1287aaf5ff093eea0",
+        "department": "Camera",
+        "job": "First Assistant \"A\" Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6333158,
+        "known_for_department": "Camera",
+        "name": "Ivan Tsoy",
+        "original_name": "Ivan Tsoy",
+        "popularity": 0.0811,
+        "profile_path": null,
+        "credit_id": "6a4d3db5daf94f80541411bd",
+        "department": "Camera",
+        "job": "First Assistant \"A\" Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6333159,
+        "known_for_department": "Camera",
+        "name": "Katharina Simuneck",
+        "original_name": "Katharina Simuneck",
+        "popularity": 0.0456,
+        "profile_path": null,
+        "credit_id": "6a4d3dc8c470ac966314138b",
+        "department": "Camera",
+        "job": "Second Assistant \"A\" Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6333160,
+        "known_for_department": "Camera",
+        "name": "Tim Saint Jalmes",
+        "original_name": "Tim Saint Jalmes",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6a4d3de1d05753731914140e",
+        "department": "Camera",
+        "job": "Second Assistant \"A\" Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5188659,
+        "known_for_department": "Acting",
+        "name": "Andreas Foramitti",
+        "original_name": "Andreas Foramitti",
+        "popularity": 0.0465,
+        "profile_path": null,
+        "credit_id": "6a4d3dee2bd16906dda14e3e",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6333161,
+        "known_for_department": "Lighting",
+        "name": "Theo Lechner",
+        "original_name": "Theo Lechner",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6a4d3e12b35c005c18c682eb",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4327257,
+        "known_for_department": "Camera",
+        "name": "Tobias Wutschek",
+        "original_name": "Tobias Wutschek",
+        "popularity": 0.0986,
+        "profile_path": null,
+        "credit_id": "6a4d3e27b3ec0e770493ef05",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6333163,
+        "known_for_department": "Lighting",
+        "name": "Jan Knickmann",
+        "original_name": "Jan Knickmann",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6a4d3e3c13c0c038ffc6815a",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6333164,
+        "known_for_department": "Art",
+        "name": "Emma Sophie Schaub",
+        "original_name": "Emma Sophie Schaub",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6a4d3e5332349372e093eeed",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6333165,
+        "known_for_department": "Art",
+        "name": "Lou Riéra",
+        "original_name": "Lou Riéra",
+        "popularity": 0.0411,
+        "profile_path": null,
+        "credit_id": "6a4d3e752bd16906dda14e4f",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6333166,
+        "known_for_department": "Art",
+        "name": "Leonie Picher",
+        "original_name": "Leonie Picher",
+        "popularity": 0.049,
+        "profile_path": null,
+        "credit_id": "6a4d3e88c77331830faf2fa2",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6333167,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Serapia Lentsch",
+        "original_name": "Serapia Lentsch",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6a4d3ebb2bd16906dda14e61",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6333168,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Angie Hainzer",
+        "original_name": "Angie Hainzer",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6a4d3edd6708f2587093efc9",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3060542,
+        "known_for_department": "Sound",
+        "name": "Johannes Kollmann",
+        "original_name": "Johannes Kollmann",
+        "popularity": 0.1061,
+        "profile_path": null,
+        "credit_id": "6a4d3eef30ef6bd914a14d6a",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6333169,
+        "known_for_department": "Camera",
+        "name": "Lukas Mitgefaller",
+        "original_name": "Lukas Mitgefaller",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a4d3efe50149c66dda14d31",
+        "department": "Camera",
+        "job": "Set Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5713853,
+        "known_for_department": "Editing",
+        "name": "Stefan Pecher",
+        "original_name": "Stefan Pecher",
+        "popularity": 0.0347,
+        "profile_path": null,
+        "credit_id": "6a4d3f0fdabd2b62fe947435",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6333172,
+        "known_for_department": "Editing",
+        "name": "Alina Johannes",
+        "original_name": "Alina Johannes",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "6a4d3f27b8e8b855a6af2f3e",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6333173,
+        "known_for_department": "Sound",
+        "name": "Mathis von der Goltz",
+        "original_name": "Mathis von der Goltz",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6a4d3f472f556e1c7b9476a7",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6333175,
+        "known_for_department": "Sound",
+        "name": "Oliver Aitzetmüller",
+        "original_name": "Oliver Aitzetmüller",
+        "popularity": 0.0411,
+        "profile_path": null,
+        "credit_id": "6a4d3f5bac4abd41f2407d33",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2635930,
+        "known_for_department": "Sound",
+        "name": "Lukas Spielvogel",
+        "original_name": "Lukas Spielvogel",
+        "popularity": 0.0709,
+        "profile_path": null,
+        "credit_id": "6a4d3f70404c5eab34c6809d",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1168077,
+        "known_for_department": "Visual Effects",
+        "name": "Tom Varga",
+        "original_name": "Tom Varga",
+        "popularity": 0.0925,
+        "profile_path": null,
+        "credit_id": "6a4d3f802e5d1969ec131cbe",
+        "department": "Editing",
+        "job": "Color Grading"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6333177,
+        "known_for_department": "Art",
+        "name": "Vivian Sedlak",
+        "original_name": "Vivian Sedlak",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6a4d3f95daf94f80541411de",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5942505,
+        "known_for_department": "Editing",
+        "name": "Milan Konrad",
+        "original_name": "Milan Konrad",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a4d3fa9c1c7e67418af2f81",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6333180,
+        "known_for_department": "Art",
+        "name": "Fiona Hofer",
+        "original_name": "Fiona Hofer",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6a4d40039e01184f32131b0a",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6333181,
+        "known_for_department": "Art",
+        "name": "Theresa Pügelmeier",
+        "original_name": "Theresa Pügelmeier",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6a4d4011519c56e59ef56d5a",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6333182,
+        "known_for_department": "Art",
+        "name": "Sylvie Sadiku",
+        "original_name": "Sylvie Sadiku",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6a4d401eb8e8b855a6af2f58",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5942505,
+        "known_for_department": "Editing",
+        "name": "Milan Konrad",
+        "original_name": "Milan Konrad",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a4d402aa6eb5005e6f56d56",
+        "department": "Art",
+        "job": "Painter"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "https://50percentfilm.com/narben",
+          "overview": "Lina blickt auf ihre Vergangenheit zurück. Sie erinnert sich an eine Zeit, die von Leere und Aussichtslosigkeit geprägt ist. Die Begegnung mit ihrem jüngeren Selbst zeigt ihr, dass manche Wunden zwar heilen, aber immer Teil von ihr bleiben.",
+          "runtime": 9,
+          "tagline": "A moment suspended between memory and imagination, Lina revisits a time in her life marked by emptiness and quiet despair. As she encounters her younger self, a silent truth emerges: some wounds will heal, but their traces remain.",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "narben_shortfilm",
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "de",
+            "note": "Schmeckt! Kurzfilmfest",
+            "release_date": "2025-06-13T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "de",
+            "note": "Jung & Abgedreht",
+            "release_date": "2026-06-14T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

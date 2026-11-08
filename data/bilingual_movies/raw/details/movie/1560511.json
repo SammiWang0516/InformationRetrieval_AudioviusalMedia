@@ -1,0 +1,831 @@
+{
+  "adult": false,
+  "backdrop_path": "/xuOmAz2RS5SPoGqQiMjplvWRS27.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1560511,
+  "imdb_id": "tt39061245",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "en",
+  "original_title": "Skin Flick",
+  "overview": "A porn actress stars in the Devil’s cannibal snuff films in exchange for flawless skin. While luring a runaway bride to the studio to devour her on camera, she begins to develop feelings that will disrupt the Devil’s script.",
+  "popularity": 0.8285,
+  "poster_path": "/fcbmq2u4S4wWGbmxdHARj2IMnPj.jpg",
+  "production_companies": [
+    {
+      "id": 71552,
+      "logo_path": "/hmFPR24kEVCPi6A47x2j6n7qfza.png",
+      "name": "Gobelins",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2025-11-21",
+  "revenue": 0,
+  "runtime": 8,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Skin Flick",
+  "video": false,
+  "vote_average": 8.7,
+  "vote_count": 3,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4980097,
+        "known_for_department": "Acting",
+        "name": "Lisa Delamar",
+        "original_name": "Lisa Delamar",
+        "popularity": 0.3676,
+        "profile_path": "/bHHKsBKT4DT9u9F846v61PNHgcW.jpg",
+        "cast_id": 7,
+        "character": "Gasoline (voice)",
+        "credit_id": "68e976af7bcd3e099d30c7d3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5742582,
+        "known_for_department": "Acting",
+        "name": "Nathalie Jablonski",
+        "original_name": "Nathalie Jablonski",
+        "popularity": 0.0865,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Bridget (voice)",
+        "credit_id": "68e976c625c349579a41e6d8",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5841958,
+        "known_for_department": "Acting",
+        "name": "Daniel Lee",
+        "original_name": "Daniel Lee",
+        "popularity": 0.0905,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Lucifer (voice)",
+        "credit_id": "6928095ea2b47ab0a2c12397",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3924871,
+        "known_for_department": "Sound",
+        "name": "Wilson Hinh",
+        "original_name": "Wilson Hinh",
+        "popularity": 0.1267,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Victim 1 (voice)",
+        "credit_id": "69277033e2582f4674d9cd99",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1917564,
+        "known_for_department": "Acting",
+        "name": "Clément Naline",
+        "original_name": "Clément Naline",
+        "popularity": 0.143,
+        "profile_path": "/Yj37ucr6VJ6P4fqX9p791EKy3B.jpg",
+        "cast_id": 19,
+        "character": "Victim 2 (voice)",
+        "credit_id": "692770466f22ba95fceaa08e",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5742578,
+        "known_for_department": "Directing",
+        "name": "Louise Bailly",
+        "original_name": "Louise Bailly",
+        "popularity": 0.137,
+        "profile_path": null,
+        "credit_id": "68e976216f2d216a2673e2c8",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4675144,
+        "known_for_department": "Directing",
+        "name": "Daniela Del Castello",
+        "original_name": "Daniela Del Castello",
+        "popularity": 0.1989,
+        "profile_path": null,
+        "credit_id": "68e97636c7c1e92f6e30c798",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5742579,
+        "known_for_department": "Directing",
+        "name": "Bruno de Mendonça",
+        "original_name": "Bruno de Mendonça",
+        "popularity": 0.193,
+        "profile_path": null,
+        "credit_id": "68e9765715ce5a7ab1d855e4",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5742580,
+        "known_for_department": "Directing",
+        "name": "Alice Levy",
+        "original_name": "Alice Levy",
+        "popularity": 0.1957,
+        "profile_path": null,
+        "credit_id": "68e97675825e16dbd4b7b638",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4658537,
+        "known_for_department": "Directing",
+        "name": "Elifsu Meric",
+        "original_name": "Elifsu Meric",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "68e97682fc13fc81ba41e7a6",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5099290,
+        "known_for_department": "Acting",
+        "name": "Joey Quoc Tran",
+        "original_name": "Joey Quoc Tran",
+        "popularity": 0.1565,
+        "profile_path": null,
+        "credit_id": "68e9769725c349579a41e6cb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5742585,
+        "known_for_department": "Sound",
+        "name": "Pierre Moreau",
+        "original_name": "Pierre Moreau",
+        "popularity": 0.1141,
+        "profile_path": null,
+        "credit_id": "68e976fbd6c21bf539b7b4e9",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1679576,
+        "known_for_department": "Sound",
+        "name": "Cédric Perras",
+        "original_name": "Cédric Perras",
+        "popularity": 0.1001,
+        "profile_path": null,
+        "credit_id": "68e9770a7ed30de5d24aa047",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5742580,
+        "known_for_department": "Directing",
+        "name": "Alice Levy",
+        "original_name": "Alice Levy",
+        "popularity": 0.1957,
+        "profile_path": null,
+        "credit_id": "691f6b6988b85db38beb695c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5742579,
+        "known_for_department": "Directing",
+        "name": "Bruno de Mendonça",
+        "original_name": "Bruno de Mendonça",
+        "popularity": 0.193,
+        "profile_path": null,
+        "credit_id": "691f6bb51d026f440feb688e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4675144,
+        "known_for_department": "Directing",
+        "name": "Daniela Del Castello",
+        "original_name": "Daniela Del Castello",
+        "popularity": 0.1989,
+        "profile_path": null,
+        "credit_id": "691f6bc71d026f440feb68a4",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4658537,
+        "known_for_department": "Directing",
+        "name": "Elifsu Meric",
+        "original_name": "Elifsu Meric",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "691f6be39a2e1b434821a729",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5099290,
+        "known_for_department": "Acting",
+        "name": "Joey Quoc Tran",
+        "original_name": "Joey Quoc Tran",
+        "popularity": 0.1565,
+        "profile_path": null,
+        "credit_id": "691f6bf3f4406cc0bf2e2d58",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5742578,
+        "known_for_department": "Directing",
+        "name": "Louise Bailly",
+        "original_name": "Louise Bailly",
+        "popularity": 0.137,
+        "profile_path": null,
+        "credit_id": "691f6c175ae0388c074a2bb2",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2692159,
+        "known_for_department": "Sound",
+        "name": "Clément Naline",
+        "original_name": "Clément Naline",
+        "popularity": 0.1693,
+        "profile_path": null,
+        "credit_id": "692770ef529ddef13426bf7f",
+        "department": "Sound",
+        "job": "Sound Engineer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2181061,
+        "known_for_department": "Sound",
+        "name": "Mathieu Tiger",
+        "original_name": "Mathieu Tiger",
+        "popularity": 0.197,
+        "profile_path": null,
+        "credit_id": "692770fec578854951c121c5",
+        "department": "Sound",
+        "job": "Sound Engineer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2181061,
+        "known_for_department": "Sound",
+        "name": "Mathieu Tiger",
+        "original_name": "Mathieu Tiger",
+        "popularity": 0.197,
+        "profile_path": null,
+        "credit_id": "692771165de0152cf2248d48",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2180419,
+        "known_for_department": "Sound",
+        "name": "Christophe Burdet",
+        "original_name": "Christophe Burdet",
+        "popularity": 0.165,
+        "profile_path": null,
+        "credit_id": "692771327b8d3fb1a5c1225f",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2692159,
+        "known_for_department": "Sound",
+        "name": "Clément Naline",
+        "original_name": "Clément Naline",
+        "popularity": 0.1693,
+        "profile_path": null,
+        "credit_id": "69277140172f2114a7c120ff",
+        "department": "Sound",
+        "job": "Foley Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5841102,
+        "known_for_department": "Sound",
+        "name": "Romain Morlat",
+        "original_name": "Romain Morlat",
+        "popularity": 0.0882,
+        "profile_path": null,
+        "credit_id": "6927715e41f084c22fc1208e",
+        "department": "Sound",
+        "job": "Music Arranger"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2181061,
+        "known_for_department": "Sound",
+        "name": "Mathieu Tiger",
+        "original_name": "Mathieu Tiger",
+        "popularity": 0.197,
+        "profile_path": null,
+        "credit_id": "69277174222e5a1e2e3716a2",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2369942,
+        "known_for_department": "Editing",
+        "name": "David Chantoiseau",
+        "original_name": "David Chantoiseau",
+        "popularity": 0.1736,
+        "profile_path": null,
+        "credit_id": "692771859441301f2ac1226c",
+        "department": "Editing",
+        "job": "Color Grading"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 10123,
+        "name": "dark comedy"
+      },
+      {
+        "id": 5810,
+        "name": "pact with the devil"
+      },
+      {
+        "id": 7344,
+        "name": "porn star"
+      },
+      {
+        "id": 10139,
+        "name": "lucifer"
+      },
+      {
+        "id": 158436,
+        "name": "porn actress"
+      },
+      {
+        "id": 215165,
+        "name": "runaway bride"
+      },
+      {
+        "id": 254053,
+        "name": "snuff film"
+      },
+      {
+        "id": 278235,
+        "name": "cannibalism"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "A porn actress stars in the Devil’s cannibal snuff films in exchange for flawless skin. While luring a runaway bride to the studio to devour her on camera, she begins to develop feelings that will disrupt the Devil’s script.",
+          "runtime": 8,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "Une actrice-X joue dans les snuff-movies cannibales du Diable en échange d’une peau magnifique. Alors qu’elle leurre une mariée en fuite jusqu’au studio pour la dévorer devant les caméras, elle développe des sentiments qui vont bousculer le scénario du Diable.",
+          "runtime": 8,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "KR",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말",
+        "english_name": "Korean",
+        "data": {
+          "homepage": "",
+          "overview": "한 성인영화 배우는 아름다운 외모를 얻는 대가로 악마가 제작하는 식인 스너프 영화에 출연한다. 촬영을 위해 도망친 신부를 스튜디오로 유인하지만, 예상치 못하게 그녀에게 마음을 품게 되면서 악마가 짜놓은 각본은 뜻밖의 방향으로 어긋나기 시작한다.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "스킨 플릭"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt39061245",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "skin.flick.gobelins",
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.779,
+        "height": 1256,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/xuOmAz2RS5SPoGqQiMjplvWRS27.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2234
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1458,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/5knTarvoV8HkQTtwiskNzRyitYF.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2593
+      },
+      {
+        "aspect_ratio": 1.776,
+        "height": 1207,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/kBR6meeYZc5vWrtld4wubXesEeJ.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2144
+      },
+      {
+        "aspect_ratio": 1.779,
+        "height": 1337,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/dCu4hjuFs4eJa2DBPDTk85JMulV.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2378
+      },
+      {
+        "aspect_ratio": 1.776,
+        "height": 1294,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/2lewOldonOQQPe2jLEIy7B9pzzK.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2298
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1448,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/38uazdDk60JplJXz6evMjHmWaCd.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2574
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1311,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/7mDPVXpIJ7sRQlR3rovTZbZ5XIS.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2331
+      },
+      {
+        "aspect_ratio": 1.777,
+        "height": 1316,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/hg6uZYnTWIrLd8RIAiYiGMQcPbN.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2338
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1401,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/95yRogwPWytKga6FJ2voTV8gjIQ.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2491
+      },
+      {
+        "aspect_ratio": 1.777,
+        "height": 1375,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/kMO1QztA7wz8PRUqwJYZXyYvSQz.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2444
+      },
+      {
+        "aspect_ratio": 1.777,
+        "height": 1436,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/qTcXlG4Lz52OiZquRc8PR0TJatG.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2552
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1421,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/1tBmtvNJSZ60tCzdCscefyfkuy6.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2527
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1332,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/nBU9qvi8SW2rLo7FWahknGyWhUY.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2368
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1401,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/xTP2mmhnNNH4A5bsM17VEg9cnZU.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2491
+      },
+      {
+        "aspect_ratio": 1.779,
+        "height": 1323,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/ibSilVib5M8aD77Bw4uaQTZ7Hlp.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2354
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1328,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/hIVV74vV8VEjjTEXH4bIuqxDUlA.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2361
+      },
+      {
+        "aspect_ratio": 1.777,
+        "height": 1365,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/9dzuBh4xQi7gBQSa8huqN6CTx7m.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2425
+      },
+      {
+        "aspect_ratio": 1.779,
+        "height": 1287,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/nijqYDcbFrfNSN9q6X46pZVDLZk.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2289
+      },
+      {
+        "aspect_ratio": 1.777,
+        "height": 1244,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/yLSKspPOlwAcQAacvrNH4C90PvZ.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2211
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1314,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/vX2I67ZhZuA82bxYg10Y9iXOA5n.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2336
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.666,
+        "height": 1130,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/fSTghZ2yLcw01dpvZcGiSOuhCLG.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 753
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 855,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/fcbmq2u4S4wWGbmxdHARj2IMnPj.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 570
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 855,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/sUEOyY14wEEQxT81tMJdrJpCJhm.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 570
+      },
+      {
+        "aspect_ratio": 0.663,
+        "height": 1461,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/ha2lt5jog55dpqrdW5lZkqKqiFO.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 968
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Festival Chéries Chéris",
+            "release_date": "2025-11-21T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "YouTube",
+            "release_date": "2025-11-26T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Seoul International Pride Film Festival",
+            "release_date": "2026-11-06T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Lund Fantastic Film Festival",
+            "release_date": "2026-10-30T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

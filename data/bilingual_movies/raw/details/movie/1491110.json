@@ -1,0 +1,201 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1491110,
+  "imdb_id": null,
+  "origin_country": [
+    "IE"
+  ],
+  "original_language": "en",
+  "original_title": "Tough Love",
+  "overview": "After accidentally killing one of her clients, a recently divorced housewife turned dominatrix must figure out what to do next - all while dealing with her manipulative teenage son.",
+  "popularity": 0.8661,
+  "poster_path": "/raD3sFFV0dINqn7Ti2ckZi6FHBw.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2025-11-17",
+  "revenue": 0,
+  "runtime": 10,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "Tough Love",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3768049,
+        "known_for_department": "Acting",
+        "name": "Clara Fitzgerald",
+        "original_name": "Clara Fitzgerald",
+        "popularity": 0.1251,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "68e55f4c987a50689dbda148",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4455914,
+        "known_for_department": "Acting",
+        "name": "Oskar Smith",
+        "original_name": "Oskar Smith",
+        "popularity": 0.3823,
+        "profile_path": "/4SIE0AcHtb5jjv3LdOKj2p5IGrB.jpg",
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "68e55f607451cdade5c27f7b",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5522044,
+        "known_for_department": "Directing",
+        "name": "Oisin McKeogh",
+        "original_name": "Oisin McKeogh",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6858f64601cdad049d036dc7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2905429,
+        "known_for_department": "Camera",
+        "name": "Maiya Rice",
+        "original_name": "Maiya Rice",
+        "popularity": 0.0497,
+        "profile_path": null,
+        "credit_id": "68e55f0e35a536877725c278",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5522044,
+        "known_for_department": "Directing",
+        "name": "Oisin McKeogh",
+        "original_name": "Oisin McKeogh",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68e55f3c10fb2072ddc28541",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "After accidentally killing one of her clients, a recently divorced housewife turned dominatrix must figure out what to do next - all while dealing with her manipulative teenage son.",
+          "runtime": 10,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "PL",
+        "iso_639_1": "pl",
+        "name": "Polski",
+        "english_name": "Polish",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.707,
+        "height": 2245,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/raD3sFFV0dINqn7Ti2ckZi6FHBw.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1587
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "Kerry International Film Festival",
+            "release_date": "2024-10-18T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Camerimage International Film Festival",
+            "release_date": "2025-11-17T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

@@ -1,0 +1,916 @@
+{
+  "adult": false,
+  "backdrop_path": "/z1RpdUplP1HrHRB5iX8kdVwN8WK.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 1477431,
+  "imdb_id": "tt26689505",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Time of Death",
+  "overview": "When a prisoner vanishes without a trace, Detective Frank Morley (Michael Kelly) is sent to a decaying prison on the verge of shutdown. What begins as a routine investigation quickly spirals into a dangerous search for answers.",
+  "popularity": 1.5944,
+  "poster_path": "/gDbKETTKi8te7TiE0k6FfqAoSvR.jpg",
+  "production_companies": [
+    {
+      "id": 209,
+      "logo_path": null,
+      "name": "Radiant Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 88067,
+      "logo_path": null,
+      "name": "Silent Partner Film Group",
+      "origin_country": ""
+    },
+    {
+      "id": 295836,
+      "logo_path": null,
+      "name": "IKIGAI Production",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-06-12",
+  "revenue": 0,
+  "runtime": 107,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Beneath the darkness lies the truth.",
+  "title": "Time of Death",
+  "video": false,
+  "vote_average": 5.7,
+  "vote_count": 19,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8211,
+        "known_for_department": "Acting",
+        "name": "Mena Suvari",
+        "original_name": "Mena Suvari",
+        "popularity": 2.2642,
+        "profile_path": "/xjqKvy0bos02oSKNYzC4mxLbQ0W.jpg",
+        "cast_id": 12,
+        "character": "Dr. Allison Burrell",
+        "credit_id": "6a2c927b0ab13d4a1523e00a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50217,
+        "known_for_department": "Acting",
+        "name": "Michael Kelly",
+        "original_name": "Michael Kelly",
+        "popularity": 3.0617,
+        "profile_path": "/8V6RKWbbx8lyt3Xxz9B1OAPvHRt.jpg",
+        "cast_id": 13,
+        "character": "Frank Morley",
+        "credit_id": "6a2c92952e2367bee87f8bf3",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 352,
+        "known_for_department": "Acting",
+        "name": "Dennis Haysbert",
+        "original_name": "Dennis Haysbert",
+        "popularity": 1.9818,
+        "profile_path": "/lcnjaw2CFN6q9eaes1jTYrUB0rb.jpg",
+        "cast_id": 14,
+        "character": "Officer Aarons",
+        "credit_id": "6a2c92b0bb652635687f8b46",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7166,
+        "known_for_department": "Acting",
+        "name": "Kevin Pollak",
+        "original_name": "Kevin Pollak",
+        "popularity": 2.596,
+        "profile_path": "/ss4vL5itVF1I2AEC64k1vb79GEq.jpg",
+        "cast_id": 15,
+        "character": "Warden Beau LaRue",
+        "credit_id": "6a2c92c52e2367bee87f8c05",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53252,
+        "known_for_department": "Acting",
+        "name": "Noel Gugliemi",
+        "original_name": "Noel Gugliemi",
+        "popularity": 1.6634,
+        "profile_path": "/8jujXofjpSroMQ1R2JLB0GWIPor.jpg",
+        "cast_id": 16,
+        "character": "Hector Ramos",
+        "credit_id": "6a2c92d975b0675cb967f169",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4940,
+        "known_for_department": "Acting",
+        "name": "Trevor Morgan",
+        "original_name": "Trevor Morgan",
+        "popularity": 2.45,
+        "profile_path": "/txZ59fUmdyyv5cowmFDu85HiBeF.jpg",
+        "cast_id": 17,
+        "character": "Alan",
+        "credit_id": "6a2c93071f333ace18c3def5",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 210305,
+        "known_for_department": "Acting",
+        "name": "Kelen Coleman",
+        "original_name": "Kelen Coleman",
+        "popularity": 0.897,
+        "profile_path": "/g0PqX0spujEGTbRZeWGjMBJlGuS.jpg",
+        "cast_id": 18,
+        "character": "Brenda",
+        "credit_id": "6a2c93181f9689c3c162ac15",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 115858,
+        "known_for_department": "Acting",
+        "name": "Cotter Smith",
+        "original_name": "Cotter Smith",
+        "popularity": 0.3818,
+        "profile_path": "/dmz3uYC2XLMulmvQYzqGVaqLmRw.jpg",
+        "cast_id": 19,
+        "character": "Pat",
+        "credit_id": "6a2c9327ff8bc03460954d38",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52648,
+        "known_for_department": "Acting",
+        "name": "Alex Solowitz",
+        "original_name": "Alex Solowitz",
+        "popularity": 0.487,
+        "profile_path": "/uaQvBCXhOWFIdTwvy5xfPl3cLCg.jpg",
+        "cast_id": 20,
+        "character": "Dustin Reeves",
+        "credit_id": "6a2c934427824d52d07f8bee",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1237876,
+        "known_for_department": "Acting",
+        "name": "David Ury",
+        "original_name": "David Ury",
+        "popularity": 0.6458,
+        "profile_path": "/7PxPrnttpomJ9FuX4iSUwapRqR3.jpg",
+        "cast_id": 21,
+        "character": "Meeks",
+        "credit_id": "6a2c9355bb652635687f8b4d",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54865,
+        "known_for_department": "Acting",
+        "name": "Jeff Kober",
+        "original_name": "Jeff Kober",
+        "popularity": 2.3898,
+        "profile_path": "/rSHfqqDdNCBbia04NqxIB2U19wM.jpg",
+        "cast_id": 24,
+        "character": "Sheriff Bordeaux",
+        "credit_id": "6a66db04eb772d7598b34462",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1719029,
+        "known_for_department": "Acting",
+        "name": "Sir Brodie",
+        "original_name": "Sir Brodie",
+        "popularity": 0.2313,
+        "profile_path": "/8jqHMfXWTT9TtRFs8ISzO5mi7Co.jpg",
+        "cast_id": 25,
+        "character": "Clark Roberts",
+        "credit_id": "6a66db3fc59e36a09729511e",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4607092,
+        "known_for_department": "Acting",
+        "name": "Abdullah Khalil",
+        "original_name": "Abdullah Khalil",
+        "popularity": 0.134,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Dr. Alonghi",
+        "credit_id": "6a66db84a209b098a57a01f8",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2261464,
+        "known_for_department": "Acting",
+        "name": "Keith Machekanyanga",
+        "original_name": "Keith Machekanyanga",
+        "popularity": 0.4144,
+        "profile_path": "/WBO13ISo4qOXMsDvlFgjdp83Yb.jpg",
+        "cast_id": 27,
+        "character": "Tad Dowling",
+        "credit_id": "6a66dbad8bfdd6cf24cb2ac4",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1256798,
+        "known_for_department": "Writing",
+        "name": "Richard Rosen",
+        "original_name": "Richard Rosen",
+        "popularity": 0.1108,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Dr. Rosen",
+        "credit_id": "6a66dbe2fd869f46c915d1b6",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3367039,
+        "known_for_department": "Acting",
+        "name": "Thomas Parobek",
+        "original_name": "Thomas Parobek",
+        "popularity": 0.1646,
+        "profile_path": "/4R0mgR7m6yRPN1M4xmOJL5wEcKi.jpg",
+        "cast_id": 29,
+        "character": "Timmy Morley",
+        "credit_id": "6a66dc01822fcee7d1001753",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1757329,
+        "known_for_department": "Acting",
+        "name": "Vince Eisenson",
+        "original_name": "Vince Eisenson",
+        "popularity": 0.1923,
+        "profile_path": "/tEu8DZM6OzcEtBwyDljaF7CQlLr.jpg",
+        "cast_id": 30,
+        "character": "Dr. Brinlin",
+        "credit_id": "6a66dc34763d642099cb2a79",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3165741,
+        "known_for_department": "Acting",
+        "name": "CJ Williams",
+        "original_name": "CJ Williams",
+        "popularity": 0.1336,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Officer Bly",
+        "credit_id": "6a66dc63eb772d7598b3447f",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2821047,
+        "known_for_department": "Acting",
+        "name": "Harvey Roberts",
+        "original_name": "Harvey Roberts",
+        "popularity": 0.3765,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Warden James",
+        "credit_id": "6a66dcb26167caa89115d0e0",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2825627,
+        "known_for_department": "Acting",
+        "name": "Tre Ryan",
+        "original_name": "Tre Ryan",
+        "popularity": 0.3898,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Cellmate",
+        "credit_id": "6a66dcff113ad4b8cb6335d8",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6372623,
+        "known_for_department": "Acting",
+        "name": "Brody Mccann",
+        "original_name": "Brody Mccann",
+        "popularity": 0.0862,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Jacob Larue",
+        "credit_id": "6a66dd730292dc60e2b345ab",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1493951,
+        "known_for_department": "Acting",
+        "name": "Adam Thayer",
+        "original_name": "Adam Thayer",
+        "popularity": 0.1631,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Priest",
+        "credit_id": "6a66dda707b6d3ac8ecb2af9",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6372630,
+        "known_for_department": "Acting",
+        "name": "Rebecca Sanchez",
+        "original_name": "Rebecca Sanchez",
+        "popularity": 0.0845,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Waitress",
+        "credit_id": "6a66ddda68a1f1edd6aafe84",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3116962,
+        "known_for_department": "Acting",
+        "name": "Eliah Mountjoy",
+        "original_name": "Eliah Mountjoy",
+        "popularity": 0.1887,
+        "profile_path": "/ny2cw4JEKL6CbTy3AQ7ciAYKqhR.jpg",
+        "cast_id": 37,
+        "character": "Executioner",
+        "credit_id": "6a66de0ae449055d5763362c",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5313627,
+        "known_for_department": "Acting",
+        "name": "Ryan Beatrice",
+        "original_name": "Ryan Beatrice",
+        "popularity": 0.065,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Prisoner Background (uncredited)",
+        "credit_id": "6a66de3c2d3cd624c515d23e",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3838146,
+        "known_for_department": "Acting",
+        "name": "Dave Edmonds",
+        "original_name": "Dave Edmonds",
+        "popularity": 0.1293,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Diner Patron (uncredited)",
+        "credit_id": "6a66de6a25278767cf295311",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2285104,
+        "known_for_department": "Acting",
+        "name": "Gant Montgomery",
+        "original_name": "Gant Montgomery",
+        "popularity": 0.1305,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Officer B. White (uncredited)",
+        "credit_id": "6a66de88c59e36a09729521f",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5641491,
+        "known_for_department": "Acting",
+        "name": "Roger Petan",
+        "original_name": "Roger Petan",
+        "popularity": 0.0932,
+        "profile_path": "/hSPV0hlquSDN4Uqqb7vmqECRLcV.jpg",
+        "cast_id": 41,
+        "character": "Prison Doctor (uncredited)",
+        "credit_id": "6a66debc113ad4b8cb633606",
+        "order": 27
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1809758,
+        "known_for_department": "Writing",
+        "name": "Will Wernick",
+        "original_name": "Will Wernick",
+        "popularity": 0.181,
+        "profile_path": "/lLboVoSqsOlU1PfgmiLyrvoW07.jpg",
+        "credit_id": "681c0a5cdf2ce0c3723ec569",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5424083,
+        "known_for_department": "Writing",
+        "name": "Jason Rosen",
+        "original_name": "Jason Rosen",
+        "popularity": 0.3346,
+        "profile_path": null,
+        "credit_id": "681c0a84d5b89308c26e34ba",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1809758,
+        "known_for_department": "Writing",
+        "name": "Will Wernick",
+        "original_name": "Will Wernick",
+        "popularity": 0.181,
+        "profile_path": "/lLboVoSqsOlU1PfgmiLyrvoW07.jpg",
+        "credit_id": "681c0ab5233c7efd7701e6a7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5424083,
+        "known_for_department": "Writing",
+        "name": "Jason Rosen",
+        "original_name": "Jason Rosen",
+        "popularity": 0.3346,
+        "profile_path": null,
+        "credit_id": "681c0ac02176ffb465b1c63f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1809761,
+        "known_for_department": "Acting",
+        "name": "Kelly Delson",
+        "original_name": "Kelly Delson",
+        "popularity": 0.2763,
+        "profile_path": "/ezpV2FxGoHibEZ7TJoPW9amXqeu.jpg",
+        "credit_id": "681c0ad1d4640b66d40b26e0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5424086,
+        "known_for_department": "Production",
+        "name": "Jeff Delson",
+        "original_name": "Jeff Delson",
+        "popularity": 0.0525,
+        "profile_path": null,
+        "credit_id": "681c0adc50c46d6f4d3ec605",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1185949,
+        "known_for_department": "Production",
+        "name": "Kyle David Crosby",
+        "original_name": "Kyle David Crosby",
+        "popularity": 0.1026,
+        "profile_path": null,
+        "credit_id": "681c0aebfabf6d4bec01e6bc",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2825312,
+        "known_for_department": "Sound",
+        "name": "Genevieve Vincent",
+        "original_name": "Genevieve Vincent",
+        "popularity": 0.127,
+        "profile_path": "/giRl2B06XXlhCjGBCuejFFCcDVO.jpg",
+        "credit_id": "6a66da4eb70ece5d837a0090",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3781359,
+        "known_for_department": "Camera",
+        "name": "David Keninger",
+        "original_name": "David Keninger",
+        "popularity": 0.0895,
+        "profile_path": null,
+        "credit_id": "6a66da76b82943c098b34455",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2258633,
+        "known_for_department": "Production",
+        "name": "Kyle Otto",
+        "original_name": "Kyle Otto",
+        "popularity": 0.2426,
+        "profile_path": "/tuxjplh7z8Vv1UGb89KzDoBx5fw.jpg",
+        "credit_id": "6ae66644f187bbbf5b08080d",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "When a prisoner vanishes without a trace, Detective Frank Morley (Michael Kelly) is sent to a decaying prison on the verge of shutdown. What begins as a routine investigation quickly spirals into a dangerous search for answers.",
+          "runtime": 107,
+          "tagline": "Beneath the darkness lies the truth.",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "NL",
+        "iso_639_1": "nl",
+        "name": "Nederlands",
+        "english_name": "Dutch",
+        "data": {
+          "homepage": "",
+          "overview": "Wanneer een gevangene spoorloos verdwijnt, wordt rechercheur Frank Morley (Michael Kelly) naar een vervallen gevangenis gestuurd die op het punt staat te sluiten. Wat begint als een routineonderzoek, mondt al snel uit in een gevaarlijke zoektocht naar antwoorden.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "CN",
+        "iso_639_1": "zh",
+        "name": "普通话",
+        "english_name": "Mandarin",
+        "data": {
+          "homepage": "",
+          "overview": "一名囚犯离奇失踪、踪迹全无，于是警探弗兰克・莫利被派往一所濒临关闭、破败不堪的监狱。原本只是一次常规调查，却迅速演变成一场危险的真相探寻之旅。随着现实逐渐崩塌，监狱高墙内隐藏的秘密一直萦绕在弗兰克心头。",
+          "runtime": 110,
+          "tagline": "",
+          "title": "死亡时刻"
+        }
+      },
+      {
+        "iso_3166_1": "GR",
+        "iso_639_1": "el",
+        "name": "ελληνικά",
+        "english_name": "Greek",
+        "data": {
+          "homepage": "",
+          "overview": "Όταν ένας κρατούμενος εξαφανίζεται χωρίς ίχνος, ο ντετέκτιβ Φρανκ Μόρλεϊ στέλνεται σε μια παρακμάζουσα φυλακή στα πρόθυρα του κλεισίματος. Αυτό που ξεκινά ως μια συνηθισμένη έρευνα, γρήγορα εξελίσσεται σε μια επικίνδυνη αναζήτηση για απαντήσεις.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "PL",
+        "iso_639_1": "pl",
+        "name": "Polski",
+        "english_name": "Polish",
+        "data": {
+          "homepage": "",
+          "overview": "Gdy więzień znika bez śladu, detektyw Frank Morley (Michael Kelly) zostaje wysłany do podupadającego zakładu karnego stojącego u progu zamknięcia. To, co początkowo wydaje się rutynowym śledztwem, szybko przeradza się w niebezpieczne poszukiwanie odpowiedzi.",
+          "runtime": 0,
+          "tagline": "Pod powierzchnią mroku kryje się prawda.",
+          "title": "Czas Śmierci"
+        }
+      },
+      {
+        "iso_3166_1": "MX",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Un detective investiga la muerte de un agente en libertad condicional tras la desaparición de un recluso. Lidiando con un trauma familiar, Frank Morley pierde contacto con la realidad al descubrir oscuros secretos tras los muros de la prisión.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "BR",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "homepage": "",
+          "overview": "Quando um prisioneiro desaparece sem deixar vestígios, o detetive Frank Morley (interpretado por Michael Kelly) é enviado a uma prisão em decadência, prestes a ser desativada. O que começa como uma investigação de rotina rapidamente se transforma em uma busca perigosa por respostas. À medida que sua realidade começa a se fragmentar, Frank é atormentado pelos muitos segredos que se escondem entre as paredes da prisão.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "TR",
+        "iso_639_1": "tr",
+        "name": "Türkçe",
+        "english_name": "Turkish",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "SA",
+        "iso_639_1": "ar",
+        "name": "العربية",
+        "english_name": "Arabic",
+        "data": {
+          "homepage": "",
+          "overview": "في عام 1987، يُرسَل محقق تطارده مأساة فقدان عائلته إلى سجن متهالك على وشك الإغلاق، للتحقيق في وفاة ضابط مراقبة واختفاء سجين دون أثر. ومع تعمقه في القضية، يشعر بوجود قوة شريرة داخل الجدران، ويختلط عليه الواقع بالوهم.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "JP",
+        "title": "クロージャー",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Closure",
+        "type": "working title"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt26689505",
+    "wikidata_id": "Q141214633",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/z1RpdUplP1HrHRB5iX8kdVwN8WK.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.779,
+        "height": 1284,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/lrXQUjU0nwVs4PUZWkk7TxXXc2O.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 2284
+      }
+    ],
+    "logos": [
+      {
+        "aspect_ratio": 2.713,
+        "height": 1277,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/1L4TsWy0rGQgc2eDVmuYpX0LENw.png",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 3464
+      },
+      {
+        "aspect_ratio": 2.713,
+        "height": 1277,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/f0ZsZYDOkuUNsM76MPagqIR1vlK.png",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 3464
+      },
+      {
+        "aspect_ratio": 2.927,
+        "height": 234,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/ImxhXsjznHAKEzqMSvmjUObAvm.png",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 685
+      }
+    ],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/gDbKETTKi8te7TiE0k6FfqAoSvR.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.675,
+        "height": 2000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/woNXKlqMRG01tAWf3jpniLUGRmY.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1351
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/xwA7uRchl9ol2RmpkQBlMfqMpV7.jpg",
+        "vote_average": 0.0,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.675,
+        "height": 1527,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/qFBtYC8ZfpcWnitoDsvYhrgeiYX.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1030
+      },
+      {
+        "aspect_ratio": 0.673,
+        "height": 1528,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/mlwYYeqflzc8fPIZhejPSgdE1yA.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1029
+      },
+      {
+        "aspect_ratio": 0.675,
+        "height": 1642,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/dv8czE6kvyL7Odgu5YgGGxY5l6g.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1108
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 2430,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/38gWG71HwaDnss8t1gHWfy0Elet.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1620
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-06-12T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2026-06-12T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "BjTE9AQZDzI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6a2c945afb2753734b62ac18",
+        "published_at": "2026-06-08T15:52:17.000Z"
+      }
+    ]
+  }
+}

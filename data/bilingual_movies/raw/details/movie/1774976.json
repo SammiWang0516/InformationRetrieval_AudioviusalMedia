@@ -1,0 +1,186 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.olympics.com/en/news/feature-film-behind-the-screen-milano-cortina-2026-watch-now",
+  "id": 1774976,
+  "imdb_id": null,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Behind the Screen: Milano Cortina 2026",
+  "overview": "Documentary of the Olympic Broadcasting Services' delivery of the Opening Ceremony through the eyes of the director, Simon Staffruth, to the work of the various departments responsible for bringing the Winter Olympic Games competition action to television channels and digital streaming platforms around the world.",
+  "popularity": 0.9999,
+  "poster_path": "/700Z1cHxNGXjOvobrzDiR5OHKhR.jpg",
+  "production_companies": [
+    {
+      "id": 129065,
+      "logo_path": "/7rvoocDMhN2eS2lTUqG9QepUyjF.png",
+      "name": "OBS - Olympic Broadcasting Services",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2026-03-27",
+  "revenue": 0,
+  "runtime": 74,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "Behind the Screen: Milano Cortina 2026",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4838797,
+        "known_for_department": "Acting",
+        "name": "Mark Wallace",
+        "original_name": "Mark Wallace",
+        "popularity": 0.3819,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "self",
+        "credit_id": "6ab0192a8d80c43634fa415c",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3682425,
+        "known_for_department": "Production",
+        "name": "Yiannis Exarchos",
+        "original_name": "Yiannis Exarchos",
+        "popularity": 0.1966,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "self",
+        "credit_id": "6ab019fb31c4f8c8af9e8a0f",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1743874,
+        "known_for_department": "Directing",
+        "name": "Simon Staffurth",
+        "original_name": "Simon Staffurth",
+        "popularity": 0.5405,
+        "profile_path": null,
+        "credit_id": "6ab00fe12c8c3b27c6045182",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 6075,
+        "name": "sports"
+      },
+      {
+        "id": 2070,
+        "name": "olympic games"
+      },
+      {
+        "id": 33490,
+        "name": "filmmaking"
+      },
+      {
+        "id": 315138,
+        "name": "olympics"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "https://www.olympics.com/en/news/feature-film-behind-the-screen-milano-cortina-2026-watch-now",
+          "overview": "Documentary of the Olympic Broadcasting Services' delivery of the Opening Ceremony through the eyes of the director, Simon Staffruth, to the work of the various departments responsible for bringing the Winter Olympic Games competition action to television channels and digital streaming platforms around the world.",
+          "runtime": 74,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 2942,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/700Z1cHxNGXjOvobrzDiR5OHKhR.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1961
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2026-03-27T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "OBS: Drones at Milano Cortina 2026 – A New Perspective on Sports Broadcasting",
+        "key": "CJcS3a0ZyLk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": true,
+        "id": "6ab01afe0a446bdfcbf66736",
+        "published_at": "2026-09-07T09:12:06.000Z"
+      }
+    ]
+  }
+}

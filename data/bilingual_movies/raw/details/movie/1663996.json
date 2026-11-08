@@ -1,0 +1,767 @@
+{
+  "adult": false,
+  "backdrop_path": "/ce8m7FTIaA2ARIVRaUlLsBHvfEO.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1663996,
+  "imdb_id": "tt35487701",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "L'amore sta bene su tutto",
+  "overview": "",
+  "popularity": 0.8156,
+  "poster_path": "/uGevFszuvC2yVGb3foshoPQNhgP.jpg",
+  "production_companies": [
+    {
+      "id": 1429,
+      "logo_path": "/n1GvY0KLgk3gcEPO07L7nXncB3i.png",
+      "name": "Italian International Film",
+      "origin_country": "IT"
+    },
+    {
+      "id": 228664,
+      "logo_path": "/rKNzL97WA26KnyeUUycdJDggxLq.png",
+      "name": "PiperFilm",
+      "origin_country": "IT"
+    },
+    {
+      "id": 14016,
+      "logo_path": "/snclwsIZQbgvqYCBJP8fqNlCA5y.png",
+      "name": "MiC",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2026-05-06",
+  "revenue": 0,
+  "runtime": 96,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "L'amore sta bene su tutto",
+  "video": false,
+  "vote_average": 5.5,
+  "vote_count": 33,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 130359,
+        "known_for_department": "Acting",
+        "name": "Giampaolo Morelli",
+        "original_name": "Giampaolo Morelli",
+        "popularity": 0.4364,
+        "profile_path": "/5KATYXO5KRV0VrFt6UhlQxFWm3m.jpg",
+        "cast_id": 20,
+        "character": "Stefano",
+        "credit_id": "69d1f6ee0e907841f0b8e20a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1523981,
+        "known_for_department": "Acting",
+        "name": "Ilenia Pastorelli",
+        "original_name": "Ilenia Pastorelli",
+        "popularity": 0.4603,
+        "profile_path": "/mLgRYlpWe7fbLaow1pqMyzK4tLs.jpg",
+        "cast_id": 24,
+        "character": "Federica",
+        "credit_id": "69d1f74c7297dbaa17e538d8",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 128426,
+        "known_for_department": "Acting",
+        "name": "Max Tortora",
+        "original_name": "Max Tortora",
+        "popularity": 0.2598,
+        "profile_path": "/d9qY7LSOiKe3oYSjYAjtInJr5RT.jpg",
+        "cast_id": 21,
+        "character": "Frank",
+        "credit_id": "69d1f70b37be54ac3609228c",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 78680,
+        "known_for_department": "Acting",
+        "name": "Monica Guerritore",
+        "original_name": "Monica Guerritore",
+        "popularity": 1.1878,
+        "profile_path": "/3yTCJIS3B8TcAQyXkc3gZcHr6Hu.jpg",
+        "cast_id": 25,
+        "character": "Milly",
+        "credit_id": "69d1f7644648830d066b2388",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8776,
+        "known_for_department": "Acting",
+        "name": "Claudia Gerini",
+        "original_name": "Claudia Gerini",
+        "popularity": 1.3848,
+        "profile_path": "/QFBen9LPrKuSr9awe0Go3gl6sG.jpg",
+        "cast_id": 22,
+        "character": "Vittoria",
+        "credit_id": "69d1f71f0abee80a1f6b23f7",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78538,
+        "known_for_department": "Acting",
+        "name": "Gianmarco Tognazzi",
+        "original_name": "Gianmarco Tognazzi",
+        "popularity": 0.3581,
+        "profile_path": "/8Bki40BsjJUFyyYX0wjoaf7SNK1.jpg",
+        "cast_id": 26,
+        "character": "Giovanni",
+        "credit_id": "69d1f779248ed148efd0433b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27399,
+        "known_for_department": "Acting",
+        "name": "Paolo Calabresi",
+        "original_name": "Paolo Calabresi",
+        "popularity": 0.2254,
+        "profile_path": "/gGs3xjTCE6QGNLMFnNLJcGQ4UZJ.jpg",
+        "cast_id": 23,
+        "character": "Manlio",
+        "credit_id": "69d1f7307886427a0ee538d7",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 238495,
+        "known_for_department": "Acting",
+        "name": "Carlo Luca De Ruggieri",
+        "original_name": "Carlo Luca De Ruggieri",
+        "popularity": 0.5945,
+        "profile_path": "/3djZKWOYn4PwUHpZ6wPNIvR70U3.jpg",
+        "cast_id": 27,
+        "character": "Piero",
+        "credit_id": "69d1f7997297dbaa17e538ec",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32562,
+        "known_for_department": "Acting",
+        "name": "Roberto Citran",
+        "original_name": "Roberto Citran",
+        "popularity": 0.2744,
+        "profile_path": "/9Bf1XQYY30nA7WzwX2N9pULk7mK.jpg",
+        "cast_id": 42,
+        "character": "",
+        "credit_id": "69d1fb20e0828db624788938",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6119247,
+        "known_for_department": "Acting",
+        "name": "Samba Laobe Ndioye",
+        "original_name": "Samba Laobe Ndioye",
+        "popularity": 0.0733,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Jules",
+        "credit_id": "69d1f7aa0a00487635d0432a",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2024080,
+        "known_for_department": "Acting",
+        "name": "Roberto Andreucci",
+        "original_name": "Roberto Andreucci",
+        "popularity": 0.0695,
+        "profile_path": "/3JzLlpyClnF9MnJOHNbFkHBzBBv.jpg",
+        "cast_id": 29,
+        "character": "Elettricista",
+        "credit_id": "69d1f7ba7297dbaa17e538f3",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6119249,
+        "known_for_department": "Acting",
+        "name": "Giovanni Sicurello",
+        "original_name": "Giovanni Sicurello",
+        "popularity": 0.0628,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Commesso",
+        "credit_id": "69d1f7d86652436e5bd0436e",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5371269,
+        "known_for_department": "Acting",
+        "name": "Chiara Condrò",
+        "original_name": "Chiara Condrò",
+        "popularity": 0.0685,
+        "profile_path": "/qfFxVvsaUX6wLOjOAu1SplDKrQL.jpg",
+        "cast_id": 31,
+        "character": "Cliente negozio",
+        "credit_id": "69d1f7e693f1bad7457888c1",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4750241,
+        "known_for_department": "Acting",
+        "name": "Annalisa Cordone",
+        "original_name": "Annalisa Cordone",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Infermiera",
+        "credit_id": "69d1f7f4b9403881b7108d56",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5986257,
+        "known_for_department": "Acting",
+        "name": "Daniela Glasgow",
+        "original_name": "Daniela Glasgow",
+        "popularity": 0.5338,
+        "profile_path": "/zjw4u0EGE1E2t9mtJ0Ov8AMtEln.jpg",
+        "cast_id": 33,
+        "character": "Amica",
+        "credit_id": "69d1f80e0abee80a1f6b23ff",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 223175,
+        "known_for_department": "Acting",
+        "name": "Massimo Wertmüller",
+        "original_name": "Massimo Wertmüller",
+        "popularity": 0.1746,
+        "profile_path": "/fTYcZhe5zhZ77d5xsqarYvBnkcR.jpg",
+        "cast_id": 34,
+        "character": "",
+        "credit_id": "69d1f81b3048c41817aef66d",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 130359,
+        "known_for_department": "Acting",
+        "name": "Giampaolo Morelli",
+        "original_name": "Giampaolo Morelli",
+        "popularity": 0.4364,
+        "profile_path": "/5KATYXO5KRV0VrFt6UhlQxFWm3m.jpg",
+        "credit_id": "69d1f524764e50b7d6d04356",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2024080,
+        "known_for_department": "Acting",
+        "name": "Roberto Andreucci",
+        "original_name": "Roberto Andreucci",
+        "popularity": 0.0695,
+        "profile_path": "/3JzLlpyClnF9MnJOHNbFkHBzBBv.jpg",
+        "credit_id": "69d1f535764e50b7d6d0435b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1018718,
+        "known_for_department": "Production",
+        "name": "Veronica Coppola",
+        "original_name": "Veronica Coppola",
+        "popularity": 0.0636,
+        "profile_path": null,
+        "credit_id": "69d1f545e3a48feba6aef67f",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 575797,
+        "known_for_department": "Production",
+        "name": "Federica Lucisano",
+        "original_name": "Federica Lucisano",
+        "popularity": 0.3757,
+        "profile_path": "/73ef9OVeLgIaIQB6Y9NJ4crVPFZ.jpg",
+        "credit_id": "69d1f553e0828db6247888fa",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 570741,
+        "known_for_department": "Sound",
+        "name": "Francesco Cerasi",
+        "original_name": "Francesco Cerasi",
+        "popularity": 0.1581,
+        "profile_path": "/9vA1oc1bKMMVLFU45C6IMsAFGk4.jpg",
+        "credit_id": "69d1f55ed81db98aaae538f5",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1124061,
+        "known_for_department": "Camera",
+        "name": "Federico Annicchiarico",
+        "original_name": "Federico Annicchiarico",
+        "popularity": 0.1628,
+        "profile_path": null,
+        "credit_id": "69d1f56ca777e6ed8daef675",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 575794,
+        "known_for_department": "Editing",
+        "name": "Luciana Pandolfelli",
+        "original_name": "Luciana Pandolfelli",
+        "popularity": 0.1271,
+        "profile_path": null,
+        "credit_id": "69d1f5770b1ca08859108d02",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1448545,
+        "known_for_department": "Production",
+        "name": "Ornella Morsilli",
+        "original_name": "Ornella Morsilli",
+        "popularity": 0.2317,
+        "profile_path": null,
+        "credit_id": "69d1f585b9403881b7108d21",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3568270,
+        "known_for_department": "Art",
+        "name": "Tiziana Liberotti",
+        "original_name": "Tiziana Liberotti",
+        "popularity": 0.1951,
+        "profile_path": null,
+        "credit_id": "69d1f5930b1ca08859108d05",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 73859,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Patrizia Mazzon",
+        "original_name": "Patrizia Mazzon",
+        "popularity": 0.162,
+        "profile_path": null,
+        "credit_id": "69d1f5a2ec509578b5788906",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3591638,
+        "known_for_department": "Production",
+        "name": "Simone Troili",
+        "original_name": "Simone Troili",
+        "popularity": 0.0701,
+        "profile_path": null,
+        "credit_id": "69d1f5b16aecf3d6694fd835",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2769860,
+        "known_for_department": "Directing",
+        "name": "Matteo Albano",
+        "original_name": "Matteo Albano",
+        "popularity": 0.2553,
+        "profile_path": null,
+        "credit_id": "69d1f5cdbc6a974dce4fd884",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2651919,
+        "known_for_department": "Editing",
+        "name": "Claudio Giordano",
+        "original_name": "Claudio Giordano",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "69d1f5e2c77e897384d04369",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2050426,
+        "known_for_department": "Directing",
+        "name": "Emanuele Imbucci",
+        "original_name": "Emanuele Imbucci",
+        "popularity": 0.1256,
+        "profile_path": "/dTxvJE84kSjlI7dFckjxcA0zXPs.jpg",
+        "credit_id": "69d1f5fa4c430269c66b2385",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61405,
+        "known_for_department": "Acting",
+        "name": "Francesco Liotti",
+        "original_name": "Francesco Liotti",
+        "popularity": 0.0645,
+        "profile_path": null,
+        "credit_id": "69d1f62d1f58163bfd4fd850",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4415543,
+        "known_for_department": "Directing",
+        "name": "Mirko Genduso",
+        "original_name": "Mirko Genduso",
+        "popularity": 0.0555,
+        "profile_path": null,
+        "credit_id": "69d1f684fb3223c8b5aef60d",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2331196,
+        "known_for_department": "Art",
+        "name": "Davide De Cubellis",
+        "original_name": "Davide De Cubellis",
+        "popularity": 0.0717,
+        "profile_path": null,
+        "credit_id": "69d1f696fd99ae61484fd88a",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1607649,
+        "known_for_department": "Editing",
+        "name": "Paolo Verrucci",
+        "original_name": "Paolo Verrucci",
+        "popularity": 0.1087,
+        "profile_path": null,
+        "credit_id": "69d1f6aa013ba65d31092307",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3935573,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Damiano Di Giacomo",
+        "original_name": "Damiano Di Giacomo",
+        "popularity": 0.1423,
+        "profile_path": null,
+        "credit_id": "69d1f6bf1b3939fbf2108d5a",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 130359,
+        "known_for_department": "Acting",
+        "name": "Giampaolo Morelli",
+        "original_name": "Giampaolo Morelli",
+        "popularity": 0.4364,
+        "profile_path": "/5KATYXO5KRV0VrFt6UhlQxFWm3m.jpg",
+        "credit_id": "69d1f945b32f9a7ec3d04346",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1052203,
+        "known_for_department": "Writing",
+        "name": "Gianluca Ansanelli",
+        "original_name": "Gianluca Ansanelli",
+        "popularity": 0.2678,
+        "profile_path": "/z9ECvVSEaiznBGywloHzmdKsw9f.jpg",
+        "credit_id": "69d1f95131bed136d3aef6a9",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1147821,
+        "known_for_department": "Writing",
+        "name": "Tito Buffolini",
+        "original_name": "Tito Buffolini",
+        "popularity": 0.2326,
+        "profile_path": null,
+        "credit_id": "69d1f95c87a7dbceb3788925",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 130359,
+        "known_for_department": "Acting",
+        "name": "Giampaolo Morelli",
+        "original_name": "Giampaolo Morelli",
+        "popularity": 0.4364,
+        "profile_path": "/5KATYXO5KRV0VrFt6UhlQxFWm3m.jpg",
+        "credit_id": "69d1f96631bed136d3aef6ac",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1052203,
+        "known_for_department": "Writing",
+        "name": "Gianluca Ansanelli",
+        "original_name": "Gianluca Ansanelli",
+        "popularity": 0.2678,
+        "profile_path": "/z9ECvVSEaiznBGywloHzmdKsw9f.jpg",
+        "credit_id": "69d1f96fd81db98aaae53906",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1147821,
+        "known_for_department": "Writing",
+        "name": "Tito Buffolini",
+        "original_name": "Tito Buffolini",
+        "popularity": 0.2326,
+        "profile_path": null,
+        "credit_id": "69d1f97541bf761299788943",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6119259,
+        "known_for_department": "Production",
+        "name": "Giulia Pellegrino",
+        "original_name": "Giulia Pellegrino",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "69d1f9b4edb6677dd9108d28",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2786102,
+        "known_for_department": "Sound",
+        "name": "Silvestro Suppa",
+        "original_name": "Silvestro Suppa",
+        "popularity": 0.0469,
+        "profile_path": null,
+        "credit_id": "69d1fbd54a283c67b94fd877",
+        "department": "Sound",
+        "job": "Sound"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 9673,
+        "name": "love"
+      },
+      {
+        "id": 14602,
+        "name": "break-up"
+      },
+      {
+        "id": 187207,
+        "name": "guide book"
+      },
+      {
+        "id": 214798,
+        "name": "love problems"
+      },
+      {
+        "id": 365758,
+        "name": "breakup"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "IT",
+        "iso_639_1": "it",
+        "name": "Italiano",
+        "english_name": "Italian",
+        "data": {
+          "homepage": "",
+          "overview": "Tre storie si intrecciano tra equivoci, vecchie ferite e nuove scoperte, rivelando come l’amore – in tutte le sue forme – possa sorprendere, guarire e trasformare profondamente le nostre vite.",
+          "runtime": 96,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 96,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt35487701",
+    "wikidata_id": "Q139691514",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/ce8m7FTIaA2ARIVRaUlLsBHvfEO.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 720,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/aGXIGgetcFFYPziHkRkU1ZzUchl.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1280
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1152,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/su8vRJrbawLn6qHxaDlHSM75Fzq.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2048
+      }
+    ],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-05-06T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

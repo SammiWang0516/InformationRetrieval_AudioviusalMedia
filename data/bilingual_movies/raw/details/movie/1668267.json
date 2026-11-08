@@ -1,0 +1,430 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1668267,
+  "imdb_id": "tt40210247",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "Good Vibes Only",
+  "overview": "A woman desperately wants to cry following a painful breakup. But her AI companion won't let her.",
+  "popularity": 0.8505,
+  "poster_path": "/BVn2aFapUWU4KpWBqgipW8BUFI.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2026-06-25",
+  "revenue": 0,
+  "runtime": 13,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "Good Vibes Only",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1685904,
+        "known_for_department": "Acting",
+        "name": "Hannah Emily Anderson",
+        "original_name": "Hannah Emily Anderson",
+        "popularity": 1.101,
+        "profile_path": "/fSyNGF4pZQj9Ne9IKv9kfimECzk.jpg",
+        "cast_id": 1,
+        "character": "Eva",
+        "credit_id": "69da5e013ee285f03db648f0",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2773221,
+        "known_for_department": "Acting",
+        "name": "Maddy Foley",
+        "original_name": "Maddy Foley",
+        "popularity": 0.2001,
+        "profile_path": "/rBHrgleo2518u8PGyG1eVXxqo6F.jpg",
+        "cast_id": 2,
+        "character": "Margaret (voice)",
+        "credit_id": "69da5e0ccde440db1d357ae2",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1228278,
+        "known_for_department": "Acting",
+        "name": "Dalmar Abuzeid",
+        "original_name": "Dalmar Abuzeid",
+        "popularity": 0.7708,
+        "profile_path": "/5n6O1B8UDNapDf5EqsRm8SLPMnF.jpg",
+        "cast_id": 3,
+        "character": "Vik",
+        "credit_id": "69da5e16d688bca2d9b64942",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2853231,
+        "known_for_department": "Acting",
+        "name": "Andrea Pavlovic",
+        "original_name": "Andrea Pavlovic",
+        "popularity": 0.7857,
+        "profile_path": "/fC6ywFNaxdoKerRIyXZ6ia8tHVS.jpg",
+        "cast_id": 4,
+        "character": "Amy",
+        "credit_id": "69da5e23d66e9d9eb0c73037",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2960687,
+        "known_for_department": "Acting",
+        "name": "Anas Hasan",
+        "original_name": "Anas Hasan",
+        "popularity": 0.3448,
+        "profile_path": "/gqX096qNdTOgcbCGmYSRfxnPPp6.jpg",
+        "cast_id": 11,
+        "character": "Raf",
+        "credit_id": "6a038c56133408c55ab3bcbe",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3176092,
+        "known_for_department": "Acting",
+        "name": "Mitchell Court",
+        "original_name": "Mitchell Court",
+        "popularity": 0.7488,
+        "profile_path": "/APUTylprUuVzX2AT9wYJCJkWZ6.jpg",
+        "cast_id": 12,
+        "character": "Co-Worker",
+        "credit_id": "6a038c6cf31c6d1de17f17de",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5163155,
+        "known_for_department": "Production",
+        "name": "Sarah D'Ambrosio",
+        "original_name": "Sarah D'Ambrosio",
+        "popularity": 0.1044,
+        "profile_path": null,
+        "credit_id": "69da5e68582b647bbc1d9174",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5163155,
+        "known_for_department": "Production",
+        "name": "Sarah D'Ambrosio",
+        "original_name": "Sarah D'Ambrosio",
+        "popularity": 0.1044,
+        "profile_path": null,
+        "credit_id": "69da5e740f9b641c3b1d91ce",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6062316,
+        "known_for_department": "Production",
+        "name": "Marium Nur Vahed",
+        "original_name": "Marium Nur Vahed",
+        "popularity": 0.2074,
+        "profile_path": null,
+        "credit_id": "69da5eb6d6eeb3193b9b793a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5163155,
+        "known_for_department": "Production",
+        "name": "Sarah D'Ambrosio",
+        "original_name": "Sarah D'Ambrosio",
+        "popularity": 0.1044,
+        "profile_path": null,
+        "credit_id": "69da5ec3284f09236370a12e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6134781,
+        "known_for_department": "Camera",
+        "name": "Alice Stephens",
+        "original_name": "Alice Stephens",
+        "popularity": 0.0825,
+        "profile_path": null,
+        "credit_id": "69da5efce532f691ded929ff",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4192458,
+        "known_for_department": "Editing",
+        "name": "Becky Swannick",
+        "original_name": "Becky Swannick",
+        "popularity": 0.1023,
+        "profile_path": null,
+        "credit_id": "69da5f16bba7054a5f709feb",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3271582,
+        "known_for_department": "Production",
+        "name": "Megan Robinson",
+        "original_name": "Megan Robinson",
+        "popularity": 0.3523,
+        "profile_path": null,
+        "credit_id": "6a038c8b3ec60ee8573a60d3",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6208873,
+        "known_for_department": "Production",
+        "name": "Shauna Eve",
+        "original_name": "Shauna Eve",
+        "popularity": 0.0645,
+        "profile_path": null,
+        "credit_id": "6a038cbdcb7442ed9925103b",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6062316,
+        "known_for_department": "Production",
+        "name": "Marium Nur Vahed",
+        "original_name": "Marium Nur Vahed",
+        "popularity": 0.2074,
+        "profile_path": null,
+        "credit_id": "6a0f1782c786f49ebb046383",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4683578,
+        "known_for_department": "Acting",
+        "name": "Emily Jo Mahu",
+        "original_name": "Emily Jo Mahu",
+        "popularity": 0.1106,
+        "profile_path": null,
+        "credit_id": "6a0f1792e7ffd9dcb0e05303",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4834510,
+        "known_for_department": "Art",
+        "name": "Natasha Ponce",
+        "original_name": "Natasha Ponce",
+        "popularity": 0.0896,
+        "profile_path": null,
+        "credit_id": "6a0f17a2eca624e7d30463cb",
+        "department": "Art",
+        "job": "Lead Set Dresser"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1852267,
+        "known_for_department": "Sound",
+        "name": "Jesse Gillingham",
+        "original_name": "Jesse Gillingham",
+        "popularity": 0.1485,
+        "profile_path": null,
+        "credit_id": "6a0f17b58c2441eaced2a751",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4773300,
+        "known_for_department": "Crew",
+        "name": "Luke Bellissimo",
+        "original_name": "Luke Bellissimo",
+        "popularity": 0.2297,
+        "profile_path": null,
+        "credit_id": "6a0f17da8c2441eaced2a75b",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4574623,
+        "known_for_department": "Lighting",
+        "name": "Andrei Ermolaev",
+        "original_name": "Andrei Ermolaev",
+        "popularity": 0.1181,
+        "profile_path": null,
+        "credit_id": "6a0f17ecf667ee22e2e0545d",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2438756,
+        "known_for_department": "Acting",
+        "name": "Susan Liu",
+        "original_name": "Susan Liu",
+        "popularity": 0.1301,
+        "profile_path": null,
+        "credit_id": "6a0f17f91f9064d8d2d2a74b",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3630274,
+        "known_for_department": "Visual Effects",
+        "name": "Rowan Mikolic-O'Rourke",
+        "original_name": "Rowan Mikolic-O'Rourke",
+        "popularity": 0.2818,
+        "profile_path": null,
+        "credit_id": "6a0f180b2e3c504c9f8dd8ff",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4259859,
+        "known_for_department": "Camera",
+        "name": "Adrian Muir",
+        "original_name": "Adrian Muir",
+        "popularity": 0.112,
+        "profile_path": null,
+        "credit_id": "6a0f181e78b432b083e2c2ad",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6229726,
+        "known_for_department": "Editing",
+        "name": "Zachary Cox",
+        "original_name": "Zachary Cox",
+        "popularity": 0.0933,
+        "profile_path": null,
+        "credit_id": "6a0f1847875721989330cd0c",
+        "department": "Editing",
+        "job": "Colorist"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "A woman desperately wants to cry following a painful breakup. But her AI companion won't let her.",
+          "runtime": 13,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt40210247",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/BVn2aFapUWU4KpWBqgipW8BUFI.jpg",
+        "vote_average": 10.0,
+        "vote_count": 5,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-06-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

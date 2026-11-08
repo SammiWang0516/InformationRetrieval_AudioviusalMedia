@@ -1,0 +1,667 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1363297,
+  "imdb_id": null,
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "Chrome",
+  "overview": "Two Taekwondo fighters, lifelong friends turned rivals, spend a night at the local dojang before their eventual match.",
+  "popularity": 0.8714,
+  "poster_path": "/5OmrYwyS9vXZLkNGzZqcoDzAdKy.jpg",
+  "production_companies": [
+    {
+      "id": 313738,
+      "logo_path": null,
+      "name": "900frontier",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2025-11-15",
+  "revenue": 0,
+  "runtime": 17,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "To love me so much it hurts.",
+  "title": "Chrome",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4968988,
+        "known_for_department": "Acting",
+        "name": "Adrian Hóz",
+        "original_name": "Adrian Hóz",
+        "popularity": 0.2098,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Jay",
+        "credit_id": "66f8649df5d56e9ed8a224ad",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4968991,
+        "known_for_department": "Acting",
+        "name": "Ethan Aaron White",
+        "original_name": "Ethan Aaron White",
+        "popularity": 0.409,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Bryant",
+        "credit_id": "66f864af271200492ecc2626",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4968993,
+        "known_for_department": "Acting",
+        "name": "Master DJ Keates",
+        "original_name": "Master DJ Keates",
+        "popularity": 0.1075,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Master",
+        "credit_id": "66f864c2271200492ecc2632",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4316679,
+        "known_for_department": "Directing",
+        "name": "Joshua Brad-Lee Garrido",
+        "original_name": "Joshua Brad-Lee Garrido",
+        "popularity": 0.288,
+        "profile_path": "/eAILB4iM4B2Qap1odhdJlAZE6Kq.jpg",
+        "credit_id": "66f861297f13b7b12aa22073",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4320603,
+        "known_for_department": "Production",
+        "name": "Stella Merkel",
+        "original_name": "Stella Merkel",
+        "popularity": 0.0762,
+        "profile_path": "/qa1IxzoKCEd3t4zZk2WhWcrNHUQ.jpg",
+        "credit_id": "66f86135393cda1d1dcc2909",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4316675,
+        "known_for_department": "Camera",
+        "name": "Gabriel Sanchez",
+        "original_name": "Gabriel Sanchez",
+        "popularity": 0.1073,
+        "profile_path": null,
+        "credit_id": "66f86147140fbf6a1a5f4b36",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2489536,
+        "known_for_department": "Visual Effects",
+        "name": "James Zhang",
+        "original_name": "James Zhang",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "66f86155140fbf6a1a5f4b3e",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4341330,
+        "known_for_department": "Camera",
+        "name": "Mungo McLaggan",
+        "original_name": "Mungo McLaggan",
+        "popularity": 0.0614,
+        "profile_path": null,
+        "credit_id": "66f8615f7f13b7b12aa2207e",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4341330,
+        "known_for_department": "Camera",
+        "name": "Mungo McLaggan",
+        "original_name": "Mungo McLaggan",
+        "popularity": 0.0614,
+        "profile_path": null,
+        "credit_id": "66f86167140fbf6a1a5f4b48",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4341335,
+        "known_for_department": "Art",
+        "name": "Keesay Wang",
+        "original_name": "Keesay Wang",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "66f861d1140fbf6a1a5f4b94",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4341341,
+        "known_for_department": "Crew",
+        "name": "Alma Garcia",
+        "original_name": "Alma Garcia",
+        "popularity": 0.0788,
+        "profile_path": null,
+        "credit_id": "66f861e3621e8616b45f4805",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4341331,
+        "known_for_department": "Camera",
+        "name": "Gabe Porath",
+        "original_name": "Gabe Porath",
+        "popularity": 0.0951,
+        "profile_path": null,
+        "credit_id": "66f861f01a9c9188fecc2f8b",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4968948,
+        "known_for_department": "Camera",
+        "name": "Win He",
+        "original_name": "Win He",
+        "popularity": 0.0381,
+        "profile_path": null,
+        "credit_id": "66f8620c7f13b7b12aa220b3",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4968950,
+        "known_for_department": "Camera",
+        "name": "Kiran Lilani",
+        "original_name": "Kiran Lilani",
+        "popularity": 0.0304,
+        "profile_path": null,
+        "credit_id": "66f8623d7f13b7b12aa220cd",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4316668,
+        "known_for_department": "Art",
+        "name": "Nina Yu",
+        "original_name": "Nina Yu",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "66f8624c393cda1d1dcc2948",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4968956,
+        "known_for_department": "Art",
+        "name": "Cooper Mortimer",
+        "original_name": "Cooper Mortimer",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "66f8625c0f6fa2cfce5f48bf",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4968957,
+        "known_for_department": "Art",
+        "name": "Jules Sassi",
+        "original_name": "Jules Sassi",
+        "popularity": 0.0347,
+        "profile_path": null,
+        "credit_id": "66f862670a12215631cc2ffb",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4968961,
+        "known_for_department": "Lighting",
+        "name": "Siqin Liu",
+        "original_name": "Siqin Liu",
+        "popularity": 0.1211,
+        "profile_path": null,
+        "credit_id": "66f8627f0a12215631cc3023",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4968966,
+        "known_for_department": "Lighting",
+        "name": "Berkeley Reyes",
+        "original_name": "Berkeley Reyes",
+        "popularity": 0.1592,
+        "profile_path": null,
+        "credit_id": "66f862e97f13b7b12aa22131",
+        "department": "Lighting",
+        "job": "Best Boy Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4320606,
+        "known_for_department": "Production",
+        "name": "Emmi Tsiapalis",
+        "original_name": "Emmi Tsiapalis",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "66f862f6f5d56e9ed8a2241e",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4968967,
+        "known_for_department": "Camera",
+        "name": "Castiel Radivojevic",
+        "original_name": "Castiel Radivojevic",
+        "popularity": 0.0643,
+        "profile_path": null,
+        "credit_id": "66f8630b140fbf6a1a5f4bcf",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4968968,
+        "known_for_department": "Camera",
+        "name": "Aryan Kurungode",
+        "original_name": "Aryan Kurungode",
+        "popularity": 0.0507,
+        "profile_path": null,
+        "credit_id": "66f8631a7f13b7b12aa22143",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2489536,
+        "known_for_department": "Visual Effects",
+        "name": "James Zhang",
+        "original_name": "James Zhang",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "66f863250a12215631cc3074",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4968969,
+        "known_for_department": "Sound",
+        "name": "Sarah Sahab",
+        "original_name": "Sarah Sahab",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "66f86330140fbf6a1a5f4bdf",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4316656,
+        "known_for_department": "Writing",
+        "name": "Ben Mouland",
+        "original_name": "Ben Mouland",
+        "popularity": 0.2699,
+        "profile_path": "/oL5SwJ3JdJXsfZmB1rzoYbUqNdl.jpg",
+        "credit_id": "66f8633a7f13b7b12aa22148",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4968970,
+        "known_for_department": "Sound",
+        "name": "Carol Zhou",
+        "original_name": "Carol Zhou",
+        "popularity": 0.0665,
+        "profile_path": null,
+        "credit_id": "66f8634d140fbf6a1a5f4bf3",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2489536,
+        "known_for_department": "Visual Effects",
+        "name": "James Zhang",
+        "original_name": "James Zhang",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "66f863550a12215631cc3085",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4341329,
+        "known_for_department": "Directing",
+        "name": "Penny Gullion",
+        "original_name": "Penny Gullion",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "66f863730f6fa2cfce5f4919",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4341329,
+        "known_for_department": "Directing",
+        "name": "Penny Gullion",
+        "original_name": "Penny Gullion",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "66f8637e7f13b7b12aa2215a",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4968978,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Syndio Chun",
+        "original_name": "Syndio Chun",
+        "popularity": 0.0488,
+        "profile_path": null,
+        "credit_id": "66f8638c0a12215631cc30aa",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4316666,
+        "known_for_department": "Camera",
+        "name": "Kup Xin Guan",
+        "original_name": "Kup Xin Guan",
+        "popularity": 0.0361,
+        "profile_path": null,
+        "credit_id": "66f8639d7f13b7b12aa2217b",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4968950,
+        "known_for_department": "Camera",
+        "name": "Kiran Lilani",
+        "original_name": "Kiran Lilani",
+        "popularity": 0.0304,
+        "profile_path": null,
+        "credit_id": "66f863c7e7d24ebb2ba229db",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4316679,
+        "known_for_department": "Directing",
+        "name": "Joshua Brad-Lee Garrido",
+        "original_name": "Joshua Brad-Lee Garrido",
+        "popularity": 0.288,
+        "profile_path": "/eAILB4iM4B2Qap1odhdJlAZE6Kq.jpg",
+        "credit_id": "66f863dc393cda1d1dcc2955",
+        "department": "Editing",
+        "job": "Additional Editing"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4341340,
+        "known_for_department": "Editing",
+        "name": "Tooba Rahim",
+        "original_name": "Tooba Rahim",
+        "popularity": 0.0507,
+        "profile_path": null,
+        "credit_id": "66f863ea393cda1d1dcc295f",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4316679,
+        "known_for_department": "Directing",
+        "name": "Joshua Brad-Lee Garrido",
+        "original_name": "Joshua Brad-Lee Garrido",
+        "popularity": 0.288,
+        "profile_path": "/eAILB4iM4B2Qap1odhdJlAZE6Kq.jpg",
+        "credit_id": "66f863f5393cda1d1dcc2967",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4968983,
+        "known_for_department": "Editing",
+        "name": "Stephanie van Wijk",
+        "original_name": "Stephanie van Wijk",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "66f86408393cda1d1dcc2977",
+        "department": "Editing",
+        "job": "Color Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3815919,
+        "known_for_department": "Camera",
+        "name": "Tasha Mackenzie",
+        "original_name": "Tasha Mackenzie",
+        "popularity": 0.0771,
+        "profile_path": null,
+        "credit_id": "66f86414393cda1d1dcc297d",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4968985,
+        "known_for_department": "Camera",
+        "name": "Adolfo Bermudez Fernandez",
+        "original_name": "Adolfo Bermudez Fernandez",
+        "popularity": 0.1998,
+        "profile_path": null,
+        "credit_id": "66f8643ee7d24ebb2ba22a0f",
+        "department": "Camera",
+        "job": "BTS Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4968986,
+        "known_for_department": "Camera",
+        "name": "Harmela Atshiba",
+        "original_name": "Harmela Atshiba",
+        "popularity": 0.0426,
+        "profile_path": null,
+        "credit_id": "66f8644d0f6fa2cfce5f4950",
+        "department": "Camera",
+        "job": "BTS Videographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4316679,
+        "known_for_department": "Directing",
+        "name": "Joshua Brad-Lee Garrido",
+        "original_name": "Joshua Brad-Lee Garrido",
+        "popularity": 0.288,
+        "profile_path": "/eAILB4iM4B2Qap1odhdJlAZE6Kq.jpg",
+        "credit_id": "66f8666ce7d24ebb2ba22ad7",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 325795,
+        "name": "dignified"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Two Taekwondo fighters, lifelong friends turned rivals, spend a night at the local dojang before their eventual match.",
+          "runtime": 17,
+          "tagline": "To love me so much it hurts.",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "",
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.675,
+        "height": 2962,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/5OmrYwyS9vXZLkNGzZqcoDzAdKy.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1999
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "10th Festival of Recorded Movement (FORM)",
+            "release_date": "2025-11-15T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "CHONG! HONG!",
+        "key": "HuS8ATj4lRA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Featurette",
+        "official": false,
+        "id": "66f866e4f5d56e9ed8a22525",
+        "published_at": "2024-01-25T05:39:11.000Z"
+      }
+    ]
+  }
+}

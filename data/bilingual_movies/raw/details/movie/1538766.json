@@ -1,0 +1,777 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 5000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 1538766,
+  "imdb_id": null,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Red Herring",
+  "overview": "A local actor turns to detective to solve a murder in the harbor.",
+  "popularity": 1.8627,
+  "poster_path": "/f9nEc1GTq3iY88tXBlmRMv5XiRt.jpg",
+  "production_companies": [
+    {
+      "id": 143645,
+      "logo_path": null,
+      "name": "Basement Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-09-05",
+  "revenue": 0,
+  "runtime": 7,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Something's fishy in Hotsville",
+  "title": "Red Herring",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4606414,
+        "known_for_department": "Directing",
+        "name": "Harrison McGinnis",
+        "original_name": "Harrison McGinnis",
+        "popularity": 0.3128,
+        "profile_path": "/euHyuqj7E64h6K9NGJvZxme8KA3.jpg",
+        "cast_id": 1,
+        "character": "Guy Mann/Dean Gull",
+        "credit_id": "68b3852da5cd9d4e8a9e1960",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4606420,
+        "known_for_department": "Directing",
+        "name": "Jobe Weitzel",
+        "original_name": "Jobe Weitzel",
+        "popularity": 0.0331,
+        "profile_path": "/iLeoo0xItKLoJJGKYGQo4OKQ8XA.jpg",
+        "cast_id": 2,
+        "character": "Camera",
+        "credit_id": "68b38541ca5b10c3cd9e1a88",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4909202,
+        "known_for_department": "Camera",
+        "name": "Callie Thacker",
+        "original_name": "Callie Thacker",
+        "popularity": 0.1923,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Crew 1",
+        "credit_id": "68b385529dc1c57f3bb4ef76",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4669051,
+        "known_for_department": "Acting",
+        "name": "Brady Goddard",
+        "original_name": "Brady Goddard",
+        "popularity": 0.0995,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Crew A",
+        "credit_id": "68b38560682d48bfa31f1e53",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4669046,
+        "known_for_department": "Acting",
+        "name": "Isa McMullen",
+        "original_name": "Isa McMullen",
+        "popularity": 0.1001,
+        "profile_path": "/t5rZQnTPhhJYEeAsjsuyPUpt9AZ.jpg",
+        "cast_id": 5,
+        "character": "Flo Under",
+        "credit_id": "68b385735890b17f293ccd9d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5660694,
+        "known_for_department": "Acting",
+        "name": "Jay Coping-Smith",
+        "original_name": "Jay Coping-Smith",
+        "popularity": 0.1719,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Dr. Manny Ray",
+        "credit_id": "68b385937f29a778253cd50f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4909195,
+        "known_for_department": "Acting",
+        "name": "Demi Napier",
+        "original_name": "Demi Napier",
+        "popularity": 0.2374,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Cierra \"C-Mack\" Mackerel",
+        "credit_id": "68b385aa6e485cb88a3ccc9b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 4669052,
+        "known_for_department": "Directing",
+        "name": "EV Heironimus-Bishop",
+        "original_name": "EV Heironimus-Bishop",
+        "popularity": 0.336,
+        "profile_path": "/lAs7PwAd2rzsU3TDvWFozjGjeQO.jpg",
+        "cast_id": 8,
+        "character": "Dumper 1",
+        "credit_id": "68b385b6a040e6a6c19e18f5",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4669057,
+        "known_for_department": "Acting",
+        "name": "Ben Humphreys",
+        "original_name": "Ben Humphreys",
+        "popularity": 0.0737,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Dumper 2",
+        "credit_id": "68b385c628f491ab513ef9cc",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4606423,
+        "known_for_department": "Production",
+        "name": "Brennan Smith",
+        "original_name": "Brennan Smith",
+        "popularity": 0.5533,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Picketter 1",
+        "credit_id": "68b38605bf4d65d4132006da",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5660698,
+        "known_for_department": "Acting",
+        "name": "Bridget Rajarajan",
+        "original_name": "Bridget Rajarajan",
+        "popularity": 0.3329,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Picketter 2",
+        "credit_id": "68b3861ba55db279eb3ccb96",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5660700,
+        "known_for_department": "Acting",
+        "name": "Kyle Steele",
+        "original_name": "Kyle Steele",
+        "popularity": 0.3778,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Picketter 3",
+        "credit_id": "68b386286a673c67091f21c8",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4682977,
+        "known_for_department": "Production",
+        "name": "Buddi McMullen",
+        "original_name": "Buddi McMullen",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "cast_id": 45,
+        "character": "Understudy",
+        "credit_id": "68b391df84d6596c221f1f25",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4606420,
+        "known_for_department": "Directing",
+        "name": "Jobe Weitzel",
+        "original_name": "Jobe Weitzel",
+        "popularity": 0.0331,
+        "profile_path": "/iLeoo0xItKLoJJGKYGQo4OKQ8XA.jpg",
+        "credit_id": "68b3864becc72f689d3ccdb4",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4606420,
+        "known_for_department": "Directing",
+        "name": "Jobe Weitzel",
+        "original_name": "Jobe Weitzel",
+        "popularity": 0.0331,
+        "profile_path": "/iLeoo0xItKLoJJGKYGQo4OKQ8XA.jpg",
+        "credit_id": "68b386827ddb1b490f200589",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4606423,
+        "known_for_department": "Production",
+        "name": "Brennan Smith",
+        "original_name": "Brennan Smith",
+        "popularity": 0.5533,
+        "profile_path": null,
+        "credit_id": "68b3869d71140ab30954e08a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5660704,
+        "known_for_department": "Production",
+        "name": "Jay Coping-Smth",
+        "original_name": "Jay Coping-Smth",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "68b386b9ca5b10c3cd9e1aa3",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4669057,
+        "known_for_department": "Acting",
+        "name": "Ben Humphreys",
+        "original_name": "Ben Humphreys",
+        "popularity": 0.0737,
+        "profile_path": null,
+        "credit_id": "68b386ca6fd2c411b639782f",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4606423,
+        "known_for_department": "Production",
+        "name": "Brennan Smith",
+        "original_name": "Brennan Smith",
+        "popularity": 0.5533,
+        "profile_path": null,
+        "credit_id": "68b38705ec607674b03977b1",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4669051,
+        "known_for_department": "Acting",
+        "name": "Brady Goddard",
+        "original_name": "Brady Goddard",
+        "popularity": 0.0995,
+        "profile_path": null,
+        "credit_id": "68b38726d9ed94a3f7b4f101",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4669051,
+        "known_for_department": "Acting",
+        "name": "Brady Goddard",
+        "original_name": "Brady Goddard",
+        "popularity": 0.0995,
+        "profile_path": null,
+        "credit_id": "68b38740d8e3857cde3efc7c",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4909202,
+        "known_for_department": "Camera",
+        "name": "Callie Thacker",
+        "original_name": "Callie Thacker",
+        "popularity": 0.1923,
+        "profile_path": null,
+        "credit_id": "68b38754208880d70f3efb3d",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4909202,
+        "known_for_department": "Camera",
+        "name": "Callie Thacker",
+        "original_name": "Callie Thacker",
+        "popularity": 0.1923,
+        "profile_path": null,
+        "credit_id": "68b387680b8a4acea754df56",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4909195,
+        "known_for_department": "Acting",
+        "name": "Demi Napier",
+        "original_name": "Demi Napier",
+        "popularity": 0.2374,
+        "profile_path": null,
+        "credit_id": "68b3878c8a4b2df2a6b4f020",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4909195,
+        "known_for_department": "Acting",
+        "name": "Demi Napier",
+        "original_name": "Demi Napier",
+        "popularity": 0.2374,
+        "profile_path": null,
+        "credit_id": "68b387b602be9ac67f39788c",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 4669052,
+        "known_for_department": "Directing",
+        "name": "EV Heironimus-Bishop",
+        "original_name": "EV Heironimus-Bishop",
+        "popularity": 0.336,
+        "profile_path": "/lAs7PwAd2rzsU3TDvWFozjGjeQO.jpg",
+        "credit_id": "68b387d34c6234278c1f21b0",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4909202,
+        "known_for_department": "Camera",
+        "name": "Callie Thacker",
+        "original_name": "Callie Thacker",
+        "popularity": 0.1923,
+        "profile_path": null,
+        "credit_id": "68b387eb4c6234278c1f21b3",
+        "department": "Editing",
+        "job": "Color Grading"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4669051,
+        "known_for_department": "Acting",
+        "name": "Brady Goddard",
+        "original_name": "Brady Goddard",
+        "popularity": 0.0995,
+        "profile_path": null,
+        "credit_id": "68b3880572909b2f681f1ff3",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4606420,
+        "known_for_department": "Directing",
+        "name": "Jobe Weitzel",
+        "original_name": "Jobe Weitzel",
+        "popularity": 0.0331,
+        "profile_path": "/iLeoo0xItKLoJJGKYGQo4OKQ8XA.jpg",
+        "credit_id": "68b38824350c3eeee5b4f112",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4606420,
+        "known_for_department": "Directing",
+        "name": "Jobe Weitzel",
+        "original_name": "Jobe Weitzel",
+        "popularity": 0.0331,
+        "profile_path": "/iLeoo0xItKLoJJGKYGQo4OKQ8XA.jpg",
+        "credit_id": "68b3884d87660c6344157a3f",
+        "department": "Crew",
+        "job": "Editorial Staff"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4909202,
+        "known_for_department": "Camera",
+        "name": "Callie Thacker",
+        "original_name": "Callie Thacker",
+        "popularity": 0.1923,
+        "profile_path": null,
+        "credit_id": "68b3885b87660c6344157a42",
+        "department": "Crew",
+        "job": "Editorial Staff"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4669051,
+        "known_for_department": "Acting",
+        "name": "Brady Goddard",
+        "original_name": "Brady Goddard",
+        "popularity": 0.0995,
+        "profile_path": null,
+        "credit_id": "68b3886ffae73684bd157af2",
+        "department": "Crew",
+        "job": "Editorial Staff"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4606414,
+        "known_for_department": "Directing",
+        "name": "Harrison McGinnis",
+        "original_name": "Harrison McGinnis",
+        "popularity": 0.3128,
+        "profile_path": "/euHyuqj7E64h6K9NGJvZxme8KA3.jpg",
+        "credit_id": "68b38880a988d733b154e410",
+        "department": "Crew",
+        "job": "Editorial Staff"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5660713,
+        "known_for_department": "Art",
+        "name": "Zane Pinson",
+        "original_name": "Zane Pinson",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "68b3889c9914898fd5397c31",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4909202,
+        "known_for_department": "Camera",
+        "name": "Callie Thacker",
+        "original_name": "Callie Thacker",
+        "popularity": 0.1923,
+        "profile_path": null,
+        "credit_id": "68b388a7a988d733b154e413",
+        "department": "Art",
+        "job": "Prop Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5660698,
+        "known_for_department": "Acting",
+        "name": "Bridget Rajarajan",
+        "original_name": "Bridget Rajarajan",
+        "popularity": 0.3329,
+        "profile_path": null,
+        "credit_id": "68b388c1a2cd776ff33efd04",
+        "department": "Crew",
+        "job": "Catering Head Chef"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4669057,
+        "known_for_department": "Acting",
+        "name": "Ben Humphreys",
+        "original_name": "Ben Humphreys",
+        "popularity": 0.0737,
+        "profile_path": null,
+        "credit_id": "68b388d6047d2ab5bd20093d",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4606420,
+        "known_for_department": "Directing",
+        "name": "Jobe Weitzel",
+        "original_name": "Jobe Weitzel",
+        "popularity": 0.0331,
+        "profile_path": "/iLeoo0xItKLoJJGKYGQo4OKQ8XA.jpg",
+        "credit_id": "68b388e3efe171002ab4f2d7",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4606414,
+        "known_for_department": "Directing",
+        "name": "Harrison McGinnis",
+        "original_name": "Harrison McGinnis",
+        "popularity": 0.3128,
+        "profile_path": "/euHyuqj7E64h6K9NGJvZxme8KA3.jpg",
+        "credit_id": "68b388ef9dc1c57f3bb4ef85",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4669046,
+        "known_for_department": "Acting",
+        "name": "Isa McMullen",
+        "original_name": "Isa McMullen",
+        "popularity": 0.1001,
+        "profile_path": "/t5rZQnTPhhJYEeAsjsuyPUpt9AZ.jpg",
+        "credit_id": "68b388fa0ae3bba9ce54e080",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 4669052,
+        "known_for_department": "Directing",
+        "name": "EV Heironimus-Bishop",
+        "original_name": "EV Heironimus-Bishop",
+        "popularity": 0.336,
+        "profile_path": "/lAs7PwAd2rzsU3TDvWFozjGjeQO.jpg",
+        "credit_id": "68b389044c6234278c1f21cf",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4669051,
+        "known_for_department": "Acting",
+        "name": "Brady Goddard",
+        "original_name": "Brady Goddard",
+        "popularity": 0.0995,
+        "profile_path": null,
+        "credit_id": "68b389140ae3bba9ce54e085",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4909202,
+        "known_for_department": "Camera",
+        "name": "Callie Thacker",
+        "original_name": "Callie Thacker",
+        "popularity": 0.1923,
+        "profile_path": null,
+        "credit_id": "68b389258ccb69538354e09a",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4909195,
+        "known_for_department": "Acting",
+        "name": "Demi Napier",
+        "original_name": "Demi Napier",
+        "popularity": 0.2374,
+        "profile_path": null,
+        "credit_id": "68b389360ae3bba9ce54e08b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4606423,
+        "known_for_department": "Production",
+        "name": "Brennan Smith",
+        "original_name": "Brennan Smith",
+        "popularity": 0.5533,
+        "profile_path": null,
+        "credit_id": "68b389768a4b2df2a6b4f03d",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4682977,
+        "known_for_department": "Production",
+        "name": "Buddi McMullen",
+        "original_name": "Buddi McMullen",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "68b391f0b8a5c0869b20061f",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4606414,
+        "known_for_department": "Directing",
+        "name": "Harrison McGinnis",
+        "original_name": "Harrison McGinnis",
+        "popularity": 0.3128,
+        "profile_path": "/euHyuqj7E64h6K9NGJvZxme8KA3.jpg",
+        "credit_id": "68b3ba366e485cb88a3ccda3",
+        "department": "Crew",
+        "job": "Catering Head Chef"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5660992,
+        "known_for_department": "Production",
+        "name": "Kuzmo McMullen",
+        "original_name": "Kuzmo McMullen",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68b3ba4c8543bbf34d3efdf8",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "A local actor turns to detective to solve a murder in the harbor.",
+          "runtime": 7,
+          "tagline": "Something's fishy in Hotsville",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.754,
+        "height": 1552,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/f9nEc1GTq3iY88tXBlmRMv5XiRt.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1170
+      },
+      {
+        "aspect_ratio": 0.75,
+        "height": 2304,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/bPPpeeuNGRF3NZcsinBqjzbfKQR.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1728
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2025-09-05T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

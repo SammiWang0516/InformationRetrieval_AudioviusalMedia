@@ -1,0 +1,883 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1385217,
+  "imdb_id": "tt32569411",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Combination",
+  "overview": "After an incident at their speakeasy, young bootleggers Isadore “Kid Cann” Blumenfeld and his brother Harry seek representation from esteemed defense attorney Hyman Mendow. Based on a true story.",
+  "popularity": 1.7874,
+  "poster_path": "/rHiuNjmzyBiw7cQgCCmTN8uL5hK.jpg",
+  "production_companies": [
+    {
+      "id": 244296,
+      "logo_path": null,
+      "name": "North Coast Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2025-04-12",
+  "revenue": 0,
+  "runtime": 16,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "THE MAKING OF MINNESOTA'S MOST NOTORIOUS MOBSTER, KID CANN",
+  "title": "The Combination",
+  "video": false,
+  "vote_average": 8.0,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5049580,
+        "known_for_department": "Acting",
+        "name": "Ryan London Levin",
+        "original_name": "Ryan London Levin",
+        "popularity": 0.1686,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Isadore \"Kid Cann\" Blumenfeld",
+        "credit_id": "672fc3693c104d88bdc5a480",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4122328,
+        "known_for_department": "Acting",
+        "name": "Luke LeBrun",
+        "original_name": "Luke LeBrun",
+        "popularity": 0.2691,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Harry Blumenfeld",
+        "credit_id": "672fc378ac970aad2a8d81fe",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5029077,
+        "known_for_department": "Acting",
+        "name": "Troy Antoine LaFaye",
+        "original_name": "Troy Antoine LaFaye",
+        "popularity": 0.1722,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Hyman Mendow",
+        "credit_id": "672fc3893d1b19bf3dbc3c33",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2052994,
+        "known_for_department": "Acting",
+        "name": "Josh Cisewski",
+        "original_name": "Josh Cisewski",
+        "popularity": 0.1584,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Eric",
+        "credit_id": "672fc3a1abe8a0d994a23581",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4138258,
+        "known_for_department": "Acting",
+        "name": "Gael Palen",
+        "original_name": "Gael Palen",
+        "popularity": 0.3205,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Ruth",
+        "credit_id": "672fc3b7c80431f7167c533a",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2862911,
+        "known_for_department": "Acting",
+        "name": "Emily Sue Bengtson",
+        "original_name": "Emily Sue Bengtson",
+        "popularity": 0.197,
+        "profile_path": "/uFkR32pcZtW4MqpPwCM3TTR056h.jpg",
+        "cast_id": 16,
+        "character": "Alice",
+        "credit_id": "672fc3c03c104d88bdc5a4d7",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5049587,
+        "known_for_department": "Acting",
+        "name": "Jonathan Strom",
+        "original_name": "Jonathan Strom",
+        "popularity": 0.2703,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Golden Boy",
+        "credit_id": "672fc4553d1b19bf3dbc3c89",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5049591,
+        "known_for_department": "Acting",
+        "name": "Bryn Soland",
+        "original_name": "Bryn Soland",
+        "popularity": 0.0804,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Betty",
+        "credit_id": "672fc4a0ac970aad2a8d8289",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3152330,
+        "known_for_department": "Acting",
+        "name": "Stephen Hage",
+        "original_name": "Stephen Hage",
+        "popularity": 0.167,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Doorman",
+        "credit_id": "672fc4ae3c104d88bdc5a5b6",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5049638,
+        "known_for_department": "Acting",
+        "name": "Rob Ward",
+        "original_name": "Rob Ward",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 51,
+        "character": "Speakeasy Patron",
+        "credit_id": "672fc8723c104d88bdc5a786",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5049640,
+        "known_for_department": "Acting",
+        "name": "Leah Holmes",
+        "original_name": "Leah Holmes",
+        "popularity": 0.0358,
+        "profile_path": null,
+        "cast_id": 52,
+        "character": "Speakeasy Patron",
+        "credit_id": "672fc8813c104d88bdc5a795",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5049642,
+        "known_for_department": "Acting",
+        "name": "Willie Lundquist",
+        "original_name": "Willie Lundquist",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 53,
+        "character": "Bartender",
+        "credit_id": "672fc88e3d1b19bf3dbc3ce6",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4544849,
+        "known_for_department": "Directing",
+        "name": "Michael Greenberg",
+        "original_name": "Michael Greenberg",
+        "popularity": 0.0991,
+        "profile_path": null,
+        "credit_id": "672fc2913c104d88bdc5a3dd",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4665254,
+        "known_for_department": "Directing",
+        "name": "Michael Greenberg",
+        "original_name": "Michael Greenberg",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "672fc2a93c104d88bdc5a3f1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5049571,
+        "known_for_department": "Writing",
+        "name": "Michael Greenberg",
+        "original_name": "Michael Greenberg",
+        "popularity": 0.1062,
+        "profile_path": null,
+        "credit_id": "672fc2cb3d1b19bf3dbc3b99",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4665254,
+        "known_for_department": "Directing",
+        "name": "Michael Greenberg",
+        "original_name": "Michael Greenberg",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "672fc2d83d1b19bf3dbc3ba1",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5049572,
+        "known_for_department": "Production",
+        "name": "Ethan J. Connor",
+        "original_name": "Ethan J. Connor",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "672fc2e53d1b19bf3dbc3bad",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5049573,
+        "known_for_department": "Production",
+        "name": "Alex Weston",
+        "original_name": "Alex Weston",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "672fc2f9abe8a0d994a23517",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5049575,
+        "known_for_department": "Art",
+        "name": "Alex Weston",
+        "original_name": "Alex Weston",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "672fc3123d1b19bf3dbc3be5",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2883457,
+        "known_for_department": "Production",
+        "name": "Luke Oguamanam",
+        "original_name": "Luke Oguamanam",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "672fc325abe8a0d994a23548",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5049578,
+        "known_for_department": "Directing",
+        "name": "Ashley Gustafson",
+        "original_name": "Ashley Gustafson",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "672fc3413c104d88bdc5a464",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2024285,
+        "known_for_department": "Camera",
+        "name": "Jacob Velander",
+        "original_name": "Jacob Velander",
+        "popularity": 0.0769,
+        "profile_path": null,
+        "credit_id": "672fc351c80431f7167c5331",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4831693,
+        "known_for_department": "Sound",
+        "name": "Mick Lynch",
+        "original_name": "Mick Lynch",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "672fc3ebabe8a0d994a235ad",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4142803,
+        "known_for_department": "Acting",
+        "name": "Erin Pecha",
+        "original_name": "Erin Pecha",
+        "popularity": 0.0592,
+        "profile_path": null,
+        "credit_id": "672fc4023c104d88bdc5a51d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5049604,
+        "known_for_department": "Crew",
+        "name": "Mike Lubke",
+        "original_name": "Mike Lubke",
+        "popularity": 0.1619,
+        "profile_path": null,
+        "credit_id": "672fc5e95a65bb8190dd2f96",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5049605,
+        "known_for_department": "Camera",
+        "name": "Gus Fjelsted",
+        "original_name": "Gus Fjelsted",
+        "popularity": 0.105,
+        "profile_path": null,
+        "credit_id": "672fc5fba71aea7caff9cc79",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5049608,
+        "known_for_department": "Art",
+        "name": "Emilee Pratt",
+        "original_name": "Emilee Pratt",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "672fc60cc31a5dcbb2149118",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5049612,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Michaela Diamond",
+        "original_name": "Michaela Diamond",
+        "popularity": 0.041,
+        "profile_path": null,
+        "credit_id": "672fc65111b6cc0571f630dc",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5049614,
+        "known_for_department": "Lighting",
+        "name": "Colton Fossen",
+        "original_name": "Colton Fossen",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "672fc67611b6cc0571f630ea",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5049617,
+        "known_for_department": "Sound",
+        "name": "Beau Gilles",
+        "original_name": "Beau Gilles",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "672fc68e11b6cc0571f630f8",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3619614,
+        "known_for_department": "Directing",
+        "name": "Bryan Steenerson",
+        "original_name": "Bryan Steenerson",
+        "popularity": 0.3525,
+        "profile_path": null,
+        "credit_id": "672fc6ad11b6cc0571f63102",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5049618,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Alyssa Olsen",
+        "original_name": "Alyssa Olsen",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "672fc6bdac970aad2a8d833c",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2841242,
+        "known_for_department": "Camera",
+        "name": "Max Sjöberg",
+        "original_name": "Max Sjöberg",
+        "popularity": 0.0376,
+        "profile_path": null,
+        "credit_id": "672fc6f5a71aea7caff9ccc2",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5049621,
+        "known_for_department": "Camera",
+        "name": "Jade Chase Jacobus",
+        "original_name": "Jade Chase Jacobus",
+        "popularity": 0.039,
+        "profile_path": null,
+        "credit_id": "672fc704c31a5dcbb2149173",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5049622,
+        "known_for_department": "Camera",
+        "name": "Taylor Mills",
+        "original_name": "Taylor Mills",
+        "popularity": 0.0304,
+        "profile_path": null,
+        "credit_id": "672fc71911b6cc0571f63145",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3544675,
+        "known_for_department": "Camera",
+        "name": "Alexander Hall",
+        "original_name": "Alexander Hall",
+        "popularity": 0.0342,
+        "profile_path": null,
+        "credit_id": "672fc72a11b6cc0571f63152",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5049623,
+        "known_for_department": "Camera",
+        "name": "Hadley Nellis",
+        "original_name": "Hadley Nellis",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "672fc73aabe8a0d994a23637",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3544680,
+        "known_for_department": "Camera",
+        "name": "Marcus Mason",
+        "original_name": "Marcus Mason",
+        "popularity": 0.148,
+        "profile_path": null,
+        "credit_id": "672fc745c31a5dcbb2149194",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5049626,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Tamryn Holdsworth",
+        "original_name": "Tamryn Holdsworth",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "672fc759a71aea7caff9ccd5",
+        "department": "Costume & Make-Up",
+        "job": "Hairdresser"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5049627,
+        "known_for_department": "Camera",
+        "name": "Kish Daniels",
+        "original_name": "Kish Daniels",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "672fc76aac970aad2a8d83ac",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4831688,
+        "known_for_department": "Production",
+        "name": "Kyle Jakub",
+        "original_name": "Kyle Jakub",
+        "popularity": 0.0548,
+        "profile_path": null,
+        "credit_id": "672fc77d3c104d88bdc5a6dc",
+        "department": "Production",
+        "job": "Key Set Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3434260,
+        "known_for_department": "Directing",
+        "name": "Sam Brodsky",
+        "original_name": "Sam Brodsky",
+        "popularity": 0.0656,
+        "profile_path": null,
+        "credit_id": "672fc79f3c104d88bdc5a6ef",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4522160,
+        "known_for_department": "Production",
+        "name": "Patrick Shelton",
+        "original_name": "Patrick Shelton",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "672fc7abc31a5dcbb21491fa",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5049632,
+        "known_for_department": "Production",
+        "name": "Logan Spector",
+        "original_name": "Logan Spector",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "672fc7c511b6cc0571f631e8",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3275804,
+        "known_for_department": "Writing",
+        "name": "Tristan M. Corrigan",
+        "original_name": "Tristan M. Corrigan",
+        "popularity": 0.2452,
+        "profile_path": null,
+        "credit_id": "672fc7d1a71aea7caff9ccfc",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2883457,
+        "known_for_department": "Production",
+        "name": "Luke Oguamanam",
+        "original_name": "Luke Oguamanam",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "672fc7e0abe8a0d994a2368f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5049572,
+        "known_for_department": "Production",
+        "name": "Ethan J. Connor",
+        "original_name": "Ethan J. Connor",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "672fc7edabe8a0d994a23697",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5049575,
+        "known_for_department": "Art",
+        "name": "Alex Weston",
+        "original_name": "Alex Weston",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "672fc8023c104d88bdc5a747",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3034226,
+        "known_for_department": "Directing",
+        "name": "Carlos Omar de Léon",
+        "original_name": "Carlos Omar de Léon",
+        "popularity": 0.5392,
+        "profile_path": null,
+        "credit_id": "672fc822c31a5dcbb2149251",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5049635,
+        "known_for_department": "Production",
+        "name": "Ellie Drews",
+        "original_name": "Ellie Drews",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "672fc847a71aea7caff9cd53",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5049648,
+        "known_for_department": "Camera",
+        "name": "Anna Dusaire",
+        "original_name": "Anna Dusaire",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "672fc9183d1b19bf3dbc3d01",
+        "department": "Camera",
+        "job": "Camera Department Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5049649,
+        "known_for_department": "Camera",
+        "name": "Chan Khang",
+        "original_name": "Chan Khang",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "672fc9273d1b19bf3dbc3d0d",
+        "department": "Camera",
+        "job": "Camera Department Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4126342,
+        "known_for_department": "Production",
+        "name": "Tony Brist",
+        "original_name": "Tony Brist",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "672fc93d3c104d88bdc5a7c1",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5049652,
+        "known_for_department": "Production",
+        "name": "Griffin Gallagher",
+        "original_name": "Griffin Gallagher",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "672fc94cc80431f7167c54a1",
+        "department": "Production",
+        "job": "Production Assistant"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "After an incident at their speakeasy, young bootleggers Isadore “Kid Cann” Blumenfeld and his brother Harry seek representation from esteemed defense attorney Hyman Mendow. Based on a true story.",
+          "runtime": 16,
+          "tagline": "THE MAKING OF MINNESOTA'S MOST NOTORIOUS MOBSTER, KID CANN",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt32569411",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/rHiuNjmzyBiw7cQgCCmTN8uL5hK.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/5WLFcO3uV5JUQKHSszhFrhGU3NV.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Minneapolis St. Paul International Film Festival",
+            "release_date": "2025-04-12T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2025-04-25T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "THE COMBINATION | Short Film | Official Trailer",
+        "key": "FOhT2vr0hg0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "672fc266abe8a0d994a234f6",
+        "published_at": "2024-03-29T16:00:16.000Z"
+      }
+    ]
+  }
+}

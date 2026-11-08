@@ -1,0 +1,199 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 1434950,
+  "imdb_id": null,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Je suis la nuit en plein midi",
+  "overview": "Don Quixote is resurrected in Marseille and sets out to fight fences, gates, private property rights and general segregation with his faithful squire, an ex-criminal pizza delivery man on a scooter.",
+  "popularity": 0.8778,
+  "poster_path": "/3LibxpeVcK3U20BBIuw3PwIynTz.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2025-03-23",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "I Am Night at Noonday",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5330065,
+        "known_for_department": "Acting",
+        "name": "Manolo Bez",
+        "original_name": "Manolo Bez",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Don Quixote / Manolo",
+        "credit_id": "67e465b4b8fc398996108b9a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3154358,
+        "known_for_department": "Acting",
+        "name": "Daniel Saïd",
+        "original_name": "Daniel Saïd",
+        "popularity": 0.0926,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Sancho / Daniel",
+        "credit_id": "67e465daf846794e991088ec",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2364125,
+        "known_for_department": "Production",
+        "name": "Quentin Laurent",
+        "original_name": "Quentin Laurent",
+        "popularity": 0.4361,
+        "profile_path": null,
+        "credit_id": "67b13baa5aca5a71d29f9a2e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1868999,
+        "known_for_department": "Directing",
+        "name": "Gaspard Hirschi",
+        "original_name": "Gaspard Hirschi",
+        "popularity": 0.1222,
+        "profile_path": null,
+        "credit_id": "67e56e7e2580eef1e80057e0",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Don Quixote is resurrected in Marseille and sets out to fight fences, gates, private property rights and general segregation with his faithful squire, an ex-criminal pizza delivery man on a scooter.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "I Am Night at Noonday"
+        }
+      },
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.75,
+        "height": 1500,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/rrBfB8cjGiblSvwiGmtwy8Bb0G8.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1125
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "DK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "fr",
+            "note": "CPH:DOX",
+            "release_date": "2025-03-26T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "fr",
+            "note": "Cinéma du Réel",
+            "release_date": "2025-03-23T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

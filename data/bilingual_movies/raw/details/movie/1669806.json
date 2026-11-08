@@ -1,0 +1,675 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1669806,
+  "imdb_id": "tt32339278",
+  "origin_country": [
+    "PR",
+    "DO"
+  ],
+  "original_language": "es",
+  "original_title": "Sana y salva",
+  "overview": "",
+  "popularity": 0.8823,
+  "poster_path": "/qc2j9JHou7VLe1lw6MFS54lyO4z.jpg",
+  "production_companies": [
+    {
+      "id": 295241,
+      "logo_path": null,
+      "name": "La Maza, CRL",
+      "origin_country": ""
+    },
+    {
+      "id": 295242,
+      "logo_path": null,
+      "name": "Bahía Carey Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PR",
+      "name": "Puerto Rico"
+    },
+    {
+      "iso_3166_1": "DO",
+      "name": "Dominican Republic"
+    }
+  ],
+  "release_date": "2026-01-31",
+  "revenue": 0,
+  "runtime": 112,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Sana y salva",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1098941,
+        "known_for_department": "Acting",
+        "name": "Julietta Rodríguez",
+        "original_name": "Julietta Rodríguez",
+        "popularity": 0.5373,
+        "profile_path": "/5C3E6zlIu7FBZ4tB6mgiBzAaYGz.jpg",
+        "cast_id": 1,
+        "character": "Esther",
+        "credit_id": "69dd337867af8fd45bb65930",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 127245,
+        "known_for_department": "Acting",
+        "name": "Mario Guerra",
+        "original_name": "Mario Guerra",
+        "popularity": 0.2756,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Arcadio",
+        "credit_id": "69dd3388b9b7e801e8c73cd7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1676666,
+        "known_for_department": "Acting",
+        "name": "Héctor Aníbal",
+        "original_name": "Héctor Aníbal",
+        "popularity": 0.2819,
+        "profile_path": "/5PU9da9gJrZFizL0teCm7YCosPT.jpg",
+        "cast_id": 3,
+        "character": "Tato",
+        "credit_id": "69dd339784a2925e17c7371f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1443612,
+        "known_for_department": "Acting",
+        "name": "Laura Gómez",
+        "original_name": "Laura Gómez",
+        "popularity": 0.5954,
+        "profile_path": "/xdZFWQmttxlpG2aKCYdM7PanDZ2.jpg",
+        "cast_id": 4,
+        "character": "La Gobernadora",
+        "credit_id": "69dd33c390394c04df373ac7",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 544439,
+        "known_for_department": "Acting",
+        "name": "Luis Roberto Guzmán",
+        "original_name": "Luis Roberto Guzmán",
+        "popularity": 0.526,
+        "profile_path": "/hNxC4CtRQTR69qvZEzUPO84d7UC.jpg",
+        "cast_id": 5,
+        "character": "Detective Ramon Figueroa",
+        "credit_id": "69dd33d642c5e0c0fc1da039",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64326,
+        "known_for_department": "Acting",
+        "name": "Modesto Lacen",
+        "original_name": "Modesto Lacen",
+        "popularity": 0.4849,
+        "profile_path": "/t6Li2XdnKtTAAec2nlaxbZkGvDZ.jpg",
+        "cast_id": 6,
+        "character": "Detective Catalino Santos",
+        "credit_id": "69dd33e790394c04df373ad8",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 994975,
+        "known_for_department": "Directing",
+        "name": "Israel Lugo",
+        "original_name": "Israel Lugo",
+        "popularity": 0.3499,
+        "profile_path": "/rrk02ShauWloMjgVVtE7NxSRqz2.jpg",
+        "cast_id": 7,
+        "character": "Pastor Brosa",
+        "credit_id": "69dd34038ce4c191fb70af29",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 994573,
+        "known_for_department": "Acting",
+        "name": "René Monclova",
+        "original_name": "René Monclova",
+        "popularity": 0.2001,
+        "profile_path": "/hY43B8OhINFo7e0dbBqoF5ZG8PX.jpg",
+        "cast_id": 8,
+        "character": "Comisionado de la Policia",
+        "credit_id": "69dd3417c31e2c4d19373a92",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2097023,
+        "known_for_department": "Production",
+        "name": "Omar Patin",
+        "original_name": "Omar Patin",
+        "popularity": 0.1901,
+        "profile_path": "/hKT3BwmEFcsDILtVw2paE6SRxND.jpg",
+        "cast_id": 9,
+        "character": "Consul Yurisberto",
+        "credit_id": "69dd34353597fb3728027dc4",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 983710,
+        "known_for_department": "Acting",
+        "name": "Adriana Paz",
+        "original_name": "Adriana Paz",
+        "popularity": 0.7002,
+        "profile_path": "/aUBNKmudV1CCMUHskWemg58vc3n.jpg",
+        "cast_id": 10,
+        "character": "Bienvenida",
+        "credit_id": "69dd34453597fb3728027dc8",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5045679,
+        "known_for_department": "Acting",
+        "name": "Raúl Placido",
+        "original_name": "Raúl Placido",
+        "popularity": 0.1311,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Nando",
+        "credit_id": "69dd34563c54089db5027aba",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1517223,
+        "known_for_department": "Acting",
+        "name": "Néstor Rodulfo",
+        "original_name": "Néstor Rodulfo",
+        "popularity": 0.1977,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Tito",
+        "credit_id": "69dd346525c8892b8c9b8a94",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1717346,
+        "known_for_department": "Acting",
+        "name": "Johan Soto Villarini",
+        "original_name": "Johan Soto Villarini",
+        "popularity": 0.0422,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Choco",
+        "credit_id": "69dd3475ba5eb92b049b89d9",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4050079,
+        "known_for_department": "Acting",
+        "name": "Gabriela Gómez",
+        "original_name": "Gabriela Gómez",
+        "popularity": 0.4099,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Influencer",
+        "credit_id": "6aa784ce18b086798871c287",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1100145,
+        "known_for_department": "Acting",
+        "name": "José Félix Gómez",
+        "original_name": "José Félix Gómez",
+        "popularity": 0.5941,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "",
+        "credit_id": "6aa78aae12b56095cdc1823e",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1326612,
+        "known_for_department": "Acting",
+        "name": "Yamil Collazo",
+        "original_name": "Yamil Collazo",
+        "popularity": 0.202,
+        "profile_path": "/bBhXdd3eT9Hib4lXqbhAYhgfFXH.jpg",
+        "cast_id": 32,
+        "character": "",
+        "credit_id": "6aa78bb0fd85c23445c17fe6",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6477409,
+        "known_for_department": "Acting",
+        "name": "Cristina Sánchez",
+        "original_name": "Cristina Sánchez",
+        "popularity": 0.1536,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Policía",
+        "credit_id": "6aa78c261577829229ecbfd8",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2235472,
+        "known_for_department": "Directing",
+        "name": "Claudia Calderón",
+        "original_name": "Claudia Calderón",
+        "popularity": 0.2132,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Chofer de camión",
+        "credit_id": "6aa78c543deaa6345215a832",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1607753,
+        "known_for_department": "Directing",
+        "name": "Arí Maniel Cruz",
+        "original_name": "Arí Maniel Cruz",
+        "popularity": 0.4305,
+        "profile_path": "/xVPl2FnEroTnAz96hpTI01wwFMv.jpg",
+        "cast_id": 35,
+        "character": "Locutor (voz)",
+        "credit_id": "6aa84ed4dfb136b5015aa94d",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6481323,
+        "known_for_department": "Acting",
+        "name": "José Antonio “Titito” Sánchez Vega",
+        "original_name": "José Antonio “Titito” Sánchez Vega",
+        "popularity": 0.5046,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "",
+        "credit_id": "6aa9e78c174af3f6199be6e6",
+        "order": 19
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1607753,
+        "known_for_department": "Directing",
+        "name": "Arí Maniel Cruz",
+        "original_name": "Arí Maniel Cruz",
+        "popularity": 0.4305,
+        "profile_path": "/xVPl2FnEroTnAz96hpTI01wwFMv.jpg",
+        "credit_id": "69dd34b489fadc1d2a373f17",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1607753,
+        "known_for_department": "Directing",
+        "name": "Arí Maniel Cruz",
+        "original_name": "Arí Maniel Cruz",
+        "popularity": 0.4305,
+        "profile_path": "/xVPl2FnEroTnAz96hpTI01wwFMv.jpg",
+        "credit_id": "69dd34c6132842759537388f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56515,
+        "known_for_department": "Production",
+        "name": "Julio Caro",
+        "original_name": "Julio Caro",
+        "popularity": 0.0754,
+        "profile_path": null,
+        "credit_id": "69dd351c3820cd63fd027f67",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1651947,
+        "known_for_department": "Writing",
+        "name": "Gustavo Ramos Perales",
+        "original_name": "Gustavo Ramos Perales",
+        "popularity": 0.1917,
+        "profile_path": null,
+        "credit_id": "69dd352d146093481b02800b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3583311,
+        "known_for_department": "Production",
+        "name": "Lizaida Rivera",
+        "original_name": "Lizaida Rivera",
+        "popularity": 0.0685,
+        "profile_path": null,
+        "credit_id": "69dd353b4efd3eecbd1da1a9",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1607753,
+        "known_for_department": "Directing",
+        "name": "Arí Maniel Cruz",
+        "original_name": "Arí Maniel Cruz",
+        "popularity": 0.4305,
+        "profile_path": "/xVPl2FnEroTnAz96hpTI01wwFMv.jpg",
+        "credit_id": "69dd35493affd40e73b65c39",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4641003,
+        "known_for_department": "Production",
+        "name": "Yvette Marichal",
+        "original_name": "Yvette Marichal",
+        "popularity": 0.0686,
+        "profile_path": null,
+        "credit_id": "69dd355c90394c04df373af9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1098941,
+        "known_for_department": "Acting",
+        "name": "Julietta Rodríguez",
+        "original_name": "Julietta Rodríguez",
+        "popularity": 0.5373,
+        "profile_path": "/5C3E6zlIu7FBZ4tB6mgiBzAaYGz.jpg",
+        "credit_id": "69dd35691723e17578358c41",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6139705,
+        "known_for_department": "Crew",
+        "name": "Santiago Benet Mari",
+        "original_name": "Santiago Benet Mari",
+        "popularity": 0.2032,
+        "profile_path": null,
+        "credit_id": "69dd3585ef7501e5271da501",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1617044,
+        "known_for_department": "Editing",
+        "name": "Andrei Nemcik",
+        "original_name": "Andrei Nemcik",
+        "popularity": 0.3812,
+        "profile_path": null,
+        "credit_id": "69dd35910bfdd4e9f2b65b7f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6139709,
+        "known_for_department": "Production",
+        "name": "Joel Polanco",
+        "original_name": "Joel Polanco",
+        "popularity": 0.282,
+        "profile_path": null,
+        "credit_id": "69dd35a18a12ffe9f9358fc5",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1617049,
+        "known_for_department": "Art",
+        "name": "Mayna Magruder",
+        "original_name": "Mayna Magruder",
+        "popularity": 0.1766,
+        "profile_path": null,
+        "credit_id": "69dd35b1ef7501e5271da509",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4309335,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Alina Julia",
+        "original_name": "Alina Julia",
+        "popularity": 0.4898,
+        "profile_path": null,
+        "credit_id": "69dd35c4df13ac78c5359111",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5997641,
+        "known_for_department": "Directing",
+        "name": "Sebastian André Cruz",
+        "original_name": "Sebastian André Cruz",
+        "popularity": 0.4993,
+        "profile_path": null,
+        "credit_id": "69dd35e4df13ac78c535911f",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4959721,
+        "known_for_department": "Directing",
+        "name": "Daniela López-Monteiro",
+        "original_name": "Daniela López-Monteiro",
+        "popularity": 0.526,
+        "profile_path": null,
+        "credit_id": "69dd35ffc657ae210e1d9452",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6139713,
+        "known_for_department": "Directing",
+        "name": "Iván Rodríguez",
+        "original_name": "Iván Rodríguez",
+        "popularity": 0.3112,
+        "profile_path": null,
+        "credit_id": "69dd36161f8fd7a771d939dc",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1334178,
+        "known_for_department": "Production",
+        "name": "Miguel Fernandez",
+        "original_name": "Miguel Fernandez",
+        "popularity": 0.3068,
+        "profile_path": null,
+        "credit_id": "6acd2e9d88b8a4cfa2695570",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "MX",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Esther, una inmigrante dominicana embarazada, llega clandestinamente a Puerto Rico y se convierte en el blanco de las autoridades. En su huida, cruza con Arcadio, un hombre con limitaciones intelectuales pero un corazón tan vasto como la isla.",
+          "runtime": 112,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 112,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt32339278",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "DO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "Festival de Cine Global Santo Domingo",
+            "release_date": "2026-01-31T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "IFF Panama 2026",
+            "release_date": "2026-04-11T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PR",
+        "release_dates": [
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-08-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

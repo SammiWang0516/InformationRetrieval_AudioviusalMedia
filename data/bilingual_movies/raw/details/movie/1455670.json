@@ -1,0 +1,963 @@
+{
+  "adult": false,
+  "backdrop_path": "/7jkZ9kLCeBwRq0ehyvYENlYNy0.jpg",
+  "belongs_to_collection": null,
+  "budget": 10000000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "https://www.studio100film.com/en/catalog/north/",
+  "id": 1455670,
+  "imdb_id": "tt35485979",
+  "origin_country": [
+    "NO"
+  ],
+  "original_language": "no",
+  "original_title": "Reisen mot Nord",
+  "overview": "Young Gerda sets off into the great unknown in search of her friend Kai, who has mysteriously vanished.",
+  "popularity": 1.4521,
+  "poster_path": "/dmZICQpB4Q1LWLjilfrnqe2owMq.jpg",
+  "production_companies": [
+    {
+      "id": 11851,
+      "logo_path": "/vSYOpJKsujv4m2jSSeFUILOc5F1.png",
+      "name": "Anima Vitae",
+      "origin_country": "FI"
+    },
+    {
+      "id": 257800,
+      "logo_path": null,
+      "name": "PictoryLand",
+      "origin_country": ""
+    },
+    {
+      "id": 228438,
+      "logo_path": "/teXH90pELwook8mijvhbVZIB8Zx.png",
+      "name": "Studio 100 Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NO",
+      "name": "Norway"
+    }
+  ],
+  "release_date": "2025-11-07",
+  "revenue": 0,
+  "runtime": 85,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "An epic journey of friendship.",
+  "title": "North",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1019,
+        "known_for_department": "Acting",
+        "name": "Mads Mikkelsen",
+        "original_name": "Mads Mikkelsen",
+        "popularity": 5.3672,
+        "profile_path": "/AsX4bdvZ8UCayWTmAf9lAqOA8V7.jpg",
+        "cast_id": 14,
+        "character": "Severin (voice)",
+        "credit_id": "69060ace782a47ddaf472379",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2209022,
+        "known_for_department": "Acting",
+        "name": "Reyna Amaya",
+        "original_name": "Reyna Amaya",
+        "popularity": 0.0646,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Snow Queen (voice)",
+        "credit_id": "69bd91309dd7605fd584f8b9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5334007,
+        "known_for_department": "Acting",
+        "name": "Jennifer Lynn Wilson",
+        "original_name": "Дженнифер Линн Уилсон",
+        "popularity": 0.1057,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Gerda (voice)",
+        "credit_id": "69bd96b9e6f7720ef8677dfa",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5334009,
+        "known_for_department": "Acting",
+        "name": "RJ Navarra Balde",
+        "original_name": "RJ Balde",
+        "popularity": 0.0518,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Sampo",
+        "credit_id": "67e6f50dfa4b524e04767eb3",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4346119,
+        "known_for_department": "Acting",
+        "name": "Charlie Bauer",
+        "original_name": "Charlie Bauer",
+        "popularity": 0.3411,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Policeman 1 & 2",
+        "credit_id": "67e6f632f5b55956d6494dc5",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146118,
+        "known_for_department": "Acting",
+        "name": "Kåre Conradi",
+        "original_name": "Kåre Conradi",
+        "popularity": 0.785,
+        "profile_path": "/mcoVhZXHYSBsonlinwUmRAk15Sm.jpg",
+        "cast_id": 15,
+        "character": "Kais pappa",
+        "credit_id": "69060d195f76f63c4c080f19",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2553884,
+        "known_for_department": "Acting",
+        "name": "Aslak Maurstad",
+        "original_name": "Aslak Maurstad",
+        "popularity": 0.1444,
+        "profile_path": "/mMSmQeMehUpnU6Rq50WGYiEKgNb.jpg",
+        "cast_id": 16,
+        "character": "Ludvig",
+        "credit_id": "69060d2583237f8d554724e9",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5788937,
+        "known_for_department": "Acting",
+        "name": "Hennie Vanay-Almaas",
+        "original_name": "Hennie Vanay-Almaas",
+        "popularity": 0.4786,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Gerda",
+        "credit_id": "69060d526b9e5ac6bd4c7fb0",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1151227,
+        "known_for_department": "Acting",
+        "name": "Erik Hivju",
+        "original_name": "Erik Hivju",
+        "popularity": 0.4838,
+        "profile_path": "/9CdMaQJJMywkM51cvhJM7VMxN84.jpg",
+        "cast_id": 18,
+        "character": "",
+        "credit_id": "69060d7fbb0103f387080fae",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1409515,
+        "known_for_department": "Acting",
+        "name": "Suzanne Paalgard",
+        "original_name": "Suzanne Paalgard",
+        "popularity": 0.1868,
+        "profile_path": "/maDJlQQFb39y2GxigHuG0prTtXf.jpg",
+        "cast_id": 19,
+        "character": "",
+        "credit_id": "69060dc0769fb3352ee12692",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6085031,
+        "known_for_department": "Acting",
+        "name": "Katrine Blomstrand",
+        "original_name": "Katrine Blomstrand",
+        "popularity": 0.0798,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Snødronningen",
+        "credit_id": "69bd91bc94f4a6a993677df9",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6085033,
+        "known_for_department": "Acting",
+        "name": "Kasper Holt Ekeberg",
+        "original_name": "Kasper Holt Ekeberg",
+        "popularity": 0.1151,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Kai",
+        "credit_id": "69bd91ce2ed18b4670677dd3",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6085034,
+        "known_for_department": "Acting",
+        "name": "Camilla Vandvik Leira",
+        "original_name": "Camilla Vandvik Leira",
+        "popularity": 0.0969,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Lilly",
+        "credit_id": "69bd91e2699e9d4ce53550d9",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2868882,
+        "known_for_department": "Production",
+        "name": "Bente Lohne",
+        "original_name": "Bente Lohne",
+        "popularity": 0.1607,
+        "profile_path": null,
+        "credit_id": "67e6f518f5b55956d6494d3f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2868882,
+        "known_for_department": "Production",
+        "name": "Bente Lohne",
+        "original_name": "Bente Lohne",
+        "popularity": 0.1607,
+        "profile_path": null,
+        "credit_id": "67e6f5222e72ba2f7625d1a8",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12896,
+        "known_for_department": "Production",
+        "name": "Ralph Guggenheim",
+        "original_name": "Ralph Guggenheim",
+        "popularity": 0.306,
+        "profile_path": "/3XhuBjcdE9hRZGQ4GyJ6h0mObig.jpg",
+        "credit_id": "67e6f52ef5b55956d6494d4c",
+        "department": "Production",
+        "job": "Consulting Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1671794,
+        "known_for_department": "Production",
+        "name": "Häkon Gundersen",
+        "original_name": "Häkon Gundersen",
+        "popularity": 0.1402,
+        "profile_path": null,
+        "credit_id": "67e6f539fa4b524e04767ec3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1731334,
+        "known_for_department": "Sound",
+        "name": "Raymond Enoksen",
+        "original_name": "Raymond Enoksen",
+        "popularity": 0.157,
+        "profile_path": "/mMFgbgLwgb6Eupme3syFPtAjdHE.jpg",
+        "credit_id": "67e6f543fa4b524e04767ec7",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3761286,
+        "known_for_department": "Sound",
+        "name": "Eirik Mordal",
+        "original_name": "Eirik Mordal",
+        "popularity": 0.1507,
+        "profile_path": null,
+        "credit_id": "67e6f5532e72ba2f7625d1ba",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5334012,
+        "known_for_department": "Sound",
+        "name": "Mikkel Bøe Andersen",
+        "original_name": "Mikkel Bøe Andersen",
+        "popularity": 0.1535,
+        "profile_path": null,
+        "credit_id": "67e6f5612e72ba2f7625d1c4",
+        "department": "Sound",
+        "job": "Orchestrator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 63977,
+        "known_for_department": "Writing",
+        "name": "Hans Christian Andersen",
+        "original_name": "Hans Christian Andersen",
+        "popularity": 0.708,
+        "profile_path": "/mPcnsRCgqkMT0NfrrNdHUMwl7IN.jpg",
+        "credit_id": "67e6f71efa4b524e04767fa6",
+        "department": "Writing",
+        "job": "Story"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "RU",
+        "iso_639_1": "ru",
+        "name": "Pусский",
+        "english_name": "Russian",
+        "data": {
+          "homepage": "",
+          "overview": "Юная Герда отправляется в неизведанное путешествие на поиски Кая, который таинственно исчез.",
+          "runtime": 85,
+          "tagline": "",
+          "title": "Кай и Герда: Путешествие к Снежной королеве"
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "https://www.studio100film.com/en/catalog/north/",
+          "overview": "Young Gerda sets off into the great unknown in search of her friend Kai, who has mysteriously vanished.",
+          "runtime": 85,
+          "tagline": "An epic journey of friendship.",
+          "title": "North"
+        }
+      },
+      {
+        "iso_3166_1": "UA",
+        "iso_639_1": "uk",
+        "name": "Український",
+        "english_name": "Ukrainian",
+        "data": {
+          "homepage": "",
+          "overview": "Юна Герда вирушає у невідоме на пошуки свого друга Кая, який таємничим чином зник. Під час своєї подорожі Герда заводить дружбу з птахами, звірами та доброю відьмою. І зовсім не підозрює, що за нею спостерігає Снігова королева та її учень. Зла королева тримає Кая в полоні у своєму крижаному палаці на півночі. Разом Герда та Кай вириваються з її пазурів та повертаються додому на найвеселіші зимові канікули.",
+          "runtime": 85,
+          "tagline": "",
+          "title": "Снігова королева"
+        }
+      },
+      {
+        "iso_3166_1": "KR",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말",
+        "english_name": "Korean",
+        "data": {
+          "homepage": "",
+          "overview": "단짝 친구 ‘카이’와 함께 즐거운 나날을 보내던 소녀 ‘게르다’. 어느 날, ‘얼음 여왕’이 나타나 카이를 미지의 북극 세계로 데려간다. 카이를 구하기 위해 북쪽으로 출발한 게르다는 거센 눈보라와 사악한 마법이 도사리는 여행길에서 끊임없이 용기를 시험 받는데…",
+          "runtime": 90,
+          "tagline": "사악한 마법을 멈추고 친구를 구하라!",
+          "title": "얼음 여왕"
+        }
+      },
+      {
+        "iso_3166_1": "HR",
+        "iso_639_1": "hr",
+        "name": "Hrvatski",
+        "english_name": "Croatian",
+        "data": {
+          "homepage": "",
+          "overview": "U srcu ledene Norveške, gdje snijeg skriva i čuva tajne svijeta, djevojčica Gerda kreće na hrabro putovanje kako bi pronašla svog nestalog prijatelja Kaija - ne sluteći da ju iz sjenke promatra moćna Snježna kraljica i njezin zlokobni pomoćnik Louie. Na putu punom izazova i čuda, Gerda pronalazi neočekivane saveznike: gusku, konja, soba i dobrodušnu vješticu, a svaki korak vodi je bliže snijegom prekrivenom dvorcu u kojem Kai čeka svoje spasenje.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Božićna čarolija sjevera"
+        }
+      },
+      {
+        "iso_3166_1": "LT",
+        "iso_639_1": "lt",
+        "name": "Lietuvių",
+        "english_name": "Lithuanian",
+        "data": {
+          "homepage": "",
+          "overview": "Vieną šaltą žiemos dieną paslaptingai dingsta Gerdos geriausias draugas Kajus. Mažos mergaitės širdelė kupina vilties – reikia paskubėti ir tada tikrai pavyks jį rasti! Atsisveikinusi su savo kačiuku, parašiusi laišką mamai ir močiutei ji leidžiasi į nepaprastai pavojingą kelionę per snieguotus kalnus, ledines upes ir paslaptingus miškus į visišką nežinią tolimosios šiaurės link... Kiekvienas žingsnis tolyn veda į šaltesnį ir pavojingesnį pasaulį, paslaptingos jėgos nuolat stengiasi sustabdyti mažąją keliautoją, bet ji pasiryžusi nepasiduoti.",
+          "runtime": 85,
+          "tagline": "",
+          "title": "Sniego karalienė: Šiaurės pasaka"
+        }
+      },
+      {
+        "iso_3166_1": "LV",
+        "iso_639_1": "lv",
+        "name": "Latviešu",
+        "english_name": "Latvian",
+        "data": {
+          "homepage": "",
+          "overview": "Kādā aukstā ziemas dienā noslēpumaini pazūd Gerdas labākais draugs Kajs. Meitenītes sirds ir cerību pilna – viņai jāpasteidzas, un gan viņa draugu atradīs! Gerda atvadās no sava kaķēna, atstāj vēstuli mammai un vecmammai un dodas bīstamā ceļojumā pāri sniegotiem kalniem, aizsalušām upēm un noslēpumainiem mežiem pretī nezināmajiem un tālajiem ziemeļiem… Ar katru soli viņa nonāk arvien aukstākā un bīstamākā pasaulē. Noslēpumaini spēki cenšas apturēt drosmīgo ceļotāju, bet viņa ir nolēmusi nepadoties.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Sniega karaliene: Ziemeļu pasaka"
+        }
+      },
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "",
+          "overview": "Eines Tages macht sich die junge Gerda auf, um ihren Freund Kay zu suchen. Mutig bricht sie alleine auf in ein großes Abenteuer – denn Kay wurde von der mächtigen Schneekönigin entführt. Die Schneekönigin hält Kay gefangen in einem Palast aus Eis, hoch oben im kalten Norden Norwegens. Auf ihrer Reise dorthin begegnet Gerda ungewöhnlichen Gefährten. Und zum Glück hat Gerda auch eine unsichtbare, himmlische Begleiterin. Gemeinsam stellen sie sich der dunklen Bedrohung, die im Verborgenen lauert – der eiskalten Schneekönigin und ihrem finsteren Gehilfen. Mit Herz, Mut – und dem allumfassenden Gefühl, wohlbehütet zu sein – gelingt es Gerda, Kay zu befreien. Und gerade noch rechtzeitig kehren sie zurück – zum fröhlichsten Fest des Jahres.",
+          "runtime": 86,
+          "tagline": "",
+          "title": "Im Bann der Schneekönigin"
+        }
+      },
+      {
+        "iso_3166_1": "BG",
+        "iso_639_1": "bg",
+        "name": "български език",
+        "english_name": "Bulgarian",
+        "data": {
+          "homepage": "",
+          "overview": "Малката Герда и най-добрият ѝ приятел Кай живеят в две съседни тавански жилища високо над заснежените улици на Копенхаген. Един прекрасен зимен ден пакостливият Кай завързва новата си шейна за каляската на мистериозна дама, а миг по-късно изчезва безследно. Всички са сигурни, че той е загинал, но Герда отказва да повярва. Тя е убедена, че нейният приятел е жив и е в беда.  Безстрашното момиче е твърдо решено да намери Кай и да го спаси. То тръгва на дълго и опасно пътешествие през ледените земи на Севера, в търсене на мистериозната Снежна кралица. Водена от своята решителност, смелост и вяра в приятелството и с тайната помощ на малък ангел пазител, Герда се изправя срещу магии и странни създания, бързайки да стигне до Кай преди да настъпи Зимното слънцестоене.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Снежанка"
+        }
+      },
+      {
+        "iso_3166_1": "GR",
+        "iso_639_1": "el",
+        "name": "ελληνικά",
+        "english_name": "Greek",
+        "data": {
+          "homepage": "",
+          "overview": "Η μικρή Γκέρντα και ο αγαπημένος της φίλος, Κάι, μένουν σε διπλανά σπίτια. Όταν ο Κάι βρίσκει στο εργαστήριο του μπαμπά του το τέλειο δώρο, ένα ολοκαίνουριο, γυαλιστερό πράσινο έλκηθρο, η χαρά του είναι τόσο μεγάλη που δεν μπορεί να περιμένει. Αποφασίζει να κάνει μια βόλτα κρυφά, δένοντας το έλκηθρό του πίσω από μια εντυπωσιακή, γαλάζια άμαξα που περνάει τυχαία, για να τσουλήσει γρήγορα στο χιόνι.\r Αυτό που ξεκίνησε όμως σαν παιχνίδι, σύντομα θα γίνει μια μεγάλη περιπέτεια, μια και η άμαξα, που ανήκει στην μυστηριώδη Βασίλισσα του Χιονιού, θα παρασύρει τον μικρό Κάι στο παγωμένο Βασίλειο του Βορρά και στα σκοτεινά σχέδιά της.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Οι Φύλακες του Χιονιού"
+        }
+      },
+      {
+        "iso_3166_1": "DK",
+        "iso_639_1": "da",
+        "name": "Dansk",
+        "english_name": "Danish",
+        "data": {
+          "homepage": "",
+          "overview": "Fortæller historien om den unge Gerda, der drager gennem et magisk, sneklædt Skandinavien for at redde sin bedste ven. Undervejs møder hun forunderlige skabninger, en god heks og en trussel i det skjulte: Snedronningen og hendes mørke lærling Louie.",
+          "runtime": 86,
+          "tagline": "",
+          "title": "Rejsen mod nord"
+        }
+      },
+      {
+        "iso_3166_1": "TW",
+        "iso_639_1": "zh",
+        "name": "普通话",
+        "english_name": "Mandarin",
+        "data": {
+          "homepage": "",
+          "overview": "葛妲為了尋找突然失蹤的好友凱伊，勇敢踏上未知的旅程。一路上，她遇見了一隻鵝、一匹馬、一頭馴鹿，以及一位善良的女巫，卻不知自己正被敵人窺視。冰雪壞皇后與她的石像鬼徒弟路易早已盯上她。原來，凱伊被冰雪壞皇后擄走，囚禁在遙遠北國的冰宮之中。葛妲最終能否與凱伊攜手逃出險境，趕在聖誕節之前回到家園呢？",
+          "runtime": 0,
+          "tagline": "",
+          "title": "冰雪壞皇后"
+        }
+      },
+      {
+        "iso_3166_1": "SE",
+        "iso_639_1": "sv",
+        "name": "svenska",
+        "english_name": "Swedish",
+        "data": {
+          "homepage": "",
+          "overview": "När Gerdas bästa vän försvinner, ger hon sig modigt ut på en resa genom snötäckta landskap och förtrollade skogar för att hitta honom. På vägen möter hon både vänliga människor, talande djur och en häxa – men också faror som lurar i skuggorna.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Nord"
+        }
+      },
+      {
+        "iso_3166_1": "EE",
+        "iso_639_1": "et",
+        "name": "Eesti",
+        "english_name": "Estonian",
+        "data": {
+          "homepage": "",
+          "overview": "„Lumekuninganna: Põhjala lugu“ – maagiline, imeline ja talvine animatsioon kogu perele. Hans Christian Anderseni muinasjutust inspireeritud film on loodud animaatorite poolt, kes on töötanud legendaarse „Lelulugu” ja teiste projektide juures, See on erakordne teekond lummavasse maailma, kus julgus, sõprus ja armastus võidavad isegi kõige tugevamad loitsud.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Lumekuninganna: Põhjala lugu"
+        }
+      },
+      {
+        "iso_3166_1": "CN",
+        "iso_639_1": "zh",
+        "name": "普通话",
+        "english_name": "Mandarin",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": "冰雪坏皇后"
+        }
+      },
+      {
+        "iso_3166_1": "PT",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "homepage": "",
+          "overview": "A jovem Gerda parte rumo ao grande desconhecido em busca do seu amigo Kai, que desapareceu misteriosamente.",
+          "runtime": 85,
+          "tagline": "",
+          "title": "Pólo Norte - A Descoberta do Natal"
+        }
+      },
+      {
+        "iso_3166_1": "CZ",
+        "iso_639_1": "cs",
+        "name": "Český",
+        "english_name": "Czech",
+        "data": {
+          "homepage": "",
+          "overview": "Malá Gerda se vydává na dobrodružnou cestu do neznáma, aby našla svého nejlepšího přítele Kaie, který beze stopy zmizel. Během své pouti potkává nejen přátelské lidi a zvířátka, ale i prohnanou čarodějnici. A ani netuší, že ji tajně sleduje mocná a chladná nepřítelkyně: Sněhová královna a její děsivý učedník Louie. Kai je uvězněn v ledovém paláci hluboko na severu, v norském Finnmarku. Podaří se Gerdě čelit nástrahám kruté zimy, zlým kouzlům a zachránit Kaie? A bude jejich návrat domů skutečně tím nejkouzelnějším vánočním zázrakem?",
+          "runtime": 0,
+          "tagline": "Magická cesta odvahy a přátelství",
+          "title": "Severní pohádka"
+        }
+      },
+      {
+        "iso_3166_1": "HU",
+        "iso_639_1": "hu",
+        "name": "Magyar",
+        "english_name": "Hungarian",
+        "data": {
+          "homepage": "",
+          "overview": "Amikor Gerda legjobb barátja, Kai rejtélyes módon eltűnik, a lány nem hajlandó belenyugodni a veszteségbe, és útnak indul a messzi, ismeretlen észak felé, hogy megtalálja őt. Varázslatos téli tájakon, erdőkön és veszélyekkel teli vidékeken halad át, miközben különös segítőtársakra lel emberek, állatok és egy jóságos boszorkány személyében. Gerda azonban nem sejti, hogy útját a háttérből a gonosz Hókirálynő és szolgája figyeli, akik Kai-t egy jeges palotában tartják fogva Norvégia fagyos északi részén. A bátor kislánynak minden erejére, hitére és új barátai segítségére szüksége lesz, hogy szembeszálljon a Hókirálynővel, kiszabadítsa Kai-t, és még időben hazatérjenek a tél legboldogabb ünnepére. (Csillag Lajos)  ✦ Revan ✦",
+          "runtime": 0,
+          "tagline": "",
+          "title": "A hókirálynő"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "PT",
+        "title": "Pólo Norte - A Descoberta do Natal",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AZ",
+        "title": "Şimal",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt35485979",
+    "wikidata_id": "Q136412875",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/7jkZ9kLCeBwRq0ehyvYENlYNy0.jpg",
+        "vote_average": 0.0,
+        "vote_count": 1,
+        "width": 1920
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/dmZICQpB4Q1LWLjilfrnqe2owMq.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 2048,
+        "iso_3166_1": "TW",
+        "iso_639_1": "zh",
+        "file_path": "/rEqRD6B7HoNMFhYFJNmoeb5lLDQ.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1365
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/19BSgxy15tfcG9RWhP3DgO5FhP4.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.705,
+        "height": 1200,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/9BiMZs7ARMsHPfPUBzOn1HIBp9G.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 846
+      },
+      {
+        "aspect_ratio": 0.708,
+        "height": 751,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/sp0zSINZ00YRnZHnw9XKbODhddf.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 532
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Children’s International Film Festival",
+            "release_date": "2026-06-27T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BG",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-23T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CZ",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-11-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-04T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "7",
+            "descriptors": [],
+            "iso_639_1": "da",
+            "note": "",
+            "release_date": "2026-02-16T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "EE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-11-07T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Cannes Film Festival",
+            "release_date": "2025-05-13T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-22T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-11T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "ALL",
+            "descriptors": [],
+            "iso_639_1": "ko",
+            "note": "",
+            "release_date": "2026-01-28T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LT",
+        "release_dates": [
+          {
+            "certification": "V",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-11-07T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "V",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "ŽMONĖS Cinema",
+            "release_date": "2026-02-19T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NO",
+        "release_dates": [
+          {
+            "certification": "6",
+            "descriptors": [],
+            "iso_639_1": "no",
+            "note": "",
+            "release_date": "2025-11-07T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-12-10T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-07-09T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Göteborg Film Festival Prisma",
+            "release_date": "2025-10-25T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-11-07T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-13T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "UA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-12-11T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Winter Trailer",
+        "key": "Ld6vfl_49co",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6a90c2e9dfbbeca405770c18",
+        "published_at": "2025-10-31T11:59:01.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer",
+        "key": "i0hTaTpjqiE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "67e6f6f2fa4b524e04767f81",
+        "published_at": "2025-02-11T16:25:10.000Z"
+      }
+    ]
+  }
+}

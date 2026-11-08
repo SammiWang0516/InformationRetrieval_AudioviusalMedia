@@ -1,0 +1,595 @@
+{
+  "adult": false,
+  "backdrop_path": "/cOVJSLVMNFYRnq5TGKnEBTNYNo5.jpg",
+  "belongs_to_collection": null,
+  "budget": 1000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1717271,
+  "imdb_id": null,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "ca",
+  "original_title": "MIRA PAPÁ!",
+  "overview": "",
+  "popularity": 0.8598,
+  "poster_path": "/3q8flnNoiBuzggPiNaIJV1cv5BZ.jpg",
+  "production_companies": [
+    {
+      "id": 302058,
+      "logo_path": null,
+      "name": "Barranco Amarillo",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2026-06-15",
+  "revenue": 1000,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "MIRA PAPÁ!",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1255481,
+        "known_for_department": "Acting",
+        "name": "Marc Balaguer",
+        "original_name": "Marc Balaguer",
+        "popularity": 0.3244,
+        "profile_path": "/sB2DoLvsdIjq6yGf5YsjeOS3C81.jpg",
+        "cast_id": 1,
+        "character": "Filip Bosch",
+        "credit_id": "6a35012f85bc9a1593bf92f7",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1799969,
+        "known_for_department": "Acting",
+        "name": "Rubén Ametllé",
+        "original_name": "Rubén Ametllé",
+        "popularity": 0.1186,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Entrenador",
+        "credit_id": "6a3501497474ec5f2650dd60",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6295504,
+        "known_for_department": "Acting",
+        "name": "Quirze Casas",
+        "original_name": "Quirze Casas",
+        "popularity": 0.0659,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Filip Bosch",
+        "credit_id": "6a35015fce568982d428ddf7",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2707810,
+        "known_for_department": "Acting",
+        "name": "Alejandro Toro Cuenca",
+        "original_name": "Alejandro Toro Cuenca",
+        "popularity": 0.3276,
+        "profile_path": "/84Cw9AvEcPkOIcEm7DeRc7PhTL7.jpg",
+        "cast_id": 4,
+        "character": "Pare",
+        "credit_id": "6a350173d465bdfc00f5c4cb",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6295507,
+        "known_for_department": "Directing",
+        "name": "Blanca Borrell",
+        "original_name": "Blanca Borrell",
+        "popularity": 0.0621,
+        "profile_path": null,
+        "credit_id": "6a35019a2a4a1005a250df22",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6295513,
+        "known_for_department": "Production",
+        "name": "Alvar Madrid",
+        "original_name": "Alvar Madrid",
+        "popularity": 0.1578,
+        "profile_path": null,
+        "credit_id": "6a3501cd9b5e40ca603d978a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 6295514,
+        "known_for_department": "Directing",
+        "name": "Alvar Madrid",
+        "original_name": "Alvar Madrid",
+        "popularity": 0.1612,
+        "profile_path": null,
+        "credit_id": "6a3501fdce568982d428de0c",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 6295521,
+        "known_for_department": "Production",
+        "name": "Carlos Soto",
+        "original_name": "Carlos Soto",
+        "popularity": 0.1148,
+        "profile_path": null,
+        "credit_id": "6a3502d4f50a06bf7d3d96f7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 6295522,
+        "known_for_department": "Production",
+        "name": "Blanca Borrell",
+        "original_name": "Blanca Borrell",
+        "popularity": 0.0987,
+        "profile_path": null,
+        "credit_id": "6a3502e563b809721f28de29",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 6295524,
+        "known_for_department": "Camera",
+        "name": "Julia Villares",
+        "original_name": "Julia Villares",
+        "popularity": 0.1386,
+        "profile_path": null,
+        "credit_id": "6a3502f64cd4076b0bbf1561",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 6295527,
+        "known_for_department": "Production",
+        "name": "Pep Tomasa",
+        "original_name": "Pep Tomasa",
+        "popularity": 0.1127,
+        "profile_path": null,
+        "credit_id": "6a35033e3bf77f65254e669a",
+        "department": "Production",
+        "job": "Assistant Production Manager"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 6295528,
+        "known_for_department": "Production",
+        "name": "Esther Dolader",
+        "original_name": "Esther Dolader",
+        "popularity": 0.1218,
+        "profile_path": null,
+        "credit_id": "6a35037585bc9a1593bf9305",
+        "department": "Production",
+        "job": "Assistant Production Manager"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 6295530,
+        "known_for_department": "Production",
+        "name": "Nil Masllorens",
+        "original_name": "Nil Masllorens",
+        "popularity": 0.1833,
+        "profile_path": null,
+        "credit_id": "6a3503858d4dac8cf34ffba9",
+        "department": "Production",
+        "job": "Assistant Production Manager"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 6295533,
+        "known_for_department": "Directing",
+        "name": "Aixa Guerrero",
+        "original_name": "Aixa Guerrero",
+        "popularity": 0.1096,
+        "profile_path": null,
+        "credit_id": "6a3503bbe03d4d1288f5c48e",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 6295536,
+        "known_for_department": "Art",
+        "name": "Lua Carlesimo",
+        "original_name": "Lua Carlesimo",
+        "popularity": 0.1397,
+        "profile_path": null,
+        "credit_id": "6a350430d10e5e5bf54e6663",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 6295539,
+        "known_for_department": "Sound",
+        "name": "Isabel Uris",
+        "original_name": "Isabel Uris",
+        "popularity": 0.1556,
+        "profile_path": null,
+        "credit_id": "6a35045f03d7543ccd4ffb70",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 6295540,
+        "known_for_department": "Sound",
+        "name": "Isabel Uris",
+        "original_name": "Isabel Uris",
+        "popularity": 0.166,
+        "profile_path": null,
+        "credit_id": "6a3504772212e76ea8f5c461",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6295542,
+        "known_for_department": "Sound",
+        "name": "Isabel Uris",
+        "original_name": "Isabel Uris",
+        "popularity": 0.1408,
+        "profile_path": null,
+        "credit_id": "6a3504b44381dd7c60bf90d9",
+        "department": "Sound",
+        "job": "Music Director"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 6295543,
+        "known_for_department": "Sound",
+        "name": "Nils Strässle",
+        "original_name": "Nils Strässle",
+        "popularity": 0.1597,
+        "profile_path": null,
+        "credit_id": "6a3504cde03d4d1288f5c4ab",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6295544,
+        "known_for_department": "Camera",
+        "name": "Jaime Rodriguez",
+        "original_name": "Jaime Rodriguez",
+        "popularity": 0.0723,
+        "profile_path": null,
+        "credit_id": "6a3504e348345c968c50dd6e",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6295545,
+        "known_for_department": "Lighting",
+        "name": "Carlos Soto",
+        "original_name": "Carlos Soto",
+        "popularity": 0.0768,
+        "profile_path": null,
+        "credit_id": "6a3504f657f41e453928de48",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6295547,
+        "known_for_department": "Editing",
+        "name": "Jaime Rodriguez",
+        "original_name": "Jaime Rodriguez",
+        "popularity": 0.0742,
+        "profile_path": null,
+        "credit_id": "6a3505113d52e9240c4e6767",
+        "department": "Editing",
+        "job": "Color Grading"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 6295548,
+        "known_for_department": "Camera",
+        "name": "Javiera Beltran",
+        "original_name": "Javiera Beltran",
+        "popularity": 0.1278,
+        "profile_path": null,
+        "credit_id": "6a350567395c95f304bf1510",
+        "department": "Camera",
+        "job": "Camera Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4274801,
+        "known_for_department": "Lighting",
+        "name": "Shen Peragón",
+        "original_name": "Shen Peragón",
+        "popularity": 0.1038,
+        "profile_path": null,
+        "credit_id": "6a350581ab6e06603d4ffc69",
+        "department": "Camera",
+        "job": "Camera Technician"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 6295549,
+        "known_for_department": "Camera",
+        "name": "Eloi Mata",
+        "original_name": "Eloi Mata",
+        "popularity": 0.1241,
+        "profile_path": null,
+        "credit_id": "6a35059b4381dd7c60bf90f3",
+        "department": "Camera",
+        "job": "Focus Puller"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6295550,
+        "known_for_department": "Lighting",
+        "name": "Patricio Ibañez",
+        "original_name": "Patricio Ibañez",
+        "popularity": 0.0751,
+        "profile_path": null,
+        "credit_id": "6a3505b520eb3a459f059477",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 6295551,
+        "known_for_department": "Lighting",
+        "name": "Oriol Camp",
+        "original_name": "Oriol Camp",
+        "popularity": 0.147,
+        "profile_path": null,
+        "credit_id": "6a3505c17de83a9666f5c517",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 6295552,
+        "known_for_department": "Lighting",
+        "name": "Santiago Gonzalez",
+        "original_name": "Santiago Gonzalez",
+        "popularity": 0.0896,
+        "profile_path": null,
+        "credit_id": "6a3505dd2212e76ea8f5c482",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 6295553,
+        "known_for_department": "Lighting",
+        "name": "Noa Karch",
+        "original_name": "Noa Karch",
+        "popularity": 0.0609,
+        "profile_path": null,
+        "credit_id": "6a3505ee0f2efc36e9bf1623",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 6295554,
+        "known_for_department": "Art",
+        "name": "Alexia Parra Ayuso",
+        "original_name": "Alexia Parra Ayuso",
+        "popularity": 0.0836,
+        "profile_path": null,
+        "credit_id": "6a35060a7474ec5f2650ddb5",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5757471,
+        "known_for_department": "Art",
+        "name": "Alba Oliva de Villasante",
+        "original_name": "Alba Oliva de Villasante",
+        "popularity": 0.0994,
+        "profile_path": null,
+        "credit_id": "6a35062053191549713d96cc",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 228697,
+        "name": "obssession"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "ca",
+        "name": "Català",
+        "english_name": "Catalan",
+        "data": {
+          "homepage": "https://borrellblanca.wixsite.com/borrellfilms",
+          "overview": "Una adaptació de \"WHIPLASH\" (2014) enfocada en l'obsessió del ser humà, a voler sentir-se suficient.",
+          "runtime": 5,
+          "tagline": "L'obessió guanya?",
+          "title": "MIRA PAPÁ!"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "SWIM",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "blancaborrell",
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1152,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/cOVJSLVMNFYRnq5TGKnEBTNYNo5.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2048
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.709,
+        "height": 1748,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/3q8flnNoiBuzggPiNaIJV1cv5BZ.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1240
+      },
+      {
+        "aspect_ratio": 0.709,
+        "height": 1748,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/uAiZZFzsJMX3ZxrQ7GfNcv6ZlZU.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1240
+      },
+      {
+        "aspect_ratio": 0.709,
+        "height": 1748,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/lRDKeNIhMUxop7akTEWA3isX6W1.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1240
+      },
+      {
+        "aspect_ratio": 0.709,
+        "height": 1748,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/b62IQ0cUJp8d5z3JPDa05qsvOMk.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1240
+      },
+      {
+        "aspect_ratio": 0.709,
+        "height": 1748,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/ksaCqxharUxW67ooPczEQNjaOR.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1240
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "X",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "",
+            "release_date": "2026-06-15T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

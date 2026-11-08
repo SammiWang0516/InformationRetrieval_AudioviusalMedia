@@ -1,0 +1,626 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "http://www.duskthemovie.com/Home.html",
+  "id": 7181,
+  "imdb_id": "tt1094588",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Dusk",
+  "overview": "When a series of unexplained events begin to echo across time, one woman finds herself at the center of a threat that refuses to stay buried. As the past bleeds into the present, she is forced to confront a presence that seems to follow her across lives, memories, and moments she can’t fully explain.  DUSK is a psychological horror film that blends suspense and supernatural elements, exploring the idea that some darkness doesn’t end—it returns. Starring Laura Bailey (Critical Role), alongside Bruce DuBose and Todd Haberkorn, the film delivers a character-driven descent into fear, where survival means recognizing what’s been hunting you all along.",
+  "popularity": 1.3146,
+  "poster_path": "/e2tWEpDPxytFvllRjTrFDcXFXQz.jpg",
+  "production_companies": [
+    {
+      "id": 2178,
+      "logo_path": null,
+      "name": "Foggy Notions Unlimited",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-03-07",
+  "revenue": 0,
+  "runtime": 99,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Dusk",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 75037,
+        "known_for_department": "Acting",
+        "name": "Laura Bailey",
+        "original_name": "Laura Bailey",
+        "popularity": 1.2553,
+        "profile_path": "/xrq33v9N78hhmApcfkoYx0TAw1A.jpg",
+        "cast_id": 10,
+        "character": "Chelsea",
+        "credit_id": "6978f17a4f6b154198695987",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 949844,
+        "known_for_department": "Acting",
+        "name": "Bruce Dubose",
+        "original_name": "Bruce Dubose",
+        "popularity": 0.3594,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Niko",
+        "credit_id": "6978f1aa245dffe8bc1a1d0e",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2204522,
+        "known_for_department": "Acting",
+        "name": "Todd Haberkorn",
+        "original_name": "Todd Haberkorn",
+        "popularity": 0.4671,
+        "profile_path": "/tT8YzZMfNXXJhhS7KyYRdxgoZcN.jpg",
+        "cast_id": 21,
+        "character": "Wayne",
+        "credit_id": "6978f3abbf73de6874a391e1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 43757,
+        "known_for_department": "Acting",
+        "name": "GiGi Erneta",
+        "original_name": "GiGi Erneta",
+        "popularity": 0.7246,
+        "profile_path": "/w8yBYlqI1tihNkvzKTKYbuvYcLm.jpg",
+        "cast_id": 1,
+        "character": "Mother",
+        "credit_id": "52fe4472c3a36847f80966ef",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 73426,
+        "known_for_department": "Acting",
+        "name": "Raquel Lovern",
+        "original_name": "Raquel Lovern",
+        "popularity": 0.2117,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Court Dancer",
+        "credit_id": "52fe4472c3a36847f809671d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5966462,
+        "known_for_department": "Acting",
+        "name": "Heather Child",
+        "original_name": "Heather Child",
+        "popularity": 0.097,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Priestess",
+        "credit_id": "6978f2658739a0b05deb0187",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5966463,
+        "known_for_department": "Acting",
+        "name": "Carrie Slaughter",
+        "original_name": "Carrie Slaughter",
+        "popularity": 0.2611,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Psychiatrist",
+        "credit_id": "6978f2bdc9dd574a6ba37f8e",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5966458,
+        "known_for_department": "Acting",
+        "name": "Kelsey Schultz",
+        "original_name": "Kelsey Schultz",
+        "popularity": 0.1962,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Elizabeth Vetters",
+        "credit_id": "6978f2df86e2525cd2107665",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5966465,
+        "known_for_department": "Acting",
+        "name": "David Cassimatis",
+        "original_name": "David Cassimatis",
+        "popularity": 0.2082,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Norseman",
+        "credit_id": "6978f30cff9d26e701a380f1",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5966466,
+        "known_for_department": "Acting",
+        "name": "Dean Williams",
+        "original_name": "Dean Williams",
+        "popularity": 0.143,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Tattoo Artist",
+        "credit_id": "6978f32a82a21627b1abaca6",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 99619,
+        "known_for_department": "Acting",
+        "name": "Ashlie Rhey",
+        "original_name": "Ashlie Rhey",
+        "popularity": 0.427,
+        "profile_path": "/q8vM11BL3cCKGxHLhmtVZRxClNK.jpg",
+        "cast_id": 18,
+        "character": "Juanita",
+        "credit_id": "6978f3416d953ac475a39192",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5966467,
+        "known_for_department": "Acting",
+        "name": "Eduardo DeLeon",
+        "original_name": "Eduardo DeLeon",
+        "popularity": 0.1931,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Sculptor",
+        "credit_id": "6978f358f3917fb8faa3809a",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5966468,
+        "known_for_department": "Acting",
+        "name": "Micah Pelliford",
+        "original_name": "Micah Pelliford",
+        "popularity": 0.0742,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Angley",
+        "credit_id": "6978f39681b79e2417b68c69",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 61562,
+        "known_for_department": "Acting",
+        "name": "Jennifer Sipes",
+        "original_name": "Jennifer Sipes",
+        "popularity": 0.4776,
+        "profile_path": "/l1NwnEBavCpsAsxG54FIzCBEezf.jpg",
+        "cast_id": 22,
+        "character": "Barkeep",
+        "credit_id": "6978f45d8f929b7eef0899b8",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5966471,
+        "known_for_department": "Acting",
+        "name": "Garry Parchman",
+        "original_name": "Garry Parchman",
+        "popularity": 0.3116,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Bar Patron",
+        "credit_id": "6978f475d57314d6aca37e03",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5966472,
+        "known_for_department": "Acting",
+        "name": "Jack Gould",
+        "original_name": "Jack Gould",
+        "popularity": 0.0473,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Paul",
+        "credit_id": "6978f4a27f28fbec261074b3",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 134016,
+        "known_for_department": "Acting",
+        "name": "Bill Sebastian",
+        "original_name": "Bill Sebastian",
+        "popularity": 0.3608,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Radio Announcer Voice",
+        "credit_id": "6978f5607da53b9ffca37ec9",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5966481,
+        "known_for_department": "Acting",
+        "name": "Tracy Terrell",
+        "original_name": "Tracy Terrell",
+        "popularity": 0.1094,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Molly Darby",
+        "credit_id": "6978f5bf78931672ac1a1c32",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5966490,
+        "known_for_department": "Acting",
+        "name": "Bob Erwin",
+        "original_name": "Bob Erwin",
+        "popularity": 0.1655,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Reverend Darby",
+        "credit_id": "6978f646bcdceb9392a37e30",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1492852,
+        "known_for_department": "Acting",
+        "name": "Dell Johnson",
+        "original_name": "Dell Johnson",
+        "popularity": 0.2802,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Lt. Fisher",
+        "credit_id": "6978f68578931672ac1a1c47",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5966494,
+        "known_for_department": "Acting",
+        "name": "Stephanie Peterson",
+        "original_name": "Stephanie Peterson",
+        "popularity": 0.1304,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Hospital Receptionist",
+        "credit_id": "6978f6e5f3917fb8faa380c7",
+        "order": 20
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 53146,
+        "known_for_department": "Production",
+        "name": "Kyle Hodgkinson",
+        "original_name": "Kyle Hodgkinson",
+        "popularity": 0.1311,
+        "profile_path": null,
+        "credit_id": "52fe4472c3a36847f80966f5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 53147,
+        "known_for_department": "Production",
+        "name": "Brinda Curley",
+        "original_name": "Brinda Curley",
+        "popularity": 0.3143,
+        "profile_path": null,
+        "credit_id": "52fe4472c3a36847f80966fb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 53149,
+        "known_for_department": "Production",
+        "name": "Greg Wylie",
+        "original_name": "Greg Wylie",
+        "popularity": 0.2045,
+        "profile_path": null,
+        "credit_id": "52fe4472c3a36847f8096707",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 53146,
+        "known_for_department": "Production",
+        "name": "Kyle Hodgkinson",
+        "original_name": "Kyle Hodgkinson",
+        "popularity": 0.1311,
+        "profile_path": null,
+        "credit_id": "52fe4472c3a36847f809670d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 53150,
+        "known_for_department": "Writing",
+        "name": "Scott Noack",
+        "original_name": "Scott Noack",
+        "popularity": 0.322,
+        "profile_path": null,
+        "credit_id": "52fe4472c3a36847f8096713",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 53151,
+        "known_for_department": "Crew",
+        "name": "Stewart Mayer",
+        "original_name": "Stewart Mayer",
+        "popularity": 0.1259,
+        "profile_path": null,
+        "credit_id": "52fe4472c3a36847f8096719",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 1533,
+        "name": "isolation"
+      },
+      {
+        "id": 1523,
+        "name": "obsession"
+      },
+      {
+        "id": 2340,
+        "name": "paranoia"
+      },
+      {
+        "id": 6152,
+        "name": "supernatural"
+      },
+      {
+        "id": 10855,
+        "name": "fate"
+      },
+      {
+        "id": 12565,
+        "name": "psychological thriller"
+      },
+      {
+        "id": 13073,
+        "name": "fear"
+      },
+      {
+        "id": 155800,
+        "name": "atmospheric"
+      },
+      {
+        "id": 192185,
+        "name": "voice acting"
+      },
+      {
+        "id": 199322,
+        "name": "recurring dream"
+      },
+      {
+        "id": 212634,
+        "name": "dread"
+      },
+      {
+        "id": 228281,
+        "name": "dark mysteries"
+      },
+      {
+        "id": 232966,
+        "name": "past lives"
+      },
+      {
+        "id": 250461,
+        "name": "supernatural being"
+      },
+      {
+        "id": 267083,
+        "name": "historical memory"
+      },
+      {
+        "id": 269367,
+        "name": "indie horror"
+      },
+      {
+        "id": 275024,
+        "name": "existential horror"
+      },
+      {
+        "id": 281237,
+        "name": "independent film"
+      },
+      {
+        "id": 288394,
+        "name": "suspense"
+      },
+      {
+        "id": 315058,
+        "name": "horror"
+      },
+      {
+        "id": 357397,
+        "name": "cult horror"
+      },
+      {
+        "id": 366519,
+        "name": "time loops"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "http://www.duskthemovie.com/Home.html",
+          "overview": "When a series of unexplained events begin to echo across time, one woman finds herself at the center of a threat that refuses to stay buried. As the past bleeds into the present, she is forced to confront a presence that seems to follow her across lives, memories, and moments she can’t fully explain.  DUSK is a psychological horror film that blends suspense and supernatural elements, exploring the idea that some darkness doesn’t end—it returns. Starring Laura Bailey (Critical Role), alongside Bruce DuBose and Todd Haberkorn, the film delivers a character-driven descent into fear, where survival means recognizing what’s been hunting you all along.",
+          "runtime": 99,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "TR",
+        "iso_639_1": "tr",
+        "name": "Türkçe",
+        "english_name": "Turkish",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "NL",
+        "iso_639_1": "nl",
+        "name": "Nederlands",
+        "english_name": "Dutch",
+        "data": {
+          "homepage": "",
+          "overview": "Wanneer een reeks onverklaarbare gebeurtenissen door de tijd heen echoën, bevindt een vrouw zich in het epicentrum van een dreiging die weigert te verdwijnen. Terwijl het verleden zich vermengt met het heden, wordt ze gedwongen een aanwezigheid onder ogen te zien die haar lijkt te volgen door levens, herinneringen en momenten die ze niet volledig kan verklaren. DUSK is een psychologische horrorfilm die spanning en bovennatuurlijke elementen combineert en het idee onderzoekt dat sommige duisternis niet verdwijnt, maar terugkeert. Met Laura Bailey (Critical Role), Bruce DuBose en Todd Haberkorn in de hoofdrollen, biedt de film een ​​karakter gedreven afdaling in de angst, waar overleven betekent dat je moet herkennen wat je al die tijd heeft achtervolgd.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt1094588",
+    "wikidata_id": null,
+    "facebook_id": "DuskTheMovie",
+    "instagram_id": "dusk_themovie",
+    "twitter_id": "duskthemovie"
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/e2tWEpDPxytFvllRjTrFDcXFXQz.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2026-03-07T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "DUSK Trailer — starring Laura Bailey (Critical Role)",
+        "key": "C2XVplzj2GQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "6978fc814fb48db3340894f7",
+        "published_at": "2025-11-14T01:49:57.000Z"
+      }
+    ]
+  }
+}

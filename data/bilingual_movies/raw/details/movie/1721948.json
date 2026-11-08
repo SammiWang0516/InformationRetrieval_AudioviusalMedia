@@ -1,0 +1,781 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1721948,
+  "imdb_id": "tt43622405",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Asphalte",
+  "overview": "",
+  "popularity": 1.6997,
+  "poster_path": "/4rZk2svgBfLOyP4kIgFOhU4q56C.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2026-06-26",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "Asphalte",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1941840,
+        "known_for_department": "Acting",
+        "name": "Marc Bodnar",
+        "original_name": "Marc Bodnar",
+        "popularity": 0.577,
+        "profile_path": "/sbHlSfbqFwask6JtSgxzv6jPFzM.jpg",
+        "cast_id": 1,
+        "character": "Vincent",
+        "credit_id": "6a3fb97be1831e791c37f2ad",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1150410,
+        "known_for_department": "Acting",
+        "name": "Pauline Serieys",
+        "original_name": "Pauline Serieys",
+        "popularity": 0.371,
+        "profile_path": "/rliDNpcFzuD3HaMIcO2gI1OEMHm.jpg",
+        "cast_id": 2,
+        "character": "Sabine",
+        "credit_id": "6a3fb9890cd7e5de74e733e3",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3151406,
+        "known_for_department": "Acting",
+        "name": "Farid Afifi",
+        "original_name": "Farid Afifi",
+        "popularity": 0.1016,
+        "profile_path": "/3kc2pmWiIp9tPKBdy6W5q0XtioF.jpg",
+        "cast_id": 3,
+        "character": "Client",
+        "credit_id": "6a3fb9951ed7616d9d7247d2",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6311792,
+        "known_for_department": "Acting",
+        "name": "Gery Clappier",
+        "original_name": "Gery Clappier",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Routier",
+        "credit_id": "6a3fb9a134cfc4f55d28ca98",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1810535,
+        "known_for_department": "Acting",
+        "name": "Matthieu Kassimo",
+        "original_name": "Matthieu Kassimo",
+        "popularity": 0.4398,
+        "profile_path": "/vyu8Zn0Y9FJq8BWbWLv8AHcE9pG.jpg",
+        "cast_id": 5,
+        "character": "Routier",
+        "credit_id": "6a3fb9c663748371fd724860",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6311794,
+        "known_for_department": "Acting",
+        "name": "Cyril Genée",
+        "original_name": "Cyril Genée",
+        "popularity": 0.6498,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Routier",
+        "credit_id": "6a3fb9e2be5c016890e733ca",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1961670,
+        "known_for_department": "Acting",
+        "name": "Gilles Vandeweerd",
+        "original_name": "Gilles Vandeweerd",
+        "popularity": 0.1579,
+        "profile_path": "/lcbjpt63BlutjwuDmMU9th88otN.jpg",
+        "cast_id": 7,
+        "character": "Client",
+        "credit_id": "6a3fb9ebc5d836a349b0861a",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1179916,
+        "known_for_department": "Acting",
+        "name": "Rurik Sallé",
+        "original_name": "Rurik Sallé",
+        "popularity": 0.08,
+        "profile_path": "/pwukWp6HeABiLgU0RDVorXbCyfz.jpg",
+        "cast_id": 8,
+        "character": "Client",
+        "credit_id": "6a3fb9f8aa15739a9737f366",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3229191,
+        "known_for_department": "Acting",
+        "name": "Grégory Servant",
+        "original_name": "Grégory Servant",
+        "popularity": 0.5378,
+        "profile_path": "/xshr9VemLa1jvv3BEVkr4caKoKq.jpg",
+        "cast_id": 9,
+        "character": "Client",
+        "credit_id": "6a3fba0389c93dd0769f3cd2",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3556062,
+        "known_for_department": "Acting",
+        "name": "Régis Péjus",
+        "original_name": "Régis Péjus",
+        "popularity": 0.0548,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Client",
+        "credit_id": "6a3fba0f61507fc51c64da6e",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6311796,
+        "known_for_department": "Acting",
+        "name": "Nicolas Fraboulet",
+        "original_name": "Nicolas Fraboulet",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Client",
+        "credit_id": "6a3fba1af931fab5c628caa2",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3119138,
+        "known_for_department": "Acting",
+        "name": "Claire Péron",
+        "original_name": "Claire Péron",
+        "popularity": 0.0759,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Routière",
+        "credit_id": "6a3fba26ef13f8df6037f2e1",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2130937,
+        "known_for_department": "Writing",
+        "name": "Mehdi Ouahab",
+        "original_name": "Mehdi Ouahab",
+        "popularity": 0.2193,
+        "profile_path": "/avbL9k6x7OQRurEQmWGb8ZXthYy.jpg",
+        "credit_id": "6a3fba455a95e61f74b0861d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2130937,
+        "known_for_department": "Writing",
+        "name": "Mehdi Ouahab",
+        "original_name": "Mehdi Ouahab",
+        "popularity": 0.2193,
+        "profile_path": "/avbL9k6x7OQRurEQmWGb8ZXthYy.jpg",
+        "credit_id": "6a3fba51ab2837fd41e73369",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2665483,
+        "known_for_department": "Writing",
+        "name": "Yacine Badday",
+        "original_name": "Yacine Badday",
+        "popularity": 0.1289,
+        "profile_path": "/jBCzOhj5ljXqMoHrYUV9TgRtJjr.jpg",
+        "credit_id": "6a3fba63865e895b0bb085db",
+        "department": "Writing",
+        "job": "Script Consultant"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2528103,
+        "known_for_department": "Directing",
+        "name": "Maïté Sonnet",
+        "original_name": "Maïté Sonnet",
+        "popularity": 0.3158,
+        "profile_path": "/ns2rMNPPjMtTOgqMyw4zmPUveX6.jpg",
+        "credit_id": "6a3fba709c34a160b264da6c",
+        "department": "Writing",
+        "job": "Script Consultant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2953272,
+        "known_for_department": "Camera",
+        "name": "Quentin Lacombe",
+        "original_name": "Quentin Lacombe",
+        "popularity": 0.1891,
+        "profile_path": null,
+        "credit_id": "6a3fba8143a847af0d37f273",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4334751,
+        "known_for_department": "Production",
+        "name": "Antoine Heuveline",
+        "original_name": "Antoine Heuveline",
+        "popularity": 0.3338,
+        "profile_path": null,
+        "credit_id": "6a3fba8c106742b41c37f361",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1488746,
+        "known_for_department": "Production",
+        "name": "Christie Molia",
+        "original_name": "Christie Molia",
+        "popularity": 0.1482,
+        "profile_path": null,
+        "credit_id": "6a3fba98045d04732ee7338a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2186,
+        "known_for_department": "Production",
+        "name": "Nathalie Chéron",
+        "original_name": "Nathalie Chéron",
+        "popularity": 0.3553,
+        "profile_path": "/rmd2WzsLnb2GIv2eTZwFL62kqAr.jpg",
+        "credit_id": "6a3fbac402185f8f87e73390",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5970293,
+        "known_for_department": "Production",
+        "name": "Caroline Bougit",
+        "original_name": "Caroline Bougit",
+        "popularity": 0.0417,
+        "profile_path": null,
+        "credit_id": "6a3fbad9d49afce88b562bc0",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3750135,
+        "known_for_department": "Lighting",
+        "name": "Louise Bernard Pallas",
+        "original_name": "Louise Bernard Pallas",
+        "popularity": 0.101,
+        "profile_path": null,
+        "credit_id": "6a3fbaeec4a61d45fce733e6",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3739100,
+        "known_for_department": "Camera",
+        "name": "Roxane Bois",
+        "original_name": "Roxane Bois",
+        "popularity": 0.1594,
+        "profile_path": null,
+        "credit_id": "6a3fbb01045d04732ee73391",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3869201,
+        "known_for_department": "Camera",
+        "name": "Chloé Reymond",
+        "original_name": "Chloé Reymond",
+        "popularity": 0.0829,
+        "profile_path": null,
+        "credit_id": "6a3fbb0c992f8bab5f562bea",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6311807,
+        "known_for_department": "Crew",
+        "name": "Erwann Le Tacon",
+        "original_name": "Erwann Le Tacon",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "credit_id": "6a3fbb22106742b41c37f38f",
+        "department": "Crew",
+        "job": "Intern"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3125161,
+        "known_for_department": "Sound",
+        "name": "Raphael Bigaud",
+        "original_name": "Raphael Bigaud",
+        "popularity": 0.126,
+        "profile_path": null,
+        "credit_id": "6a3fbb30a8afd84a95cf05f4",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4291209,
+        "known_for_department": "Sound",
+        "name": "Philémon Schaffhauser",
+        "original_name": "Philémon Schaffhauser",
+        "popularity": 0.0329,
+        "profile_path": null,
+        "credit_id": "6a3fbb40f4f5e60e5dcf058b",
+        "department": "Sound",
+        "job": "Sound Engineer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6311809,
+        "known_for_department": "Sound",
+        "name": "Paolo Jolas de France de Tersant",
+        "original_name": "Paolo Jolas de France de Tersant",
+        "popularity": 0.046,
+        "profile_path": null,
+        "credit_id": "6a3fbb51c2a783c2e3562bea",
+        "department": "Sound",
+        "job": "Sound Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4274858,
+        "known_for_department": "Directing",
+        "name": "Sophie Razavi",
+        "original_name": "Sophie Razavi",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "6a3fbb65d7c9e3231764da7b",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6311813,
+        "known_for_department": "Directing",
+        "name": "Baptiste Tirel",
+        "original_name": "Baptiste Tirel",
+        "popularity": 0.0395,
+        "profile_path": null,
+        "credit_id": "6a3fbb7889c93dd0769f3cf8",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6311815,
+        "known_for_department": "Crew",
+        "name": "Jérémie Marset",
+        "original_name": "Jérémie Marset",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "6a3fbb85a9797dffe628cca4",
+        "department": "Crew",
+        "job": "Intern"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3038829,
+        "known_for_department": "Directing",
+        "name": "Aurélie Bidault",
+        "original_name": "Aurélie Bidault",
+        "popularity": 0.1267,
+        "profile_path": null,
+        "credit_id": "6a3fbb91b6a6e7e4f9cf066f",
+        "department": "Crew",
+        "job": "Script"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5742238,
+        "known_for_department": "Art",
+        "name": "Jeanne Baillot Smadja",
+        "original_name": "Jeanne Baillot Smadja",
+        "popularity": 0.0358,
+        "profile_path": null,
+        "credit_id": "6a3fbbbd15c75e5795e733b4",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4454178,
+        "known_for_department": "Crew",
+        "name": "Ludovic Renaud",
+        "original_name": "Ludovic Renaud",
+        "popularity": 0.1592,
+        "profile_path": null,
+        "credit_id": "6a3fbbd21ed7616d9d724809",
+        "department": "Art",
+        "job": "Decorator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3618132,
+        "known_for_department": "Art",
+        "name": "Nicola Meloni",
+        "original_name": "Nicola Meloni",
+        "popularity": 0.2965,
+        "profile_path": null,
+        "credit_id": "6a3fbc20b0a21eec0428cb07",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6311818,
+        "known_for_department": "Production",
+        "name": "Sophie Marc",
+        "original_name": "Sophie Marc",
+        "popularity": 0.0497,
+        "profile_path": null,
+        "credit_id": "6a3fbc55d49afce88b562be1",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6311819,
+        "known_for_department": "Production",
+        "name": "Amandine Jeanclaude",
+        "original_name": "Amandine Jeanclaude",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "6a3fbc6bc5d836a349b0863a",
+        "department": "Production",
+        "job": "Location Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6311820,
+        "known_for_department": "Production",
+        "name": "Antoine Chotard",
+        "original_name": "Antoine Chotard",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "6a3fbc7d045d04732ee733ad",
+        "department": "Production",
+        "job": "Location Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6311821,
+        "known_for_department": "Production",
+        "name": "Mathilde Jousseaume",
+        "original_name": "Mathilde Jousseaume",
+        "popularity": 0.0354,
+        "profile_path": null,
+        "credit_id": "6a3fbc8c13e90a746c7247fa",
+        "department": "Production",
+        "job": "Location Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6311822,
+        "known_for_department": "Lighting",
+        "name": "Balthazar Pirodd",
+        "original_name": "Balthazar Pirodd",
+        "popularity": 0.0412,
+        "profile_path": null,
+        "credit_id": "6a3fbca1be5c016890e733e7",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6311823,
+        "known_for_department": "Lighting",
+        "name": "Garvan Suignard-Bouliou",
+        "original_name": "Garvan Suignard-Bouliou",
+        "popularity": 0.0573,
+        "profile_path": null,
+        "credit_id": "6a3fbcbe5aefd0390728cb33",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3492855,
+        "known_for_department": "Camera",
+        "name": "Simon Penhouet",
+        "original_name": "Simon Penhouet",
+        "popularity": 0.1439,
+        "profile_path": null,
+        "credit_id": "6a3fbccdef13f8df6037f30c",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6311825,
+        "known_for_department": "Lighting",
+        "name": "Mickaël Nivet",
+        "original_name": "Mickaël Nivet",
+        "popularity": 0.0419,
+        "profile_path": null,
+        "credit_id": "6a3fbce3807de6bf9228cabe",
+        "department": "Lighting",
+        "job": "Rigging Grip"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1552910,
+        "known_for_department": "Editing",
+        "name": "Pauline Pallier",
+        "original_name": "Pauline Pallier",
+        "popularity": 0.313,
+        "profile_path": null,
+        "credit_id": "6a3fbcf313e90a746c724808",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6049840,
+        "known_for_department": "Editing",
+        "name": "Bérénice Fontenay",
+        "original_name": "Bérénice Fontenay",
+        "popularity": 0.0779,
+        "profile_path": null,
+        "credit_id": "6a3fbd0cfef19bc9189f3d12",
+        "department": "Editing",
+        "job": "Editorial Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4334758,
+        "known_for_department": "Editing",
+        "name": "Antoine Guerci",
+        "original_name": "Antoine Guerci",
+        "popularity": 0.1459,
+        "profile_path": null,
+        "credit_id": "6a3fbd1b97477246729f3caa",
+        "department": "Editing",
+        "job": "Color Grading"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 238419,
+        "known_for_department": "Sound",
+        "name": "Pierre Albert Vivet",
+        "original_name": "Pierre-Albert Vivet",
+        "popularity": 0.2284,
+        "profile_path": null,
+        "credit_id": "6a3fbd2902185f8f87e733a1",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3125161,
+        "known_for_department": "Sound",
+        "name": "Raphael Bigaud",
+        "original_name": "Raphael Bigaud",
+        "popularity": 0.126,
+        "profile_path": null,
+        "credit_id": "6a3fbd34a9797dffe628ccd3",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6311827,
+        "known_for_department": "Crew",
+        "name": "Louis Le Taillanter",
+        "original_name": "Louis Le Taillanter",
+        "popularity": 0.0482,
+        "profile_path": null,
+        "credit_id": "6a3fbd4bb0a21eec0428cb13",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6311828,
+        "known_for_department": "Crew",
+        "name": "Jean-Marc Gauvin",
+        "original_name": "Jean-Marc Gauvin",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "6a3fbd57865e895b0bb08605",
+        "department": "Crew",
+        "job": "Driver"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 155497,
+        "name": "truck driver"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "Vincent est chauffeur routier et vit sans attaches. Il a initié un groupe de paroles pour camionneurs, à l’arrière de sa remorque, pour contrer la solitude et les emmerdes. Sa fille, qui souhaite le revoir, laisse depuis des années des annonces dans les aires de repos.",
+          "runtime": 23,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Asphalt",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt43622405",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.707,
+        "height": 2828,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/4rZk2svgBfLOyP4kIgFOhU4q56C.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "fr",
+            "note": "",
+            "release_date": "2026-06-26T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

@@ -1,0 +1,671 @@
+{
+  "adult": false,
+  "backdrop_path": "/loBUk8JqPK7C8GmNCGk1yxkpwPc.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1586649,
+  "imdb_id": null,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Le Film de Fred",
+  "overview": "",
+  "popularity": 0.7869,
+  "poster_path": "/AeNfxO1dtSNMapsrnwls35vVnqP.jpg",
+  "production_companies": [
+    {
+      "id": 281335,
+      "logo_path": null,
+      "name": "June Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2026-05-06",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "Le Film de Fred",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1382467,
+        "known_for_department": "Acting",
+        "name": "Guillaume Sentou",
+        "original_name": "Guillaume Sentou",
+        "popularity": 0.338,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Fred Arnaud",
+        "credit_id": "692456990a4cc08039dd00b0",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5191842,
+        "known_for_department": "Acting",
+        "name": "Pauline Romera",
+        "original_name": "Pauline Romera",
+        "popularity": 0.0841,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Jeanne Durand",
+        "credit_id": "692456a5d17f113730a3b6f2",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5836342,
+        "known_for_department": "Acting",
+        "name": "Bastien Darmon",
+        "original_name": "Bastien Darmon",
+        "popularity": 0.1291,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "David Blinde",
+        "credit_id": "692456b4b33b0f34b9b74a89",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5836344,
+        "known_for_department": "Acting",
+        "name": "Maxime Bouillot",
+        "original_name": "Maxime Bouillot",
+        "popularity": 0.155,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Tony",
+        "credit_id": "692456d9697c9c1b95b74a69",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5836346,
+        "known_for_department": "Acting",
+        "name": "Pauline Breton",
+        "original_name": "Pauline Breton",
+        "popularity": 0.1792,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Emma",
+        "credit_id": "692456e83e1124b9140baa8a",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3540787,
+        "known_for_department": "Acting",
+        "name": "Didier Morvan",
+        "original_name": "Didier Morvan",
+        "popularity": 0.1243,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Bertrand Arnaud",
+        "credit_id": "6924570725b7361480a3b7c3",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5193650,
+        "known_for_department": "Directing",
+        "name": "Aymeric Lesur",
+        "original_name": "Aymeric Lesur",
+        "popularity": 0.0751,
+        "profile_path": null,
+        "credit_id": "69245722c0f569fd6add4ec0",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5193650,
+        "known_for_department": "Directing",
+        "name": "Aymeric Lesur",
+        "original_name": "Aymeric Lesur",
+        "popularity": 0.0751,
+        "profile_path": null,
+        "credit_id": "69245738fc252bbe40dd4fdf",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5193650,
+        "known_for_department": "Directing",
+        "name": "Aymeric Lesur",
+        "original_name": "Aymeric Lesur",
+        "popularity": 0.0751,
+        "profile_path": null,
+        "credit_id": "69245745876875310fa3b813",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5836348,
+        "known_for_department": "Writing",
+        "name": "Axel Hibon",
+        "original_name": "Axel Hibon",
+        "popularity": 0.1069,
+        "profile_path": null,
+        "credit_id": "692457535a562536a67691d4",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5836348,
+        "known_for_department": "Writing",
+        "name": "Axel Hibon",
+        "original_name": "Axel Hibon",
+        "popularity": 0.1069,
+        "profile_path": null,
+        "credit_id": "6924577aa0c4b1b1321875d8",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5836350,
+        "known_for_department": "Production",
+        "name": "Pierre Pieuchot",
+        "original_name": "Pierre Pieuchot",
+        "popularity": 0.0965,
+        "profile_path": null,
+        "credit_id": "6924578b3a8ab30b92958ea3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5836350,
+        "known_for_department": "Production",
+        "name": "Pierre Pieuchot",
+        "original_name": "Pierre Pieuchot",
+        "popularity": 0.0965,
+        "profile_path": null,
+        "credit_id": "692457a04b061ef3b432ac4b",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5193662,
+        "known_for_department": "Camera",
+        "name": "Loic Da Silva",
+        "original_name": "Loic Da Silva",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "692457bb13a0514313b74ad1",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5025292,
+        "known_for_department": "Camera",
+        "name": "Gaspard Dupin",
+        "original_name": "Gaspard Dupin",
+        "popularity": 0.1164,
+        "profile_path": null,
+        "credit_id": "692457d4551e73c25c32ac7c",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5836351,
+        "known_for_department": "Directing",
+        "name": "Louis Poisse",
+        "original_name": "Louis Poisse",
+        "popularity": 0.0611,
+        "profile_path": null,
+        "credit_id": "6924580cbb30f70ae0769240",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4027902,
+        "known_for_department": "Camera",
+        "name": "Alexandre Monneau",
+        "original_name": "Alexandre Monneau",
+        "popularity": 0.1259,
+        "profile_path": null,
+        "credit_id": "69245826a9772d738cdcff9c",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5836353,
+        "known_for_department": "Camera",
+        "name": "Anouk Mahieu",
+        "original_name": "Anouk Mahieu",
+        "popularity": 0.048,
+        "profile_path": null,
+        "credit_id": "6924589d4cc6839430b74b88",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5025272,
+        "known_for_department": "Crew",
+        "name": "Gaspard Monnot",
+        "original_name": "Gaspard Monnot",
+        "popularity": 0.101,
+        "profile_path": null,
+        "credit_id": "692458c06c2bacf11d0bad2d",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5025271,
+        "known_for_department": "Crew",
+        "name": "Lilou Bantz",
+        "original_name": "Lilou Bantz",
+        "popularity": 0.2227,
+        "profile_path": null,
+        "credit_id": "6924590f270b54b4e3dd011b",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5689092,
+        "known_for_department": "Sound",
+        "name": "Valentin Bigot",
+        "original_name": "Valentin Bigot",
+        "popularity": 0.1054,
+        "profile_path": null,
+        "credit_id": "6924593882cee073b8b74c38",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5025280,
+        "known_for_department": "Production",
+        "name": "Manon Saujot",
+        "original_name": "Manon Saujot",
+        "popularity": 0.266,
+        "profile_path": null,
+        "credit_id": "69245994cef5c0cb2776911d",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5836350,
+        "known_for_department": "Production",
+        "name": "Pierre Pieuchot",
+        "original_name": "Pierre Pieuchot",
+        "popularity": 0.0965,
+        "profile_path": null,
+        "credit_id": "692459ab42d9496d93b749e6",
+        "department": "Production",
+        "job": "Assistant Unit Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5836358,
+        "known_for_department": "Editing",
+        "name": "Benjamin Rivalan",
+        "original_name": "Benjamin Rivalan",
+        "popularity": 0.082,
+        "profile_path": null,
+        "credit_id": "69245a3cd17f113730a3b720",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5836359,
+        "known_for_department": "Sound",
+        "name": "Claire Vavasseur-Seferian",
+        "original_name": "Claire Vavasseur-Seferian",
+        "popularity": 0.1058,
+        "profile_path": null,
+        "credit_id": "69245a686a6a203ec7dd0136",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5836360,
+        "known_for_department": "Production",
+        "name": "Suliac Leforestier",
+        "original_name": "Suliac Leforestier",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "69245aa2247a321eefdd4f7f",
+        "department": "Production",
+        "job": "Location Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5836363,
+        "known_for_department": "Production",
+        "name": "Lea Perriere",
+        "original_name": "Lea Perriere",
+        "popularity": 0.1383,
+        "profile_path": null,
+        "credit_id": "69245abae067841cc2dd0135",
+        "department": "Production",
+        "job": "Location Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5193663,
+        "known_for_department": "Editing",
+        "name": "Matthieu Bacque",
+        "original_name": "Matthieu Bacque",
+        "popularity": 0.1163,
+        "profile_path": null,
+        "credit_id": "69245ace31653fb6c7187727",
+        "department": "Editing",
+        "job": "Color Grading"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5836365,
+        "known_for_department": "Crew",
+        "name": "Paulina Malagon Matta",
+        "original_name": "Paulina Malagon Matta",
+        "popularity": 0.1314,
+        "profile_path": null,
+        "credit_id": "69245ae6fc252bbe40dd4fee",
+        "department": "Crew",
+        "job": "Translator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5836367,
+        "known_for_department": "Art",
+        "name": "Leane Istria-Billon",
+        "original_name": "Leane Istria-Billon",
+        "popularity": 0.2194,
+        "profile_path": null,
+        "credit_id": "69245b16ed2bc9d89db74baf",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5836369,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Camila Lette-Mounjedinne",
+        "original_name": "Camila Lette-Mounjedinne",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69245b5e87a59e6070768fbc",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2041420,
+        "known_for_department": "Production",
+        "name": "Eric Gendarme",
+        "original_name": "Eric Gendarme",
+        "popularity": 0.1136,
+        "profile_path": null,
+        "credit_id": "69245bda49f0ca2869187698",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2041419,
+        "known_for_department": "Production",
+        "name": "Thomas Lubeau",
+        "original_name": "Thomas Lubeau",
+        "popularity": 0.1339,
+        "profile_path": null,
+        "credit_id": "69245bea7f0d76dcb018754e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5838627,
+        "known_for_department": "Production",
+        "name": "Marie Davin",
+        "original_name": "Marie Davin",
+        "popularity": 0.1524,
+        "profile_path": null,
+        "credit_id": "6925d67cc9c5d096c024509f",
+        "department": "Production",
+        "job": "Producer's Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3395481,
+        "known_for_department": "Sound",
+        "name": "Julien Auclair",
+        "original_name": "Julien Auclair",
+        "popularity": 0.5738,
+        "profile_path": null,
+        "credit_id": "6925d707855f3be7cf26b9cc",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5836352,
+        "known_for_department": "Directing",
+        "name": "Floeme Briffaud",
+        "original_name": "Floeme Briffaud",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6925d75559faf4140937116e",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4596468,
+        "known_for_department": "Sound",
+        "name": "Amaelle Karim",
+        "original_name": "Amaelle Karim",
+        "popularity": 0.1143,
+        "profile_path": null,
+        "credit_id": "6925d76e59e3c950a4ea9957",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5254284,
+        "known_for_department": "Sound",
+        "name": "Pierre Cadet-Petit",
+        "original_name": "Pierre Cadet-Petit",
+        "popularity": 0.0619,
+        "profile_path": null,
+        "credit_id": "6925d785e2582f4674d9c5ba",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5836354,
+        "known_for_department": "Lighting",
+        "name": "Marguerite Guillard",
+        "original_name": "Marguerite Guillard",
+        "popularity": 0.0922,
+        "profile_path": null,
+        "credit_id": "6925d7a84cb067f1ba30c95a",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "Fred Arnaud, la trentaine, fils unique du riche entrepreneur Bertrand Arnaud, rêve de devenir un grand réalisateur. Convaincu de son génie, il débarque dans une société de production en faillite, persuadé qu’il va révolutionner le cinéma. Son père lui a promis cinq millions d’euros pour financer son premier film. Séduits par la promesse de ce chèque miraculeux qui pourrait sauver leur boîte, Jeanne Durand et David Blinde, deux producteurs désespérés, acceptent de produire le film de Fred.",
+          "runtime": 14,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/loBUk8JqPK7C8GmNCGk1yxkpwPc.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/AeNfxO1dtSNMapsrnwls35vVnqP.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/skhTGfZbygKwUyjjwU6mtZFJ23t.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Festival Les Courts de Corneille",
+            "release_date": "2026-05-06T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Festival Internacional de Cine de Teotihuacán",
+            "release_date": "2026-05-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

@@ -1,0 +1,393 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 1613414,
+  "imdb_id": "tt39321013",
+  "origin_country": [
+    "BE"
+  ],
+  "original_language": "nl",
+  "original_title": "Vuurdoop",
+  "overview": "During youth fire brigade training, Mila and Amélie’s friendship grows.",
+  "popularity": 0.7833,
+  "poster_path": "/ws3Gws4cPY9ScE59FvtKrjxXblt.jpg",
+  "production_companies": [
+    {
+      "id": 285757,
+      "logo_path": "/uxrlKplRnE3wux9ZMaZW3s8DrXB.png",
+      "name": "While We're Here",
+      "origin_country": "BE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "release_date": "2026-02-14",
+  "revenue": 0,
+  "runtime": 16,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Forged in Fire",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5929872,
+        "known_for_department": "Acting",
+        "name": "Amélie Pauwels Callebaut",
+        "original_name": "Amélie Pauwels Callebaut",
+        "popularity": 0.094,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "69623f9c0cf4bcea8b363c31",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5929873,
+        "known_for_department": "Acting",
+        "name": "Mila Sterck",
+        "original_name": "Mila Sterck",
+        "popularity": 0.0979,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "69623fa7eb83cb1025d14c90",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5669242,
+        "known_for_department": "Acting",
+        "name": "Fiene Zasada",
+        "original_name": "Fiene Zasada",
+        "popularity": 0.0376,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "",
+        "credit_id": "696d0069e3900670eeaaa9f3",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2742676,
+        "known_for_department": "Directing",
+        "name": "Jules Mathôt",
+        "original_name": "Jules Mathôt",
+        "popularity": 0.4623,
+        "profile_path": null,
+        "credit_id": "69623fb691aa4614e4f407d0",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1006855,
+        "known_for_department": "Production",
+        "name": "Frederik Nicolai",
+        "original_name": "Frederik Nicolai",
+        "popularity": 0.1257,
+        "profile_path": "/lOCApiUbNkBsCrUpGjNPKbSIGVX.jpg",
+        "credit_id": "69623fcb772a118c2017191a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2173940,
+        "known_for_department": "Directing",
+        "name": "Annabel Verbeke",
+        "original_name": "Annabel Verbeke",
+        "popularity": 0.0921,
+        "profile_path": null,
+        "credit_id": "69623fd6b5cdf7be685963d6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2847383,
+        "known_for_department": "Camera",
+        "name": "Matthee Van Holderbeke",
+        "original_name": "Matthee Van Holderbeke",
+        "popularity": 0.0902,
+        "profile_path": "/myN7QBcbQlOAMhuexdHBNPdyonY.jpg",
+        "credit_id": "69623fe0c37bd4fe193d6979",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3335049,
+        "known_for_department": "Directing",
+        "name": "Frank van den Bogaart",
+        "original_name": "Frank van den Bogaart",
+        "popularity": 0.1154,
+        "profile_path": "/sb4s7eXrShryCNx7bLAooCXE8HX.jpg",
+        "credit_id": "69623fedb52999c79e3647cd",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2745384,
+        "known_for_department": "Directing",
+        "name": "Pol De Plecker",
+        "original_name": "Pol De Plecker",
+        "popularity": 0.2342,
+        "profile_path": null,
+        "credit_id": "69624001e6c0f45062b54d7f",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3199250,
+        "known_for_department": "Sound",
+        "name": "Andries Essel",
+        "original_name": "Andries Essel",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69624015071be614233d68c1",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2836751,
+        "known_for_department": "Sound",
+        "name": "Raf Enckels",
+        "original_name": "Raf Enckels",
+        "popularity": 0.156,
+        "profile_path": null,
+        "credit_id": "69625975194878504c1d8943",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4619743,
+        "known_for_department": "Directing",
+        "name": "Aaron Denolf",
+        "original_name": "Aaron Denolf",
+        "popularity": 0.0576,
+        "profile_path": null,
+        "credit_id": "696259ae58a3600d4c3649d9",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4166787,
+        "known_for_department": "Acting",
+        "name": "Bolis Pupul",
+        "original_name": "Bolis Pupul",
+        "popularity": 0.1378,
+        "profile_path": null,
+        "credit_id": "69629965eb83cb1025d14e59",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5930693,
+        "known_for_department": "Production",
+        "name": "Kristof Lantin",
+        "original_name": "Kristof Lantin",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "6962c07936cd9d4f653d6c54",
+        "department": "Production",
+        "job": "Production Manager"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "During youth fire brigade training, Mila and Amélie’s friendship grows.",
+          "runtime": 16,
+          "tagline": "",
+          "title": "Forged in Fire"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "DE",
+        "title": "Feuertaufe",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt39321013",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/ws3Gws4cPY9ScE59FvtKrjxXblt.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "BE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "JEF Festival",
+            "release_date": "2026-02-14T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Docville",
+            "release_date": "2026-03-22T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Festival International du Film Francophone de Namur",
+            "release_date": "2026-09-30T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-17T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DOXS RUHR",
+            "release_date": "2026-10-05T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Ennesimo Film Festival",
+            "release_date": "2026-05-03T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Cinekid",
+            "release_date": "2026-10-15T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Vuurdoop | Ket & Doc 2026 | Trailer | JEF",
+        "key": "UtdX1y4niu0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "6978f556aaa1abc6cbabae43",
+        "published_at": "2026-01-20T16:31:23.000Z"
+      }
+    ]
+  }
+}

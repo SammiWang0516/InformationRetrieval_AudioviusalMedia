@@ -1,0 +1,891 @@
+{
+  "adult": false,
+  "backdrop_path": "/c3hLMqh2QqJd7m1ar6rxw9eio35.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81923353",
+  "id": 1723460,
+  "imdb_id": "tt43619305",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "A Toxic Love Story",
+  "overview": "A string of threatening emails escalates into a revenge plot involving a newly married US marshal and his ex-girlfriend.",
+  "popularity": 3.5205,
+  "poster_path": "/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
+  "production_companies": [
+    {
+      "id": 81364,
+      "logo_path": "/cwPL6vTyZi4tfqSaJ1gizzFdgST.png",
+      "name": "Curious Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2026-07-22",
+  "revenue": 0,
+  "runtime": 91,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "A Toxic Love Story",
+  "video": false,
+  "vote_average": 6.4,
+  "vote_count": 62,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5537818,
+        "known_for_department": "Acting",
+        "name": "Amanda Wear",
+        "original_name": "Amanda Wear",
+        "popularity": 0.2667,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Michelle",
+        "credit_id": "6a779d06adfc61fdebed2159",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5689703,
+        "known_for_department": "Acting",
+        "name": "Gavin Marck",
+        "original_name": "Gavin Marck",
+        "popularity": 0.3834,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Ian",
+        "credit_id": "6a779d210ebd6969f84f0309",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6398807,
+        "known_for_department": "Acting",
+        "name": "Katia Plotnikoff",
+        "original_name": "Katia Plotnikoff",
+        "popularity": 0.1274,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Angela",
+        "credit_id": "6a779d46bf2296ed34bda444",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2665660,
+        "known_for_department": "Acting",
+        "name": "Lainey Baldwin",
+        "original_name": "Lainey Baldwin",
+        "popularity": 0.1679,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Leslie",
+        "credit_id": "6a779d9e51ebc1479864f33b",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3564107,
+        "known_for_department": "Production",
+        "name": "Emma Supple",
+        "original_name": "Emma Supple",
+        "popularity": 0.1241,
+        "profile_path": null,
+        "credit_id": "6a43536af5d5a79501575a25",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3008457,
+        "known_for_department": "Production",
+        "name": "Dov Freedman",
+        "original_name": "Dov Freedman",
+        "popularity": 0.1598,
+        "profile_path": null,
+        "credit_id": "6a43537798a229d3482d7af8",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1045283,
+        "known_for_department": "Directing",
+        "name": "Charlie Russell",
+        "original_name": "Charlie Russell",
+        "popularity": 0.0862,
+        "profile_path": null,
+        "credit_id": "6a4353883b704e545ab1d02f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150542,
+        "known_for_department": "Directing",
+        "name": "Sam Hobkinson",
+        "original_name": "Sam Hobkinson",
+        "popularity": 0.3113,
+        "profile_path": "/sbTKKnP5EbOhd5PLz6LWhghfh9S.jpg",
+        "credit_id": "6a435390742fb9ebb02d7a8d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4002398,
+        "known_for_department": "Production",
+        "name": "Alexandra Lacey",
+        "original_name": "Alexandra Lacey",
+        "popularity": 0.3727,
+        "profile_path": null,
+        "credit_id": "6a4353990cc6d8fd5fa53612",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1459174,
+        "known_for_department": "Camera",
+        "name": "Megan Stacey",
+        "original_name": "Megan Stacey",
+        "popularity": 0.2329,
+        "profile_path": null,
+        "credit_id": "6a622f2f9c6167af110ed437",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4533337,
+        "known_for_department": "Editing",
+        "name": "Simon Mason",
+        "original_name": "Simon Mason",
+        "popularity": 0.1855,
+        "profile_path": null,
+        "credit_id": "6a62306c5994baedae87d2ea",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1859464,
+        "known_for_department": "Editing",
+        "name": "Tom Parsons",
+        "original_name": "Tom Parsons",
+        "popularity": 0.2248,
+        "profile_path": null,
+        "credit_id": "6a623076dc48ece5990207af",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1697072,
+        "known_for_department": "Editing",
+        "name": "Hugh Williams",
+        "original_name": "Hugh Williams",
+        "popularity": 0.3001,
+        "profile_path": null,
+        "credit_id": "6a62307e0b9da7375c020798",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 307587,
+        "name": "crime documentary"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "https://www.netflix.com/title/81923353",
+          "overview": "A string of threatening emails escalates into a revenge plot involving a newly married US marshal and his ex-girlfriend.",
+          "runtime": 91,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "IT",
+        "iso_639_1": "it",
+        "name": "Italiano",
+        "english_name": "Italian",
+        "data": {
+          "homepage": "",
+          "overview": "In questo documentario true crime, una serie di email minacciose degenera in un piano di vendetta che coinvolge un agente federale da poco sposato e la sua ex fidanzata.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "A Toxic Love Story: Il caso Michelle Hadley"
+        }
+      },
+      {
+        "iso_3166_1": "TR",
+        "iso_639_1": "tr",
+        "name": "Türkçe",
+        "english_name": "Turkish",
+        "data": {
+          "homepage": "",
+          "overview": "Bu gerçek suç belgeselinde bir dizi tehdit e-postası; yeni evli bir ABD mareşali ve eski kız arkadaşının dâhil olduğu bir intikam planına dönüşüyor.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Toksik Bir Aşk Hikâyesi"
+        }
+      },
+      {
+        "iso_3166_1": "CN",
+        "iso_639_1": "zh",
+        "name": "普通话",
+        "english_name": "Mandarin",
+        "data": {
+          "homepage": "",
+          "overview": "在光鲜亮丽的加州郊区，一名年轻女子因为对前男友新婚妻子的暴力幻想阴谋而遭逮捕，事件迅速演变成轰动四方的丑闻，然而真相却隐藏在一张精心编织的谎言之网背后。随着调查将层层背叛逐步揭开，究竟谁才是真正的受害者？而谁又是反派？事实晦涩难辨，毕竟在这场游戏中，每个人都各有盘算。",
+          "runtime": 0,
+          "tagline": "",
+          "title": "有毒爱情故事"
+        }
+      },
+      {
+        "iso_3166_1": "TH",
+        "iso_639_1": "th",
+        "name": "ภาษาไทย",
+        "english_name": "Thai",
+        "data": {
+          "homepage": "",
+          "overview": "ในสารคดีจากอาชญากรรมจริงเรื่องนี้ อีเมลข่มขู่หลายฉบับเกิดลุกลามกลายเป็นแผนแก้แค้น ซึ่งเกี่ยวพันกับเจ้าหน้าที่ของทางการสหรัฐฯ ที่เพิ่งแต่งงานและอดีตแฟนสาวของเขา",
+          "runtime": 0,
+          "tagline": "",
+          "title": "พิษรักเกมลวง"
+        }
+      },
+      {
+        "iso_3166_1": "BR",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "homepage": "",
+          "overview": "Uma série de e-mails ameaçadores se transforma em um plano de vingança envolvendo um marechal americano recém-casado e sua ex-namorada neste documentário sobre crimes reais.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Amor Tóxico"
+        }
+      },
+      {
+        "iso_3166_1": "CZ",
+        "iso_639_1": "cs",
+        "name": "Český",
+        "english_name": "Czech",
+        "data": {
+          "homepage": "",
+          "overview": "Série výhružných e-mailů vyústí v pomstu, do níž se zapletou čerstvě ženatý americký maršál a jeho bývalá přítelkyně.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Příběh toxické lásky"
+        }
+      },
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "Une série de courriels menaçants dégénère en un complot de vengeance impliquant un marshal américain récemment marié et son ex-petite amie.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Amour et Machinations"
+        }
+      },
+      {
+        "iso_3166_1": "KR",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말",
+        "english_name": "Korean",
+        "data": {
+          "homepage": "",
+          "overview": "이제 막 결혼한 미국 연방 보안관과 그의 전 여자 친구가 연루된 사건을 조명한 범죄 실화 다큐멘터리. 연이은 협박성 이메일이 치밀한 복수극으로 번진다. 호화로운 캘리포니아 교외 지역. 한 젊은 여성이 전 남자 친구의 아내에게 성폭행 판타지를 사주한 혐의로 체포된다. 해당 사건은 세간의 이목을 끌며 큰 파문을 일으키지만, 진실은 정교하게 설계된 기만의 그물 속에 가려져 있었다. 수사 과정에서 사건의 경위가 하나씩 드러나면서, 모두가 역할극을 벌이는 이 게임에서 누가 진짜 피해자이고 누가 가해자인지 그 경계가 모호해지기 시작한다.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "지독한 러브 스토리"
+        }
+      },
+      {
+        "iso_3166_1": "MX",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "En este documental sobre un caso real, una serie de emails amenazantes se convierte en un plan de venganza que involucra a un alguacil recién casado y su exnovia.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Una tóxica historia de amor"
+        }
+      },
+      {
+        "iso_3166_1": "HU",
+        "iso_639_1": "hu",
+        "name": "Magyar",
+        "english_name": "Hungarian",
+        "data": {
+          "homepage": "",
+          "overview": "A fenyegető e-mailek sorozata fokozatosan bosszúhadjárattá fajul, amelynek középpontjában egy frissen házasodott amerikai marsall és volt barátnője áll ebben a valós bűnügyet feldolgozó dokumentumfilmben.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Toxikus párkapcsolat"
+        }
+      },
+      {
+        "iso_3166_1": "PL",
+        "iso_639_1": "pl",
+        "name": "Polski",
+        "english_name": "Polish",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Toksyczna historia miłosna"
+        }
+      },
+      {
+        "iso_3166_1": "NL",
+        "iso_639_1": "nl",
+        "name": "Nederlands",
+        "english_name": "Dutch",
+        "data": {
+          "homepage": "",
+          "overview": "Een reeks dreigende e-mails escaleert in een wraakplan waarbij een pasgetrouwde Amerikaanse marshal en zijn ex-vriendin betrokken zijn.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "PT",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "homepage": "",
+          "overview": "Uma série de e-mails ameaçadores transforma-se num plano de vingança que envolve um delegado federal norte-americano recém-casado e a sua ex-namorada.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "TW",
+        "iso_639_1": "zh",
+        "name": "普通话",
+        "english_name": "Mandarin",
+        "data": {
+          "homepage": "https://www.netflix.com/tw/title/81923353",
+          "overview": "本片為真實犯罪紀錄片，主角是一名新婚美國法警與他的前女友，聚焦一連串電子恐嚇信如何逐步升級為復仇陰謀。",
+          "runtime": 0,
+          "tagline": "",
+          "title": "有毒愛情故事"
+        }
+      },
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Unos correos amenazantes derivan en una venganza donde se ven envueltos un agente federal de EE. UU. recién casado y su ex.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Una tóxica historia de amor"
+        }
+      },
+      {
+        "iso_3166_1": "UA",
+        "iso_639_1": "uk",
+        "name": "Український",
+        "english_name": "Ukrainian",
+        "data": {
+          "homepage": "",
+          "overview": "Листи з погрозами перетворюються на план помсти в документальному фільмі про нещодавно одруженого маршала США і його колишню дівчину. На основі реальних подій.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Токсична історія кохання"
+        }
+      },
+      {
+        "iso_3166_1": "IL",
+        "iso_639_1": "he",
+        "name": "עִבְרִית",
+        "english_name": "Hebrew",
+        "data": {
+          "homepage": "",
+          "overview": "סרט תעודה חדש המשחזר אחת מפרשות הפשע המוזרות שידעה קליפורניה בעשור האחרון. בקיץ 2016 מתחילה אנג'לה דיאז, שנישאה זמן קצר קודם לכן לסגן מרשל אמריקאי בשם איאן דיאז, לקבל הודעות מאיימות מחשבון אנונימי שמכנה את עצמו Lilithistruth, ובמקביל מתפרסמות במודעות קרייגסליסט הזמנות לגברים להגיע לבית הזוג באנהיים ולממש בה תרחיש אונס מבוים. כל האצבעות מצביעות על כיוון אחד: מישל האדלי, הארוסה לשעבר של איאן, שניהלה איתו מאבק מר על דירה משותפת שרכשו יחד. האדלי, אז סטודנטית לתואר שני בת 29, נעצרת, מואשמת בניסיון אונס ובהטרדה מאיימת, צפויה למאסר עולם ומבלה 88 ימים בכלא, מאבדת את עבודתה ואת שמה הטוב, ומגלה שאין לה שום דרך להוכיח שלא היא שלחה את ההודעות. אלא שאז מתהפכות היוצרות. הסרט בנוי סביב שלושת קודקודי הפרשה, הבעל, אשתו החדשה והארוסה לשעבר, ומתעכב פחות על הזוועה ויותר על השאלה כמה בקלות אפשר להשתמש היום בראיות דיגיטליות כדי לשתול אשמה באדם אחר, וכמה מהר משטרה מוכנה להאמין לגרסה שמגיעה מבעל תג.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "סיפור של אהבה רעילה"
+        }
+      },
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "",
+          "overview": "Die Verhaftung einer jungen Frau erschüttert einen wohlhabenden Vorort in Kalifornien. Ihr wird vorgeworfen, einen Plan gegen die neue Partnerin ihres Ex-Freundes geschmiedet zu haben, was schnell ein großes Medienecho auslöst. Während die Ermittlungen voranschreiten, kommen nach und nach Täuschungen, Geheimnisse und gegenseitiger Verrat ans Licht. Mit jeder neuen Enthüllung wird zunehmend unklar, wer tatsächlich Opfer ist und wer die Ereignisse lenkt.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "SE",
+        "iso_639_1": "sv",
+        "name": "svenska",
+        "english_name": "Swedish",
+        "data": {
+          "homepage": "",
+          "overview": "En rad hotfulla mejl eskalerar till en hämndplan som involverar en nygift polis och hans tidigare flickvän i denna kriminaldokumentär.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "BE",
+        "iso_639_1": "nl",
+        "name": "Nederlands",
+        "english_name": "Dutch",
+        "data": {
+          "homepage": "",
+          "overview": "Een reeks dreigende e-mails escaleert in een wraakplan waarbij een pasgetrouwde Amerikaanse marshal en zijn ex-vriendin betrokken zijn.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "SA",
+        "iso_639_1": "ar",
+        "name": "العربية",
+        "english_name": "Arabic",
+        "data": {
+          "homepage": "",
+          "overview": "سلسلة من رسائل البريد الإلكتروني المهددة تتصاعد إلى مؤامرة انتقام يتورط فيها مأمور فيدرالي حديث الزواج وحبيبته السابقة، في فيلم وثائقي.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt43619305",
+    "wikidata_id": "Q140770843",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 878,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/c3hLMqh2QqJd7m1ar6rxw9eio35.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1561
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1920,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/AjkfEwkDsr3Cp9wfdrlgNzaX4gb.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3413
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1920,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/nS76MtzDh2S0b5rtcTlWntWQofj.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3413
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1920,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/oJbIL33WeWDcoeKpmpGXPArYKR.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3413
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1920,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/kHIBNJ7rZDTyjRImmXPDgjK3YTJ.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3414
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1920,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/boJCiQH5zmNgSHewiQFBezZrsFW.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3414
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1920,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/t7afFRcE0Va17l0Urdzffc8nJXM.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3413
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1920,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/lTNnCPBZxI7Bjza5IjsUXhfpvMf.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3413
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1920,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/dxIbElczQnK5peokKgZLp3rhNm9.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3414
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1920,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/oBeVqbYz9052hFW4hhyqd4RPpOH.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3414
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1920,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/uSyceLWnQgyGJkJMeF4N6PI8oEA.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3413
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1920,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/A2HMNvtefr7WuScGxShYQGQVedt.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3413
+      }
+    ],
+    "logos": [
+      {
+        "aspect_ratio": 8.609,
+        "height": 46,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/kHTczF7aUN9YlNq4X6ETPQoWvob.png",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 396
+      },
+      {
+        "aspect_ratio": 6.746,
+        "height": 768,
+        "iso_3166_1": "CN",
+        "iso_639_1": "zh",
+        "file_path": "/lW8ufJV61o9nlUlNmfpMT4ZeqPi.png",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 5181
+      }
+    ],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1296,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/9CmyFXKqQRVbGGxyJE6kp7fhrHa.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 864
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/zPIWnGxBnE2DnraoTpX60pHmUr0.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1350,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/bKrqQGLlIM8qjCjWhHTg6AhrlsY.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 900
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1200,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/q20rITMCPeA4qz5kxIwkx5RiyuH.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 800
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/anjdwbS1hAenoskvwy9C9WjOdfT.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "CN",
+        "iso_639_1": "zh",
+        "file_path": "/sGiCVxmqaaZWHJPbQwX137Dirgk.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "MA 15+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-07-22T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-07-22T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-07-22T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IE",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-07-22T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "19",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-07-22T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NZ",
+        "release_dates": [
+          {
+            "certification": "R16",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-07-22T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SG",
+        "release_dates": [
+          {
+            "certification": "M18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-07-22T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TR",
+        "release_dates": [
+          {
+            "certification": "18+",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-07-22T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-07-22T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "9k9SYlMy9qs",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6a4353536fe1ed0a1cb1d0c3",
+        "published_at": "2026-06-29T15:00:00.000Z"
+      }
+    ]
+  }
+}

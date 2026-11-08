@@ -1,0 +1,666 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1633944,
+  "imdb_id": null,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Jauría",
+  "overview": "Hako and Marqués are two hitmen who have broken into the apartment of a former gang member in the neighborhood to collect a debt. However, nothing is as it seems, and they will soon discover that there is much more behind the legend of the Stray Dog.",
+  "popularity": 1.3625,
+  "poster_path": "/qFHkcOnqHjRy7k8ZO9MQohkux7K.jpg",
+  "production_companies": [
+    {
+      "id": 225241,
+      "logo_path": null,
+      "name": "San Filmin SL",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2026-02-26",
+  "revenue": 0,
+  "runtime": 19,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Before the sun goes down",
+  "title": "Jauría",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1986322,
+        "known_for_department": "Acting",
+        "name": "Patxi Santamaría",
+        "original_name": "Patxi Santamaría",
+        "popularity": 0.1994,
+        "profile_path": "/qZXXuV0okNT58vpruvicJKPHhKF.jpg",
+        "cast_id": 1,
+        "character": "Rob",
+        "credit_id": "698dbed85a8194a9c078db15",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6002569,
+        "known_for_department": "Acting",
+        "name": "Aleix Trinidad",
+        "original_name": "Aleix Trinidad",
+        "popularity": 0.1584,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Perro Callejero",
+        "credit_id": "698dbeea93992d5d57416bec",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5571328,
+        "known_for_department": "Acting",
+        "name": "Sena Ortiz de Zárate",
+        "original_name": "Sena Ortiz de Zárate",
+        "popularity": 0.4462,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Alicia",
+        "credit_id": "698dbf0e31f1c1224adcdbc9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3146723,
+        "known_for_department": "Acting",
+        "name": "Kino Gil",
+        "original_name": "Kino Gil",
+        "popularity": 0.425,
+        "profile_path": "/wAqbSYmShygwtYysAXYa6r8Pjw3.jpg",
+        "cast_id": 4,
+        "character": "Marqués",
+        "credit_id": "698dbf307d5d787263f25be5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5030024,
+        "known_for_department": "Acting",
+        "name": "Carlos Cábalas",
+        "original_name": "Carlos Cábalas",
+        "popularity": 0.1862,
+        "profile_path": "/jy0GwOe6VOoIJYnkepjTSayXwbQ.jpg",
+        "cast_id": 5,
+        "character": "Hako",
+        "credit_id": "698dbf4547430c87a56cf269",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6002576,
+        "known_for_department": "Acting",
+        "name": "Lina Vidal",
+        "original_name": "Lina Vidal",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Rebeca",
+        "credit_id": "698dbf5c227348e0f73d8785",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6002632,
+        "known_for_department": "Acting",
+        "name": "Julen Laguría",
+        "original_name": "Julen Laguría",
+        "popularity": 0.1513,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Galgo",
+        "credit_id": "698dc5259402162f60416bd4",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6007273,
+        "known_for_department": "Acting",
+        "name": "Aimar Aldaz",
+        "original_name": "Aimar Aldaz",
+        "popularity": 0.1142,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "Perro Andaluz",
+        "credit_id": "6990a702fd1a41fc70c8f173",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4753041,
+        "known_for_department": "Writing",
+        "name": "Guillermo Lobato",
+        "original_name": "Guillermo Lobato",
+        "popularity": 0.2268,
+        "profile_path": null,
+        "credit_id": "698dbf90bfad77eca0416c3b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4753041,
+        "known_for_department": "Writing",
+        "name": "Guillermo Lobato",
+        "original_name": "Guillermo Lobato",
+        "popularity": 0.2268,
+        "profile_path": null,
+        "credit_id": "698dbfa5cbdd835c3d78daee",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2885096,
+        "known_for_department": "Editing",
+        "name": "Jorge Celaya",
+        "original_name": "Jorge Celaya",
+        "popularity": 0.2886,
+        "profile_path": null,
+        "credit_id": "698dbfbda6deb6f0f6fb204a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2885096,
+        "known_for_department": "Editing",
+        "name": "Jorge Celaya",
+        "original_name": "Jorge Celaya",
+        "popularity": 0.2886,
+        "profile_path": null,
+        "credit_id": "698dbfcf9443864deafb206d",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6002579,
+        "known_for_department": "Art",
+        "name": "Patricia \"Patrona\"",
+        "original_name": "Patricia \"Patrona\"",
+        "popularity": 0.0431,
+        "profile_path": null,
+        "credit_id": "698dbff7b25a4349a5f25bd8",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6002579,
+        "known_for_department": "Art",
+        "name": "Patricia \"Patrona\"",
+        "original_name": "Patricia \"Patrona\"",
+        "popularity": 0.0431,
+        "profile_path": null,
+        "credit_id": "698dc012bfad77eca0416c46",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6002580,
+        "known_for_department": "Sound",
+        "name": "Sara Aldaba",
+        "original_name": "Sara Aldaba",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "698dc0288845a1f4c8dcdb45",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4659466,
+        "known_for_department": "Sound",
+        "name": "Sergio Nagore",
+        "original_name": "Sergio Nagore",
+        "popularity": 0.1212,
+        "profile_path": null,
+        "credit_id": "698dc044f4964967af78db17",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4753040,
+        "known_for_department": "Writing",
+        "name": "Iratxo Soto",
+        "original_name": "Iratxo Soto",
+        "popularity": 0.1454,
+        "profile_path": null,
+        "credit_id": "698dc0bae82a374afe78dba9",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6002595,
+        "known_for_department": "Production",
+        "name": "Silvia Domínguez",
+        "original_name": "Silvia Domínguez",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "698dc12247fbbadf4678dae4",
+        "department": "Production",
+        "job": "Production Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6002597,
+        "known_for_department": "Production",
+        "name": "Manuel Serrano",
+        "original_name": "Manuel Serrano",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "698dc15b88a88545f7e9f97d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4659447,
+        "known_for_department": "Production",
+        "name": "Aitana García-Egea",
+        "original_name": "Aitana García-Egea",
+        "popularity": 0.0444,
+        "profile_path": null,
+        "credit_id": "698dc18f8f4a3abcc9dcdb68",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6002602,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Zoe Alonso",
+        "original_name": "Zoe Alonso",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "698dc1bba1e4772e9eeabe53",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2347856,
+        "known_for_department": "Sound",
+        "name": "Danel Ciaurriz",
+        "original_name": "Danel Ciaurriz",
+        "popularity": 0.0972,
+        "profile_path": "/2JlGvAeUGIjsuXBQ78oT4lxl7tU.jpg",
+        "credit_id": "698dc1fa2513fec66e78db00",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4097881,
+        "known_for_department": "Sound",
+        "name": "Javier Asín",
+        "original_name": "Javier Asín",
+        "popularity": 0.0924,
+        "profile_path": null,
+        "credit_id": "698dc20ed171e7f1606cf33e",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6002613,
+        "known_for_department": "Editing",
+        "name": "Maddi Salazar",
+        "original_name": "Maddi Salazar",
+        "popularity": 0.0347,
+        "profile_path": null,
+        "credit_id": "698dc252405a732735fb208c",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4633794,
+        "known_for_department": "Production",
+        "name": "Aitana Usurbil",
+        "original_name": "Aitana Usurbil",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "698dc263b5cf34d778eabea2",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4964154,
+        "known_for_department": "Camera",
+        "name": "Ezza de Rose",
+        "original_name": "Ezza de Rose",
+        "popularity": 0.0658,
+        "profile_path": null,
+        "credit_id": "698dc280f9ddcfd9aa6cf1a5",
+        "department": "Camera",
+        "job": "Data Wrangler"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6002620,
+        "known_for_department": "Camera",
+        "name": "Aingeru Eleta",
+        "original_name": "Aingeru Eleta",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "698dc2ddb5cf34d778eabeb0",
+        "department": "Camera",
+        "job": "Camera Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6002621,
+        "known_for_department": "Camera",
+        "name": "Cristine Kamil",
+        "original_name": "Cristine Kamil",
+        "popularity": 0.0692,
+        "profile_path": null,
+        "credit_id": "698dc2f8cdb4b9eb07fb1fec",
+        "department": "Camera",
+        "job": "Camera Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6002622,
+        "known_for_department": "Lighting",
+        "name": "Max De la Cruz",
+        "original_name": "Max De la Cruz",
+        "popularity": 0.0473,
+        "profile_path": null,
+        "credit_id": "698dc311615ae75688eabf60",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6002623,
+        "known_for_department": "Lighting",
+        "name": "Aaron Ortiz",
+        "original_name": "Aaron Ortiz",
+        "popularity": 0.0354,
+        "profile_path": null,
+        "credit_id": "698dc328e47f13b35ae9fa4d",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6002624,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sara García Larreta",
+        "original_name": "Sara García Larreta",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "698dc37bca4c676b2b78db45",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6002625,
+        "known_for_department": "Sound",
+        "name": "Faustino Carnevale",
+        "original_name": "Faustino Carnevale",
+        "popularity": 0.0304,
+        "profile_path": null,
+        "credit_id": "698dc397000419d8a33d87e2",
+        "department": "Sound",
+        "job": "Sound Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6002627,
+        "known_for_department": "Production",
+        "name": "Amaia Marcos Fraile",
+        "original_name": "Amaia Marcos Fraile",
+        "popularity": 0.1217,
+        "profile_path": null,
+        "credit_id": "698dc3e5b5cf34d778eabed6",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6002628,
+        "known_for_department": "Production",
+        "name": "Itziar Castro",
+        "original_name": "Itziar Castro",
+        "popularity": 0.0539,
+        "profile_path": null,
+        "credit_id": "698dc3fd18c760ef1ef25b51",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6002629,
+        "known_for_department": "Art",
+        "name": "Leyre Petri",
+        "original_name": "Leyre Petri",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "698dc4477cf0ace04ce9fa32",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6002591,
+        "known_for_department": "Production",
+        "name": "José Ramón Lajarín",
+        "original_name": "José Ramón Lajarín",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "698dc469ce969e8a7e6cf287",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3198881,
+        "known_for_department": "Directing",
+        "name": "Emilia Rodríguez-Cano",
+        "original_name": "Emilia Rodríguez-Cano",
+        "popularity": 0.1661,
+        "profile_path": null,
+        "credit_id": "698dc47e0f6d174394eabe73",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6002630,
+        "known_for_department": "Directing",
+        "name": "Silvia R. Galindo",
+        "original_name": "Silvia R. Galindo",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "698dc4ca842f1795726cf29f",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 514,
+        "name": "spain"
+      },
+      {
+        "id": 10391,
+        "name": "mafia"
+      },
+      {
+        "id": 207573,
+        "name": "cine quinqui"
+      },
+      {
+        "id": 260873,
+        "name": "navarra"
+      },
+      {
+        "id": 281057,
+        "name": "spanish"
+      },
+      {
+        "id": 359320,
+        "name": "españa"
+      },
+      {
+        "id": 367524,
+        "name": "jauría"
+      },
+      {
+        "id": 367525,
+        "name": "tudela"
+      },
+      {
+        "id": 367526,
+        "name": "cascante"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Hako and Marqués are two hitmen who have broken into the apartment of a former gang member in the neighborhood to collect a debt. However, nothing is as it seems, and they will soon discover that there is much more behind the legend of the Stray Dog.",
+          "runtime": 19,
+          "tagline": "Before the sun goes down",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "",
+            "release_date": "2026-02-26T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

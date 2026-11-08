@@ -1,0 +1,628 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 1736399,
+  "imdb_id": "tt43704294",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Burgundy",
+  "overview": "The story of Burgundy’s most extraordinary characters and a celebration of the pleasure that defines their lives.",
+  "popularity": 1.1196,
+  "poster_path": "/cJkx9TZfcom79ukTnCSSoqwiC1A.jpg",
+  "production_companies": [
+    {
+      "id": 92454,
+      "logo_path": null,
+      "name": "Sustainable Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 215336,
+      "logo_path": "/8AEHHj0kGCyYd7vHyTbBiduDe4U.png",
+      "name": "Beautiful Stories",
+      "origin_country": "US"
+    },
+    {
+      "id": 149543,
+      "logo_path": null,
+      "name": "Bayard Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 19246,
+      "logo_path": "/4zrEZfTf94tyG4wRB599gRS0reU.png",
+      "name": "Faliro House Productions",
+      "origin_country": "GR"
+    },
+    {
+      "id": 66478,
+      "logo_path": "/u7WmMkfo9MqsqfD5cuDAbd0u1qY.png",
+      "name": "Artemis Rising",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2026-09-03",
+  "revenue": 0,
+  "runtime": 90,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Burgundy",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1934907,
+        "known_for_department": "Directing",
+        "name": "Michael Dweck",
+        "original_name": "Michael Dweck",
+        "popularity": 0.2979,
+        "profile_path": "/rL73pmYcODxvfzriNfhJ2DI18tj.jpg",
+        "cast_id": 4,
+        "character": "Director",
+        "credit_id": "6a62335883e42b76cddfc3cd",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1934908,
+        "known_for_department": "Directing",
+        "name": "Gregory Kershaw",
+        "original_name": "Gregory Kershaw",
+        "popularity": 0.2209,
+        "profile_path": "/ulZ7L9RepTrXvJaUGT3vOBauLFU.jpg",
+        "cast_id": 5,
+        "character": "Director",
+        "credit_id": "6a623361448e8f9079681b2c",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1934907,
+        "known_for_department": "Directing",
+        "name": "Michael Dweck",
+        "original_name": "Michael Dweck",
+        "popularity": 0.2979,
+        "profile_path": "/rL73pmYcODxvfzriNfhJ2DI18tj.jpg",
+        "credit_id": "6a61a441d5de167f57742ad7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1934908,
+        "known_for_department": "Directing",
+        "name": "Gregory Kershaw",
+        "original_name": "Gregory Kershaw",
+        "popularity": 0.2209,
+        "profile_path": "/ulZ7L9RepTrXvJaUGT3vOBauLFU.jpg",
+        "credit_id": "6a61a459fb04c3c25d240aaf",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2731674,
+        "known_for_department": "Production",
+        "name": "Cameron O'Reilly",
+        "original_name": "Cameron O'Reilly",
+        "popularity": 0.1794,
+        "profile_path": null,
+        "credit_id": "6a61a47852640b8af611d55d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1126877,
+        "known_for_department": "Production",
+        "name": "Geralyn White Dreyfous",
+        "original_name": "Geralyn White Dreyfous",
+        "popularity": 0.3994,
+        "profile_path": "/t25RCx0fyLkUJFOsc3uoPsPiIlM.jpg",
+        "credit_id": "6a7dd52b40b93bdbcb518048",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1147955,
+        "known_for_department": "Production",
+        "name": "Regina K. Scully",
+        "original_name": "Regina K. Scully",
+        "popularity": 0.2838,
+        "profile_path": "/dZPx8pJ9mi6UYLPZHZUgcyhy5Jf.jpg",
+        "credit_id": "6a7dd5341b6d9f233fc8968b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3461933,
+        "known_for_department": "Production",
+        "name": "Marni E.J. Grossman",
+        "original_name": "Marni E.J. Grossman",
+        "popularity": 0.1863,
+        "profile_path": "/kVQNdIoB3OW9MjcQYr5QRDMQTWD.jpg",
+        "credit_id": "6a7dd5c031bd23809244389f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1169002,
+        "known_for_department": "Production",
+        "name": "Jim Swartz",
+        "original_name": "Jim Swartz",
+        "popularity": 0.2325,
+        "profile_path": null,
+        "credit_id": "6a9df7d32e6c9a8ac19967bc",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1169003,
+        "known_for_department": "Production",
+        "name": "Susan Swartz",
+        "original_name": "Susan Swartz",
+        "popularity": 0.1815,
+        "profile_path": null,
+        "credit_id": "6a9df7db1ac3c71e4433ae57",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2731678,
+        "known_for_department": "Production",
+        "name": "Hallee Adelman",
+        "original_name": "Hallee Adelman",
+        "popularity": 0.2472,
+        "profile_path": "/ej0tU3yz7jA1ZvFYz9u0ZLMqyAV.jpg",
+        "credit_id": "6a9df82885721dcc3233aebb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2363118,
+        "known_for_department": "Production",
+        "name": "Grazka Taylor",
+        "original_name": "Grazka Taylor",
+        "popularity": 0.1059,
+        "profile_path": null,
+        "credit_id": "6a9df830b7346ca791c74960",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1007616,
+        "known_for_department": "Production",
+        "name": "Christos V. Konstantakopoulos",
+        "original_name": "Χρήστος Β. Κωνσταντακόπουλος",
+        "popularity": 0.2705,
+        "profile_path": "/fJuXYM27odGs29XUgmEK77mkQkF.jpg",
+        "credit_id": "6a9df84f72cb7f9d9d0c58f2",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2097608,
+        "known_for_department": "Production",
+        "name": "Shari Sant Plummer",
+        "original_name": "Shari Sant Plummer",
+        "popularity": 0.135,
+        "profile_path": null,
+        "credit_id": "6a9df857f9c8f3de914b47fc",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5876283,
+        "known_for_department": "Production",
+        "name": "Heather Kahlert",
+        "original_name": "Heather Kahlert",
+        "popularity": 0.0447,
+        "profile_path": null,
+        "credit_id": "6a9df865867d716d24f65f6e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3413067,
+        "known_for_department": "Production",
+        "name": "Meadow Fund",
+        "original_name": "Meadow Fund",
+        "popularity": 0.1925,
+        "profile_path": null,
+        "credit_id": "6a9df87c490df447ca143e26",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2033403,
+        "known_for_department": "Production",
+        "name": "Andrea van Beuren",
+        "original_name": "Andrea van Beuren",
+        "popularity": 0.415,
+        "profile_path": null,
+        "credit_id": "6a9df8892d388bcc3c78f28b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2731673,
+        "known_for_department": "Production",
+        "name": "Adam Lewis",
+        "original_name": "Adam Lewis",
+        "popularity": 0.3119,
+        "profile_path": null,
+        "credit_id": "6a9df899d3e1602e914b1a6b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2730686,
+        "known_for_department": "Production",
+        "name": "Melony Lewis",
+        "original_name": "Melony Lewis",
+        "popularity": 0.1498,
+        "profile_path": "/mmiFU5f4duzt6ivRFU4Je9DIpJ8.jpg",
+        "credit_id": "6a9df8a13aa74778305afd0a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2096222,
+        "known_for_department": "Production",
+        "name": "Jamie Wolf",
+        "original_name": "Jamie Wolf",
+        "popularity": 0.1537,
+        "profile_path": null,
+        "credit_id": "6a9df8e43aa74778305afd0f",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2374171,
+        "known_for_department": "Production",
+        "name": "Nathalie Seaver",
+        "original_name": "Nathalie Seaver",
+        "popularity": 0.1545,
+        "profile_path": "/xAPe3VHBFbBT3dl7m7uXyFbMhpy.jpg",
+        "credit_id": "6a9df8f2566d755a0d0c0e90",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1934908,
+        "known_for_department": "Directing",
+        "name": "Gregory Kershaw",
+        "original_name": "Gregory Kershaw",
+        "popularity": 0.2209,
+        "profile_path": "/ulZ7L9RepTrXvJaUGT3vOBauLFU.jpg",
+        "credit_id": "6a9df911566d755a0d0c0e95",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1934907,
+        "known_for_department": "Directing",
+        "name": "Michael Dweck",
+        "original_name": "Michael Dweck",
+        "popularity": 0.2979,
+        "profile_path": "/rL73pmYcODxvfzriNfhJ2DI18tj.jpg",
+        "credit_id": "6a9df91ac7ea26b8910c0e8b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1934908,
+        "known_for_department": "Directing",
+        "name": "Gregory Kershaw",
+        "original_name": "Gregory Kershaw",
+        "popularity": 0.2209,
+        "profile_path": "/ulZ7L9RepTrXvJaUGT3vOBauLFU.jpg",
+        "credit_id": "6a9df923319336991a996849",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1934907,
+        "known_for_department": "Directing",
+        "name": "Michael Dweck",
+        "original_name": "Michael Dweck",
+        "popularity": 0.2979,
+        "profile_path": "/rL73pmYcODxvfzriNfhJ2DI18tj.jpg",
+        "credit_id": "6a9df92d0686b89877c74a2e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2052305,
+        "known_for_department": "Production",
+        "name": "Victoria Steventon",
+        "original_name": "Victoria Steventon",
+        "popularity": 0.1338,
+        "profile_path": null,
+        "credit_id": "6a9df94f319336991a996851",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2731680,
+        "known_for_department": "Production",
+        "name": "Cecilia Luppi",
+        "original_name": "Cecilia Luppi",
+        "popularity": 0.1397,
+        "profile_path": null,
+        "credit_id": "6a9df96aedbfa51a464b4892",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 928257,
+        "known_for_department": "Editing",
+        "name": "Pauline Gaillard",
+        "original_name": "Pauline Gaillard",
+        "popularity": 0.3581,
+        "profile_path": null,
+        "credit_id": "6a9df9cf108c3d5544f57480",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 6563,
+        "name": "wine"
+      },
+      {
+        "id": 9840,
+        "name": "romance"
+      },
+      {
+        "id": 204241,
+        "name": "burgundy"
+      },
+      {
+        "id": 251543,
+        "name": "heritage"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "The story of Burgundy’s most extraordinary characters and a celebration of the pleasure that defines their lives.",
+          "runtime": 90,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "EE",
+        "title": "Burgundia",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt43704294",
+    "wikidata_id": "Q141182288",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.707,
+        "height": 841,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/cJkx9TZfcom79ukTnCSSoqwiC1A.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 595
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Zurich Film Festival ",
+            "release_date": "2026-09-28T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "San Sebastián International Film Festival ",
+            "release_date": "2026-09-23T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Deauville American Film Festival",
+            "release_date": "2026-09-12T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Venice International Film Festival",
+            "release_date": "2026-09-03T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Telluride Film Festival ",
+            "release_date": "2026-09-05T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Aspen Film Festival ",
+            "release_date": "2026-10-02T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Hamptons International Film Festival ",
+            "release_date": "2026-10-03T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Mill Valley Film Festival ",
+            "release_date": "2026-10-04T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

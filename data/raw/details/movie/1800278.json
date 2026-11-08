@@ -1,0 +1,596 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 11000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1800278,
+  "imdb_id": null,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_title": "Próxima Estação...",
+  "overview": "Alex is a shy, antisocial young man who finds a refuge from his daily routine at the subway. During his wanderings, he meets Sofia, a woman who seems to see the world differently than he does. This unexpected encounter leads him to question the way he relates to himself and to others.",
+  "popularity": 0.15,
+  "poster_path": "/5TjAEIG45dImyUVabz49tCBVFTG.jpg",
+  "production_companies": [
+    {
+      "id": 47546,
+      "logo_path": "/jkX3Ot0iTxyp53hYXkrQsovcUgv.png",
+      "name": "Secretaria Municipal de Cultura de São Paulo",
+      "origin_country": "BR"
+    },
+    {
+      "id": 315064,
+      "logo_path": null,
+      "name": "Nox Division",
+      "origin_country": ""
+    },
+    {
+      "id": 107240,
+      "logo_path": null,
+      "name": "MatorLandi",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "release_date": "2026-10-15",
+  "revenue": 11000,
+  "runtime": 24,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Station to Station",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5469315,
+        "known_for_department": "Acting",
+        "name": "Caio Fonseca",
+        "original_name": "Caio Fonseca",
+        "popularity": 0.0982,
+        "profile_path": "/iVvagXCfH3pJ239AXs6MxT20Lhe.jpg",
+        "cast_id": 1,
+        "character": "Alex",
+        "credit_id": "6ad3d96a75cc7f56751d39cd",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6556535,
+        "known_for_department": "Acting",
+        "name": "Mavi Siviero",
+        "original_name": "Mavi Siviero",
+        "popularity": 0.0733,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Sofia",
+        "credit_id": "6ad3d98b5919e4e6bcb40b33",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6556536,
+        "known_for_department": "Acting",
+        "name": "Diego Chimenes",
+        "original_name": "Diego Chimenes",
+        "popularity": 0.1657,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Diego",
+        "credit_id": "6ad3d997a9540de0984f5a36",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2289180,
+        "known_for_department": "Directing",
+        "name": "Matheus Orlandi",
+        "original_name": "Matheus Orlandi",
+        "popularity": 0.0591,
+        "profile_path": "/34XqDz0w27y8WtfR1E0d1HFakY7.jpg",
+        "credit_id": "6ad3d9af24c144386e1b2854",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2289180,
+        "known_for_department": "Directing",
+        "name": "Matheus Orlandi",
+        "original_name": "Matheus Orlandi",
+        "popularity": 0.0591,
+        "profile_path": "/34XqDz0w27y8WtfR1E0d1HFakY7.jpg",
+        "credit_id": "6ad3d9bdeb8058ff40d82737",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6556540,
+        "known_for_department": "Writing",
+        "name": "Warllem de Aquino",
+        "original_name": "Warllem de Aquino",
+        "popularity": 0.1205,
+        "profile_path": null,
+        "credit_id": "6ad3d9dedf0dc5b3543d9f62",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2289180,
+        "known_for_department": "Directing",
+        "name": "Matheus Orlandi",
+        "original_name": "Matheus Orlandi",
+        "popularity": 0.0591,
+        "profile_path": "/34XqDz0w27y8WtfR1E0d1HFakY7.jpg",
+        "credit_id": "6ad3d9e6db5df95fbe1d37c4",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6556535,
+        "known_for_department": "Acting",
+        "name": "Mavi Siviero",
+        "original_name": "Mavi Siviero",
+        "popularity": 0.0733,
+        "profile_path": null,
+        "credit_id": "6ad3d9eefc6413a6b91d3bdf",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6556545,
+        "known_for_department": "Writing",
+        "name": "Sol de la paz",
+        "original_name": "Sol de la paz",
+        "popularity": 0.1429,
+        "profile_path": null,
+        "credit_id": "6ad3da09baa78f0f4720c1ac",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6556548,
+        "known_for_department": "Crew",
+        "name": "Regiane Rodrigues",
+        "original_name": "Regiane Rodrigues",
+        "popularity": 0.085,
+        "profile_path": null,
+        "credit_id": "6ad3da5374817686c6c64866",
+        "department": "Crew",
+        "job": "Production Controller"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6556550,
+        "known_for_department": "Camera",
+        "name": "Luiza Iotti",
+        "original_name": "Luiza Iotti",
+        "popularity": 0.0968,
+        "profile_path": null,
+        "credit_id": "6ad3da714ae2da643ac645dc",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6556551,
+        "known_for_department": "Camera",
+        "name": "Mario A. Rufini",
+        "original_name": "Mario A. Rufini",
+        "popularity": 0.0889,
+        "profile_path": null,
+        "credit_id": "6ad3da896277b810d8b4082c",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2595330,
+        "known_for_department": "Sound",
+        "name": "Gianluca Quaranta",
+        "original_name": "Gianluca Quaranta",
+        "popularity": 0.0643,
+        "profile_path": null,
+        "credit_id": "6ad3da9cbe6735963a796450",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2289180,
+        "known_for_department": "Directing",
+        "name": "Matheus Orlandi",
+        "original_name": "Matheus Orlandi",
+        "popularity": 0.0591,
+        "profile_path": "/34XqDz0w27y8WtfR1E0d1HFakY7.jpg",
+        "credit_id": "6ad3daa66277b810d8b4082f",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6082868,
+        "known_for_department": "Acting",
+        "name": "Anderson Pax",
+        "original_name": "Anderson Pax",
+        "popularity": 0.106,
+        "profile_path": null,
+        "credit_id": "6ad3dabb160fc42ffa3d9ef2",
+        "department": "Editing",
+        "job": "Color Grading"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6556552,
+        "known_for_department": "Sound",
+        "name": "João Salvador",
+        "original_name": "João Salvador",
+        "popularity": 0.0943,
+        "profile_path": null,
+        "credit_id": "6ad3daddfc6413a6b91d3bff",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6556557,
+        "known_for_department": "Sound",
+        "name": "Dyelia (band)",
+        "original_name": "Dyelia (band)",
+        "popularity": 0.0917,
+        "profile_path": null,
+        "credit_id": "6ad3db23941472827d0d8442",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6556560,
+        "known_for_department": "Production",
+        "name": "Ravenna Camba",
+        "original_name": "Ravenna Camba",
+        "popularity": 0.0875,
+        "profile_path": null,
+        "credit_id": "6ad3db3f2fa10cf86ed827a1",
+        "department": "Production",
+        "job": "Consulting Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6556566,
+        "known_for_department": "Visual Effects",
+        "name": "Anderson M. Silva",
+        "original_name": "Anderson M. Silva",
+        "popularity": 0.0857,
+        "profile_path": null,
+        "credit_id": "6ad3db97369d6ef8fa4f583f",
+        "department": "Visual Effects",
+        "job": "Photo Retouching"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 6054,
+        "name": "friendship"
+      },
+      {
+        "id": 367,
+        "name": "shyness"
+      },
+      {
+        "id": 1552,
+        "name": "subway"
+      },
+      {
+        "id": 1646,
+        "name": "autism"
+      },
+      {
+        "id": 1647,
+        "name": "sadness"
+      },
+      {
+        "id": 5768,
+        "name": "urban life"
+      },
+      {
+        "id": 9713,
+        "name": "friends"
+      },
+      {
+        "id": 9957,
+        "name": "loneliness"
+      },
+      {
+        "id": 10616,
+        "name": "urban"
+      },
+      {
+        "id": 12401,
+        "name": "big city"
+      },
+      {
+        "id": 12648,
+        "name": "bromance"
+      },
+      {
+        "id": 13008,
+        "name": "train"
+      },
+      {
+        "id": 33496,
+        "name": "construction"
+      },
+      {
+        "id": 159451,
+        "name": "subway station"
+      },
+      {
+        "id": 162801,
+        "name": "subterranean"
+      },
+      {
+        "id": 164290,
+        "name": "crowd"
+      },
+      {
+        "id": 169993,
+        "name": "meet cute"
+      },
+      {
+        "id": 181165,
+        "name": "station"
+      },
+      {
+        "id": 185435,
+        "name": "railroad station"
+      },
+      {
+        "id": 188237,
+        "name": "teenage romance"
+      },
+      {
+        "id": 194292,
+        "name": "internet culture"
+      },
+      {
+        "id": 197823,
+        "name": "lonely"
+      },
+      {
+        "id": 206228,
+        "name": "cold weather"
+      },
+      {
+        "id": 207825,
+        "name": "connection"
+      },
+      {
+        "id": 220141,
+        "name": "city symphony"
+      },
+      {
+        "id": 260168,
+        "name": "the meet cute"
+      },
+      {
+        "id": 260290,
+        "name": "subway city"
+      },
+      {
+        "id": 264118,
+        "name": "brazil"
+      },
+      {
+        "id": 282997,
+        "name": "city"
+      },
+      {
+        "id": 288061,
+        "name": "metro"
+      },
+      {
+        "id": 314587,
+        "name": "natural"
+      },
+      {
+        "id": 326110,
+        "name": "urban love"
+      },
+      {
+        "id": 328555,
+        "name": "family bonds"
+      },
+      {
+        "id": 333623,
+        "name": "são paulo"
+      },
+      {
+        "id": 356625,
+        "name": "urban loneliness"
+      },
+      {
+        "id": 360680,
+        "name": "autism spectrum"
+      },
+      {
+        "id": 362727,
+        "name": "dialogue"
+      },
+      {
+        "id": 380658,
+        "name": "shy"
+      },
+      {
+        "id": 386480,
+        "name": "train movie"
+      },
+      {
+        "id": 386481,
+        "name": "edital"
+      },
+      {
+        "id": 386482,
+        "name": "recent"
+      },
+      {
+        "id": 386483,
+        "name": "sampa"
+      },
+      {
+        "id": 386484,
+        "name": "sampa city"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "BR",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "homepage": "",
+          "overview": "Alex é um jovem tímido e antissocial que encontra no metrô um refúgio da rotina. Durante suas andanças, conhece Sofia, uma mulher que parece enxergar o mundo de maneira diferente da sua. Esse encontro inesperado o leva a questionar a forma como se relaciona consigo mesmo e com os outros.",
+          "runtime": 25,
+          "tagline": "Station to Station",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Alex is a shy, antisocial young man who finds a refuge from his daily routine at the subway. During his wanderings, he meets Sofia, a woman who seems to see the world differently than he does. This unexpected encounter leads him to question the way he relates to himself and to others.",
+          "runtime": 24,
+          "tagline": "",
+          "title": "Station to Station"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Next Station...",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AR",
+        "title": "Próxima Estación...",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Station to Station",
+        "type": "Second title in english"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "proximaestacaofilme",
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/5TjAEIG45dImyUVabz49tCBVFTG.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [
+              "Inappropriate Language"
+            ],
+            "iso_639_1": "pt",
+            "note": "Exibição limitada, pré-estreia",
+            "release_date": "2026-10-15T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

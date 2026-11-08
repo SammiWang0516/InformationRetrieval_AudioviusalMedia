@@ -1,0 +1,934 @@
+{
+  "adult": false,
+  "backdrop_path": "/kRzXJVhtEc2yWtqTLyaGKPmuqTN.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "http://www.theobservancemovie.com",
+  "id": 1575534,
+  "imdb_id": "tt11043508",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Observance",
+  "overview": "After five years in a coma following a fatal car accident, Madison Neubauer wakes to find her home and family in the grip of 'The Observance', a religious cult who will stop at nothing to protect their secrets.",
+  "popularity": 1.2422,
+  "poster_path": "/3x5plaHrAupjG4r7YX8GpxI46qS.jpg",
+  "production_companies": [
+    {
+      "id": 104497,
+      "logo_path": null,
+      "name": "IndieGrip.com",
+      "origin_country": ""
+    },
+    {
+      "id": 222674,
+      "logo_path": null,
+      "name": "Bloody Marvelous Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 105527,
+      "logo_path": null,
+      "name": "Beyond Casual Media",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-02-13",
+  "revenue": 0,
+  "runtime": 104,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "We're Praying For You",
+  "title": "The Observance",
+  "video": false,
+  "vote_average": 5.0,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11769,
+        "known_for_department": "Acting",
+        "name": "Ted Raimi",
+        "original_name": "Ted Raimi",
+        "popularity": 1.1983,
+        "profile_path": "/juhz6ajCjjHlLPzYBxPtDxwX6em.jpg",
+        "cast_id": 1,
+        "character": "Richard Abernathy",
+        "credit_id": "690cd014520e490e18e18d79",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4607731,
+        "known_for_department": "Acting",
+        "name": "Kate Dailey",
+        "original_name": "Kate Dailey",
+        "popularity": 0.249,
+        "profile_path": "/bUqFuMDR5gZRs0xE44YZM1EpJIR.jpg",
+        "cast_id": 2,
+        "character": "Madison Neubauer",
+        "credit_id": "690cd047a5aa36b59fd73918",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3322986,
+        "known_for_department": "Crew",
+        "name": "Donald Morgan",
+        "original_name": "Donald Morgan",
+        "popularity": 0.2172,
+        "profile_path": "/f4SgPdMg73jOpZQPlCakX6gd7m2.jpg",
+        "cast_id": 18,
+        "character": "Brent Chase",
+        "credit_id": "6986ea5704a63e37428c88a8",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3617195,
+        "known_for_department": "Acting",
+        "name": "Alec James",
+        "original_name": "Alec James",
+        "popularity": 0.1321,
+        "profile_path": "/9JnFvV6LWIOcvrX5etd4ujcmNlo.jpg",
+        "cast_id": 3,
+        "character": "Jonah",
+        "credit_id": "690cd05c49a2d5cbc8ce77a9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5412646,
+        "known_for_department": "Acting",
+        "name": "Darby Cappillino",
+        "original_name": "Darby Cappillino",
+        "popularity": 0.1736,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Nia Neubauer",
+        "credit_id": "6986ea7094d54b62482ce17a",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3817432,
+        "known_for_department": "Acting",
+        "name": "Bronsonn Taylor",
+        "original_name": "Bronsonn Taylor",
+        "popularity": 0.284,
+        "profile_path": "/1WfD0JxykwosM3EwrbjDEq5iOUP.jpg",
+        "cast_id": 4,
+        "character": "Frank Kelly",
+        "credit_id": "690cd06c49a2d5cbc8ce77af",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1471093,
+        "known_for_department": "Acting",
+        "name": "Anna Borchert",
+        "original_name": "Anna Borchert",
+        "popularity": 0.2467,
+        "profile_path": "/zcfdMTdkAOaOgXLwPbxqrEPSQAK.jpg",
+        "cast_id": 5,
+        "character": "Athaliah",
+        "credit_id": "690cd07e804776dbe2d2477f",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5447743,
+        "known_for_department": "Acting",
+        "name": "Olivia Hallan",
+        "original_name": "Olivia Hallan",
+        "popularity": 0.2012,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Young Nia",
+        "credit_id": "6986ea88b8f57731ed3a9684",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3337790,
+        "known_for_department": "Acting",
+        "name": "Patrick Harney",
+        "original_name": "Patrick Harney",
+        "popularity": 0.0911,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Gabriel Neubauer",
+        "credit_id": "6986ea97a65955d2153a96b4",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4486322,
+        "known_for_department": "Acting",
+        "name": "Ashley Terpstra",
+        "original_name": "Ashley Terpstra",
+        "popularity": 0.0711,
+        "profile_path": "/jdvOW0Mcuw1wsQPErIccyIfaoQA.jpg",
+        "cast_id": 6,
+        "character": "Agent Townsend",
+        "credit_id": "690cd095f1aaf2deb2ce77b6",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4441049,
+        "known_for_department": "Acting",
+        "name": "Shedre \"Dre\" Woodard",
+        "original_name": "Shedre \"Dre\" Woodard",
+        "popularity": 0.0531,
+        "profile_path": "/kmz4pGdn7RuKbNfcxQoCo79TdMn.jpg",
+        "cast_id": 22,
+        "character": "SWAT",
+        "credit_id": "69914ccdcd740ebd82123f6e",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4713501,
+        "known_for_department": "Acting",
+        "name": "Darc Chain",
+        "original_name": "Darc Chain",
+        "popularity": 0.0733,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Funeral Patron",
+        "credit_id": "69914cd658ff550e7d287307",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6008448,
+        "known_for_department": "Acting",
+        "name": "Dylan Fincher",
+        "original_name": "Dylan Fincher",
+        "popularity": 0.032,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Running Man's Son",
+        "credit_id": "69914ced03355a5b611aebfa",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4011462,
+        "known_for_department": "Directing",
+        "name": "Barbara Zagrodnik",
+        "original_name": "Barbara Zagrodnik",
+        "popularity": 0.1059,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Dr. Teresa O'Sullivan",
+        "credit_id": "69914cf54dc463a6f46f63c0",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1881872,
+        "known_for_department": "Directing",
+        "name": "Matthew Buzzell",
+        "original_name": "Matthew Buzzell",
+        "popularity": 0.1776,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Officer Miller",
+        "credit_id": "69914cfe889bd8647784febe",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2881515,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Emily Schreiber",
+        "original_name": "Emily Schreiber",
+        "popularity": 0.0617,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Nurse",
+        "credit_id": "69914d0858d265fdba84feef",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4575784,
+        "known_for_department": "Acting",
+        "name": "Bryan Easley",
+        "original_name": "Bryan Easley",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Rucker Colton",
+        "credit_id": "69914d14889bd8647784fec2",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5628963,
+        "known_for_department": "Acting",
+        "name": "Jonathan E. Simmons",
+        "original_name": "Jonathan E. Simmons",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Hunter",
+        "credit_id": "69914d1ef5b9df81c92aea22",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5628964,
+        "known_for_department": "Acting",
+        "name": "Donte Muse",
+        "original_name": "Donte Muse",
+        "popularity": 0.1583,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Dr. Rothwell",
+        "credit_id": "69914d2a111535bdd9fa2da8",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1870079,
+        "known_for_department": "Acting",
+        "name": "Nico Feula",
+        "original_name": "Nico Feula",
+        "popularity": 0.1528,
+        "profile_path": "/lbga3e7J9QZhuS96eHzRCS6kHCS.jpg",
+        "cast_id": 31,
+        "character": "Agent Callahan",
+        "credit_id": "69914d332a1af8c6de958b9d",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6008450,
+        "known_for_department": "Acting",
+        "name": "Mayah Amorai Williams",
+        "original_name": "Mayah Amorai Williams",
+        "popularity": 0.0422,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Nurse",
+        "credit_id": "69914d3cef7efe7a88958a35",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3584570,
+        "known_for_department": "Acting",
+        "name": "Roger Dorsey",
+        "original_name": "Roger Dorsey",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Milton",
+        "credit_id": "69914d5a4a647e19a384ff51",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6008451,
+        "known_for_department": "Acting",
+        "name": "Burmudaful",
+        "original_name": "Burmudaful",
+        "popularity": 0.0641,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Funeral Attendee / Restaurant Patrons",
+        "credit_id": "69914d65cd740ebd82123f79",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5142244,
+        "known_for_department": "Acting",
+        "name": "Jason Vinson",
+        "original_name": "Jason Vinson",
+        "popularity": 0.032,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "SWAT",
+        "credit_id": "69914d6d4c1a324d62123f2a",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5076179,
+        "known_for_department": "Acting",
+        "name": "Tarynn Stineman",
+        "original_name": "Tarynn Stineman",
+        "popularity": 0.0548,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Sally",
+        "credit_id": "69914d7658ff550e7d287310",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4575777,
+        "known_for_department": "Acting",
+        "name": "Olaundra Grace",
+        "original_name": "Olaundra Grace",
+        "popularity": 0.0616,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Megan Kelly",
+        "credit_id": "69914d81f672098919958bdc",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3448766,
+        "known_for_department": "Production",
+        "name": "Lindsey Powell",
+        "original_name": "Lindsey Powell",
+        "popularity": 0.0664,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Gwen",
+        "credit_id": "69914d8b58eabfd84e287277",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6008452,
+        "known_for_department": "Acting",
+        "name": "Desmeion Robbin",
+        "original_name": "Desmeion Robbin",
+        "popularity": 0.0354,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "SWAT",
+        "credit_id": "69914d96f54a18b95c84fee0",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6008453,
+        "known_for_department": "Acting",
+        "name": "Laura Turner",
+        "original_name": "Laura Turner",
+        "popularity": 0.0331,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Female officer",
+        "credit_id": "69914daa58eabfd84e287288",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6008454,
+        "known_for_department": "Acting",
+        "name": "Justin Nguyen",
+        "original_name": "Justin Nguyen",
+        "popularity": 0.0337,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Billy Gilroy",
+        "credit_id": "69914dbca2452e12ef12403e",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6008455,
+        "known_for_department": "Acting",
+        "name": "Daniel Windham",
+        "original_name": "Daniel Windham",
+        "popularity": 0.0367,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "Lieutenant Hunt.",
+        "credit_id": "69914dc4386a13fed02aea44",
+        "order": 30
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4575780,
+        "known_for_department": "Acting",
+        "name": "Austin Rhodes",
+        "original_name": "Austin Rhodes",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "cast_id": 43,
+        "character": "Beckenham",
+        "credit_id": "69914dd006dd5bce13287389",
+        "order": 31
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6008456,
+        "known_for_department": "Acting",
+        "name": "Joie Deerfield",
+        "original_name": "Joie Deerfield",
+        "popularity": 0.0329,
+        "profile_path": null,
+        "cast_id": 44,
+        "character": "Running Man's Wife",
+        "credit_id": "69914dd91f5614a9c7958aac",
+        "order": 32
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6008457,
+        "known_for_department": "Acting",
+        "name": "Joie Murray",
+        "original_name": "Joie Murray",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "cast_id": 45,
+        "character": "Running Man's Wife",
+        "credit_id": "69914de39f2a78dc48958b70",
+        "order": 33
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6008458,
+        "known_for_department": "Acting",
+        "name": "Eric McConts",
+        "original_name": "Eric McConts",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 46,
+        "character": "SWAT",
+        "credit_id": "69914dedf672098919958be9",
+        "order": 34
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6008460,
+        "known_for_department": "Acting",
+        "name": "Jo Nash-Conner",
+        "original_name": "Jo Nash-Conner",
+        "popularity": 0.0514,
+        "profile_path": null,
+        "cast_id": 47,
+        "character": "Bernice Kelly",
+        "credit_id": "69914df5cff3ff79e2064f09",
+        "order": 35
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6008461,
+        "known_for_department": "Acting",
+        "name": "Charles Gunn",
+        "original_name": "Charles Gunn",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "cast_id": 48,
+        "character": "SWAT",
+        "credit_id": "69914e07fdefff70ec064f3b",
+        "order": 36
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6008462,
+        "known_for_department": "Acting",
+        "name": "Trentin Edgemon",
+        "original_name": "Trentin Edgemon",
+        "popularity": 0.0421,
+        "profile_path": null,
+        "cast_id": 49,
+        "character": "SWAT",
+        "credit_id": "69914e1158eabfd84e28729b",
+        "order": 37
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6008463,
+        "known_for_department": "Acting",
+        "name": "Brandon A. Smith",
+        "original_name": "Brandon A. Smith",
+        "popularity": 0.0671,
+        "profile_path": null,
+        "cast_id": 50,
+        "character": "Ezra Kelly",
+        "credit_id": "69914e272a6e9e756c958a5e",
+        "order": 38
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24898,
+        "known_for_department": "Acting",
+        "name": "Nathan Jones",
+        "original_name": "Nathan Jones",
+        "popularity": 1.6953,
+        "profile_path": "/hlu4qYy9JGPxGn0wT8Ea6mTWR8R.jpg",
+        "cast_id": 51,
+        "character": "SWAT",
+        "credit_id": "69914e39e071032f186f64b5",
+        "order": 39
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5472204,
+        "known_for_department": "Acting",
+        "name": "Johnny Snyder",
+        "original_name": "Johnny Snyder",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "cast_id": 52,
+        "character": "SWAT",
+        "credit_id": "69914e4558cfac1f8e958ab7",
+        "order": 40
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6008464,
+        "known_for_department": "Acting",
+        "name": "Kimberly W. Parker",
+        "original_name": "Kimberly W. Parker",
+        "popularity": 0.0559,
+        "profile_path": null,
+        "cast_id": 53,
+        "character": "Nurse",
+        "credit_id": "69914e4df5b9df81c92aea35",
+        "order": 41
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1117718,
+        "known_for_department": "Production",
+        "name": "Robert Hollocks",
+        "original_name": "Robert Hollocks",
+        "popularity": 0.1094,
+        "profile_path": "/xRGM4Ewu18fZpWg30qxI0QSHkKm.jpg",
+        "credit_id": "690cd0cdcecfcf4c7e9aaf01",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1117718,
+        "known_for_department": "Production",
+        "name": "Robert Hollocks",
+        "original_name": "Robert Hollocks",
+        "popularity": 0.1094,
+        "profile_path": "/xRGM4Ewu18fZpWg30qxI0QSHkKm.jpg",
+        "credit_id": "690cd0ed784b3005ccdd0de7",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5142199,
+        "known_for_department": "Production",
+        "name": "Amy Rhinehart Bailey",
+        "original_name": "Amy Rhinehart Bailey",
+        "popularity": 0.1538,
+        "profile_path": null,
+        "credit_id": "690cd0fd6b90fdef55c04c68",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3410790,
+        "known_for_department": "Production",
+        "name": "Karl King",
+        "original_name": "Karl King",
+        "popularity": 0.0359,
+        "profile_path": null,
+        "credit_id": "690cd10f49a2d5cbc8ce77b4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1117718,
+        "known_for_department": "Production",
+        "name": "Robert Hollocks",
+        "original_name": "Robert Hollocks",
+        "popularity": 0.1094,
+        "profile_path": "/xRGM4Ewu18fZpWg30qxI0QSHkKm.jpg",
+        "credit_id": "6986e9f725d4f8c9798fc581",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5142199,
+        "known_for_department": "Production",
+        "name": "Amy Rhinehart Bailey",
+        "original_name": "Amy Rhinehart Bailey",
+        "popularity": 0.1538,
+        "profile_path": null,
+        "credit_id": "6986ea006acd1778d58c88a9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1117718,
+        "known_for_department": "Production",
+        "name": "Robert Hollocks",
+        "original_name": "Robert Hollocks",
+        "popularity": 0.1094,
+        "profile_path": "/xRGM4Ewu18fZpWg30qxI0QSHkKm.jpg",
+        "credit_id": "6986ea0f9e490ab7358e6419",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3493864,
+        "known_for_department": "Sound",
+        "name": "Nick Cimity",
+        "original_name": "Nick Cimity",
+        "popularity": 0.102,
+        "profile_path": null,
+        "credit_id": "6986ea1dcdf77f6d478fc5ff",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1918669,
+        "known_for_department": "Sound",
+        "name": "Penka Kouneva",
+        "original_name": "Penka Kouneva",
+        "popularity": 0.0966,
+        "profile_path": null,
+        "credit_id": "6986ea264b4d0e70d0c1c160",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3221556,
+        "known_for_department": "Camera",
+        "name": "Denton Adkinson",
+        "original_name": "Denton Adkinson",
+        "popularity": 0.1281,
+        "profile_path": null,
+        "credit_id": "6986ea2cbe89ada48b2ce16d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3116436,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Tessa Hawkes",
+        "original_name": "Tessa Hawkes",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6986ea3cc4c112922c5d8474",
+        "department": "Production",
+        "job": "Casting Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 6158,
+        "name": "cult"
+      },
+      {
+        "id": 162766,
+        "name": "religious cult"
+      },
+      {
+        "id": 281237,
+        "name": "independent film"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "http://www.theobservancemovie.com",
+          "overview": "After five years in a coma following a fatal car accident, Madison Neubauer wakes to find her home and family in the grip of 'The Observance', a religious cult who will stop at nothing to protect their secrets.",
+          "runtime": 104,
+          "tagline": "We're Praying For You",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt11043508",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "theobservancemovie",
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/kRzXJVhtEc2yWtqTLyaGKPmuqTN.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/3x5plaHrAupjG4r7YX8GpxI46qS.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 900,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/8UXpqgY7rAALTeujRzzWB2TDPPQ.jpg",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 600
+      },
+      {
+        "aspect_ratio": 0.684,
+        "height": 2926,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/tDC1KDiL7ih6lDTaZBKjOxQOhmo.jpg",
+        "vote_average": 0.166,
+        "vote_count": 2,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-13T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "The Observance - Official Trailer (2025) Ted Raimi, Kate Dailey, Bronsonn Taylor",
+        "key": "q72JrCethkU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "6986e92389e9529e135d8460",
+        "published_at": "2025-07-15T18:09:11.000Z"
+      }
+    ]
+  }
+}

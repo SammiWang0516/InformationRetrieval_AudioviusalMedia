@@ -1,0 +1,942 @@
+{
+  "adult": false,
+  "backdrop_path": "/xOPP68gAixbDZ3gBHe9vEzpQqJv.jpg",
+  "belongs_to_collection": null,
+  "budget": 20000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 1647525,
+  "imdb_id": null,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_title": "Poeira",
+  "overview": "",
+  "popularity": 1.0539,
+  "poster_path": "/q5Aj6LS1YF7x7QPSbutDewE9Phi.jpg",
+  "production_companies": [
+    {
+      "id": 291972,
+      "logo_path": null,
+      "name": "Quintal Filmes",
+      "origin_country": ""
+    },
+    {
+      "id": 127021,
+      "logo_path": null,
+      "name": "ACME Film",
+      "origin_country": ""
+    },
+    {
+      "id": 273173,
+      "logo_path": null,
+      "name": "Baracoa Filmes",
+      "origin_country": ""
+    },
+    {
+      "id": 291973,
+      "logo_path": null,
+      "name": "Toca.hub",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "release_date": "2026-03-04",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Poeira",
+  "video": false,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1126875,
+        "known_for_department": "Acting",
+        "name": "Enrique Díaz",
+        "original_name": "Enrique Díaz",
+        "popularity": 0.2675,
+        "profile_path": "/bGdE9lqldBpiFISHLFrETNQhQh5.jpg",
+        "cast_id": 1,
+        "character": "Adalberto Fernandes",
+        "credit_id": "69b1a385d181eba12f1b81bf",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3296193,
+        "known_for_department": "Production",
+        "name": "Ana \"Frango Elétrico\"",
+        "original_name": "Ana \"Frango Elétrico\"",
+        "popularity": 0.281,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Ana",
+        "credit_id": "69b1a398b368d1a006da6692",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1498607,
+        "known_for_department": "Acting",
+        "name": "Clarissa Pinheiro",
+        "original_name": "Clarissa Pinheiro",
+        "popularity": 0.3455,
+        "profile_path": "/didPtKsD3Pg7YmDsNxHT8DPGqGz.jpg",
+        "cast_id": 3,
+        "character": "Mariza Fausto",
+        "credit_id": "69b1a3a9d5d6fd23aa0945ff",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6064640,
+        "known_for_department": "Directing",
+        "name": "Mateus Lana",
+        "original_name": "Mateus Lana",
+        "popularity": 0.3151,
+        "profile_path": null,
+        "credit_id": "69b1a3e3f0bea207e1da67b4",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6064640,
+        "known_for_department": "Directing",
+        "name": "Mateus Lana",
+        "original_name": "Mateus Lana",
+        "popularity": 0.3151,
+        "profile_path": null,
+        "credit_id": "69b1a3f974882f7d1f2a73e3",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6064640,
+        "known_for_department": "Directing",
+        "name": "Mateus Lana",
+        "original_name": "Mateus Lana",
+        "popularity": 0.3151,
+        "profile_path": null,
+        "credit_id": "69b1a407b368d1a006da669c",
+        "department": "Writing",
+        "job": "Screenstory"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6064647,
+        "known_for_department": "Writing",
+        "name": "Francisco Gaspar",
+        "original_name": "Francisco Gaspar",
+        "popularity": 0.0621,
+        "profile_path": null,
+        "credit_id": "69b1a4235c068ea4422a7360",
+        "department": "Writing",
+        "job": "Screenstory"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1872534,
+        "known_for_department": "Camera",
+        "name": "Dudu Mafra",
+        "original_name": "Dudu Mafra",
+        "popularity": 0.2705,
+        "profile_path": null,
+        "credit_id": "69b1a436c44bf17fc62a742b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4896737,
+        "known_for_department": "Directing",
+        "name": "Anna Lu Machado",
+        "original_name": "Anna Lu Machado",
+        "popularity": 0.1214,
+        "profile_path": null,
+        "credit_id": "69b1a44f5c068ea4422a7363",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6064654,
+        "known_for_department": "Editing",
+        "name": "Felipe Bibian",
+        "original_name": "Felipe Bibian",
+        "popularity": 0.0722,
+        "profile_path": null,
+        "credit_id": "69b1a48ea1f7caad4b84b08b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2224656,
+        "known_for_department": "Editing",
+        "name": "Gabriel Medeiros",
+        "original_name": "Gabriel Medeiros",
+        "popularity": 0.0438,
+        "profile_path": null,
+        "credit_id": "69b1a4b333ab342a5b959be2",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6064661,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Luna Jatobá",
+        "original_name": "Luna Jatobá",
+        "popularity": 0.0682,
+        "profile_path": null,
+        "credit_id": "69b1a4e7b10e560cf72a744e",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6064664,
+        "known_for_department": "Art",
+        "name": "Marina Rozenthal",
+        "original_name": "Marina Rozenthal",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "69b1a53f7b6ad685cd1b81ec",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1821081,
+        "known_for_department": "Sound",
+        "name": "Igor Leite",
+        "original_name": "Igor Leite Araújo",
+        "popularity": 0.2777,
+        "profile_path": null,
+        "credit_id": "69b1a583ff579b1820959cce",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1872533,
+        "known_for_department": "Sound",
+        "name": "Fernando Aranha",
+        "original_name": "Fernando Aranha",
+        "popularity": 0.2349,
+        "profile_path": null,
+        "credit_id": "69b1a59467f7cdaa1feba38b",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3296193,
+        "known_for_department": "Production",
+        "name": "Ana \"Frango Elétrico\"",
+        "original_name": "Ana \"Frango Elétrico\"",
+        "popularity": 0.281,
+        "profile_path": null,
+        "credit_id": "69b1a5b349344e778b372da1",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1872533,
+        "known_for_department": "Sound",
+        "name": "Fernando Aranha",
+        "original_name": "Fernando Aranha",
+        "popularity": 0.2349,
+        "profile_path": null,
+        "credit_id": "69b1a5c4f974e44f1784b0c6",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4582127,
+        "known_for_department": "Sound",
+        "name": "Guga Bruno",
+        "original_name": "Guga Bruno",
+        "popularity": 0.1924,
+        "profile_path": null,
+        "credit_id": "69b1a5d79818a89ca62a7389",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1903525,
+        "known_for_department": "Sound",
+        "name": "Bernardo Adeodato",
+        "original_name": "Bernardo Adeodato",
+        "popularity": 0.1155,
+        "profile_path": null,
+        "credit_id": "69b1a5f95c1afa85aeeba5ea",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2247790,
+        "known_for_department": "Directing",
+        "name": "Julia Menna Barreto",
+        "original_name": "Julia Menna Barreto",
+        "popularity": 0.0254,
+        "profile_path": "/yyMwqAEmR9NGhcaZXDjaQdqQaMQ.jpg",
+        "credit_id": "69b1a6112ac418e0b51b81f8",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4896737,
+        "known_for_department": "Directing",
+        "name": "Anna Lu Machado",
+        "original_name": "Anna Lu Machado",
+        "popularity": 0.1214,
+        "profile_path": null,
+        "credit_id": "69b2daf105c13524b64efeb0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6064666,
+        "known_for_department": "Production",
+        "name": "Vanessa Eça",
+        "original_name": "Vanessa Eça",
+        "popularity": 0.0879,
+        "profile_path": null,
+        "credit_id": "69b2db030c37f83fadd43d17",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6064653,
+        "known_for_department": "Production",
+        "name": "Mariana Heleno",
+        "original_name": "Mariana Heleno",
+        "popularity": 0.062,
+        "profile_path": null,
+        "credit_id": "69b2db1732010b2c654b7365",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4132978,
+        "known_for_department": "Directing",
+        "name": "Carolina Magalhães",
+        "original_name": "Carolina Magalhães",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69b2db9cc388985f1221d676",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6064647,
+        "known_for_department": "Writing",
+        "name": "Francisco Gaspar",
+        "original_name": "Francisco Gaspar",
+        "popularity": 0.0621,
+        "profile_path": null,
+        "credit_id": "69b2dcf04a6511d3f84b7208",
+        "department": "Crew",
+        "job": "Propmaker"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6066703,
+        "known_for_department": "Crew",
+        "name": "MARVIN Props",
+        "original_name": "MARVIN Props",
+        "popularity": 0.0522,
+        "profile_path": null,
+        "credit_id": "69b2dd085c85eaf8664efef2",
+        "department": "Crew",
+        "job": "Propmaker"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6066708,
+        "known_for_department": "Visual Effects",
+        "name": "Bernardo Leite",
+        "original_name": "Bernardo Leite",
+        "popularity": 0.0986,
+        "profile_path": null,
+        "credit_id": "69b2dd59f109e1235aa77002",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6066708,
+        "known_for_department": "Visual Effects",
+        "name": "Bernardo Leite",
+        "original_name": "Bernardo Leite",
+        "popularity": 0.0986,
+        "profile_path": null,
+        "credit_id": "69b2dd8694be29198f02c0bd",
+        "department": "Art",
+        "job": "Art Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6066710,
+        "known_for_department": "Art",
+        "name": "Vitor Jobim",
+        "original_name": "Vitor Jobim",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "69b2dd971bd6ebab20685e11",
+        "department": "Art",
+        "job": "Art Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6066712,
+        "known_for_department": "Production",
+        "name": "Catarina Costa",
+        "original_name": "Catarina Costa",
+        "popularity": 0.0692,
+        "profile_path": null,
+        "credit_id": "69b2ddae99aaa0073e02c1cc",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6066713,
+        "known_for_department": "Production",
+        "name": "Daniel Patrick Martins",
+        "original_name": "Daniel Patrick Martins",
+        "popularity": 0.0365,
+        "profile_path": null,
+        "credit_id": "69b2ddc6291efafa9c21d447",
+        "department": "Production",
+        "job": "Executive Producer's Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6066716,
+        "known_for_department": "Production",
+        "name": "Ronald Martins",
+        "original_name": "Ronald Martins",
+        "popularity": 0.0626,
+        "profile_path": null,
+        "credit_id": "69b2ddfb01f86b31dfa76fd9",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6066719,
+        "known_for_department": "Camera",
+        "name": "João Chataignier",
+        "original_name": "João Chataignier",
+        "popularity": 0.0386,
+        "profile_path": null,
+        "credit_id": "69b2de8e32010b2c654b7385",
+        "department": "Camera",
+        "job": "Camera Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6066721,
+        "known_for_department": "Camera",
+        "name": "Lucas Leal Costa",
+        "original_name": "Lucas Leal Costa",
+        "popularity": 0.0606,
+        "profile_path": null,
+        "credit_id": "69b2deb8cf3ff478a34b712f",
+        "department": "Camera",
+        "job": "Clapper Loader"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6066722,
+        "known_for_department": "Directing",
+        "name": "Antonio Rabello",
+        "original_name": "Antonio Rabello",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69b2def132212d365a21d5fc",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6066724,
+        "known_for_department": "Camera",
+        "name": "Beatriz Torres",
+        "original_name": "Beatriz Torres",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "credit_id": "69b2df2dac6966b68b21d6d8",
+        "department": "Camera",
+        "job": "Camera Intern"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6066726,
+        "known_for_department": "Lighting",
+        "name": "Douglas de Oliveira",
+        "original_name": "Douglas de Oliveira",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69b2df4a954cec053e685db5",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6066728,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Nani Gama",
+        "original_name": "Nani Gama",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "69b2df68bf7dd299794eff5c",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6066730,
+        "known_for_department": "Sound",
+        "name": "Carol Lippe",
+        "original_name": "Carol Lippe",
+        "popularity": 0.0764,
+        "profile_path": null,
+        "credit_id": "69b2df8fac6966b68b21d6e2",
+        "department": "Sound",
+        "job": "Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2214660,
+        "known_for_department": "Visual Effects",
+        "name": "Bernardo Neder",
+        "original_name": "Bernardo Neder",
+        "popularity": 0.1109,
+        "profile_path": null,
+        "credit_id": "69b2dfa7703647c0cfd43e0d",
+        "department": "Editing",
+        "job": "Color Grading"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5481608,
+        "known_for_department": "Camera",
+        "name": "Maurício Maezaka",
+        "original_name": "Maurício Maezaka",
+        "popularity": 0.4234,
+        "profile_path": null,
+        "credit_id": "69b2dfda55fbe47625d43cab",
+        "department": "Camera",
+        "job": "Camera Trainee"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6066732,
+        "known_for_department": "Sound",
+        "name": "Felipe Marques",
+        "original_name": "Felipe Marques",
+        "popularity": 0.0489,
+        "profile_path": null,
+        "credit_id": "69b2e00205c13524b64efefc",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6064666,
+        "known_for_department": "Production",
+        "name": "Vanessa Eça",
+        "original_name": "Vanessa Eça",
+        "popularity": 0.0879,
+        "profile_path": null,
+        "credit_id": "69b2e01955fbe47625d43cb2",
+        "department": "Production",
+        "job": "Controller"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6066734,
+        "known_for_department": "Production",
+        "name": "Daniel Cruz",
+        "original_name": "Daniel Cruz",
+        "popularity": 0.0544,
+        "profile_path": null,
+        "credit_id": "69b2e036eb39740bd821d5e0",
+        "department": "Production",
+        "job": "Controller"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6066737,
+        "known_for_department": "Crew",
+        "name": "João Gila",
+        "original_name": "João Gila",
+        "popularity": 0.1411,
+        "profile_path": null,
+        "credit_id": "69b2e09655fbe47625d43ccb",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6066739,
+        "known_for_department": "Crew",
+        "name": "Cássia Bittar",
+        "original_name": "Cássia Bittar",
+        "popularity": 0.0671,
+        "profile_path": null,
+        "credit_id": "69b2e0f1db411f1a7c817806",
+        "department": "Crew",
+        "job": "Editorial Staff"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5481608,
+        "known_for_department": "Camera",
+        "name": "Maurício Maezaka",
+        "original_name": "Maurício Maezaka",
+        "popularity": 0.4234,
+        "profile_path": null,
+        "credit_id": "69b2e111e6982be4559d623b",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6066742,
+        "known_for_department": "Camera",
+        "name": "Chico Canella",
+        "original_name": "Chico Canella",
+        "popularity": 0.0476,
+        "profile_path": null,
+        "credit_id": "69b2e12c88996382acd43e47",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6066744,
+        "known_for_department": "Camera",
+        "name": "Amanda Melo",
+        "original_name": "Amanda Melo",
+        "popularity": 0.0551,
+        "profile_path": null,
+        "credit_id": "69b2e143c2504801fe4eff32",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3851120,
+        "known_for_department": "Lighting",
+        "name": "Phabien Silvério",
+        "original_name": "Phabien Silvério",
+        "popularity": 0.0692,
+        "profile_path": null,
+        "credit_id": "69b2e15f05c13524b64eff07",
+        "department": "Crew",
+        "job": "Machinist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1476084,
+        "known_for_department": "Art",
+        "name": "Silvia Rumen",
+        "original_name": "Silvia Rumen",
+        "popularity": 0.0784,
+        "profile_path": null,
+        "credit_id": "69b2e18c55601173f38178ce",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6066747,
+        "known_for_department": "Art",
+        "name": "Thiago Tarsitano",
+        "original_name": "Thiago Tarsitano",
+        "popularity": 0.0671,
+        "profile_path": null,
+        "credit_id": "69b2e1a994be29198f02c0d2",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6066749,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Lau Pessoa",
+        "original_name": "Lau Pessoa",
+        "popularity": 0.0613,
+        "profile_path": null,
+        "credit_id": "69b2e1d29db1d87b814b71b3",
+        "department": "Costume & Make-Up",
+        "job": "Dresser"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6066751,
+        "known_for_department": "Art",
+        "name": "Pedro Guarino",
+        "original_name": "Pedro Guarino",
+        "popularity": 0.0528,
+        "profile_path": null,
+        "credit_id": "69b2e20c52c7a8c04a21d5fa",
+        "department": "Art",
+        "job": "Art Department Trainee"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 194998,
+        "name": "curious"
+      },
+      {
+        "id": 239187,
+        "name": "lyrical"
+      },
+      {
+        "id": 314167,
+        "name": "poesia"
+      },
+      {
+        "id": 319397,
+        "name": "witty"
+      },
+      {
+        "id": 325765,
+        "name": "amused"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "BR",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "homepage": "",
+          "overview": "Um escritor de coração partido quer publicar seu livro, mas o manuscrito é rejeitado pelo editor e triturado por um aspirador robô em poemas melhores, dedicados à Alexa da casa. Fascinado, o escritor alimenta o novo autor com os clássicos, desencadeando um choque surreal entre autoria, amor e limpeza.",
+          "runtime": 21,
+          "tagline": "",
+          "title": "Dustsceawung"
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/xOPP68gAixbDZ3gBHe9vEzpQqJv.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/zn7dT7pz0xIu2OL37SuCkftuqwI.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/ylH7sasFSPn4qY7UZt7SEbdVYVu.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/8YCi1y8rBKoOhxamksPqTgc2F1E.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/uRYpPkOepqPdZDefNT3E78jJ6TH.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.677,
+        "height": 2956,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/q5Aj6LS1YF7x7QPSbutDewE9Phi.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "pt",
+            "note": "Fantasporto 46º",
+            "release_date": "2026-03-04T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

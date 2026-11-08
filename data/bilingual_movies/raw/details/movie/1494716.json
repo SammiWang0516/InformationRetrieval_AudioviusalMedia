@@ -1,0 +1,995 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1494716,
+  "imdb_id": "tt33063480",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "Foreigner",
+  "overview": "Set in 2004, Iranian immigrant Yasamin aka Yasi is the new girl at a Canadian school. Her high school experience is daunting, as she tries to improve her English by watching her favorite sitcom and befriends a trio of pastel-clad girls who feed Yasi’s need to fit in. Desperate for acceptance, she dyes her hair blonde and, in doing so, also attracts a demonic force.",
+  "popularity": 0.8337,
+  "poster_path": "/nLTbhnVJ717HOQcEeY6owjuQeko.jpg",
+  "production_companies": [
+    {
+      "id": 264704,
+      "logo_path": null,
+      "name": "Saffron Blonde Productions",
+      "origin_country": "CA"
+    },
+    {
+      "id": 264703,
+      "logo_path": null,
+      "name": "The Harlequin Theatre Society",
+      "origin_country": "CA"
+    },
+    {
+      "id": 264705,
+      "logo_path": "/xOW3H6qWGgOjxMKgblhIP208jYy.png",
+      "name": "Naltobel Productions",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2025-07-31",
+  "revenue": 0,
+  "runtime": 80,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Persian",
+      "iso_639_1": "fa",
+      "name": "فارسی"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Foreigner",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5457809,
+        "known_for_department": "Acting",
+        "name": "Rose Dehgan",
+        "original_name": "Rose Dehgan",
+        "popularity": 0.2444,
+        "profile_path": "/tz7LTUWpOR8qk4UEWy9znSjuR8H.jpg",
+        "cast_id": 3,
+        "character": "Yasamin Karimi",
+        "credit_id": "684585a95cb27fb822342373",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4116502,
+        "known_for_department": "Acting",
+        "name": "Chloë MacLeod",
+        "original_name": "Chloë MacLeod",
+        "popularity": 0.3035,
+        "profile_path": "/nWt3ZDawqS7btrpC4kSieVebO7P.jpg",
+        "cast_id": 4,
+        "character": "Rachel Stanford",
+        "credit_id": "684585c72435c5cb9d301570",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5205421,
+        "known_for_department": "Acting",
+        "name": "Talisa Mae Stewart",
+        "original_name": "Talisa Mae Stewart",
+        "popularity": 0.2733,
+        "profile_path": "/swSeMDwM8FOmeWOveQYNx9In4UA.jpg",
+        "cast_id": 5,
+        "character": "Kristen",
+        "credit_id": "684585dc4c96d90b89342446",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5017650,
+        "known_for_department": "Acting",
+        "name": "Cassie Collis",
+        "original_name": "Cassie Collis",
+        "popularity": 0.1676,
+        "profile_path": "/AvwyzebrmZXjrSbOg75pNMHPq6i.jpg",
+        "cast_id": 6,
+        "character": "Sarah",
+        "credit_id": "684585f6f04aaafb783fc4a7",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5491908,
+        "known_for_department": "Acting",
+        "name": "Victoria Wardell",
+        "original_name": "Victoria Wardell",
+        "popularity": 0.1733,
+        "profile_path": "/7mdOGF5cH4l6fU5y2980TluBVKO.jpg",
+        "cast_id": 7,
+        "character": "Emily",
+        "credit_id": "684586167ee5e90008fd5a94",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5491913,
+        "known_for_department": "Acting",
+        "name": "Laurel Bailey",
+        "original_name": "Laurel Bailey",
+        "popularity": 0.3139,
+        "profile_path": "/p7rFQiqw8zsEu4r1USYVAmyxAVn.jpg",
+        "cast_id": 8,
+        "character": "Mrs. Feinstein",
+        "credit_id": "684586557ee5e90008fd5aa0",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5491915,
+        "known_for_department": "Acting",
+        "name": "Ashkan Nejati",
+        "original_name": "Ashkan Nejati",
+        "popularity": 0.0532,
+        "profile_path": "/mcuHQqdLQz1eaYjdv50zWrmvhTx.jpg",
+        "cast_id": 9,
+        "character": "Ali Karimi",
+        "credit_id": "6845866b789ef510931ea500",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5491919,
+        "known_for_department": "Acting",
+        "name": "Jim Maher",
+        "original_name": "Jim Maher",
+        "popularity": 0.0682,
+        "profile_path": "/gdlwQ8MxdUMwdDpeGIQAZgooeoT.jpg",
+        "cast_id": 10,
+        "character": "Rod Stanford",
+        "credit_id": "68458683075e60e6f9342363",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1359628,
+        "known_for_department": "Acting",
+        "name": "Matthew Graham",
+        "original_name": "Matthew Graham",
+        "popularity": 0.4951,
+        "profile_path": "/kHnxlfs5nB8JAr7vWrtL8WF0xgu.jpg",
+        "cast_id": 12,
+        "character": "Dan",
+        "credit_id": "698647afebf0b36b4c6b5a3a",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5991417,
+        "known_for_department": "Acting",
+        "name": "Fujon Pishbin",
+        "original_name": "Fujon Pishbin",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Arezoo",
+        "credit_id": "698649c34537bcb0366b5a0e",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5991419,
+        "known_for_department": "Acting",
+        "name": "Barana Bazian",
+        "original_name": "Barana Bazian",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Young Yazmin",
+        "credit_id": "698649ce8bfc0c1aab3455f1",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5991420,
+        "known_for_department": "Acting",
+        "name": "Spencer Werenka",
+        "original_name": "Spencer Werenka",
+        "popularity": 0.0833,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Marty Covack",
+        "credit_id": "698649d78004cfe9646918e6",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5991421,
+        "known_for_department": "Acting",
+        "name": "Atrin Saghafi",
+        "original_name": "Atrin Saghafi",
+        "popularity": 0.0254,
+        "profile_path": "/f1CklfZCMqK9Qfsacq8qjGFAdp2.jpg",
+        "cast_id": 16,
+        "character": "Arash Maleki",
+        "credit_id": "698649e02f4161757e61a85b",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4381124,
+        "known_for_department": "Acting",
+        "name": "Luis Fernando Hernandez Carbajal",
+        "original_name": "Luis Fernando Hernandez Carbajal",
+        "popularity": 0.3209,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Alex",
+        "credit_id": "69864a11eb176f9a8061a8f3",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5991315,
+        "known_for_department": "Acting",
+        "name": "Asal Torabi",
+        "original_name": "Asal Torabi",
+        "popularity": 0.0909,
+        "profile_path": "/jrsUbg6Ezwe2J1sftZhWBnBeweR.jpg",
+        "cast_id": 18,
+        "character": "Dye Blonde Rookie",
+        "credit_id": "69864a209b6ea0673761a8e5",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5869477,
+        "known_for_department": "Acting",
+        "name": "Madi Drescher",
+        "original_name": "Madi Drescher",
+        "popularity": 0.0383,
+        "profile_path": "/tCnpVvp2LjQdS2gWFZ0lQjHToBY.jpg",
+        "cast_id": 19,
+        "character": "Dye Blonde Model 1",
+        "credit_id": "69864a34bfff2c964761a843",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4363189,
+        "known_for_department": "Acting",
+        "name": "Avery Rose Taylor",
+        "original_name": "Avery Rose Taylor",
+        "popularity": 0.3192,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Dye Blonde Model 2",
+        "credit_id": "69864a3d7ff989bd3d29a9c1",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5940986,
+        "known_for_department": "Acting",
+        "name": "Mackenzie Smart",
+        "original_name": "Mackenzie Smart",
+        "popularity": 0.171,
+        "profile_path": "/g8vbOc5DPSRq6eq1O5r5X7bEL1T.jpg",
+        "cast_id": 21,
+        "character": "Dye Blonde Model 3",
+        "credit_id": "69864a473e42ba341e48dec8",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5654627,
+        "known_for_department": "Acting",
+        "name": "Caylee Watrin",
+        "original_name": "Caylee Watrin",
+        "popularity": 0.1326,
+        "profile_path": "/zAvaLrUTCYT1buQvIFFpbtnntEJ.jpg",
+        "cast_id": 22,
+        "character": "Store Clerk",
+        "credit_id": "69864a6ccea169403099dad2",
+        "order": 18
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5491901,
+        "known_for_department": "Directing",
+        "name": "Ava Maria Safai",
+        "original_name": "Ava Maria Safai",
+        "popularity": 0.1004,
+        "profile_path": "/2lGuUo1YAYNxXnNCeHSM2FFuxKV.jpg",
+        "credit_id": "68458592242ced0a9e342444",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5491901,
+        "known_for_department": "Directing",
+        "name": "Ava Maria Safai",
+        "original_name": "Ava Maria Safai",
+        "popularity": 0.1004,
+        "profile_path": "/2lGuUo1YAYNxXnNCeHSM2FFuxKV.jpg",
+        "credit_id": "68464a70c6121b019f342796",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3717939,
+        "known_for_department": "Production",
+        "name": "Nic Altobelli",
+        "original_name": "Nic Altobelli",
+        "popularity": 0.0747,
+        "profile_path": "/qvDneTEXnsHi2MFjq8auHhcTF88.jpg",
+        "credit_id": "69864aec0ec8478e6561a8a5",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5991437,
+        "known_for_department": "Production",
+        "name": "Nicco Graham",
+        "original_name": "Nicco Graham",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "69864af52f4161757e61a86f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5654627,
+        "known_for_department": "Acting",
+        "name": "Caylee Watrin",
+        "original_name": "Caylee Watrin",
+        "popularity": 0.1326,
+        "profile_path": "/zAvaLrUTCYT1buQvIFFpbtnntEJ.jpg",
+        "credit_id": "69864afe9b6ea0673761a903",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5951735,
+        "known_for_department": "Production",
+        "name": "Lesha Jay Vescio",
+        "original_name": "Lesha Jay Vescio",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "credit_id": "69864b054537bcb0366b5a13",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5491901,
+        "known_for_department": "Directing",
+        "name": "Ava Maria Safai",
+        "original_name": "Ava Maria Safai",
+        "popularity": 0.1004,
+        "profile_path": "/2lGuUo1YAYNxXnNCeHSM2FFuxKV.jpg",
+        "credit_id": "69864b0fc9155ae86c691818",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4291626,
+        "known_for_department": "Production",
+        "name": "Nancy Q",
+        "original_name": "Nancy Q",
+        "popularity": 0.0895,
+        "profile_path": null,
+        "credit_id": "69864b16b7ceb9f950289f62",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5991440,
+        "known_for_department": "Sound",
+        "name": "Finka Wood",
+        "original_name": "Finka Wood",
+        "popularity": 0.1345,
+        "profile_path": null,
+        "credit_id": "69864b1fc9b2816b5a99dad1",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5991441,
+        "known_for_department": "Crew",
+        "name": "Saarthak Taneja",
+        "original_name": "Saarthak Taneja",
+        "popularity": 0.0673,
+        "profile_path": null,
+        "credit_id": "69864b278bfc0c1aab34560e",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5491901,
+        "known_for_department": "Directing",
+        "name": "Ava Maria Safai",
+        "original_name": "Ava Maria Safai",
+        "popularity": 0.1004,
+        "profile_path": "/2lGuUo1YAYNxXnNCeHSM2FFuxKV.jpg",
+        "credit_id": "69864b2fae21e1754f691949",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5282244,
+        "known_for_department": "Production",
+        "name": "Maria Georgescu",
+        "original_name": "Maria Georgescu",
+        "popularity": 0.0654,
+        "profile_path": null,
+        "credit_id": "69864b396946d377ef29aa37",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5991442,
+        "known_for_department": "Production",
+        "name": "Hannah Grace Nicholls",
+        "original_name": "Hannah Grace Nicholls",
+        "popularity": 0.0688,
+        "profile_path": null,
+        "credit_id": "69864b4686d69d4b976b5a12",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4918122,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Robby De Mesa",
+        "original_name": "Robby De Mesa",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69864b57c9155ae86c69181c",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5991445,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sam Kronstal",
+        "original_name": "Sam Kronstal",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69864b618bfc0c1aab34561c",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5569748,
+        "known_for_department": "Art",
+        "name": "Gui Queiroz",
+        "original_name": "Gui Queiroz",
+        "popularity": 0.1561,
+        "profile_path": null,
+        "credit_id": "69864b72b653ff655261aa18",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5654627,
+        "known_for_department": "Acting",
+        "name": "Caylee Watrin",
+        "original_name": "Caylee Watrin",
+        "popularity": 0.1326,
+        "profile_path": "/zAvaLrUTCYT1buQvIFFpbtnntEJ.jpg",
+        "credit_id": "69864b7d86d69d4b976b5a1c",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4316683,
+        "known_for_department": "Crew",
+        "name": "Julz LaBrash",
+        "original_name": "Julz LaBrash",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "69864b8aeb7c2beb8b21946b",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5892289,
+        "known_for_department": "Sound",
+        "name": "Luis Fernando Garza",
+        "original_name": "Luis Fernando Garza",
+        "popularity": 0.2644,
+        "profile_path": null,
+        "credit_id": "69864b9698cbeb313b29a98a",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5569775,
+        "known_for_department": "Sound",
+        "name": "Taliesin Herb",
+        "original_name": "Taliesin Herb",
+        "popularity": 0.0369,
+        "profile_path": null,
+        "credit_id": "69864ba85abe95e70a219380",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5991450,
+        "known_for_department": "Sound",
+        "name": "Jordi Ramos Rivera",
+        "original_name": "Jordi Ramos Rivera",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "credit_id": "69864bb88004cfe964691906",
+        "department": "Sound",
+        "job": "Assistant Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1397174,
+        "known_for_department": "Crew",
+        "name": "Rory Cutler",
+        "original_name": "Rory Cutler",
+        "popularity": 0.1709,
+        "profile_path": null,
+        "credit_id": "69864bc2cb1ec51a2b6b5ab0",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3437917,
+        "known_for_department": "Directing",
+        "name": "Louis Poulain",
+        "original_name": "Louis Poulain",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69864bcd473998454a28a3c8",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5991453,
+        "known_for_department": "Crew",
+        "name": "Lennea Nelson",
+        "original_name": "Lennea Nelson",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69864bd64fc5f8febb29a911",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3532688,
+        "known_for_department": "Crew",
+        "name": "Jessica Firman",
+        "original_name": "Jessica Firman",
+        "popularity": 0.0667,
+        "profile_path": null,
+        "credit_id": "69864be0c32fd5c1746b59fe",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3905814,
+        "known_for_department": "Camera",
+        "name": "Parker Chen",
+        "original_name": "Parker Chen",
+        "popularity": 0.0449,
+        "profile_path": null,
+        "credit_id": "69864bedb653ff655261aa1e",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5829286,
+        "known_for_department": "Camera",
+        "name": "Jonathan Gogoi",
+        "original_name": "Jonathan Gogoi",
+        "popularity": 0.0508,
+        "profile_path": null,
+        "credit_id": "69864bfd2375987d636b5bd9",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4114302,
+        "known_for_department": "Camera",
+        "name": "Jasmine Hans",
+        "original_name": "Jasmine Hans",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "69864c08cb1ec51a2b6b5ab7",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3760173,
+        "known_for_department": "Lighting",
+        "name": "Acacia Hong",
+        "original_name": "Acacia Hong",
+        "popularity": 0.0769,
+        "profile_path": null,
+        "credit_id": "69864c10b2054a999699d9bf",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5939390,
+        "known_for_department": "Production",
+        "name": "Natalie Kurtz",
+        "original_name": "Natalie Kurtz",
+        "popularity": 0.0514,
+        "profile_path": null,
+        "credit_id": "69864c1abb479b3e2361b24c",
+        "department": "Camera",
+        "job": "Camera Trainee"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5991456,
+        "known_for_department": "Camera",
+        "name": "Noah Marchildon-Wylie",
+        "original_name": "Noah Marchildon-Wylie",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69864c24ca9992afb748df93",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5991456,
+        "known_for_department": "Camera",
+        "name": "Noah Marchildon-Wylie",
+        "original_name": "Noah Marchildon-Wylie",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69864c2a6946d377ef29aa3a",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5991458,
+        "known_for_department": "Lighting",
+        "name": "Ajith Ramakrishnan",
+        "original_name": "Ajith Ramakrishnan",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69864c3303baacfed021942e",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4317871,
+        "known_for_department": "Camera",
+        "name": "Mel Yerna",
+        "original_name": "Mel Yerna",
+        "popularity": 0.1326,
+        "profile_path": null,
+        "credit_id": "69864c3a484ee160f2289ec5",
+        "department": "Camera",
+        "job": "Camera Trainee"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4712351,
+        "known_for_department": "Lighting",
+        "name": "Agustín Silva Ocampo",
+        "original_name": "Agustín Silva Ocampo",
+        "popularity": 0.065,
+        "profile_path": null,
+        "credit_id": "69864c4246a0995fd3345415",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4363205,
+        "known_for_department": "Camera",
+        "name": "Jeff Li",
+        "original_name": "Jeff Li",
+        "popularity": 0.0599,
+        "profile_path": null,
+        "credit_id": "69864c508004cfe964691910",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5991461,
+        "known_for_department": "Production",
+        "name": "Carson Gervais",
+        "original_name": "Carson Gervais",
+        "popularity": 0.0507,
+        "profile_path": null,
+        "credit_id": "69864c5a2375987d636b5be6",
+        "department": "Production",
+        "job": "Assistant Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5654631,
+        "known_for_department": "Acting",
+        "name": "Juan Pablo Saa",
+        "original_name": "Juan Pablo Saa",
+        "popularity": 0.2275,
+        "profile_path": "/4nOnHmABSX9PpHCAk8bOjzlvNHl.jpg",
+        "credit_id": "69864c649b6ea0673761a909",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5569806,
+        "known_for_department": "Directing",
+        "name": "Josefina Llanos Lopez",
+        "original_name": "Josefina Llanos Lopez",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69864c6c2f4161757e61a892",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2039130,
+        "known_for_department": "Editing",
+        "name": "Anne Boyle",
+        "original_name": "Anne Boyle",
+        "popularity": 0.1382,
+        "profile_path": null,
+        "credit_id": "69864c74b0d3fd348099da16",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5939390,
+        "known_for_department": "Production",
+        "name": "Natalie Kurtz",
+        "original_name": "Natalie Kurtz",
+        "popularity": 0.0514,
+        "profile_path": null,
+        "credit_id": "69864c82ee40c4fb8c6918aa",
+        "department": "Production",
+        "job": "Production Assistant"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Set in 2004, Iranian immigrant Yasamin aka Yasi is the new girl at a Canadian school. Her high school experience is daunting, as she tries to improve her English by watching her favorite sitcom and befriends a trio of pastel-clad girls who feed Yasi’s need to fit in. Desperate for acceptance, she dyes her hair blonde and, in doing so, also attracts a demonic force.",
+          "runtime": 80,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "RU",
+        "iso_639_1": "ru",
+        "name": "Pусский",
+        "english_name": "Russian",
+        "data": {
+          "homepage": "",
+          "overview": "Иммигрантка из Ирана Ясамин Карими отчаянно пытается стать своей в новой канадской школе, а для этого ей надо добиться расположения королевы класса Рэйчел Стэнфорд. На пути к своей цели девочка избавляется от своих черных кудрей, оттачивает английский и перекрашивается в блондинку. Но по мере того, как она превращается в икону стиля 2004 года, начинает пробуждаться страшный древний демон, связанный с ее предками.",
+          "runtime": 80,
+          "tagline": "",
+          "title": "Чужая"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt33063480",
+    "wikidata_id": "Q135649647",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1024,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/nLTbhnVJ717HOQcEeY6owjuQeko.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 683
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 2880,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/qjMlpajODlcqBbRVMG9R0zkzOo2.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1920
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Fantasia International Film Festival",
+            "release_date": "2025-07-31T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Brugggore Filmfestival",
+            "release_date": "2026-04-22T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Moscow International Film Festival",
+            "release_date": "2026-04-17T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

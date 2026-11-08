@@ -1,0 +1,668 @@
+{
+  "adult": false,
+  "backdrop_path": "/zW6yWAZD4B94fUEy7QzYSGe0yG3.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.bbc.co.uk/programmes/m002zl1y",
+  "id": 1739960,
+  "imdb_id": "tt43724724",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Jared Leto: Hollywood's Dark Secret",
+  "overview": "An investigative documentary exploring long-standing and newly detailed allegations of sexual misconduct, grooming, and criminal sexual conduct against Oscar-winning actor and Thirty Seconds to Mars frontman Jared Leto.",
+  "popularity": 2.4362,
+  "poster_path": "/3Tq6JTx5NNc4GSHYK2DmkhulmDG.jpg",
+  "production_companies": [
+    {
+      "id": 169941,
+      "logo_path": null,
+      "name": "BBC Current Affairs",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2026-07-29",
+  "revenue": 0,
+  "runtime": 57,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Jared Leto: Hollywood's Dark Secret",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7499,
+        "known_for_department": "Acting",
+        "name": "Jared Leto",
+        "original_name": "Jared Leto",
+        "popularity": 3.7832,
+        "profile_path": "/ca3x0OfIKbJppZh8S1Alx3GfUZO.jpg",
+        "cast_id": 1,
+        "character": "Self (archive footage)",
+        "credit_id": "6a6a137f7edc1682f436bc5c",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5183881,
+        "known_for_department": "Acting",
+        "name": "Maureen Ryan",
+        "original_name": "Maureen Ryan",
+        "popularity": 0.4604,
+        "profile_path": "/gaGrviAlsZkcBVy0TUZp7OhxYNg.jpg",
+        "cast_id": 3,
+        "character": "Self",
+        "credit_id": "6a6a74f3b9669f324bcf4747",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6378235,
+        "known_for_department": "Acting",
+        "name": "Elena Clavarino",
+        "original_name": "Elena Clavarino",
+        "popularity": 0.1526,
+        "profile_path": "/pn2n7M3AqM73xRxwmmNu6ofILtA.jpg",
+        "cast_id": 4,
+        "character": "Self",
+        "credit_id": "6a6a7509e08b050196b9a579",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6378284,
+        "known_for_department": "Production",
+        "name": "Jessica Sartenaer",
+        "original_name": "Jessica Sartenaer",
+        "popularity": 0.215,
+        "profile_path": "/rFAGGMAwJaUTo0w2uElRtnbdBR3.jpg",
+        "cast_id": 27,
+        "character": "Self",
+        "credit_id": "6a6aa96a99ed9ca98c6ccb2c",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 14,
+        "known_for_department": "Acting",
+        "name": "Ellen DeGeneres",
+        "original_name": "Ellen DeGeneres",
+        "popularity": 1.3277,
+        "profile_path": "/z8IEEid4z63CBlJtxrTKEfsW7NA.jpg",
+        "cast_id": 28,
+        "character": "Self (archive footage)",
+        "credit_id": "6a6cf0639aba5b8e3277205d",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4968158,
+        "known_for_department": "Directing",
+        "name": "Alice McShane",
+        "original_name": "Alice McShane",
+        "popularity": 0.08,
+        "profile_path": null,
+        "credit_id": "6a6a732fb9669f324bcf472f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4968158,
+        "known_for_department": "Directing",
+        "name": "Alice McShane",
+        "original_name": "Alice McShane",
+        "popularity": 0.08,
+        "profile_path": null,
+        "credit_id": "6a6a820904e548cc75d2eec5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6378284,
+        "known_for_department": "Production",
+        "name": "Jessica Sartenaer",
+        "original_name": "Jessica Sartenaer",
+        "popularity": 0.215,
+        "profile_path": "/rFAGGMAwJaUTo0w2uElRtnbdBR3.jpg",
+        "credit_id": "6a6a82169f4b6eb5f54af43c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1520071,
+        "known_for_department": "Production",
+        "name": "Mike Radford",
+        "original_name": "Mike Radford",
+        "popularity": 0.3702,
+        "profile_path": "/muH3PwEKwiLZ4qzpIEGMChOsqFa.jpg",
+        "credit_id": "6a6a822d55cc0b8cd70e787d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1851019,
+        "known_for_department": "Editing",
+        "name": "Martin Craswell",
+        "original_name": "Martin Craswell",
+        "popularity": 0.1859,
+        "profile_path": null,
+        "credit_id": "6a6a841509129891730e78a8",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2178753,
+        "known_for_department": "Camera",
+        "name": "Theodore Tennant",
+        "original_name": "Theodore Tennant",
+        "popularity": 0.0895,
+        "profile_path": null,
+        "credit_id": "6a6a844d74e1937a4aeca398",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4327158,
+        "known_for_department": "Production",
+        "name": "Kate Redman",
+        "original_name": "Kate Redman",
+        "popularity": 0.1459,
+        "profile_path": null,
+        "credit_id": "6a6a8546c551130f5c27d79b",
+        "department": "Editing",
+        "job": "Archival Footage Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6030667,
+        "known_for_department": "Editing",
+        "name": "Stuart Robertson",
+        "original_name": "Stuart Robertson",
+        "popularity": 0.0446,
+        "profile_path": null,
+        "credit_id": "6a6a861242f156785c6cca10",
+        "department": "Editing",
+        "job": "Archival Footage Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6030666,
+        "known_for_department": "Production",
+        "name": "Vasiliy Kolotilov",
+        "original_name": "Vasiliy Kolotilov",
+        "popularity": 0.1039,
+        "profile_path": null,
+        "credit_id": "6a6a86af861a91d4633252a2",
+        "department": "Production",
+        "job": "Researcher"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2920132,
+        "known_for_department": "Production",
+        "name": "Jake Williams",
+        "original_name": "Jake Williams",
+        "popularity": 0.1616,
+        "profile_path": null,
+        "credit_id": "6a6a86f52b9f339fa20e78bb",
+        "department": "Production",
+        "job": "Researcher"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6378297,
+        "known_for_department": "Camera",
+        "name": "David Smith",
+        "original_name": "David Smith",
+        "popularity": 0.1041,
+        "profile_path": null,
+        "credit_id": "6a6a87ce8f178d6de43252b6",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6378298,
+        "known_for_department": "Art",
+        "name": "Kyle Surety",
+        "original_name": "Kyle Surety",
+        "popularity": 0.2043,
+        "profile_path": null,
+        "credit_id": "6a6a87dc9fb3f81c7127d78b",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1992958,
+        "known_for_department": "Editing",
+        "name": "Dom Bailey",
+        "original_name": "Dom Bailey",
+        "popularity": 0.0942,
+        "profile_path": null,
+        "credit_id": "6a6a87f40994c3207b27d7be",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1992958,
+        "known_for_department": "Editing",
+        "name": "Dom Bailey",
+        "original_name": "Dom Bailey",
+        "popularity": 0.0942,
+        "profile_path": null,
+        "credit_id": "6a6a88a51bceb12c1aac87e4",
+        "department": "Editing",
+        "job": "Online Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 22366,
+        "known_for_department": "Sound",
+        "name": "Rowan Jennings",
+        "original_name": "Rowan Jennings",
+        "popularity": 0.1996,
+        "profile_path": null,
+        "credit_id": "6a6a8939469bc275226cc9af",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6378301,
+        "known_for_department": "Production",
+        "name": "Alicia Newall",
+        "original_name": "Alicia Newall",
+        "popularity": 0.0994,
+        "profile_path": null,
+        "credit_id": "6a6a895893025417e3d2eeeb",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1566121,
+        "known_for_department": "Production",
+        "name": "Keshia Agyei",
+        "original_name": "Keshia Agyei",
+        "popularity": 0.1939,
+        "profile_path": null,
+        "credit_id": "6a6a89670a62b6e0089a318c",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6015066,
+        "known_for_department": "Production",
+        "name": "Helga Farhadian",
+        "original_name": "Helga Farhadian",
+        "popularity": 0.0526,
+        "profile_path": null,
+        "credit_id": "6a6a89797b9d77bba99a3192",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1446361,
+        "known_for_department": "Production",
+        "name": "Rebecca Lavender",
+        "original_name": "Rebecca Lavender",
+        "popularity": 0.1029,
+        "profile_path": null,
+        "credit_id": "6a6a8999eed279a3abd2ef3c",
+        "department": "Production",
+        "job": "Production Executive"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6378304,
+        "known_for_department": "Production",
+        "name": "Laura Gaynor",
+        "original_name": "Laura Gaynor",
+        "popularity": 0.1274,
+        "profile_path": null,
+        "credit_id": "6a6a89bae35440144f6cca0b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6030669,
+        "known_for_department": "Production",
+        "name": "Emilie Harley",
+        "original_name": "Emilie Harley",
+        "popularity": 0.1826,
+        "profile_path": null,
+        "credit_id": "6a6a89c99e1203612427d7e3",
+        "department": "Production",
+        "job": "Development Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3226261,
+        "known_for_department": "Production",
+        "name": "Harry Pick",
+        "original_name": "Harry Pick",
+        "popularity": 0.0422,
+        "profile_path": null,
+        "credit_id": "6a6a89dd7b9d77bba99a3195",
+        "department": "Production",
+        "job": "Development Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2760467,
+        "known_for_department": "Crew",
+        "name": "Joanna Carr",
+        "original_name": "Joanna Carr",
+        "popularity": 0.0769,
+        "profile_path": null,
+        "credit_id": "6a6a89e811074bed720e78ac",
+        "department": "Crew",
+        "job": "Commissioning Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 190327,
+        "name": "sexual assault"
+      },
+      {
+        "id": 224875,
+        "name": "method acting"
+      },
+      {
+        "id": 307587,
+        "name": "crime documentary"
+      },
+      {
+        "id": 370477,
+        "name": "allegations"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "https://www.bbc.co.uk/programmes/m002zl1y",
+          "overview": "An investigative documentary exploring long-standing and newly detailed allegations of sexual misconduct, grooming, and criminal sexual conduct against Oscar-winning actor and Thirty Seconds to Mars frontman Jared Leto.",
+          "runtime": 57,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "NL",
+        "iso_639_1": "nl",
+        "name": "Nederlands",
+        "english_name": "Dutch",
+        "data": {
+          "homepage": "",
+          "overview": "Een onderzoeksdocumentaire die zowel lang bestaande als recentelijk aan het licht gekomen beschuldigingen van seksueel wangedrag, het misbruiken van minderjarigen en strafbare feiten met betrekking tot seksueel misbruik tegen Oscar winnende acteur en frontman van Thirty Seconds to Mars, Jared Leto, onderzoekt.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Varias mujeres relatan en primera persona sus acusaciones de conducta sexual inapropiada contra Jared Leto, actor ganador del Óscar y líder de una conocida banda de rock. Todas eran adolescentes cuando ocurrieron los presuntos hechos. Unas denuncias que han reavivado el debate sobre el abuso de poder y la protección de las víctimas en la industria del entretenimiento.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "El lado oscuro de Jared Leto"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt43724724",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/zW6yWAZD4B94fUEy7QzYSGe0yG3.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 800,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/cMcN2U9szyMREebxCevsNdph2Tg.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1422
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 951,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/xyvhvlbcIuHYNi39YikGT3L41d3.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1691
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/9ton3ER4hLDHJrHPUSCVfzPQK4E.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/1lRkfTJUcyem4zUpbF6DhZkRRC7.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1701,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/oqE2Iof0FD1iSqN9Ghk6UQtflkl.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3024
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1701,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/5ZB1uYAiWolXB1j1HVCHjyfHd0O.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3024
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1701,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/jLm1W5fktSrouQtIpAW7d4qUqB.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3024
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/iNBoNC584Lo23H1yO0mHuGjfgkn.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      }
+    ],
+    "logos": [
+      {
+        "aspect_ratio": 5.111,
+        "height": 459,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/uD6TNJhrJGUNtXd0y19guzmFPXW.png",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2346
+      }
+    ],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/gOq9F2H1YN8hDBdhUYisS2pvhDE.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 720
+      },
+      {
+        "aspect_ratio": 0.666,
+        "height": 751,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/5vqZFTx7mkCLvpHJTd6yN83lcPF.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 500
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1020,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/3Tq6JTx5NNc4GSHYK2DmkhulmDG.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 680
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "BBC iPlayer / BBC deepwatch YouTube channel",
+            "release_date": "2026-07-29T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "BBC Three / BBC One",
+            "release_date": "2026-07-29T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

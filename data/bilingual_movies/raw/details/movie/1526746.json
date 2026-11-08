@@ -1,0 +1,625 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1526746,
+  "imdb_id": "",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "A Rose for Iris",
+  "overview": "On the shores of England, a teenage girl witnesses her father's cruelty toward a migrant who has just arrived by small boat, forcing her to confront the complexities of both her father and the world around her.",
+  "popularity": 0.7842,
+  "poster_path": "/kUpuRrvlzGie3pokUkfS8PhTVyO.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2026-09-24",
+  "revenue": 0,
+  "runtime": 13,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Persian",
+      "iso_639_1": "fa",
+      "name": "فارسی"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "A Rose for Iris",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146457,
+        "known_for_department": "Acting",
+        "name": "Arthur Darvill",
+        "original_name": "Arthur Darvill",
+        "popularity": 1.0262,
+        "profile_path": "/igHv8StqS2xKIG70t84HwndpvRb.jpg",
+        "cast_id": 1,
+        "character": "Toby",
+        "credit_id": "6894e55e651609a6d599a921",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2460577,
+        "known_for_department": "Acting",
+        "name": "Kiera Thompson",
+        "original_name": "Kiera Thompson",
+        "popularity": 0.3825,
+        "profile_path": "/Ae9UHawnXLyVa7dYdtBUU2EKZIl.jpg",
+        "cast_id": 41,
+        "character": "Iris",
+        "credit_id": "695074876d2b236ebdd791f0",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5612510,
+        "known_for_department": "Acting",
+        "name": "Nojan Khazai",
+        "original_name": "Nojan Khazai",
+        "popularity": 0.2056,
+        "profile_path": "/cdiq0gCjltkDrj8r2sXWbQdgdg8.jpg",
+        "cast_id": 3,
+        "character": "Reza",
+        "credit_id": "6894e57eb5a79195f5a32c8a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5612511,
+        "known_for_department": "Acting",
+        "name": "Arnika Hashemi Nasab",
+        "original_name": "Arnika Hashemi Nasab",
+        "popularity": 0.1383,
+        "profile_path": "/jMhagH7N0HmJOKvvb4kFOd0KTDr.jpg",
+        "cast_id": 4,
+        "character": "Ari",
+        "credit_id": "6894e5906e67775340a32d2d",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1788370,
+        "known_for_department": "Editing",
+        "name": "Abolfazl Talooni",
+        "original_name": "Abolfazl Talooni",
+        "popularity": 0.0589,
+        "profile_path": null,
+        "credit_id": "6894e5a7ef104ce52207c725",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1788370,
+        "known_for_department": "Editing",
+        "name": "Abolfazl Talooni",
+        "original_name": "Abolfazl Talooni",
+        "popularity": 0.0589,
+        "profile_path": null,
+        "credit_id": "6894e5b72a40b2aa9e4d93d1",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5612514,
+        "known_for_department": "Production",
+        "name": "Daria Dikalo",
+        "original_name": "Daria Dikalo",
+        "popularity": 0.0531,
+        "profile_path": null,
+        "credit_id": "6894e5e5b5a79195f5a32c94",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5612515,
+        "known_for_department": "Production",
+        "name": "Ciara Rigney",
+        "original_name": "Ciara Rigney",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6894e5f840f79a883c28a5e2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5612516,
+        "known_for_department": "Production",
+        "name": "Anna Snowball",
+        "original_name": "Anna Snowball",
+        "popularity": 0.0331,
+        "profile_path": null,
+        "credit_id": "6894e60615889903109db37a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1788370,
+        "known_for_department": "Editing",
+        "name": "Abolfazl Talooni",
+        "original_name": "Abolfazl Talooni",
+        "popularity": 0.0589,
+        "profile_path": null,
+        "credit_id": "6894e61806d06c1c3107c6f3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2405845,
+        "known_for_department": "Camera",
+        "name": "Ciara Rigney",
+        "original_name": "Ciara Rigney",
+        "popularity": 0.1099,
+        "profile_path": null,
+        "credit_id": "6894e62ca61301ef054d93ad",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5612517,
+        "known_for_department": "Editing",
+        "name": "Tanya Singh",
+        "original_name": "Tanya Singh",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6894e63af693625a8f4d9547",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5612519,
+        "known_for_department": "Production",
+        "name": "Verity Naughton",
+        "original_name": "Verity Naughton",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "6894e64a526f7ea91099abdb",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5612522,
+        "known_for_department": "Art",
+        "name": "Gini Godwin",
+        "original_name": "Gini Godwin",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "6894e660a871f4e1f766e91b",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5612525,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Katie McGoldrick",
+        "original_name": "Katie McGoldrick",
+        "popularity": 0.041,
+        "profile_path": null,
+        "credit_id": "6894e67bf42d71cb509db2f5",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5612526,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Aimee Dennett",
+        "original_name": "Aimee Dennett",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6894e68ba97bf1d6617959fb",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5612528,
+        "known_for_department": "Directing",
+        "name": "Lily Bennett",
+        "original_name": "Lily Bennett",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6894e6a779ad68d8a69db49d",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5612530,
+        "known_for_department": "Directing",
+        "name": "Tess Hemmings",
+        "original_name": "Tess Hemmings",
+        "popularity": 0.0473,
+        "profile_path": null,
+        "credit_id": "6894e6c7ef2a2c56029db4ba",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5612532,
+        "known_for_department": "Directing",
+        "name": "Emese Matuz",
+        "original_name": "Emese Matuz",
+        "popularity": 0.0331,
+        "profile_path": null,
+        "credit_id": "6894e6df473102d13207c6dd",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5612534,
+        "known_for_department": "Sound",
+        "name": "James Battley",
+        "original_name": "James Battley",
+        "popularity": 0.0482,
+        "profile_path": null,
+        "credit_id": "6894e6f3a97bf1d661795a0e",
+        "department": "Sound",
+        "job": "ADR Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5612536,
+        "known_for_department": "Sound",
+        "name": "Alia-Lauren Clain",
+        "original_name": "Alia-Lauren Clain",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6894e704528a113ca0a32d04",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5612537,
+        "known_for_department": "Sound",
+        "name": "India Holdstock",
+        "original_name": "India Holdstock",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6894e7159c97564539a32d8f",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5612540,
+        "known_for_department": "Crew",
+        "name": "Emilio Wolfgang Gotterbarm-Diaz",
+        "original_name": "Emilio Wolfgang Gotterbarm-Diaz",
+        "popularity": 0.0417,
+        "profile_path": null,
+        "credit_id": "6894e7477a8b0fdba766e899",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5612542,
+        "known_for_department": "Crew",
+        "name": "Stewart Jameson",
+        "original_name": "Stewart Jameson",
+        "popularity": 0.0438,
+        "profile_path": null,
+        "credit_id": "6894e7568d775c499128a622",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5612543,
+        "known_for_department": "Crew",
+        "name": "Savani Mohite",
+        "original_name": "Savani Mohite",
+        "popularity": 0.0726,
+        "profile_path": null,
+        "credit_id": "6894e769205799a4b47958ec",
+        "department": "Crew",
+        "job": "Visual Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5612548,
+        "known_for_department": "Camera",
+        "name": "Ryan Adams",
+        "original_name": "Ryan Adams",
+        "popularity": 0.0345,
+        "profile_path": null,
+        "credit_id": "6894e7b2ef2a2c56029db4de",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5612550,
+        "known_for_department": "Lighting",
+        "name": "Amon Ale",
+        "original_name": "Amon Ale",
+        "popularity": 0.0354,
+        "profile_path": null,
+        "credit_id": "6894e7c3c8eef1c3717959f3",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5612551,
+        "known_for_department": "Camera",
+        "name": "George Ashley-Johnson",
+        "original_name": "George Ashley-Johnson",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "6894e7d47e1e2deb77a32d95",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5612552,
+        "known_for_department": "Camera",
+        "name": "Ken Ashley-Johnson",
+        "original_name": "Ken Ashley-Johnson",
+        "popularity": 0.0514,
+        "profile_path": null,
+        "credit_id": "6894e7e261ab8ad24079597f",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5612554,
+        "known_for_department": "Camera",
+        "name": "Davide Azzalini",
+        "original_name": "Davide Azzalini",
+        "popularity": 0.0592,
+        "profile_path": null,
+        "credit_id": "6894e7efc67898a75728a4af",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5612556,
+        "known_for_department": "Lighting",
+        "name": "Marc Nickl",
+        "original_name": "Marc Nickl",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6894e7ffee594a589999abb0",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5612558,
+        "known_for_department": "Lighting",
+        "name": "Richard Scott",
+        "original_name": "Richard Scott",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6894e80d61ab8ad240795989",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5612559,
+        "known_for_department": "Camera",
+        "name": "Kristiana Zhekova",
+        "original_name": "Kristiana Zhekova",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "6894e820ab73143d1d66e883",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5612561,
+        "known_for_department": "Production",
+        "name": "Isabel Swanson",
+        "original_name": "Isabel Swanson",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "6894e82ec67898a75728a4c2",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5612562,
+        "known_for_department": "Directing",
+        "name": "Jewel Konieczny",
+        "original_name": "Jewel Konieczny",
+        "popularity": 0.0514,
+        "profile_path": null,
+        "credit_id": "6894e83fa04440de8d28a630",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1928974,
+        "known_for_department": "Production",
+        "name": "Bernardo Angeletti",
+        "original_name": "Bernardo Angeletti",
+        "popularity": 0.2629,
+        "profile_path": null,
+        "credit_id": "68a1077ea8d0923f1f02cdc4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1040480,
+        "known_for_department": "Acting",
+        "name": "Dominic Kinnaird",
+        "original_name": "Dominic Kinnaird",
+        "popularity": 0.3459,
+        "profile_path": "/kRsj6Wm9BzzjIQqlOhndtuwnPCZ.jpg",
+        "credit_id": "68e30f1d8d5a1f22659cac80",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1264708,
+        "known_for_department": "Sound",
+        "name": "Matis Rei",
+        "original_name": "Matis Rei",
+        "popularity": 0.4881,
+        "profile_path": "/AppOh0kOXkYByfzeHSEw28C3zSm.jpg",
+        "credit_id": "69c7eb03f0c822d6869deb85",
+        "department": "Sound",
+        "job": "Sound Designer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "On the shores of England, a teenage girl witnesses her father's cruelty toward a migrant who has just arrived by small boat, forcing her to confront the complexities of both her father and the world around her.",
+          "runtime": 13,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 2988,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/kUpuRrvlzGie3pokUkfS8PhTVyO.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1992
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "Worcester Film Festival",
+            "release_date": "2026-09-24T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "Bournemouth International Film Festival",
+            "release_date": "2026-10-10T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

@@ -1,0 +1,454 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1579484,
+  "imdb_id": null,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Nadryv",
+  "overview": "",
+  "popularity": 0.8086,
+  "poster_path": "/ayimxzzQbwhu64QtkVYH3AlbqRJ.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2025-10-01",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "Nadryv",
+  "video": false,
+  "vote_average": 10.0,
+  "vote_count": 2,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1583246,
+        "known_for_department": "Acting",
+        "name": "Léna Magnien",
+        "original_name": "Léna Magnien",
+        "popularity": 0.2971,
+        "profile_path": "/4jVRPAsEn7OXEzmYBiYv6KjJk5K.jpg",
+        "cast_id": 1,
+        "character": "Olga",
+        "credit_id": "69148a8591326c06e2dd2fb0",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5180691,
+        "known_for_department": "Acting",
+        "name": "Charles-Henri Wolff",
+        "original_name": "Charles-Henri Wolff",
+        "popularity": 0.2721,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Louis",
+        "credit_id": "69148afa44d974b7e99c4b2e",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5812586,
+        "known_for_department": "Acting",
+        "name": "Yuna Buet",
+        "original_name": "Yuna Buet",
+        "popularity": 0.3662,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Suzanne",
+        "credit_id": "69148b11567ac822129c4b2b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5812588,
+        "known_for_department": "Acting",
+        "name": "Santiago Alvarez",
+        "original_name": "Santiago Alvarez",
+        "popularity": 0.0698,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Billi",
+        "credit_id": "69148b38293cf5cbf03a3ddf",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5815554,
+        "known_for_department": "Acting",
+        "name": "Margot Missio",
+        "original_name": "Margot Missio",
+        "popularity": 0.0718,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Enfant du cauchemard",
+        "credit_id": "691650ec087f7fce383a4403",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5812160,
+        "known_for_department": "Acting",
+        "name": "Prune Coulibaly Bouzou",
+        "original_name": "Prune Coulibaly Bouzou",
+        "popularity": 0.0939,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Médecin 1",
+        "credit_id": "691651199e88fb480d876615",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5815559,
+        "known_for_department": "Acting",
+        "name": "Joachim Garcenot",
+        "original_name": "Joachim Garcenot",
+        "popularity": 0.0345,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Médecin 2",
+        "credit_id": "6916512f55b34f734fa0df67",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5812165,
+        "known_for_department": "Directing",
+        "name": "Malvina Missio",
+        "original_name": "Malvina Missio",
+        "popularity": 0.1293,
+        "profile_path": null,
+        "credit_id": "69148b52583f19f6ae9acf32",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5812165,
+        "known_for_department": "Directing",
+        "name": "Malvina Missio",
+        "original_name": "Malvina Missio",
+        "popularity": 0.1293,
+        "profile_path": null,
+        "credit_id": "69148b5e3cd80ce17f3a3c82",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5812165,
+        "known_for_department": "Directing",
+        "name": "Malvina Missio",
+        "original_name": "Malvina Missio",
+        "popularity": 0.1293,
+        "profile_path": null,
+        "credit_id": "69164fbbb1fff378e33a44c7",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5815546,
+        "known_for_department": "Camera",
+        "name": "Nikita Dumazet",
+        "original_name": "Nikita Dumazet",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69164fdbf2f7e3b1b487689d",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5815535,
+        "known_for_department": "Camera",
+        "name": "Anais Saglio",
+        "original_name": "Anais Saglio",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69164feb0ccc7fff2a40e51a",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5815536,
+        "known_for_department": "Camera",
+        "name": "Sarah Vinum Baudrand",
+        "original_name": "Sarah Vinum Baudrand",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69164ff895143dfa46a0dde2",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5815548,
+        "known_for_department": "Sound",
+        "name": "elsa basle",
+        "original_name": "elsa basle",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6916501687eb54ced231c6b8",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5815537,
+        "known_for_department": "Sound",
+        "name": "Nino Chevillon",
+        "original_name": "Nino Chevillon",
+        "popularity": 0.0508,
+        "profile_path": null,
+        "credit_id": "691650202859dd97554c97f0",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5815549,
+        "known_for_department": "Sound",
+        "name": "axel desmarets",
+        "original_name": "axel desmarets",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69165034a33449c0669c5372",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5815540,
+        "known_for_department": "Sound",
+        "name": "Madeleine Dumas Primbault",
+        "original_name": "Madeleine Dumas Primbault",
+        "popularity": 0.0361,
+        "profile_path": null,
+        "credit_id": "691650529f53be2e004c984b",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5673645,
+        "known_for_department": "Acting",
+        "name": "Alice Favreul",
+        "original_name": "Alice Favreul",
+        "popularity": 0.2094,
+        "profile_path": "/ozyJzVajpDLNnK55K0UWxwYMQSN.jpg",
+        "credit_id": "69165064dec356429f40e373",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5812164,
+        "known_for_department": "Acting",
+        "name": "Susie Tassart",
+        "original_name": "Susie Tassart",
+        "popularity": 0.1874,
+        "profile_path": null,
+        "credit_id": "69165079dc7b73f47c31c718",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5812165,
+        "known_for_department": "Directing",
+        "name": "Malvina Missio",
+        "original_name": "Malvina Missio",
+        "popularity": 0.1293,
+        "profile_path": null,
+        "credit_id": "69165084eacffe65b23a4341",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5815540,
+        "known_for_department": "Sound",
+        "name": "Madeleine Dumas Primbault",
+        "original_name": "Madeleine Dumas Primbault",
+        "popularity": 0.0361,
+        "profile_path": null,
+        "credit_id": "69165098e24e363ff98764fc",
+        "department": "Crew",
+        "job": "Script"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5812165,
+        "known_for_department": "Directing",
+        "name": "Malvina Missio",
+        "original_name": "Malvina Missio",
+        "popularity": 0.1293,
+        "profile_path": null,
+        "credit_id": "691650a8ae981ceb3f9ad67c",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5815543,
+        "known_for_department": "Sound",
+        "name": "Iocha Koltes",
+        "original_name": "Iocha Koltes",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "691650b5b83adf228eac2700",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5815543,
+        "known_for_department": "Sound",
+        "name": "Iocha Koltes",
+        "original_name": "Iocha Koltes",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "691650c69b2ed4e73f9c5398",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5673645,
+        "known_for_department": "Acting",
+        "name": "Alice Favreul",
+        "original_name": "Alice Favreul",
+        "popularity": 0.2094,
+        "profile_path": "/ozyJzVajpDLNnK55K0UWxwYMQSN.jpg",
+        "credit_id": "69165165c14a37294e4c96d4",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 351050,
+        "name": "schyzophrénie"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "L’état psychique d’Olga ne fait que s’aggraver, elle fait des crises de plus en plus importantes. Les medecins décident alors une mise en observation de la jeune femme pendant quelques jours : Louis, Suzanne et Olga s’installent alors dans un appartement therapeutique pour mieux comprendre ce qu'il se cache derrière toutes ces crises.",
+          "runtime": 25,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1536,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/ayimxzzQbwhu64QtkVYH3AlbqRJ.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1024
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "fr",
+            "note": "",
+            "release_date": "2025-10-01T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

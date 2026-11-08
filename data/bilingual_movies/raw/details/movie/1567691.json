@@ -1,0 +1,539 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 50000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1567691,
+  "imdb_id": "tt38608370",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Currents",
+  "overview": "Four strangers follow completely different paths through the same day. Leading them all to meeting at a beach party filled with chaos, drama, and action.",
+  "popularity": 1.5859,
+  "poster_path": "/f1jmziQoYNMgOw0ZxKIxs7W9cwb.jpg",
+  "production_companies": [
+    {
+      "id": 278152,
+      "logo_path": null,
+      "name": "Blackbeard Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 306497,
+      "logo_path": null,
+      "name": "Smash Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2025-10-12",
+  "revenue": 0,
+  "runtime": 44,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "Every current leads somewhere.",
+  "title": "Currents",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4835536,
+        "known_for_department": "Acting",
+        "name": "Cam Sullivan-Brown",
+        "original_name": "Cam Sullivan-Brown",
+        "popularity": 0.1059,
+        "profile_path": "/enl4fZPYhWOS2EE6TxUqDJ9mF0C.jpg",
+        "cast_id": 1,
+        "character": "Will Cook",
+        "credit_id": "68fa971684c54cd6c1853543",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4773876,
+        "known_for_department": "Acting",
+        "name": "Julia Kate Hill",
+        "original_name": "Julia Kate Hill",
+        "popularity": 0.3229,
+        "profile_path": "/1scSYEX8VkfQj817Ep4kr6FPI9a.jpg",
+        "cast_id": 2,
+        "character": "Sabrina",
+        "credit_id": "68fa972574cb3eb64add9670",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5768723,
+        "known_for_department": "Acting",
+        "name": "Tyler Metcalf",
+        "original_name": "Tyler Metcalf",
+        "popularity": 0.1257,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Myles",
+        "credit_id": "68fa99f7b142efde7953699e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5768724,
+        "known_for_department": "Acting",
+        "name": "Colin Davis",
+        "original_name": "Colin Davis",
+        "popularity": 0.1339,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Dave",
+        "credit_id": "68fa9a037a305e4b70417d21",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5768725,
+        "known_for_department": "Acting",
+        "name": "Joseph Dorman",
+        "original_name": "Joseph Dorman",
+        "popularity": 0.1703,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Roman",
+        "credit_id": "68fa9a1076d73900bff29fdf",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6391325,
+        "known_for_department": "Acting",
+        "name": "Dalton Adams",
+        "original_name": "Dalton Adams",
+        "popularity": 0.1222,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Mike",
+        "credit_id": "6a72a2d4d1d4791908650b6a",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6391326,
+        "known_for_department": "Acting",
+        "name": "Tommy Brengel",
+        "original_name": "Tommy Brengel",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Braden",
+        "credit_id": "6a72a2e346457db767b5edd9",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6391327,
+        "known_for_department": "Acting",
+        "name": "Brandon Geer",
+        "original_name": "Brandon Geer",
+        "popularity": 0.0365,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Jackson",
+        "credit_id": "6a72a304fec837a8022b9997",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5768705,
+        "known_for_department": "Writing",
+        "name": "Bryce Greene",
+        "original_name": "Bryce Greene",
+        "popularity": 0.0993,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Jeremy",
+        "credit_id": "6a72a310910a1fbb23fe04d6",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6391328,
+        "known_for_department": "Acting",
+        "name": "Jaden Kilkenny",
+        "original_name": "Jaden Kilkenny",
+        "popularity": 0.0649,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Xander",
+        "credit_id": "6a72a3216f4f5a5b532062c8",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6391329,
+        "known_for_department": "Acting",
+        "name": "Julian Lionel Lancaster",
+        "original_name": "Julian Lionel Lancaster",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Richard",
+        "credit_id": "6a72a333cadab740a52b9989",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6391330,
+        "known_for_department": "Acting",
+        "name": "Derek Locust",
+        "original_name": "Derek Locust",
+        "popularity": 0.0573,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Kenny",
+        "credit_id": "6a72a33b1aad67caacae2d0a",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6391331,
+        "known_for_department": "Acting",
+        "name": "Jamil Smith",
+        "original_name": "Jamil Smith",
+        "popularity": 0.0428,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Chase",
+        "credit_id": "6a72a34d4c394804ce12a894",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6391332,
+        "known_for_department": "Acting",
+        "name": "Natalie Voorhees",
+        "original_name": "Natalie Voorhees",
+        "popularity": 0.0538,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Liz",
+        "credit_id": "6a72a3596a4a37c6a7b5ecda",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6391334,
+        "known_for_department": "Acting",
+        "name": "Keifer Spore",
+        "original_name": "Keifer Spore",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Reggie",
+        "credit_id": "6a72a366d1f682c2ab2062a1",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6391335,
+        "known_for_department": "Acting",
+        "name": "Belle Wood",
+        "original_name": "Belle Wood",
+        "popularity": 0.0461,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Sharon",
+        "credit_id": "6a72a3797718f85224755091",
+        "order": 15
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5768701,
+        "known_for_department": "Writing",
+        "name": "Bailey Spore",
+        "original_name": "Bailey Spore",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "68fa9739c37ed986944673a1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5768701,
+        "known_for_department": "Writing",
+        "name": "Bailey Spore",
+        "original_name": "Bailey Spore",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "68fa9747ac056bd13df2a0c2",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5768705,
+        "known_for_department": "Writing",
+        "name": "Bryce Greene",
+        "original_name": "Bryce Greene",
+        "popularity": 0.0993,
+        "profile_path": null,
+        "credit_id": "68fa9757789bee79cfe2d548",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6391336,
+        "known_for_department": "Writing",
+        "name": "Dave Greene",
+        "original_name": "Dave Greene",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "6a72a38d6a4a37c6a7b5ece5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6391337,
+        "known_for_department": "Camera",
+        "name": "Devin Bora",
+        "original_name": "Devin Bora",
+        "popularity": 0.0438,
+        "profile_path": null,
+        "credit_id": "6a72a3a2e600f14e02a0e212",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5768701,
+        "known_for_department": "Writing",
+        "name": "Bailey Spore",
+        "original_name": "Bailey Spore",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "6a72a3b0bcdbb222baae2d38",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6391338,
+        "known_for_department": "Directing",
+        "name": "Austin Baker",
+        "original_name": "Austin Baker",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6a72a3c6040fe1ebf31da929",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6391339,
+        "known_for_department": "Sound",
+        "name": "Jack Cockrell",
+        "original_name": "Jack Cockrell",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a72a3de040fe1ebf31da933",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6391340,
+        "known_for_department": "Sound",
+        "name": "Arcy Drive",
+        "original_name": "Arcy Drive",
+        "popularity": 0.0513,
+        "profile_path": null,
+        "credit_id": "6a72a3e76a4a37c6a7b5ecf1",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6391343,
+        "known_for_department": "Camera",
+        "name": "Andrew Akbari",
+        "original_name": "Andrew Akbari",
+        "popularity": 0.0513,
+        "profile_path": null,
+        "credit_id": "6a72a4079a4a78e56712a687",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6391344,
+        "known_for_department": "Camera",
+        "name": "Jake Jacob",
+        "original_name": "Jake Jacob",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "6a72a4169a4a78e56712a691",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6391327,
+        "known_for_department": "Acting",
+        "name": "Brandon Geer",
+        "original_name": "Brandon Geer",
+        "popularity": 0.0365,
+        "profile_path": null,
+        "credit_id": "6a72a424e56f8b721e75503b",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6391345,
+        "known_for_department": "Crew",
+        "name": "Fernando Lupo Rico",
+        "original_name": "Fernando Lupo Rico",
+        "popularity": 0.0431,
+        "profile_path": null,
+        "credit_id": "6a72a4313e63eeeb90650c34",
+        "department": "Crew",
+        "job": "Visual Effects Art Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 966,
+        "name": "beach"
+      },
+      {
+        "id": 3616,
+        "name": "college"
+      },
+      {
+        "id": 13088,
+        "name": "summer"
+      },
+      {
+        "id": 286407,
+        "name": "party"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Four strangers follow completely different paths through the same day. Leading them all to meeting at a beach party filled with chaos, drama, and action.",
+          "runtime": 44,
+          "tagline": "Every current leads somewhere.",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt38608370",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "currentsmovie",
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 2340,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/f1jmziQoYNMgOw0ZxKIxs7W9cwb.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1560
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2025-10-12T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

@@ -1,0 +1,500 @@
+{
+  "adult": false,
+  "backdrop_path": "/aXiTLAafsQdtrKIi5PWWMfIqgeX.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1745842,
+  "imdb_id": "tt40929938",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Storia di una Bella e di una Bestia",
+  "overview": "",
+  "popularity": 0.7503,
+  "poster_path": "/sciGSyhfWqr6kyjUiwOwBkMeVws.jpg",
+  "production_companies": [
+    {
+      "id": 306884,
+      "logo_path": null,
+      "name": "EGO prod.",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2026-05-01",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Storia di una Bella e di una Bestia",
+  "video": false,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 4756597,
+        "known_for_department": "Acting",
+        "name": "Luke Scalella",
+        "original_name": "Luke Scalella",
+        "popularity": 0.0,
+        "profile_path": "/3eWzAMGGpxyIpJJlMia617YwRqC.jpg",
+        "cast_id": 1,
+        "character": "Matteo",
+        "credit_id": "6a771d120a5b1761f3cf8aa0",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5550506,
+        "known_for_department": "Acting",
+        "name": "Suna Gritli",
+        "original_name": "Suna Gritli",
+        "popularity": 0.1413,
+        "profile_path": "/s59zoiRC2Sa8lSvteoUUAVx3lYe.jpg",
+        "cast_id": 2,
+        "character": "Nuria",
+        "credit_id": "6a771d1caafd0bc91ce4bd04",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3005127,
+        "known_for_department": "Acting",
+        "name": "Emanuele Di Simone",
+        "original_name": "Emanuele Di Simone",
+        "popularity": 0.249,
+        "profile_path": "/a7iODP9TrylmJXYXK3lkRczNtKb.jpg",
+        "cast_id": 3,
+        "character": "Il guercio",
+        "credit_id": "6a771d2b287b9e30ba8fc09f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4756607,
+        "known_for_department": "Acting",
+        "name": "Federico Bergaminelli",
+        "original_name": "Federico Bergaminelli",
+        "popularity": 0.0994,
+        "profile_path": "/dslozVIrjQ4Wqn81CSPEsbBa59W.jpg",
+        "cast_id": 4,
+        "character": "Il vecchio",
+        "credit_id": "6a771d374b4f669da2cfc8a5",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4756604,
+        "known_for_department": "Directing",
+        "name": "Simone Pascale",
+        "original_name": "Simone Pascale",
+        "popularity": 0.1491,
+        "profile_path": "/4YtdKuLbiNJfJc2C28SGoszRVEW.jpg",
+        "credit_id": "6a771d5dbf950bbbb4263c25",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4756604,
+        "known_for_department": "Directing",
+        "name": "Simone Pascale",
+        "original_name": "Simone Pascale",
+        "popularity": 0.1491,
+        "profile_path": "/4YtdKuLbiNJfJc2C28SGoszRVEW.jpg",
+        "credit_id": "6a771d67b74dc1df31cfc7a6",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4756623,
+        "known_for_department": "Camera",
+        "name": "Domenico Cuofano",
+        "original_name": "Domenico Cuofano",
+        "popularity": 0.0791,
+        "profile_path": null,
+        "credit_id": "6a771d71899eba53edcf89eb",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4756604,
+        "known_for_department": "Directing",
+        "name": "Simone Pascale",
+        "original_name": "Simone Pascale",
+        "popularity": 0.1491,
+        "profile_path": "/4YtdKuLbiNJfJc2C28SGoszRVEW.jpg",
+        "credit_id": "6a771d8b53e797e1ae264144",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6398038,
+        "known_for_department": "Production",
+        "name": "Roberto Pascale",
+        "original_name": "Roberto Pascale",
+        "popularity": 0.0354,
+        "profile_path": null,
+        "credit_id": "6a771d9de04d2300eae4bcb7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6398043,
+        "known_for_department": "Sound",
+        "name": "Marco Amarelli",
+        "original_name": "Marco Amarelli",
+        "popularity": 0.1393,
+        "profile_path": null,
+        "credit_id": "6a771e5520250a2b88bbb8e7",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4756604,
+        "known_for_department": "Directing",
+        "name": "Simone Pascale",
+        "original_name": "Simone Pascale",
+        "popularity": 0.1491,
+        "profile_path": "/4YtdKuLbiNJfJc2C28SGoszRVEW.jpg",
+        "credit_id": "6a771e6c2ecc5ea9e84d66de",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4756635,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Carmen Battagliese",
+        "original_name": "Carmen Battagliese",
+        "popularity": 0.0372,
+        "profile_path": null,
+        "credit_id": "6a771e80739fd1ef5f810ba1",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 4756637,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Angela Maria Malinconico",
+        "original_name": "Angela Maria Malinconico",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "6a771e9893817e23ddcfca1b",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6398047,
+        "known_for_department": "Directing",
+        "name": "Eleonora Valentino",
+        "original_name": "Eleonora Valentino",
+        "popularity": 0.0701,
+        "profile_path": null,
+        "credit_id": "6a771eb7aafd0bc91ce4bd20",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3486939,
+        "known_for_department": "Acting",
+        "name": "Antonio Vergara",
+        "original_name": "Antonio Vergara",
+        "popularity": 0.091,
+        "profile_path": null,
+        "credit_id": "6a771ed7a9e486ec394d687c",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5634055,
+        "known_for_department": "Visual Effects",
+        "name": "Francesco Domenico Liberato",
+        "original_name": "Francesco Domenico Liberato",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "6a771ee6d09810cf67810e87",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4756626,
+        "known_for_department": "Lighting",
+        "name": "Carmine Faiella",
+        "original_name": "Carmine Faiella",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a771f0c08c70910fae84cee",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6398049,
+        "known_for_department": "Lighting",
+        "name": "Anna De Luca",
+        "original_name": "Anna De Luca",
+        "popularity": 0.2837,
+        "profile_path": null,
+        "credit_id": "6a771f6d7c9abe1d998fc0dd",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4756611,
+        "known_for_department": "Acting",
+        "name": "Alfredo Buccino",
+        "original_name": "Alfredo Buccino",
+        "popularity": 0.0498,
+        "profile_path": null,
+        "credit_id": "6a771f7f638589daf9263ca6",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4756629,
+        "known_for_department": "Production",
+        "name": "Nunzia Martiniello",
+        "original_name": "Nunzia Martiniello",
+        "popularity": 0.0871,
+        "profile_path": null,
+        "credit_id": "6a771f9720250a2b88bbb8fd",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4756635,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Carmen Battagliese",
+        "original_name": "Carmen Battagliese",
+        "popularity": 0.0372,
+        "profile_path": null,
+        "credit_id": "6a771fa920250a2b88bbb900",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6398052,
+        "known_for_department": "Production",
+        "name": "Ivano Iglio",
+        "original_name": "Ivano Iglio",
+        "popularity": 0.0576,
+        "profile_path": null,
+        "credit_id": "6a771fed4f42858baecfc94a",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5971451,
+        "known_for_department": "Camera",
+        "name": "Luigi Tomasino",
+        "original_name": "Luigi Tomasino",
+        "popularity": 0.0873,
+        "profile_path": null,
+        "credit_id": "6a7731284f42858baecfca5f",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4756609,
+        "known_for_department": "Acting",
+        "name": "Giuseppe D’Alessio",
+        "original_name": "Giuseppe D’Alessio",
+        "popularity": 0.1445,
+        "profile_path": null,
+        "credit_id": "6a77313d49205fb8de8fc1c3",
+        "department": "Production",
+        "job": "Production Runner"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 9840,
+        "name": "romance"
+      },
+      {
+        "id": 10085,
+        "name": "betrayal"
+      },
+      {
+        "id": 10410,
+        "name": "conspiracy"
+      },
+      {
+        "id": 15009,
+        "name": "criminal"
+      },
+      {
+        "id": 161757,
+        "name": "fable"
+      },
+      {
+        "id": 254153,
+        "name": "gomorra"
+      },
+      {
+        "id": 319190,
+        "name": "suspense thriller"
+      },
+      {
+        "id": 323114,
+        "name": "crime"
+      },
+      {
+        "id": 330339,
+        "name": "mountains"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "IT",
+        "iso_639_1": "it",
+        "name": "Italiano",
+        "english_name": "Italian",
+        "data": {
+          "homepage": "https://simonepascale.it/progetti/storia-bella-bestia",
+          "overview": "Matteo e Nuria, due giovani amanti che vivono immersi in una quotidianità semplice ma tutto cambierà quando tre sconosciuti raggiungono la loro casa sperduta tra le montagne.",
+          "runtime": 16,
+          "tagline": "C'è sangue nell'aria.",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "A Tale of a Beauty and a Beast",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt40929938",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "sdbb.film",
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/aXiTLAafsQdtrKIi5PWWMfIqgeX.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.707,
+        "height": 2631,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/klU2VKXI9crvYcUYkyHIW6NGN76.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1860
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "it",
+            "note": "",
+            "release_date": "2026-05-01T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

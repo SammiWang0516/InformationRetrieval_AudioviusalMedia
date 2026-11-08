@@ -1,0 +1,582 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 1655930,
+  "imdb_id": null,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "52 Kräuter sind kein Tag",
+  "overview": "A documentary about the STUC.",
+  "popularity": 0.735,
+  "poster_path": "/9PvcGwQJAB7NXbvFDvWZUq2S0mc.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2026-05-01",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "52 Kräuter sind kein Tag",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2367317,
+        "known_for_department": "Acting",
+        "name": "Jochen Werner",
+        "original_name": "Jochen Werner",
+        "popularity": 0.1021,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "STUCateur",
+        "credit_id": "69bfb734efbc226cae4fef31",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6088516,
+        "known_for_department": "Acting",
+        "name": "Nikolas Schuppe",
+        "original_name": "Nikolas Schuppe",
+        "popularity": 0.1792,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "STUCateur",
+        "credit_id": "69bfb759eb5dd497297b2ca5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6088525,
+        "known_for_department": "Acting",
+        "name": "Sascha Roll",
+        "original_name": "Sascha Roll",
+        "popularity": 0.0959,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Held der Arbeit",
+        "credit_id": "69bfb79f3d80ef319101c87a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6088527,
+        "known_for_department": "Acting",
+        "name": "Martin Heilmann",
+        "original_name": "Martin Heilmann",
+        "popularity": 0.1156,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Held der Arbeit",
+        "credit_id": "69bfb7bd1934cd3cf8d3445c",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2194529,
+        "known_for_department": "Acting",
+        "name": "Mario Schollenberger",
+        "original_name": "Mario Schollenberger",
+        "popularity": 0.1216,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Filmmaker in Focus",
+        "credit_id": "69bfb7f855f1c000b14fef8a",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1764747,
+        "known_for_department": "Crew",
+        "name": "Sabrina Mikolajewski",
+        "original_name": "Sabrina Mikolajewski",
+        "popularity": 0.1544,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "STUColajewski",
+        "credit_id": "69bfb810f13957d4d34fef0a",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1455150,
+        "known_for_department": "Acting",
+        "name": "Christian Witte",
+        "original_name": "Christian Witte",
+        "popularity": 0.2056,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "STUC-Auftragsregisseur",
+        "credit_id": "69bfb86590da0f9bb6b334cc",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6088533,
+        "known_for_department": "Acting",
+        "name": "Florian Bülow",
+        "original_name": "Florian Bülow",
+        "popularity": 0.1567,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "STUC-Urgestein",
+        "credit_id": "69bfb8981260ad439b1b0955",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6088535,
+        "known_for_department": "Acting",
+        "name": "Ole Lorenzen",
+        "original_name": "Ole Lorenzen",
+        "popularity": 0.1504,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "STUC-Stammgast",
+        "credit_id": "69bfb8c080706dc8271b0a72",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5376985,
+        "known_for_department": "Acting",
+        "name": "Christoph Petersen",
+        "original_name": "Christoph Petersen",
+        "popularity": 0.0491,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "STUC-Stammgast",
+        "credit_id": "69bfb8da9930ae09a8b33460",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6088536,
+        "known_for_department": "Acting",
+        "name": "Lukas Foerster",
+        "original_name": "Lukas Foerster",
+        "popularity": 0.0376,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "STUC-Stammgast",
+        "credit_id": "69bfb8fd8110a6d154d34535",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6088537,
+        "known_for_department": "Acting",
+        "name": "Kamil Moll",
+        "original_name": "Kamil Moll",
+        "popularity": 0.0466,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "STUC-Stammgast",
+        "credit_id": "69bfb92e131231c72b4feed9",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6093761,
+        "known_for_department": "Acting",
+        "name": "Rajko Burchardt",
+        "original_name": "Rajko Burchardt",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "STUC-Zaungast",
+        "credit_id": "69c2ae7dc335c8d4bd48f309",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2606428,
+        "known_for_department": "Acting",
+        "name": "Emily Hildebrandt",
+        "original_name": "Emily Hildebrandt",
+        "popularity": 0.0715,
+        "profile_path": "/xdF7vV3D9Lv21nTjtPi7jTKC4B0.jpg",
+        "cast_id": 15,
+        "character": "Erzählerin",
+        "credit_id": "69c2d8878c085b4631a4e75c",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1052655,
+        "known_for_department": "Acting",
+        "name": "Annett Culp",
+        "original_name": "Annett Culp",
+        "popularity": 0.2996,
+        "profile_path": "/sGTPwd1gAoh84sPRs3cJijShnCc.jpg",
+        "cast_id": 16,
+        "character": "Herself",
+        "credit_id": "69c2d8a2086a36f2cf0d9a71",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6094393,
+        "known_for_department": "Acting",
+        "name": "Sebastian Schwittay",
+        "original_name": "Sebastian Schwittay",
+        "popularity": 0.0376,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Komponist",
+        "credit_id": "69c2f2950b5b1be69095b0e4",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6094396,
+        "known_for_department": "Acting",
+        "name": "Christian Lenz",
+        "original_name": "Christian Lenz",
+        "popularity": 0.0721,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "STUC-Stammgast",
+        "credit_id": "69c2f2d39f2d649d95c2ed67",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1057076,
+        "known_for_department": "Directing",
+        "name": "Till Kleinert",
+        "original_name": "Till Kleinert",
+        "popularity": 0.4395,
+        "profile_path": "/cccvaBfhqJoNfKl1jPsJJckOmXG.jpg",
+        "cast_id": 23,
+        "character": "STUC-Stammgast",
+        "credit_id": "69c2f3027b45ef11c018e36e",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6094400,
+        "known_for_department": "Acting",
+        "name": "Benjamin Kausch",
+        "original_name": "Benjamin Kausch",
+        "popularity": 0.1707,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "STUC-Stammgast",
+        "credit_id": "69c2f33959bce462ccc19df0",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6094401,
+        "known_for_department": "Acting",
+        "name": "Lorenz Vögel",
+        "original_name": "Lorenz Vögel",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Der Gute Geist im Filmrauschpalast",
+        "credit_id": "69c2f35c666429e9dcb41f20",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6094407,
+        "known_for_department": "Acting",
+        "name": "Ian Blohm",
+        "original_name": "Ian Blohm",
+        "popularity": 0.052,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "STUC-Stammgast",
+        "credit_id": "69c2f3cd13b4e613534d048a",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6094444,
+        "known_for_department": "Acting",
+        "name": "Theres Mühlberg",
+        "original_name": "Theres Mühlberg",
+        "popularity": 0.0435,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "STUC-Debütantin",
+        "credit_id": "69c2f90cc47de44ba606bec6",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6094468,
+        "known_for_department": "Acting",
+        "name": "Lucas Schwarz",
+        "original_name": "Lucas Schwarz",
+        "popularity": 0.0511,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "STUC-Debütant",
+        "credit_id": "69c2fb189fb0239134aab859",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6094472,
+        "known_for_department": "Acting",
+        "name": "Alexander Lazarek",
+        "original_name": "Alexander Lazarek",
+        "popularity": 0.039,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Zukünftiger STUC-Stammgast",
+        "credit_id": "69c2fb3db2e300b66862e79d",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6094477,
+        "known_for_department": "Acting",
+        "name": "Marc Leube",
+        "original_name": "Marc Leube",
+        "popularity": 0.0428,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "STUC-Stammgast",
+        "credit_id": "69c2fb88987ee4b2c34d04bd",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5376987,
+        "known_for_department": "Acting",
+        "name": "Michael S. Bendix",
+        "original_name": "Michael S. Bendix",
+        "popularity": 0.0476,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "STUC-Stammgast",
+        "credit_id": "69c39c2db2e300b66862ea15",
+        "order": 25
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1455150,
+        "known_for_department": "Acting",
+        "name": "Christian Witte",
+        "original_name": "Christian Witte",
+        "popularity": 0.2056,
+        "profile_path": null,
+        "credit_id": "69bfb6fbd99612c8f47b2b59",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1455150,
+        "known_for_department": "Acting",
+        "name": "Christian Witte",
+        "original_name": "Christian Witte",
+        "popularity": 0.2056,
+        "profile_path": null,
+        "credit_id": "69c2d8c0b0889c7b5cc2eca7",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1455150,
+        "known_for_department": "Acting",
+        "name": "Christian Witte",
+        "original_name": "Christian Witte",
+        "popularity": 0.2056,
+        "profile_path": null,
+        "credit_id": "69c2d8ce04774a62f5c2ecc9",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1455150,
+        "known_for_department": "Acting",
+        "name": "Christian Witte",
+        "original_name": "Christian Witte",
+        "popularity": 0.2056,
+        "profile_path": null,
+        "credit_id": "69c2d8dc69b42fa4d4b41e79",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1455150,
+        "known_for_department": "Acting",
+        "name": "Christian Witte",
+        "original_name": "Christian Witte",
+        "popularity": 0.2056,
+        "profile_path": null,
+        "credit_id": "69c2d8e6b0307a9a9fa4e733",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1894771,
+        "known_for_department": "Camera",
+        "name": "Jannik Tesch",
+        "original_name": "Jannik Tesch",
+        "popularity": 0.0758,
+        "profile_path": "/qyzVuz9EVg4MEFJrMS56WMRXzMZ.jpg",
+        "credit_id": "69c301d8918a432f3062e7c6",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5376987,
+        "known_for_department": "Acting",
+        "name": "Michael S. Bendix",
+        "original_name": "Michael S. Bendix",
+        "popularity": 0.0476,
+        "profile_path": null,
+        "credit_id": "69c301fa43f73d8798352e83",
+        "department": "Camera",
+        "job": "Camera Operator"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "",
+          "overview": "Eine Dokumentation über den STUC.",
+          "runtime": 64,
+          "tagline": "WO DAS ERINNERN ANFÄNGT, SCHLIEẞT DER SCHMERZ PROMPT AN.",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "A documentary about the STUC.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.707,
+        "height": 2048,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/9PvcGwQJAB7NXbvFDvWZUq2S0mc.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1448
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "de",
+            "note": "Stählerner Filmclub (STUC) 2026",
+            "release_date": "2026-05-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

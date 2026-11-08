@@ -1,0 +1,987 @@
+{
+  "adult": false,
+  "backdrop_path": "/jJkkARMfLzXpX9AvQXRySC1EOOA.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 1529906,
+  "imdb_id": "tt37844416",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "Klee",
+  "overview": "An alien is sent to Earth and is tasked with a mission to invade, seduce, and terminate a family of colonizers in 19th-century Saskatchewan.",
+  "popularity": 1.5267,
+  "poster_path": "/rfEVMtYcYuwajQE9ExyAUItHrYh.jpg",
+  "production_companies": [
+    {
+      "id": 110231,
+      "logo_path": null,
+      "name": "Dynamic Video Imaging Corporation",
+      "origin_country": ""
+    },
+    {
+      "id": 238561,
+      "logo_path": null,
+      "name": "Dorothy Studios",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2025-09-05",
+  "revenue": 0,
+  "runtime": 20,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Klee",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2607836,
+        "known_for_department": "Directing",
+        "name": "Seth Cardinal Dodginghorse",
+        "original_name": "Seth Cardinal Dodginghorse",
+        "popularity": 0.334,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "KLEE",
+        "credit_id": "68b12947b8a5c0869b1ffb33",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5343557,
+        "known_for_department": "Acting",
+        "name": "Hannah Brennen",
+        "original_name": "Hannah Brennen",
+        "popularity": 0.1549,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Anne",
+        "credit_id": "68b129ad97916585f5156e75",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2859917,
+        "known_for_department": "Acting",
+        "name": "Joan Mylymok",
+        "original_name": "Joan Mylymok",
+        "popularity": 0.1773,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Henrietta",
+        "credit_id": "68b129c97eda1c6aba1f1514",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1178862,
+        "known_for_department": "Acting",
+        "name": "Gin Fedotov",
+        "original_name": "Gin Fedotov",
+        "popularity": 0.375,
+        "profile_path": "/mojyvAXhbuDq8JJIlEfZbAF0hRO.jpg",
+        "cast_id": 5,
+        "character": "Ivan",
+        "credit_id": "68b129d9b8a5c0869b1ffb3a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2546112,
+        "known_for_department": "Acting",
+        "name": "Todd William Lewis",
+        "original_name": "Todd William Lewis",
+        "popularity": 0.216,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Sergeant",
+        "credit_id": "68b129f77f29a778253cc192",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2859905,
+        "known_for_department": "Acting",
+        "name": "Michael Barber",
+        "original_name": "Michael Barber",
+        "popularity": 0.0331,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Corporal",
+        "credit_id": "68b12a075d67f1e5403ef248",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5656729,
+        "known_for_department": "Acting",
+        "name": "Marcel Petit",
+        "original_name": "Marcel Petit",
+        "popularity": 0.1601,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Métis #1",
+        "credit_id": "68b12a4a65b779de891b83db",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5656731,
+        "known_for_department": "Acting",
+        "name": "JT Smith",
+        "original_name": "JT Smith",
+        "popularity": 0.2046,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Métis #2",
+        "credit_id": "68b12a64ec607674b0396d53",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5656733,
+        "known_for_department": "Acting",
+        "name": "Colton Benson",
+        "original_name": "Colton Benson",
+        "popularity": 0.1588,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Métis #3",
+        "credit_id": "68b12a7567a98a92b9510ca3",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4327137,
+        "known_for_department": "Acting",
+        "name": "Darren Lorenzo",
+        "original_name": "Darren Lorenzo",
+        "popularity": 0.0372,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Mountie #1",
+        "credit_id": "68b12aa1a8177578231b8440",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2299334,
+        "known_for_department": "Acting",
+        "name": "Troy Greenwood",
+        "original_name": "Troy Greenwood",
+        "popularity": 0.1245,
+        "profile_path": "/paqc0E2CVHRtwvwb9cSxOZJ5ocJ.jpg",
+        "cast_id": 62,
+        "character": "Mountie #2",
+        "credit_id": "68d865d876b8e9eb48530281",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3364315,
+        "known_for_department": "Acting",
+        "name": "Harris Ford",
+        "original_name": "Harris Ford",
+        "popularity": 0.0862,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Man",
+        "credit_id": "68b12afb8543bbf34d3ef15e",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4327180,
+        "known_for_department": "Art",
+        "name": "Andrea Mackenzie Engele",
+        "original_name": "Andrea Mackenzie Engele",
+        "popularity": 0.157,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Woman",
+        "credit_id": "68b12b0e0b8a4acea754d4c3",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5656745,
+        "known_for_department": "Acting",
+        "name": "Peter Stinson",
+        "original_name": "Peter Stinson",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Old Man",
+        "credit_id": "68b12b20196fde9d0f156e83",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5656811,
+        "known_for_department": "Acting",
+        "name": "Lois A. Unger",
+        "original_name": "Lois A. Unger",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 54,
+        "character": "Choir Member #1",
+        "credit_id": "68b1322cc10c3aae583cc22d",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2859937,
+        "known_for_department": "Acting",
+        "name": "Karen Zurevinski",
+        "original_name": "Karen Zurevinski",
+        "popularity": 0.0909,
+        "profile_path": null,
+        "cast_id": 55,
+        "character": "Choir Member #2",
+        "credit_id": "68b13239a438557cc03ef169",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5656812,
+        "known_for_department": "Acting",
+        "name": "Pat Keyser",
+        "original_name": "Pat Keyser",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 56,
+        "character": "Choir Member #3",
+        "credit_id": "68b132453cafc9f12b54d67a",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5656813,
+        "known_for_department": "Acting",
+        "name": "Marjorie Keyser",
+        "original_name": "Marjorie Keyser",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "cast_id": 57,
+        "character": "Choir Member #4",
+        "credit_id": "68b13254a2cd776ff33ef186",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5656761,
+        "known_for_department": "Crew",
+        "name": "Janie Weger",
+        "original_name": "Janie Weger",
+        "popularity": 0.0454,
+        "profile_path": null,
+        "cast_id": 58,
+        "character": "Choir Member #5",
+        "credit_id": "68b1326525261e1c971b83eb",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5656815,
+        "known_for_department": "Acting",
+        "name": "Gerald Zurevinski",
+        "original_name": "Gerald Zurevinski",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "cast_id": 59,
+        "character": "Fisherman #1",
+        "credit_id": "68b13280d90ff5c5a31b8463",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1325712,
+        "known_for_department": "Directing",
+        "name": "Shayne Metcalfe",
+        "original_name": "Shayne Metcalfe",
+        "popularity": 0.0547,
+        "profile_path": null,
+        "cast_id": 60,
+        "character": "Fisherman #2",
+        "credit_id": "68b1329043ce751fe51b8539",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2441299,
+        "known_for_department": "Camera",
+        "name": "Timothy Boechler",
+        "original_name": "Timothy Boechler",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 61,
+        "character": "Fisherman #3",
+        "credit_id": "68b1329b9eb2a62a94510d96",
+        "order": 21
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2152626,
+        "known_for_department": "Directing",
+        "name": "Gavin Baird",
+        "original_name": "Gavin Baird",
+        "popularity": 0.1503,
+        "profile_path": null,
+        "credit_id": "689dc0618cccdcfb755e496c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2152626,
+        "known_for_department": "Directing",
+        "name": "Gavin Baird",
+        "original_name": "Gavin Baird",
+        "popularity": 0.1503,
+        "profile_path": null,
+        "credit_id": "68b12b5e8ccb69538354d53e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2152628,
+        "known_for_department": "Production",
+        "name": "Kyle Zurevinski",
+        "original_name": "Kyle Zurevinski",
+        "popularity": 0.1719,
+        "profile_path": null,
+        "credit_id": "68b12b91eefe9a32c8510cf9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3364311,
+        "known_for_department": "Camera",
+        "name": "Jacob Farrell",
+        "original_name": "Jacob Farrell",
+        "popularity": 0.3047,
+        "profile_path": null,
+        "credit_id": "68b12ba5d2c74fd7e11ffae1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4931644,
+        "known_for_department": "Acting",
+        "name": "Kayla Peters",
+        "original_name": "Kayla Peters",
+        "popularity": 0.1977,
+        "profile_path": null,
+        "credit_id": "68b12bcffadc8cab891b8403",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2527315,
+        "known_for_department": "Crew",
+        "name": "Matthew Ripplinger",
+        "original_name": "Matthew Ripplinger",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68b12c3772909b2f681f1507",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5656748,
+        "known_for_department": "Camera",
+        "name": "Salem Zurch",
+        "original_name": "Salem Zurch",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68b12c4a70375c72d6396da6",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5656749,
+        "known_for_department": "Camera",
+        "name": "Holly Westlake",
+        "original_name": "Holly Westlake",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68b12c59235744aa41510cec",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5656750,
+        "known_for_department": "Camera",
+        "name": "Jessica Szeto",
+        "original_name": "Jessica Szeto",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68b12c656e485cb88a3cc211",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2859910,
+        "known_for_department": "Acting",
+        "name": "Devin McAdam",
+        "original_name": "Devin McAdam",
+        "popularity": 0.1801,
+        "profile_path": null,
+        "credit_id": "68b12c6e6c655492c654d637",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2152639,
+        "known_for_department": "Crew",
+        "name": "Tiffany Johnson",
+        "original_name": "Tiffany Johnson",
+        "popularity": 0.1397,
+        "profile_path": null,
+        "credit_id": "68b12c7e5b3badd35e1b8445",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3598866,
+        "known_for_department": "Production",
+        "name": "Levi Mierau",
+        "original_name": "Levi Mierau",
+        "popularity": 0.0575,
+        "profile_path": null,
+        "credit_id": "68b12cb384af41fb131ffa52",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4327159,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Heather Adrian",
+        "original_name": "Heather Adrian",
+        "popularity": 0.043,
+        "profile_path": null,
+        "credit_id": "68b12cc53c5c901a1e156ec7",
+        "department": "Crew",
+        "job": "Special Effects Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5656753,
+        "known_for_department": "Crew",
+        "name": "Dylan Crosby",
+        "original_name": "Dylan Crosby",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68b12cd170375c72d6396daf",
+        "department": "Crew",
+        "job": "Special Effects Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4327163,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Laura Crossman",
+        "original_name": "Laura Crossman",
+        "popularity": 0.0812,
+        "profile_path": null,
+        "credit_id": "68b12d3db8a5c0869b1ffb46",
+        "department": "Costume & Make-Up",
+        "job": "Costume Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5656757,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Vada Mae Boyer",
+        "original_name": "Vada Mae Boyer",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "68b12d4a81068fc11d3ef134",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5228123,
+        "known_for_department": "Acting",
+        "name": "Raelynn Olson",
+        "original_name": "Raelynn Olson",
+        "popularity": 0.207,
+        "profile_path": null,
+        "credit_id": "68b12d5e9eb2a62a94510d3b",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2152665,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Abbey Fraser-Saddleback",
+        "original_name": "Abbey Fraser-Saddleback",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "68b12d7f9914898fd5396df3",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5656758,
+        "known_for_department": "Crew",
+        "name": "Kim Baird-McDonald",
+        "original_name": "Kim Baird-McDonald",
+        "popularity": 0.0347,
+        "profile_path": null,
+        "credit_id": "68b12d9328f491ab513ef132",
+        "department": "Crew",
+        "job": "Catering"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5656760,
+        "known_for_department": "Production",
+        "name": "Friday Smith",
+        "original_name": "Friday Smith",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "68b12da072909b2f681f152c",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5228129,
+        "known_for_department": "Acting",
+        "name": "Bodie Johnson",
+        "original_name": "Bodie Johnson",
+        "popularity": 0.1977,
+        "profile_path": null,
+        "credit_id": "68b12dacf809987a97510c7b",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5656761,
+        "known_for_department": "Crew",
+        "name": "Janie Weger",
+        "original_name": "Janie Weger",
+        "popularity": 0.0454,
+        "profile_path": null,
+        "credit_id": "68b12dc65f164ef3d6396d90",
+        "department": "Crew",
+        "job": "Animal Wrangler"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5656762,
+        "known_for_department": "Crew",
+        "name": "Paula Woodhouse",
+        "original_name": "Paula Woodhouse",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "68b12dd0ddc8ac7f70510cac",
+        "department": "Crew",
+        "job": "Animal Wrangler"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5656764,
+        "known_for_department": "Crew",
+        "name": "Travis Waldner",
+        "original_name": "Travis Waldner",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "68b12dd92b33583512396dc9",
+        "department": "Crew",
+        "job": "Animal Wrangler"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5656765,
+        "known_for_department": "Crew",
+        "name": "Gladys Johner",
+        "original_name": "Gladys Johner",
+        "popularity": 0.0365,
+        "profile_path": null,
+        "credit_id": "68b12de1f809987a97510c89",
+        "department": "Crew",
+        "job": "Animal Wrangler"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2614965,
+        "known_for_department": "Sound",
+        "name": "respectfulchild",
+        "original_name": "respectfulchild",
+        "popularity": 0.0903,
+        "profile_path": null,
+        "credit_id": "68b12e6da55db279eb3cc29d",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2152626,
+        "known_for_department": "Directing",
+        "name": "Gavin Baird",
+        "original_name": "Gavin Baird",
+        "popularity": 0.1503,
+        "profile_path": null,
+        "credit_id": "68b12e7b28cb1c6b9e156f8e",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2152631,
+        "known_for_department": "Sound",
+        "name": "Reid Paraszczynec",
+        "original_name": "Reid Paraszczynec",
+        "popularity": 0.2419,
+        "profile_path": null,
+        "credit_id": "68b12ec2a6946dba5054d542",
+        "department": "Sound",
+        "job": "Sound Engineer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4931650,
+        "known_for_department": "Crew",
+        "name": "Ryley Konechny",
+        "original_name": "Ryley Konechny",
+        "popularity": 0.1027,
+        "profile_path": "/kp97os1Mzf9uqIpJ2H47NN5Rp6f.jpg",
+        "credit_id": "68b12ed9e10dc68fea156e9a",
+        "department": "Editing",
+        "job": "Color Grading"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5656753,
+        "known_for_department": "Crew",
+        "name": "Dylan Crosby",
+        "original_name": "Dylan Crosby",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68b12eeb72909b2f681f1540",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3598866,
+        "known_for_department": "Production",
+        "name": "Levi Mierau",
+        "original_name": "Levi Mierau",
+        "popularity": 0.0575,
+        "profile_path": null,
+        "credit_id": "68b12ef56fd2c411b6396d74",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4327180,
+        "known_for_department": "Art",
+        "name": "Andrea Mackenzie Engele",
+        "original_name": "Andrea Mackenzie Engele",
+        "popularity": 0.157,
+        "profile_path": null,
+        "credit_id": "68b12f015f164ef3d6396d97",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5656758,
+        "known_for_department": "Crew",
+        "name": "Kim Baird-McDonald",
+        "original_name": "Kim Baird-McDonald",
+        "popularity": 0.0347,
+        "profile_path": null,
+        "credit_id": "68b12f0fe4e33f1a9e1f1499",
+        "department": "Crew",
+        "job": "Title Graphics"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5656794,
+        "known_for_department": "Art",
+        "name": "Dani LaValley",
+        "original_name": "Dani LaValley",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68b12f89d90ff5c5a31b842d",
+        "department": "Art",
+        "job": "Title Illustration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2152626,
+        "known_for_department": "Directing",
+        "name": "Gavin Baird",
+        "original_name": "Gavin Baird",
+        "popularity": 0.1503,
+        "profile_path": null,
+        "credit_id": "68b1302343ce751fe51b8512",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5656803,
+        "known_for_department": "Crew",
+        "name": "Alexis Makepeace",
+        "original_name": "Alexis Makepeace",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68b13072d90ff5c5a31b8436",
+        "department": "Crew",
+        "job": "Health and Safety"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3967791,
+        "known_for_department": "Directing",
+        "name": "Bret Parenteau",
+        "original_name": "Bret Parenteau",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "6926a5783999b7ac5330ccc1",
+        "department": "Sound",
+        "job": "Music"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "An alien is sent to Earth and is tasked with a mission to invade, seduce, and terminate a family of colonizers in 19th-century Saskatchewan.",
+          "runtime": 20,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt37844416",
+    "wikidata_id": "Q137731334",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 793,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/jJkkARMfLzXpX9AvQXRySC1EOOA.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1410
+      },
+      {
+        "aspect_ratio": 1.777,
+        "height": 768,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/fzPi77sgzKRhCB2sAOGfrY6Gx2d.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1365
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1309,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/duyd9sy0jYtWJo9QC2NdQguacFm.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2327
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.675,
+        "height": 2900,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/rfEVMtYcYuwajQE9ExyAUItHrYh.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1957
+      },
+      {
+        "aspect_ratio": 0.675,
+        "height": 2900,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/zldJkFmzXiCDFosK0N1Zzq7Ib3p.jpg",
+        "vote_average": 0.0,
+        "vote_count": 1,
+        "width": 1957
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "Toronto International Film Festival",
+            "release_date": "2025-09-05T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "International Film Festival of Ottawa",
+            "release_date": "2026-03-13T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "KLEE Trailer | TIFF 2025",
+        "key": "TQr3FWrr2b8",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "68b131836dd16f100b3cc1bf",
+        "published_at": "2025-08-07T14:00:52.000Z"
+      }
+    ]
+  }
+}

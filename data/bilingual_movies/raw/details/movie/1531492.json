@@ -1,0 +1,782 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1531492,
+  "imdb_id": null,
+  "origin_country": [
+    "TH"
+  ],
+  "original_language": "th",
+  "original_title": "หลง-ลืม-ระหว่างโขง",
+  "overview": "After his father disappears in the Mekong River, Tawan, a devout atheist, must lead the search. While villagers demand he perform a sacred ritual to appease the mythical  Naga.",
+  "popularity": 0.8146,
+  "poster_path": "/hoRsEfkRsXnoZFE4ehC44A770jb.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2025-08-16",
+  "revenue": 0,
+  "runtime": 23,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "ภาษาไทย"
+    }
+  ],
+  "status": "Released",
+  "tagline": "When belief is tested, will you stand or surrender?",
+  "title": "Lost in Mekong",
+  "video": false,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5635955,
+        "known_for_department": "Acting",
+        "name": "Anawin Sintusai",
+        "original_name": "Anawin Sintusai",
+        "popularity": 0.0535,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Tawan",
+        "credit_id": "68a49fe19ecdba47d7bcafc9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5635956,
+        "known_for_department": "Acting",
+        "name": "Padoongdach Sararath",
+        "original_name": "Padoongdach Sararath",
+        "popularity": 0.0655,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Game",
+        "credit_id": "68a49fef67af9dd615fd2152",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5635957,
+        "known_for_department": "Acting",
+        "name": "Ruangpratin Kiaosod",
+        "original_name": "Ruangpratin Kiaosod",
+        "popularity": 0.0727,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Kla",
+        "credit_id": "68a49ff9960b98f4ee5dcf82",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5635958,
+        "known_for_department": "Acting",
+        "name": "Pranee Kiaosod",
+        "original_name": "Pranee Kiaosod",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "CHAN (TAWAN'S MOTHER)",
+        "credit_id": "68a4a00a9ecdba47d7bcafd3",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5635959,
+        "known_for_department": "Acting",
+        "name": "Kamfong Singhamui",
+        "original_name": "Kamfong Singhamui",
+        "popularity": 0.099,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "OUD (TAWAN'S FATHER)",
+        "credit_id": "68a4a019f0b30ed2c525ebe3",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4726639,
+        "known_for_department": "Directing",
+        "name": "Jutarat Pimkaew",
+        "original_name": "Jutarat Pimkaew",
+        "popularity": 0.3763,
+        "profile_path": "/tnZjdt290SECV0WZICV2biTb5ub.jpg",
+        "credit_id": "68a1f42d7a8d3655a802d171",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4726639,
+        "known_for_department": "Directing",
+        "name": "Jutarat Pimkaew",
+        "original_name": "Jutarat Pimkaew",
+        "popularity": 0.3763,
+        "profile_path": "/tnZjdt290SECV0WZICV2biTb5ub.jpg",
+        "credit_id": "68a1f4347a022fc0710c011c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4373663,
+        "known_for_department": "Directing",
+        "name": "Nattanicha Kulkraijak",
+        "original_name": "Nattanicha Kulkraijak",
+        "popularity": 0.3009,
+        "profile_path": null,
+        "credit_id": "68a1f481336759e14286fe71",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4058499,
+        "known_for_department": "Acting",
+        "name": "Piya Charoenwitti",
+        "original_name": "Piya Charoenwitti",
+        "popularity": 0.092,
+        "profile_path": null,
+        "credit_id": "68a49f8a67af9dd615fd2146",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4551153,
+        "known_for_department": "Art",
+        "name": "Chalisa Sangnet",
+        "original_name": "Chalisa Sangnet",
+        "popularity": 0.1175,
+        "profile_path": null,
+        "credit_id": "68a49f954ada12cb3fd54791",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4508484,
+        "known_for_department": "Directing",
+        "name": "Yodchanok Chotthanaphaisan",
+        "original_name": "Yodchanok Chotthanaphaisan",
+        "popularity": 0.1379,
+        "profile_path": null,
+        "credit_id": "68a49f9e9ecdba47d7bcafba",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5635954,
+        "known_for_department": "Sound",
+        "name": "Ponlawat Poonpipat",
+        "original_name": "Ponlawat Poonpipat",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68a49fbfc65f83a2da834541",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4551173,
+        "known_for_department": "Directing",
+        "name": "Jitpanu Kasiroek",
+        "original_name": "Jitpanu Kasiroek",
+        "popularity": 0.0516,
+        "profile_path": "/iYoQ0AQFSTCllwZiuJFS38iffCP.jpg",
+        "credit_id": "68a4a034376d2034eb834539",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4889338,
+        "known_for_department": "Directing",
+        "name": "Plaipruet Rattananiramonsakul",
+        "original_name": "Plaipruet Rattananiramonsakul",
+        "popularity": 0.081,
+        "profile_path": null,
+        "credit_id": "68a4a05120b6ea12fe3e8139",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4795402,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Pranpriya Pandumrong",
+        "original_name": "Pranpriya Pandumrong",
+        "popularity": 0.1548,
+        "profile_path": null,
+        "credit_id": "68a4a05ad52b6cc0785dcf9a",
+        "department": "Directing",
+        "job": "Continuity"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4726639,
+        "known_for_department": "Directing",
+        "name": "Jutarat Pimkaew",
+        "original_name": "Jutarat Pimkaew",
+        "popularity": 0.3763,
+        "profile_path": "/tnZjdt290SECV0WZICV2biTb5ub.jpg",
+        "credit_id": "68a4a065f74db8ba89696d77",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4889338,
+        "known_for_department": "Directing",
+        "name": "Plaipruet Rattananiramonsakul",
+        "original_name": "Plaipruet Rattananiramonsakul",
+        "popularity": 0.081,
+        "profile_path": null,
+        "credit_id": "68a4a071d0bd8096a4d5479b",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4058498,
+        "known_for_department": "Acting",
+        "name": "Chanon Srisangjan",
+        "original_name": "Chanon Srisangjan",
+        "popularity": 0.1352,
+        "profile_path": null,
+        "credit_id": "68a4a0aef3e3effcb9696d77",
+        "department": "Crew",
+        "job": "Dialogue Coach"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4554454,
+        "known_for_department": "Production",
+        "name": "Thanaporn Teawsomboonkit",
+        "original_name": "Thanaporn Teawsomboonkit",
+        "popularity": 0.1188,
+        "profile_path": null,
+        "credit_id": "68a4a0ebf0b30ed2c525ebf6",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5635965,
+        "known_for_department": "Production",
+        "name": "Natnatorn Pimkaew",
+        "original_name": "Natnatorn Pimkaew",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "68a4a0fb03c7b4b0e6696da7",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4551146,
+        "known_for_department": "Production",
+        "name": "Thanyakan Korncharoenthanaphat",
+        "original_name": "Thanyakan Korncharoenthanaphat",
+        "popularity": 0.0625,
+        "profile_path": null,
+        "credit_id": "68a4a10a75e83bd088696d62",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4551163,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Aoomrak Photthiramontri",
+        "original_name": "Aoomrak Photthiratri",
+        "popularity": 0.3936,
+        "profile_path": null,
+        "credit_id": "68a4a13272c61e71ae834576",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4551163,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Aoomrak Photthiramontri",
+        "original_name": "Aoomrak Photthiratri",
+        "popularity": 0.3936,
+        "profile_path": null,
+        "credit_id": "68a4a1754f79c0151a25eb4f",
+        "department": "Costume & Make-Up",
+        "job": "Set Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4726639,
+        "known_for_department": "Directing",
+        "name": "Jutarat Pimkaew",
+        "original_name": "Jutarat Pimkaew",
+        "popularity": 0.3763,
+        "profile_path": "/tnZjdt290SECV0WZICV2biTb5ub.jpg",
+        "credit_id": "68a4a18c6cdf2ed6485dd00b",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3719335,
+        "known_for_department": "Production",
+        "name": "Kanjanaporn Kanjanapimol",
+        "original_name": "Kanjanaporn Kanjanapimol",
+        "popularity": 0.1588,
+        "profile_path": null,
+        "credit_id": "68a4a19b43c40b84e383452a",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4898140,
+        "known_for_department": "Camera",
+        "name": "Krissanun Rodloy",
+        "original_name": "Krissanun Rodloy",
+        "popularity": 0.1527,
+        "profile_path": null,
+        "credit_id": "68a4a1a64ada12cb3fd547ae",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4795402,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Pranpriya Pandumrong",
+        "original_name": "Pranpriya Pandumrong",
+        "popularity": 0.1548,
+        "profile_path": null,
+        "credit_id": "68a4a1aeb69b64981ca81148",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4508446,
+        "known_for_department": "Camera",
+        "name": "Nattee Wirachotikulroj",
+        "original_name": "Nattee Wirachotikulroj",
+        "popularity": 0.0739,
+        "profile_path": "/zlUzBLCjsFpPYMEeV4J3WTk6jLP.jpg",
+        "credit_id": "68a4a1d792c3981df55dcf7c",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4373688,
+        "known_for_department": "Directing",
+        "name": "Mami Matsuoka",
+        "original_name": "Mami Matsuoka",
+        "popularity": 0.0417,
+        "profile_path": null,
+        "credit_id": "68a4a1e159d1386d835dcfa3",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4726821,
+        "known_for_department": "Lighting",
+        "name": "Prasan Namsaeng",
+        "original_name": "Prasan Namsaeng",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68a4a1ee14e9e4ae45fd219a",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3720104,
+        "known_for_department": "Camera",
+        "name": "Pattawat Chuasuk",
+        "original_name": "Pattawat Chuasuk",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68a4a1fc410b9983f0d547c2",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4373701,
+        "known_for_department": "Directing",
+        "name": "Pichaya Suriyopas",
+        "original_name": "Pichaya Suriyopas",
+        "popularity": 0.5785,
+        "profile_path": "/dqugNSJCw7drJnYbjJqddEjPrS0.jpg",
+        "credit_id": "68a4a20e43c40b84e383453d",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4551146,
+        "known_for_department": "Production",
+        "name": "Thanyakan Korncharoenthanaphat",
+        "original_name": "Thanyakan Korncharoenthanaphat",
+        "popularity": 0.0625,
+        "profile_path": null,
+        "credit_id": "68a4a21ab579937917fd2168",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4726825,
+        "known_for_department": "Camera",
+        "name": "Apirak Palee",
+        "original_name": "Apirak Palee",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68a4a22914e9e4ae45fd21a0",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4884513,
+        "known_for_department": "Art",
+        "name": "Treeyakorn Boonyaleka",
+        "original_name": "Treeyakorn Boonyaleka",
+        "popularity": 0.1468,
+        "profile_path": null,
+        "credit_id": "68a4a233e7415686ef3e8134",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3719335,
+        "known_for_department": "Production",
+        "name": "Kanjanaporn Kanjanapimol",
+        "original_name": "Kanjanaporn Kanjanapimol",
+        "popularity": 0.1588,
+        "profile_path": null,
+        "credit_id": "68a4a24496b1e52396a8114f",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4898140,
+        "known_for_department": "Camera",
+        "name": "Krissanun Rodloy",
+        "original_name": "Krissanun Rodloy",
+        "popularity": 0.1527,
+        "profile_path": null,
+        "credit_id": "68a4a24eefc59c52b6fd2152",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3427695,
+        "known_for_department": "Editing",
+        "name": "Jirat Jonggirattikarn",
+        "original_name": "Jirat Jonggirattikarn",
+        "popularity": 0.1043,
+        "profile_path": null,
+        "credit_id": "68a4a25ca248077c9a5dcfed",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5635982,
+        "known_for_department": "Sound",
+        "name": "Vatunyou Nunnanta",
+        "original_name": "Vatunyou Nunnanta",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68a4a267f0b30ed2c525ec08",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5158859,
+        "known_for_department": "Sound",
+        "name": "Thanaphat Plangphatthanaphanit",
+        "original_name": "Thanaphat Plangphatthanaphanit",
+        "popularity": 0.0628,
+        "profile_path": "/udcFU80MKkqwofHiWM2FnTPWlpb.jpg",
+        "credit_id": "68a4a272b579937917fd2176",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5635982,
+        "known_for_department": "Sound",
+        "name": "Vatunyou Nunnanta",
+        "original_name": "Vatunyou Nunnanta",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68a4a27e14e9e4ae45fd21a3",
+        "department": "Sound",
+        "job": "Sound Engineer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4726639,
+        "known_for_department": "Directing",
+        "name": "Jutarat Pimkaew",
+        "original_name": "Jutarat Pimkaew",
+        "popularity": 0.3763,
+        "profile_path": "/tnZjdt290SECV0WZICV2biTb5ub.jpg",
+        "credit_id": "68a4a2a367af9dd615fd2181",
+        "department": "Crew",
+        "job": "Translator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4508511,
+        "known_for_department": "Camera",
+        "name": "Pawin Sombutinunt",
+        "original_name": "Pawin Sombutinunt",
+        "popularity": 0.0542,
+        "profile_path": null,
+        "credit_id": "68a4a2dfb69b64981ca81161",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5635985,
+        "known_for_department": "Crew",
+        "name": "Pan Wongvichein",
+        "original_name": "Pan Wongvichein",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68a4a30f970bdaa5753e8239",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5635986,
+        "known_for_department": "Crew",
+        "name": "Saharat Kaeochinda",
+        "original_name": "Saharat Kaeochinda",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "68a4a31967af9dd615fd21a2",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5635987,
+        "known_for_department": "Crew",
+        "name": "Somluck Channoi",
+        "original_name": "Somluck Channoi",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68a4a323eb47669a45bcb01b",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4883441,
+        "known_for_department": "Art",
+        "name": "Pornpipat Inpison",
+        "original_name": "Pornpipat Inpison",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68a4a330b63113462825eb34",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5635965,
+        "known_for_department": "Production",
+        "name": "Natnatorn Pimkaew",
+        "original_name": "Natnatorn Pimkaew",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "68a4a33914e9e4ae45fd21ad",
+        "department": "Crew",
+        "job": "Driver"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "TH",
+        "iso_639_1": "th",
+        "name": "ภาษาไทย",
+        "english_name": "Thai",
+        "data": {
+          "homepage": "",
+          "overview": "หนุ่มผู้ไม่เชื่อในเรื่องเหนือธรรมชาติต้องมาตามหาร่างของผู้เป็นพ่อที่จมหายไปในแม่น้ำโขง ท่ามกลางแรงกดดันจากชาวบ้านที่อยากให้เขาทำพิธีขอขมาพญานาค",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "After his father disappears in the Mekong River, Tawan, a devout atheist, must lead the search. While villagers demand he perform a sacred ritual to appease the mythical  Naga.",
+          "runtime": 23,
+          "tagline": "When belief is tested, will you stand or surrender?",
+          "title": "Lost in Mekong"
+        }
+      },
+      {
+        "iso_3166_1": "KR",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말",
+        "english_name": "Korean",
+        "data": {
+          "homepage": "",
+          "overview": "메콩강에서 아버지가 실종된 후, 독실한 무신론자인 타완은 직접 수색을 주도한다. 마을 사람들은 신화 속 존재인 나가의 노여움을 달래기 위한 의식을 요구하지만, 아무런 단서도 찾지 못한 채 시간만 흘러간다. 회의와 책임감, 그리고 점점 깊어지는 강의 미스터리가 충돌하는 가운데, 타완은 그 모든 것의 진실과 마주하기 위해 고군분투한다.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "메콩강에서 길을 잃다"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.707,
+        "height": 2482,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/hoRsEfkRsXnoZFE4ehC44A770jb.jpg",
+        "vote_average": 0.0,
+        "vote_count": 1,
+        "width": 1755
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Busan International Short Film Festival",
+            "release_date": "2026-04-24T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "TH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "th",
+            "note": "Corenang2025",
+            "release_date": "2025-08-16T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

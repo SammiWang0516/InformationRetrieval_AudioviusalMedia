@@ -1,0 +1,924 @@
+{
+  "adult": false,
+  "backdrop_path": "/uSzdUpyqQxZR4cuIkYg2oMr1KXy.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://dynamite-film.com",
+  "id": 1631682,
+  "imdb_id": "tt39577214",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "96 Pounds of Dynamite",
+  "overview": "Diagnosed at birth with a rare condition that was expected to kill him, Chad \"Shorty\" McDaniel embraces humor, grit, and a competitive spirit to live the life others said he would never have and shatter assumptions about disability.",
+  "popularity": 0.7758,
+  "poster_path": "/xEua5z9LMILLFS8sVddyipivAfU.jpg",
+  "production_companies": [
+    {
+      "id": 288685,
+      "logo_path": null,
+      "name": "Illumastory Films II LLC",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-03-14",
+  "revenue": 0,
+  "runtime": 79,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "96 Pounds of Dynamite",
+  "video": false,
+  "vote_average": 10.0,
+  "vote_count": 2,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5995427,
+        "known_for_department": "Acting",
+        "name": "Chad McDaniel",
+        "original_name": "Chad McDaniel",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Self",
+        "credit_id": "6988eef0e7f114fc098fd161",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995438,
+        "known_for_department": "Acting",
+        "name": "Joe Tucker",
+        "original_name": "Joe Tucker",
+        "popularity": 0.0833,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Self",
+        "credit_id": "6988f09057a4b625272cec32",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995440,
+        "known_for_department": "Acting",
+        "name": "Loren Goldfarb",
+        "original_name": "Loren Goldfarb",
+        "popularity": 0.0507,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Self",
+        "credit_id": "6988f09fabf0b732325d91cd",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995441,
+        "known_for_department": "Acting",
+        "name": "Josephine Miller",
+        "original_name": "Josephine Miller",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Self",
+        "credit_id": "6988f0b32338a677cb3aa07e",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995444,
+        "known_for_department": "Acting",
+        "name": "Rich Johnson",
+        "original_name": "Rich Johnson",
+        "popularity": 0.109,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Self",
+        "credit_id": "6988f0c7c78ae5f7758e7145",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995448,
+        "known_for_department": "Acting",
+        "name": "Jensie Magee",
+        "original_name": "Jensie Magee",
+        "popularity": 0.128,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Self",
+        "credit_id": "6988f0d8cdf77f6d478fd175",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995449,
+        "known_for_department": "Acting",
+        "name": "Laura Tosi, M.D.",
+        "original_name": "Laura Tosi, M.D.",
+        "popularity": 0.1023,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Self",
+        "credit_id": "6988f0e97c2ad33ff2f81222",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995450,
+        "known_for_department": "Acting",
+        "name": "Pamela Stockbridge",
+        "original_name": "Pamela Stockbridge",
+        "popularity": 0.1478,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Self",
+        "credit_id": "6988f0f9e7f114fc098fd17f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995451,
+        "known_for_department": "Acting",
+        "name": "Lynn Stockbridge",
+        "original_name": "Lynn Stockbridge",
+        "popularity": 0.1973,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Self",
+        "credit_id": "6988f105538dfdc7cb5d8f04",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995453,
+        "known_for_department": "Acting",
+        "name": "Allison McDaniel",
+        "original_name": "Allison McDaniel",
+        "popularity": 0.049,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Self",
+        "credit_id": "6988f112abf0b732325d91d9",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995455,
+        "known_for_department": "Acting",
+        "name": "Dana Knight",
+        "original_name": "Dana Knight",
+        "popularity": 0.0421,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Self",
+        "credit_id": "6988f11f33f8fea1a85cac7b",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995457,
+        "known_for_department": "Acting",
+        "name": "Barry Whaley",
+        "original_name": "Barry Whaley",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Self",
+        "credit_id": "6988f12f1bbc4e6b5a3aa174",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995462,
+        "known_for_department": "Acting",
+        "name": "Audie Magee",
+        "original_name": "Audie Magee",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Self",
+        "credit_id": "6988f13d1bbc4e6b5a3aa17f",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995464,
+        "known_for_department": "Acting",
+        "name": "Amy Tucker",
+        "original_name": "Amy Tucker",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Self",
+        "credit_id": "6988f151dda0469b085cac71",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995468,
+        "known_for_department": "Acting",
+        "name": "Jason Bowman",
+        "original_name": "Jason Bowman",
+        "popularity": 0.0736,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Self",
+        "credit_id": "6988f163af11fd5736c1cbcf",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995474,
+        "known_for_department": "Acting",
+        "name": "Ewa Mataya Laurance",
+        "original_name": "Ewa Mataya Laurance",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Self",
+        "credit_id": "6988f17035c8508a625cac46",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995478,
+        "known_for_department": "Acting",
+        "name": "Chris Wilson",
+        "original_name": "Chris Wilson",
+        "popularity": 0.0892,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Self",
+        "credit_id": "6988f18094d54b62482cecb3",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995482,
+        "known_for_department": "Acting",
+        "name": "Michelle Pessaro",
+        "original_name": "Michelle Pessaro",
+        "popularity": 0.0612,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Self",
+        "credit_id": "6988f190e9e0eb15625cac63",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995440,
+        "known_for_department": "Acting",
+        "name": "Loren Goldfarb",
+        "original_name": "Loren Goldfarb",
+        "popularity": 0.0507,
+        "profile_path": null,
+        "credit_id": "6988f2034188a3a24d8c95cd",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995440,
+        "known_for_department": "Acting",
+        "name": "Loren Goldfarb",
+        "original_name": "Loren Goldfarb",
+        "popularity": 0.0507,
+        "profile_path": null,
+        "credit_id": "6988f230639dbeed068c9320",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4181391,
+        "known_for_department": "Directing",
+        "name": "Ed Coughlin",
+        "original_name": "Ed Coughlin",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "credit_id": "6988f24f64311b4bc9c1cb18",
+        "department": "Directing",
+        "job": "Co-Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4181391,
+        "known_for_department": "Directing",
+        "name": "Ed Coughlin",
+        "original_name": "Ed Coughlin",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "credit_id": "6988f2625fbd0d070b5d8e98",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995508,
+        "known_for_department": "Editing",
+        "name": "Kimberly O'Neill",
+        "original_name": "Kimberly O'Neill",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6988f28302a66bc973c1cc82",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995525,
+        "known_for_department": "Camera",
+        "name": "Duane Codrington",
+        "original_name": "Duane Codrington",
+        "popularity": 0.0479,
+        "profile_path": null,
+        "credit_id": "6988f30eea012e3fc52cec42",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995527,
+        "known_for_department": "Editing",
+        "name": "Jason Boucher",
+        "original_name": "Jason Boucher",
+        "popularity": 0.0438,
+        "profile_path": null,
+        "credit_id": "6988f332db18961c2a5cae32",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995527,
+        "known_for_department": "Editing",
+        "name": "Jason Boucher",
+        "original_name": "Jason Boucher",
+        "popularity": 0.0438,
+        "profile_path": null,
+        "credit_id": "6988f3489484a5d4305cabd6",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995531,
+        "known_for_department": "Sound",
+        "name": "Matt Copeland",
+        "original_name": "Matt Copeland",
+        "popularity": 0.0532,
+        "profile_path": null,
+        "credit_id": "6988f3a2933384e05a8fd0d5",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995533,
+        "known_for_department": "Crew",
+        "name": "David Acampora",
+        "original_name": "David Acampora",
+        "popularity": 0.0431,
+        "profile_path": null,
+        "credit_id": "6988f3d0cdf77f6d478fd1a9",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4181391,
+        "known_for_department": "Directing",
+        "name": "Ed Coughlin",
+        "original_name": "Ed Coughlin",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "credit_id": "6988f3e20ae9ddf9c68e6fd2",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995440,
+        "known_for_department": "Acting",
+        "name": "Loren Goldfarb",
+        "original_name": "Loren Goldfarb",
+        "popularity": 0.0507,
+        "profile_path": null,
+        "credit_id": "6988f3f13e2e2a64f75cac2e",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995536,
+        "known_for_department": "Crew",
+        "name": "Julio Luzquinos",
+        "original_name": "Julio Luzquinos",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "credit_id": "6988f401933384e05a8fd0df",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995538,
+        "known_for_department": "Crew",
+        "name": "David Morefield",
+        "original_name": "David Morefield",
+        "popularity": 0.0489,
+        "profile_path": null,
+        "credit_id": "6988f4120a8f537993f812b8",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995539,
+        "known_for_department": "Crew",
+        "name": "Bill Williams",
+        "original_name": "Bill Williams",
+        "popularity": 0.0604,
+        "profile_path": null,
+        "credit_id": "6988f434ed70ae790cf81344",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995541,
+        "known_for_department": "Directing",
+        "name": "John Gunn",
+        "original_name": "John Gunn",
+        "popularity": 0.0494,
+        "profile_path": null,
+        "credit_id": "6988f45b25d4f8c9798fd0e3",
+        "department": "Directing",
+        "job": "Field Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2263884,
+        "known_for_department": "Writing",
+        "name": "Lynn Kessler",
+        "original_name": "Lynn Kessler",
+        "popularity": 0.0473,
+        "profile_path": null,
+        "credit_id": "6988f46f639dbeed068c9330",
+        "department": "Directing",
+        "job": "Field Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995549,
+        "known_for_department": "Production",
+        "name": "Macie Goldfarb",
+        "original_name": "Macie Goldfarb",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6988f49522e55a21258c95c2",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995550,
+        "known_for_department": "Crew",
+        "name": "Scott M. Goldberg, Esq.",
+        "original_name": "Scott M. Goldberg, Esq.",
+        "popularity": 0.0612,
+        "profile_path": null,
+        "credit_id": "6988f4a8cdf77f6d478fd1b9",
+        "department": "Crew",
+        "job": "Legal Services"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995557,
+        "known_for_department": "Production",
+        "name": "Jeanette Lee",
+        "original_name": "Jeanette Lee",
+        "popularity": 0.2436,
+        "profile_path": null,
+        "credit_id": "6988f5d53f4c2568af8fd16a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995558,
+        "known_for_department": "Production",
+        "name": "Ilene Baklor",
+        "original_name": "Ilene Baklor",
+        "popularity": 0.057,
+        "profile_path": null,
+        "credit_id": "6988f5f1a5a58baa5d2ced17",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995560,
+        "known_for_department": "Production",
+        "name": "Timothy Deratany",
+        "original_name": "Timothy Deratany",
+        "popularity": 0.0403,
+        "profile_path": null,
+        "credit_id": "6988f604ed05d1113b3aa162",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995562,
+        "known_for_department": "Production",
+        "name": "Eleanor Sheldon",
+        "original_name": "Eleanor Sheldon",
+        "popularity": 0.0431,
+        "profile_path": null,
+        "credit_id": "6988f618df36c138c73aa1a5",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995565,
+        "known_for_department": "Production",
+        "name": "Lee Sheldon",
+        "original_name": "Lee Sheldon",
+        "popularity": 0.0839,
+        "profile_path": null,
+        "credit_id": "6988f62d1bbc4e6b5a3aa1bf",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995567,
+        "known_for_department": "Production",
+        "name": "Matthew Sheldon",
+        "original_name": "Matthew Sheldon",
+        "popularity": 0.0431,
+        "profile_path": null,
+        "credit_id": "6988f63f5ebc35e8bc8e6e13",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995568,
+        "known_for_department": "Production",
+        "name": "Jenifer Sheldon",
+        "original_name": "Jenifer Sheldon",
+        "popularity": 0.0743,
+        "profile_path": null,
+        "credit_id": "6988f6529a3550928d8e6f4e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995569,
+        "known_for_department": "Production",
+        "name": "William Troner",
+        "original_name": "William Troner",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6988f66301d00590c28fd168",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995572,
+        "known_for_department": "Production",
+        "name": "Russell Adams",
+        "original_name": "Russell Adams",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6988f680db18961c2a5cae71",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995573,
+        "known_for_department": "Production",
+        "name": "Ellen Saval",
+        "original_name": "Ellen Saval",
+        "popularity": 0.0354,
+        "profile_path": null,
+        "credit_id": "6988f68c3e2e2a64f75cac53",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995574,
+        "known_for_department": "Production",
+        "name": "Paul Saval",
+        "original_name": "Paul Saval",
+        "popularity": 0.0769,
+        "profile_path": null,
+        "credit_id": "6988f698b9c6e050108c9288",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995575,
+        "known_for_department": "Production",
+        "name": "Albert Steiginga",
+        "original_name": "Albert Steiginga",
+        "popularity": 0.0566,
+        "profile_path": null,
+        "credit_id": "6988f6adbe89ada48b2cec51",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995440,
+        "known_for_department": "Acting",
+        "name": "Loren Goldfarb",
+        "original_name": "Loren Goldfarb",
+        "popularity": 0.0507,
+        "profile_path": null,
+        "credit_id": "6988fa1c24f6b0b7e78fd090",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 2564,
+        "name": "wheelchair"
+      },
+      {
+        "id": 244984,
+        "name": "pool"
+      },
+      {
+        "id": 281585,
+        "name": "inspirational"
+      },
+      {
+        "id": 310096,
+        "name": "oi"
+      },
+      {
+        "id": 343589,
+        "name": "disabilities"
+      },
+      {
+        "id": 367301,
+        "name": "pocket billiards"
+      },
+      {
+        "id": 367303,
+        "name": "osteogenesis imperfecta"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "https://dynamite-film.com",
+          "overview": "Diagnosed at birth with a rare condition that was expected to kill him, Chad \"Shorty\" McDaniel embraces humor, grit, and a competitive spirit to live the life others said he would never have and shatter assumptions about disability.",
+          "runtime": 79,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "96 lbs. of Dynamite",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt39577214",
+    "wikidata_id": null,
+    "facebook_id": "61568244852306",
+    "instagram_id": "96poundsofdynamite",
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/uSzdUpyqQxZR4cuIkYg2oMr1KXy.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/ymrQmbKHUuqNE4ZI2Sculpkc8El.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/qisQHrBfmkUKMRdJweKDOs0MrJr.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/cnHUgagmTpH615d0yFGmHL1kzws.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/caluGGhJiroJSnqehSd9Nsb799V.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/hWQOQwyR5U8TtlYaxNjmDSLeEM3.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      }
+    ],
+    "logos": [
+      {
+        "aspect_ratio": 3.917,
+        "height": 947,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/2eQMg9iVWihVDUSRlcSatpkoDf9.png",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3709
+      }
+    ],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/xEua5z9LMILLFS8sVddyipivAfU.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/mjcqmmxbURFMUQEE1pvCnaBbQBD.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "Cinequest Film & Creativity Festival",
+            "release_date": "2026-03-14T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "96 Pounds of Dynamite_Trailer",
+        "key": "1086806551",
+        "site": "Vimeo",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "6993861494cd147c9f1af7f7",
+        "published_at": "2025-05-22T15:00:32.000Z"
+      }
+    ]
+  }
+}

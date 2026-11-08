@@ -1,0 +1,753 @@
+{
+  "adult": false,
+  "backdrop_path": "/cl86qjyA7Dh9VW61BJH12GEqUBG.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 1475449,
+  "imdb_id": null,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Even Now",
+  "overview": "A group of artists with chronic pain come together in discussion and co-creation with the hope of using art as a way to process and heal wounds that seemingly cannot be healed.",
+  "popularity": 1.1041,
+  "poster_path": "/e8xhV72cIAoGE62BAUpSihuztRY.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2025-05-11",
+  "revenue": 0,
+  "runtime": 10,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "Even Now",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5415956,
+        "known_for_department": "Acting",
+        "name": "Maureen Brusa Zappellini",
+        "original_name": "Maureen Brusa Zappellini",
+        "popularity": 0.4654,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "6817a5f673b2ca9ff9551672",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5338584,
+        "known_for_department": "Art",
+        "name": "Piranha",
+        "original_name": "Piranha",
+        "popularity": 0.4564,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "6817a605fb2d00566c8b64b8",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5415960,
+        "known_for_department": "Acting",
+        "name": "Leech",
+        "original_name": "Leech",
+        "popularity": 0.0797,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "6817a616401a0d9fbbd4ca90",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4138437,
+        "known_for_department": "Acting",
+        "name": "Sadie May Beebe",
+        "original_name": "Sadie May Beebe",
+        "popularity": 0.1739,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "",
+        "credit_id": "6817ada6d38d62b4c791362b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4542651,
+        "known_for_department": "Directing",
+        "name": "Cosmo Brusa Zappellini",
+        "original_name": "Cosmo Brusa Zappellini",
+        "popularity": 0.1307,
+        "profile_path": "/6XRPrfH2sOywJqqrWjzB1HtvZMX.jpg",
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "6817adb4f279a934ca913526",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5416036,
+        "known_for_department": "Acting",
+        "name": "Patrick Orcutt",
+        "original_name": "Patrick Orcutt",
+        "popularity": 0.0735,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "",
+        "credit_id": "6817adc50be54fb88d9134c2",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4542651,
+        "known_for_department": "Directing",
+        "name": "Cosmo Brusa Zappellini",
+        "original_name": "Cosmo Brusa Zappellini",
+        "popularity": 0.1307,
+        "profile_path": "/6XRPrfH2sOywJqqrWjzB1HtvZMX.jpg",
+        "credit_id": "6817ad043be23e42ce551695",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5415956,
+        "known_for_department": "Acting",
+        "name": "Maureen Brusa Zappellini",
+        "original_name": "Maureen Brusa Zappellini",
+        "popularity": 0.4654,
+        "profile_path": null,
+        "credit_id": "6817ad17279fc66cb3551684",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5338584,
+        "known_for_department": "Art",
+        "name": "Piranha",
+        "original_name": "Piranha",
+        "popularity": 0.4564,
+        "profile_path": null,
+        "credit_id": "6817ad4a1c3a8e320a913553",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5415960,
+        "known_for_department": "Acting",
+        "name": "Leech",
+        "original_name": "Leech",
+        "popularity": 0.0797,
+        "profile_path": null,
+        "credit_id": "6817ad56afecb4fb4c5516bf",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5416032,
+        "known_for_department": "Writing",
+        "name": "Frida Capitan",
+        "original_name": "Frida Capitan",
+        "popularity": 0.138,
+        "profile_path": null,
+        "credit_id": "6817ad6823b73a4074913580",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4542651,
+        "known_for_department": "Directing",
+        "name": "Cosmo Brusa Zappellini",
+        "original_name": "Cosmo Brusa Zappellini",
+        "popularity": 0.1307,
+        "profile_path": "/6XRPrfH2sOywJqqrWjzB1HtvZMX.jpg",
+        "credit_id": "6817ad76f279a934ca91350d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4722169,
+        "known_for_department": "Directing",
+        "name": "Marie Taylor",
+        "original_name": "Marie Taylor",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6817ad8eaa267060568b65d3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4542651,
+        "known_for_department": "Directing",
+        "name": "Cosmo Brusa Zappellini",
+        "original_name": "Cosmo Brusa Zappellini",
+        "popularity": 0.1307,
+        "profile_path": "/6XRPrfH2sOywJqqrWjzB1HtvZMX.jpg",
+        "credit_id": "6817adddd38d62b4c7913638",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5416039,
+        "known_for_department": "Camera",
+        "name": "Andy Mourelatos",
+        "original_name": "Andy Mourelatos",
+        "popularity": 0.0372,
+        "profile_path": null,
+        "credit_id": "6817ae0bf22df07fcf1d0d3d",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5416032,
+        "known_for_department": "Writing",
+        "name": "Frida Capitan",
+        "original_name": "Frida Capitan",
+        "popularity": 0.138,
+        "profile_path": null,
+        "credit_id": "6817ae1ca80e8a4e9aa2161f",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4686220,
+        "known_for_department": "Camera",
+        "name": "Caleb Urrea",
+        "original_name": "Caleb Urrea",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6817ae2939002e831ea215ee",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5338583,
+        "known_for_department": "Camera",
+        "name": "George Romero",
+        "original_name": "George Romero",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6817ae4159d70418c29133fc",
+        "department": "Camera",
+        "job": "Additional Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5416048,
+        "known_for_department": "Camera",
+        "name": "Gabriel Verdugo",
+        "original_name": "Gabriel Verdugo",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "6817af01d5c815e0c91d0ced",
+        "department": "Camera",
+        "job": "BTS Videographer"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 4282511,
+        "known_for_department": "Directing",
+        "name": "Jazzy Boho",
+        "original_name": "Jazzy Boho",
+        "popularity": 0.0,
+        "profile_path": "/uaM67XKoSL9AJFi6w5jlFEFYNGm.jpg",
+        "credit_id": "6817af1046302c4a4cd4cb53",
+        "department": "Camera",
+        "job": "BTS Videographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4722175,
+        "known_for_department": "Lighting",
+        "name": "Keelin Connolly",
+        "original_name": "Keelin Connolly",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6817af3813fca7dfdfd4cac2",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5338578,
+        "known_for_department": "Camera",
+        "name": "Graham Donohoe",
+        "original_name": "Graham Donohoe",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "6817af63bdb5661aba84d020",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4282516,
+        "known_for_department": "Production",
+        "name": "Sara Luu",
+        "original_name": "Sara Luu",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6817af8141de90902c46178c",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 4282511,
+        "known_for_department": "Directing",
+        "name": "Jazzy Boho",
+        "original_name": "Jazzy Boho",
+        "popularity": 0.0,
+        "profile_path": "/uaM67XKoSL9AJFi6w5jlFEFYNGm.jpg",
+        "credit_id": "6817afe4d849ce6260a21512",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5416055,
+        "known_for_department": "Art",
+        "name": "Danny Piku",
+        "original_name": "Danny Piku",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "6817affc3462264d48d4ca7c",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5416056,
+        "known_for_department": "Art",
+        "name": "Gem Abarca",
+        "original_name": "Gem Abarca",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6817b02d73d47302a6461775",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5416059,
+        "known_for_department": "Art",
+        "name": "Geen Lee",
+        "original_name": "Geen Lee",
+        "popularity": 0.0337,
+        "profile_path": null,
+        "credit_id": "6817b080e531f0f58d576ed9",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5416060,
+        "known_for_department": "Art",
+        "name": "May Luna",
+        "original_name": "May Luna",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "6817b0937f82c304300316a6",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4722171,
+        "known_for_department": "Sound",
+        "name": "Melrose McClain",
+        "original_name": "Melrose McClain",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "6817b0a8c71a617b0403161a",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5416066,
+        "known_for_department": "Sound",
+        "name": "Carlos Montes",
+        "original_name": "Carlos Montes",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6817b0ef7e747812d7576f52",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4722172,
+        "known_for_department": "Editing",
+        "name": "Allie Cincera",
+        "original_name": "Allie Cincera",
+        "popularity": 0.0802,
+        "profile_path": "/4HQFvwiysWlLx2UkJEhIJ3UHuP.jpg",
+        "credit_id": "6817b10176723ddd8403312b",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4671516,
+        "known_for_department": "Sound",
+        "name": "Tatiana Hernandez",
+        "original_name": "Tatiana Hernandez",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6817b11dfbeb5a10100315f1",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4670231,
+        "known_for_department": "Acting",
+        "name": "Spencer Mcintyre",
+        "original_name": "Spencer Mcintyre",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6817b15e30f4e6a4e308a296",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4542651,
+        "known_for_department": "Directing",
+        "name": "Cosmo Brusa Zappellini",
+        "original_name": "Cosmo Brusa Zappellini",
+        "popularity": 0.1307,
+        "profile_path": "/6XRPrfH2sOywJqqrWjzB1HtvZMX.jpg",
+        "credit_id": "6817b175aa63f61b6e03177a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5416068,
+        "known_for_department": "Sound",
+        "name": "Liam Arias",
+        "original_name": "Liam Arias",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6817b191001cddc700031aaa",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2477699,
+        "known_for_department": "Acting",
+        "name": "Julia Franco",
+        "original_name": "Julia Franco",
+        "popularity": 0.0504,
+        "profile_path": null,
+        "credit_id": "6817b2035dc787cf618b64b2",
+        "department": "Sound",
+        "job": "Music Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4542651,
+        "known_for_department": "Directing",
+        "name": "Cosmo Brusa Zappellini",
+        "original_name": "Cosmo Brusa Zappellini",
+        "popularity": 0.1307,
+        "profile_path": "/6XRPrfH2sOywJqqrWjzB1HtvZMX.jpg",
+        "credit_id": "6817b20fa30550d1f8576f19",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4722169,
+        "known_for_department": "Directing",
+        "name": "Marie Taylor",
+        "original_name": "Marie Taylor",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6817b226e531f0f58d576ee2",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4542637,
+        "known_for_department": "Directing",
+        "name": "Chloe Shafer",
+        "original_name": "Chloe Shafer",
+        "popularity": 0.0376,
+        "profile_path": null,
+        "credit_id": "6817b2a391867a75bd08a34b",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4722172,
+        "known_for_department": "Editing",
+        "name": "Allie Cincera",
+        "original_name": "Allie Cincera",
+        "popularity": 0.0802,
+        "profile_path": "/4HQFvwiysWlLx2UkJEhIJ3UHuP.jpg",
+        "credit_id": "6817b2aec34d18caec9134e5",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4722168,
+        "known_for_department": "Production",
+        "name": "Sophia Harrigan",
+        "original_name": "Sophia Harrigan",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6817b2c100732259e51d0d4b",
+        "department": "Crew",
+        "job": "Catering"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5416048,
+        "known_for_department": "Camera",
+        "name": "Gabriel Verdugo",
+        "original_name": "Gabriel Verdugo",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "6817b2d1fecc7d5a7e1d0d75",
+        "department": "Camera",
+        "job": "BTS Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5338572,
+        "known_for_department": "Camera",
+        "name": "Kalin Steen",
+        "original_name": "Kalin Steen",
+        "popularity": 0.04,
+        "profile_path": null,
+        "credit_id": "6817b2e1aaf3ee299b08a189",
+        "department": "Camera",
+        "job": "BTS Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5416077,
+        "known_for_department": "Production",
+        "name": "Mia Trachy",
+        "original_name": "Mia Trachy",
+        "popularity": 0.0602,
+        "profile_path": null,
+        "credit_id": "6817b2fc91867a75bd08a35a",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5421978,
+        "known_for_department": "Production",
+        "name": "Savannah Abrishamchian",
+        "original_name": "Savannah Abrishamchian",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "681ac9a747ba4399b39f02b6",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2477699,
+        "known_for_department": "Acting",
+        "name": "Julia Franco",
+        "original_name": "Julia Franco",
+        "popularity": 0.0504,
+        "profile_path": null,
+        "credit_id": "681ac9d26f7d8acef1df9106",
+        "department": "Art",
+        "job": "Production Design"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "A group of artists with chronic pain come together in discussion and co-creation with the hope of using art as a way to process and heal wounds that seemingly cannot be healed.",
+          "runtime": 10,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.777,
+        "height": 2017,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/cl86qjyA7Dh9VW61BJH12GEqUBG.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3585
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 2998,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/e8xhV72cIAoGE62BAUpSihuztRY.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.698,
+        "height": 2866,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/kV4kD4ABh56T15yXJESJeW4mhDh.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/hrllpFNrTdqfXxdTuS8xi9Zw9OT.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 2998,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/r0GJojrqc3iW36oPG5bzTZVrBa9.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2025-05-11T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

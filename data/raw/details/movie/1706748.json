@@ -1,0 +1,913 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 6000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1706748,
+  "imdb_id": null,
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "ml",
+  "original_title": "റീത്ത്",
+  "overview": "Driven by their current principal's bureaucratic pressure, a group of teachers is forced to attend the funeral of a former headmaster they have never met. Lost and without a map, they embark on a journey toward a destination–and a man–that remains a complete mystery to them.",
+  "popularity": 0.3921,
+  "poster_path": "/nWDAPYWkRLV7fjQxdETb1wwczSl.jpg",
+  "production_companies": [
+    {
+      "id": 313231,
+      "logo_path": null,
+      "name": "storywrestler",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2026-10-01",
+  "revenue": 0,
+  "runtime": 51,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Wreath",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6286948,
+        "known_for_department": "Acting",
+        "name": "Rajan Namboothiripad",
+        "original_name": "Rajan Namboothiripad",
+        "popularity": 0.0762,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Headmaster",
+        "credit_id": "6a2ffe0d72104eb0c52903f7",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6258725,
+        "known_for_department": "Sound",
+        "name": "Amalzy",
+        "original_name": "Amalzy",
+        "popularity": 0.0657,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Peon",
+        "credit_id": "6a2ffe23b8e20ae74128fd53",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6258703,
+        "known_for_department": "Writing",
+        "name": "Devi Namboothiripad",
+        "original_name": "Devi Namboothiripad",
+        "popularity": 0.0657,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Latha Teacher",
+        "credit_id": "6a2ffe3979725ffd70c78cda",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6286949,
+        "known_for_department": "Acting",
+        "name": "Parvathy Sudeep",
+        "original_name": "Parvathy Sudeep",
+        "popularity": 0.0657,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Mini Teacher",
+        "credit_id": "6a2ffe49f4a8b098ef671536",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6286951,
+        "known_for_department": "Acting",
+        "name": "Sreedevi P Namboothiripad",
+        "original_name": "Sreedevi P Namboothiripad",
+        "popularity": 0.0657,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Rahna Teacher",
+        "credit_id": "6a2ffe5b664af1403cad6f70",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6286953,
+        "known_for_department": "Acting",
+        "name": "Arya M.K",
+        "original_name": "Arya M.K",
+        "popularity": 0.0785,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Suneina Teacher",
+        "credit_id": "6a2ffe7349dbb94b0a64bd0d",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6286956,
+        "known_for_department": "Acting",
+        "name": "Nitin Thomas",
+        "original_name": "Nitin Thomas",
+        "popularity": 0.0699,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Joshy Master",
+        "credit_id": "6a2fff1b49dbb94b0a64bd2c",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6286957,
+        "known_for_department": "Acting",
+        "name": "Bhawna Gupta",
+        "original_name": "Bhawna Gupta",
+        "popularity": 0.0657,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Anet Teacher",
+        "credit_id": "6a2fff2db5d138d3d973a7e3",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6286958,
+        "known_for_department": "Acting",
+        "name": "Rajesh Master",
+        "original_name": "Rajesh Master",
+        "popularity": 0.0657,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Driver Raghavan",
+        "credit_id": "6a2fff4d5a16c485a3393e39",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6286959,
+        "known_for_department": "Acting",
+        "name": "Prashanth Cherumittom",
+        "original_name": "Prashanth Cherumittom",
+        "popularity": 0.0633,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Son of Joseph Master",
+        "credit_id": "6a2fff6179e7116e40f80d4e",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6286981,
+        "known_for_department": "Directing",
+        "name": "Nikhilesh Moorthiyedom",
+        "original_name": "Nikhilesh Moorthiyedom",
+        "popularity": 0.0844,
+        "profile_path": null,
+        "cast_id": 54,
+        "character": "Biker rider person 1",
+        "credit_id": "6a300339a6073754cdf80c0f",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6286969,
+        "known_for_department": "Directing",
+        "name": "Anirudh Madhav K.S",
+        "original_name": "Anirudh Madhav K.S",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "cast_id": 55,
+        "character": "Biker rider 2",
+        "credit_id": "6a30035249dbb94b0a64bd77",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5388225,
+        "known_for_department": "Directing",
+        "name": "Angiruz Unnikrishnan",
+        "original_name": "Angiruz Unnikrishnan",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a1ef23e4e58a7225ab458e1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5388225,
+        "known_for_department": "Directing",
+        "name": "Angiruz Unnikrishnan",
+        "original_name": "Angiruz Unnikrishnan",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a1ef260a8c5a06dfa8a01f7",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5388225,
+        "known_for_department": "Directing",
+        "name": "Angiruz Unnikrishnan",
+        "original_name": "Angiruz Unnikrishnan",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a1ef27824e17fb900e48d12",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6258703,
+        "known_for_department": "Writing",
+        "name": "Devi Namboothiripad",
+        "original_name": "Devi Namboothiripad",
+        "popularity": 0.0657,
+        "profile_path": null,
+        "credit_id": "6a1ef2bc2b89004f9cb45820",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6258707,
+        "known_for_department": "Crew",
+        "name": "Hridul Raj K",
+        "original_name": "Hridul Raj K",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a1ef2e24510783754a0898d",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6258709,
+        "known_for_department": "Production",
+        "name": "Vasudevan Bhattathiripad",
+        "original_name": "Vasudevan Bhattathiripad",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a1ef309435fc9d3d2e48d34",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6258712,
+        "known_for_department": "Production",
+        "name": "Savithry M",
+        "original_name": "Savithry M",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a1ef367435fc9d3d2e48d46",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6258715,
+        "known_for_department": "Production",
+        "name": "Saritha Unnikrishnan",
+        "original_name": "Saritha Unnikrishnan",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a1ef3802b782e7795e48c38",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6258703,
+        "known_for_department": "Writing",
+        "name": "Devi Namboothiripad",
+        "original_name": "Devi Namboothiripad",
+        "popularity": 0.0657,
+        "profile_path": null,
+        "credit_id": "6a1ef3a7079693036c8a016f",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6258716,
+        "known_for_department": "Production",
+        "name": "Prakash N.M",
+        "original_name": "Prakash N.M",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a1ef3c04aba4e829b0d19ea",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6258719,
+        "known_for_department": "Production",
+        "name": "Sruthi Prakash",
+        "original_name": "Sruthi Prakash",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a1ef3e0622d1e59da0d1ab8",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6258721,
+        "known_for_department": "Production",
+        "name": "Vishnu Bharadwaj",
+        "original_name": "Vishnu Bharadwaj",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a1ef418fc79bac4059f25f8",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6258725,
+        "known_for_department": "Sound",
+        "name": "Amalzy",
+        "original_name": "Amalzy",
+        "popularity": 0.0657,
+        "profile_path": null,
+        "credit_id": "6a1ef470e5209f3341250e04",
+        "department": "Sound",
+        "job": "Music Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6258727,
+        "known_for_department": "Art",
+        "name": "Aswin Sajith",
+        "original_name": "Aswin Sajith",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a1ef49ed005ffa50f2662d6",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6258730,
+        "known_for_department": "Art",
+        "name": "Alwin A.V",
+        "original_name": "Alwin A.V",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a1ef56d3ac8adfce4ca6c0e",
+        "department": "Art",
+        "job": "Assistant Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6260805,
+        "known_for_department": "Directing",
+        "name": "Bharat Narayanan",
+        "original_name": "Bharat Narayanan",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a1ffeeabe51d2ce54ba6e78",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6260810,
+        "known_for_department": "Production",
+        "name": "Lious K Baby",
+        "original_name": "Lious K Baby",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a1fff1f1333c6a58abd1672",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6260818,
+        "known_for_department": "Production",
+        "name": "Aadhil Kasim",
+        "original_name": "Aadhil Kasim",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a1fff651cbaffb8506e5827",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6260820,
+        "known_for_department": "Production",
+        "name": "Jefrin Jose",
+        "original_name": "Jefrin Jose",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a1fff7aa59da55fc5bd17d5",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6260824,
+        "known_for_department": "Production",
+        "name": "Sachin Benny",
+        "original_name": "Sachin Benny",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a1fff9b4f56a6487ab7544d",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3790138,
+        "known_for_department": "Directing",
+        "name": "Milan Mathew",
+        "original_name": "Milan Mathew",
+        "popularity": 0.065,
+        "profile_path": null,
+        "credit_id": "6a1fffcc61ec6ae411b754b2",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6286965,
+        "known_for_department": "Production",
+        "name": "Ultron",
+        "original_name": "Ultron",
+        "popularity": 0.0914,
+        "profile_path": null,
+        "credit_id": "6a2fffe12a65ddcc5173a7d8",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6286966,
+        "known_for_department": "Production",
+        "name": "Nachikethuz Namboothiripad",
+        "original_name": "Nachikethuz Namboothiripad",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a3000021f5576f4b864bcfd",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6286969,
+        "known_for_department": "Directing",
+        "name": "Anirudh Madhav K.S",
+        "original_name": "Anirudh Madhav K.S",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a3000422075d138f09676d8",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6286971,
+        "known_for_department": "Directing",
+        "name": "Midhun Moorthiyedom",
+        "original_name": "Midhun Moorthiyedom",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a300054b8e20ae74128fd89",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6286972,
+        "known_for_department": "Production",
+        "name": "Pranit Calicut",
+        "original_name": "Pranit Calicut",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a30009c5a16c485a3393e48",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6286974,
+        "known_for_department": "Art",
+        "name": "Anand Sai",
+        "original_name": "Anand Sai",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a3000c3d111847b4a64bd27",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6286975,
+        "known_for_department": "Sound",
+        "name": "Jewel Sukumaran",
+        "original_name": "Jewel Sukumaran",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a3000daed8b15ff4e64bc5c",
+        "department": "Sound",
+        "job": "Music Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6258703,
+        "known_for_department": "Writing",
+        "name": "Devi Namboothiripad",
+        "original_name": "Devi Namboothiripad",
+        "popularity": 0.0657,
+        "profile_path": null,
+        "credit_id": "6a3000f2630fff297cf80af4",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6286976,
+        "known_for_department": "Crew",
+        "name": "Linu Monichan",
+        "original_name": "Linu Monichan",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a3001316374c37a3328fe68",
+        "department": "Crew",
+        "job": "Mixing Engineer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6286977,
+        "known_for_department": "Sound",
+        "name": "John Joseph",
+        "original_name": "John Joseph",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a30015f01d4a7241e28fd38",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6286978,
+        "known_for_department": "Sound",
+        "name": "Namshad S",
+        "original_name": "Namshad S",
+        "popularity": 0.068,
+        "profile_path": null,
+        "credit_id": "6a3001771eae2790d773a694",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6286979,
+        "known_for_department": "Sound",
+        "name": "Appu Edathitta",
+        "original_name": "Appu Edathitta",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a3001b901d4a7241e28fd48",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6286980,
+        "known_for_department": "Camera",
+        "name": "Aswin Prakash",
+        "original_name": "Aswin Prakash",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a3001e0630fff297cf80b11",
+        "department": "Camera",
+        "job": "BTS Videographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6286981,
+        "known_for_department": "Directing",
+        "name": "Nikhilesh Moorthiyedom",
+        "original_name": "Nikhilesh Moorthiyedom",
+        "popularity": 0.0844,
+        "profile_path": null,
+        "credit_id": "6a300213b654308623671325",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6286982,
+        "known_for_department": "Production",
+        "name": "Athul Suresh",
+        "original_name": "Athul Suresh",
+        "popularity": 0.0616,
+        "profile_path": null,
+        "credit_id": "6a30023b9ce4eafe3ac78bde",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6286983,
+        "known_for_department": "Production",
+        "name": "Sachin S",
+        "original_name": "Sachin S",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a30025472104eb0c5290479",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6286985,
+        "known_for_department": "Production",
+        "name": "Namitha Parameswaran",
+        "original_name": "Namitha Parameswaran",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a3002721cfd46f230967a8d",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6286986,
+        "known_for_department": "Production",
+        "name": "Adwaith C.V",
+        "original_name": "Adwaith C.V",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a30027f71f5661c4f967800",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6286987,
+        "known_for_department": "Crew",
+        "name": "Raju Vallomthodi",
+        "original_name": "Raju Vallomthodi",
+        "popularity": 0.0633,
+        "profile_path": null,
+        "credit_id": "6a3002a54c258971c264bd8f",
+        "department": "Crew",
+        "job": "Catering"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6286988,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Oormila Sreedevi",
+        "original_name": "Oormila Sreedevi",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a3002c16dc0096331967916",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6286972,
+        "known_for_department": "Production",
+        "name": "Pranit Calicut",
+        "original_name": "Pranit Calicut",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a3002ddb17366e1f1ad7053",
+        "department": "Art",
+        "job": "Title Designer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 211,
+        "name": "bureaucracy"
+      },
+      {
+        "id": 189092,
+        "name": "journey"
+      },
+      {
+        "id": 283910,
+        "name": "teachers"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Driven by their current principal's bureaucratic pressure, a group of teachers is forced to attend the funeral of a former headmaster they have never met. Lost and without a map, they embark on a journey toward a destination–and a man–that remains a complete mystery to them.",
+          "runtime": 51,
+          "tagline": "",
+          "title": "Wreath"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "storywrestler",
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.658,
+        "height": 2899,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/nWDAPYWkRLV7fjQxdETb1wwczSl.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1908
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1400,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/9dBDlo0ZKjHCCkFRMRoSQlUo6mU.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 934
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/9ll3pzDf2ClgGB9vtbwyiITMaQ.jpg",
+        "vote_average": 0.166,
+        "vote_count": 2,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "ml",
+            "note": " https://www.youtube.com/watch?v=x4FAj9GyhY4",
+            "release_date": "2026-10-01T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Wreath Full Movie by Angiruz Unnikrishnan | Storywrestlers | Ultron | Devi",
+        "key": "x4FAj9GyhY4",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Featurette",
+        "official": false,
+        "id": "6ac362add69c97b9e32f2cf5",
+        "published_at": "2026-10-01T11:30:08.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Wreath Official Teaser | StoryWrestlers | Ultron",
+        "key": "5d45i-pCpGU",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Teaser",
+        "official": false,
+        "id": "6ac3628d6c938bbd6bdcc673",
+        "published_at": "2026-09-30T11:31:29.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "I Made A Movie !!!",
+        "key": "87ci4xhMj_I",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Behind the Scenes",
+        "official": false,
+        "id": "6ac362ded3d0453a2dcd9775",
+        "published_at": "2026-09-06T11:33:17.000Z"
+      }
+    ]
+  }
+}

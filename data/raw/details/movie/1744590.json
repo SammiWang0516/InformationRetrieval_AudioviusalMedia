@@ -1,0 +1,640 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1744590,
+  "imdb_id": null,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Zeitgeist",
+  "overview": "Five friends get together to make live videos in hopes of going viral and making money, but when it doesn't work, they decide to take a more extreme path, unleashing a power game led by the chat.",
+  "popularity": 0.3822,
+  "poster_path": "/AjNNbkMuCSJ0GDPRUgGF7UizXL9.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2026-10-05",
+  "revenue": 0,
+  "runtime": 12,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Account in decline",
+  "title": "Zeitgeist",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6394605,
+        "known_for_department": "Acting",
+        "name": "Angelica Gilly",
+        "original_name": "Angelica Gilly",
+        "popularity": 0.0914,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Amaya",
+        "credit_id": "6a74b0fdb112ff6d4f9c8f7e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6394606,
+        "known_for_department": "Acting",
+        "name": "Lola Albornoz",
+        "original_name": "Lola Albornoz",
+        "popularity": 0.0885,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Paula",
+        "credit_id": "6a74b104b112ff6d4f9c8f89",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6394637,
+        "known_for_department": "Acting",
+        "name": "Nora Olivares",
+        "original_name": "Nora Olivares",
+        "popularity": 0.091,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Inés",
+        "credit_id": "6a74b443600c61732fbe3b6a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5808245,
+        "known_for_department": "Acting",
+        "name": "Siria Malo",
+        "original_name": "Siria Malo",
+        "popularity": 0.0657,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Victoria",
+        "credit_id": "6a74b4504922f5dcbf03b37c",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6399758,
+        "known_for_department": "Acting",
+        "name": "Alicia Elich",
+        "original_name": "Alicia Elich",
+        "popularity": 0.1079,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "Andrea",
+        "credit_id": "6a785cda0ebd6969f84f0942",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3849525,
+        "known_for_department": "Directing",
+        "name": "Pablo Mardú",
+        "original_name": "Pablo Mardú",
+        "popularity": 0.1322,
+        "profile_path": null,
+        "credit_id": "6a74b46446ca86d976e1002b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5762981,
+        "known_for_department": "Sound",
+        "name": "Laureano Gatto",
+        "original_name": "Laureano Gatto",
+        "popularity": 0.1437,
+        "profile_path": null,
+        "credit_id": "6a74b4ddb191120c0a3ed21a",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6394644,
+        "known_for_department": "Directing",
+        "name": "Nicolás Girard",
+        "original_name": "Nicolás Girard",
+        "popularity": 0.0758,
+        "profile_path": null,
+        "credit_id": "6a74b5dc1f3e8d1e10be3d28",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5677601,
+        "known_for_department": "Crew",
+        "name": "Darío García Giménez",
+        "original_name": "Darío García Giménez",
+        "popularity": 0.1275,
+        "profile_path": null,
+        "credit_id": "6a74b72f15e379a3ea03b2f5",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6394658,
+        "known_for_department": "Directing",
+        "name": "Ester Plaza",
+        "original_name": "Ester Plaza",
+        "popularity": 0.0782,
+        "profile_path": null,
+        "credit_id": "6a74b8524922f5dcbf03b3b2",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6394673,
+        "known_for_department": "Production",
+        "name": "Carlos Arias",
+        "original_name": "Carlos Arias",
+        "popularity": 0.091,
+        "profile_path": null,
+        "credit_id": "6a74b90f8354edeed69c9253",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6394681,
+        "known_for_department": "Production",
+        "name": "Isabel Bosoms",
+        "original_name": "Isabel Bosoms",
+        "popularity": 0.0867,
+        "profile_path": null,
+        "credit_id": "6a74b95a6df11caa1618e783",
+        "department": "Production",
+        "job": "Producer's Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6394689,
+        "known_for_department": "Production",
+        "name": "Antonio Martínez",
+        "original_name": "Antonio Martínez",
+        "popularity": 0.1066,
+        "profile_path": null,
+        "credit_id": "6a74b9f2600c61732fbe3bbe",
+        "department": "Production",
+        "job": "Producer's Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6329813,
+        "known_for_department": "Camera",
+        "name": "Lucas Santamarta Ek",
+        "original_name": "Lucas Santamarta Ek",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a74bb1383bfb2f87039fe55",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6329813,
+        "known_for_department": "Camera",
+        "name": "Lucas Santamarta Ek",
+        "original_name": "Lucas Santamarta Ek",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a74bb4e025a0ba961c49225",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6259426,
+        "known_for_department": "Camera",
+        "name": "Juan Aimar",
+        "original_name": "Juan Aimar",
+        "popularity": 0.0819,
+        "profile_path": null,
+        "credit_id": "6a74bc171f3e8d1e10be3d6f",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5677542,
+        "known_for_department": "Lighting",
+        "name": "Lucía Anguita Cuaresma",
+        "original_name": "Lucía Anguita Cuaresma",
+        "popularity": 0.0995,
+        "profile_path": null,
+        "credit_id": "6a74bdbb70ea3f88f53ecf0c",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6308281,
+        "known_for_department": "Camera",
+        "name": "Oscar Sánchez",
+        "original_name": "Oscar Sánchez",
+        "popularity": 0.091,
+        "profile_path": null,
+        "credit_id": "6a74be191e9f04e4ebc49285",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6297698,
+        "known_for_department": "Editing",
+        "name": "Eire García Arbaizar",
+        "original_name": "Eire García Arbaizar",
+        "popularity": 0.0785,
+        "profile_path": null,
+        "credit_id": "6a74be2e76a8073f10f33b96",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5508765,
+        "known_for_department": "Lighting",
+        "name": "Sofía Afeltra",
+        "original_name": "Sofía Afeltra",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a74be49293182ee2b18e844",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6308282,
+        "known_for_department": "Camera",
+        "name": "Noa Lombarte",
+        "original_name": "Noa Lombarte",
+        "popularity": 0.0655,
+        "profile_path": null,
+        "credit_id": "6a74be550a0cf838f3453215",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6308286,
+        "known_for_department": "Lighting",
+        "name": "Eris Medina",
+        "original_name": "Eris Medina",
+        "popularity": 0.1386,
+        "profile_path": null,
+        "credit_id": "6a74bf5bd977a0e8c033443e",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6308295,
+        "known_for_department": "Editing",
+        "name": "María Elena Piñero Concepción",
+        "original_name": "María Elena Piñero Concepción",
+        "popularity": 0.1003,
+        "profile_path": null,
+        "credit_id": "6a74bfba1fdd8adaaa351740",
+        "department": "Production",
+        "job": "Post Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6308295,
+        "known_for_department": "Editing",
+        "name": "María Elena Piñero Concepción",
+        "original_name": "María Elena Piñero Concepción",
+        "popularity": 0.1003,
+        "profile_path": null,
+        "credit_id": "6a74bfdf37581f1f163ecd06",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5677542,
+        "known_for_department": "Lighting",
+        "name": "Lucía Anguita Cuaresma",
+        "original_name": "Lucía Anguita Cuaresma",
+        "popularity": 0.0995,
+        "profile_path": null,
+        "credit_id": "6a74c000b191120c0a3ed2b1",
+        "department": "Camera",
+        "job": "Data Wrangler"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6297698,
+        "known_for_department": "Editing",
+        "name": "Eire García Arbaizar",
+        "original_name": "Eire García Arbaizar",
+        "popularity": 0.0785,
+        "profile_path": null,
+        "credit_id": "6a74c02f5a44881e2f3ecd98",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6394760,
+        "known_for_department": "Sound",
+        "name": "Jonas Rouco",
+        "original_name": "Jonas Rouco",
+        "popularity": 0.0882,
+        "profile_path": null,
+        "credit_id": "6a74c1083ee731bbe9c040d8",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5285236,
+        "known_for_department": "Sound",
+        "name": "Aritz Iturralde",
+        "original_name": "Aritz Iturralde",
+        "popularity": 0.2682,
+        "profile_path": null,
+        "credit_id": "6a74c11b7a5874c65a3a0173",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5499478,
+        "known_for_department": "Sound",
+        "name": "Eitan Blickmen",
+        "original_name": "Eitan Blickmen",
+        "popularity": 0.2346,
+        "profile_path": "/zQpT0tJYXGSz0eeYRfsZru5Bc0K.jpg",
+        "credit_id": "6a74c14e46ca86d976e10099",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5085483,
+        "known_for_department": "Sound",
+        "name": "Henrique Andersson",
+        "original_name": "Henrique Andersson",
+        "popularity": 0.0993,
+        "profile_path": null,
+        "credit_id": "6a74c1c446ca86d976e100a1",
+        "department": "Sound",
+        "job": "Sound Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6283165,
+        "known_for_department": "Art",
+        "name": "Laura Rubio",
+        "original_name": "Laura Rubio",
+        "popularity": 0.2324,
+        "profile_path": null,
+        "credit_id": "6a74c1e3b2e039f2928b0c33",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6394772,
+        "known_for_department": "Art",
+        "name": "Claudia Haynes",
+        "original_name": "Claudia Haynes",
+        "popularity": 0.0783,
+        "profile_path": null,
+        "credit_id": "6a74c273208ec56b50351761",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6394783,
+        "known_for_department": "Art",
+        "name": "Sasha Chianese",
+        "original_name": "Sasha Chianese",
+        "popularity": 0.1104,
+        "profile_path": null,
+        "credit_id": "6a74c3c36df11caa1618e7db",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6394789,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Valentina Duque",
+        "original_name": "Valentina Duque",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a74c5bb83bfb2f87039feb5",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6394797,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Annika García",
+        "original_name": "Annika García",
+        "popularity": 0.0799,
+        "profile_path": null,
+        "credit_id": "6a74c69d07d3738dea39fefe",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6259384,
+        "known_for_department": "Art",
+        "name": "Clara G.Blasco",
+        "original_name": "Clara G.Blasco",
+        "popularity": 0.0713,
+        "profile_path": null,
+        "credit_id": "6a74c6ce6a9e9925283517d8",
+        "department": "Costume & Make-Up",
+        "job": "Dresser"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6259449,
+        "known_for_department": "Lighting",
+        "name": "Arjun Cerezo Chugani",
+        "original_name": "Arjun Cerezo Chugani",
+        "popularity": 0.0861,
+        "profile_path": null,
+        "credit_id": "6a74c714263decb3313ecfd6",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5893298,
+        "known_for_department": "Art",
+        "name": "Lucía Rico",
+        "original_name": "Lucía Rico",
+        "popularity": 0.0787,
+        "profile_path": null,
+        "credit_id": "6ab015cc50d44a776a63377a",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6394785,
+        "known_for_department": "Art",
+        "name": "Elian Rene",
+        "original_name": "Elian Rene",
+        "popularity": 0.0823,
+        "profile_path": null,
+        "credit_id": "6ab016d22919b83a500f0c9a",
+        "department": "Art",
+        "job": "Property Buyer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Five friends get together to make live videos in hopes of going viral and making money, but when it doesn't work, they decide to take a more extreme path, unleashing a power game led by the chat.",
+          "runtime": 12,
+          "tagline": "Account in decline",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/AjNNbkMuCSJ0GDPRUgGF7UizXL9.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/oXbp9KLZz33s4hU2zhKHVuWgeq1.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "",
+            "release_date": "2026-10-05T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

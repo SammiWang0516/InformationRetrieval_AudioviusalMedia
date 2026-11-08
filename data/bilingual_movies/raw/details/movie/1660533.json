@@ -1,0 +1,650 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1660533,
+  "imdb_id": "tt29264684",
+  "origin_country": [
+    "PT"
+  ],
+  "original_language": "pt",
+  "original_title": "Cherchez la Femme",
+  "overview": "At the turn of the 19th to the 20th century, Lúcio, a playwright and writer, and Ricardo, a renowned and enigmatic poet, form a deep bond. Marta, an enigmatic figure, arrives and stirs up impulses of desire and madness between the men.",
+  "popularity": 0.8914,
+  "poster_path": "/pGDTy13U5wBT0dJNyjXyEPH6pIs.jpg",
+  "production_companies": [
+    {
+      "id": 15446,
+      "logo_path": null,
+      "name": "Produções Cunha Telles",
+      "origin_country": "PT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "release_date": "2026-04-23",
+  "revenue": 0,
+  "runtime": 78,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Cherchez la Femme",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5183184,
+        "known_for_department": "Acting",
+        "name": "Joana Barradas",
+        "original_name": "Joana Barradas",
+        "popularity": 0.3092,
+        "profile_path": "/pKFk6Uj2CzohHHEvqJTZFuzVInB.jpg",
+        "cast_id": 4,
+        "character": "Marta",
+        "credit_id": "69ca8eb8f2d36ff51a733016",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1159274,
+        "known_for_department": "Acting",
+        "name": "Ângelo Rodrigues",
+        "original_name": "Ângelo Rodrigues",
+        "popularity": 0.1788,
+        "profile_path": "/ky2hPOb2tb3T2XJWW85v7BnoMxE.jpg",
+        "cast_id": 3,
+        "character": "Lúcio Vaz",
+        "credit_id": "69ca8e9b59997b9d275af19d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1001678,
+        "known_for_department": "Acting",
+        "name": "Romeu Costa",
+        "original_name": "Romeu Costa",
+        "popularity": 0.3799,
+        "profile_path": "/tO44jxELKcVCw3odOkzgjrf03mc.jpg",
+        "cast_id": 5,
+        "character": "Ricardo de Loureiro",
+        "credit_id": "69ca8ece5ac80422398aa9da",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1453645,
+        "known_for_department": "Acting",
+        "name": "Cristovão Campos",
+        "original_name": "Cristovão Campos",
+        "popularity": 0.1812,
+        "profile_path": "/aYXD2mz9NWs5hG2xfJ2hB1v6PSs.jpg",
+        "cast_id": 7,
+        "character": "Sergio Warginski",
+        "credit_id": "69ca8ef0c1dbdd15d91ed20e",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1956647,
+        "known_for_department": "Acting",
+        "name": "João Cachola",
+        "original_name": "João Cachola",
+        "popularity": 0.1319,
+        "profile_path": "/vBOHikyWrKsVNeRLOcoIyA3cHru.jpg",
+        "cast_id": 6,
+        "character": "Gervásio Vila-Nova",
+        "credit_id": "69ca8edcadc12c7c2e2639b5",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 148746,
+        "known_for_department": "Directing",
+        "name": "Luís Filipe Rocha",
+        "original_name": "Luís Filipe Rocha",
+        "popularity": 0.1389,
+        "profile_path": "/xV1eeyvvon1BAHBPYCh7e14XMjG.jpg",
+        "cast_id": 8,
+        "character": "Eduardo Dantas",
+        "credit_id": "69ca8f04124fae322ece39c9",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1724471,
+        "known_for_department": "Sound",
+        "name": "António Victorino de Almeida",
+        "original_name": "António Victorino de Almeida",
+        "popularity": 0.1792,
+        "profile_path": "/lRbgOku4rJQNn9TyYU1pJGifU6K.jpg",
+        "cast_id": 9,
+        "character": "Maestro Narciso do Amaral",
+        "credit_id": "69ca8f1df48154b078263954",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6106212,
+        "known_for_department": "Acting",
+        "name": "Teresa Coelho",
+        "original_name": "Teresa Coelho",
+        "popularity": 0.4386,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Governanta",
+        "credit_id": "69ca8f2e7d0ebd39637331d0",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18806,
+        "known_for_department": "Production",
+        "name": "António da Cunha Telles",
+        "original_name": "António da Cunha Telles",
+        "popularity": 0.3556,
+        "profile_path": "/8ZaViDkoATD5rIhhm6FmQxyz0tn.jpg",
+        "credit_id": "69ca8e57041e78385463731a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1153281,
+        "known_for_department": "Camera",
+        "name": "Luís Branquinho",
+        "original_name": "Luís Branquinho",
+        "popularity": 0.201,
+        "profile_path": "/yzhVvQvpdoHlA3hFe51prJ91IMH.jpg",
+        "credit_id": "69ca8e65b66db6f5f96372e7",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1798834,
+        "known_for_department": "Editing",
+        "name": "Marco Amaral",
+        "original_name": "Marco Amaral",
+        "popularity": 0.2829,
+        "profile_path": "/qDBVFOjfbmze1JJ9j2BwyVWaFlH.jpg",
+        "credit_id": "69ca907e46a36f052483980f",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1986673,
+        "known_for_department": "Editing",
+        "name": "Hugo Santiago",
+        "original_name": "Hugo Santiago",
+        "popularity": 0.1329,
+        "profile_path": null,
+        "credit_id": "69ca909da43d01b3e27331a2",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4694151,
+        "known_for_department": "Directing",
+        "name": "Inês Teixeira",
+        "original_name": "Inês Teixeira",
+        "popularity": 0.213,
+        "profile_path": null,
+        "credit_id": "69ca90b15ac80422398aa9e4",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6106219,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Filipa Malho",
+        "original_name": "Filipa Malho",
+        "popularity": 0.0472,
+        "profile_path": null,
+        "credit_id": "69ca9128841bb7b71e263b2a",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2449091,
+        "known_for_department": "Writing",
+        "name": "Mário de Sá-Carneiro",
+        "original_name": "Mário de Sá-Carneiro",
+        "popularity": 0.0799,
+        "profile_path": "/6O1zpHIufsyp2xFtVX5DPPCA9yW.jpg",
+        "credit_id": "69ca916570d43fbd898aab29",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 108109,
+        "known_for_department": "Writing",
+        "name": "Pedro Marta Santos",
+        "original_name": "Pedro Marta Santos",
+        "popularity": 0.3252,
+        "profile_path": null,
+        "credit_id": "69ca9177abfaa831f78aa8e7",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1161647,
+        "known_for_department": "Writing",
+        "name": "Rita Benis",
+        "original_name": "Rita Benis",
+        "popularity": 0.1105,
+        "profile_path": null,
+        "credit_id": "69ca9187b09fd4a7f08aa95e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1800340,
+        "known_for_department": "Sound",
+        "name": "Tiago Raposinho",
+        "original_name": "Tiago Raposinho",
+        "popularity": 0.2436,
+        "profile_path": null,
+        "credit_id": "69cee6204ef4b22b7ea64052",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1283141,
+        "known_for_department": "Sound",
+        "name": "Pedro Melo",
+        "original_name": "Pedro Melo",
+        "popularity": 0.1563,
+        "profile_path": null,
+        "credit_id": "69cee636a1d839cb664d1e6b",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6153526,
+        "known_for_department": "Production",
+        "name": "Bárbara Palla Cabral",
+        "original_name": "Bárbara Palla Cabral",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69e51975c445542283c70536",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6153529,
+        "known_for_department": "Production",
+        "name": "André Rosa de Carvalho",
+        "original_name": "André Rosa de Carvalho",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "69e51a03458acc7cfe52092f",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6153529,
+        "known_for_department": "Production",
+        "name": "André Rosa de Carvalho",
+        "original_name": "André Rosa de Carvalho",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "69e51a3fc445542283c70545",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1991951,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Fátima Vieira",
+        "original_name": "Fátima Vieira",
+        "popularity": 0.0623,
+        "profile_path": null,
+        "credit_id": "69e51a788d5a34dd3f063e98",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1122423,
+        "known_for_department": "Production",
+        "name": "Patrícia Vasconcelos",
+        "original_name": "Patrícia Vasconcelos",
+        "popularity": 0.2268,
+        "profile_path": "/a693btcCpcJkQIAxGIeLSlQX0yC.jpg",
+        "credit_id": "69e51a9f6a4c66b0db549c7e",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1996715,
+        "known_for_department": "Art",
+        "name": "Miguel Inácio",
+        "original_name": "Miguel Inácio",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "69e51acafae2f80c3280275d",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4394562,
+        "known_for_department": "Art",
+        "name": "Paulo Oliveira",
+        "original_name": "Paulo Oliveira",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69e51ae064f33fe372fb9492",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2617337,
+        "known_for_department": "Camera",
+        "name": "Carlos Santos",
+        "original_name": "Carlos Santos",
+        "popularity": 0.057,
+        "profile_path": null,
+        "credit_id": "69e51b3e7923e483ba520910",
+        "department": "Crew",
+        "job": "Steadycam"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1161647,
+        "known_for_department": "Writing",
+        "name": "Rita Benis",
+        "original_name": "Rita Benis",
+        "popularity": 0.1105,
+        "profile_path": null,
+        "credit_id": "69e51b5f40556b1a54692ba0",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 108109,
+        "known_for_department": "Writing",
+        "name": "Pedro Marta Santos",
+        "original_name": "Pedro Marta Santos",
+        "popularity": 0.3252,
+        "profile_path": null,
+        "credit_id": "69e51b6e61dcd361e1549bb3",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18806,
+        "known_for_department": "Production",
+        "name": "António da Cunha Telles",
+        "original_name": "António da Cunha Telles",
+        "popularity": 0.3556,
+        "profile_path": "/8ZaViDkoATD5rIhhm6FmQxyz0tn.jpg",
+        "credit_id": "69e51bb20731284997fb94f7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18806,
+        "known_for_department": "Production",
+        "name": "António da Cunha Telles",
+        "original_name": "António da Cunha Telles",
+        "popularity": 0.3556,
+        "profile_path": "/8ZaViDkoATD5rIhhm6FmQxyz0tn.jpg",
+        "credit_id": "69e51be4eb0de853ee692b99",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1173571,
+        "known_for_department": "Directing",
+        "name": "Álvaro Romão",
+        "original_name": "Álvaro Romão",
+        "popularity": 0.1277,
+        "profile_path": null,
+        "credit_id": "69e51c200731284997fb9503",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6153529,
+        "known_for_department": "Production",
+        "name": "André Rosa de Carvalho",
+        "original_name": "André Rosa de Carvalho",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "69e51c2f9f9c55e1c6692ba4",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1142757,
+        "known_for_department": "Directing",
+        "name": "Leonardo António",
+        "original_name": "Leonardo António",
+        "popularity": 0.4193,
+        "profile_path": null,
+        "credit_id": "69e51c727cdcbb866a84f27c",
+        "department": "Production",
+        "job": "Production Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1986673,
+        "known_for_department": "Editing",
+        "name": "Hugo Santiago",
+        "original_name": "Hugo Santiago",
+        "popularity": 0.1329,
+        "profile_path": null,
+        "credit_id": "69e51c942668664f4afb953d",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 937198,
+        "known_for_department": "Production",
+        "name": "Pandora da Cunha Telles",
+        "original_name": "Pandora da Cunha Telles",
+        "popularity": 0.2465,
+        "profile_path": "/8CWUt9g29GeeLuXOadBZVgSMhwO.jpg",
+        "credit_id": "69e63befd2b58334ab54a21b",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "At the turn of the 19th to the 20th century, Lúcio, a playwright and writer, and Ricardo, a renowned and enigmatic poet, form a deep bond. Marta, an enigmatic figure, arrives and stirs up impulses of desire and madness between the men.",
+          "runtime": 78,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "PT",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt29264684",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.754,
+        "height": 1327,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/pGDTy13U5wBT0dJNyjXyEPH6pIs.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "PT",
+        "release_dates": [
+          {
+            "certification": "M/14",
+            "descriptors": [],
+            "iso_639_1": "pt",
+            "note": "",
+            "release_date": "2026-04-23T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Cherchez La Femme - Trailer Oficial",
+        "key": "JGcWP8AEUxk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "69d54bfc1af5921cfa313f2a",
+        "published_at": "2026-04-06T13:45:38.000Z"
+      }
+    ]
+  }
+}

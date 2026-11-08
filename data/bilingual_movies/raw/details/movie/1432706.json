@@ -1,0 +1,833 @@
+{
+  "adult": false,
+  "backdrop_path": "/lWVnUBYG7nIb84gxa3tSeP8CghA.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1432706,
+  "imdb_id": "tt29719182",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Bury the Devil",
+  "overview": "When a hospice nurse finds herself trapped with a dementia patient, she begins to suspect something else is wrong with the woman, something otherworldly, and must fight to survive the night.",
+  "popularity": 4.8323,
+  "poster_path": "/yQ3GeVsebrhOPIBhIdoSslbndEv.jpg",
+  "production_companies": [
+    {
+      "id": 144431,
+      "logo_path": null,
+      "name": "Delirium Pictures",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-03-06",
+  "revenue": 0,
+  "runtime": 84,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Nothing stays buried forever.",
+  "title": "Bury the Devil",
+  "video": false,
+  "vote_average": 5.719,
+  "vote_count": 32,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1592155,
+        "known_for_department": "Acting",
+        "name": "Emmanuelle Lussier Martinez",
+        "original_name": "Emmanuelle Lussier Martinez",
+        "popularity": 0.5998,
+        "profile_path": "/4skrewfKscsDxiQqgmWUvQpyzaa.jpg",
+        "cast_id": 1,
+        "character": "Julia",
+        "credit_id": "67ab6a607c9910814f9baeae",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1233026,
+        "known_for_department": "Acting",
+        "name": "Bill Rowat",
+        "original_name": "Bill Rowat",
+        "popularity": 0.4272,
+        "profile_path": "/xzce2UhuneIlXLMQdBdchVkFIAV.jpg",
+        "cast_id": 2,
+        "character": "Randall",
+        "credit_id": "67ab6a70984e1e22179b9c95",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131336,
+        "known_for_department": "Acting",
+        "name": "Mark Antony Krupa",
+        "original_name": "Mark Antony Krupa",
+        "popularity": 0.2758,
+        "profile_path": "/ek1qwhzkgj7ayCpEhdpt6fweRj.jpg",
+        "cast_id": 3,
+        "character": "Father Thierry",
+        "credit_id": "67ab6a82a2e2f99ed4bb41fe",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1091868,
+        "known_for_department": "Acting",
+        "name": "Dawn Ford",
+        "original_name": "Dawn Ford",
+        "popularity": 0.6841,
+        "profile_path": "/f6MGyVIEUcCIbCVAy6MZH8NMnuC.jpg",
+        "cast_id": 4,
+        "character": "Evelyn",
+        "credit_id": "67ab6a93dd9b7d2eaab0a1f3",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1390354,
+        "known_for_department": "Directing",
+        "name": "Adam O'Brien",
+        "original_name": "Adam O'Brien",
+        "popularity": 0.1635,
+        "profile_path": null,
+        "credit_id": "67ab6aab984e1e22179b9cad",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1390354,
+        "known_for_department": "Directing",
+        "name": "Adam O'Brien",
+        "original_name": "Adam O'Brien",
+        "popularity": 0.1635,
+        "profile_path": null,
+        "credit_id": "67ab6acf984e1e22179b9ccc",
+        "department": "Writing",
+        "job": "Idea"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2871981,
+        "known_for_department": "Acting",
+        "name": "John Petrizzi",
+        "original_name": "John Petrizzi",
+        "popularity": 0.254,
+        "profile_path": null,
+        "credit_id": "67ab6ade09b8551a04b0a502",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3745506,
+        "known_for_department": "Directing",
+        "name": "Brad Hodson",
+        "original_name": "Brad Hodson",
+        "popularity": 0.2147,
+        "profile_path": null,
+        "credit_id": "67ab6aef09b8551a04b0a50e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1166608,
+        "known_for_department": "Camera",
+        "name": "Benoit Beaulieu",
+        "original_name": "Benoit Beaulieu",
+        "popularity": 0.3879,
+        "profile_path": null,
+        "credit_id": "67ab6b00dd9b7d2eaab0a217",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1390354,
+        "known_for_department": "Directing",
+        "name": "Adam O'Brien",
+        "original_name": "Adam O'Brien",
+        "popularity": 0.1635,
+        "profile_path": null,
+        "credit_id": "67ab6b169d346d3ef49bb0ca",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2080362,
+        "known_for_department": "Writing",
+        "name": "Philip Kalin-Hajdu",
+        "original_name": "Philip Kalin-Hajdu",
+        "popularity": 0.3741,
+        "profile_path": null,
+        "credit_id": "67ab6b309d346d3ef49bb0e9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1092101,
+        "known_for_department": "Sound",
+        "name": "Mario Sévigny",
+        "original_name": "Mario Sévigny",
+        "popularity": 0.1378,
+        "profile_path": null,
+        "credit_id": "67ab6b43a2e2f99ed4bb424b",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1166608,
+        "known_for_department": "Camera",
+        "name": "Benoit Beaulieu",
+        "original_name": "Benoit Beaulieu",
+        "popularity": 0.3879,
+        "profile_path": null,
+        "credit_id": "67ab6b51dd9b7d2eaab0a279",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1390354,
+        "known_for_department": "Directing",
+        "name": "Adam O'Brien",
+        "original_name": "Adam O'Brien",
+        "popularity": 0.1635,
+        "profile_path": null,
+        "credit_id": "67ab6b6547051c54beb0b865",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 2689,
+        "name": "dementia"
+      },
+      {
+        "id": 4232,
+        "name": "melancholy"
+      },
+      {
+        "id": 199524,
+        "name": "disturbed"
+      },
+      {
+        "id": 209590,
+        "name": "one take"
+      },
+      {
+        "id": 281237,
+        "name": "independent film"
+      },
+      {
+        "id": 338090,
+        "name": "hospice care"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "When a hospice nurse finds herself trapped with a dementia patient, she begins to suspect something else is wrong with the woman, something otherworldly, and must fight to survive the night.",
+          "runtime": 84,
+          "tagline": "Nothing stays buried forever.",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "CN",
+        "iso_639_1": "zh",
+        "name": "普通话",
+        "english_name": "Mandarin",
+        "data": {
+          "homepage": "",
+          "overview": "一名临终关怀护士发现自己与一名痴呆症病人被困在一起，她开始怀疑这个女人身上另有蹊跷 —— 某种超自然的力量，她必须奋力挣扎，熬过这个夜晚。",
+          "runtime": 0,
+          "tagline": "",
+          "title": "埋葬魔鬼"
+        }
+      },
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Cuando una enfermera de hospicio se encuentra atrapada con un paciente de demencia, comienza a sospechar que algo más está mal con la mujer, algo de otro mundo, y debe luchar para sobrevivir a la noche.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "PT",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "homepage": "",
+          "overview": "Quando uma enfermeira de cuidados paliativos se vê presa com uma doente com demência, começa a suspeitar que algo mais está errado com a mulher, algo sobrenatural, e tem de lutar para sobreviver à noite.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "RO",
+        "iso_639_1": "ro",
+        "name": "Română",
+        "english_name": "Romanian",
+        "data": {
+          "homepage": "",
+          "overview": "Când o asistentă medicală de la un centru de îngrijire paliativă se trezește blocată împreună cu o pacientă care suferă de demență, începe să suspecteze că ceva mai grav se întâmplă cu acea pacientă, ceva mai degrabă supranatural, și trebuie să lupte pentru a supraviețui.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "TW",
+        "iso_639_1": "zh",
+        "name": "普通话",
+        "english_name": "Mandarin",
+        "data": {
+          "homepage": "",
+          "overview": "一名臨終關懷護士發現自己與一名癡呆症病人被困在一起，她開始懷疑這個女人身上另有蹊蹺—— 某種超自然的力量，她必須奮力掙扎，熬過這個夜晚。",
+          "runtime": 0,
+          "tagline": "",
+          "title": "埋葬魔鬼"
+        }
+      },
+      {
+        "iso_3166_1": "BR",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "homepage": "",
+          "overview": "Uma enfermeira fica presa junto a um paciente com demência em uma casa durante 86 minutos de horror em tempo real.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "PL",
+        "iso_639_1": "pl",
+        "name": "Polski",
+        "english_name": "Polish",
+        "data": {
+          "homepage": "",
+          "overview": "Kiedy pielęgniarka hospicyjna zostaje uwięziona z pacjentką chorą na demencję, zaczyna podejrzewać, że z kobietą dzieje się coś złego, coś nadprzyrodzonego, i musi walczyć o przetrwanie nocy.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Pogrzebać diabła"
+        }
+      },
+      {
+        "iso_3166_1": "CZ",
+        "iso_639_1": "cs",
+        "name": "Český",
+        "english_name": "Czech",
+        "data": {
+          "homepage": "",
+          "overview": "Když se ošetřovatelka v hospici ocitne uvězněná s pacientkou trpící demencí, začne mít podezření, že s tou ženou není v pořádku ještě něco jiného, něco nadpřirozeného, a musí bojovat o to, aby tu noc přežila.",
+          "runtime": 84,
+          "tagline": "Nic nezůstane navždy skryté.",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "Une infirmière découvre que son dernier patient pourrait cacher de sombres secrets.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "NL",
+        "iso_639_1": "nl",
+        "name": "Nederlands",
+        "english_name": "Dutch",
+        "data": {
+          "homepage": "",
+          "overview": "Wanneer een hospiceverpleegkundige samen met een dementiepatiënt vast komt te zitten, begint ze te vermoeden dat er iets anders mis is met de vrouw, iets bovennatuurlijks, en moet ze vechten om de nacht te overleven.",
+          "runtime": 84,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "SA",
+        "iso_639_1": "ar",
+        "name": "العربية",
+        "english_name": "Arabic",
+        "data": {
+          "homepage": "",
+          "overview": "تجد الممرضة جوليا نفسها عالقة في منزل مريضة مسنّة تعاني من الخرف، بعدما تبدأ تصرفات المرأة بإثارة الشكوك لديها. وسرعان ما تكتشف أن هناك قوة شيطانية غامضة داخل المنزل.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt29719182",
+    "wikidata_id": "Q141251295",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1618,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/lWVnUBYG7nIb84gxa3tSeP8CghA.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2876
+      },
+      {
+        "aspect_ratio": 1.78,
+        "height": 1614,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/7SovO8jwNJhlJfeR5TvsryCimqA.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2873
+      },
+      {
+        "aspect_ratio": 1.777,
+        "height": 1612,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/6knWyJLND3pUvbDB9iwAEaDX0BE.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2865
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1610,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/4pPidMzjIJkbrxuGI8AH7vKJOIE.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2862
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1600,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/y3XAAyAAlwshMJrEY0pXZpqbg87.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2844
+      },
+      {
+        "aspect_ratio": 1.776,
+        "height": 1606,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/c0yMZhrgF9DlNhBqMacTeGgDrOL.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2853
+      },
+      {
+        "aspect_ratio": 1.776,
+        "height": 1606,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/yNILcMcymte9m8pEE8JkMiLZQeq.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2853
+      },
+      {
+        "aspect_ratio": 1.779,
+        "height": 1608,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/u5C83fAmc7mEyELfSueUzqcBgFG.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2861
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/q3B9hoGTleS0DvMqggyk1LG54ym.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/9COWMjafvYakGiCEdzzbhJ05lvm.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/5EGXaj9769QkY7UCu9WETXOq4Ma.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/mgNKNCZBCkfh7AtPDUqOwIW3CTL.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/akSgNrdokIPVYOpcnLFJw15jaUu.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1440,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/ej15ba88dCTP3wrdqYXeoaypm9m.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2560
+      }
+    ],
+    "logos": [
+      {
+        "aspect_ratio": 5.514,
+        "height": 181,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/nPiCcUe6MQ2aH4Jh2sdNjKLHNW7.png",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 998
+      }
+    ],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/vegfqTRPezzioGpKuK6RLzYxbeV.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 2880,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/yQ3GeVsebrhOPIBhIdoSslbndEv.jpg",
+        "vote_average": 3.334,
+        "vote_count": 2,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/oTwwCsmWvHxj2olhCB2VEGcDUXD.jpg",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1251,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/jmTpe5ghWMOcVFvZFFtieQ9cq0i.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 834
+      },
+      {
+        "aspect_ratio": 0.665,
+        "height": 1941,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/h6vsaJWsbOhgpGYifGVWiJKngRO.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1290
+      },
+      {
+        "aspect_ratio": 0.677,
+        "height": 1478,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/mirsvNWIz2I81hHdLLCifP2Q8tF.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 2800,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/xkk8SonOzPqxWBdok7mjdADF73g.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1867
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-08-24T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "CH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Brugggore Filmfestival",
+            "release_date": "2026-04-25T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Frightfest Glasgow",
+            "release_date": "2026-03-06T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "15",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-08-24T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2026-08-21T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Clip - \"That's Not Evelyn!\"",
+        "key": "_LRWA5CukJ0",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6a8c38f7b8d77ddf0ddd0223",
+        "published_at": "2026-08-21T15:26:27.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Clip - Footsteps",
+        "key": "5RSjn1krD3Q",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6a8c38e835aac64f61b3efab",
+        "published_at": "2026-08-19T16:35:52.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Here’s a special look behind the scenes of one-take, real-time possession horror, BURY THE DEVIL!",
+        "key": "NeJcrP3Cz9M",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Behind the Scenes",
+        "official": true,
+        "id": "6a8c3aa816a446eb67f6889b",
+        "published_at": "2026-08-18T21:49:57.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Clip - \"Pray With Me\"",
+        "key": "7w9GigjNU0k",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Clip",
+        "official": true,
+        "id": "6a8c38d89f339f26a8b3efbc",
+        "published_at": "2026-08-18T17:38:35.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "A mysterious tape in an old house…",
+        "key": "nDveSA1WRlI",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "6a8c3ae78daac88386e233c1",
+        "published_at": "2026-08-07T19:06:11.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "yHyzU7YMMIU",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6a8c38c3bfe5112b21b3eefb",
+        "published_at": "2026-07-28T15:58:55.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Teaser",
+        "key": "ypMVRLXafUY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Teaser",
+        "official": true,
+        "id": "69a95f1081e844e995ec6140",
+        "published_at": "2026-03-02T09:46:33.000Z"
+      }
+    ]
+  }
+}

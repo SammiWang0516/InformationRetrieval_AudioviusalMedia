@@ -1,0 +1,817 @@
+{
+  "adult": false,
+  "backdrop_path": "/tTUQppprwEiGpgrcsJa14NGkaiw.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "",
+  "id": 1436744,
+  "imdb_id": "tt35836071",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Was bewegt Deutschland?",
+  "overview": "On the occasion of the federal election on February 23, 2025, Jessy Wellmer and Ingo Zamperoni ask: What issues are Germans concerned about before this election, what is important to people? The two Tagesthemen presenters traveled around the country and spoke to citizens, experts and celebrities: about the economic crisis, migration and the shortage of skilled workers, the fear of war and the division of society. A representative survey commissioned for the documentary complements the personal attitudes and opinions.",
+  "popularity": 0.8205,
+  "poster_path": "/bdpH7rEiavnqeU2rn1hbu5GtRtb.jpg",
+  "production_companies": [
+    {
+      "id": 55324,
+      "logo_path": null,
+      "name": "Beckground TV",
+      "origin_country": "DE"
+    },
+    {
+      "id": 7201,
+      "logo_path": "/ljV8ZT3CIYCEIEDlTyBliXJVCZr.png",
+      "name": "NDR",
+      "origin_country": "DE"
+    },
+    {
+      "id": 2067,
+      "logo_path": "/y5knLIUjYsKBIlM4W0dLruWwYaC.png",
+      "name": "RBB",
+      "origin_country": "DE"
+    },
+    {
+      "id": 1251,
+      "logo_path": "/fc0O0mvjl8PbHgZXXY2VgPYos1Z.png",
+      "name": "ARD",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2025-02-15",
+  "revenue": 0,
+  "runtime": 59,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Was bewegt Deutschland?",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2095285,
+        "known_for_department": "Acting",
+        "name": "Ingo Zamperoni",
+        "original_name": "Ingo Zamperoni",
+        "popularity": 0.2964,
+        "profile_path": "/h0RdlVugBXQk2EhfTk6jBNZJcoE.jpg",
+        "cast_id": 28,
+        "character": "Self - Reporter",
+        "credit_id": "67b5b48e60b18a5698dfd07f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3070450,
+        "known_for_department": "Acting",
+        "name": "Jessy Wellmer",
+        "original_name": "Jessy Wellmer",
+        "popularity": 0.1521,
+        "profile_path": "/gqHxDO7x1A3HRHWWkdt4CXi8tqs.jpg",
+        "cast_id": 29,
+        "character": "Self - Reporter",
+        "credit_id": "67b5b49f60b18a5698dfd097",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 146465,
+        "known_for_department": "Acting",
+        "name": "Ulrich Wickert",
+        "original_name": "Ulrich Wickert",
+        "popularity": 0.3623,
+        "profile_path": "/4p2cj9V8HMvY02AG6P96geOUQTX.jpg",
+        "cast_id": 45,
+        "character": "Self - Interviewee",
+        "credit_id": "67b5b5942152638f5ee3c772",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3567185,
+        "known_for_department": "Acting",
+        "name": "Christoph Heusgen",
+        "original_name": "Christoph Heusgen",
+        "popularity": 0.2145,
+        "profile_path": null,
+        "cast_id": 44,
+        "character": "Self - Interviewee",
+        "credit_id": "67b5b5892152638f5ee3c76b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4983998,
+        "known_for_department": "Acting",
+        "name": "Holger Münch",
+        "original_name": "Holger Münch",
+        "popularity": 0.2266,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Self - Interviewee",
+        "credit_id": "67b5b51360b18a5698dfd0d7",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5256683,
+        "known_for_department": "Acting",
+        "name": "Janna Ensthaler",
+        "original_name": "Janna Ensthaler",
+        "popularity": 0.1314,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Self - Interviewee",
+        "credit_id": "67b5b54b2152638f5ee3c742",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5256682,
+        "known_for_department": "Acting",
+        "name": "Holger Klein",
+        "original_name": "Holger Klein",
+        "popularity": 0.0947,
+        "profile_path": null,
+        "cast_id": 38,
+        "character": "Self - Interviewee",
+        "credit_id": "67b5b5409e32f72b4d88c74b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3316440,
+        "known_for_department": "Acting",
+        "name": "Svenja Flaßpöhler",
+        "original_name": "Svenja Flaßpöhler",
+        "popularity": 0.2109,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Self - Interviewee",
+        "credit_id": "67b5b51f60b18a5698dfd0de",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5256674,
+        "known_for_department": "Acting",
+        "name": "Wolfgang Köster",
+        "original_name": "Wolfgang Köster",
+        "popularity": 0.0642,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Self - Interviewee",
+        "credit_id": "67b5b4ba60b18a5698dfd0a6",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5256675,
+        "known_for_department": "Acting",
+        "name": "Johann Heimgreiter",
+        "original_name": "Johann Heimgreiter",
+        "popularity": 0.0614,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Self - Interviewee",
+        "credit_id": "67b5b4c59e32f72b4d88c6f2",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5256685,
+        "known_for_department": "Acting",
+        "name": "Ulrich Nothwang",
+        "original_name": "Ulrich Nothwang",
+        "popularity": 0.0677,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Self - Interviewee",
+        "credit_id": "67b5b55760b18a5698dfd0fa",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5256676,
+        "known_for_department": "Acting",
+        "name": "Peter Bollhagen",
+        "original_name": "Peter Bollhagen",
+        "popularity": 0.0881,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Self - Interviewee",
+        "credit_id": "67b5b4d060b18a5698dfd0bf",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5256677,
+        "known_for_department": "Acting",
+        "name": "Ammar Bilal",
+        "original_name": "Ammar Bilal",
+        "popularity": 0.1184,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Self - Interviewee",
+        "credit_id": "67b5b5059e32f72b4d88c71a",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5256679,
+        "known_for_department": "Acting",
+        "name": "Ahmet Gözmez",
+        "original_name": "Ahmet Gözmez",
+        "popularity": 0.1172,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Self - Interviewee",
+        "credit_id": "67b5b529d28e87e0e5e3bd47",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5256680,
+        "known_for_department": "Acting",
+        "name": "Mustafa Gözmez",
+        "original_name": "Mustafa Gözmez",
+        "popularity": 0.046,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Self - Interviewee",
+        "credit_id": "67b5b5352152638f5ee3c72b",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5256686,
+        "known_for_department": "Acting",
+        "name": "Christof Starke",
+        "original_name": "Christof Starke",
+        "popularity": 0.1161,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Self - Interviewee",
+        "credit_id": "67b5b56360b18a5698dfd109",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5256687,
+        "known_for_department": "Acting",
+        "name": "Karola Kunkel",
+        "original_name": "Karola Kunkel",
+        "popularity": 0.1006,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "Self - Interviewee",
+        "credit_id": "67b5b56f9e32f72b4d88c76c",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5256688,
+        "known_for_department": "Acting",
+        "name": "Oleksandra Honcharuk",
+        "original_name": "Oleksandra Honcharuk",
+        "popularity": 0.1031,
+        "profile_path": null,
+        "cast_id": 43,
+        "character": "Self - Interviewee",
+        "credit_id": "67b5b57e2152638f5ee3c766",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3081624,
+        "known_for_department": "Directing",
+        "name": "Dominic Egizzi",
+        "original_name": "Dominic Egizzi",
+        "popularity": 0.1446,
+        "profile_path": null,
+        "credit_id": "67b5b1b53751180bfcdfcc89",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3081624,
+        "known_for_department": "Directing",
+        "name": "Dominic Egizzi",
+        "original_name": "Dominic Egizzi",
+        "popularity": 0.1446,
+        "profile_path": null,
+        "credit_id": "67b5b1bfd28e87e0e5e3bc6b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2943626,
+        "known_for_department": "Production",
+        "name": "Simon Huber",
+        "original_name": "Simon Huber",
+        "popularity": 0.4599,
+        "profile_path": null,
+        "credit_id": "67b5b1d43751180bfcdfcc97",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2943626,
+        "known_for_department": "Production",
+        "name": "Simon Huber",
+        "original_name": "Simon Huber",
+        "popularity": 0.4599,
+        "profile_path": null,
+        "credit_id": "67b5b1e39e32f72b4d88c4b7",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2943626,
+        "known_for_department": "Production",
+        "name": "Simon Huber",
+        "original_name": "Simon Huber",
+        "popularity": 0.4599,
+        "profile_path": null,
+        "credit_id": "67b5b1eed28e87e0e5e3bc92",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1585436,
+        "known_for_department": "Production",
+        "name": "Marcus Foag",
+        "original_name": "Marcus Foag",
+        "popularity": 0.1598,
+        "profile_path": null,
+        "credit_id": "67b5b2079e32f72b4d88c4dd",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5256653,
+        "known_for_department": "Production",
+        "name": "Nina Nickel",
+        "original_name": "Nina Nickel",
+        "popularity": 0.0817,
+        "profile_path": null,
+        "credit_id": "67b5b2243751180bfcdfcccd",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3217984,
+        "known_for_department": "Crew",
+        "name": "Ute Beutler",
+        "original_name": "Ute Beutler",
+        "popularity": 0.1138,
+        "profile_path": null,
+        "credit_id": "67b5b2339e32f72b4d88c4f9",
+        "department": "Crew",
+        "job": "Commissioning Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3757883,
+        "known_for_department": "Crew",
+        "name": "Ben Bolz",
+        "original_name": "Ben Bolz",
+        "popularity": 0.2002,
+        "profile_path": null,
+        "credit_id": "67b5b2409e32f72b4d88c504",
+        "department": "Crew",
+        "job": "Commissioning Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3462247,
+        "known_for_department": "Writing",
+        "name": "Sven Bührer",
+        "original_name": "Sven Bührer",
+        "popularity": 0.139,
+        "profile_path": null,
+        "credit_id": "67b5b25ad28e87e0e5e3bc9f",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2501286,
+        "known_for_department": "Production",
+        "name": "Steffi Häussler",
+        "original_name": "Steffi Häussler",
+        "popularity": 0.0644,
+        "profile_path": null,
+        "credit_id": "67b5b2832152638f5ee3c64f",
+        "department": "Production",
+        "job": "Unit Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2501276,
+        "known_for_department": "Camera",
+        "name": "Martin Kaeswurm",
+        "original_name": "Martin Kaeswurm",
+        "popularity": 0.5596,
+        "profile_path": null,
+        "credit_id": "67b5b2973751180bfcdfcd04",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3083416,
+        "known_for_department": "Camera",
+        "name": "Tim Kallweit",
+        "original_name": "Tim Kallweit",
+        "popularity": 0.08,
+        "profile_path": null,
+        "credit_id": "67b5b2a560b18a5698dfcf7a",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5256659,
+        "known_for_department": "Camera",
+        "name": "Paul Kothe",
+        "original_name": "Paul Kothe",
+        "popularity": 0.1116,
+        "profile_path": null,
+        "credit_id": "67b5b2db60b18a5698dfcf8e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3875638,
+        "known_for_department": "Camera",
+        "name": "Felix Landbeck",
+        "original_name": "Felix Landbeck",
+        "popularity": 0.3004,
+        "profile_path": null,
+        "credit_id": "67b5b2e93751180bfcdfcd33",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2976433,
+        "known_for_department": "Camera",
+        "name": "Andrea Rumpler",
+        "original_name": "Andrea Rumpler",
+        "popularity": 0.1019,
+        "profile_path": null,
+        "credit_id": "67b5b2f79e32f72b4d88c5c0",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3723467,
+        "known_for_department": "Camera",
+        "name": "Tom Schünemann",
+        "original_name": "Tom Schünemann",
+        "popularity": 0.0405,
+        "profile_path": null,
+        "credit_id": "67b5b30760b18a5698dfcf96",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5256662,
+        "known_for_department": "Camera",
+        "name": "Niels Voges",
+        "original_name": "Niels Voges",
+        "popularity": 0.0673,
+        "profile_path": null,
+        "credit_id": "67b5b3179e32f72b4d88c5e6",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2008895,
+        "known_for_department": "Camera",
+        "name": "Sebastian Wagner",
+        "original_name": "Sebastian Wagner",
+        "popularity": 0.1139,
+        "profile_path": null,
+        "credit_id": "67b5b32f9e32f72b4d88c5f1",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4220454,
+        "known_for_department": "Editing",
+        "name": "Doreen Buchholz",
+        "original_name": "Doreen Buchholz",
+        "popularity": 0.1594,
+        "profile_path": null,
+        "credit_id": "67b5b33f9e32f72b4d88c5fd",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2008905,
+        "known_for_department": "Editing",
+        "name": "Rainer Wolf",
+        "original_name": "Rainer Wolf",
+        "popularity": 0.1613,
+        "profile_path": null,
+        "credit_id": "67b5b34f2152638f5ee3c6b4",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1058205,
+        "known_for_department": "Directing",
+        "name": "Sascha Zimmermann",
+        "original_name": "Sascha Zimmermann",
+        "popularity": 0.1155,
+        "profile_path": null,
+        "credit_id": "67b5b3b99e32f72b4d88c644",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2943624,
+        "known_for_department": "Editing",
+        "name": "Jan Mayer",
+        "original_name": "Jan Mayer",
+        "popularity": 0.1156,
+        "profile_path": null,
+        "credit_id": "67b5b3dcd28e87e0e5e3bd11",
+        "department": "Editing",
+        "job": "Color Grading"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2118846,
+        "known_for_department": "Sound",
+        "name": "Paulo da Silva",
+        "original_name": "Paulo da Silva",
+        "popularity": 0.1137,
+        "profile_path": null,
+        "credit_id": "67b5b3ff2152638f5ee3c6d4",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3390985,
+        "known_for_department": "Camera",
+        "name": "Matthias Onken",
+        "original_name": "Matthias Onken",
+        "popularity": 0.0797,
+        "profile_path": null,
+        "credit_id": "67b5b40c9e32f72b4d88c692",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2179881,
+        "known_for_department": "Sound",
+        "name": "Sascha Wild",
+        "original_name": "Sascha Wild",
+        "popularity": 0.1005,
+        "profile_path": null,
+        "credit_id": "67b5b41b9e32f72b4d88c697",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1642570,
+        "known_for_department": "Sound",
+        "name": "Matthias Münster",
+        "original_name": "Matthias Münster",
+        "popularity": 0.1252,
+        "profile_path": null,
+        "credit_id": "67b5b42c60b18a5698dfd037",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "https://www.daserste.de/information/politik-weltgeschehen/bundestageswahl-2025/sendung/bundestagswahl-2025-108.html",
+          "overview": "Anlässlich der Bundestagswahl am 23. Februar 2025 fragen Jessy Wellmer und Ingo Zamperoni: Welche Themen bewegen die Deutschen vor dieser Wahl, was ist den Menschen wichtig? Die beiden Tagesthemen-Moderatoren sind durch das Land gereist und haben mit Bürgern, Experten sowie Prominenten gesprochen: über die Wirtschaftskrise, die Migration und den Fachkräftemangel, die Angst vor einem Krieg und die Spaltung der Gesellschaft. Eine für den Dokumentarfilm in Auftrag gegebene repräsentative Umfrage ergänzt die persönlichen Haltungen und Meinungen.",
+          "runtime": 59,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "On the occasion of the federal election on February 23, 2025, Jessy Wellmer and Ingo Zamperoni ask: What issues are Germans concerned about before this election, what is important to people? The two Tagesthemen presenters traveled around the country and spoke to citizens, experts and celebrities: about the economic crisis, migration and the shortage of skilled workers, the fear of war and the division of society. A representative survey commissioned for the documentary complements the personal attitudes and opinions.",
+          "runtime": 59,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt35836071",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1440,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/tTUQppprwEiGpgrcsJa14NGkaiw.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2560
+      },
+      {
+        "aspect_ratio": 1.777,
+        "height": 788,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/kxtjT7IZdeFcZRsXGc8I6BP6paD.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1400
+      },
+      {
+        "aspect_ratio": 1.777,
+        "height": 788,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/dDMwmiijaoTRxp0gRmxIdGZtUqT.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1400
+      },
+      {
+        "aspect_ratio": 1.777,
+        "height": 788,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/79xQ5y3NlBsn7fwvlEZCwSq0o9m.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1400
+      },
+      {
+        "aspect_ratio": 1.777,
+        "height": 788,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/iMrxsylLwIU6rdTCBwoURbXoXKJ.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1400
+      }
+    ],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "ARD-Mediathek",
+            "release_date": "2025-02-15T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Das Erste",
+            "release_date": "2025-02-17T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

@@ -1,0 +1,519 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "",
+  "id": 1760199,
+  "imdb_id": null,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Widdershins",
+  "overview": "Hazel casts a spell... its effects are different than she expects.",
+  "popularity": 0.2646,
+  "poster_path": "/q5XodpbZypg12gnR0MJVQ90uMKq.jpg",
+  "production_companies": [
+    {
+      "id": 290746,
+      "logo_path": null,
+      "name": "Film in a Bag Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 254733,
+      "logo_path": null,
+      "name": "Cosmic Egg Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2026-10-31",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "Widdershins",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5271921,
+        "known_for_department": "Directing",
+        "name": "Ronnie Lee Cartwright",
+        "original_name": "Ronnie Lee Cartwright",
+        "popularity": 0.1187,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Hazel",
+        "credit_id": "6ae6605d5f42283152f1a92d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5271925,
+        "known_for_department": "Sound",
+        "name": "Gregory Zaworski",
+        "original_name": "Gregory Zaworski",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Scott",
+        "credit_id": "6ae6607f1c24281482c8c182",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6590657,
+        "known_for_department": "Acting",
+        "name": "Barbara Dillon",
+        "original_name": "Barbara Dillon",
+        "popularity": 0.0855,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Potions Witch",
+        "credit_id": "6ae6609b53139f832ba6beaa",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5271925,
+        "known_for_department": "Sound",
+        "name": "Gregory Zaworski",
+        "original_name": "Gregory Zaworski",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Widdershins Monster",
+        "credit_id": "6ae660b778b4ed11028aacd9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6590660,
+        "known_for_department": "Acting",
+        "name": "Jake Fornof",
+        "original_name": "Jake Fornof",
+        "popularity": 0.066,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Bonfire Guest #1",
+        "credit_id": "6ae660d0fe0acc03d9638c0f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2615185,
+        "known_for_department": "Acting",
+        "name": "Adam Rebora",
+        "original_name": "Adam Rebora",
+        "popularity": 0.2586,
+        "profile_path": "/fXNYg4dGugn7H9GaBhPCWcflD1.jpg",
+        "cast_id": 29,
+        "character": "Bonfire Guest #2",
+        "credit_id": "6ae660ed936f36dd810807ed",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6590645,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Megan Renz",
+        "original_name": "Megan Renz",
+        "popularity": 0.0466,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Bonfire Guest #3",
+        "credit_id": "6ae660fd251d628ed7a6bec3",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5271918,
+        "known_for_department": "Writing",
+        "name": "Nick Cartwright",
+        "original_name": "Nick Cartwright",
+        "popularity": 0.0943,
+        "profile_path": null,
+        "credit_id": "6a9707856a23e950ccb8b522",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5271918,
+        "known_for_department": "Writing",
+        "name": "Nick Cartwright",
+        "original_name": "Nick Cartwright",
+        "popularity": 0.0943,
+        "profile_path": null,
+        "credit_id": "6ae65ebef9357a3c1ba6bfdc",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5271925,
+        "known_for_department": "Sound",
+        "name": "Gregory Zaworski",
+        "original_name": "Gregory Zaworski",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6ae65ecbe453232c4bb84a3b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5271921,
+        "known_for_department": "Directing",
+        "name": "Ronnie Lee Cartwright",
+        "original_name": "Ronnie Lee Cartwright",
+        "popularity": 0.1187,
+        "profile_path": null,
+        "credit_id": "6ae65ed89aaef65977cdad57",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5271925,
+        "known_for_department": "Sound",
+        "name": "Gregory Zaworski",
+        "original_name": "Gregory Zaworski",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6ae65ef58401de8332638c2d",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5271921,
+        "known_for_department": "Directing",
+        "name": "Ronnie Lee Cartwright",
+        "original_name": "Ronnie Lee Cartwright",
+        "popularity": 0.1187,
+        "profile_path": null,
+        "credit_id": "6ae65f02e453232c4bb84a58",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5271918,
+        "known_for_department": "Writing",
+        "name": "Nick Cartwright",
+        "original_name": "Nick Cartwright",
+        "popularity": 0.0943,
+        "profile_path": null,
+        "credit_id": "6ae65f16b9ef9ed402c8c2eb",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6037018,
+        "known_for_department": "Acting",
+        "name": "Austin Millet",
+        "original_name": "Austin Millet",
+        "popularity": 0.2425,
+        "profile_path": "/nJbRzPgzaQkyS9ukIQNfhtb5EpS.jpg",
+        "credit_id": "6ae65f26251d628ed7a6be77",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3465610,
+        "known_for_department": "Acting",
+        "name": "Teresa Martinez Moore",
+        "original_name": "Teresa Martinez Moore",
+        "popularity": 0.2702,
+        "profile_path": "/38MVcsXhT84Kqzo6uNPWSmqNxDy.jpg",
+        "credit_id": "6ae65f34058eb2fff7c8c6c2",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2615185,
+        "known_for_department": "Acting",
+        "name": "Adam Rebora",
+        "original_name": "Adam Rebora",
+        "popularity": 0.2586,
+        "profile_path": "/fXNYg4dGugn7H9GaBhPCWcflD1.jpg",
+        "credit_id": "6ae65f40711d991b7d0804ec",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5271918,
+        "known_for_department": "Writing",
+        "name": "Nick Cartwright",
+        "original_name": "Nick Cartwright",
+        "popularity": 0.0943,
+        "profile_path": null,
+        "credit_id": "6ae65f4db8d8f1f3658aab6f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6281160,
+        "known_for_department": "Camera",
+        "name": "Lucas Del Tedesco",
+        "original_name": "Lucas Del Tedesco",
+        "popularity": 0.091,
+        "profile_path": null,
+        "credit_id": "6ae65f60f6b64a581ccda211",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6044923,
+        "known_for_department": "Lighting",
+        "name": "Sam Rewolinski",
+        "original_name": "Sam Rewolinski",
+        "popularity": 0.0849,
+        "profile_path": null,
+        "credit_id": "6ae65f912e98890848638c2a",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6044923,
+        "known_for_department": "Lighting",
+        "name": "Sam Rewolinski",
+        "original_name": "Sam Rewolinski",
+        "popularity": 0.0849,
+        "profile_path": null,
+        "credit_id": "6ae65f98bdb60af9f8f1a3db",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6448237,
+        "known_for_department": "Sound",
+        "name": "Reynaldo Dumas",
+        "original_name": "Reynaldo Dumas",
+        "popularity": 0.0953,
+        "profile_path": null,
+        "credit_id": "6ae65fa9d2c3fcd4e3a6be76",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6448237,
+        "known_for_department": "Sound",
+        "name": "Reynaldo Dumas",
+        "original_name": "Reynaldo Dumas",
+        "popularity": 0.0953,
+        "profile_path": null,
+        "credit_id": "6ae65fb0d2c3fcd4e3a6be79",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6590645,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Megan Renz",
+        "original_name": "Megan Renz",
+        "popularity": 0.0466,
+        "profile_path": null,
+        "credit_id": "6ae65fdcfe0acc03d9638c08",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6590648,
+        "known_for_department": "Editing",
+        "name": "Nick Kuntzman",
+        "original_name": "Nick Kuntzman",
+        "popularity": 0.066,
+        "profile_path": null,
+        "credit_id": "6ae65ff8a1f3a32635c8c107",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6590650,
+        "known_for_department": "Sound",
+        "name": "Kevin Osei-Badu",
+        "original_name": "Kevin Osei-Badu",
+        "popularity": 0.0466,
+        "profile_path": null,
+        "credit_id": "6ae660151e9be1bc6db849e4",
+        "department": "Sound",
+        "job": "Sound Post Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5271928,
+        "known_for_department": "Sound",
+        "name": "Sean Brennan",
+        "original_name": "Sean Brennan",
+        "popularity": 0.0966,
+        "profile_path": null,
+        "credit_id": "6ae66029058eb2fff7c8c6e5",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5271918,
+        "known_for_department": "Writing",
+        "name": "Nick Cartwright",
+        "original_name": "Nick Cartwright",
+        "popularity": 0.0943,
+        "profile_path": null,
+        "credit_id": "6ae6603678b4ed11028aacc9",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5271918,
+        "known_for_department": "Writing",
+        "name": "Nick Cartwright",
+        "original_name": "Nick Cartwright",
+        "popularity": 0.0943,
+        "profile_path": null,
+        "credit_id": "6ae660421c24281482c8c173",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Hazel casts a spell... its effects are different than she expects.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1919,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/zByBuMdwMZAh04oNUGypjXvu8br.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1280
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/q5XodpbZypg12gnR0MJVQ90uMKq.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-10-31T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

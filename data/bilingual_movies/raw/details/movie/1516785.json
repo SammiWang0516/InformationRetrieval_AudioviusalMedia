@@ -1,0 +1,370 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 1000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1516785,
+  "imdb_id": null,
+  "origin_country": [
+    "CA",
+    "CZ"
+  ],
+  "original_language": "en",
+  "original_title": "Zvířata",
+  "overview": "At the end of a well-lubricated evening, Jules and Vilem accidentally kill a man and go all out to hide the body.",
+  "popularity": 0.8192,
+  "poster_path": "/ziovnUpA00Z1H8kxr3si0BsBjzc.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2025-07-26",
+  "revenue": 0,
+  "runtime": 12,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "Český"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Animals",
+  "video": false,
+  "vote_average": 3.0,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 2275389,
+        "known_for_department": "Acting",
+        "name": "Julien Duchaine",
+        "original_name": "Julien Duchaine",
+        "popularity": 0.1742,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Jules",
+        "credit_id": "687eae7f692b97576e38dde9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2422916,
+        "known_for_department": "Acting",
+        "name": "Matyáš Kyncl",
+        "original_name": "Matyáš Kyncl",
+        "popularity": 0.0978,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Vilem",
+        "credit_id": "687eaeaa342a4dafbf72ce9a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4363013,
+        "known_for_department": "Acting",
+        "name": "Tomáš Legát",
+        "original_name": "Tomáš Legát",
+        "popularity": 0.116,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Dead guy",
+        "credit_id": "687eaef523e3f6d09038dc58",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4690215,
+        "known_for_department": "Camera",
+        "name": "Alexandre Normand",
+        "original_name": "Alexandre Normand",
+        "popularity": 0.1907,
+        "profile_path": null,
+        "credit_id": "687eaf1ac2adade24055d394",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4507893,
+        "known_for_department": "Camera",
+        "name": "Thomas Gendreau",
+        "original_name": "Thomas Gendreau",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "687eaf27a571086a4055d26f",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4507891,
+        "known_for_department": "Directing",
+        "name": "Cédric Demers",
+        "original_name": "Cédric Demers",
+        "popularity": 0.0921,
+        "profile_path": "/4lXimZ53z0UScTu492owyVaGQkI.jpg",
+        "credit_id": "687eaf6128a6b89656d99433",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4507891,
+        "known_for_department": "Directing",
+        "name": "Cédric Demers",
+        "original_name": "Cédric Demers",
+        "popularity": 0.0921,
+        "profile_path": "/4lXimZ53z0UScTu492owyVaGQkI.jpg",
+        "credit_id": "687eaf88d9da18e5168a4fa5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5432223,
+        "known_for_department": "Directing",
+        "name": "Kim Drapeau",
+        "original_name": "Kim Drapeau",
+        "popularity": 0.0608,
+        "profile_path": "/pVCMTbWgBi3Ybt076WFpy2elWF7.jpg",
+        "credit_id": "687eaf9c28a6b89656d99436",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5432223,
+        "known_for_department": "Directing",
+        "name": "Kim Drapeau",
+        "original_name": "Kim Drapeau",
+        "popularity": 0.0608,
+        "profile_path": "/pVCMTbWgBi3Ybt076WFpy2elWF7.jpg",
+        "credit_id": "687eafac0f25d300c35292f4",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5578407,
+        "known_for_department": "Sound",
+        "name": "PE Beaudoin",
+        "original_name": "PE Beaudoin",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "687eb023e50e3bcc5516a562",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5016772,
+        "known_for_department": "Production",
+        "name": "Florence Dionne",
+        "original_name": "Florence Dionne",
+        "popularity": 0.0501,
+        "profile_path": null,
+        "credit_id": "687eb0498b3b81d371244cd8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4690236,
+        "known_for_department": "Directing",
+        "name": "Élisabeth Lauzon",
+        "original_name": "Élisabeth Lauzon",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "687eb063e20a3e8dabf76d2e",
+        "department": "Crew",
+        "job": "Script"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4690215,
+        "known_for_department": "Camera",
+        "name": "Alexandre Normand",
+        "original_name": "Alexandre Normand",
+        "popularity": 0.1907,
+        "profile_path": null,
+        "credit_id": "687eb07387b981279c55d37f",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5578410,
+        "known_for_department": "Production",
+        "name": "Marianne Do",
+        "original_name": "Marianne Do",
+        "popularity": 0.0512,
+        "profile_path": null,
+        "credit_id": "687eb0b58b3b81d371244ce4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5578411,
+        "known_for_department": "Sound",
+        "name": "Félix Bégin",
+        "original_name": "Félix Bégin",
+        "popularity": 0.0614,
+        "profile_path": null,
+        "credit_id": "687eb0dfe4afd09aec72ce81",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5578411,
+        "known_for_department": "Sound",
+        "name": "Félix Bégin",
+        "original_name": "Félix Bégin",
+        "popularity": 0.0614,
+        "profile_path": null,
+        "credit_id": "687eb0eea854e42eb3f76d8e",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 3356,
+        "name": "quebec"
+      },
+      {
+        "id": 263548,
+        "name": "short film"
+      },
+      {
+        "id": 355738,
+        "name": "praha"
+      },
+      {
+        "id": 355739,
+        "name": "prague"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "At the end of a well-lubricated evening, Jules and Vilem accidentally kill a man and go all out to hide the body.",
+          "runtime": 12,
+          "tagline": "",
+          "title": "Animals"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "CA",
+        "title": "Animals",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "Animals",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.675,
+        "height": 2900,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/ziovnUpA00Z1H8kxr3si0BsBjzc.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1957
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "14A",
+            "descriptors": [
+              "Violence"
+            ],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2025-07-26T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

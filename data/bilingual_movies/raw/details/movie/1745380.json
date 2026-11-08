@@ -1,0 +1,670 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "https://www.bleedfeaturefilm.com/",
+  "id": 1745380,
+  "imdb_id": "tt33518160",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Bleed",
+  "overview": "A family in crisis on Halloween night is thrown into turmoil when a long-estranged relative shows up on their doorstep after committing a horrific crime.",
+  "popularity": 0.8258,
+  "poster_path": "/ulhynVVN5I4zrArlDHTfesTvJIY.jpg",
+  "production_companies": [
+    {
+      "id": 306796,
+      "logo_path": null,
+      "name": "Cascadia Films",
+      "origin_country": ""
+    },
+    {
+      "id": 306797,
+      "logo_path": null,
+      "name": "Compulsion Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-09-04",
+  "revenue": 0,
+  "runtime": 94,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Bleed",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 79907,
+        "known_for_department": "Acting",
+        "name": "Tony Doupe",
+        "original_name": "Tony Doupe",
+        "popularity": 0.3243,
+        "profile_path": "/wmhu0egMzWXak0hn13Obso06KDU.jpg",
+        "cast_id": 1,
+        "character": "Jackson Rivers",
+        "credit_id": "6a76219e182df567b418f627",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3054446,
+        "known_for_department": "Acting",
+        "name": "Susan Doupé",
+        "original_name": "Susan Doupé",
+        "popularity": 0.0977,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Faye Rivers",
+        "credit_id": "6a7621b08a13405ae941f8f5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105894,
+        "known_for_department": "Acting",
+        "name": "Jason Adkins",
+        "original_name": "Jason Adkins",
+        "popularity": 0.2514,
+        "profile_path": "/1GsehNN9OjQKBZrwuy3biQaUgne.jpg",
+        "cast_id": 3,
+        "character": "Lee Rivers",
+        "credit_id": "6a7621c5d8f0cac760f662f0",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6396731,
+        "known_for_department": "Acting",
+        "name": "Ryan Brummitt",
+        "original_name": "Ryan Brummitt",
+        "popularity": 0.1339,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Milo",
+        "credit_id": "6a7621dad00de1b7a46c3f21",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3588820,
+        "known_for_department": "Acting",
+        "name": "Elijah Carnazzo",
+        "original_name": "Elijah Carnazzo",
+        "popularity": 0.132,
+        "profile_path": "/dYpeMlihEZVsZc31YXQqu8IJnxA.jpg",
+        "cast_id": 5,
+        "character": "Young Jackson",
+        "credit_id": "6a7621ec9a2d38ae95435a9e",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6396733,
+        "known_for_department": "Acting",
+        "name": "Maxwell Mushallo",
+        "original_name": "Maxwell Mushallo",
+        "popularity": 0.0347,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Young Lee",
+        "credit_id": "6a7621fc0e4b42650e628710",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 132755,
+        "known_for_department": "Acting",
+        "name": "Scott C. Brown",
+        "original_name": "Scott C. Brown",
+        "popularity": 0.1603,
+        "profile_path": "/tnDgEU5q47anoWZJDzzudC678m7.jpg",
+        "cast_id": 7,
+        "character": "Father",
+        "credit_id": "6a76220d5404a4d35462875a",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6396734,
+        "known_for_department": "Acting",
+        "name": "Cassie Hurley",
+        "original_name": "Cassie Hurley",
+        "popularity": 0.1732,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Mother",
+        "credit_id": "6a762221d8f0cac760f662fc",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1670553,
+        "known_for_department": "Directing",
+        "name": "Dawson Doupé",
+        "original_name": "Dawson Doupé",
+        "popularity": 0.2783,
+        "profile_path": "/7ISlzENh9gkdRtQAkqoqCKjQBXP.jpg",
+        "cast_id": 9,
+        "character": "Ben Rivers",
+        "credit_id": "6a762232a9916264e241f92c",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1670553,
+        "known_for_department": "Directing",
+        "name": "Dawson Doupé",
+        "original_name": "Dawson Doupé",
+        "popularity": 0.2783,
+        "profile_path": "/7ISlzENh9gkdRtQAkqoqCKjQBXP.jpg",
+        "credit_id": "6a762352d575b6b87133abeb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2491490,
+        "known_for_department": "Directing",
+        "name": "Ryder Doupé",
+        "original_name": "Ryder Doupé",
+        "popularity": 0.1905,
+        "profile_path": null,
+        "credit_id": "6a762367cf7105b14d628738",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2491491,
+        "known_for_department": "Directing",
+        "name": "Todd Tapper",
+        "original_name": "Todd Tapper",
+        "popularity": 0.2745,
+        "profile_path": null,
+        "credit_id": "6a7623711f61f37a85c04f06",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1670553,
+        "known_for_department": "Directing",
+        "name": "Dawson Doupé",
+        "original_name": "Dawson Doupé",
+        "popularity": 0.2783,
+        "profile_path": "/7ISlzENh9gkdRtQAkqoqCKjQBXP.jpg",
+        "credit_id": "6a76237d8aed9d02a941f927",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2491490,
+        "known_for_department": "Directing",
+        "name": "Ryder Doupé",
+        "original_name": "Ryder Doupé",
+        "popularity": 0.1905,
+        "profile_path": null,
+        "credit_id": "6a762388fbe9098195352485",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2491491,
+        "known_for_department": "Directing",
+        "name": "Todd Tapper",
+        "original_name": "Todd Tapper",
+        "popularity": 0.2745,
+        "profile_path": null,
+        "credit_id": "6a762393a7e75c555133abde",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1670553,
+        "known_for_department": "Directing",
+        "name": "Dawson Doupé",
+        "original_name": "Dawson Doupé",
+        "popularity": 0.2783,
+        "profile_path": "/7ISlzENh9gkdRtQAkqoqCKjQBXP.jpg",
+        "credit_id": "6a76239d7756192975453e13",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2491490,
+        "known_for_department": "Directing",
+        "name": "Ryder Doupé",
+        "original_name": "Ryder Doupé",
+        "popularity": 0.1905,
+        "profile_path": null,
+        "credit_id": "6a7623a70f063d3f6043ff95",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2491491,
+        "known_for_department": "Directing",
+        "name": "Todd Tapper",
+        "original_name": "Todd Tapper",
+        "popularity": 0.2745,
+        "profile_path": null,
+        "credit_id": "6a7623b10a649cbed9f66339",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1501918,
+        "known_for_department": "Writing",
+        "name": "Nathan Hendrickson",
+        "original_name": "Nathan Hendrickson",
+        "popularity": 0.1051,
+        "profile_path": null,
+        "credit_id": "6a7623bdc340db25664542af",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 84303,
+        "known_for_department": "Directing",
+        "name": "Dan Gildark",
+        "original_name": "Dan Gildark",
+        "popularity": 0.1217,
+        "profile_path": "/u8O2XWdoicr5bWNrF557hsukbbl.jpg",
+        "credit_id": "6a7623ce6d88fc835dc04ed4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4659232,
+        "known_for_department": "Sound",
+        "name": "Brian Pamintuan",
+        "original_name": "Brian Pamintuan",
+        "popularity": 0.0621,
+        "profile_path": null,
+        "credit_id": "6a7623f571ec6fd538435ad6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6396755,
+        "known_for_department": "Production",
+        "name": "Kristina Sutton",
+        "original_name": "Kristina Sutton",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a76242b70ecbf543e4542be",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2973284,
+        "known_for_department": "Sound",
+        "name": "Joanna Karselis",
+        "original_name": "Joanna Karselis",
+        "popularity": 0.1096,
+        "profile_path": "/gwIC1Lm6c9okhfjn2MNz2Sq4p4A.jpg",
+        "credit_id": "6a76243b2c3c30265af34759",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4360120,
+        "known_for_department": "Production",
+        "name": "Cas Taylor",
+        "original_name": "Cas Taylor",
+        "popularity": 0.038,
+        "profile_path": null,
+        "credit_id": "6a76244a0267563a3be1112f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6396756,
+        "known_for_department": "Production",
+        "name": "Nick Hartman",
+        "original_name": "Nick Hartman",
+        "popularity": 0.0383,
+        "profile_path": null,
+        "credit_id": "6a76246652d65138c1453dc5",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6396757,
+        "known_for_department": "Production",
+        "name": "Kelly Moll",
+        "original_name": "Kelly Moll",
+        "popularity": 0.037,
+        "profile_path": null,
+        "credit_id": "6a76247effc9f2fcbc9c81e0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3559509,
+        "known_for_department": "Visual Effects",
+        "name": "Stefan Scherperel",
+        "original_name": "Stefan Scherperel",
+        "popularity": 0.0495,
+        "profile_path": null,
+        "credit_id": "6a76249645b77f62ebf34890",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2924540,
+        "known_for_department": "Sound",
+        "name": "Ethan Zeitman",
+        "original_name": "Ethan Zeitman",
+        "popularity": 0.137,
+        "profile_path": null,
+        "credit_id": "6a7624a671ec6fd538435ae7",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2924540,
+        "known_for_department": "Sound",
+        "name": "Ethan Zeitman",
+        "original_name": "Ethan Zeitman",
+        "popularity": 0.137,
+        "profile_path": null,
+        "credit_id": "6a7624bb3136d8a66741f91f",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2973284,
+        "known_for_department": "Sound",
+        "name": "Joanna Karselis",
+        "original_name": "Joanna Karselis",
+        "popularity": 0.1096,
+        "profile_path": "/gwIC1Lm6c9okhfjn2MNz2Sq4p4A.jpg",
+        "credit_id": "6a7624ea70ecbf543e4542c1",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3559509,
+        "known_for_department": "Visual Effects",
+        "name": "Stefan Scherperel",
+        "original_name": "Stefan Scherperel",
+        "popularity": 0.0495,
+        "profile_path": null,
+        "credit_id": "6a7624fb9043fc9c46f348fc",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1501918,
+        "known_for_department": "Writing",
+        "name": "Nathan Hendrickson",
+        "original_name": "Nathan Hendrickson",
+        "popularity": 0.1051,
+        "profile_path": null,
+        "credit_id": "6a762512ffc9f2fcbc9c81e5",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6396766,
+        "known_for_department": "Editing",
+        "name": "Michael William Sebastian",
+        "original_name": "Michael William Sebastian",
+        "popularity": 0.0499,
+        "profile_path": null,
+        "credit_id": "6a762531d5bac1d29e453fa4",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5144357,
+        "known_for_department": "Acting",
+        "name": "Naomi Mechem-Miller",
+        "original_name": "Naomi Mechem-Miller",
+        "popularity": 0.1562,
+        "profile_path": "/nQCUNxjkGAfwDdPbRRYxDujgNO1.jpg",
+        "credit_id": "6a76254e0267563a3be11143",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Key Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3029804,
+        "known_for_department": "Sound",
+        "name": "Brian Sloss",
+        "original_name": "Brian Sloss",
+        "popularity": 0.0646,
+        "profile_path": null,
+        "credit_id": "6a762563007877d048352523",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3054446,
+        "known_for_department": "Acting",
+        "name": "Susan Doupé",
+        "original_name": "Susan Doupé",
+        "popularity": 0.0977,
+        "profile_path": null,
+        "credit_id": "6a9ee45d6cdaf2bb87997350",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 79907,
+        "known_for_department": "Acting",
+        "name": "Tony Doupe",
+        "original_name": "Tony Doupe",
+        "popularity": 0.3243,
+        "profile_path": "/wmhu0egMzWXak0hn13Obso06KDU.jpg",
+        "credit_id": "6a9ee46c6cdaf2bb87997355",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "https://www.bleedfeaturefilm.com/",
+          "overview": "A family in crisis on Halloween night is thrown into turmoil when a long-estranged relative shows up on their doorstep after committing a horrific crime.",
+          "runtime": 94,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt33518160",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/6asYnmU1C3oNXiCyS4BVTe8QX6n.jpg",
+        "vote_average": 3.334,
+        "vote_count": 2,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/ulhynVVN5I4zrArlDHTfesTvJIY.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/tDBbfIQyrmdTLzFEWIfxVTAdf6O.jpg",
+        "vote_average": 0.166,
+        "vote_count": 2,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.707,
+        "height": 2245,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/rF0gwOgxYks7jeg4M3Zmf5ZGHdZ.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1587
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/rPbTLt5oH5OhiiysfCuCJ5gIQEW.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Cinefantasy - International Fantastic Film Festival",
+            "release_date": "2026-09-04T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

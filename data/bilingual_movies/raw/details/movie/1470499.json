@@ -1,0 +1,602 @@
+{
+  "adult": false,
+  "backdrop_path": "/AgewnKMrhmoj9H90BZjQ0KW0gkZ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1470499,
+  "imdb_id": "tt36968173",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Ab morgen bin ich mutig",
+  "overview": "If twelve-year-old Karl had been able to choose who he fell in love with, it would not have been the much taller Lea from his class. Now he doesn't have much time to fnd out whether Lea can reciprocate his feelings. After the summer holidays, she will change schools​.",
+  "popularity": 0.7873,
+  "poster_path": "/w5vbgWFlD72np3u8iWqLCgbueOd.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2025-09-26",
+  "revenue": 0,
+  "runtime": 80,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Tomorrow I'll Be Brave",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5423541,
+        "known_for_department": "Acting",
+        "name": "Jonathan Köhn",
+        "original_name": "Jonathan Köhn",
+        "popularity": 0.2992,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Karl Seidel",
+        "credit_id": "681bc6b4565afadcad01e59b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5423552,
+        "known_for_department": "Acting",
+        "name": "Darius Pascu",
+        "original_name": "Darius Pascu",
+        "popularity": 0.0401,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Tom Seidel",
+        "credit_id": "681bc812c35ba25e3ac1d82f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5423558,
+        "known_for_department": "Acting",
+        "name": "Cheyenne Aaliyah Roth",
+        "original_name": "Cheyenne Aaliyah Roth",
+        "popularity": 0.3821,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Lea",
+        "credit_id": "681bc849808418d30e0b25c7",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4524913,
+        "known_for_department": "Acting",
+        "name": "Anna Bahners",
+        "original_name": "Anna Bahners",
+        "popularity": 0.3726,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Klara",
+        "credit_id": "681bc854c35ba25e3ac1d834",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5423564,
+        "known_for_department": "Acting",
+        "name": "Elijas A.",
+        "original_name": "Elijas A.",
+        "popularity": 0.3332,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Jacob",
+        "credit_id": "681bc86efdbb19e54dc1d85c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5423567,
+        "known_for_department": "Acting",
+        "name": "Tamino G.",
+        "original_name": "Tamino G.",
+        "popularity": 0.1377,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Max",
+        "credit_id": "681bc89ddf2ce0c3723ec499",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5423570,
+        "known_for_department": "Acting",
+        "name": "Malvina Hoffmann",
+        "original_name": "Malvina Hoffmann",
+        "popularity": 0.0895,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Lina",
+        "credit_id": "681bc8ad740cf97b1dc1d839",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5423574,
+        "known_for_department": "Acting",
+        "name": "Niclas Meimberg",
+        "original_name": "Niclas Meimberg",
+        "popularity": 0.3151,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Hannes",
+        "credit_id": "681bc8e3c79c359e34c1d83d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 233747,
+        "known_for_department": "Acting",
+        "name": "Theresa Scholze",
+        "original_name": "Theresa Scholze",
+        "popularity": 0.4386,
+        "profile_path": "/7PNKIUEvx0dy00l0Ose0YPLar46.jpg",
+        "cast_id": 10,
+        "character": "Frau Bender",
+        "credit_id": "681bc8efcc93bba0506e33c7",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3405744,
+        "known_for_department": "Acting",
+        "name": "Markus Friedmann",
+        "original_name": "Markus Friedmann",
+        "popularity": 0.1182,
+        "profile_path": "/eYrWmO4MycY79GZzXaof0ZzKU40.jpg",
+        "cast_id": 11,
+        "character": "Herr Mattis",
+        "credit_id": "681bc8fba6b86ff932c1d82c",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1708553,
+        "known_for_department": "Acting",
+        "name": "Juliane Pempelfort",
+        "original_name": "Juliane Pempelfort",
+        "popularity": 0.134,
+        "profile_path": "/wNTE5eA2PRb6GQHqx37u2TsNJxa.jpg",
+        "cast_id": 12,
+        "character": "Marta Seidel",
+        "credit_id": "681bc92d8fd3cdb1cdc1d847",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1815172,
+        "known_for_department": "Acting",
+        "name": "Petra Kalkutschke",
+        "original_name": "Petra Kalkutschke",
+        "popularity": 0.2904,
+        "profile_path": "/nrDKMSZSQ6mZGK07UwDOhsa2Uo.jpg",
+        "cast_id": 13,
+        "character": "Tante Mechthild",
+        "credit_id": "681bc93df12ffbb1c163b4dc",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 147351,
+        "known_for_department": "Acting",
+        "name": "Thomas Kautenburger",
+        "original_name": "Thomas Kautenburger",
+        "popularity": 0.1676,
+        "profile_path": "/oqiL1Nb7wZ65UpbZsdEERLLB1DF.jpg",
+        "cast_id": 14,
+        "character": "Schuster Maiwald",
+        "credit_id": "681bc97000ea3a1e5763b4e7",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1330388,
+        "known_for_department": "Acting",
+        "name": "Renate Kohn",
+        "original_name": "Renate Kohn",
+        "popularity": 0.3669,
+        "profile_path": "/3bUyINo3OjrL9n44646qIjunul0.jpg",
+        "cast_id": 15,
+        "character": "Regine",
+        "credit_id": "681bc9af43c475d4ebb1c54f",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1516147,
+        "known_for_department": "Acting",
+        "name": "Dustin Meyer",
+        "original_name": "Dustin Meyer",
+        "popularity": 0.0927,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Dustin",
+        "credit_id": "681bc9bbd52f54c9526e33bb",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1201372,
+        "known_for_department": "Acting",
+        "name": "Karen Dahmen",
+        "original_name": "Karen Dahmen",
+        "popularity": 0.2,
+        "profile_path": "/fMRTdzC0Fwm6kmWSJHoTErr4Zxn.jpg",
+        "cast_id": 17,
+        "character": "Milena",
+        "credit_id": "681bc9e4a2ec0ef0c563b4b7",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3638553,
+        "known_for_department": "Acting",
+        "name": "Erdal Gürcü",
+        "original_name": "Erdal Gürcü",
+        "popularity": 0.0709,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Firas",
+        "credit_id": "681bc9f1808418d30e0b25e3",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5423588,
+        "known_for_department": "Acting",
+        "name": "Valerie Höhn",
+        "original_name": "Valerie Höhn",
+        "popularity": 0.0764,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "",
+        "credit_id": "681bc9f9d4640b66d40b258d",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1148513,
+        "known_for_department": "Directing",
+        "name": "Bernd Sahling",
+        "original_name": "Bernd Sahling",
+        "popularity": 0.2079,
+        "profile_path": null,
+        "credit_id": "681bc4b115cf8a210c0b2574",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1912993,
+        "known_for_department": "Production",
+        "name": "Markus Kaatsch",
+        "original_name": "Markus Kaatsch",
+        "popularity": 0.1695,
+        "profile_path": null,
+        "credit_id": "688db0b5938dc65956b2296d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2649110,
+        "known_for_department": "Editing",
+        "name": "Evelyn Rack",
+        "original_name": "Evelyn Rack",
+        "popularity": 0.2548,
+        "profile_path": null,
+        "credit_id": "68c1a3fd25f494771c4e741a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5681863,
+        "known_for_department": "Editing",
+        "name": "Billie Mind",
+        "original_name": "Billie Mind",
+        "popularity": 0.1809,
+        "profile_path": null,
+        "credit_id": "68c1a5198470119c921f6c89",
+        "department": "Editing",
+        "job": "Co-Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1148513,
+        "known_for_department": "Directing",
+        "name": "Bernd Sahling",
+        "original_name": "Bernd Sahling",
+        "popularity": 0.2079,
+        "profile_path": null,
+        "credit_id": "68e9a2a42c0a32f060645513",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "https://www.realfictionfilme.de/ab-morgen-bin-ich-mutig.html",
+          "overview": "Hätte der zwölfjährige Karl sich aussuchen können, in wen er sich verliebt, es wäre vermutlich nicht seine Mitschülerin Lea geworden. Lea ist das größte Mädchen in der Klasse, einen Kopf länger als Karl. Aber auch so braucht es für Karl großen Mut, herauszufinden, ob Lea ihn mag. Karls älterer Bruder Tom rät, mit Lea etwas zu unternehmen.",
+          "runtime": 80,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "KR",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말",
+        "english_name": "Korean",
+        "data": {
+          "homepage": "",
+          "overview": "12살 칼이 사랑할 상대를 선택할 수 있었다면, 자신보다 키가 훨씬 큰 반 친구 레아는 아니었을 것이다. 하지만 이제 칼에겐 레아가 자신의 마음을 받아줄지 알 수 있는 시간이 많지 않다. 방학이 끝나면 레아는 다른 학교로 전학가기 때문이다.​",
+          "runtime": 80,
+          "tagline": "",
+          "title": "내일은 용기를 낼 거야"
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "If twelve-year-old Karl had been able to choose who he fell in love with, it would not have been the much taller Lea from his class. Now he doesn't have much time to fnd out whether Lea can reciprocate his feelings. After the summer holidays, she will change schools​.",
+          "runtime": 80,
+          "tagline": "",
+          "title": "Tomorrow I'll Be Brave"
+        }
+      },
+      {
+        "iso_3166_1": "LT",
+        "iso_639_1": "lt",
+        "name": "Lietuvių",
+        "english_name": "Lithuanian",
+        "data": {
+          "homepage": "",
+          "overview": "Dvylikametis Karlas pirmą kartą pajunta, ką reiškia simpatija – jo dėmesį patraukia aukštesnė klasiokė Lėja. Vis dėlto, ūgio skirtumas nėra vienintelė Karlo bėda. Jį neramina tai, kad mergaitė greitai keis mokyklą. Paskatintas vyresnio brolio Tomo, drovus berniukas sukaupia visą drąsa ir pakviečia Lėją į savo mėgstamiausią vietą – slaptą fotolaboratoriją. Nors Lėją sužavi šviesos ir šešėlių žaismas, prisipažinti apie savo jausmus Karlui drąsos pritrūksta, o laikas iki mergaitės išvykimo vis tirpsta.",
+          "runtime": 80,
+          "tagline": "",
+          "title": "Rytoj būsiu drąsus"
+        }
+      },
+      {
+        "iso_3166_1": "PL",
+        "iso_639_1": "pl",
+        "name": "Polski",
+        "english_name": "Polish",
+        "data": {
+          "homepage": "",
+          "overview": "Gdyby dwunastoletni Karl mógł wybrać, w kim się zakocha, nie byłaby to znacznie wyższa Lea z jego klasy. Teraz nie ma wiele czasu, żeby przekonać się, czy Lea odwzajemni jego uczucia. Po wakacjach zmieni szkołę.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Jutro będę odważny"
+        }
+      },
+      {
+        "iso_3166_1": "LV",
+        "iso_639_1": "lv",
+        "name": "Latviešu",
+        "english_name": "Latvian",
+        "data": {
+          "homepage": "",
+          "overview": "Karlam patīk kāda meitene no klases, taču nelaime tā, ka Lea ir daudz garāka par viņu, un tas Karlam laupa drosmi viņu uzrunāt. Vecākais brālis Toms skubina viņu rīkoties – galu galā, pēc brīvdienām Lea mainīs skolu, un tad izdevība būs palaista vējā. Kad Karla klasei ir projektu nedēļa un skolēni nolemj uzņemt filmu par iemīlēšanos, Karls mēģina pārvērst sapņus īstenībā un satuvināties ar savu pirmo mīlestību.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Rīt es būšu drosmīgs"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt36968173",
+    "wikidata_id": "Q136419620",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 720,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/AgewnKMrhmoj9H90BZjQ0KW0gkZ.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1280
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.706,
+        "height": 1274,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/w5vbgWFlD72np3u8iWqLCgbueOd.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 900
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "HSBC German Film Festival",
+            "release_date": "2026-05-10T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Melbourne International Film Festival ",
+            "release_date": "2026-08-12T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "0",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-10-23T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "ALL",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Seoul International Children's Film Festival",
+            "release_date": "2025-09-12T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LT",
+        "release_dates": [
+          {
+            "certification": "V",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-09-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "LV",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-14T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-05-22T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "BUFF Malmö Film Festival",
+            "release_date": "2025-03-24T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

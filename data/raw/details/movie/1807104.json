@@ -1,0 +1,194 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 15000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1807104,
+  "imdb_id": null,
+  "origin_country": [
+    "VE",
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Ermitaño",
+  "overview": "A young programmer fools his boss after discovering an AI capable of doing his work in seconds, but the abundance of free time drags him into a physical transformation of Kafkaesque proportions.",
+  "popularity": 0.5401,
+  "poster_path": "/dnYTVGqe8scOXCZEP0cVNCaMat9.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "VE",
+      "name": "Venezuela"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2026-10-26",
+  "revenue": 0,
+  "runtime": 15,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "Hermit",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5242559,
+        "known_for_department": "Acting",
+        "name": "Oscar Belloso",
+        "original_name": "Oscar Belloso",
+        "popularity": 0.336,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Damian",
+        "credit_id": "6ade340552cc930f8a5778f5",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2724145,
+        "known_for_department": "Directing",
+        "name": "Manuel Palenzuela",
+        "original_name": "Manuel Palenzuela",
+        "popularity": 0.0784,
+        "profile_path": null,
+        "credit_id": "6adf949d7747e473e871e7d5",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 192008,
+        "name": "kafka"
+      },
+      {
+        "id": 283085,
+        "name": "body horror"
+      },
+      {
+        "id": 379502,
+        "name": "inteligencia artificial"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Un joven programador engaña a su jefe tras descubrir una inteligencia artificial capaz de hacer su trabajo en segundos. Pero el exceso de tiempo libre lo arrastra a una transformación física de proporciones kafkianas.",
+          "runtime": 15,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "A young programmer fools his boss after discovering an AI capable of doing his work in seconds, but the abundance of free time drags him into a physical transformation of Kafkaesque proportions.",
+          "runtime": 15,
+          "tagline": "",
+          "title": "Hermit"
+        }
+      },
+      {
+        "iso_3166_1": "MX",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Un joven programador engaña a su jefe tras descubrir una inteligencia artificial capaz de hacer su trabajo en segundos. Pero el exceso de tiempo libre lo arrastra a una transformación física de proporciones kafkianas.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Hermit",
+        "type": "International title"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.749,
+        "height": 1600,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/dnYTVGqe8scOXCZEP0cVNCaMat9.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1199
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Filmquest 2026",
+            "release_date": "2026-10-26T00:00:00.000Z",
+            "type": 5
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

@@ -1,0 +1,852 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 1579507,
+  "imdb_id": "tt38935343",
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_title": "Gece Mesaisi",
+  "overview": "Emrah, who works as a receptionist in the night shift of a boutique hotel, is constantly monitored by his boss Adem through security cameras and this surveillance becomes increasingly irritating.",
+  "popularity": 1.0105,
+  "poster_path": "/fheV3fCUF9ydbIPfFCsE9jhZBAS.jpg",
+  "production_companies": [
+    {
+      "id": 280258,
+      "logo_path": null,
+      "name": "KINKIN Film",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "release_date": "2025-11-14",
+  "revenue": 0,
+  "runtime": 20,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Night Shift",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3981491,
+        "known_for_department": "Acting",
+        "name": "Ekremcan Arslandağ",
+        "original_name": "Ekremcan Arslandag",
+        "popularity": 0.1892,
+        "profile_path": "/2aHnl8wUeooQf59loxfekOQKNf0.jpg",
+        "cast_id": 3,
+        "character": "Emrah",
+        "credit_id": "691490586907a239e64c9039",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1669670,
+        "known_for_department": "Acting",
+        "name": "Müfit Kayacan",
+        "original_name": "Müfit Kayacan",
+        "popularity": 0.6607,
+        "profile_path": "/2QVDWWQj45uOgnD2DUkB1tC5LWt.jpg",
+        "cast_id": 4,
+        "character": "Adem",
+        "credit_id": "6914905ececfcf4c7e9ad11f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5319675,
+        "known_for_department": "Acting",
+        "name": "Tuğçe Semiz",
+        "original_name": "Tuğçe Semiz",
+        "popularity": 0.0925,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Feryal",
+        "credit_id": "6914909ccf0d14c7a49c4adc",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4346275,
+        "known_for_department": "Acting",
+        "name": "Muhammet Kulu",
+        "original_name": "Muhammet Kulu",
+        "popularity": 0.2242,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Cemil",
+        "credit_id": "691490a255b34f734fa0d5b6",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3530856,
+        "known_for_department": "Acting",
+        "name": "Recep Alparslan Ceylan",
+        "original_name": "Recep Alparslan Ceylan",
+        "popularity": 0.1569,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Faruk",
+        "credit_id": "691490a93174b11fc0c06e2c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5812639,
+        "known_for_department": "Acting",
+        "name": "Melanie Ceyda Lebas",
+        "original_name": "Melanie Ceyda Lebas",
+        "popularity": 0.1689,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "French Female Tourist",
+        "credit_id": "691490ba540af423d04c91d8",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5812641,
+        "known_for_department": "Acting",
+        "name": "Marius Castillo",
+        "original_name": "Marius Castillo",
+        "popularity": 0.3179,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "French Male Tourist",
+        "credit_id": "691490c94ef72b612e31c0e4",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5812642,
+        "known_for_department": "Acting",
+        "name": "Foday Mansaray",
+        "original_name": "Foday Mansaray",
+        "popularity": 0.1203,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Sierra Leonean Tourist",
+        "credit_id": "691490d455b34f734fa0d5c1",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5814263,
+        "known_for_department": "Acting",
+        "name": "Sinem Toprak",
+        "original_name": "Sinem Toprak",
+        "popularity": 0.2384,
+        "profile_path": null,
+        "cast_id": 51,
+        "character": "Iranian Tourist",
+        "credit_id": "69158dd2908b0e308bac22aa",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5812644,
+        "known_for_department": "Acting",
+        "name": "Abdullah Kılınç",
+        "original_name": "Abdullah Kılınç",
+        "popularity": 0.0329,
+        "profile_path": null,
+        "cast_id": 52,
+        "character": "Drunk Man",
+        "credit_id": "69158ddd57e51d6fe73a3ff3",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5812645,
+        "known_for_department": "Acting",
+        "name": "Ayşe İmamoğlu",
+        "original_name": "Ayşe İmamoğlu",
+        "popularity": 0.0627,
+        "profile_path": null,
+        "cast_id": 53,
+        "character": "Housekeeper",
+        "credit_id": "69158de4aebdc1993d8765ef",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5812646,
+        "known_for_department": "Acting",
+        "name": "Ferhat Can",
+        "original_name": "Ferhat Can",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 54,
+        "character": "Bellboy",
+        "credit_id": "69158de90cbb5899053a40b8",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3530844,
+        "known_for_department": "Directing",
+        "name": "Salih Ortaçay",
+        "original_name": "Salih Ortaçay",
+        "popularity": 0.199,
+        "profile_path": null,
+        "credit_id": "6914904164a32b21624c8ec4",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3530844,
+        "known_for_department": "Directing",
+        "name": "Salih Ortaçay",
+        "original_name": "Salih Ortaçay",
+        "popularity": 0.199,
+        "profile_path": null,
+        "credit_id": "6914904a2f9649b50a4c9296",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3530856,
+        "known_for_department": "Acting",
+        "name": "Recep Alparslan Ceylan",
+        "original_name": "Recep Alparslan Ceylan",
+        "popularity": 0.1569,
+        "profile_path": null,
+        "credit_id": "69149069cecfcf4c7e9ad123",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 935222,
+        "known_for_department": "Camera",
+        "name": "Eyüp Boz",
+        "original_name": "Eyüp Boz",
+        "popularity": 0.2031,
+        "profile_path": null,
+        "credit_id": "691490757a7eb793f69ad443",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4205862,
+        "known_for_department": "Directing",
+        "name": "Dürdane Uçar",
+        "original_name": "Dürdane Uçar",
+        "popularity": 0.0372,
+        "profile_path": null,
+        "credit_id": "6914907f64a32b21624c8ecd",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4837949,
+        "known_for_department": "Art",
+        "name": "Aybüke Karakurum",
+        "original_name": "Aybüke Karakurum",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6914908ddc4f028746a0d702",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5812648,
+        "known_for_department": "Production",
+        "name": "Hüseyin İmamoğlu",
+        "original_name": "Hüseyin İmamoğlu",
+        "popularity": 0.0359,
+        "profile_path": null,
+        "credit_id": "69149100293cf5cbf03a3e11",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5812649,
+        "known_for_department": "Production",
+        "name": "Yasin Ortaçay",
+        "original_name": "Yasin Ortaçay",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "6914910763fc15e27b9c4b55",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5812650,
+        "known_for_department": "Production",
+        "name": "Seyhan Emrah Nergis",
+        "original_name": "Seyhan Emrah Nergis",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "691491105b452b4483a0d88e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3530844,
+        "known_for_department": "Directing",
+        "name": "Salih Ortaçay",
+        "original_name": "Salih Ortaçay",
+        "popularity": 0.199,
+        "profile_path": null,
+        "credit_id": "6914911a965b35bb239acf59",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5812639,
+        "known_for_department": "Acting",
+        "name": "Melanie Ceyda Lebas",
+        "original_name": "Melanie Ceyda Lebas",
+        "popularity": 0.1689,
+        "profile_path": null,
+        "credit_id": "691491289cdeac5534875f69",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2899366,
+        "known_for_department": "Sound",
+        "name": "İlkin Kitapçı",
+        "original_name": "İlkin Kitapçı",
+        "popularity": 0.0827,
+        "profile_path": null,
+        "credit_id": "691491322ea0461e539c4baf",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4863191,
+        "known_for_department": "Production",
+        "name": "A. Afrail Gök",
+        "original_name": "A. Afrail Gök",
+        "popularity": 0.1025,
+        "profile_path": null,
+        "credit_id": "6914913bcecfcf4c7e9ad12a",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5812654,
+        "known_for_department": "Sound",
+        "name": "Mustafa Emrah Bingöl",
+        "original_name": "Mustafa Emrah Bingöl",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69149147eacffe65b23a3af6",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5812656,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Konstantinos Passas",
+        "original_name": "Konstantinos Passas",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69149154567ac822129c4b49",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1604316,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Esma Keskin",
+        "original_name": "Esma Keskin",
+        "popularity": 0.0733,
+        "profile_path": null,
+        "credit_id": "6914915b2ea0461e539c4bb6",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5160768,
+        "known_for_department": "Production",
+        "name": "Cüneyt Uçar",
+        "original_name": "Cüneyt Uçar",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "691491623c6c3c652c4c9276",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5812663,
+        "known_for_department": "Camera",
+        "name": "Kürşat Duru",
+        "original_name": "Kürşat Duru",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "691491a3a04bfc56e49acf67",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3970942,
+        "known_for_department": "Camera",
+        "name": "Bugra Özcanbey",
+        "original_name": "Bugra Özcanbey",
+        "popularity": 0.0442,
+        "profile_path": null,
+        "credit_id": "691491aadc7b73f47c31c087",
+        "department": "Camera",
+        "job": "Focus Puller"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5812646,
+        "known_for_department": "Acting",
+        "name": "Ferhat Can",
+        "original_name": "Ferhat Can",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "691491b5a4a1c96cc831c267",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4863191,
+        "known_for_department": "Production",
+        "name": "A. Afrail Gök",
+        "original_name": "A. Afrail Gök",
+        "popularity": 0.1025,
+        "profile_path": null,
+        "credit_id": "691491c3a473cfb67d31c226",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5812667,
+        "known_for_department": "Camera",
+        "name": "Tuğba Tercan",
+        "original_name": "Tuğba Tercan",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "691491d13137c7daf1875e00",
+        "department": "Camera",
+        "job": "BTS Footage"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5812639,
+        "known_for_department": "Acting",
+        "name": "Melanie Ceyda Lebas",
+        "original_name": "Melanie Ceyda Lebas",
+        "popularity": 0.1689,
+        "profile_path": null,
+        "credit_id": "691491e20ff15da6849acf59",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5812669,
+        "known_for_department": "Production",
+        "name": "Muzaffer Duman",
+        "original_name": "Muzaffer Duman",
+        "popularity": 0.142,
+        "profile_path": null,
+        "credit_id": "691491ec965b35bb239acf80",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2960916,
+        "known_for_department": "Lighting",
+        "name": "Mehmet Uğuş",
+        "original_name": "Mehmet Uğuş",
+        "popularity": 0.1287,
+        "profile_path": null,
+        "credit_id": "6914921f5ffda4900c4c8efd",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5812675,
+        "known_for_department": "Lighting",
+        "name": "Volkan Gerçek",
+        "original_name": "Volkan Gerçek",
+        "popularity": 0.038,
+        "profile_path": null,
+        "credit_id": "69149234d1da7ed6a2876188",
+        "department": "Lighting",
+        "job": "Lighting Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3284410,
+        "known_for_department": "Production",
+        "name": "Erengül Öztürk",
+        "original_name": "Erengül Öztürk",
+        "popularity": 0.3656,
+        "profile_path": "/t5ZypDRaCNFDPEP3KoSwrOXhrpe.jpg",
+        "credit_id": "69149244c5c5faff3aa0d7e7",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3530860,
+        "known_for_department": "Production",
+        "name": "Ecem Gündoğan",
+        "original_name": "Ecem Gündoğan",
+        "popularity": 0.1037,
+        "profile_path": null,
+        "credit_id": "69149250c14a37294e4c8ec1",
+        "department": "Writing",
+        "job": "Script Consultant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2899214,
+        "known_for_department": "Directing",
+        "name": "Muhammed Günaydın",
+        "original_name": "Muhammed Günaydın",
+        "popularity": 0.1208,
+        "profile_path": null,
+        "credit_id": "6914925b526f9980699c49b9",
+        "department": "Writing",
+        "job": "Script Consultant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5812644,
+        "known_for_department": "Acting",
+        "name": "Abdullah Kılınç",
+        "original_name": "Abdullah Kılınç",
+        "popularity": 0.0329,
+        "profile_path": null,
+        "credit_id": "69149264b06013602fdd2f9b",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4863191,
+        "known_for_department": "Production",
+        "name": "A. Afrail Gök",
+        "original_name": "A. Afrail Gök",
+        "popularity": 0.1025,
+        "profile_path": null,
+        "credit_id": "691492822f9649b50a4c92cc",
+        "department": "Crew",
+        "job": "Post-Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3025555,
+        "known_for_department": "Editing",
+        "name": "Ciwan Zengin",
+        "original_name": "Ciwan Zengin",
+        "popularity": 0.1377,
+        "profile_path": null,
+        "credit_id": "691492903a7b019fa89ad2a9",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4384059,
+        "known_for_department": "Editing",
+        "name": "Cihangir Ay",
+        "original_name": "Cihangir Ay",
+        "popularity": 0.0501,
+        "profile_path": null,
+        "credit_id": "6914929b4f04bbcf4edd2f31",
+        "department": "Editing",
+        "job": "Color Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4376682,
+        "known_for_department": "Visual Effects",
+        "name": "Erkan Kutluözen",
+        "original_name": "Erkan Kutluözen",
+        "popularity": 0.1562,
+        "profile_path": null,
+        "credit_id": "691492a4c49fa5cfa4dd2f21",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1556862,
+        "known_for_department": "Sound",
+        "name": "Serdar Öngören",
+        "original_name": "Serdar Öngören",
+        "popularity": 0.0473,
+        "profile_path": null,
+        "credit_id": "691493103a7b019fa89ad2af",
+        "department": "Sound",
+        "job": "Sound Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5425645,
+        "known_for_department": "Sound",
+        "name": "Buğrahan Kara",
+        "original_name": "Buğrahan Kara",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "6914931c6e28e62421876150",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5719796,
+        "known_for_department": "Sound",
+        "name": "Tan Çağman",
+        "original_name": "Tan Çağman",
+        "popularity": 0.0616,
+        "profile_path": null,
+        "credit_id": "6914933ec91fc053addd2f06",
+        "department": "Sound",
+        "job": "Sound Effects Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5719794,
+        "known_for_department": "Sound",
+        "name": "Duygu Uyar",
+        "original_name": "Duygu Uyar",
+        "popularity": 0.0513,
+        "profile_path": null,
+        "credit_id": "691493454d06e33f414c8efb",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5719797,
+        "known_for_department": "Sound",
+        "name": "Selçuk Yılmaz",
+        "original_name": "Selçuk Yılmaz",
+        "popularity": 0.0467,
+        "profile_path": null,
+        "credit_id": "69149366a770ff38c5c06efc",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "TR",
+        "iso_639_1": "tr",
+        "name": "Türkçe",
+        "english_name": "Turkish",
+        "data": {
+          "homepage": "",
+          "overview": "Bir butik otelin gece mesaisinde resepsiyonist olarak çalışan Emrah, patronu Adem tarafından, güvenlik kameralarından sürekli olarak gözetlenmekte ve bu gözetlemeler git gide can sıkıcı bir hal almaktadır.",
+          "runtime": 20,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Emrah, who works as a receptionist in the night shift of a boutique hotel, is constantly monitored by his boss Adem through security cameras and this surveillance becomes increasingly irritating.",
+          "runtime": 20,
+          "tagline": "",
+          "title": "The Night Shift"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt38935343",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.707,
+        "height": 1280,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/3FWcUr0QMeZ29XOXbjTz8JNi2je.jpg",
+        "vote_average": 3.334,
+        "vote_count": 2,
+        "width": 905
+      },
+      {
+        "aspect_ratio": 0.707,
+        "height": 1280,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/3WJrq3sY7JvCKlpdo3OPaEUjp9Y.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 905
+      },
+      {
+        "aspect_ratio": 0.707,
+        "height": 1280,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/7W2yDhSrXShTw8hl1Ehpq576lOn.jpg",
+        "vote_average": 3.334,
+        "vote_count": 2,
+        "width": 905
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 2351,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/qEYImwZ3Q2EtZRgA0bJmqHmZsSL.jpg",
+        "vote_average": 2.278,
+        "vote_count": 3,
+        "width": 1567
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "tr",
+            "note": "24. Miami Short Film Festival",
+            "release_date": "2025-11-14T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

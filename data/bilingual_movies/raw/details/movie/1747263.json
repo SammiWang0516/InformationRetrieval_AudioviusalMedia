@@ -1,0 +1,974 @@
+{
+  "adult": false,
+  "backdrop_path": "/xWRDTpmkxrzAM1b9Zhb5ZoFtWcu.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "",
+  "id": 1747263,
+  "imdb_id": "tt43753798",
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_title": "Esperança",
+  "overview": "A 12-year-old Black girl dreams of becoming a professional soccer player in the outskirts of Brazil, facing exclusion on the field and resistance at home.",
+  "popularity": 1.2006,
+  "poster_path": "/d0M6IVgeq4v0uzqQuywb7XCOEq8.jpg",
+  "production_companies": [
+    {
+      "id": 178926,
+      "logo_path": "/stskfPqRyiH7tssi4u2HrAsCfvN.png",
+      "name": "Combo Studio",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "release_date": "2026-07-16",
+  "revenue": 0,
+  "runtime": 14,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Esperança",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3376822,
+        "known_for_department": "Acting",
+        "name": "Isabele Riccart",
+        "original_name": "Isabele Riccart",
+        "popularity": 0.1987,
+        "profile_path": "/aYWePboAXWpHC8EPA272c6WLLG.jpg",
+        "cast_id": 12,
+        "character": "Esperança (voice)",
+        "credit_id": "6aa1501af736d5075e23bbba",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3568675,
+        "known_for_department": "Acting",
+        "name": "Sarito Rodrigues",
+        "original_name": "Sarito Rodrigues",
+        "popularity": 0.0415,
+        "profile_path": "/nLcnD5xlXGj1igFOWgBzFT4OUeM.jpg",
+        "cast_id": 13,
+        "character": "Vó Idalina (voice)",
+        "credit_id": "6aa1502c603e6edf18aabf52",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4762727,
+        "known_for_department": "Acting",
+        "name": "Hector Gomes",
+        "original_name": "Hector Gomes",
+        "popularity": 0.2288,
+        "profile_path": "/y2U0fbGrINtmqCqullSqTFDqzXE.jpg",
+        "cast_id": 14,
+        "character": "Pai (voice)",
+        "credit_id": "6aa15040edf248aaf1df3d76",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6466939,
+        "known_for_department": "Acting",
+        "name": "Victor Hugo Fernandes",
+        "original_name": "Victor Hugo Fernandes",
+        "popularity": 0.2913,
+        "profile_path": "/7D8z6b3PQV7nDb6TdwQhQyCmlH8.jpg",
+        "cast_id": 15,
+        "character": "Juiz / Meninos (voice)",
+        "credit_id": "6aa155cb42fde04d784fcefe",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6403572,
+        "known_for_department": "Directing",
+        "name": "Amora Moreira",
+        "original_name": "Amora Moreira",
+        "popularity": 0.1329,
+        "profile_path": "/s7qYf7aq2euPA09waDsrlYEb3sz.jpg",
+        "credit_id": "6a7a7b466b5c31a23886f0ad",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1814662,
+        "known_for_department": "Writing",
+        "name": "Mariani Ferreira",
+        "original_name": "Mariani Ferreira",
+        "popularity": 0.1939,
+        "profile_path": null,
+        "credit_id": "6aa14d6f603e6edf18aabf16",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3478340,
+        "known_for_department": "Creator",
+        "name": "Marcelo Pereira",
+        "original_name": "Marcelo Pereira",
+        "popularity": 0.1881,
+        "profile_path": "/1mqI33UdTbhztxRkx556QGad3JE.jpg",
+        "credit_id": "6aa14db30d31d4a218e8320b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3478340,
+        "known_for_department": "Creator",
+        "name": "Marcelo Pereira",
+        "original_name": "Marcelo Pereira",
+        "popularity": 0.1881,
+        "profile_path": "/1mqI33UdTbhztxRkx556QGad3JE.jpg",
+        "credit_id": "6aa14ddb352738fb6aaac103",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3660568,
+        "known_for_department": "Editing",
+        "name": "Raphael Fontenelle",
+        "original_name": "Raphael Fontenelle",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6aa14e765b1d4ac4960eb759",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3860796,
+        "known_for_department": "Art",
+        "name": "Mário Proença",
+        "original_name": "Mário Proença",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6aa14e83dd648b6d23df3c36",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4613070,
+        "known_for_department": "Sound",
+        "name": "Fernando Ianni",
+        "original_name": "Fernando Ianni",
+        "popularity": 0.2001,
+        "profile_path": null,
+        "credit_id": "6aa14ebe30683242375ad4b3",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6466908,
+        "known_for_department": "Sound",
+        "name": "Rodrigo Funai Costa",
+        "original_name": "Rodrigo Funai Costa",
+        "popularity": 0.5254,
+        "profile_path": null,
+        "credit_id": "6aa14f356279f05307df3b7f",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6466911,
+        "known_for_department": "Sound",
+        "name": "Adilson Júnior",
+        "original_name": "Adilson Júnior",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6aa14fda8430462054df3d9d",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3660560,
+        "known_for_department": "Production",
+        "name": "Alexandra Casanova",
+        "original_name": "Alexandra Casanova",
+        "popularity": 0.1636,
+        "profile_path": null,
+        "credit_id": "6aa173028a7378aed35ad796",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6467181,
+        "known_for_department": "Production",
+        "name": "Flavia Gurgel",
+        "original_name": "Flavia Gurgel",
+        "popularity": 0.0639,
+        "profile_path": null,
+        "credit_id": "6aa173238fbffa6283c9368f",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6467182,
+        "known_for_department": "Production",
+        "name": "Rafael Vasco",
+        "original_name": "Rafael Vasco",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6aa1733bc6a373d043df3f18",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4465068,
+        "known_for_department": "Writing",
+        "name": "Gabriel Franklin",
+        "original_name": "Gabriel Franklin",
+        "popularity": 0.0921,
+        "profile_path": null,
+        "credit_id": "6aa1735711975a37bf0ebdd7",
+        "department": "Writing",
+        "job": "Storyboard"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6123379,
+        "known_for_department": "Writing",
+        "name": "Heitor Pinheiro",
+        "original_name": "Heitor Pinheiro",
+        "popularity": 0.0659,
+        "profile_path": null,
+        "credit_id": "6aa17368d989739ab94fcf0e",
+        "department": "Writing",
+        "job": "Storyboard"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6467184,
+        "known_for_department": "Writing",
+        "name": "Tadeu Cavalcanti",
+        "original_name": "Tadeu Cavalcanti",
+        "popularity": 0.0463,
+        "profile_path": null,
+        "credit_id": "6aa1737be103ea4c52e832fc",
+        "department": "Writing",
+        "job": "Storyboard"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3660568,
+        "known_for_department": "Editing",
+        "name": "Raphael Fontenelle",
+        "original_name": "Raphael Fontenelle",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6aa173c0cd1b9d13074fcde4",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6467190,
+        "known_for_department": "Production",
+        "name": "Caio Martins",
+        "original_name": "Caio Martins",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6aa1742a48c382340c3198fb",
+        "department": "Production",
+        "job": "Development Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6467181,
+        "known_for_department": "Production",
+        "name": "Flavia Gurgel",
+        "original_name": "Flavia Gurgel",
+        "popularity": 0.0639,
+        "profile_path": null,
+        "credit_id": "6aa17439352738fb6aaac305",
+        "department": "Production",
+        "job": "Development Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3478340,
+        "known_for_department": "Creator",
+        "name": "Marcelo Pereira",
+        "original_name": "Marcelo Pereira",
+        "popularity": 0.1881,
+        "profile_path": "/1mqI33UdTbhztxRkx556QGad3JE.jpg",
+        "credit_id": "6aa1744b48c382340c3198ff",
+        "department": "Production",
+        "job": "Development Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4046988,
+        "known_for_department": "Directing",
+        "name": "Nathália C. Forte",
+        "original_name": "Nathália C. Forte",
+        "popularity": 0.0923,
+        "profile_path": null,
+        "credit_id": "6aa174694bdec3669e0ebab5",
+        "department": "Production",
+        "job": "Development Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6467196,
+        "known_for_department": "Production",
+        "name": "Rafael Castro",
+        "original_name": "Rafael Castro",
+        "popularity": 0.0893,
+        "profile_path": null,
+        "credit_id": "6aa174a22589d80dea31971b",
+        "department": "Production",
+        "job": "Development Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6467198,
+        "known_for_department": "Production",
+        "name": "Silva João",
+        "original_name": "Silva João",
+        "popularity": 0.0378,
+        "profile_path": null,
+        "credit_id": "6aa1750d623300ec10df3f0e",
+        "department": "Production",
+        "job": "Development Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6467205,
+        "known_for_department": "Art",
+        "name": "Arthur Tavares",
+        "original_name": "Arthur Tavares",
+        "popularity": 0.0337,
+        "profile_path": null,
+        "credit_id": "6aa1762df736d5075e23bd9b",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6467216,
+        "known_for_department": "Art",
+        "name": "Diego Luis",
+        "original_name": "Diego Luis",
+        "popularity": 0.0498,
+        "profile_path": null,
+        "credit_id": "6aa17728b4370b5d18aac1d3",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6467217,
+        "known_for_department": "Art",
+        "name": "Geizon Vieira",
+        "original_name": "Geizon Vieira",
+        "popularity": 0.0655,
+        "profile_path": null,
+        "credit_id": "6aa177383d06827d005ad7c9",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6467220,
+        "known_for_department": "Art",
+        "name": "Giovanna Favetta",
+        "original_name": "Giovanna Favetta",
+        "popularity": 0.0636,
+        "profile_path": null,
+        "credit_id": "6aa1779c670f86c567c935d5",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6467205,
+        "known_for_department": "Art",
+        "name": "Arthur Tavares",
+        "original_name": "Arthur Tavares",
+        "popularity": 0.0337,
+        "profile_path": null,
+        "credit_id": "6aa177e70ce83260e5e8348a",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6467190,
+        "known_for_department": "Production",
+        "name": "Caio Martins",
+        "original_name": "Caio Martins",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6aa177f761c6013c3e23bfe9",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6467229,
+        "known_for_department": "Visual Effects",
+        "name": "Eduarda Coelho",
+        "original_name": "Eduarda Coelho",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6aa17876c6a373d043df3f9b",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6467232,
+        "known_for_department": "Visual Effects",
+        "name": "Francisco Castro",
+        "original_name": "Francisco Castro",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6aa178b42f363996d2e833f1",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6467234,
+        "known_for_department": "Visual Effects",
+        "name": "Gabi Vasko",
+        "original_name": "Gabi Vasko",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6aa178c4cd22f28821df3f5a",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6467184,
+        "known_for_department": "Writing",
+        "name": "Tadeu Cavalcanti",
+        "original_name": "Tadeu Cavalcanti",
+        "popularity": 0.0463,
+        "profile_path": null,
+        "credit_id": "6aa178cff736d5075e23bdd4",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4046987,
+        "known_for_department": "Directing",
+        "name": "Vitor Campos",
+        "original_name": "Vitor Campos",
+        "popularity": 0.1925,
+        "profile_path": null,
+        "credit_id": "6aa17919019546b0b70ebabe",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6467242,
+        "known_for_department": "Visual Effects",
+        "name": "Ale Barreto",
+        "original_name": "Ale Barreto",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6aa17944c516286e36c9368f",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6467245,
+        "known_for_department": "Visual Effects",
+        "name": "Felipe Massashi",
+        "original_name": "Felipe Massashi",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6aa179556749b4c5bb0ebcd5",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6467247,
+        "known_for_department": "Visual Effects",
+        "name": "Gabi Takemae",
+        "original_name": "Gabi Takemae",
+        "popularity": 0.0354,
+        "profile_path": null,
+        "credit_id": "6aa17965b47d9531424fd0c6",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6467248,
+        "known_for_department": "Visual Effects",
+        "name": "Lucas Batalha",
+        "original_name": "Lucas Batalha",
+        "popularity": 0.0413,
+        "profile_path": null,
+        "credit_id": "6aa1797b9903e30d84c93685",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4586588,
+        "known_for_department": "Visual Effects",
+        "name": "Padhyma Nathercya",
+        "original_name": "Padhyma Nathercya",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6aa179aafcaea82df3aac3ad",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5087831,
+        "known_for_department": "Writing",
+        "name": "Péricles Ianuch",
+        "original_name": "Péricles Ianuch",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6aa179b9d989739ab94fcf76",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6467287,
+        "known_for_department": "Visual Effects",
+        "name": "Mariana Marcondes",
+        "original_name": "Mariana Marcondes",
+        "popularity": 0.0698,
+        "profile_path": "/ylYZMc8tLQiXHNjCtUiYo6Ok2OO.jpg",
+        "credit_id": "6aa17ae05b1d4ac4960eb934",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3660568,
+        "known_for_department": "Editing",
+        "name": "Raphael Fontenelle",
+        "original_name": "Raphael Fontenelle",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6aa17d7d48c382340c31996f",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6467305,
+        "known_for_department": "Visual Effects",
+        "name": "Mário Almeida",
+        "original_name": "Mário Almeida",
+        "popularity": 0.0473,
+        "profile_path": "/eE1dcLP4KIfM7fe2XyBHrMtJYrP.jpg",
+        "credit_id": "6aa17f49ea345d69d5e08fee",
+        "department": "Visual Effects",
+        "job": "Compositing Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2000482,
+        "known_for_department": "Sound",
+        "name": "Marcelo Cyro",
+        "original_name": "Marcelo Cyro",
+        "popularity": 0.3529,
+        "profile_path": null,
+        "credit_id": "6aa18131d98ca3224f318f01",
+        "department": "Sound",
+        "job": "Sound Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2000482,
+        "known_for_department": "Sound",
+        "name": "Marcelo Cyro",
+        "original_name": "Marcelo Cyro",
+        "popularity": 0.3529,
+        "profile_path": null,
+        "credit_id": "6aa1815bcd22f28821df4015",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4613070,
+        "known_for_department": "Sound",
+        "name": "Fernando Ianni",
+        "original_name": "Fernando Ianni",
+        "popularity": 0.2001,
+        "profile_path": null,
+        "credit_id": "6aa1817a27ecc8bbe14f3ecc",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6466908,
+        "known_for_department": "Sound",
+        "name": "Rodrigo Funai Costa",
+        "original_name": "Rodrigo Funai Costa",
+        "popularity": 0.5254,
+        "profile_path": null,
+        "credit_id": "6aa18188a4f3e2f7cb4f3eb4",
+        "department": "Sound",
+        "job": "Foley"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6467314,
+        "known_for_department": "Sound",
+        "name": "Thalles Moretenson",
+        "original_name": "Thalles Moretenson",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6aa181c5edf248aaf1df40b6",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6467316,
+        "known_for_department": "Sound",
+        "name": "David Mazzucca",
+        "original_name": "David Mazzucca",
+        "popularity": 0.0447,
+        "profile_path": null,
+        "credit_id": "6aa181f9d989739ab94fcfc8",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4613070,
+        "known_for_department": "Sound",
+        "name": "Fernando Ianni",
+        "original_name": "Fernando Ianni",
+        "popularity": 0.2001,
+        "profile_path": null,
+        "credit_id": "6aa1820830683242375ad8b1",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2000482,
+        "known_for_department": "Sound",
+        "name": "Marcelo Cyro",
+        "original_name": "Marcelo Cyro",
+        "popularity": 0.3529,
+        "profile_path": null,
+        "credit_id": "6aa18217cd1b9d13074fceb2",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6466908,
+        "known_for_department": "Sound",
+        "name": "Rodrigo Funai Costa",
+        "original_name": "Rodrigo Funai Costa",
+        "popularity": 0.5254,
+        "profile_path": null,
+        "credit_id": "6aa18224f8c5aa982be08fed",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6467325,
+        "known_for_department": "Production",
+        "name": "Juliana Galli",
+        "original_name": "Juliana Galli",
+        "popularity": 0.0478,
+        "profile_path": null,
+        "credit_id": "6aa184e714663b8f5dc14d9b",
+        "department": "Production",
+        "job": "Coordinating Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1564779,
+        "known_for_department": "Acting",
+        "name": "Melissa Garcia",
+        "original_name": "Melissa Garcia",
+        "popularity": 0.57,
+        "profile_path": "/oKVQKNUlWsG8lDCMRRm2r1b45CX.jpg",
+        "credit_id": "6aa18543f52b2cc7c5d4e8b4",
+        "department": "Sound",
+        "job": "Vocal Coach"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 13042,
+        "name": "football (soccer)"
+      },
+      {
+        "id": 333328,
+        "name": "sport"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "A 12-year-old Black girl dreams of becoming a professional soccer player in the outskirts of Brazil, facing exclusion on the field and resistance at home.",
+          "runtime": 14,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "BR",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "homepage": "",
+          "overview": "A história de uma menina negra de 12 anos que sonha em se tornar jogadora de futebol profissional na periferia do Brasil, enfrentando exclusão em campo e resistência em casa.",
+          "runtime": 14,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt43753798",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.775,
+        "height": 721,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/xWRDTpmkxrzAM1b9Zhb5ZoFtWcu.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1280
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 720,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/clRtOBVOam6ux77rTlqXGccl0LQ.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1280
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/dMgFfJ5V2pvj6dD4gAM2kzshVxB.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/8lM0fWMbXLK3ZODvBHrdNTwXx8x.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/wp90UoxUqMxsPRAb9sxhtH02h9I.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/1lM0zTdqJn3mk4lWpnJs0A2NrfZ.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/A41Q5MfehNARp4LeYdOjQlnHOHK.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      }
+    ],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "L",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Rio de Janeiro International Film Festival",
+            "release_date": "2026-10-08T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "pt",
+            "note": "Screened at CINEfoot - Cinema & Futebol (Estação Claro Rio, Botafogo, Rio de Janeiro, RJ, Brazil ).",
+            "release_date": "2026-08-10T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Screened at Cartoon Club, Rimini, Italy.",
+            "release_date": "2026-07-16T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

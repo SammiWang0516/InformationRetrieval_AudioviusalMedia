@@ -1,0 +1,754 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1773050,
+  "imdb_id": "tt42879380",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Fed Up",
+  "overview": "Twila, a morally conscious cannibal, struggles to resist a dangerously primal obsession with her insecure boyfriend, Gerlach.",
+  "popularity": 0.8334,
+  "poster_path": "/rLLps95d6CBNYGpZxfqHnTPyN0f.jpg",
+  "production_companies": [
+    {
+      "id": 174372,
+      "logo_path": null,
+      "name": "VCUarts Cinema",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-02-01",
+  "revenue": 0,
+  "runtime": 9,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Fed Up",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6485856,
+        "known_for_department": "Acting",
+        "name": "Michelle Roux",
+        "original_name": "Michelle Roux",
+        "popularity": 0.1587,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Twila",
+        "credit_id": "6aac57f67f3de0358935edce",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6485859,
+        "known_for_department": "Acting",
+        "name": "Kishan Rayan Patel",
+        "original_name": "Kishan Rayan Patel",
+        "popularity": 0.1552,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Gerlach",
+        "credit_id": "6aac58228d77e7c1657322b7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1964508,
+        "known_for_department": "Acting",
+        "name": "Scott Gaver",
+        "original_name": "Scott Gaver",
+        "popularity": 0.1868,
+        "profile_path": "/l3mvS944qfJAcw42kmtyEEHrtNp.jpg",
+        "cast_id": 3,
+        "character": "Davud",
+        "credit_id": "6aac58366a979acbf7c2ad90",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6239511,
+        "known_for_department": "Acting",
+        "name": "Frank Creasy",
+        "original_name": "Frank Creasy",
+        "popularity": 0.0575,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Fred",
+        "credit_id": "6aac584de14178d0bb5bcd66",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4851317,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sparrow Jackson",
+        "original_name": "Sparrow Jackson",
+        "popularity": 0.0588,
+        "profile_path": null,
+        "credit_id": "6aac58d5ac28e686fc3caa5d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6485868,
+        "known_for_department": "Directing",
+        "name": "Isabella Aursby",
+        "original_name": "Isabella Aursby",
+        "popularity": 0.2368,
+        "profile_path": null,
+        "credit_id": "6aac5902e1c0a8973ec2ad81",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3846442,
+        "known_for_department": "Directing",
+        "name": "May Suri",
+        "original_name": "May Suri",
+        "popularity": 0.1339,
+        "profile_path": null,
+        "credit_id": "6aac5910c61e5cc0fe2b067b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4254245,
+        "known_for_department": "Editing",
+        "name": "Addison Dephillip",
+        "original_name": "Addison Dephillip",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6aac591c2e1bf599bc7325ee",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6485871,
+        "known_for_department": "Production",
+        "name": "Maggi Hubbard",
+        "original_name": "Maggi Hubbard",
+        "popularity": 0.054,
+        "profile_path": null,
+        "credit_id": "6aac593985dde7fa84b44332",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5260052,
+        "known_for_department": "Acting",
+        "name": "Jakob Tyree",
+        "original_name": "Jakob Tyree",
+        "popularity": 0.1457,
+        "profile_path": null,
+        "credit_id": "6aac595759191e2e3b708dac",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4851309,
+        "known_for_department": "Art",
+        "name": "Michelle Ghee",
+        "original_name": "Michelle Ghee",
+        "popularity": 0.1035,
+        "profile_path": null,
+        "credit_id": "6aac5967a4f01435f05e7b3d",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6485873,
+        "known_for_department": "Directing",
+        "name": "Jason Casazza",
+        "original_name": "Jason Casazza",
+        "popularity": 0.0675,
+        "profile_path": null,
+        "credit_id": "6aac597533834d7153c2ad7a",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4516492,
+        "known_for_department": "Art",
+        "name": "Aurelio Babbit",
+        "original_name": "Aurelio Babbit",
+        "popularity": 0.0679,
+        "profile_path": null,
+        "credit_id": "6aac5981521d5bd82a5bcd58",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5260056,
+        "known_for_department": "Directing",
+        "name": "Suren Amini",
+        "original_name": "Suren Amini",
+        "popularity": 0.0369,
+        "profile_path": null,
+        "credit_id": "6aac598f4d33e9774a708dd0",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6485876,
+        "known_for_department": "Production",
+        "name": "Elijah Hess",
+        "original_name": "Elijah Hess",
+        "popularity": 0.0363,
+        "profile_path": null,
+        "credit_id": "6aac59bc9b45d8fb4fb44339",
+        "department": "Production",
+        "job": "Location Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4851314,
+        "known_for_department": "Production",
+        "name": "Kayla Finley",
+        "original_name": "Kayla Finley",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "6aac59cca71d45c638a5bc94",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4851299,
+        "known_for_department": "Camera",
+        "name": "Steven Graham",
+        "original_name": "Steven Graham",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6aac59d99b45d8fb4fb4433c",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4875363,
+        "known_for_department": "Production",
+        "name": "Carly Hough",
+        "original_name": "Carly Hough",
+        "popularity": 0.1709,
+        "profile_path": null,
+        "credit_id": "6aac59e5cbc745c2bc35edc2",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6485881,
+        "known_for_department": "Production",
+        "name": "Chris Philbin",
+        "original_name": "Chris Philbin",
+        "popularity": 0.0401,
+        "profile_path": null,
+        "credit_id": "6aac59f45f585dd5f10c1343",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6485881,
+        "known_for_department": "Production",
+        "name": "Chris Philbin",
+        "original_name": "Chris Philbin",
+        "popularity": 0.0401,
+        "profile_path": null,
+        "credit_id": "6aac59fb4572aa7622a5bcb3",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6485888,
+        "known_for_department": "Camera",
+        "name": "Ella Saba",
+        "original_name": "Ella Saba",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6aac5a5206868f12e15bcd24",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6485886,
+        "known_for_department": "Camera",
+        "name": "Joseph Bury",
+        "original_name": "Joseph Bury",
+        "popularity": 0.1069,
+        "profile_path": null,
+        "credit_id": "6aac5a62e7e02b79755e7b66",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5353371,
+        "known_for_department": "Acting",
+        "name": "Jason Husein Brown",
+        "original_name": "Jason Husein Brown",
+        "popularity": 0.0772,
+        "profile_path": null,
+        "credit_id": "6aac5a9554839d42d03cc011",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6485895,
+        "known_for_department": "Camera",
+        "name": "Evan Fagen",
+        "original_name": "Evan Fagen",
+        "popularity": 0.0649,
+        "profile_path": null,
+        "credit_id": "6aac5aa6d8e50148db5bcd7b",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4851294,
+        "known_for_department": "Writing",
+        "name": "Jacob Skammer",
+        "original_name": "Jacob Skammer",
+        "popularity": 0.1116,
+        "profile_path": null,
+        "credit_id": "6aac5ab1dba17c93d20c1320",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6022892,
+        "known_for_department": "Acting",
+        "name": "Ryan Fish",
+        "original_name": "Ryan Fish",
+        "popularity": 0.0488,
+        "profile_path": null,
+        "credit_id": "6aac5abb26818487733caaf3",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4851299,
+        "known_for_department": "Camera",
+        "name": "Steven Graham",
+        "original_name": "Steven Graham",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6aac5ac82862265afc3cab0a",
+        "department": "Lighting",
+        "job": "Best Boy Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6413717,
+        "known_for_department": "Editing",
+        "name": "Amanda Ramirez",
+        "original_name": "Amanda Ramirez",
+        "popularity": 0.053,
+        "profile_path": null,
+        "credit_id": "6aac5aea235c342b5e5bcd78",
+        "department": "Crew",
+        "job": "Generator Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4851298,
+        "known_for_department": "Art",
+        "name": "Rebecca Gendron",
+        "original_name": "Rebecca Gendron",
+        "popularity": 0.0565,
+        "profile_path": null,
+        "credit_id": "6aac5af463e0ec6ce571f5e1",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5260049,
+        "known_for_department": "Acting",
+        "name": "Lily Dunlap",
+        "original_name": "Lily Dunlap",
+        "popularity": 0.2714,
+        "profile_path": null,
+        "credit_id": "6aac5afd521d5bd82a5bcd67",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4851332,
+        "known_for_department": "Production",
+        "name": "Nicholas Nohe",
+        "original_name": "Nicholas Nohe",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6aac5b07a4e326b0e8c2ad87",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4851314,
+        "known_for_department": "Production",
+        "name": "Kayla Finley",
+        "original_name": "Kayla Finley",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "6aac5b0f90d6d406907322a7",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4851329,
+        "known_for_department": "Production",
+        "name": "Tamia Booker",
+        "original_name": "Tamia Booker",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "6aac5b1956b7065f41708dea",
+        "department": "Camera",
+        "job": "Dolly Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6485897,
+        "known_for_department": "Camera",
+        "name": "Zack March",
+        "original_name": "Zack March",
+        "popularity": 0.0521,
+        "profile_path": null,
+        "credit_id": "6aac5b272b8d08fb503cab08",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6485898,
+        "known_for_department": "Camera",
+        "name": "Henry Jobe",
+        "original_name": "Henry Jobe",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "6aac5b3baf2bf8d9782b0711",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6485900,
+        "known_for_department": "Production",
+        "name": "Stone Thurman",
+        "original_name": "Stone Thurman",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6aac5b676875e9d26b5e7b1b",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6413729,
+        "known_for_department": "Directing",
+        "name": "Luc Gearon",
+        "original_name": "Luc Gearon",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6aac5b7a5f585dd5f10c1354",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6485902,
+        "known_for_department": "Art",
+        "name": "Noah Haller",
+        "original_name": "Noah Haller",
+        "popularity": 0.1239,
+        "profile_path": null,
+        "credit_id": "6aac5ba24cd6f1cd9b708e05",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4254245,
+        "known_for_department": "Editing",
+        "name": "Addison Dephillip",
+        "original_name": "Addison Dephillip",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6aac5bb66c7b7465f02b0706",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6413726,
+        "known_for_department": "Sound",
+        "name": "Avery Parker",
+        "original_name": "Avery Parker",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "6aac5bc6384498ffbbb44303",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5801682,
+        "known_for_department": "Acting",
+        "name": "Quinn Conein",
+        "original_name": "Quinn Conein",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6aac5bd2a4f01435f05e7b4c",
+        "department": "Art",
+        "job": "Assistant Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6485903,
+        "known_for_department": "Art",
+        "name": "Alyssa Hughes",
+        "original_name": "Alyssa Hughes",
+        "popularity": 0.1124,
+        "profile_path": null,
+        "credit_id": "6aac5be1fc9b8d6c940c12f7",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4851334,
+        "known_for_department": "Production",
+        "name": "Asher Greene",
+        "original_name": "Asher Greene",
+        "popularity": 0.0597,
+        "profile_path": null,
+        "credit_id": "6aac5bebefd39c12c7a5bc7d",
+        "department": "Art",
+        "job": "Assistant Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6413715,
+        "known_for_department": "Production",
+        "name": "Rania Ashoor",
+        "original_name": "Rania Ashoor",
+        "popularity": 0.0688,
+        "profile_path": null,
+        "credit_id": "6aac5c0c0a6206b97a03393c",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4851312,
+        "known_for_department": "Art",
+        "name": "Philippe Grard",
+        "original_name": "Philippe Grard",
+        "popularity": 0.0413,
+        "profile_path": null,
+        "credit_id": "6aac5c15fc9b8d6c940c12fa",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3846442,
+        "known_for_department": "Directing",
+        "name": "May Suri",
+        "original_name": "May Suri",
+        "popularity": 0.1339,
+        "profile_path": null,
+        "credit_id": "6aac5c1ef1b52221933caab5",
+        "department": "Sound",
+        "job": "Utility Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6485888,
+        "known_for_department": "Camera",
+        "name": "Ella Saba",
+        "original_name": "Ella Saba",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6aac5c296875e9d26b5e7b2b",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4851314,
+        "known_for_department": "Production",
+        "name": "Kayla Finley",
+        "original_name": "Kayla Finley",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "6aac5c2f7fc5f19ec95bcd89",
+        "department": "Crew",
+        "job": "Driver"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Twila, a morally conscious cannibal, struggles to resist a dangerously primal obsession with her insecure boyfriend, Gerlach.",
+          "runtime": 9,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt42879380",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/rLLps95d6CBNYGpZxfqHnTPyN0f.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2025-02-01T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

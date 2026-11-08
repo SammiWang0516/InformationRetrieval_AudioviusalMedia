@@ -1,0 +1,657 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1705225,
+  "imdb_id": null,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_title": "REBORDOSE",
+  "overview": "Ramona spends a night of excess with her best friend, but a tragedy at dawn changes everything. Haunted by the trauma, she must face consequences that will alter her life forever, trapping her in a reality that feels like an endless hangover.",
+  "popularity": 0.1585,
+  "poster_path": "/AvLo3GYUh3JaXtqNNEZX36C3YZT.jpg",
+  "production_companies": [
+    {
+      "id": 229682,
+      "logo_path": "/vR3n3NNXPUCucuajIaesPc10dgL.png",
+      "name": "ARQUEIRO",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "release_date": "2026-10-21",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "There are parts of ourselves that only emerge at night.",
+  "title": "REBORDOSE",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6252463,
+        "known_for_department": "Acting",
+        "name": "Luana Chiabi",
+        "original_name": "Luana Chiabi",
+        "popularity": 0.0869,
+        "profile_path": "/6KG5GNjKueWgPapIb1ZgW3aeBbI.jpg",
+        "cast_id": 1,
+        "character": "Ramona",
+        "credit_id": "6a1b4ea6a1a2c21ee97f6bf1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6252464,
+        "known_for_department": "Acting",
+        "name": "Lara Louzada",
+        "original_name": "Lara Louzada",
+        "popularity": 0.0971,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Catarina",
+        "credit_id": "6a1b4ebe48d5587ce508b7b9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6252483,
+        "known_for_department": "Acting",
+        "name": "Fabìola Botelho",
+        "original_name": "Fabìola Botelho",
+        "popularity": 0.0927,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "Coordinator of Coletivo Margem",
+        "credit_id": "6a1b518dfd2a4851657f6c04",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6381374,
+        "known_for_department": "Acting",
+        "name": "Rita Hamdan",
+        "original_name": "Rita Hamdan",
+        "popularity": 0.0852,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "Member of Coletivo Margem",
+        "credit_id": "6a6c9444f6a67904714e01ee",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6252467,
+        "known_for_department": "Directing",
+        "name": "Lívia Sandim",
+        "original_name": "Lívia Sandim",
+        "popularity": 0.1043,
+        "profile_path": "/c2PoKnwbHNQLazmyD2G1kd0W6a7.jpg",
+        "credit_id": "6a1b4f1c09cdb4c6ad35ff07",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6052371,
+        "known_for_department": "Acting",
+        "name": "Lucas Hamdan",
+        "original_name": "Lucas Hamdan",
+        "popularity": 0.091,
+        "profile_path": null,
+        "credit_id": "6a1b4f3727467bf8bbc92eac",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6252467,
+        "known_for_department": "Directing",
+        "name": "Lívia Sandim",
+        "original_name": "Lívia Sandim",
+        "popularity": 0.1043,
+        "profile_path": "/c2PoKnwbHNQLazmyD2G1kd0W6a7.jpg",
+        "credit_id": "6a1b4f4eb3721581597f6bd9",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6252467,
+        "known_for_department": "Directing",
+        "name": "Lívia Sandim",
+        "original_name": "Lívia Sandim",
+        "popularity": 0.1043,
+        "profile_path": "/c2PoKnwbHNQLazmyD2G1kd0W6a7.jpg",
+        "credit_id": "6a1b4f5d1fae5913187f6b6c",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6252469,
+        "known_for_department": "Crew",
+        "name": "Laura Sanglard",
+        "original_name": "Laura Sanglard",
+        "popularity": 0.0948,
+        "profile_path": null,
+        "credit_id": "6a1b4f74ab9d4131cb52b9e4",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6252469,
+        "known_for_department": "Crew",
+        "name": "Laura Sanglard",
+        "original_name": "Laura Sanglard",
+        "popularity": 0.0948,
+        "profile_path": null,
+        "credit_id": "6a1b4f85d921b761ed07a0ca",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6252469,
+        "known_for_department": "Crew",
+        "name": "Laura Sanglard",
+        "original_name": "Laura Sanglard",
+        "popularity": 0.0948,
+        "profile_path": null,
+        "credit_id": "6a1b4f9109cdb4c6ad35ff0a",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6052371,
+        "known_for_department": "Acting",
+        "name": "Lucas Hamdan",
+        "original_name": "Lucas Hamdan",
+        "popularity": 0.091,
+        "profile_path": null,
+        "credit_id": "6a1b4fa53fe8e8ba6b52b997",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5459305,
+        "known_for_department": "Acting",
+        "name": "Rafa Bernardi",
+        "original_name": "Rafa Bernardi",
+        "popularity": 0.0633,
+        "profile_path": null,
+        "credit_id": "6a1b4fbceea545918cef5f3a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6052371,
+        "known_for_department": "Acting",
+        "name": "Lucas Hamdan",
+        "original_name": "Lucas Hamdan",
+        "popularity": 0.091,
+        "profile_path": null,
+        "credit_id": "6a1b4fe1c0bc54db8a35ff0e",
+        "department": "Production",
+        "job": "Production Executive"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6052371,
+        "known_for_department": "Acting",
+        "name": "Lucas Hamdan",
+        "original_name": "Lucas Hamdan",
+        "popularity": 0.091,
+        "profile_path": null,
+        "credit_id": "6a1b4ff7ff82858620079be0",
+        "department": "Production",
+        "job": "Production Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6252471,
+        "known_for_department": "Production",
+        "name": "Cadu Barletta",
+        "original_name": "Cadu Barletta",
+        "popularity": 0.0935,
+        "profile_path": null,
+        "credit_id": "6a1b502d09cdb4c6ad35ff27",
+        "department": "Production",
+        "job": "Producer's Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6252472,
+        "known_for_department": "Production",
+        "name": "Ibaíra Castro",
+        "original_name": "Ibaíra Castro",
+        "popularity": 0.0914,
+        "profile_path": null,
+        "credit_id": "6a1b50433f04f4cf9507a3f2",
+        "department": "Production",
+        "job": "Producer's Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6087745,
+        "known_for_department": "Acting",
+        "name": "Guilherme Ronconi",
+        "original_name": "Guilherme Ronconi",
+        "popularity": 0.0691,
+        "profile_path": null,
+        "credit_id": "6a1b5054237a5eab3aef5f5c",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6087745,
+        "known_for_department": "Acting",
+        "name": "Guilherme Ronconi",
+        "original_name": "Guilherme Ronconi",
+        "popularity": 0.0691,
+        "profile_path": null,
+        "credit_id": "6a1b506aeea545918cef5f50",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6087745,
+        "known_for_department": "Acting",
+        "name": "Guilherme Ronconi",
+        "original_name": "Guilherme Ronconi",
+        "popularity": 0.0691,
+        "profile_path": null,
+        "credit_id": "6a1b507a1049a30f8d7f6bd6",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6087745,
+        "known_for_department": "Acting",
+        "name": "Guilherme Ronconi",
+        "original_name": "Guilherme Ronconi",
+        "popularity": 0.0691,
+        "profile_path": null,
+        "credit_id": "6a1b50a909cdb4c6ad35ff42",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6252479,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Giovanna Teixeira",
+        "original_name": "Giovanna Teixeira",
+        "popularity": 0.0951,
+        "profile_path": null,
+        "credit_id": "6a1b510fa5a0e0e87c056a0c",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6252479,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Giovanna Teixeira",
+        "original_name": "Giovanna Teixeira",
+        "popularity": 0.0951,
+        "profile_path": null,
+        "credit_id": "6a1b511da5a0e0e87c056a10",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6252480,
+        "known_for_department": "Sound",
+        "name": "Duds Tuts",
+        "original_name": "Duds Tuts",
+        "popularity": 0.1145,
+        "profile_path": null,
+        "credit_id": "6a1b51377c1717a017079db3",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6252480,
+        "known_for_department": "Sound",
+        "name": "Duds Tuts",
+        "original_name": "Duds Tuts",
+        "popularity": 0.1145,
+        "profile_path": null,
+        "credit_id": "6a1b5144ff82858620079c01",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6252480,
+        "known_for_department": "Sound",
+        "name": "Duds Tuts",
+        "original_name": "Duds Tuts",
+        "popularity": 0.1145,
+        "profile_path": null,
+        "credit_id": "6a1b515a3fe8e8ba6b52b99e",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6149741,
+        "known_for_department": "Directing",
+        "name": "Bárbara Alvim",
+        "original_name": "Bárbara Alvim",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a1b51e604e3cd7956056b82",
+        "department": "Directing",
+        "job": "Continuity"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6149741,
+        "known_for_department": "Directing",
+        "name": "Bárbara Alvim",
+        "original_name": "Bárbara Alvim",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a1b520bfb7753f4584b8c6e",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6149741,
+        "known_for_department": "Directing",
+        "name": "Bárbara Alvim",
+        "original_name": "Bárbara Alvim",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a1b5215c49a68fb8308b80b",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6149741,
+        "known_for_department": "Directing",
+        "name": "Bárbara Alvim",
+        "original_name": "Bárbara Alvim",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a1b5227c49a68fb8308b810",
+        "department": "Art",
+        "job": "Assistant Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6149741,
+        "known_for_department": "Directing",
+        "name": "Bárbara Alvim",
+        "original_name": "Bárbara Alvim",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a1b526a09cdb4c6ad35ff66",
+        "department": "Lighting",
+        "job": "Assistant Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6140957,
+        "known_for_department": "Production",
+        "name": "Gabriel Coimbra",
+        "original_name": "Gabriel Coimbra",
+        "popularity": 0.0872,
+        "profile_path": null,
+        "credit_id": "6a1b528d498efbcdabc92e99",
+        "department": "Sound",
+        "job": "Sound Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6252492,
+        "known_for_department": "Directing",
+        "name": "Gabriel Kacowicz",
+        "original_name": "Gabriel Kacowicz",
+        "popularity": 0.1243,
+        "profile_path": "/vmylWT1k7OS85VbJalvt8TnY8dv.jpg",
+        "credit_id": "6a1b52a604e3cd7956056ba0",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6252496,
+        "known_for_department": "Camera",
+        "name": "Alysson Matheus",
+        "original_name": "Alysson Matheus",
+        "popularity": 0.0935,
+        "profile_path": null,
+        "credit_id": "6a1b52e27cf4b2222fc92d97",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6024947,
+        "known_for_department": "Art",
+        "name": "Renée Duqke",
+        "original_name": "Renée Duqke",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a1b52ff47f9d1a5447f6ba0",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6252497,
+        "known_for_department": "Camera",
+        "name": "Laura Paiva",
+        "original_name": "Laura Paiva",
+        "popularity": 0.0894,
+        "profile_path": null,
+        "credit_id": "6a1b53103fe8e8ba6b52b9cf",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6252499,
+        "known_for_department": "Camera",
+        "name": "Gabriel Maia de Araújo",
+        "original_name": "Gabriel Maia de Araújo",
+        "popularity": 0.065,
+        "profile_path": null,
+        "credit_id": "6a1b5325103f24a4ef4b8d03",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6252499,
+        "known_for_department": "Camera",
+        "name": "Gabriel Maia de Araújo",
+        "original_name": "Gabriel Maia de Araújo",
+        "popularity": 0.065,
+        "profile_path": null,
+        "credit_id": "6a1b5331b3721581597f6bf9",
+        "department": "Camera",
+        "job": "Additional Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6252499,
+        "known_for_department": "Camera",
+        "name": "Gabriel Maia de Araújo",
+        "original_name": "Gabriel Maia de Araújo",
+        "popularity": 0.065,
+        "profile_path": null,
+        "credit_id": "6a1b533d64055fecc8ef5e22",
+        "department": "Art",
+        "job": "Assistant Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6252467,
+        "known_for_department": "Directing",
+        "name": "Lívia Sandim",
+        "original_name": "Lívia Sandim",
+        "popularity": 0.1043,
+        "profile_path": "/c2PoKnwbHNQLazmyD2G1kd0W6a7.jpg",
+        "credit_id": "6a1b53519c8d534bd74b8cc4",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "BR",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "homepage": "",
+          "overview": "Ramona vive uma noite de exageros ao lado de sua melhor amiga, até que uma tragédia ao amanhecer transforma tudo. Marcada pelo trauma, ela passa a enfrentar consequências que mudarão sua vida para sempre, e a manterão presa em uma realidade que parece uma eterna rebordose.",
+          "runtime": 25,
+          "tagline": "Existem partes de nós que só encontramos quando chega a noite.",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Ramona spends a night of excess with her best friend, but a tragedy at dawn changes everything. Haunted by the trauma, she must face consequences that will alter her life forever, trapping her in a reality that feels like an endless hangover.",
+          "runtime": 0,
+          "tagline": "There are parts of ourselves that only emerge at night.",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.707,
+        "height": 2245,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/AvLo3GYUh3JaXtqNNEZX36C3YZT.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1587
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "16",
+            "descriptors": [],
+            "iso_639_1": "pt",
+            "note": "",
+            "release_date": "2026-10-21T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

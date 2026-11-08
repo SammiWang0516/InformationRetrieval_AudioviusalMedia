@@ -1,0 +1,536 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 500,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 1642985,
+  "imdb_id": "tt40185064",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Lamenti Siderali",
+  "overview": "",
+  "popularity": 1.1637,
+  "poster_path": "/kHUxcq0TKin4wjSJPPC28JfRL5w.jpg",
+  "production_companies": [
+    {
+      "id": 290605,
+      "logo_path": null,
+      "name": "Executive Production",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2026-02-24",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Lamenti Siderali",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3665987,
+        "known_for_department": "Acting",
+        "name": "Samuele Ferri",
+        "original_name": "Samuele Ferri",
+        "popularity": 0.3739,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Ellis",
+        "credit_id": "69a03c10ca34639d8fff4d6a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3031917,
+        "known_for_department": "Acting",
+        "name": "Maria Vittoria Casarotti Todeschini",
+        "original_name": "Maria Vittoria Casarotti Todeschini",
+        "popularity": 0.2956,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Voce",
+        "credit_id": "69a03c2060d81eb065f5cd86",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 6033892,
+        "known_for_department": "Directing",
+        "name": "Manfredi M. Destro",
+        "original_name": "Manfredi M. Destro",
+        "popularity": 0.168,
+        "profile_path": "/2l3onM1yPCvkI9Q8btBUSNemvEi.jpg",
+        "credit_id": "69a0495e8cfd2716f8e93fcf",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 6033892,
+        "known_for_department": "Directing",
+        "name": "Manfredi M. Destro",
+        "original_name": "Manfredi M. Destro",
+        "popularity": 0.168,
+        "profile_path": "/2l3onM1yPCvkI9Q8btBUSNemvEi.jpg",
+        "credit_id": "69a0497f0549f460bdb2fc63",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 6033892,
+        "known_for_department": "Directing",
+        "name": "Manfredi M. Destro",
+        "original_name": "Manfredi M. Destro",
+        "popularity": 0.168,
+        "profile_path": "/2l3onM1yPCvkI9Q8btBUSNemvEi.jpg",
+        "credit_id": "69a0499e11f591596df20469",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6033900,
+        "known_for_department": "Production",
+        "name": "Rocco Zaupa",
+        "original_name": "Rocco Zaupa",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69a049b10eaa3a864af204db",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6033901,
+        "known_for_department": "Production",
+        "name": "Riccardo Fabris",
+        "original_name": "Riccardo Fabris",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "69a049c74f634924d9f20465",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6033903,
+        "known_for_department": "Production",
+        "name": "Elena Carnio",
+        "original_name": "Elena Carnio",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69a049da7c450fc3d9b2fce6",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6033904,
+        "known_for_department": "Sound",
+        "name": "Gabriele Rossi",
+        "original_name": "Gabriele Rossi",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "69a049fe3b897e1d1ff5ce24",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6033909,
+        "known_for_department": "Visual Effects",
+        "name": "Sebastiano Torresan",
+        "original_name": "Sebastiano Torresan",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69a04a1ebc7d1049dce865d6",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6033910,
+        "known_for_department": "Camera",
+        "name": "Rebecca Minerali",
+        "original_name": "Rebecca Minerali",
+        "popularity": 0.0553,
+        "profile_path": null,
+        "credit_id": "69a04a3ba25ba4f361f23319",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6033912,
+        "known_for_department": "Lighting",
+        "name": "Giulia Jules Menaspà",
+        "original_name": "Giulia Jules Menaspà",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69a04a4d3888f13f59ff4de0",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6033914,
+        "known_for_department": "Art",
+        "name": "Ilaria De Cecchi",
+        "original_name": "Ilaria De Cecchi",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69a04a6a44d3f39742e86b42",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6033914,
+        "known_for_department": "Art",
+        "name": "Ilaria De Cecchi",
+        "original_name": "Ilaria De Cecchi",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69a04a7ad2c2b1c8a7b2fd13",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6033917,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sara Selvestrel",
+        "original_name": "Sara Selvestrel",
+        "popularity": 0.0642,
+        "profile_path": null,
+        "credit_id": "69a04a8a1c55668b0aff4ea0",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6033923,
+        "known_for_department": "Directing",
+        "name": "Luigi De Angelis",
+        "original_name": "Luigi De Angelis",
+        "popularity": 0.1003,
+        "profile_path": "/JZGpqv2KGn9tVWjHi9NDo8165O.jpg",
+        "credit_id": "69a04aad79fc6ddd52e9412a",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6033927,
+        "known_for_department": "Sound",
+        "name": "Vito Mangialardi",
+        "original_name": "Vito Mangialardi",
+        "popularity": 0.0567,
+        "profile_path": null,
+        "credit_id": "69a04ae3aaf9375d1fff4fbb",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6033928,
+        "known_for_department": "Sound",
+        "name": "Dalila Lorusso",
+        "original_name": "Dalila Lorusso",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69a04af13d709c4a2de9424e",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6033933,
+        "known_for_department": "Sound",
+        "name": "Giovanni Claudio D'Alonzo",
+        "original_name": "Giovanni Claudio D'Alonzo",
+        "popularity": 0.0405,
+        "profile_path": null,
+        "credit_id": "69a04b20fc2b2dc5fff23581",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 3762,
+        "name": "darkness"
+      },
+      {
+        "id": 1442,
+        "name": "winter"
+      },
+      {
+        "id": 1824,
+        "name": "self-destruction"
+      },
+      {
+        "id": 1523,
+        "name": "obsession"
+      },
+      {
+        "id": 3394,
+        "name": "identity crisis"
+      },
+      {
+        "id": 9887,
+        "name": "surrealism"
+      },
+      {
+        "id": 5914,
+        "name": "writer's block"
+      },
+      {
+        "id": 9181,
+        "name": "alter ego"
+      },
+      {
+        "id": 12565,
+        "name": "psychological thriller"
+      },
+      {
+        "id": 15145,
+        "name": "deadline"
+      },
+      {
+        "id": 41410,
+        "name": "madness"
+      },
+      {
+        "id": 179874,
+        "name": "expressionism"
+      },
+      {
+        "id": 188262,
+        "name": "male in bathtub"
+      },
+      {
+        "id": 190742,
+        "name": "solitude"
+      },
+      {
+        "id": 209173,
+        "name": "abandoned"
+      },
+      {
+        "id": 210778,
+        "name": "work obsession"
+      },
+      {
+        "id": 241037,
+        "name": "time thriller"
+      },
+      {
+        "id": 263548,
+        "name": "short film"
+      },
+      {
+        "id": 281237,
+        "name": "independent film"
+      },
+      {
+        "id": 282843,
+        "name": "railway"
+      },
+      {
+        "id": 287803,
+        "name": "experimental cinema"
+      },
+      {
+        "id": 308408,
+        "name": "unfinished business"
+      },
+      {
+        "id": 308784,
+        "name": "tortured artist"
+      },
+      {
+        "id": 318182,
+        "name": "arthouse"
+      },
+      {
+        "id": 329707,
+        "name": "loss of control"
+      },
+      {
+        "id": 348406,
+        "name": "hypnotic universe"
+      },
+      {
+        "id": 354202,
+        "name": "dark rituals"
+      },
+      {
+        "id": 354241,
+        "name": "doppleganger"
+      },
+      {
+        "id": 356164,
+        "name": "candlelight"
+      },
+      {
+        "id": 357986,
+        "name": "chiaroscuro"
+      },
+      {
+        "id": 359142,
+        "name": "film indipendente"
+      },
+      {
+        "id": 367693,
+        "name": "dark atmosphere"
+      },
+      {
+        "id": 368682,
+        "name": "creative obsession"
+      },
+      {
+        "id": 368683,
+        "name": "thriller short"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "IT",
+        "iso_639_1": "it",
+        "name": "Italiano",
+        "english_name": "Italian",
+        "data": {
+          "homepage": "",
+          "overview": "Nel tentativo di completare il suo romanzo entro l'ultimatum dell'editore, Ellis, ex autore di horror dozzinali, si immerge in un rituale oscuro per incarnare la propria protagonista.",
+          "runtime": 15,
+          "tagline": "To end the masterpiece, in a day.",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Cosmic Wailing",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "FR",
+        "title": "Lamentationes Sidérales",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "ES",
+        "title": "Llanto Cósmico",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt40185064",
+    "wikidata_id": "Q138568274",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/kHUxcq0TKin4wjSJPPC28JfRL5w.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "14+",
+            "descriptors": [],
+            "iso_639_1": "it",
+            "note": "",
+            "release_date": "2026-02-24T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

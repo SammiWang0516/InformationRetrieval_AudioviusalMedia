@@ -1,0 +1,452 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [],
+  "homepage": "",
+  "id": 1495789,
+  "imdb_id": null,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Christof",
+  "overview": "",
+  "popularity": 0.8646,
+  "poster_path": "/O4NOVHIyu9p7IbtAIHi48KDEXW.jpg",
+  "production_companies": [
+    {
+      "id": 264842,
+      "logo_path": null,
+      "name": "Elime Studio",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2025-01-22",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Christof",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4422668,
+        "known_for_department": "Acting",
+        "name": "Thibaut Deschler",
+        "original_name": "Thibaut Deschler",
+        "popularity": 0.1772,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Christof",
+        "credit_id": "68481cf5ef546c95c52934c2",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3474618,
+        "known_for_department": "Acting",
+        "name": "Alexandre Sigrist",
+        "original_name": "Alexandre Sigrist",
+        "popularity": 0.1647,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Maurice",
+        "credit_id": "68481d012f516dfa281eaf8b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3638387,
+        "known_for_department": "Acting",
+        "name": "Fabien Fuhrmann",
+        "original_name": "Fabien Fuhrmann",
+        "popularity": 0.1624,
+        "profile_path": "/y3Qn0WV92rfcd6hLF6tZYsLvi3t.jpg",
+        "cast_id": 23,
+        "character": "Bernard",
+        "credit_id": "68481d0dc617d94dea2067e3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3449456,
+        "known_for_department": "Acting",
+        "name": "Rudi Berschinski",
+        "original_name": "Rudi Berschinski",
+        "popularity": 0.0819,
+        "profile_path": "/xtz7oIIROOd0CQQnt59ZpMPfF17.jpg",
+        "cast_id": 24,
+        "character": "Léon",
+        "credit_id": "68481d1e3a27cc2a08301e83",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5020514,
+        "known_for_department": "Directing",
+        "name": "Emile Biegel",
+        "original_name": "Emile Biegel",
+        "popularity": 0.0729,
+        "profile_path": "/qFTrxpL3DPg9meppFRxIF7xTgdf.jpg",
+        "credit_id": "68481bae2f55759388301feb",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5020514,
+        "known_for_department": "Directing",
+        "name": "Emile Biegel",
+        "original_name": "Emile Biegel",
+        "popularity": 0.0729,
+        "profile_path": "/qFTrxpL3DPg9meppFRxIF7xTgdf.jpg",
+        "credit_id": "68481bb401d8bb969029348a",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5020514,
+        "known_for_department": "Directing",
+        "name": "Emile Biegel",
+        "original_name": "Emile Biegel",
+        "popularity": 0.0729,
+        "profile_path": "/qFTrxpL3DPg9meppFRxIF7xTgdf.jpg",
+        "credit_id": "68481bcb2712534a241eadc1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5496046,
+        "known_for_department": "Directing",
+        "name": "Anthony Adam",
+        "original_name": "Anthony Adam",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68481be0f9743db94b3fcd7e",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5496047,
+        "known_for_department": "Directing",
+        "name": "Baptiste Grampp",
+        "original_name": "Baptiste Grampp",
+        "popularity": 0.0,
+        "profile_path": null,
+        "credit_id": "68481beda5f6b5c9ab2933fc",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5496048,
+        "known_for_department": "Camera",
+        "name": "Bruno Fagotti",
+        "original_name": "Bruno Fagotti",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "credit_id": "68481bfcc83ebe7819bb3751",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5496050,
+        "known_for_department": "Camera",
+        "name": "Bruno Fagotti",
+        "original_name": "Bruno Fagotti",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "68481c035aa37572d429367c",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5496052,
+        "known_for_department": "Camera",
+        "name": "Guillaume Berradi",
+        "original_name": "Guillaume Berradi",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "68481c17e9ca8a7b3c3fce3a",
+        "department": "Camera",
+        "job": "Camera Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4957878,
+        "known_for_department": "Camera",
+        "name": "Jules Minery",
+        "original_name": "Jules Minery",
+        "popularity": 0.0551,
+        "profile_path": null,
+        "credit_id": "68481c36293e9467949f5477",
+        "department": "Camera",
+        "job": "Camera Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5496054,
+        "known_for_department": "Editing",
+        "name": "Tim Rigaud",
+        "original_name": "Tim Rigaud",
+        "popularity": 0.063,
+        "profile_path": null,
+        "credit_id": "68481c63166c738044de7549",
+        "department": "Editing",
+        "job": "Color Grading"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4281779,
+        "known_for_department": "Lighting",
+        "name": "Florian Vogel",
+        "original_name": "Florian Vogel",
+        "popularity": 0.2258,
+        "profile_path": null,
+        "credit_id": "68481c6f166c738044de754f",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5496055,
+        "known_for_department": "Lighting",
+        "name": "Floriane Walter",
+        "original_name": "Floriane Walter",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "68481c7fef546c95c52934bf",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5496056,
+        "known_for_department": "Lighting",
+        "name": "Léonie Diringer",
+        "original_name": "Léonie Diringer",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "68481c8a8458a830ea30201e",
+        "department": "Lighting",
+        "job": "Electrician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5020515,
+        "known_for_department": "Sound",
+        "name": "Maxime Lennoz",
+        "original_name": "Maxime Lennoz",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68481c951d6c4a474ebb37dd",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5020515,
+        "known_for_department": "Sound",
+        "name": "Maxime Lennoz",
+        "original_name": "Maxime Lennoz",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68481c9dec73293cd7bb37a2",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4405665,
+        "known_for_department": "Sound",
+        "name": "Théo Hellard",
+        "original_name": "Théo Hellard",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "68481ca77506b8a5099f545a",
+        "department": "Sound",
+        "job": "Sound Engineer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5496008,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Maeliss Soulima",
+        "original_name": "Maeliss Soulima",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68481cb92435c5cb9d302acb",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5496058,
+        "known_for_department": "Art",
+        "name": "Clémentine Chateau",
+        "original_name": "Clémentine Chateau",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "68481cc6884f6aa1ec9f5427",
+        "department": "Art",
+        "job": "Decorator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5496060,
+        "known_for_department": "Crew",
+        "name": "Pierre-Louis Dangelser",
+        "original_name": "Pierre-Louis Dangelser",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "68481cd8046760db8a9f5448",
+        "department": "Crew",
+        "job": "Manager of Operations"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3449456,
+        "known_for_department": "Acting",
+        "name": "Rudi Berschinski",
+        "original_name": "Rudi Berschinski",
+        "popularity": 0.0819,
+        "profile_path": "/xtz7oIIROOd0CQQnt59ZpMPfF17.jpg",
+        "credit_id": "68481d2aff198e53b0206ba7",
+        "department": "Writing",
+        "job": "Co-Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3638387,
+        "known_for_department": "Acting",
+        "name": "Fabien Fuhrmann",
+        "original_name": "Fabien Fuhrmann",
+        "popularity": 0.1624,
+        "profile_path": "/y3Qn0WV92rfcd6hLF6tZYsLvi3t.jpg",
+        "credit_id": "68481d333a27cc2a08301e87",
+        "department": "Writing",
+        "job": "Co-Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3248173,
+        "known_for_department": "Directing",
+        "name": "Lucas Stoll",
+        "original_name": "Lucas Stoll",
+        "popularity": 0.1237,
+        "profile_path": null,
+        "credit_id": "68c5a1f82f75f296b2a92bc8",
+        "department": "Camera",
+        "job": "Camera Operator"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "https://www.elimestudio.com/vidos/christof",
+          "overview": "Un soldat SS se fait capturer par des résistants Français qui le passent à tabac. Pourtant, le nazi parle parfaitement bien français… Mais alors...qui est Christof… ?",
+          "runtime": 7,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "fr",
+            "note": "",
+            "release_date": "2025-01-22T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

@@ -1,0 +1,660 @@
+{
+  "adult": false,
+  "backdrop_path": "/eK6ZSGKcSN3KE2M2VHJccljMNn0.jpg",
+  "belongs_to_collection": null,
+  "budget": 3000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1676890,
+  "imdb_id": null,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "billykid",
+  "overview": "A photojournalist joins her childhood friend on a doomed heist for a Magic 8 Ball in their hometown of Hillsborough, North Carolina.",
+  "popularity": 0.8535,
+  "poster_path": "/11WmfUTFyDQ6utB26nl0dKuhReN.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-04-25",
+  "revenue": 0,
+  "runtime": 27,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "get yourself gone",
+  "title": "billykid",
+  "video": false,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2076448,
+        "known_for_department": "Acting",
+        "name": "Isol Young",
+        "original_name": "Isol Young",
+        "popularity": 0.3368,
+        "profile_path": "/yBNEgYX94TzOJJX7IOOGbOjjaJP.jpg",
+        "cast_id": 1,
+        "character": "Diane",
+        "credit_id": "69e528a95a5f1dc06dfb95c0",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6153722,
+        "known_for_department": "Acting",
+        "name": "Buck Thornton",
+        "original_name": "Buck Thornton",
+        "popularity": 0.0741,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Billy",
+        "credit_id": "69e52928d4919dd0ba063f2f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6153724,
+        "known_for_department": "Acting",
+        "name": "Reece Brigman",
+        "original_name": "Reece Brigman",
+        "popularity": 0.1753,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Red",
+        "credit_id": "69e5296768e19c7e1525ba2a",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6153725,
+        "known_for_department": "Acting",
+        "name": "Alex Kilani",
+        "original_name": "Alex Kilani",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "The Kid",
+        "credit_id": "69e529856fdcc4007e84f2b4",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6153726,
+        "known_for_department": "Acting",
+        "name": "Jean Jamison",
+        "original_name": "Jean Jamison",
+        "popularity": 0.1246,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "The Woman",
+        "credit_id": "69e5299b6a9199952d84f342",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6153728,
+        "known_for_department": "Acting",
+        "name": "Lee Pederson",
+        "original_name": "Lee Pederson",
+        "popularity": 0.1168,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "The Man",
+        "credit_id": "69e529b7d8f08cc6e725b9e0",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5344184,
+        "known_for_department": "Writing",
+        "name": "Jack Anthony Watson",
+        "original_name": "Jack Anthony Watson",
+        "popularity": 0.1903,
+        "profile_path": null,
+        "credit_id": "69e529dfd4919dd0ba063f34",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5344184,
+        "known_for_department": "Writing",
+        "name": "Jack Anthony Watson",
+        "original_name": "Jack Anthony Watson",
+        "popularity": 0.1903,
+        "profile_path": null,
+        "credit_id": "69e529ee8f7b5baf65063fc5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5344176,
+        "known_for_department": "Camera",
+        "name": "Nikhil Mehta",
+        "original_name": "Nikhil Mehta",
+        "popularity": 0.0347,
+        "profile_path": null,
+        "credit_id": "69e52a00bb0bde688225baa6",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6153736,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Nadia Jefferson",
+        "original_name": "Nadia Jefferson",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "69e52a4cc0528090b284f2b3",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6153740,
+        "known_for_department": "Production",
+        "name": "Foster Childress",
+        "original_name": "Foster Childress",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "69e52a8a46e0b34be284f2c9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6153733,
+        "known_for_department": "Production",
+        "name": "Ethan Duarte",
+        "original_name": "Ethan Duarte",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69e52a972668664f4afb95a2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6153737,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Clark Sutphin",
+        "original_name": "Clark Sutphin",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69e52ab1eb0de853ee692c36",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6153742,
+        "known_for_department": "Sound",
+        "name": "Carter Kavana",
+        "original_name": "Carter Kavana",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69e52ae05da37fb186549ce4",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6153745,
+        "known_for_department": "Editing",
+        "name": "David Majernik",
+        "original_name": "David Majernik",
+        "popularity": 0.0365,
+        "profile_path": null,
+        "credit_id": "69e52b04eaaaec4de5063f2e",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5344176,
+        "known_for_department": "Camera",
+        "name": "Nikhil Mehta",
+        "original_name": "Nikhil Mehta",
+        "popularity": 0.0347,
+        "profile_path": null,
+        "credit_id": "69e52b19ca5f00810cfb9609",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5354182,
+        "known_for_department": "Camera",
+        "name": "Jeffery Davis Chay",
+        "original_name": "Jeffery Davis Chay",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69e52b2cba8f726763520a3e",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6153746,
+        "known_for_department": "Camera",
+        "name": "Cal Stoke",
+        "original_name": "Cal Stoke",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69e52b49a8dde26f025209b6",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6153749,
+        "known_for_department": "Camera",
+        "name": "Harsha Matta",
+        "original_name": "Harsha Matta",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "69e52b82c445542283c7066f",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5354182,
+        "known_for_department": "Camera",
+        "name": "Jeffery Davis Chay",
+        "original_name": "Jeffery Davis Chay",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69e52b94d4919dd0ba063f63",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6153724,
+        "known_for_department": "Acting",
+        "name": "Reece Brigman",
+        "original_name": "Reece Brigman",
+        "popularity": 0.1753,
+        "profile_path": null,
+        "credit_id": "69e52ba4ee78ce5a09c70591",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6153733,
+        "known_for_department": "Production",
+        "name": "Ethan Duarte",
+        "original_name": "Ethan Duarte",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69e52bbad4919dd0ba063f6d",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6153755,
+        "known_for_department": "Sound",
+        "name": "Samantha Koger",
+        "original_name": "Samantha Koger",
+        "popularity": 0.0528,
+        "profile_path": null,
+        "credit_id": "69e52bdf0004e56fec25ba64",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6153742,
+        "known_for_department": "Sound",
+        "name": "Carter Kavana",
+        "original_name": "Carter Kavana",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69e52bf0616a802ef2549c3c",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6153724,
+        "known_for_department": "Acting",
+        "name": "Reece Brigman",
+        "original_name": "Reece Brigman",
+        "popularity": 0.1753,
+        "profile_path": null,
+        "credit_id": "69e52bfa643b7ebe0f063e9c",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6153757,
+        "known_for_department": "Sound",
+        "name": "Jack Faubert",
+        "original_name": "Jack Faubert",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "69e52c16fb6efe81fe549c78",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6153761,
+        "known_for_department": "Lighting",
+        "name": "Haydon Bode",
+        "original_name": "Haydon Bode",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69e52c38eede5cd847c7057f",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6153740,
+        "known_for_department": "Production",
+        "name": "Foster Childress",
+        "original_name": "Foster Childress",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "69e52c5491bbe07e6e692b88",
+        "department": "Art",
+        "job": "Location Scout"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6153763,
+        "known_for_department": "Art",
+        "name": "Jackson McCurdy",
+        "original_name": "Jackson McCurdy",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "69e52c73efce1611ccc705f2",
+        "department": "Art",
+        "job": "Location Scout"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6153768,
+        "known_for_department": "Production",
+        "name": "Lily Guglielmo",
+        "original_name": "Lily Guglielmo",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69e52cc5cfdeedb466c705c0",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6153772,
+        "known_for_department": "Production",
+        "name": "Helen Wickett",
+        "original_name": "Helen Wickett",
+        "popularity": 0.0376,
+        "profile_path": null,
+        "credit_id": "69e52ced21a04cea7525ba80",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5344184,
+        "known_for_department": "Writing",
+        "name": "Jack Anthony Watson",
+        "original_name": "Jack Anthony Watson",
+        "popularity": 0.1903,
+        "profile_path": null,
+        "credit_id": "69e52d10522b21388b692c28",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5344176,
+        "known_for_department": "Camera",
+        "name": "Nikhil Mehta",
+        "original_name": "Nikhil Mehta",
+        "popularity": 0.0347,
+        "profile_path": null,
+        "credit_id": "69e52d1dda91156b14fb9526",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 6223,
+        "name": "change"
+      },
+      {
+        "id": 5922,
+        "name": "north carolina"
+      },
+      {
+        "id": 10532,
+        "name": "suburbia"
+      },
+      {
+        "id": 15291,
+        "name": "on the road"
+      },
+      {
+        "id": 165508,
+        "name": "americana"
+      },
+      {
+        "id": 281237,
+        "name": "independent film"
+      },
+      {
+        "id": 305941,
+        "name": "western"
+      },
+      {
+        "id": 309686,
+        "name": "billy the kid"
+      },
+      {
+        "id": 365482,
+        "name": "8ball"
+      },
+      {
+        "id": 368239,
+        "name": "the south"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "A photojournalist joins her childhood friend on a doomed heist for a Magic 8 Ball in their hometown of Hillsborough, North Carolina.",
+          "runtime": 27,
+          "tagline": "get yourself gone",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "@billykidfilm",
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/eK6ZSGKcSN3KE2M2VHJccljMNn0.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/1KiVWSK12PqezljzcyKWmMn3DJr.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/chOyUXMxAyP8kJks7MlMVPiOY6n.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/gzU75zTLHS97wrmci8M3x9Byu6m.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/5JbAcXg9ACQnTvBHaIW0uLh2NcY.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/gHUTqBp4rL5SMbbqWxla4toAM0L.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/bCTHrI72xkMRutrI6dqxswQLo2t.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/11WmfUTFyDQ6utB26nl0dKuhReN.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2026-04-25T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

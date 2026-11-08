@@ -1,0 +1,841 @@
+{
+  "adult": false,
+  "backdrop_path": "/fP9GmweCCcdxOP11HXUlMdd73Ja.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1592410,
+  "imdb_id": null,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_title": "Socorro! Minha Babá Tirou Férias!",
+  "overview": "",
+  "popularity": 1.0846,
+  "poster_path": "/nmUHSmxdtziMndnz0ArbHCxMibG.jpg",
+  "production_companies": [
+    {
+      "id": 46430,
+      "logo_path": "/tQZIt59BLw3b0b6rHJRqv4Dvrpd.png",
+      "name": "Estúdios Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "release_date": "2026-09-25",
+  "revenue": 0,
+  "runtime": 79,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Socorro! Minha Babá Tirou Férias!",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1518754,
+        "known_for_department": "Acting",
+        "name": "Rodrigo Sant'anna",
+        "original_name": "Rodrigo Sant'anna",
+        "popularity": 0.5323,
+        "profile_path": "/ag6BALeYMGBGZsUqIo4jaQAbERT.jpg",
+        "cast_id": 1,
+        "character": "Helena/Socorro/Carol Paixão/Soninha/Regina Célia",
+        "credit_id": "69308ec0e822f139d9631d6b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1692166,
+        "known_for_department": "Acting",
+        "name": "Solange Couto",
+        "original_name": "Solange Couto",
+        "popularity": 0.2627,
+        "profile_path": "/tvWJeK8XBefpl1WRZUaHCBVQLYh.jpg",
+        "cast_id": 2,
+        "character": "Celita",
+        "credit_id": "69308ed103e787e4306ee13b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1257201,
+        "known_for_department": "Acting",
+        "name": "Guilherme Fontes",
+        "original_name": "Guilherme Fontes",
+        "popularity": 0.2418,
+        "profile_path": "/wQpIBAfBTkfIaRPJEjW1OUMT5L4.jpg",
+        "cast_id": 3,
+        "character": "Felipe",
+        "credit_id": "69308ede68cf89a23623e2e9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 443366,
+        "known_for_department": "Acting",
+        "name": "Dudu Azevedo",
+        "original_name": "Dudu Azevedo",
+        "popularity": 0.7498,
+        "profile_path": "/vIOgqf32JbsB3P4YznubjMpzYZ4.jpg",
+        "cast_id": 4,
+        "character": "Maurício",
+        "credit_id": "69308ee7f73a29d7aa631d83",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6112305,
+        "known_for_department": "Acting",
+        "name": "Lola Fanucchi",
+        "original_name": "Lola Fanucchi",
+        "popularity": 0.1556,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Andreia",
+        "credit_id": "6ac694bedfbcc86e25a31967",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4599925,
+        "known_for_department": "Acting",
+        "name": "Alexandre Amaral",
+        "original_name": "Alexandre Amaral",
+        "popularity": 0.2856,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Amigo de Maurício",
+        "credit_id": "6ac696866b62bd0c6af28abe",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6533055,
+        "known_for_department": "Acting",
+        "name": "Italo William",
+        "original_name": "Italo William",
+        "popularity": 0.1434,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Amigo de Maurício",
+        "credit_id": "6ac6969afe00aca8f395eb6c",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6463602,
+        "known_for_department": "Acting",
+        "name": "Don Estarneck",
+        "original_name": "Don Estarneck",
+        "popularity": 0.1703,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Pedro",
+        "credit_id": "6ac696d2795c5c4a72379d42",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6533057,
+        "known_for_department": "Acting",
+        "name": "Ravy Weish",
+        "original_name": "Ravy Weish",
+        "popularity": 0.1536,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Enzo",
+        "credit_id": "6ac69702db64b82dfdf5e902",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6533058,
+        "known_for_department": "Acting",
+        "name": "Daiane Lagunas",
+        "original_name": "Daiane Lagunas",
+        "popularity": 0.0744,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Aeromoça",
+        "credit_id": "6ac69711d3976418483e94ae",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6533059,
+        "known_for_department": "Acting",
+        "name": "Lucas Corsino",
+        "original_name": "Lucas Corsino",
+        "popularity": 0.0764,
+        "profile_path": null,
+        "cast_id": 36,
+        "character": "Passageiro Assustado",
+        "credit_id": "6ac6972845e61dab7c379d05",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5521913,
+        "known_for_department": "Acting",
+        "name": "Marcia Savino",
+        "original_name": "Marcia Savino",
+        "popularity": 0.0657,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Passageira 60+",
+        "credit_id": "6ac6973d7c9a53bd69dcfeb1",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1475549,
+        "known_for_department": "Acting",
+        "name": "Camila Queiroz",
+        "original_name": "Camila Queiroz",
+        "popularity": 1.3843,
+        "profile_path": "/vI7soPfMSHoPokcB4VNfrdjH9UN.jpg",
+        "cast_id": 38,
+        "character": "Joyce",
+        "credit_id": "6ac697489a6a26ef4cbd7f96",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6533061,
+        "known_for_department": "Acting",
+        "name": "Eduardo Louzada",
+        "original_name": "Eduardo Louzada",
+        "popularity": 0.3514,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Joseph",
+        "credit_id": "6ac697657de3fb8ba5a31989",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6533064,
+        "known_for_department": "Acting",
+        "name": "Felipe Torquato",
+        "original_name": "Felipe Torquato",
+        "popularity": 0.0875,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Engenheiro 1",
+        "credit_id": "6ac6978b29579d75c025ea9b",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6533067,
+        "known_for_department": "Acting",
+        "name": "Santos Menequite",
+        "original_name": "Santos Menequite",
+        "popularity": 0.2318,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Engenheiro 2",
+        "credit_id": "6ac69798909703a2fe3e9501",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1558777,
+        "known_for_department": "Acting",
+        "name": "Vasco Valentino",
+        "original_name": "Vasco Valentino",
+        "popularity": 0.0588,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "Engenheiro 3",
+        "credit_id": "6ac697a537aea8a744a31994",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6533070,
+        "known_for_department": "Acting",
+        "name": "Carina Ennes",
+        "original_name": "Carina Ennes",
+        "popularity": 0.0948,
+        "profile_path": null,
+        "cast_id": 43,
+        "character": "Enfermeira",
+        "credit_id": "6ac697cab18847428d20fdba",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6533072,
+        "known_for_department": "Acting",
+        "name": "Rubens Estrella",
+        "original_name": "Rubens Estrella",
+        "popularity": 0.1378,
+        "profile_path": null,
+        "cast_id": 44,
+        "character": "Sr. Enzo",
+        "credit_id": "6ac697de6e75a6b0de95e971",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2658367,
+        "known_for_department": "Acting",
+        "name": "Luellem de Castro",
+        "original_name": "Luellem de Castro",
+        "popularity": 0.4416,
+        "profile_path": "/lMz3q2elHUnikQ2FyejO08fWb6t.jpg",
+        "cast_id": 45,
+        "character": "Médica",
+        "credit_id": "6ac697f0eb90fa8b18775aba",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5403071,
+        "known_for_department": "Acting",
+        "name": "Ronaldo Rafael",
+        "original_name": "Ronaldo Rafael",
+        "popularity": 0.6706,
+        "profile_path": null,
+        "cast_id": 46,
+        "character": "Garçom",
+        "credit_id": "6ac69825c0ab7425af764896",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5540237,
+        "known_for_department": "Acting",
+        "name": "Maria Zenayde",
+        "original_name": "Maria Zenayde",
+        "popularity": 0.1642,
+        "profile_path": null,
+        "cast_id": 47,
+        "character": "Dona Josefa",
+        "credit_id": "6ac698338a7d9d180ef28654",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3391251,
+        "known_for_department": "Acting",
+        "name": "Gilbert Magalhães",
+        "original_name": "Gilbert Magalhães",
+        "popularity": 0.1304,
+        "profile_path": "/rLWYCD5fD8hrN0RdjzFxDBLIXcC.jpg",
+        "cast_id": 48,
+        "character": "Aristeu",
+        "credit_id": "6ac69852abd6bdcdc4775aa3",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4844517,
+        "known_for_department": "Acting",
+        "name": "Jessica Lima",
+        "original_name": "Jessica Lima",
+        "popularity": 0.0501,
+        "profile_path": null,
+        "cast_id": 49,
+        "character": "Rita",
+        "credit_id": "6ac698672a2c352effdcf632",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1090050,
+        "known_for_department": "Acting",
+        "name": "Angélica",
+        "original_name": "Angélica",
+        "popularity": 0.301,
+        "profile_path": "/tSBNN2ZzhtgW7vjiFPkT94F1EGL.jpg",
+        "cast_id": 50,
+        "character": "Apresentadora",
+        "credit_id": "6ac698732a2c352effdcf635",
+        "order": 24
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 222203,
+        "known_for_department": "Directing",
+        "name": "Cris D'amato",
+        "original_name": "Cris D'amato",
+        "popularity": 0.1609,
+        "profile_path": "/zjug4IcQbLRVTsXonDc3jso1ueI.jpg",
+        "credit_id": "69308f36017240cf5e6ee14f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1518754,
+        "known_for_department": "Acting",
+        "name": "Rodrigo Sant'anna",
+        "original_name": "Rodrigo Sant'anna",
+        "popularity": 0.5323,
+        "profile_path": "/ag6BALeYMGBGZsUqIo4jaQAbERT.jpg",
+        "credit_id": "69308f453c241601e6c3dc27",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1643626,
+        "known_for_department": "Writing",
+        "name": "Marcelo Gonçalves",
+        "original_name": "Marcelo Gonçalves",
+        "popularity": 0.3488,
+        "profile_path": null,
+        "credit_id": "69308f5c0f1cf678ed572f9a",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3889183,
+        "known_for_department": "Production",
+        "name": "Sabrina Garcia",
+        "original_name": "Sabrina Garcia",
+        "popularity": 0.4768,
+        "profile_path": "/lzgB77GBiS4wy5b1X8EqvNprEBP.jpg",
+        "credit_id": "69c26f819ddab09d897bca9a",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6386737,
+        "known_for_department": "Editing",
+        "name": "Pedro Henrique Gonçalves",
+        "original_name": "Pedro Henrique Gonçalves",
+        "popularity": 0.281,
+        "profile_path": null,
+        "credit_id": "6a6fd67f3783fc6907e3e3b6",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1518754,
+        "known_for_department": "Acting",
+        "name": "Rodrigo Sant'anna",
+        "original_name": "Rodrigo Sant'anna",
+        "popularity": 0.5323,
+        "profile_path": "/ag6BALeYMGBGZsUqIo4jaQAbERT.jpg",
+        "credit_id": "6ac69494f416fffe2f7648b7",
+        "department": "Writing",
+        "job": "Idea"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6533050,
+        "known_for_department": "Art",
+        "name": "Marianna Duarte",
+        "original_name": "Marianna Duarte",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6ac6951f0d690ffe9ef5e953",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2031334,
+        "known_for_department": "Art",
+        "name": "Luiz Pereira",
+        "original_name": "Luiz Pereira",
+        "popularity": 0.3975,
+        "profile_path": null,
+        "credit_id": "6ac6954772df47c32de3971e",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2225750,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Tereza Nabuco",
+        "original_name": "Tereza Nabuco",
+        "popularity": 0.1525,
+        "profile_path": null,
+        "credit_id": "6ac6956372df47c32de39721",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4933583,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Manu Monteiro",
+        "original_name": "Manu Monteiro",
+        "popularity": 0.1643,
+        "profile_path": null,
+        "credit_id": "6ac6957a29def60a4125f3d7",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 92272,
+        "known_for_department": "Camera",
+        "name": "José Roberto Eliezer",
+        "original_name": "José Roberto Eliezer",
+        "popularity": 0.3163,
+        "profile_path": null,
+        "credit_id": "6ac695880f913cae5c03e157",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1612941,
+        "known_for_department": "Editing",
+        "name": "Bernardo Pimenta",
+        "original_name": "Bernardo Pimenta",
+        "popularity": 0.4618,
+        "profile_path": null,
+        "credit_id": "6ac69592d3976418483e9499",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1944032,
+        "known_for_department": "Directing",
+        "name": "Vanilda Telles",
+        "original_name": "Vanilda Telles",
+        "popularity": 0.0833,
+        "profile_path": null,
+        "credit_id": "6ac695a1f416fffe2f7648bf",
+        "department": "Directing",
+        "job": "Continuity"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6533052,
+        "known_for_department": "Production",
+        "name": "Luiza Tore",
+        "original_name": "Luiza Tore",
+        "popularity": 0.1641,
+        "profile_path": null,
+        "credit_id": "6ac695b62371d467db47b7fc",
+        "department": "Production",
+        "job": "Casting Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2146393,
+        "known_for_department": "Sound",
+        "name": "Iuri Cunha",
+        "original_name": "Iuri Cunha",
+        "popularity": 0.1562,
+        "profile_path": null,
+        "credit_id": "6ac695cb37aea8a744a31980",
+        "department": "Sound",
+        "job": "Music Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2146393,
+        "known_for_department": "Sound",
+        "name": "Iuri Cunha",
+        "original_name": "Iuri Cunha",
+        "popularity": 0.1562,
+        "profile_path": null,
+        "credit_id": "6ac695d407972f65c6f2856c",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2481859,
+        "known_for_department": "Production",
+        "name": "Erika da Matta",
+        "original_name": "Erika da Matta",
+        "popularity": 0.5025,
+        "profile_path": null,
+        "credit_id": "6ac695e57eba19e419775a47",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1433029,
+        "known_for_department": "Production",
+        "name": "Betina Paulon",
+        "original_name": "Betina Paulon",
+        "popularity": 0.2174,
+        "profile_path": null,
+        "credit_id": "6ac695f4912c44c56bbd81cc",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2220755,
+        "known_for_department": "Directing",
+        "name": "Patricia Pedrosa",
+        "original_name": "Patricia Pedrosa",
+        "popularity": 0.1478,
+        "profile_path": "/mbrzkshAH5vNn3exDgW5wmphRwG.jpg",
+        "credit_id": "6ac696560f913cae5c03e16c",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2223063,
+        "known_for_department": "Directing",
+        "name": "Rafael Salgado",
+        "original_name": "Rafael Salgado",
+        "popularity": 0.1022,
+        "profile_path": null,
+        "credit_id": "6ac6988dfcd871128a3e948b",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3932835,
+        "known_for_department": "Directing",
+        "name": "Filipe Leon",
+        "original_name": "Filipe Leon",
+        "popularity": 0.0557,
+        "profile_path": null,
+        "credit_id": "6ac6989a44bfa76735bd828a",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2084390,
+        "known_for_department": "Editing",
+        "name": "Fernando Costa",
+        "original_name": "Fernando Costa",
+        "popularity": 0.4187,
+        "profile_path": null,
+        "credit_id": "6ac698d20d690ffe9ef5e971",
+        "department": "Editing",
+        "job": "Colorist"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 18035,
+        "name": "family"
+      },
+      {
+        "id": 370895,
+        "name": "telefilm"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "BR",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "homepage": "",
+          "overview": "Quando surge a chance de uma promoção, a executiva Helena vê sua rotina ruir: sua babá, Socorro, tira férias e ela precisa equilibrar trabalho, filhos e o caos que se instala.",
+          "runtime": 79,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 79,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "",
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/fP9GmweCCcdxOP11HXUlMdd73Ja.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/bKzbIxKJs0eE1lhIX6Bl1u38m75.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/mVW5gIIkv57NyXpqixPGbp8HYoS.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/qwXmtV0hyldpUedODYGGrfO3vVw.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 1620,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/7zcte9NMh0ChvfmQ92n1YwZ8tfe.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1080
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "pt",
+            "note": "Globoplay",
+            "release_date": "2026-09-25T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "pt",
+            "note": "Telecine Premium",
+            "release_date": "2026-09-26T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

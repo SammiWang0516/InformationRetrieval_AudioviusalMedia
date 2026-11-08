@@ -1,0 +1,597 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1502316,
+  "imdb_id": null,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_title": "Ausência",
+  "overview": "The story tells the beginning of Júlia's day, which repeats itself every time she walks through the door of her house. However, every time she returns to the same day, a family member disappears as if they had never existed and only Júlia holds the memory of them. During the repetitions, family problems of communication and affection are highlighted, bringing reflections on family relationships and/or the lack thereof.",
+  "popularity": 1.1979,
+  "poster_path": "/zp0nGlaZutqVoe0tMu5fHlcjL4M.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "release_date": "2025-05-23",
+  "revenue": 0,
+  "runtime": 24,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Ausência",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4857673,
+        "known_for_department": "Acting",
+        "name": "Agatha Silva",
+        "original_name": "Agatha Silva",
+        "popularity": 0.2285,
+        "profile_path": "/g2fEW9Zhauxd9EleZjpTVJ4TzN4.jpg",
+        "cast_id": 30,
+        "character": "Júlia",
+        "credit_id": "685851950c21cbd0b053cf54",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5316450,
+        "known_for_department": "Acting",
+        "name": "Sidiane Nunes",
+        "original_name": "Sidiane Nunes",
+        "popularity": 0.2327,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Janete",
+        "credit_id": "685851a8db46044f27deda78",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5521135,
+        "known_for_department": "Acting",
+        "name": "Pedro Enrique",
+        "original_name": "Pedro Enrique",
+        "popularity": 0.1825,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Joaquim",
+        "credit_id": "685851cb9aafca6a42a79766",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5296264,
+        "known_for_department": "Acting",
+        "name": "Victor Menezes",
+        "original_name": "Victor Menezes",
+        "popularity": 0.0436,
+        "profile_path": "/zSGtfMZtR17pq8apwXSxpHHCjW7.jpg",
+        "cast_id": 33,
+        "character": "João",
+        "credit_id": "685851e7d4bce1e4b8d14ee5",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5296265,
+        "known_for_department": "Acting",
+        "name": "Hudson dos Passos",
+        "original_name": "Hudson dos Passos",
+        "popularity": 0.6456,
+        "profile_path": "/ov1b91Vbi5kV3Ccepfe2h4jLQwb.jpg",
+        "cast_id": 34,
+        "character": "Carlos",
+        "credit_id": "685851f849d32ac37dd14ecc",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5521138,
+        "known_for_department": "Acting",
+        "name": "Luigi Ribeiro",
+        "original_name": "Luigi Ribeiro",
+        "popularity": 0.1441,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Locutor Radialista",
+        "credit_id": "685852145cd03117db53ce4d",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5521080,
+        "known_for_department": "Directing",
+        "name": "Fabiano Nascimento",
+        "original_name": "Fabiano Nascimento",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "68584b462711c4eb36d14eca",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5521081,
+        "known_for_department": "Directing",
+        "name": "Kako Tenório",
+        "original_name": "Kako Tenório",
+        "popularity": 0.1419,
+        "profile_path": null,
+        "credit_id": "68584b5a0c21cbd0b053cf4f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5521080,
+        "known_for_department": "Directing",
+        "name": "Fabiano Nascimento",
+        "original_name": "Fabiano Nascimento",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "68584b6c281a4e88f5d0fa0d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4857633,
+        "known_for_department": "Production",
+        "name": "NAYA",
+        "original_name": "NAYA",
+        "popularity": 0.0254,
+        "profile_path": "/cQ2cuXFazhtu1jnwCbe2TYBKYuS.jpg",
+        "credit_id": "68584b9a2711c4eb36d14ecd",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5297718,
+        "known_for_department": "Art",
+        "name": "Felipe Rocha",
+        "original_name": "Felipe Rocha",
+        "popularity": 0.0549,
+        "profile_path": "/pWeDiSRSJdy0n8RGofkcmWtRTWt.jpg",
+        "credit_id": "68584bafaa7a0219ad398f06",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5088745,
+        "known_for_department": "Directing",
+        "name": "Jean Guilherme",
+        "original_name": "Jean Guilherme",
+        "popularity": 0.1515,
+        "profile_path": "/x00D8zBlbpOtz95AwNVghoW5u7X.jpg",
+        "credit_id": "68584bd18206c0289a036ce2",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5088761,
+        "known_for_department": "Production",
+        "name": "Kevin Liam",
+        "original_name": "Kevin Liam",
+        "popularity": 0.4763,
+        "profile_path": "/dBzkAH9Xbh48DiMRFsbVD49uH3y.jpg",
+        "credit_id": "68584bfcde9cada829493330",
+        "department": "Production",
+        "job": "Production Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4397744,
+        "known_for_department": "Camera",
+        "name": "Lucas Koury",
+        "original_name": "Lucas Koury",
+        "popularity": 0.1982,
+        "profile_path": "/s46jviNg4xlO4YT6gadXEcCAcvb.jpg",
+        "credit_id": "68584c1c78ec0324f54bd20d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5264914,
+        "known_for_department": "Art",
+        "name": "Sara Cardoso",
+        "original_name": "Sara Cardoso",
+        "popularity": 0.1859,
+        "profile_path": null,
+        "credit_id": "68584cae66d85f3868c7b0b9",
+        "department": "Production",
+        "job": "Casting Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5501119,
+        "known_for_department": "Production",
+        "name": "Laura Miranda",
+        "original_name": "Laura Miranda",
+        "popularity": 0.1948,
+        "profile_path": null,
+        "credit_id": "68584d1b1c461d1d36398f53",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5084862,
+        "known_for_department": "Acting",
+        "name": "Karina Almeida",
+        "original_name": "Karina Almeida",
+        "popularity": 0.1433,
+        "profile_path": "/jWf8NZKgxnVEGuZ55MDUwuT6vY2.jpg",
+        "credit_id": "68584d3c7a8963aae3493379",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5088737,
+        "known_for_department": "Art",
+        "name": "Alexandre matos",
+        "original_name": "Alexandre matos",
+        "popularity": 0.1548,
+        "profile_path": null,
+        "credit_id": "68584d7d58c2ebe881398f85",
+        "department": "Directing",
+        "job": "Continuity"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4857617,
+        "known_for_department": "Directing",
+        "name": "Bárbara Palheta",
+        "original_name": "Bárbara Palheta",
+        "popularity": 0.1169,
+        "profile_path": "/isbXrAfokkH5u0Znwt79YeLBQri.jpg",
+        "credit_id": "68584dd5ad1cb77407d14eda",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4857635,
+        "known_for_department": "Camera",
+        "name": "Tainá Simões",
+        "original_name": "Tainá Simões",
+        "popularity": 0.0897,
+        "profile_path": "/aE9G1WaX2JPXne4PbpdLfo6GZVk.jpg",
+        "credit_id": "68584df2c0999d46c2dedb1a",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5297734,
+        "known_for_department": "Art",
+        "name": "Elcio Lima",
+        "original_name": "Elcio Lima",
+        "popularity": 0.0691,
+        "profile_path": "/tWq5UtSRC8H2ikaewqdYbSAUjhV.jpg",
+        "credit_id": "68584e818d3e3f7b44036bb7",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5297736,
+        "known_for_department": "Art",
+        "name": "Fabrício Abreu",
+        "original_name": "Fabrício Abreu",
+        "popularity": 0.0295,
+        "profile_path": "/fwXeIOfh5x3qVDgiVOCVFqNpCYf.jpg",
+        "credit_id": "68584e8f731bac84e0398f75",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5084579,
+        "known_for_department": "Art",
+        "name": "Natália Souza",
+        "original_name": "Natália Souza",
+        "popularity": 0.0634,
+        "profile_path": "/cbsRnWPJq11PLGYZpIvRCRwpMuS.jpg",
+        "credit_id": "68584ebc39bcec4c60d0f90e",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5346686,
+        "known_for_department": "Directing",
+        "name": "Thiago Henrique Ferreira",
+        "original_name": "Thiago Henrique Ferreira",
+        "popularity": 0.1207,
+        "profile_path": "/xnRMnvBrlYbGLhKs2jTUF7Fgtva.jpg",
+        "credit_id": "68584f2ad767d6e8f1398f44",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5346839,
+        "known_for_department": "Art",
+        "name": "Yanisha",
+        "original_name": "Yanisha",
+        "popularity": 0.15,
+        "profile_path": null,
+        "credit_id": "68584f9eb3ee073d74036b5f",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5264913,
+        "known_for_department": "Camera",
+        "name": "JV Garcia",
+        "original_name": "JV Garcia",
+        "popularity": 0.0692,
+        "profile_path": "/qznzMsQPSP5DbOZWYdWBUeYitxq.jpg",
+        "credit_id": "68584fc49038e6df7bcb4e86",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5391564,
+        "known_for_department": "Production",
+        "name": "Juliana Silva",
+        "original_name": "Juliana Silva",
+        "popularity": 0.1053,
+        "profile_path": "/AuSKO3YuiYzBLxzWVOnSwug1eEk.jpg",
+        "credit_id": "68584fe25cd03117db53ce3c",
+        "department": "Lighting",
+        "job": "Assistant Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5297721,
+        "known_for_department": "Lighting",
+        "name": "Lucas Rodrigues",
+        "original_name": "Lucas Rodrigues",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "6858503cb3222f4dc0a7958b",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5346850,
+        "known_for_department": "Art",
+        "name": "Beatriz Imbiriba",
+        "original_name": "Beatriz Imbiriba",
+        "popularity": 0.1161,
+        "profile_path": null,
+        "credit_id": "68585058e607d43ddad14f17",
+        "department": "Sound",
+        "job": "Sound Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5084576,
+        "known_for_department": "Art",
+        "name": "Lucas Figueiredo",
+        "original_name": "Lucas Figueiredo",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "68585089173adab2e2dedb69",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5088751,
+        "known_for_department": "Crew",
+        "name": "Nanda Alves",
+        "original_name": "Nanda Alves",
+        "popularity": 0.0696,
+        "profile_path": null,
+        "credit_id": "6858509ff8aab6e6bbd0f887",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5084724,
+        "known_for_department": "Sound",
+        "name": "Luiza Jordan",
+        "original_name": "Luiza Jordan",
+        "popularity": 0.0787,
+        "profile_path": null,
+        "credit_id": "685850b69e45758214493374",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5521132,
+        "known_for_department": "Crew",
+        "name": "Jeyse Almeida",
+        "original_name": "Jeyse Almeida",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "685850d50fc1acecfb4bd159",
+        "department": "Crew",
+        "job": "Director of Communications"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5346893,
+        "known_for_department": "Sound",
+        "name": "Pedro Marques",
+        "original_name": "Pedro Marques",
+        "popularity": 0.4556,
+        "profile_path": null,
+        "credit_id": "685851467a8963aae349338c",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5521134,
+        "known_for_department": "Editing",
+        "name": "Tiago Holles",
+        "original_name": "Tiago Holles",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6858516fb96cf5661953ccda",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "BR",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "homepage": "",
+          "overview": "A história conta o início do dia de Júlia, que se repete toda vez que ela passa pela  porta de saída da casa dela. Porém, toda vez que ela volta  para o mesmo dia, um membro da família desaparece como se nunca tivesse  existido e apenas Júlia detém a memória deles. Durante as repetições, são  evidenciados problemas familiares de comunicação e afeto, trazendo reflexões  sobre os relacionamentos familiares e/ou a falta deles.",
+          "runtime": 24,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "The story tells the beginning of Júlia's day, which repeats itself every time she walks through the door of her house. However, every time she returns to the same day, a family member disappears as if they had never existed and only Júlia holds the memory of them. During the repetitions, family problems of communication and affection are highlighted, bringing reflections on family relationships and/or the lack thereof.",
+          "runtime": 24,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/zp0nGlaZutqVoe0tMu5fHlcjL4M.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "pt",
+            "note": "",
+            "release_date": "2025-05-23T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

@@ -1,0 +1,734 @@
+{
+  "adult": false,
+  "backdrop_path": "/zoSxV6XO6hFBbtSuWH7rtztLQcW.jpg",
+  "belongs_to_collection": null,
+  "budget": 2000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 1741482,
+  "imdb_id": null,
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "ARTE",
+  "overview": "A young film festival juror uncovers a bizarre conspiracy behind a film everyone but him seems to enjoy.",
+  "popularity": 0.9836,
+  "poster_path": "/zEHjMW9TdrJUIm2rtMCRAv2BXO9.jpg",
+  "production_companies": [
+    {
+      "id": 306147,
+      "logo_path": null,
+      "name": "Nolia Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2025-09-06",
+  "revenue": 0,
+  "runtime": 20,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "No one dares questioning a masterpiece",
+  "title": "ARTE",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4198596,
+        "known_for_department": "Directing",
+        "name": "Adrián Olmedo",
+        "original_name": "Adrián Olmedo",
+        "popularity": 0.0682,
+        "profile_path": "/bchIAWgU2J4RpvAARR9iWO1NnRy.jpg",
+        "cast_id": 1,
+        "character": "David",
+        "credit_id": "6a6dfe4c97a07366a4220e94",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2879569,
+        "known_for_department": "Acting",
+        "name": "Licia Alonso",
+        "original_name": "Licia Alonso",
+        "popularity": 0.3402,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Luisa Azcárraga",
+        "credit_id": "6a6dfea924699a1de4e9775b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5698358,
+        "known_for_department": "Acting",
+        "name": "Fábulo",
+        "original_name": "Fábulo",
+        "popularity": 0.2758,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Juan",
+        "credit_id": "6a6dfef3b98b9a1024e97565",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2556743,
+        "known_for_department": "Acting",
+        "name": "Julia Costa",
+        "original_name": "Julia Costa",
+        "popularity": 0.2837,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Iris",
+        "credit_id": "6a6dff692276e83afb66b51f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4415900,
+        "known_for_department": "Acting",
+        "name": "Lídia Costa",
+        "original_name": "Lídia Costa",
+        "popularity": 0.3026,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Eleanor",
+        "credit_id": "6a6dff310f4158ba0566b42e",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5756649,
+        "known_for_department": "Acting",
+        "name": "Carlos Granell",
+        "original_name": "Carlos Granell",
+        "popularity": 0.048,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Carlos",
+        "credit_id": "6a6dff0c2f12c5655ae59298",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6148324,
+        "known_for_department": "Sound",
+        "name": "Juan F. Arévalo",
+        "original_name": "Juan F. Arévalo",
+        "popularity": 0.2272,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Boy in the film",
+        "credit_id": "6a6e016ff2131ac5bb543d6d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6383479,
+        "known_for_department": "Acting",
+        "name": "Lucía Sepúlveda",
+        "original_name": "Lucía Sepúlveda",
+        "popularity": 0.1813,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Girl in the film",
+        "credit_id": "6a6e017ef4fde6e7c5966c4c",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4337901,
+        "known_for_department": "Acting",
+        "name": "Marina Xeix",
+        "original_name": "Marina Xeix",
+        "popularity": 0.1089,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "(Additional Voices)",
+        "credit_id": "6a6e0146f0c7bf787a246bb9",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4198597,
+        "known_for_department": "Acting",
+        "name": "Eric Corvo",
+        "original_name": "Eric Corvo",
+        "popularity": 0.1662,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "(Additional Voices)",
+        "credit_id": "6a6e014fe41dacdef3e975d9",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4284077,
+        "known_for_department": "Directing",
+        "name": "Martí Rovira Cortada",
+        "original_name": "Martí Rovira Cortada",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "(Additional Voices)",
+        "credit_id": "6a6e015fa0cceba21466b513",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4198596,
+        "known_for_department": "Directing",
+        "name": "Adrián Olmedo",
+        "original_name": "Adrián Olmedo",
+        "popularity": 0.0682,
+        "profile_path": "/bchIAWgU2J4RpvAARR9iWO1NnRy.jpg",
+        "credit_id": "6a6dff992f12c5655ae592b0",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4198596,
+        "known_for_department": "Directing",
+        "name": "Adrián Olmedo",
+        "original_name": "Adrián Olmedo",
+        "popularity": 0.0682,
+        "profile_path": "/bchIAWgU2J4RpvAARR9iWO1NnRy.jpg",
+        "credit_id": "6a6dffa412d88da275246d80",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4198596,
+        "known_for_department": "Directing",
+        "name": "Adrián Olmedo",
+        "original_name": "Adrián Olmedo",
+        "popularity": 0.0682,
+        "profile_path": "/bchIAWgU2J4RpvAARR9iWO1NnRy.jpg",
+        "credit_id": "6a6dffad640159206966b497",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4198596,
+        "known_for_department": "Directing",
+        "name": "Adrián Olmedo",
+        "original_name": "Adrián Olmedo",
+        "popularity": 0.0682,
+        "profile_path": "/bchIAWgU2J4RpvAARR9iWO1NnRy.jpg",
+        "credit_id": "6a6dffbd6564de4161e9761c",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6383473,
+        "known_for_department": "Production",
+        "name": "Júlia Ruiz",
+        "original_name": "Júlia Ruiz",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a6e003d1f9025c5b39b1a98",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6148324,
+        "known_for_department": "Sound",
+        "name": "Juan F. Arévalo",
+        "original_name": "Juan F. Arévalo",
+        "popularity": 0.2272,
+        "profile_path": null,
+        "credit_id": "6a6e007cf320029f8f246d93",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6148324,
+        "known_for_department": "Sound",
+        "name": "Juan F. Arévalo",
+        "original_name": "Juan F. Arévalo",
+        "popularity": 0.2272,
+        "profile_path": null,
+        "credit_id": "6a6e008b833f38edca9b18c5",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6383474,
+        "known_for_department": "Production",
+        "name": "Deni Olmedo",
+        "original_name": "Deni Olmedo",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a6e00de1975bae7b0e9753d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6383475,
+        "known_for_department": "Production",
+        "name": "Care Santos",
+        "original_name": "Care Santos",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "6a6e00eb2276e83afb66b539",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6383476,
+        "known_for_department": "Production",
+        "name": "Sina Winterstein",
+        "original_name": "Sina Winterstein",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "6a6e00fa12d88da275246d8b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6148324,
+        "known_for_department": "Sound",
+        "name": "Juan F. Arévalo",
+        "original_name": "Juan F. Arévalo",
+        "popularity": 0.2272,
+        "profile_path": null,
+        "credit_id": "6a6e01b9e61e3f02b04d792f",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6383480,
+        "known_for_department": "Directing",
+        "name": "Flavio Poli",
+        "original_name": "Flavio Poli",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "6a6e020837d9928b0466b5b9",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4415935,
+        "known_for_department": "Art",
+        "name": "Laura Delgado \"LUA\"",
+        "original_name": "Laura Delgado \"LUA\"",
+        "popularity": 0.2045,
+        "profile_path": null,
+        "credit_id": "6a6e02155eae0a3681246c4e",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4415935,
+        "known_for_department": "Art",
+        "name": "Laura Delgado \"LUA\"",
+        "original_name": "Laura Delgado \"LUA\"",
+        "popularity": 0.2045,
+        "profile_path": null,
+        "credit_id": "6a6e022570494a1003e590d1",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4415935,
+        "known_for_department": "Art",
+        "name": "Laura Delgado \"LUA\"",
+        "original_name": "Laura Delgado \"LUA\"",
+        "popularity": 0.2045,
+        "profile_path": null,
+        "credit_id": "6a6e02432211410c7b66b5f8",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4415916,
+        "known_for_department": "Production",
+        "name": "Jan Escoda",
+        "original_name": "Jan Escoda",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a6e025162530abc04543bc6",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4754019,
+        "known_for_department": "Camera",
+        "name": "Alain Noguez",
+        "original_name": "Alain Noguez",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a6e02735508a7a3ba9b1ad3",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4770181,
+        "known_for_department": "Lighting",
+        "name": "Luis M. Bejarano",
+        "original_name": "Luis M. Bejarano",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a6e0293e41dacdef3e975e3",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4200268,
+        "known_for_department": "Production",
+        "name": "Emma Romeo",
+        "original_name": "Emma Romeo",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "6a6e02a23f06b5007a9b17a7",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5435436,
+        "known_for_department": "Editing",
+        "name": "Rubén Arbide",
+        "original_name": "Rubén Arbide",
+        "popularity": 0.0875,
+        "profile_path": null,
+        "credit_id": "6a6e02bb496e0e5867966cc8",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3756996,
+        "known_for_department": "Editing",
+        "name": "Mariona López",
+        "original_name": "Mariona López",
+        "popularity": 0.0806,
+        "profile_path": null,
+        "credit_id": "6a6e02e22d0b966fc3246b5b",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4206325,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Mireia Vásquez",
+        "original_name": "Mireia Vásquez",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a6e0303e61e3f02b04d795a",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6383483,
+        "known_for_department": "Camera",
+        "name": "Marcelo Espí",
+        "original_name": "Marcelo Espí",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a6e034ef4fde6e7c5966c5e",
+        "department": "Camera",
+        "job": "Additional Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4198596,
+        "known_for_department": "Directing",
+        "name": "Adrián Olmedo",
+        "original_name": "Adrián Olmedo",
+        "popularity": 0.0682,
+        "profile_path": "/bchIAWgU2J4RpvAARR9iWO1NnRy.jpg",
+        "credit_id": "6a6e035d3f06b5007a9b17b8",
+        "department": "Art",
+        "job": "Title Designer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "A young film festival juror uncovers a bizarre conspiracy behind a film everyone but him seems to enjoy.",
+          "runtime": 20,
+          "tagline": "No one dares questioning a masterpiece",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1628,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/zoSxV6XO6hFBbtSuWH7rtztLQcW.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2895
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1630,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/8JpyKdOK4HiDGLSA6mO0is8wrqO.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2898
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1629,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/iQCSNa2vz7iy1BBNBfEPVJ3hBc8.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2896
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/8J2VMj3C7AqgCIw3KPuuPGirSkQ.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/rjxeIn0unbVSJ0qMeNQtpAHMaEV.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/gtf2BURktBWZDGjAR6qFVfpSJQT.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/blqT7QXyHBXvlNSh0VZr7PmSIGw.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/6AugJlItR7RId6ylC9x7XzSpIMK.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/c8fqQaJHkUwgOkIfXRm5j7ZXK9T.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/4hvlRZo5ZK7xI8rqsVfg1DFGdCu.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/dulFNYOkPfwPnzEtCxDlpOrsCIq.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/lZBrRXpB9KNV1ppOalm6JbTmfUm.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/zEapOBo7kGl6m9fjvkS202h5zyw.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/mdUngl3wwei9UZtb4DMFY6yOz27.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      }
+    ],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "",
+            "release_date": "2025-09-06T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "ARTE - Trailer oficial",
+        "key": "FaimfIJyNYY",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "6a6e0e64640159206966b56d",
+        "published_at": "2025-12-22T12:17:30.000Z"
+      }
+    ]
+  }
+}

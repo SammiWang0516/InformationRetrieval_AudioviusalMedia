@@ -1,0 +1,614 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1694124,
+  "imdb_id": null,
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_title": "Malayang Daloy",
+  "overview": "The story follows a young boy, Paelo, who spends his semestral  break in his home in Laguna. During his stay, an event in his  family unfolds and he’ll be forced to navigate his surroundings  through a child’s imagination–with his favorite Auntie, Mae.",
+  "popularity": 0.8374,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 162167,
+      "logo_path": null,
+      "name": "Last Minute Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "release_date": "2026-05-05",
+  "revenue": 0,
+  "runtime": 25,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Free Flow",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2046193,
+        "known_for_department": "Acting",
+        "name": "Carla Zarcal",
+        "original_name": "Carla Zarcal",
+        "popularity": 0.0876,
+        "profile_path": "/sM9YNqbTPcBByNdyru0yXcn49HS.jpg",
+        "cast_id": 1,
+        "character": "Myrna",
+        "credit_id": "6a049ffffbc8d2d3775e6342",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1164857,
+        "known_for_department": "Acting",
+        "name": "Kristine Kintana",
+        "original_name": "Kristine Kintana",
+        "popularity": 0.1253,
+        "profile_path": "/74WqWLhH0f2DhGjUxHWJDMeZ1HJ.jpg",
+        "cast_id": 2,
+        "character": "Mae",
+        "credit_id": "6a04a01093857a6e03ce8654",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5648247,
+        "known_for_department": "Acting",
+        "name": "Zed Xyrus Martin",
+        "original_name": "Zed Xyrus Martin",
+        "popularity": 0.342,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Paelo",
+        "credit_id": "6a04a02306b0a66eba91b06f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1541249,
+        "known_for_department": "Acting",
+        "name": "Elan Villafuerte",
+        "original_name": "Elan Villafuerte",
+        "popularity": 0.1672,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Gerardo",
+        "credit_id": "6a04a037ec5279216299ffaa",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3720472,
+        "known_for_department": "Acting",
+        "name": "Aileen Sahibad",
+        "original_name": "Aileen Sahibad",
+        "popularity": 0.0376,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Weny",
+        "credit_id": "6a04a050f9fbd4923ace8614",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4723141,
+        "known_for_department": "Art",
+        "name": "Monica Calderon",
+        "original_name": "Monica Calderon",
+        "popularity": 0.1499,
+        "profile_path": null,
+        "credit_id": "6a04a07257c89bf85135f561",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4723141,
+        "known_for_department": "Art",
+        "name": "Monica Calderon",
+        "original_name": "Monica Calderon",
+        "popularity": 0.1499,
+        "profile_path": null,
+        "credit_id": "6a04a08293857a6e03ce866a",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3556543,
+        "known_for_department": "Directing",
+        "name": "Kurt Joshua Oro",
+        "original_name": "Kurt Joshua Oro",
+        "popularity": 0.087,
+        "profile_path": "/kNrx0dcZ7UMJhjKAEmSCF4rgrvZ.jpg",
+        "credit_id": "6a04a08b88888f1eb099ff58",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4691247,
+        "known_for_department": "Acting",
+        "name": "Mary Joy Cutamora",
+        "original_name": "Mary Joy Cutamora",
+        "popularity": 0.0941,
+        "profile_path": null,
+        "credit_id": "6a04a09ef9fbd4923ace8643",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5007318,
+        "known_for_department": "Acting",
+        "name": "Jean Yohan Santos",
+        "original_name": "Jean Yohan Santos",
+        "popularity": 0.1562,
+        "profile_path": null,
+        "credit_id": "6a04a0ccde9703dc8b99ff2f",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4438701,
+        "known_for_department": "Directing",
+        "name": "Hayden Villarico",
+        "original_name": "Hayden Villarico",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a04a102de9703dc8b99ff3d",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5440811,
+        "known_for_department": "Writing",
+        "name": "Yel Pimentel",
+        "original_name": "Yel Pimentel",
+        "popularity": 0.0859,
+        "profile_path": null,
+        "credit_id": "6a04a11df9fbd4923ace867a",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5440811,
+        "known_for_department": "Writing",
+        "name": "Yel Pimentel",
+        "original_name": "Yel Pimentel",
+        "popularity": 0.0859,
+        "profile_path": null,
+        "credit_id": "6a04a12793857a6e03ce86a1",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4723141,
+        "known_for_department": "Art",
+        "name": "Monica Calderon",
+        "original_name": "Monica Calderon",
+        "popularity": 0.1499,
+        "profile_path": null,
+        "credit_id": "6a04a136e8641b2478ce867a",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4737374,
+        "known_for_department": "Acting",
+        "name": "Kasharelle Javier",
+        "original_name": "Kasharelle Javier",
+        "popularity": 0.0928,
+        "profile_path": null,
+        "credit_id": "6a04a140ed82d7e19474d3a8",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4624214,
+        "known_for_department": "Directing",
+        "name": "Myzqah Siriban",
+        "original_name": "Myzqah Siriban",
+        "popularity": 0.1469,
+        "profile_path": null,
+        "credit_id": "6a04a16493857a6e03ce86b9",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4478695,
+        "known_for_department": "Camera",
+        "name": "Krystoffer Zyanel Bermudez",
+        "original_name": "Krystoffer Zyanel Bermudez",
+        "popularity": 0.2043,
+        "profile_path": null,
+        "credit_id": "6a04a1737cdd6a00fe99feb9",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4435250,
+        "known_for_department": "Camera",
+        "name": "Patrick Allan",
+        "original_name": "Patrick Allan",
+        "popularity": 0.1689,
+        "profile_path": null,
+        "credit_id": "6a04a193acc85e12c235f53c",
+        "department": "Lighting",
+        "job": "Lighting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4440070,
+        "known_for_department": "Acting",
+        "name": "Clarence Magas",
+        "original_name": "Clarence Magas",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "6a04a1a16a46baf83bce8658",
+        "department": "Lighting",
+        "job": "Lighting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4423023,
+        "known_for_department": "Directing",
+        "name": "Angelo Copon",
+        "original_name": "Angelo Copon",
+        "popularity": 0.1559,
+        "profile_path": "/ySN2sKXp2QlTR5yb8TohymykzOh.jpg",
+        "credit_id": "6a04a1abc591c69c0c0b6963",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5220396,
+        "known_for_department": "Writing",
+        "name": "Anya Louise",
+        "original_name": "Anya Louise",
+        "popularity": 0.206,
+        "profile_path": null,
+        "credit_id": "6a04a1b815a53d48a974d3ce",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5762611,
+        "known_for_department": "Art",
+        "name": "Daryl Lyn Sumadsad",
+        "original_name": "Daryl Lyn Sumadsad",
+        "popularity": 0.1301,
+        "profile_path": null,
+        "credit_id": "6a04a1d081671a053c0b69b1",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4737374,
+        "known_for_department": "Acting",
+        "name": "Kasharelle Javier",
+        "original_name": "Kasharelle Javier",
+        "popularity": 0.0928,
+        "profile_path": null,
+        "credit_id": "6a04a1dbc117a9220435f5ee",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5418471,
+        "known_for_department": "Directing",
+        "name": "Joshua Relacion",
+        "original_name": "Joshua Relacion",
+        "popularity": 0.1077,
+        "profile_path": null,
+        "credit_id": "6a04a1ecfbc8d2d3775e636e",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4691059,
+        "known_for_department": "Art",
+        "name": "Khean Bañez",
+        "original_name": "Khean Bañez",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "6a04a21ce8641b2478ce867e",
+        "department": "Production",
+        "job": "Casting Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4782591,
+        "known_for_department": "Camera",
+        "name": "Faisal Boncales",
+        "original_name": "Faisal Boncales",
+        "popularity": 0.0379,
+        "profile_path": "/8yZWQUNozj6s2YtmT3uqXuUdtAb.jpg",
+        "credit_id": "6a04a2335827fc000035f5b7",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6210720,
+        "known_for_department": "Production",
+        "name": "Paula Jamie Guzman",
+        "original_name": "Paula Jamie Guzman",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "6a04a25131b0b8984291b149",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5007302,
+        "known_for_department": "Writing",
+        "name": "Celestino Don Peralta IV",
+        "original_name": "Celestino Don Peralta IV",
+        "popularity": 0.1997,
+        "profile_path": null,
+        "credit_id": "6a04a2637337e576a935f63a",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5401282,
+        "known_for_department": "Sound",
+        "name": "Romaine Capitan",
+        "original_name": "Romaine Capitan",
+        "popularity": 0.0556,
+        "profile_path": null,
+        "credit_id": "6a04a288469e4d26e474d3b1",
+        "department": "Sound",
+        "job": "Music Score Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4782591,
+        "known_for_department": "Camera",
+        "name": "Faisal Boncales",
+        "original_name": "Faisal Boncales",
+        "popularity": 0.0379,
+        "profile_path": "/8yZWQUNozj6s2YtmT3uqXuUdtAb.jpg",
+        "credit_id": "6a04a29f7337e576a935f643",
+        "department": "Editing",
+        "job": "Color Grading"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4704067,
+        "known_for_department": "Art",
+        "name": "Luke Salazar",
+        "original_name": "Luke Salazar",
+        "popularity": 0.098,
+        "profile_path": "/nMQJQ7B1ZDYf4wZK74nN9FfA5ha.jpg",
+        "credit_id": "6a04a2bddbf8d001f6ce8648",
+        "department": "Writing",
+        "job": "Creative Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3449564,
+        "known_for_department": "Production",
+        "name": "Fred Autor",
+        "original_name": "Fred Autor",
+        "popularity": 0.0313,
+        "profile_path": "/vzxUlZyAOeW6kHI67e3Ucf12PkZ.jpg",
+        "credit_id": "6a04a355071d434cb7ce85cb",
+        "department": "Writing",
+        "job": "Script Consultant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5686103,
+        "known_for_department": "Production",
+        "name": "Elisha Therese Dejapin",
+        "original_name": "Elisha Therese Dejapin",
+        "popularity": 0.0417,
+        "profile_path": null,
+        "credit_id": "6a04a38438ff6a1b2c9cf90f",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5007318,
+        "known_for_department": "Acting",
+        "name": "Jean Yohan Santos",
+        "original_name": "Jean Yohan Santos",
+        "popularity": 0.1562,
+        "profile_path": null,
+        "credit_id": "6a04a3b181671a053c0b69f2",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6210737,
+        "known_for_department": "Production",
+        "name": "Reign Santos",
+        "original_name": "Reign Santos",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a04a3d794935ee7c19cf954",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2776804,
+        "known_for_department": "Production",
+        "name": "Seymour Sanchez",
+        "original_name": "Seymour Sanchez",
+        "popularity": 0.0931,
+        "profile_path": null,
+        "credit_id": "6a04a3f431b0b8984291b192",
+        "department": "Crew",
+        "job": "Creative Consultant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5007318,
+        "known_for_department": "Acting",
+        "name": "Jean Yohan Santos",
+        "original_name": "Jean Yohan Santos",
+        "popularity": 0.1562,
+        "profile_path": null,
+        "credit_id": "6a04a42553398ff7ec9cf920",
+        "department": "Crew",
+        "job": "Creative Consultant"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 5918,
+        "name": "painting"
+      },
+      {
+        "id": 18035,
+        "name": "family"
+      },
+      {
+        "id": 329345,
+        "name": "passion"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "The story follows a young boy, Paelo, who spends his semestral  break in his home in Laguna. During his stay, an event in his  family unfolds and he’ll be forced to navigate his surroundings  through a child’s imagination–with his favorite Auntie, Mae.",
+          "runtime": 25,
+          "tagline": "",
+          "title": "Free Flow"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "PH",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "tl",
+            "note": "",
+            "release_date": "2026-05-05T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

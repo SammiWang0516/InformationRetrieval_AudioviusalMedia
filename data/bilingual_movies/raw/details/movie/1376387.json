@@ -1,0 +1,602 @@
+{
+  "adult": false,
+  "backdrop_path": "/5FeUaHRBoVXf7PEyPchdhkdP58T.jpg",
+  "belongs_to_collection": null,
+  "budget": 203,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 1376387,
+  "imdb_id": "tt44881774",
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_title": "Viva Marília",
+  "overview": "The historical, political, and social context of Brazil in the 1960s, 1970s, and 1980s, and the impact of each decade on the life and work of the acclaimed actress Marília Pêra.",
+  "popularity": 0.8655,
+  "poster_path": "/13pzkz6ePwXuYKH0VsVijtRWjUR.jpg",
+  "production_companies": [
+    {
+      "id": 13969,
+      "logo_path": "/pFh6R6D4wpztG5aSblu14TtrR57.png",
+      "name": "Globo Filmes",
+      "origin_country": "BR"
+    },
+    {
+      "id": 8565,
+      "logo_path": null,
+      "name": "Mapa Filmes",
+      "origin_country": "BR"
+    },
+    {
+      "id": 13573,
+      "logo_path": "/4dqepK1XdLklrsYdnFpCEkOPXLX.png",
+      "name": "Canal Brasil",
+      "origin_country": "BR"
+    },
+    {
+      "id": 79744,
+      "logo_path": "/yGT0Z3V6aBdT07vroK6rnYYtM19.png",
+      "name": "GloboNews",
+      "origin_country": "BR"
+    },
+    {
+      "id": 93232,
+      "logo_path": null,
+      "name": "Forte Filmes",
+      "origin_country": "BR"
+    },
+    {
+      "id": 208452,
+      "logo_path": null,
+      "name": "Bando Sonoro",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "release_date": "2026-09-10",
+  "revenue": 0,
+  "runtime": 80,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A celebration of Marília Pêra's career",
+  "title": "Viva Marília",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10057,
+        "known_for_department": "Acting",
+        "name": "Marília Pêra",
+        "original_name": "Marília Pêra",
+        "popularity": 0.3764,
+        "profile_path": "/9gxyrjoTlBPjEp6SnISeFU4hVMs.jpg",
+        "cast_id": 1,
+        "character": "Self (archive footage)",
+        "credit_id": "671a7db3fefd1e0510fff555",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 50369,
+        "known_for_department": "Acting",
+        "name": "Sandra Pêra",
+        "original_name": "Sandra Pêra",
+        "popularity": 0.2262,
+        "profile_path": "/vY0NFBh0p7cYWwVTTWj1WgL6QVp.jpg",
+        "cast_id": 16,
+        "character": "Self (archive footage)",
+        "credit_id": "67f12d808b1f32eb79d978ad",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1465231,
+        "known_for_department": "Acting",
+        "name": "Nina Morena",
+        "original_name": "Nina Morena",
+        "popularity": 0.3979,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Self (archive footage)",
+        "credit_id": "67f12d92a7336870ee9939fc",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1132574,
+        "known_for_department": "Acting",
+        "name": "Nelson Motta",
+        "original_name": "Nelson Motta",
+        "popularity": 0.1427,
+        "profile_path": "/4r0jH05q2J1wloioaz0Jt3rI0Vt.jpg",
+        "cast_id": 18,
+        "character": "Self (archive footage)",
+        "credit_id": "67f12da08b1f32eb79d9790f",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3309766,
+        "known_for_department": "Acting",
+        "name": "Esperança Motta",
+        "original_name": "Esperança Motta",
+        "popularity": 0.3258,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Self (archive footage)",
+        "credit_id": "67f12db30c791beb57ad5075",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1130527,
+        "known_for_department": "Acting",
+        "name": "Ricardo Graça Mello",
+        "original_name": "Ricardo Graça Mello",
+        "popularity": 0.1842,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Self (archive footage)",
+        "credit_id": "67f12dc1a7336870ee993a08",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2071025,
+        "known_for_department": "Acting",
+        "name": "Manuel Pêra",
+        "original_name": "Manuel Pêra",
+        "popularity": 0.0893,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Self (archive footage)",
+        "credit_id": "67f12df60c791beb57ad508a",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2526122,
+        "known_for_department": "Acting",
+        "name": "Dinorah Marzullo",
+        "original_name": "Dinorah Marzullo",
+        "popularity": 0.343,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Self (archive footage)",
+        "credit_id": "67f12e020c791beb57ad508d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1247403,
+        "known_for_department": "Acting",
+        "name": "Hebe Camargo",
+        "original_name": "Hebe Camargo",
+        "popularity": 0.2459,
+        "profile_path": "/jeUDHk2uO9PwMeNB7SpLBlETrsr.jpg",
+        "cast_id": 23,
+        "character": "Self (archive footage)",
+        "credit_id": "67f12e0cb3e035286cd99766",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 123762,
+        "known_for_department": "Acting",
+        "name": "Marco Nanini",
+        "original_name": "Marco Nanini",
+        "popularity": 0.266,
+        "profile_path": "/pwgWgm54zI4yKsSfb9y3hY7xd9M.jpg",
+        "cast_id": 24,
+        "character": "Self (archive footage)",
+        "credit_id": "67f12e1a8b1f32eb79d97977",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40542,
+        "known_for_department": "Directing",
+        "name": "Héctor Babenco",
+        "original_name": "Héctor Babenco",
+        "popularity": 0.5128,
+        "profile_path": "/jGbRuTbcBVynFMsIKxke7F4fNbY.jpg",
+        "cast_id": 25,
+        "character": "Self (archive footage)",
+        "credit_id": "67f12e39a7336870ee993a68",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 237771,
+        "known_for_department": "Acting",
+        "name": "Jô Soares",
+        "original_name": "Jô Soares",
+        "popularity": 0.4768,
+        "profile_path": "/hLw1GXsVdxmz53zADPAOlPflEFi.jpg",
+        "cast_id": 26,
+        "character": "Self (archive footage)",
+        "credit_id": "67f12e42b3e035286cd99773",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 589364,
+        "known_for_department": "Acting",
+        "name": "Marília Gabriela",
+        "original_name": "Marília Gabriela",
+        "popularity": 0.2386,
+        "profile_path": "/vK3n8V7TFdQ7jloAX0DgrXegpig.jpg",
+        "cast_id": 27,
+        "character": "Self (archive footage)",
+        "credit_id": "67f12e4da7336870ee993a75",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 621402,
+        "known_for_department": "Directing",
+        "name": "Zelito Viana",
+        "original_name": "Zelito Viana",
+        "popularity": 0.4732,
+        "profile_path": "/6bIbdRjuYfJ4UvNsboNpY7GeG1u.jpg",
+        "credit_id": "671a7dc7fefd1e0510fff569",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1132574,
+        "known_for_department": "Acting",
+        "name": "Nelson Motta",
+        "original_name": "Nelson Motta",
+        "popularity": 0.1427,
+        "profile_path": "/4r0jH05q2J1wloioaz0Jt3rI0Vt.jpg",
+        "credit_id": "671a7de5fefd1e0510fff579",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1146986,
+        "known_for_department": "Editing",
+        "name": "Jordana Berg",
+        "original_name": "Jordana Berg",
+        "popularity": 0.2174,
+        "profile_path": "/8rZgiNBzU1cDChuwJ9UpOC7Vzda.jpg",
+        "credit_id": "673b8b691621836b2d69d359",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1178006,
+        "known_for_department": "Acting",
+        "name": "Remier Lion",
+        "original_name": "Remier Lion",
+        "popularity": 0.2129,
+        "profile_path": null,
+        "credit_id": "673b8bc79b072aba8c825699",
+        "department": "Production",
+        "job": "Researcher"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5067210,
+        "known_for_department": "Production",
+        "name": "Paula Pinto",
+        "original_name": "Paula Pinto",
+        "popularity": 0.0734,
+        "profile_path": null,
+        "credit_id": "673b8cc1a5fad1ee999033de",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 50369,
+        "known_for_department": "Acting",
+        "name": "Sandra Pêra",
+        "original_name": "Sandra Pêra",
+        "popularity": 0.2262,
+        "profile_path": "/vY0NFBh0p7cYWwVTTWj1WgL6QVp.jpg",
+        "credit_id": "673b8d38950ca67080e7cb1f",
+        "department": "Production",
+        "job": "Researcher"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1130527,
+        "known_for_department": "Acting",
+        "name": "Ricardo Graça Mello",
+        "original_name": "Ricardo Graça Mello",
+        "popularity": 0.1842,
+        "profile_path": null,
+        "credit_id": "673b8d5070304f28c85ff009",
+        "department": "Production",
+        "job": "Research Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1465231,
+        "known_for_department": "Acting",
+        "name": "Nina Morena",
+        "original_name": "Nina Morena",
+        "popularity": 0.3979,
+        "profile_path": null,
+        "credit_id": "673b8d5c9b072aba8c825731",
+        "department": "Production",
+        "job": "Research Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1872533,
+        "known_for_department": "Sound",
+        "name": "Fernando Aranha",
+        "original_name": "Fernando Aranha",
+        "popularity": 0.2349,
+        "profile_path": null,
+        "credit_id": "67f12f3aa7336870ee993ad7",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2283477,
+        "known_for_department": "Sound",
+        "name": "Bruno Armelin",
+        "original_name": "Bruno Armelin",
+        "popularity": 0.1339,
+        "profile_path": null,
+        "credit_id": "67f12f6da7336870ee993ae5",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1903525,
+        "known_for_department": "Sound",
+        "name": "Bernardo Adeodato",
+        "original_name": "Bernardo Adeodato",
+        "popularity": 0.1155,
+        "profile_path": null,
+        "credit_id": "67f12fd22f7d4370279992a1",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3309766,
+        "known_for_department": "Acting",
+        "name": "Esperança Motta",
+        "original_name": "Esperança Motta",
+        "popularity": 0.3258,
+        "profile_path": null,
+        "credit_id": "692a44b896ff27c50d3ce408",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 340611,
+        "name": "a celebration of marília pêra's career"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "The historical, political, and social context of Brazil in the 1960s, 1970s, and 1980s, and the impact of each decade on the life and work of the acclaimed actress Marília Pêra.",
+          "runtime": 80,
+          "tagline": "A celebration of Marília Pêra's career",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "BR",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "homepage": "https://etudoverdade.com.br/br/filme/54206-Viva-Marilia",
+          "overview": "O contexto histórico, político e social do Brasil nos anos 1960, 1970 e 1980, e o impacto de cada década na vida e obra da consagrada atriz Marília Pêra. Marília estava inserida numa geração de mulheres fortes e potentes que, com sua arte, influenciaram corações e mentes. Durante a carreira, foram 49 peças, 29 novelas, 12 séries e 24 filmes. Ela conquistou o público e mais de 80 prêmios nacionais e internacionais.",
+          "runtime": 87,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "MX",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "El contexto histórico, político y social de Brasil en los años 60, 70 y 80, y el impacto de cada década en la vida y obra de la consagrada actriz Marília Pêra. Marília formaba parte de una generación de mujeres fuertes y poderosas que, con su arte, influyeron en corazones y mentes. A lo largo de su carrera, participó en 49 obras de teatro, 29 telenovelas, 12 series y 24 películas. Conquistó al público y ganó más de 80 premios nacionales e internacionales.",
+          "runtime": 87,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "BR",
+        "title": "Marília Soares Marzullo Pêra",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt44881774",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 761,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/5FeUaHRBoVXf7PEyPchdhkdP58T.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1353
+      },
+      {
+        "aspect_ratio": 1.776,
+        "height": 1712,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/gFr5UhbMoW5DmbvD9uAvWwriY5k.jpg",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 3040
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/e8IYPcyr4TSCudB7oh6kURkfLhM.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/7UX5JNXTZwzKverP8XACMTcuHyS.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      }
+    ],
+    "logos": [
+      {
+        "aspect_ratio": 2.333,
+        "height": 654,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/q2n2sfvgdhxVac6mcqK7xmDP9Ih.png",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1526
+      }
+    ],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "14",
+            "descriptors": [],
+            "iso_639_1": "pt",
+            "note": "30º É Tudo Verdade - Festival Internacional de Documentários",
+            "release_date": "2025-04-03T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "14",
+            "descriptors": [
+              "Sexual Content",
+              "Legal Drugs",
+              "Nudity",
+              "Violence"
+            ],
+            "iso_639_1": "pt",
+            "note": "",
+            "release_date": "2026-09-10T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "PG-13",
+            "descriptors": [],
+            "iso_639_1": "pt",
+            "note": "",
+            "release_date": "2025-12-05T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

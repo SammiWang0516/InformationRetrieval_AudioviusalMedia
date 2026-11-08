@@ -1,0 +1,662 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1620079,
+  "imdb_id": null,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Petrichor",
+  "overview": "Introverted Noah reluctantly spends his summer vacation with his family in the French countryside. One day, he meets siblings Julie and Léo at the lake. Despite the language barrier, a relationship develops between him and Julie that oscillates between attraction and repulsion, causing Noah to grapple with his sexual orientation.",
+  "popularity": 0.7751,
+  "poster_path": "/4dzl74gdZKOx6VZ5jTUu8ExHVMG.jpg",
+  "production_companies": [
+    {
+      "id": 154442,
+      "logo_path": null,
+      "name": "HBKsaar Hochschule der Bildenden Künste Saar",
+      "origin_country": ""
+    },
+    {
+      "id": 23983,
+      "logo_path": "/mwdVAta6xcY8eCpL5t8KKc96BWm.png",
+      "name": "SR",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2026-01-22",
+  "revenue": 0,
+  "runtime": 31,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Petrichor",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5961205,
+        "known_for_department": "Acting",
+        "name": "Mathis Li",
+        "original_name": "Mathis Li",
+        "popularity": 0.1434,
+        "profile_path": "/aUhn0g3cV2imyFfnY2wQ8kJOuaL.jpg",
+        "cast_id": 9,
+        "character": "Noah",
+        "credit_id": "6975cef900b2fac184ae341e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5961207,
+        "known_for_department": "Acting",
+        "name": "Hanna Zürn",
+        "original_name": "Hanna Zürn",
+        "popularity": 0.0897,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Julie",
+        "credit_id": "6975cf15eef28af4adeaf1b0",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6254043,
+        "known_for_department": "Acting",
+        "name": "Jessi Schultheiß",
+        "original_name": "Jessi Schultheiß",
+        "popularity": 0.1215,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Mother",
+        "credit_id": "6a1c3a92e47a74703c360329",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6254044,
+        "known_for_department": "Acting",
+        "name": "Reinhold Rolser",
+        "original_name": "Reinhold Rolser",
+        "popularity": 0.1281,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Father",
+        "credit_id": "6a1c3aa021a21dbed49f6505",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4875602,
+        "known_for_department": "Acting",
+        "name": "Simon Kliebenstein",
+        "original_name": "Simon Kliebenstein",
+        "popularity": 0.1656,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Dancer",
+        "credit_id": "6a1c3aaaac3c4ff4e4f0b735",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4343428,
+        "known_for_department": "Acting",
+        "name": "Anthony Adam",
+        "original_name": "Anthony Adam",
+        "popularity": 0.0342,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Leo",
+        "credit_id": "6a1c3abe3a4aaa0e72002602",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5951671,
+        "known_for_department": "Directing",
+        "name": "Finn Fiege",
+        "original_name": "Finn Fiege",
+        "popularity": 0.0947,
+        "profile_path": null,
+        "credit_id": "696fb313e0c2c8eeb0abd2b3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5951672,
+        "known_for_department": "Directing",
+        "name": "Michael Kitzhöfer",
+        "original_name": "Michael Kitzhöfer",
+        "popularity": 0.0593,
+        "profile_path": null,
+        "credit_id": "696fb31d0e8da684b2e0ac95",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5951671,
+        "known_for_department": "Directing",
+        "name": "Finn Fiege",
+        "original_name": "Finn Fiege",
+        "popularity": 0.0947,
+        "profile_path": null,
+        "credit_id": "6975ce7082a21627b1ab9ac5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5317268,
+        "known_for_department": "Production",
+        "name": "Jonas Meiser",
+        "original_name": "Jonas Meiser",
+        "popularity": 0.0969,
+        "profile_path": null,
+        "credit_id": "6975ce80ef911f4ad2a37f43",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5317268,
+        "known_for_department": "Production",
+        "name": "Jonas Meiser",
+        "original_name": "Jonas Meiser",
+        "popularity": 0.0969,
+        "profile_path": null,
+        "credit_id": "6975ce8df22dcf2b026946c1",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5951672,
+        "known_for_department": "Directing",
+        "name": "Michael Kitzhöfer",
+        "original_name": "Michael Kitzhöfer",
+        "popularity": 0.0593,
+        "profile_path": null,
+        "credit_id": "6975ce9b308aab2608106199",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5951671,
+        "known_for_department": "Directing",
+        "name": "Finn Fiege",
+        "original_name": "Finn Fiege",
+        "popularity": 0.0947,
+        "profile_path": null,
+        "credit_id": "6975cea60407af05681062cb",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4514389,
+        "known_for_department": "Directing",
+        "name": "Lukas Weishaar",
+        "original_name": "Lukas Weishaar",
+        "popularity": 0.0631,
+        "profile_path": null,
+        "credit_id": "6975ced47f28fbec261062fd",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6289402,
+        "known_for_department": "Sound",
+        "name": "Benedikt Dresen",
+        "original_name": "Benedikt Dresen",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a3156a37ec55f5a47ff8a07",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6289402,
+        "known_for_department": "Sound",
+        "name": "Benedikt Dresen",
+        "original_name": "Benedikt Dresen",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a3156c237bdf13078cf02d6",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6289404,
+        "known_for_department": "Art",
+        "name": "Annabelle Bender",
+        "original_name": "Annabelle Bender",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "6a315715c2cf5414cd3c782a",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6289405,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Alina Martinek",
+        "original_name": "Alina Martinek",
+        "popularity": 0.0337,
+        "profile_path": null,
+        "credit_id": "6a31572f2b57ea70b1d83628",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6289406,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Severin Görlich",
+        "original_name": "Severin Görlich",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a31575e7541a8e6c0bc023e",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6289407,
+        "known_for_department": "Camera",
+        "name": "Jannis Braunberger",
+        "original_name": "Jannis Braunberger",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a31577a68e092f912d83979",
+        "department": "Camera",
+        "job": "Set Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6289407,
+        "known_for_department": "Camera",
+        "name": "Jannis Braunberger",
+        "original_name": "Jannis Braunberger",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a315799e44bed0da2fedc8e",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6289409,
+        "known_for_department": "Production",
+        "name": "Ali El-Dorr",
+        "original_name": "Ali El-Dorr",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a3157da1072eecf64bbfece",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5377135,
+        "known_for_department": "Camera",
+        "name": "Julian Gehrig",
+        "original_name": "Julian Gehrig",
+        "popularity": 0.3198,
+        "profile_path": null,
+        "credit_id": "6a31581768e092f912d83981",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6289413,
+        "known_for_department": "Camera",
+        "name": "Philipp Dönneweg",
+        "original_name": "Philipp Dönneweg",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a31584d68e092f912d839a6",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6289414,
+        "known_for_department": "Camera",
+        "name": "Viola Hertel",
+        "original_name": "Viola Hertel",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a31585e35a2e83c68530794",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6289404,
+        "known_for_department": "Art",
+        "name": "Annabelle Bender",
+        "original_name": "Annabelle Bender",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "6a3158723102433c17530868",
+        "department": "Camera",
+        "job": "Set Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6289406,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Severin Görlich",
+        "original_name": "Severin Görlich",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a3158870290ec4932d83ade",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5948040,
+        "known_for_department": "Lighting",
+        "name": "Luca Leidinger",
+        "original_name": "Luca Leidinger",
+        "popularity": 0.0859,
+        "profile_path": null,
+        "credit_id": "6a3158ed930e97876ecf03be",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5951672,
+        "known_for_department": "Directing",
+        "name": "Michael Kitzhöfer",
+        "original_name": "Michael Kitzhöfer",
+        "popularity": 0.0593,
+        "profile_path": null,
+        "credit_id": "6a3159153e5ec0ecf2cf0513",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6289425,
+        "known_for_department": "Crew",
+        "name": "Franziska Schneider",
+        "original_name": "Franziska Schneider",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "6a31596e1953344c363c79b3",
+        "department": "Crew",
+        "job": "Set Runner"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6289407,
+        "known_for_department": "Camera",
+        "name": "Jannis Braunberger",
+        "original_name": "Jannis Braunberger",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a318f017e0e2b431ccb2517",
+        "department": "Crew",
+        "job": "Title Graphics"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5951671,
+        "known_for_department": "Directing",
+        "name": "Finn Fiege",
+        "original_name": "Finn Fiege",
+        "popularity": 0.0947,
+        "profile_path": null,
+        "credit_id": "6a318f1bd076c979f3cb252a",
+        "department": "Crew",
+        "job": "Title Graphics"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3244988,
+        "known_for_department": "Directing",
+        "name": "Patrick Müller",
+        "original_name": "Patrick Müller",
+        "popularity": 0.1197,
+        "profile_path": null,
+        "credit_id": "6a318f837e0e2b431ccb2528",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3244988,
+        "known_for_department": "Directing",
+        "name": "Patrick Müller",
+        "original_name": "Patrick Müller",
+        "popularity": 0.1197,
+        "profile_path": null,
+        "credit_id": "6a318f9127b33422d13d957d",
+        "department": "Crew",
+        "job": "Catering Head Chef"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6289888,
+        "known_for_department": "Production",
+        "name": "Nina Büch",
+        "original_name": "Nina Büch",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a318fc1e1d60def6146834f",
+        "department": "Production",
+        "job": "Key Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6289890,
+        "known_for_department": "Production",
+        "name": "Miriam Hellerich",
+        "original_name": "Miriam Hellerich",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "6a318fea223c9c49ac1be57d",
+        "department": "Production",
+        "job": "Key Production Assistant"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 6054,
+        "name": "friendship"
+      },
+      {
+        "id": 254,
+        "name": "france"
+      },
+      {
+        "id": 10683,
+        "name": "coming of age"
+      },
+      {
+        "id": 9673,
+        "name": "love"
+      },
+      {
+        "id": 189464,
+        "name": "exploring sexuality"
+      },
+      {
+        "id": 200129,
+        "name": "summer romance"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Introverted Noah reluctantly spends his summer vacation with his family in the French countryside. One day, he meets siblings Julie and Léo at the lake. Despite the language barrier, a relationship develops between him and Julie that oscillates between attraction and repulsion, causing Noah to grapple with his sexual orientation.",
+          "runtime": 31,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "",
+          "overview": "Noah lernt im Sommerurlaub mit seinen Eltern ein Geschwisterpaar kennen, das ihn dazu bewegt, sich mit seiner sexuellen Orientierung auseinanderzusetzen.",
+          "runtime": 30,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "ein.filmkollektiv",
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "de",
+            "note": "Filmfestival Max Ophüls Preis ",
+            "release_date": "2026-01-22T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "de",
+            "note": "Bundesfestival junger Film",
+            "release_date": "2026-06-12T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "de",
+            "note": "Filmfest Trier",
+            "release_date": "2026-10-10T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "de",
+            "note": "Créajeune Travelling Großregion",
+            "release_date": "2026-10-30T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

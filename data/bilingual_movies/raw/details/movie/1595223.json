@@ -1,0 +1,897 @@
+{
+  "adult": false,
+  "backdrop_path": "/halXNVLNMQOjpdMYLcUocr0rTzm.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 1595223,
+  "imdb_id": "tt39383030",
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_title": "2DIE4: 24 Horas no Limite",
+  "overview": "The film follows Brazilian Formula 1 driver Felipe Nasr as he competes in a real race, capturing a story unfolding in real time.",
+  "popularity": 1.0364,
+  "poster_path": "/eMPi97XU6xeHwShwdEOr6kGhrle.jpg",
+  "production_companies": [
+    {
+      "id": 282669,
+      "logo_path": null,
+      "name": "Abdala Brothers",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "release_date": "2026-01-21",
+  "revenue": 0,
+  "runtime": 61,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "2DIE4",
+  "video": false,
+  "vote_average": 5.5,
+  "vote_count": 2,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5930902,
+        "known_for_department": "Acting",
+        "name": "Felipe Nasr",
+        "original_name": "Felipe Nasr",
+        "popularity": 0.0694,
+        "profile_path": "/zBzONzwlw9zVFG1JPbVS9fm8i8O.jpg",
+        "cast_id": 3,
+        "character": "Protagonist",
+        "credit_id": "6962d3b9d30ab818b7d15120",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5936841,
+        "known_for_department": "Acting",
+        "name": "Mathieu Jaminet",
+        "original_name": "Mathieu Jaminet",
+        "popularity": 0.0406,
+        "profile_path": "/91XCdoleaJwzH8jKQf5UihwcHpa.jpg",
+        "cast_id": 4,
+        "character": "Driver 2",
+        "credit_id": "696678559e40e76d5af9c042",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5936844,
+        "known_for_department": "Acting",
+        "name": "Nick Tandy",
+        "original_name": "Nick Tandy",
+        "popularity": 0.0279,
+        "profile_path": "/gztZYowiWy08JjEb1QovtkTD8sS.jpg",
+        "cast_id": 5,
+        "character": "Driver 3",
+        "credit_id": "69667875ad73e86ea69fdd40",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5865196,
+        "known_for_department": "Directing",
+        "name": "André Abdala",
+        "original_name": "André Abdala",
+        "popularity": 0.0369,
+        "profile_path": "/lykSvA8EzLX16yuFVCp7afL5htQ.jpg",
+        "credit_id": "69372a84cc491dae4a637f92",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5865200,
+        "known_for_department": "Directing",
+        "name": "Salomão Abdala",
+        "original_name": "Salomão Abdala",
+        "popularity": 0.0451,
+        "profile_path": "/82Ct6Ppuk2eOtaTDLSrIPrcZVX6.jpg",
+        "credit_id": "69372a99c67cc63e4e7fc200",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5936882,
+        "known_for_department": "Production",
+        "name": "Abdala Araujo",
+        "original_name": "Abdala Araujo",
+        "popularity": 0.0279,
+        "profile_path": "/hIFj7SpQLnm5sxdaj15H8xf3ZQv.jpg",
+        "credit_id": "69667cbdef28c75317507292",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5936884,
+        "known_for_department": "Production",
+        "name": "Olivia Chiesi",
+        "original_name": "Olivia Chiesi",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "69667ce0464f934c9d8ac841",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5936885,
+        "known_for_department": "Production",
+        "name": "Rafael Thomaseto",
+        "original_name": "Rafael Thomaseto",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69667d20921671ed1740531d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5936886,
+        "known_for_department": "Production",
+        "name": "Scott Carlin",
+        "original_name": "Scott Carlin",
+        "popularity": 0.0428,
+        "profile_path": null,
+        "credit_id": "69667d8481e7754a16a64a1b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5936890,
+        "known_for_department": "Production",
+        "name": "Renato Cruz",
+        "original_name": "Renato Cruz",
+        "popularity": 0.0573,
+        "profile_path": null,
+        "credit_id": "69667dc66649e4ac23bb99cb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5865200,
+        "known_for_department": "Directing",
+        "name": "Salomão Abdala",
+        "original_name": "Salomão Abdala",
+        "popularity": 0.0451,
+        "profile_path": "/82Ct6Ppuk2eOtaTDLSrIPrcZVX6.jpg",
+        "credit_id": "69668da230b8db3d7161d861",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5936882,
+        "known_for_department": "Production",
+        "name": "Abdala Araujo",
+        "original_name": "Abdala Araujo",
+        "popularity": 0.0279,
+        "profile_path": "/hIFj7SpQLnm5sxdaj15H8xf3ZQv.jpg",
+        "credit_id": "69668dbf922a510fc6bb9a73",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5937009,
+        "known_for_department": "Production",
+        "name": "Eduardo Carbone",
+        "original_name": "Eduardo Carbone",
+        "popularity": 0.0749,
+        "profile_path": "/o07fCd2cBkUP9o0tlwdmKiQbDHS.jpg",
+        "credit_id": "69668de24dbabab93561d81f",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5865200,
+        "known_for_department": "Directing",
+        "name": "Salomão Abdala",
+        "original_name": "Salomão Abdala",
+        "popularity": 0.0451,
+        "profile_path": "/82Ct6Ppuk2eOtaTDLSrIPrcZVX6.jpg",
+        "credit_id": "69668e10d63b2474cea64aa6",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5865200,
+        "known_for_department": "Directing",
+        "name": "Salomão Abdala",
+        "original_name": "Salomão Abdala",
+        "popularity": 0.0451,
+        "profile_path": "/82Ct6Ppuk2eOtaTDLSrIPrcZVX6.jpg",
+        "credit_id": "69668e32d634e2de2ba2bf6b",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5865196,
+        "known_for_department": "Directing",
+        "name": "André Abdala",
+        "original_name": "André Abdala",
+        "popularity": 0.0369,
+        "profile_path": "/lykSvA8EzLX16yuFVCp7afL5htQ.jpg",
+        "credit_id": "69668e5344dd587d59a64a43",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5937013,
+        "known_for_department": "Camera",
+        "name": "Lucas Cirineu",
+        "original_name": "Lucas Cirineu",
+        "popularity": 0.0279,
+        "profile_path": "/kkwMqrCs8LNAqfzZa6pZT2ZVoZ8.jpg",
+        "credit_id": "69668e7101259f4a2afc1936",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5937017,
+        "known_for_department": "Camera",
+        "name": "Rodrigo Siqueira",
+        "original_name": "Rodrigo Siqueira",
+        "popularity": 0.0254,
+        "profile_path": "/ak4OHlm0WikBIf1a9v2oxQVAmIv.jpg",
+        "credit_id": "69668ea53566b3f10561d87e",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5937018,
+        "known_for_department": "Camera",
+        "name": "Bernardo Lima",
+        "original_name": "Bernardo Lima",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69668ed001259f4a2afc1942",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5937019,
+        "known_for_department": "Camera",
+        "name": "Claudius Birk",
+        "original_name": "Claudius Birk",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "69668f0fcdf06fe56cbb9a08",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5937021,
+        "known_for_department": "Sound",
+        "name": "Oliver Schmidt",
+        "original_name": "Oliver Schmidt",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "69668f47413215e1c8a64a80",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5865196,
+        "known_for_department": "Directing",
+        "name": "André Abdala",
+        "original_name": "André Abdala",
+        "popularity": 0.0369,
+        "profile_path": "/lykSvA8EzLX16yuFVCp7afL5htQ.jpg",
+        "credit_id": "69669056b8a54fe56fa62d72",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5937013,
+        "known_for_department": "Camera",
+        "name": "Lucas Cirineu",
+        "original_name": "Lucas Cirineu",
+        "popularity": 0.0279,
+        "profile_path": "/kkwMqrCs8LNAqfzZa6pZT2ZVoZ8.jpg",
+        "credit_id": "696690794f571f6452780c34",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5865196,
+        "known_for_department": "Directing",
+        "name": "André Abdala",
+        "original_name": "André Abdala",
+        "popularity": 0.0369,
+        "profile_path": "/lykSvA8EzLX16yuFVCp7afL5htQ.jpg",
+        "credit_id": "696690a56912b574f5e8a014",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5937017,
+        "known_for_department": "Camera",
+        "name": "Rodrigo Siqueira",
+        "original_name": "Rodrigo Siqueira",
+        "popularity": 0.0254,
+        "profile_path": "/ak4OHlm0WikBIf1a9v2oxQVAmIv.jpg",
+        "credit_id": "696690ccde910f7f45780c34",
+        "department": "Crew",
+        "job": "Post Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5937018,
+        "known_for_department": "Camera",
+        "name": "Bernardo Lima",
+        "original_name": "Bernardo Lima",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69669126daf74a511cb6c0bd",
+        "department": "Crew",
+        "job": "Post Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5937034,
+        "known_for_department": "Sound",
+        "name": "Marcelo Baldin",
+        "original_name": "Marcelo Baldin",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69669152de4e8111525c7370",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5937130,
+        "known_for_department": "Sound",
+        "name": "Bragi Audio",
+        "original_name": "Bragi Audio",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69669f508fd8f53b43931cdd",
+        "department": "Sound",
+        "job": "Sound Post Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5937133,
+        "known_for_department": "Sound",
+        "name": "Marcelo Guerreiro",
+        "original_name": "Marcelo Guerreiro",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69669fd6990c7a48a1780cbe",
+        "department": "Sound",
+        "job": "Sound Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5937133,
+        "known_for_department": "Sound",
+        "name": "Marcelo Guerreiro",
+        "original_name": "Marcelo Guerreiro",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6966a00c594765ea77e8a05b",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5937133,
+        "known_for_department": "Sound",
+        "name": "Marcelo Guerreiro",
+        "original_name": "Marcelo Guerreiro",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6966a06c60096993eca62dc5",
+        "department": "Sound",
+        "job": "Sound Effects Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5865196,
+        "known_for_department": "Directing",
+        "name": "André Abdala",
+        "original_name": "André Abdala",
+        "popularity": 0.0369,
+        "profile_path": "/lykSvA8EzLX16yuFVCp7afL5htQ.jpg",
+        "credit_id": "6966a1ec8fd8f53b43931cfc",
+        "department": "Sound",
+        "job": "Sound Effects Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5937013,
+        "known_for_department": "Camera",
+        "name": "Lucas Cirineu",
+        "original_name": "Lucas Cirineu",
+        "popularity": 0.0279,
+        "profile_path": "/kkwMqrCs8LNAqfzZa6pZT2ZVoZ8.jpg",
+        "credit_id": "6966a216de910f7f45780cb5",
+        "department": "Sound",
+        "job": "Sound Effects Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5937145,
+        "known_for_department": "Sound",
+        "name": "Otávio Bacchin",
+        "original_name": "Otávio Bacchin",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6966a24760096993eca62df1",
+        "department": "Sound",
+        "job": "Sound Effects Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5937145,
+        "known_for_department": "Sound",
+        "name": "Otávio Bacchin",
+        "original_name": "Otávio Bacchin",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6966a3ff4ecbc401924bd64b",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5865200,
+        "known_for_department": "Directing",
+        "name": "Salomão Abdala",
+        "original_name": "Salomão Abdala",
+        "popularity": 0.0451,
+        "profile_path": "/82Ct6Ppuk2eOtaTDLSrIPrcZVX6.jpg",
+        "credit_id": "6967d35d9f8210e76d9a87ff",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5865196,
+        "known_for_department": "Directing",
+        "name": "André Abdala",
+        "original_name": "André Abdala",
+        "popularity": 0.0369,
+        "profile_path": "/lykSvA8EzLX16yuFVCp7afL5htQ.jpg",
+        "credit_id": "6967d376bfba746ef0c5d561",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 10039,
+        "name": "racing"
+      },
+      {
+        "id": 161643,
+        "name": "sport competition"
+      },
+      {
+        "id": 193225,
+        "name": "driven insane"
+      },
+      {
+        "id": 199551,
+        "name": "insane"
+      },
+      {
+        "id": 242128,
+        "name": "motorsport"
+      },
+      {
+        "id": 281585,
+        "name": "inspirational"
+      },
+      {
+        "id": 292463,
+        "name": "race car driving"
+      },
+      {
+        "id": 298953,
+        "name": "car racing"
+      },
+      {
+        "id": 310324,
+        "name": "car"
+      },
+      {
+        "id": 325810,
+        "name": "euphoric"
+      },
+      {
+        "id": 333328,
+        "name": "sport"
+      },
+      {
+        "id": 353329,
+        "name": "velocidade"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "BR",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "homepage": "https://www.2die4film.com/",
+          "overview": "O primeiro filme brasileiro lançado em IMAX, conduz o público por um ponto de vista inédito: a própria mente do piloto brasileiro durante a prova de resistência mais famosa do automobilismo, considerada a mais antiga e exigente da história.",
+          "runtime": 60,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "The film follows Brazilian Formula 1 driver Felipe Nasr as he competes in a real race, capturing a story unfolding in real time.",
+          "runtime": 61,
+          "tagline": "",
+          "title": "2DIE4"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "2DIE4",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt39383030",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "abdalabrothers",
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/halXNVLNMQOjpdMYLcUocr0rTzm.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/2x7qavdNftq0PhVGj81VQ0iGid9.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/xmT7Rw0FJqDJ1skz8E3OlvxTsIS.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/2hFl0g9T56w9b3A9RqmxdRkMEM3.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/fbBnlXMP0QmyHowRC7KU4t4pjaC.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/ouiyYyoQKKSSxya4KPaVfHf1ZFC.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/nIAyqrl5PSTyBSSdrnjOqY9PdrT.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/aDWK1gK1Y2r4OImqXlOpdbWwSoK.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/kM9rPZ9DVhvGNA96ZpzbKmZ8eXe.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      }
+    ],
+    "logos": [
+      {
+        "aspect_ratio": 1.496,
+        "height": 1298,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/2pgrMUXNss7q6x3qYVLghsQpn3P.png",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1942
+      }
+    ],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/eMPi97XU6xeHwShwdEOr6kGhrle.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/bUsfwMkUUAWt2fFt5exRJu7OVq.jpg",
+        "vote_average": 1.75,
+        "vote_count": 2,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.675,
+        "height": 1600,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/ne5NyiY9el6GJqxvNLcK1JlgzgI.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1080
+      },
+      {
+        "aspect_ratio": 0.706,
+        "height": 1280,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/hc0tuIhUS3aeRZVWpEuElfozsnS.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 904
+      },
+      {
+        "aspect_ratio": 0.706,
+        "height": 2832,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/pXOXbPDk6qUlewUs0zpR4OvAHRY.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.666,
+        "height": 896,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/2e4c0x3OXH6XM2UxjBOZTXK6B51.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 597
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "pt",
+            "note": "",
+            "release_date": "2026-04-30T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2026-04-16T00:00:00.000Z",
+            "type": 2
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Daytona Beach",
+            "release_date": "2026-01-21T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "BTS Featurette",
+        "key": "oJvnZHdKVN4",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Behind the Scenes",
+        "official": true,
+        "id": "69dd69aed688bca2d9b65d53",
+        "published_at": "2026-04-13T18:55:47.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "How the Abdala Brothers Filmed “2DIE4” with Panavision",
+        "key": "OGDyYqtBfxA",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Behind the Scenes",
+        "official": false,
+        "id": "69ea4aaf42abcfa40814f947",
+        "published_at": "2026-04-06T17:00:35.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "wpRyRB0e1VA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "696fb721e0c2c8eeb0abd2c2",
+        "published_at": "2026-01-20T16:06:07.000Z"
+      }
+    ]
+  }
+}

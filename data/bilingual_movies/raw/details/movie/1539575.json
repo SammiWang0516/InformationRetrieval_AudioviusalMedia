@@ -1,0 +1,854 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.filmfestival.nl/film/de-ontmoeting-ketchup",
+  "id": 1539575,
+  "imdb_id": "tt38092896",
+  "origin_country": [
+    "NL"
+  ],
+  "original_language": "nl",
+  "original_title": "Ketchup",
+  "overview": "Andrea has an irresistible need to smear herself with ketchup in private. But when the habit crosses into her workplace, it sparks the beginning of a transformative journey.",
+  "popularity": 1.088,
+  "poster_path": "/v5SaG8j8LxaDoFPf2YITEdMwFPr.jpg",
+  "production_companies": [
+    {
+      "id": 272956,
+      "logo_path": null,
+      "name": "Trip to the Moon Films",
+      "origin_country": ""
+    },
+    {
+      "id": 272957,
+      "logo_path": null,
+      "name": "blokmakers",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "release_date": "2025-09-29",
+  "revenue": 0,
+  "runtime": 9,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Released",
+  "tagline": "What gets you fired could be admired.",
+  "title": "Ketchup",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2957113,
+        "known_for_department": "Acting",
+        "name": "Damaris de Jong",
+        "original_name": "Damaris de Jong",
+        "popularity": 0.5212,
+        "profile_path": "/tvXOc9lC6JpvYXyisZnf29wZgPT.jpg",
+        "cast_id": 1,
+        "character": "Andrea",
+        "credit_id": "68b5d3df97916585f51583ba",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3245479,
+        "known_for_department": "Acting",
+        "name": "Fjodor Jozefzoon",
+        "original_name": "Fjodor Jozefzoon",
+        "popularity": 0.3199,
+        "profile_path": "/wdIYIkJWojbm82dkPckxTIMLuBz.jpg",
+        "cast_id": 2,
+        "character": "Tobi",
+        "credit_id": "68b5d3ea6a673c67091f2b43",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 43645,
+        "known_for_department": "Acting",
+        "name": "Mike Reus",
+        "original_name": "Mike Reus",
+        "popularity": 0.2092,
+        "profile_path": "/nGgblCVItNHzYUT6xbOC4NTiIzl.jpg",
+        "cast_id": 3,
+        "character": "De Verteller",
+        "credit_id": "68b5d408e4e33f1a9e1f2ab2",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5664085,
+        "known_for_department": "Production",
+        "name": "Ivo Keulen",
+        "original_name": "Ivo Keulen",
+        "popularity": 0.067,
+        "profile_path": null,
+        "credit_id": "68b5d42d25e103b89f3983c5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4811879,
+        "known_for_department": "Directing",
+        "name": "Tjeerd Dam",
+        "original_name": "Tjeerd Dam",
+        "popularity": 0.1767,
+        "profile_path": "/nRpRD8JI7oX7hl1QuAyXZD4UBpT.jpg",
+        "credit_id": "68b5d43d2b33583512397fba",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4811879,
+        "known_for_department": "Directing",
+        "name": "Tjeerd Dam",
+        "original_name": "Tjeerd Dam",
+        "popularity": 0.1767,
+        "profile_path": "/nRpRD8JI7oX7hl1QuAyXZD4UBpT.jpg",
+        "credit_id": "68b5d44ac31c873c839e244b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5664087,
+        "known_for_department": "Production",
+        "name": "Pim Prins",
+        "original_name": "Pim Prins",
+        "popularity": 0.0855,
+        "profile_path": null,
+        "credit_id": "68b5d46e959f5bcca8b4f8e8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5664088,
+        "known_for_department": "Production",
+        "name": "Jan Oudemans",
+        "original_name": "Jan Oudemans",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "68b5d48fe4e33f1a9e1f2ac6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5664090,
+        "known_for_department": "Production",
+        "name": "Max Grapperhaus",
+        "original_name": "Max Grapperhaus",
+        "popularity": 0.0578,
+        "profile_path": null,
+        "credit_id": "68b5d4a00ae3bba9ce54ec1e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5664091,
+        "known_for_department": "Production",
+        "name": "Florence Mol",
+        "original_name": "Florence Mol",
+        "popularity": 0.0951,
+        "profile_path": null,
+        "credit_id": "68b5d4c60ae3bba9ce54ec2c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5664092,
+        "known_for_department": "Production",
+        "name": "Job Salemans",
+        "original_name": "Job Salemans",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "68b5d4dbbf4d65d4132011c1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5664091,
+        "known_for_department": "Production",
+        "name": "Florence Mol",
+        "original_name": "Florence Mol",
+        "popularity": 0.0951,
+        "profile_path": null,
+        "credit_id": "68b5d5298543bbf34d3f0767",
+        "department": "Production",
+        "job": "Post Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4157161,
+        "known_for_department": "Editing",
+        "name": "Anneliek Noordermeer",
+        "original_name": "Anneliek Noordermeer",
+        "popularity": 0.0432,
+        "profile_path": null,
+        "credit_id": "68b5d548ca5b10c3cd9e24be",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4157161,
+        "known_for_department": "Editing",
+        "name": "Anneliek Noordermeer",
+        "original_name": "Anneliek Noordermeer",
+        "popularity": 0.0432,
+        "profile_path": null,
+        "credit_id": "68b5d559196fde9d0f15831d",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5664098,
+        "known_for_department": "Directing",
+        "name": "Merijn Stojansek",
+        "original_name": "Merijn Stojansek",
+        "popularity": 0.1209,
+        "profile_path": null,
+        "credit_id": "68b5d5956210a69fb1398106",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5664100,
+        "known_for_department": "Directing",
+        "name": "Ava van Boven",
+        "original_name": "Ava van Boven",
+        "popularity": 0.0347,
+        "profile_path": null,
+        "credit_id": "68b5d5c1196fde9d0f158328",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1375000,
+        "known_for_department": "Acting",
+        "name": "Kee Ketelaar",
+        "original_name": "Kee Ketelaar",
+        "popularity": 0.1091,
+        "profile_path": null,
+        "credit_id": "68b5d5e5047d2ab5bd201333",
+        "department": "Directing",
+        "job": "Continuity"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5664103,
+        "known_for_department": "Directing",
+        "name": "Lienke Roos",
+        "original_name": "Lienke Roos",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68b5d5f8196fde9d0f158338",
+        "department": "Directing",
+        "job": "Continuity"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5664109,
+        "known_for_department": "Production",
+        "name": "Tristan van der Werf",
+        "original_name": "Tristan van der Werf",
+        "popularity": 0.0337,
+        "profile_path": null,
+        "credit_id": "68b5d618568506dfb854e9d4",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5664103,
+        "known_for_department": "Directing",
+        "name": "Lienke Roos",
+        "original_name": "Lienke Roos",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68b5d62f8c8bae38943cd721",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5664114,
+        "known_for_department": "Production",
+        "name": "Beer Oldenhof",
+        "original_name": "Beer Oldenhof",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68b5d642fcd47c2ed93f075b",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4808077,
+        "known_for_department": "Camera",
+        "name": "Luc Roes",
+        "original_name": "Luc Roes",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68b5d66f9dc1c57f3bb4fa67",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1864630,
+        "known_for_department": "Visual Effects",
+        "name": "Tom Selbeck",
+        "original_name": "Tom Selbeck",
+        "popularity": 0.0532,
+        "profile_path": null,
+        "credit_id": "68b5d6808d2000d3573cd6aa",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4808075,
+        "known_for_department": "Directing",
+        "name": "Dirkje Duwel",
+        "original_name": "Dirkje Duwel",
+        "popularity": 0.3114,
+        "profile_path": null,
+        "credit_id": "68b5d69088433e04371f2c64",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4811954,
+        "known_for_department": "Camera",
+        "name": "Lars Postma",
+        "original_name": "Lars Postma",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "68b5d69f8b4a2674b09e2146",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5664122,
+        "known_for_department": "Camera",
+        "name": "Tim Vergroessen",
+        "original_name": "Tim Vergroessen",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68b5d77574f60b437f2010e7",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5664123,
+        "known_for_department": "Lighting",
+        "name": "Jan Nelemans",
+        "original_name": "Jan Nelemans",
+        "popularity": 0.0842,
+        "profile_path": null,
+        "credit_id": "68b5d7874261e625a0b4fc86",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5664125,
+        "known_for_department": "Lighting",
+        "name": "Mees blaak",
+        "original_name": "Mees blaak",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68b5d7ad682d48bfa31f278e",
+        "department": "Lighting",
+        "job": "Best Boy Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5664126,
+        "known_for_department": "Lighting",
+        "name": "Jayson Todikromo",
+        "original_name": "Jayson Todikromo",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68b5d7e2450460b491398265",
+        "department": "Lighting",
+        "job": "Lighting Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5664127,
+        "known_for_department": "Lighting",
+        "name": "Jurian de Graaf",
+        "original_name": "Jurian de Graaf",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68b5d7fa5890b17f293cd5be",
+        "department": "Lighting",
+        "job": "Lighting Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5664129,
+        "known_for_department": "Lighting",
+        "name": "Jack Verbraeken",
+        "original_name": "Jack Verbraeken",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68b5d814a988d733b154eed6",
+        "department": "Lighting",
+        "job": "Lighting Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5664132,
+        "known_for_department": "Sound",
+        "name": "Joep van den Boogaard",
+        "original_name": "Joep van den Boogaard",
+        "popularity": 0.0661,
+        "profile_path": null,
+        "credit_id": "68b5d84f25722b2347b4fc52",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4257791,
+        "known_for_department": "Art",
+        "name": "Eva Beliën",
+        "original_name": "Eva Beliën",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68b5d8715890b17f293cd5c4",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5664137,
+        "known_for_department": "Art",
+        "name": "Mariam Baldé",
+        "original_name": "Mariam Baldé",
+        "popularity": 0.0363,
+        "profile_path": null,
+        "credit_id": "68b5d89c81068fc11d3f07c7",
+        "department": "Art",
+        "job": "Assistant Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5664140,
+        "known_for_department": "Art",
+        "name": "Renée Meijer",
+        "original_name": "Renée Meijer",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68b5d8b5fae73684bd158636",
+        "department": "Art",
+        "job": "Assistant Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5664142,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Marijn Speijer",
+        "original_name": "Marijn Speijer",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68b5d8d3b3bafa1641201124",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5269063,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Elief Klooster",
+        "original_name": "Elief Klooster",
+        "popularity": 0.0372,
+        "profile_path": null,
+        "credit_id": "68b5d8ea02be9ac67f39816e",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4146546,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jasleen Kumar",
+        "original_name": "Jasleen Kumar",
+        "popularity": 0.0511,
+        "profile_path": null,
+        "credit_id": "68b5d90b68799a4642b4f8e9",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5664150,
+        "known_for_department": "Editing",
+        "name": "Barry Clarke",
+        "original_name": "Barry Clarke",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68b5d96571140ab30954ea78",
+        "department": "Editing",
+        "job": "Color Grading"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4062405,
+        "known_for_department": "Sound",
+        "name": "David Coehorst",
+        "original_name": "David Coehorst",
+        "popularity": 0.0828,
+        "profile_path": null,
+        "credit_id": "68b5d97c99f2fc227954e9c3",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5664155,
+        "known_for_department": "Sound",
+        "name": "Andrés Aracena",
+        "original_name": "Andrés Aracena",
+        "popularity": 0.1538,
+        "profile_path": null,
+        "credit_id": "68b5d99a5890b17f293cd5d4",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4819870,
+        "known_for_department": "Visual Effects",
+        "name": "Sierd Reinstra",
+        "original_name": "Sierd Reinstra",
+        "popularity": 0.1117,
+        "profile_path": "/beYuYlAXtb2H65MjucM4zI2QwJx.jpg",
+        "credit_id": "68b5d9ad6e6580be24397fa8",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4819868,
+        "known_for_department": "Visual Effects",
+        "name": "Koen Jager",
+        "original_name": "Koen Jager",
+        "popularity": 0.2601,
+        "profile_path": "/xiUmIYfLIqEGDUmFZTnXbubcARF.jpg",
+        "credit_id": "68b5d9b96e6580be24397fae",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4137718,
+        "known_for_department": "Sound",
+        "name": "Fons Beijer",
+        "original_name": "Fons Beijer",
+        "popularity": 0.3663,
+        "profile_path": null,
+        "credit_id": "68b5d9da71140ab30954ea85",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5664166,
+        "known_for_department": "Art",
+        "name": "Benjamin McMillan",
+        "original_name": "Benjamin McMillan",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "68b5d9ecda6801e9a19e20ba",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5664173,
+        "known_for_department": "Sound",
+        "name": "Veronika Akhmetchina",
+        "original_name": "Veronika Akhmetchina",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68b5da096e485cb88a3cd4f3",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5664179,
+        "known_for_department": "Sound",
+        "name": "Ellen van den Berg",
+        "original_name": "Ellen van den Berg",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68b5da1fa040e6a6c19e2a3c",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5664182,
+        "known_for_department": "Sound",
+        "name": "Femke Hulsman",
+        "original_name": "Femke Hulsman",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "68b5da31e4e33f1a9e1f2add",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5664185,
+        "known_for_department": "Sound",
+        "name": "Koen Masteling",
+        "original_name": "Koen Masteling",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "68b5da42da6801e9a19e20c4",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5664189,
+        "known_for_department": "Sound",
+        "name": "Wessel van der Ham",
+        "original_name": "Wessel van der Ham",
+        "popularity": 0.0514,
+        "profile_path": null,
+        "credit_id": "68b5da54ca5b10c3cd9e24f2",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5664201,
+        "known_for_department": "Camera",
+        "name": "Jasper Schöpping",
+        "original_name": "Jasper Schöpping",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68b5dabc37889b8c571f2a88",
+        "department": "Camera",
+        "job": "Set Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5664204,
+        "known_for_department": "Camera",
+        "name": "Jasper Koene",
+        "original_name": "Jasper Koene",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68b5dacab8a5c0869b201041",
+        "department": "Camera",
+        "job": "Set Photographer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "https://www.filmfestival.nl/film/de-ontmoeting-ketchup",
+          "overview": "Andrea has an irresistible need to smear herself with ketchup in private. But when the habit crosses into her workplace, it sparks the beginning of a transformative journey.",
+          "runtime": 9,
+          "tagline": "What gets you fired could be admired.",
+          "title": "Ketchup"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "NL",
+        "title": "De Ontmoeting - Ketchup",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt38092896",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/v5SaG8j8LxaDoFPf2YITEdMwFPr.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1440
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1248,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/5dAvKZqADQDPZnnZbrfx7QwEpup.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 832
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1332,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/38kHgFL2liMNPmIZWgFAiXyrFKU.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 888
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "nl",
+            "note": "Premieres in the Debut Section at the Netherlands Film Festival 2025",
+            "release_date": "2025-09-29T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Teaser De Ontmoeting - Ketchup",
+        "key": "3NgslA3xhrA",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "68b5dc6a39a2115ab81f2cb9",
+        "published_at": "2025-08-20T07:49:58.000Z"
+      }
+    ]
+  }
+}

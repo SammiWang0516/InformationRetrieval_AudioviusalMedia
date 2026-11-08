@@ -1,0 +1,584 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "",
+  "id": 1760207,
+  "imdb_id": null,
+  "origin_country": [
+    "CL"
+  ],
+  "original_language": "es",
+  "original_title": "Gacela Gazette",
+  "overview": "",
+  "popularity": 0.8808,
+  "poster_path": "/fGMn6rioYXTldGoF2vGjJrwpnHG.jpg",
+  "production_companies": [
+    {
+      "id": 75468,
+      "logo_path": "/iweHDO7Pl6bTAQW8YTkMXRzQPgm.png",
+      "name": "Diluvio",
+      "origin_country": "CL"
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2026-10-10",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Gacela Gazette",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2021419,
+        "known_for_department": "Acting",
+        "name": "Nicolás Alaluf",
+        "original_name": "Nicolás Alaluf",
+        "popularity": 0.1494,
+        "profile_path": "/yk2DeNp74h4GsvZyDzeigkZIqx3.jpg",
+        "cast_id": 1,
+        "character": "Periodista",
+        "credit_id": "6a970b4d2ab48b4add8eabc9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4284920,
+        "known_for_department": "Acting",
+        "name": "Macarena Barros",
+        "original_name": "Macarena Barros",
+        "popularity": 0.1974,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "\"La Gacela\"",
+        "credit_id": "6a970b624572c1591fbea5ad",
+        "order": 1
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4089848,
+        "known_for_department": "Directing",
+        "name": "Simón Bucher Saavedra",
+        "original_name": "Simón Bucher Saavedra",
+        "popularity": 0.2538,
+        "profile_path": "/g1KHV8vLGw1tM5IQswg1ukao5bZ.jpg",
+        "credit_id": "6a970f18cbb3ab22af56f37f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4076202,
+        "known_for_department": "Directing",
+        "name": "Cote Ramírez",
+        "original_name": "Cote Ramírez",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a970f2766fe428a1fc86126",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1596381,
+        "known_for_department": "Directing",
+        "name": "Cristóbal León",
+        "original_name": "Cristóbal León",
+        "popularity": 0.2298,
+        "profile_path": "/sQVbiyJr2jDFkvp2w5Iwr1jV3cU.jpg",
+        "credit_id": "6a970f36d99aef3d01486369",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6450555,
+        "known_for_department": "Production",
+        "name": "Francisco Cortés",
+        "original_name": "Francisco Cortés",
+        "popularity": 0.0761,
+        "profile_path": null,
+        "credit_id": "6a970f548f37cf9d6fbd53b7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2732828,
+        "known_for_department": "Directing",
+        "name": "Valentina Reyes",
+        "original_name": "Valentina Reyes",
+        "popularity": 0.3374,
+        "profile_path": null,
+        "credit_id": "6a970f78fc3093424cc85f03",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4089848,
+        "known_for_department": "Directing",
+        "name": "Simón Bucher Saavedra",
+        "original_name": "Simón Bucher Saavedra",
+        "popularity": 0.2538,
+        "profile_path": "/g1KHV8vLGw1tM5IQswg1ukao5bZ.jpg",
+        "credit_id": "6a970f9231268186c156f343",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4076202,
+        "known_for_department": "Directing",
+        "name": "Cote Ramírez",
+        "original_name": "Cote Ramírez",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a970f9ecdeb40d00d8eac72",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4806636,
+        "known_for_department": "Camera",
+        "name": "Diego Seye",
+        "original_name": "Diego Seye",
+        "popularity": 0.1217,
+        "profile_path": null,
+        "credit_id": "6a970faf608a1505745edda9",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2080139,
+        "known_for_department": "Editing",
+        "name": "Nicolás Venegas Moscoso",
+        "original_name": "Nicolás Venegas Moscoso",
+        "popularity": 0.144,
+        "profile_path": null,
+        "credit_id": "6a9710016a23e950ccb8b563",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6450566,
+        "known_for_department": "Visual Effects",
+        "name": "Tania Narváez",
+        "original_name": "Tania Narváez",
+        "popularity": 0.2575,
+        "profile_path": "/8aArOUMTsQ7AicWOzq4XwuPfyLR.jpg",
+        "credit_id": "6a97104f3c98b0314256f326",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4076202,
+        "known_for_department": "Directing",
+        "name": "Cote Ramírez",
+        "original_name": "Cote Ramírez",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a971181207522aaf7bea401",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4089848,
+        "known_for_department": "Directing",
+        "name": "Simón Bucher Saavedra",
+        "original_name": "Simón Bucher Saavedra",
+        "popularity": 0.2538,
+        "profile_path": "/g1KHV8vLGw1tM5IQswg1ukao5bZ.jpg",
+        "credit_id": "6a9711939840b7ff496bb0b8",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2732828,
+        "known_for_department": "Directing",
+        "name": "Valentina Reyes",
+        "original_name": "Valentina Reyes",
+        "popularity": 0.3374,
+        "profile_path": null,
+        "credit_id": "6a9711a6175b38fec83cb35b",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6450555,
+        "known_for_department": "Production",
+        "name": "Francisco Cortés",
+        "original_name": "Francisco Cortés",
+        "popularity": 0.0761,
+        "profile_path": null,
+        "credit_id": "6a9711b888f433bc3e5eddbf",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5513545,
+        "known_for_department": "Camera",
+        "name": "Joaquín Ignacio Fernández",
+        "original_name": "Joaquín Ignacio Fernández",
+        "popularity": 0.3263,
+        "profile_path": "/dYWVuYQV2o3FssyrULo8aq6Lmhz.jpg",
+        "credit_id": "6a9711d9911fcdfb0c5edde6",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5513545,
+        "known_for_department": "Camera",
+        "name": "Joaquín Ignacio Fernández",
+        "original_name": "Joaquín Ignacio Fernández",
+        "popularity": 0.3263,
+        "profile_path": "/dYWVuYQV2o3FssyrULo8aq6Lmhz.jpg",
+        "credit_id": "6a9711f50e03553ea9bd593f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2021419,
+        "known_for_department": "Acting",
+        "name": "Nicolás Alaluf",
+        "original_name": "Nicolás Alaluf",
+        "popularity": 0.1494,
+        "profile_path": "/yk2DeNp74h4GsvZyDzeigkZIqx3.jpg",
+        "credit_id": "6a971208acb5ba171a8eac81",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6450591,
+        "known_for_department": "Visual Effects",
+        "name": "Rodrigo Baeza",
+        "original_name": "Rodrigo Baeza",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a9712293b8e633d158eaaaf",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4094004,
+        "known_for_department": "Directing",
+        "name": "Claudia Saldivia",
+        "original_name": "Claudia Saldivia",
+        "popularity": 0.3299,
+        "profile_path": "/zt74UFgKA2uKAfz1RkKtdHtqbNC.jpg",
+        "credit_id": "6a97123c7605e37a768ea9d0",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4284920,
+        "known_for_department": "Acting",
+        "name": "Macarena Barros",
+        "original_name": "Macarena Barros",
+        "popularity": 0.1974,
+        "profile_path": null,
+        "credit_id": "6a97124c1287fc71adbea4fb",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4806636,
+        "known_for_department": "Camera",
+        "name": "Diego Seye",
+        "original_name": "Diego Seye",
+        "popularity": 0.1217,
+        "profile_path": null,
+        "credit_id": "6a97125a0dedef06fb6bb1f3",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6450598,
+        "known_for_department": "Visual Effects",
+        "name": "Roger Brheman Ramses",
+        "original_name": "Roger Brheman Ramses",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a971286051b43b41d3cb469",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6450603,
+        "known_for_department": "Visual Effects",
+        "name": "Ivana Reyes",
+        "original_name": "Ivana Reyes",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a9712b7664501a26fc860d0",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5059922,
+        "known_for_department": "Visual Effects",
+        "name": "Martin Campos",
+        "original_name": "Martin Campos",
+        "popularity": 0.0917,
+        "profile_path": null,
+        "credit_id": "6a9712fb18b9df7318b8b7dc",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4076202,
+        "known_for_department": "Directing",
+        "name": "Cote Ramírez",
+        "original_name": "Cote Ramírez",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6a971317c92e30431ebea62f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2732828,
+        "known_for_department": "Directing",
+        "name": "Valentina Reyes",
+        "original_name": "Valentina Reyes",
+        "popularity": 0.3374,
+        "profile_path": null,
+        "credit_id": "6a97132cf2198434fa8eac94",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6450566,
+        "known_for_department": "Visual Effects",
+        "name": "Tania Narváez",
+        "original_name": "Tania Narváez",
+        "popularity": 0.2575,
+        "profile_path": "/8aArOUMTsQ7AicWOzq4XwuPfyLR.jpg",
+        "credit_id": "6a97133a5431221c8e5eddf6",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6450555,
+        "known_for_department": "Production",
+        "name": "Francisco Cortés",
+        "original_name": "Francisco Cortés",
+        "popularity": 0.0761,
+        "profile_path": null,
+        "credit_id": "6a97134984fa721a37b8b76c",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2021419,
+        "known_for_department": "Acting",
+        "name": "Nicolás Alaluf",
+        "original_name": "Nicolás Alaluf",
+        "popularity": 0.1494,
+        "profile_path": "/yk2DeNp74h4GsvZyDzeigkZIqx3.jpg",
+        "credit_id": "6a97135e1ecd6de004e5a93f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4089848,
+        "known_for_department": "Directing",
+        "name": "Simón Bucher Saavedra",
+        "original_name": "Simón Bucher Saavedra",
+        "popularity": 0.2538,
+        "profile_path": "/g1KHV8vLGw1tM5IQswg1ukao5bZ.jpg",
+        "credit_id": "6a971369888bb6fc42b8b496",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1407620,
+        "known_for_department": "Sound",
+        "name": "Mauricio López",
+        "original_name": "Mauricio López",
+        "popularity": 0.234,
+        "profile_path": null,
+        "credit_id": "6ac663b665133da8df03defb",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1407620,
+        "known_for_department": "Sound",
+        "name": "Mauricio López",
+        "original_name": "Mauricio López",
+        "popularity": 0.234,
+        "profile_path": null,
+        "credit_id": "6ac663c6017d0c7cdadcc32c",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "En un universo construido en papel de diario, los medios crean a “La Gacela”, una joven atleta cuya voz es silenciada por el estruendo de la prensa. Entre titulares, el mito asfixia a la mujer hasta que una lesión desgarra la narrativa.",
+          "runtime": 5,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "The Gazelle Gazette",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/fGMn6rioYXTldGoF2vGjJrwpnHG.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-10-10T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

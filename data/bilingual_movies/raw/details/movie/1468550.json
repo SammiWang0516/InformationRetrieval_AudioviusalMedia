@@ -1,0 +1,573 @@
+{
+  "adult": false,
+  "backdrop_path": "/sgYQUMqsAD3Vm6gNcb0ohJLR0vQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 2032,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1468550,
+  "imdb_id": null,
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_title": "El Pistolero",
+  "overview": "José, a street performer who dreams about becoming a telenovela star, is recruited by a talent manager who promises him great success, but soon realizes the job is actually dancing in a gay strip club. Away from his home and enjoying the newfound fame he has acquired with his new job in the city, José starts wondering if turning his back on his family and himself is worth it now that he's the club's biggest star, nicknamed \"El Pistolero.\"",
+  "popularity": 0.929,
+  "poster_path": "/jkYP5Zlk4waQsPe9fbbBI3hkzkC.jpg",
+  "production_companies": [
+    {
+      "id": 185445,
+      "logo_path": null,
+      "name": "Príncipe Rata Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 260107,
+      "logo_path": null,
+      "name": "Trukos",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "release_date": "2026-03-19",
+  "revenue": 0,
+  "runtime": 20,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "La estrella menos esperada",
+  "title": "El Pistolero",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5387535,
+        "known_for_department": "Acting",
+        "name": "Leo Aldair Huerta",
+        "original_name": "Leo Aldair Huerta",
+        "popularity": 0.0507,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "José",
+        "credit_id": "6806ff3ae3fac2f9028a2f8d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5387536,
+        "known_for_department": "Acting",
+        "name": "Eduardo Gómez",
+        "original_name": "Eduardo Gómez",
+        "popularity": 0.2166,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Franccesco",
+        "credit_id": "6806ff54b082db6279ee033d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5387537,
+        "known_for_department": "Acting",
+        "name": "David Fierro Muñoz",
+        "original_name": "David Fierro Muñoz",
+        "popularity": 0.1674,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Federico",
+        "credit_id": "6806ff6ec5c8035fb08a4a51",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5387538,
+        "known_for_department": "Acting",
+        "name": "Ana Fer Domínguez",
+        "original_name": "Ana Fer Domínguez",
+        "popularity": 0.076,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Kimberly",
+        "credit_id": "6806ff8cac02d4407baae772",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5387539,
+        "known_for_department": "Acting",
+        "name": "Ciriam Verdugo",
+        "original_name": "Ciriam Verdugo",
+        "popularity": 0.1017,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Suegra",
+        "credit_id": "6806ff9fb659822812ee770c",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 3514869,
+        "known_for_department": "Directing",
+        "name": "Ariana Durazo",
+        "original_name": "Ariana Durazo",
+        "popularity": 0.1957,
+        "profile_path": "/orLINnCwMi0F9n6JhxKJx685adI.jpg",
+        "credit_id": "6806ffdab659822812ee7717",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3769716,
+        "known_for_department": "Lighting",
+        "name": "Daniela Salazar",
+        "original_name": "Daniela Salazar",
+        "popularity": 0.1356,
+        "profile_path": null,
+        "credit_id": "6806fffce3fac2f9028a2fb4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3769705,
+        "known_for_department": "Editing",
+        "name": "Jorge García",
+        "original_name": "Jorge García",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "6807007a059fbcecf6aaf6d3",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3769703,
+        "known_for_department": "Directing",
+        "name": "Angelica Toba",
+        "original_name": "Angelica Toba",
+        "popularity": 0.0438,
+        "profile_path": "/tgn7juZqlbQeqs7DugatWLzFflT.jpg",
+        "credit_id": "680700a8c3e8e74b6dee79f7",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3769707,
+        "known_for_department": "Camera",
+        "name": "Aarón Piñal",
+        "original_name": "Aarón Piñal",
+        "popularity": 0.1766,
+        "profile_path": null,
+        "credit_id": "680700d737a722b8868a4261",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3769707,
+        "known_for_department": "Camera",
+        "name": "Aarón Piñal",
+        "original_name": "Aarón Piñal",
+        "popularity": 0.1766,
+        "profile_path": null,
+        "credit_id": "680700fac5c8035fb08a4add",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4942720,
+        "known_for_department": "Sound",
+        "name": "Abril Juárez",
+        "original_name": "Abril Juárez",
+        "popularity": 0.222,
+        "profile_path": null,
+        "credit_id": "6807011cc5c8035fb08a4aec",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4650354,
+        "known_for_department": "Camera",
+        "name": "Arleth Santana",
+        "original_name": "Arleth Santana",
+        "popularity": 0.1716,
+        "profile_path": null,
+        "credit_id": "6807013ae3fac2f9028a2fb7",
+        "department": "Camera",
+        "job": "BTS Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5387542,
+        "known_for_department": "Camera",
+        "name": "Emilio Estrella M.",
+        "original_name": "Emilio Estrella M.",
+        "popularity": 0.057,
+        "profile_path": null,
+        "credit_id": "68070163059fbcecf6aaf700",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4967367,
+        "known_for_department": "Directing",
+        "name": "Diana Márquez",
+        "original_name": "Diana Márquez",
+        "popularity": 0.1971,
+        "profile_path": null,
+        "credit_id": "68070187b659822812ee7779",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5387543,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Kitzya Uribe Baca",
+        "original_name": "Kitzya Uribe Baca",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "6807019fe3fac2f9028a2fc7",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5387545,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Melissa Sánchez-Meza",
+        "original_name": "Melissa Sánchez-Meza",
+        "popularity": 0.0473,
+        "profile_path": null,
+        "credit_id": "680701b7e3fac2f9028a2fdc",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5387546,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Abigaíl López Chávez",
+        "original_name": "Abigaíl López Chávez",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "680701da6e1a769e81ee7eff",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3769705,
+        "known_for_department": "Editing",
+        "name": "Jorge García",
+        "original_name": "Jorge García",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "680701ef276bf64e41aaf75f",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5387548,
+        "known_for_department": "Art",
+        "name": "Asher Bedoy",
+        "original_name": "Asher Bedoy",
+        "popularity": 0.1055,
+        "profile_path": null,
+        "credit_id": "68070205ac02d4407baae7bc",
+        "department": "Art",
+        "job": "Art Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5387549,
+        "known_for_department": "Art",
+        "name": "Dana Estrada",
+        "original_name": "Dana Estrada",
+        "popularity": 0.0902,
+        "profile_path": null,
+        "credit_id": "68070217b659822812ee77a7",
+        "department": "Art",
+        "job": "Art Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5387552,
+        "known_for_department": "Directing",
+        "name": "Rafael Alarcón",
+        "original_name": "Rafael Alarcón",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "68070253ac02d4407baae7ca",
+        "department": "Directing",
+        "job": "Second Assistant Director Trainee"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5387553,
+        "known_for_department": "Production",
+        "name": "Dante Medina",
+        "original_name": "Dante Medina",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "68070268ac02d4407baae7d6",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3024159,
+        "known_for_department": "Directing",
+        "name": "Alfredo Viramontes",
+        "original_name": "Alfredo Viramontes",
+        "popularity": 0.1537,
+        "profile_path": "/yPJGNeyhEbTVltUeD7HP1sv1dmT.jpg",
+        "credit_id": "68070279c5c8035fb08a4b22",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5387554,
+        "known_for_department": "Lighting",
+        "name": "Luis Orozco",
+        "original_name": "Luis Orozco",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "680702a903344aee708a4aba",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4393148,
+        "known_for_department": "Lighting",
+        "name": "Jesús Díaz \"Capi\"",
+        "original_name": "Jesús Díaz \"Capi\"",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "680702cd059fbcecf6aaf74e",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 3514869,
+        "known_for_department": "Directing",
+        "name": "Ariana Durazo",
+        "original_name": "Ariana Durazo",
+        "popularity": 0.1957,
+        "profile_path": "/orLINnCwMi0F9n6JhxKJx685adI.jpg",
+        "credit_id": "6807032f37a722b8868a4291",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3769716,
+        "known_for_department": "Lighting",
+        "name": "Daniela Salazar",
+        "original_name": "Daniela Salazar",
+        "popularity": 0.1356,
+        "profile_path": null,
+        "credit_id": "6807033fb082db6279ee039e",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5387556,
+        "known_for_department": "Crew",
+        "name": "Sandy Rubio",
+        "original_name": "Sandy Rubio",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "6807036937a722b8868a42a4",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 5477339,
+        "known_for_department": "Directing",
+        "name": "Julieta Bazán",
+        "original_name": "Julieta Bazán",
+        "popularity": 0.0944,
+        "profile_path": "/zE9t4pPxcTh6ey9yw5YLObIB93U.jpg",
+        "credit_id": "683cd8308f5e10eb267baaad",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 534,
+        "name": "mexico"
+      },
+      {
+        "id": 3688,
+        "name": "strip club"
+      },
+      {
+        "id": 158718,
+        "name": "lgbt"
+      },
+      {
+        "id": 193549,
+        "name": "eccentric family"
+      },
+      {
+        "id": 199262,
+        "name": "telenovela"
+      },
+      {
+        "id": 263548,
+        "name": "short film"
+      },
+      {
+        "id": 280617,
+        "name": "student film"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "MX",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "José, un acróbata callejero que sueña con ser una estrella de telenovela, acepta ser reclutado por un manager de talento que le promete llevarlo a la fama, sin saber que el trabajo conlleva empezar como bailarín en un strip club gay. Alejado de su hogar y disfrutando la reciente fama que le ha traído su nuevo trabajo en la ciudad, José comienza a dudar si vale la pena darle la espalda a su familia y a sí mismo para seguir escalando en la industria ahora que es el principal bailarín del club, al que han bautizado como \"El Pistolero.\"",
+          "runtime": 20,
+          "tagline": "LA ESTRELLA MENOS ESPERADA",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "José, a street performer who dreams about becoming a telenovela star, is recruited by a talent manager who promises him great success, but soon realizes the job is actually dancing in a gay strip club. Away from his home and enjoying the newfound fame he has acquired with his new job in the city, José starts wondering if turning his back on his family and himself is worth it now that he's the club's biggest star, nicknamed \"El Pistolero.\"",
+          "runtime": 20,
+          "tagline": "La estrella menos esperada",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.675,
+        "height": 1600,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/vTa31V9FhfCI6BBRmXUNXHLjYvL.jpg",
+        "vote_average": 0.0,
+        "vote_count": 1,
+        "width": 1080
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "At the San Diego Latino Film Festival",
+            "release_date": "2026-03-19T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

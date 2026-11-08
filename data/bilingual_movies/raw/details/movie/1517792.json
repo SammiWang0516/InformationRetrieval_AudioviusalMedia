@@ -1,0 +1,684 @@
+{
+  "adult": false,
+  "backdrop_path": "/fciYgtX1dHOd6dkK0ZdkfPdtFrI.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1517792,
+  "imdb_id": null,
+  "origin_country": [
+    "BE"
+  ],
+  "original_language": "fr",
+  "original_title": "CHOKBAR",
+  "overview": "Just another moving job : tight timing, tense client, nothing out of the ordinary. But in Aurélie’s house, the air is heavier than expected. “Chokbar” and “Baby Bob” don’t know it yet, but they’re about to carry more than boxes.",
+  "popularity": 0.9621,
+  "poster_path": "/a3dkCLukp4Re4FH9e81VrOAB0Xw.jpg",
+  "production_companies": [
+    {
+      "id": 84822,
+      "logo_path": null,
+      "name": "Médiadiffusion - Atelier de Production de l'IAD",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "release_date": "2025-06-25",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "CHOKBAR",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1689497,
+        "known_for_department": "Acting",
+        "name": "Naïma Ostrowski",
+        "original_name": "Naïma Ostrowski",
+        "popularity": 0.3364,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Aurélie",
+        "credit_id": "68811d04807abd7583d99d68",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5582299,
+        "known_for_department": "Acting",
+        "name": "Elias Azzaoui-Ihda",
+        "original_name": "Elias Azzaoui-Ihda",
+        "popularity": 0.1895,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Chokbar",
+        "credit_id": "68811d2249f9a4e6ef72db85",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5678274,
+        "known_for_department": "Acting",
+        "name": "Anton Shlassovitch",
+        "original_name": "Anton Shlassovitch",
+        "popularity": 0.1019,
+        "profile_path": null,
+        "cast_id": 41,
+        "character": "Baby Bob",
+        "credit_id": "68bf0da43c2b162ba21f5787",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5582302,
+        "known_for_department": "Directing",
+        "name": "Arnaud Christien",
+        "original_name": "Arnaud Christien",
+        "popularity": 0.0696,
+        "profile_path": null,
+        "credit_id": "68811d5fd9da18e5168a5a6d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5582303,
+        "known_for_department": "Directing",
+        "name": "Adrian Urizar",
+        "original_name": "Adrian Urizar",
+        "popularity": 0.0611,
+        "profile_path": null,
+        "credit_id": "68811d6851b22c777816b0c0",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5490639,
+        "known_for_department": "Lighting",
+        "name": "Victoria Poncet",
+        "original_name": "Victoria Poncet",
+        "popularity": 0.2594,
+        "profile_path": null,
+        "credit_id": "68811d7722300a50a772d7e9",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5490640,
+        "known_for_department": "Lighting",
+        "name": "Ewan Grundey",
+        "original_name": "Ewan Grundey",
+        "popularity": 0.1297,
+        "profile_path": null,
+        "credit_id": "68811d92b45b3fa48516b027",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5056653,
+        "known_for_department": "Acting",
+        "name": "Julien Mergan",
+        "original_name": "Julien Mergan",
+        "popularity": 0.0331,
+        "profile_path": null,
+        "credit_id": "68811db0fd945531ee8a5c03",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5582309,
+        "known_for_department": "Directing",
+        "name": "Alice Welraeds",
+        "original_name": "Alice Welraeds",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68811dcc3f1f6bc2bed99d28",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5582311,
+        "known_for_department": "Camera",
+        "name": "Mael Martin",
+        "original_name": "Mael Martin",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "68811df1730ab572b68a594b",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5545630,
+        "known_for_department": "Camera",
+        "name": "Nicolas SIMON",
+        "original_name": "Nicolas SIMON",
+        "popularity": 0.1685,
+        "profile_path": null,
+        "credit_id": "68811e0301f7d024388a58f7",
+        "department": "Production",
+        "job": "Data Management Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5582316,
+        "known_for_department": "Lighting",
+        "name": "Alicia Beckers",
+        "original_name": "Alicia Beckers",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68811e5dd9da18e5168a5a84",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5582317,
+        "known_for_department": "Lighting",
+        "name": "Violette Etienne",
+        "original_name": "Violette Etienne",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68811e7d8af0071dab8a5a9e",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5582318,
+        "known_for_department": "Lighting",
+        "name": "Beatriz Rubio",
+        "original_name": "Beatriz Rubio",
+        "popularity": 0.3186,
+        "profile_path": null,
+        "credit_id": "68811ededff0081dac72db3d",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5582320,
+        "known_for_department": "Crew",
+        "name": "Eliott Jongbeys",
+        "original_name": "Eliott Jongbeys",
+        "popularity": 0.0751,
+        "profile_path": null,
+        "credit_id": "68811ef848ea55973355dfbc",
+        "department": "Crew",
+        "job": "Machinist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5582322,
+        "known_for_department": "Sound",
+        "name": "Louis Jalhay",
+        "original_name": "Louis Jalhay",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68811f196c0df3da9b16af5f",
+        "department": "Sound",
+        "job": "Sound Engineer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5582324,
+        "known_for_department": "Sound",
+        "name": "Jules Dujardin",
+        "original_name": "Jules Dujardin",
+        "popularity": 0.2214,
+        "profile_path": null,
+        "credit_id": "68811f37c2adade24055ddbe",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5490646,
+        "known_for_department": "Sound",
+        "name": "Jules Bellem",
+        "original_name": "Jules Bellem",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68811f45126c47dd6516b0e3",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5582326,
+        "known_for_department": "Production",
+        "name": "Antoine Saliou",
+        "original_name": "Antoine Saliou",
+        "popularity": 0.1468,
+        "profile_path": null,
+        "credit_id": "68811f8fa5746dc85924575f",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5582329,
+        "known_for_department": "Art",
+        "name": "Matteo Natale",
+        "original_name": "Matteo Natale",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "68811fb9a9c1f6893e38e71b",
+        "department": "Art",
+        "job": "Assistant Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5582332,
+        "known_for_department": "Art",
+        "name": "Chloé Galabert",
+        "original_name": "Chloé Galabert",
+        "popularity": 0.0871,
+        "profile_path": null,
+        "credit_id": "68811fe44993f2496824588c",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5583454,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Aida Karapetyan",
+        "original_name": "Aida Karapetyan",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6881f80b3628225df7d9a19a",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5583457,
+        "known_for_department": "Production",
+        "name": "Noé Dohet",
+        "original_name": "Noé Dohet",
+        "popularity": 0.0354,
+        "profile_path": null,
+        "credit_id": "6881f84ea33cb327a372dccd",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5583460,
+        "known_for_department": "Production",
+        "name": "Luna Finne",
+        "original_name": "Luna Finne",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "6881f87739849ffe8dd9a2b7",
+        "department": "Production",
+        "job": "Location Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5583462,
+        "known_for_department": "Production",
+        "name": "Ophélie Acquaviva",
+        "original_name": "Ophélie Acquaviva",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6881f898730ab572b68a5c2f",
+        "department": "Production",
+        "job": "Location Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5583465,
+        "known_for_department": "Production",
+        "name": "Hugo Collard",
+        "original_name": "Hugo Collard",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6881f8c23d8d9dfd9038e920",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5583467,
+        "known_for_department": "Editing",
+        "name": "Pierre Baudson",
+        "original_name": "Pierre Baudson",
+        "popularity": 0.1824,
+        "profile_path": null,
+        "credit_id": "6881f8d4da3bd92a1a55e1e6",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5545624,
+        "known_for_department": "Directing",
+        "name": "Martin LAMBRIX",
+        "original_name": "Martin LAMBRIX",
+        "popularity": 0.0818,
+        "profile_path": null,
+        "credit_id": "6881f8ffa571086a4055e037",
+        "department": "Editing",
+        "job": "Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5490640,
+        "known_for_department": "Lighting",
+        "name": "Ewan Grundey",
+        "original_name": "Ewan Grundey",
+        "popularity": 0.1297,
+        "profile_path": null,
+        "credit_id": "6881f920a43d59061b72dcfd",
+        "department": "Editing",
+        "job": "Color Grading"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5583470,
+        "known_for_department": "Art",
+        "name": "Julien Lambrix",
+        "original_name": "Julien Lambrix",
+        "popularity": 0.116,
+        "profile_path": null,
+        "credit_id": "6881f946126c47dd6516b49d",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5583471,
+        "known_for_department": "Art",
+        "name": "Audrick Mercier",
+        "original_name": "Audrick Mercier",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6881f95665f0807e59d9a1db",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5583473,
+        "known_for_department": "Sound",
+        "name": "Geoffrey De Clercq",
+        "original_name": "Geoffrey De Clercq",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6881f995e517610e93f77b20",
+        "department": "Sound",
+        "job": "Recording Supervision"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4746443,
+        "known_for_department": "Sound",
+        "name": "Corentin de Baere",
+        "original_name": "Corentin de Baere",
+        "popularity": 0.0812,
+        "profile_path": null,
+        "credit_id": "6881f9b01733da38d252a250",
+        "department": "Sound",
+        "job": "Recording Supervision"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5490646,
+        "known_for_department": "Sound",
+        "name": "Jules Bellem",
+        "original_name": "Jules Bellem",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6881f9bea33cb327a372dcd7",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5583476,
+        "known_for_department": "Sound",
+        "name": "Mathias Mercier",
+        "original_name": "Mathias Mercier",
+        "popularity": 0.0383,
+        "profile_path": null,
+        "credit_id": "6881f9da09a8f9ddc038eb59",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5583477,
+        "known_for_department": "Sound",
+        "name": "Ludo Bauloye",
+        "original_name": "Ludo Bauloye",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6881f9f46199336bf12456e6",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5582303,
+        "known_for_department": "Directing",
+        "name": "Adrian Urizar",
+        "original_name": "Adrian Urizar",
+        "popularity": 0.0611,
+        "profile_path": null,
+        "credit_id": "6881fae91600dcfb762456f8",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5582302,
+        "known_for_department": "Directing",
+        "name": "Arnaud Christien",
+        "original_name": "Arnaud Christien",
+        "popularity": 0.0696,
+        "profile_path": null,
+        "credit_id": "6881faf173da5eb0cb529edd",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5588337,
+        "known_for_department": "Crew",
+        "name": "Caroline Ferrari",
+        "original_name": "Caroline Ferrari",
+        "popularity": 0.1523,
+        "profile_path": null,
+        "credit_id": "688552ba22c579e4f038f877",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "Un déménagement banal, un timing serré, une cliente irritable. Les rappeurs-déménageurs Chokbar et Baby Bob pensent juste faire leur travail, mais dans la maison d’Aurélie, il n'y a pas que des meubles à déplacer...",
+          "runtime": 17,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Just another moving job : tight timing, tense client, nothing out of the ordinary. But in Aurélie’s house, the air is heavier than expected. “Chokbar” and “Baby Bob” don’t know it yet, but they’re about to carry more than boxes.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/fciYgtX1dHOd6dkK0ZdkfPdtFrI.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/bS4aAFT4oZrDBkJOMVxvQtYex2q.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.707,
+        "height": 1754,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/a3dkCLukp4Re4FH9e81VrOAB0Xw.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1240
+      },
+      {
+        "aspect_ratio": 0.676,
+        "height": 1024,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/vIWHbvZVqwqKjOGeFGlYtjGDCYm.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 692
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "BE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "fr",
+            "note": "",
+            "release_date": "2025-06-25T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

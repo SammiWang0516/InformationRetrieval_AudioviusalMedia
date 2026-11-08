@@ -1,0 +1,439 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1628085,
+  "imdb_id": null,
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_title": "Pachamamó",
+  "overview": "A group of five girls have a try with a psychoactive plant for a ritual.",
+  "popularity": 1.0133,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "release_date": "2025-11-29",
+  "revenue": 0,
+  "runtime": 4,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Pachamamó",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5982143,
+        "known_for_department": "Writing",
+        "name": "Alisson Gopa",
+        "original_name": "Alisson Gopa",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Sofía",
+        "credit_id": "69812ceb8df21e9a3e81be97",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5982141,
+        "known_for_department": "Writing",
+        "name": "Grecia Navarro",
+        "original_name": "Grecia Navarro",
+        "popularity": 0.1316,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Mara",
+        "credit_id": "69812cff9562c05d2de917e9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5982145,
+        "known_for_department": "Writing",
+        "name": "Maripaz Vega",
+        "original_name": "Maripaz Vega",
+        "popularity": 0.1899,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Renata",
+        "credit_id": "69812d117ca2043a90705279",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5982148,
+        "known_for_department": "Writing",
+        "name": "Nay Benett",
+        "original_name": "Nay Benett",
+        "popularity": 0.0576,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Itzel",
+        "credit_id": "69812d1fce0428109e31408c",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5982150,
+        "known_for_department": "Writing",
+        "name": "Daniela Sandoval",
+        "original_name": "Daniela Sandoval",
+        "popularity": 0.0417,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Luna",
+        "credit_id": "69812d35abc84e52e481bec0",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5982152,
+        "known_for_department": "Writing",
+        "name": "Jozz Murga",
+        "original_name": "Jozz Murga",
+        "popularity": 0.0848,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Camila",
+        "credit_id": "69812d4593ad53870e31405b",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4597549,
+        "known_for_department": "Directing",
+        "name": "Miguel Galeazzi",
+        "original_name": "Mickey Galeazzi",
+        "popularity": 0.1372,
+        "profile_path": null,
+        "credit_id": "69812a0e60fd9150fc313f38",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5982141,
+        "known_for_department": "Writing",
+        "name": "Grecia Navarro",
+        "original_name": "Grecia Navarro",
+        "popularity": 0.1316,
+        "profile_path": null,
+        "credit_id": "69812a333c10550870382c6c",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5982143,
+        "known_for_department": "Writing",
+        "name": "Alisson Gopa",
+        "original_name": "Alisson Gopa",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69812a61abf39b2e2281bee0",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5982145,
+        "known_for_department": "Writing",
+        "name": "Maripaz Vega",
+        "original_name": "Maripaz Vega",
+        "popularity": 0.1899,
+        "profile_path": null,
+        "credit_id": "69812a979d861f09ad4c9421",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5982148,
+        "known_for_department": "Writing",
+        "name": "Nay Benett",
+        "original_name": "Nay Benett",
+        "popularity": 0.0576,
+        "profile_path": null,
+        "credit_id": "69812accbbc393029a6cce7b",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5982149,
+        "known_for_department": "Writing",
+        "name": "Daniela Sandoval",
+        "original_name": "Daniela Sandoval",
+        "popularity": 0.0755,
+        "profile_path": null,
+        "credit_id": "69812af3b823edaa3281be86",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5982150,
+        "known_for_department": "Writing",
+        "name": "Daniela Sandoval",
+        "original_name": "Daniela Sandoval",
+        "popularity": 0.0417,
+        "profile_path": null,
+        "credit_id": "69812b1f967873e73f313fab",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5982152,
+        "known_for_department": "Writing",
+        "name": "Jozz Murga",
+        "original_name": "Jozz Murga",
+        "popularity": 0.0848,
+        "profile_path": null,
+        "credit_id": "69812b3fe65399f5bf6cceab",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5725268,
+        "known_for_department": "Art",
+        "name": "Sinaí Rosete",
+        "original_name": "Sinaí Rosete",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "69812b7f2728d0deb56ccd4a",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5982154,
+        "known_for_department": "Editing",
+        "name": "Sinaí Rosete",
+        "original_name": "Sinaí Rosete",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69812b96beef75b136382c1d",
+        "department": "Editing",
+        "job": "Color Grading"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5982156,
+        "known_for_department": "Art",
+        "name": "Daniel Arteaga",
+        "original_name": "Daniel Arteaga",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69812be6474a5eb270382b89",
+        "department": "Art",
+        "job": "Assistant Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5768860,
+        "known_for_department": "Sound",
+        "name": "Erick Monterrosas",
+        "original_name": "Erick Monterrosas",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69812bfe0d3788f82c31405c",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4450351,
+        "known_for_department": "Sound",
+        "name": "Julián Sánchez",
+        "original_name": "Julián Sánchez",
+        "popularity": 0.1711,
+        "profile_path": null,
+        "credit_id": "69812c1d580ba0700ae91849",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5871827,
+        "known_for_department": "Acting",
+        "name": "José de Jesús Téllez",
+        "original_name": "José de Jesús Téllez",
+        "popularity": 0.3266,
+        "profile_path": null,
+        "credit_id": "69812c44bbc393029a6cce96",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5802700,
+        "known_for_department": "Editing",
+        "name": "Eduardo Cabral",
+        "original_name": "Eduardo Cabral",
+        "popularity": 0.1799,
+        "profile_path": null,
+        "credit_id": "69812c5b930ebcaa666cce1c",
+        "department": "Crew",
+        "job": "Script"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4134592,
+        "known_for_department": "Directing",
+        "name": "M. Fernanda “Nanda” Zebadua",
+        "original_name": "M. Fernanda “Nanda” Zebadua",
+        "popularity": 0.084,
+        "profile_path": null,
+        "credit_id": "69812c7f967873e73f313fbf",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5802697,
+        "known_for_department": "Art",
+        "name": "Ana Laura Camarillo",
+        "original_name": "Ana Laura Camarillo",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69812c9309a8503785705221",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5802700,
+        "known_for_department": "Editing",
+        "name": "Eduardo Cabral",
+        "original_name": "Eduardo Cabral",
+        "popularity": 0.1799,
+        "profile_path": null,
+        "credit_id": "69812caef5a8a6a8b3705281",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4597549,
+        "known_for_department": "Directing",
+        "name": "Miguel Galeazzi",
+        "original_name": "Mickey Galeazzi",
+        "popularity": 0.1372,
+        "profile_path": null,
+        "credit_id": "69812dc8f5a8a6a8b370528b",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "A group of five girls have a try with a psychoactive plant for a ritual.",
+          "runtime": 4,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Sala BUTACA",
+            "release_date": "2025-11-29T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

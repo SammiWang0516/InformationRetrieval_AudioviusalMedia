@@ -1,0 +1,733 @@
+{
+  "adult": false,
+  "backdrop_path": "/tJ8JufDYnDCou3TlJEmYT1S0srZ.jpg",
+  "belongs_to_collection": null,
+  "budget": 75000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://www.ladistributrice.ca/films/cauchemar-conseil",
+  "id": 1596767,
+  "imdb_id": "tt39337450",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "fr",
+  "original_title": "Cauchemar Conseil",
+  "overview": "Lucie, a PhD student without a work visa and plagued by insomnia, is trapped in a destructive affair with her thesis advisor while being pursued by a jealous ex. Seeking help from a reclusive shaman on the city’s edge, she meets Béatrice, a young woman as carefree as she is determined to help her.",
+  "popularity": 0.7362,
+  "poster_path": "/8vlFkqGeVtatvPdwpAEzGv7ikdp.jpg",
+  "production_companies": [
+    {
+      "id": 282934,
+      "logo_path": null,
+      "name": "Films Fragiles",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2026-09-04",
+  "revenue": 0,
+  "runtime": 148,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Nightmare's Advice",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5871455,
+        "known_for_department": "Acting",
+        "name": "Marie-Ève Loyez",
+        "original_name": "Marie-Ève Loyez",
+        "popularity": 0.1491,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Lucie Rivière",
+        "credit_id": "693ae0ba71b6ceb822cdf366",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4170203,
+        "known_for_department": "Acting",
+        "name": "Geneviève Ackerman",
+        "original_name": "Geneviève Ackerman",
+        "popularity": 0.3487,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Béatrice",
+        "credit_id": "693ae295211b652d16cdf389",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5871468,
+        "known_for_department": "Acting",
+        "name": "Frédérik Dufour",
+        "original_name": "Frédérik Dufour",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Grégoire",
+        "credit_id": "693ae2ae93dbbd3325b84147",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4445819,
+        "known_for_department": "Acting",
+        "name": "Xavier Neszvecsko",
+        "original_name": "Xavier Neszvecsko",
+        "popularity": 0.3686,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Eugène",
+        "credit_id": "693ae2c5a5b91cc28d69053b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5871471,
+        "known_for_department": "Acting",
+        "name": "Anjela Rousiouk",
+        "original_name": "Anjela Rousiouk",
+        "popularity": 0.2794,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Madame Rousiouk",
+        "credit_id": "693ae2d2a171067e44690598",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2127942,
+        "known_for_department": "Directing",
+        "name": "Renaud Després-Larose",
+        "original_name": "Renaud Després-Larose",
+        "popularity": 0.189,
+        "profile_path": "/iMeMi4lHqO7HKlJ3niWkkEqD29y.jpg",
+        "cast_id": 18,
+        "character": "Igor",
+        "credit_id": "6998caa97ea78cbde6ab953a",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4170208,
+        "known_for_department": "Art",
+        "name": "Charles-Antoine Turcot",
+        "original_name": "Charles-Antoine Turcot",
+        "popularity": 0.157,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Le chauffeur",
+        "credit_id": "6998cac0a80bbb2534302a68",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5531282,
+        "known_for_department": "Acting",
+        "name": "Bruno Lalonde",
+        "original_name": "Bruno Lalonde",
+        "popularity": 0.3181,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "L'éditeur",
+        "credit_id": "6998cb44ab0047a81213c2af",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6020850,
+        "known_for_department": "Acting",
+        "name": "Hans Martin",
+        "original_name": "Hans Martin",
+        "popularity": 0.0577,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "L'étudiant",
+        "credit_id": "6998cb60b1462d28cdd2cffb",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2127942,
+        "known_for_department": "Directing",
+        "name": "Renaud Després-Larose",
+        "original_name": "Renaud Després-Larose",
+        "popularity": 0.189,
+        "profile_path": "/iMeMi4lHqO7HKlJ3niWkkEqD29y.jpg",
+        "credit_id": "693ae02da7cdb2b43dcdf414",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2755111,
+        "known_for_department": "Directing",
+        "name": "Ana Tapia Rousiouk",
+        "original_name": "Ana Tapia Rousiouk",
+        "popularity": 0.3653,
+        "profile_path": "/2MELaDyxN47X7EcOHb8sz1YxHTi.jpg",
+        "credit_id": "693ae03b0512b3e832af160f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2127942,
+        "known_for_department": "Directing",
+        "name": "Renaud Després-Larose",
+        "original_name": "Renaud Després-Larose",
+        "popularity": 0.189,
+        "profile_path": "/iMeMi4lHqO7HKlJ3niWkkEqD29y.jpg",
+        "credit_id": "693ae252506bcf72beaea1e2",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2755111,
+        "known_for_department": "Directing",
+        "name": "Ana Tapia Rousiouk",
+        "original_name": "Ana Tapia Rousiouk",
+        "popularity": 0.3653,
+        "profile_path": "/2MELaDyxN47X7EcOHb8sz1YxHTi.jpg",
+        "credit_id": "693ae2600c21a57667f62247",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4170203,
+        "known_for_department": "Acting",
+        "name": "Geneviève Ackerman",
+        "original_name": "Geneviève Ackerman",
+        "popularity": 0.3487,
+        "profile_path": null,
+        "credit_id": "693ae2791a7b98d054cdf24a",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4207723,
+        "known_for_department": "Camera",
+        "name": "Francis Leduc",
+        "original_name": "Francis Leduc",
+        "popularity": 0.1967,
+        "profile_path": null,
+        "credit_id": "693ae313ac43e05bae1d2b64",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2127942,
+        "known_for_department": "Directing",
+        "name": "Renaud Després-Larose",
+        "original_name": "Renaud Després-Larose",
+        "popularity": 0.189,
+        "profile_path": "/iMeMi4lHqO7HKlJ3niWkkEqD29y.jpg",
+        "credit_id": "693ae323a171067e4469059c",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2127942,
+        "known_for_department": "Directing",
+        "name": "Renaud Després-Larose",
+        "original_name": "Renaud Després-Larose",
+        "popularity": 0.189,
+        "profile_path": "/iMeMi4lHqO7HKlJ3niWkkEqD29y.jpg",
+        "credit_id": "693ae341fe5d4e25f0690654",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2755111,
+        "known_for_department": "Directing",
+        "name": "Ana Tapia Rousiouk",
+        "original_name": "Ana Tapia Rousiouk",
+        "popularity": 0.3653,
+        "profile_path": "/2MELaDyxN47X7EcOHb8sz1YxHTi.jpg",
+        "credit_id": "693ae362250992d643aea425",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4170208,
+        "known_for_department": "Art",
+        "name": "Charles-Antoine Turcot",
+        "original_name": "Charles-Antoine Turcot",
+        "popularity": 0.157,
+        "profile_path": null,
+        "credit_id": "693ae37293dbbd3325b84161",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3943309,
+        "known_for_department": "Sound",
+        "name": "Ariel Harrod",
+        "original_name": "Ariel Harrod",
+        "popularity": 0.1188,
+        "profile_path": null,
+        "credit_id": "693ae571fc6e5c20271d2abd",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2586378,
+        "known_for_department": "Directing",
+        "name": "Matthew Wolkow",
+        "original_name": "Matthew Wolkow",
+        "popularity": 0.1621,
+        "profile_path": "/8ZplXNQct9aDjUb1xaRsXa7PZCp.jpg",
+        "credit_id": "693ae747833c4246f91ff5cb",
+        "department": "Camera",
+        "job": "Additional Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1742853,
+        "known_for_department": "Directing",
+        "name": "Sylvain L'Espérance",
+        "original_name": "Sylvain L'Espérance",
+        "popularity": 0.3181,
+        "profile_path": "/9GHnEYPzSjWgohVRsbwEOSaLjGy.jpg",
+        "credit_id": "6998cbc47001e56181c99af7",
+        "department": "Camera",
+        "job": "Additional Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5810788,
+        "known_for_department": "Directing",
+        "name": "Juliette Turcot",
+        "original_name": "Juliette Turcot",
+        "popularity": 0.0585,
+        "profile_path": null,
+        "credit_id": "6998cc0c3a594361b0ab9522",
+        "department": "Camera",
+        "job": "Assistant Grip"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2127942,
+        "known_for_department": "Directing",
+        "name": "Renaud Després-Larose",
+        "original_name": "Renaud Després-Larose",
+        "popularity": 0.189,
+        "profile_path": "/iMeMi4lHqO7HKlJ3niWkkEqD29y.jpg",
+        "credit_id": "6998d8d9fc783b08a1c99b7f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "https://www.ladistributrice.ca/films/cauchemar-conseil",
+          "overview": "Lucie, a PhD student without a work visa and plagued by insomnia, is trapped in a destructive affair with her thesis advisor while being pursued by a jealous ex. Seeking help from a reclusive shaman on the city’s edge, she meets Béatrice, a young woman as carefree as she is determined to help her.",
+          "runtime": 148,
+          "tagline": "",
+          "title": "Nightmare's Advice"
+        }
+      },
+      {
+        "iso_3166_1": "CA",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "Lucie, une thésarde sans visa de travail et en proie à l’insomnie, est enfermée dans une liaison destructrice avec son directeur de thèse, en plus d’être pourchassée par un ex jaloux. En quête d’aide auprès d’un chaman reclus aux confins de la ville, elle rencontre Béatrice, une jeune femme aussi insouciante qu’elle semble déterminée à lui venir en aide.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 148,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "NL",
+        "title": "Nightmare's Advice",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt39337450",
+    "wikidata_id": null,
+    "facebook_id": "profile.php",
+    "instagram_id": "cauchemarconseil",
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.777,
+        "height": 1688,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/tJ8JufDYnDCou3TlJEmYT1S0srZ.jpg",
+        "vote_average": 0.0,
+        "vote_count": 1,
+        "width": 3000
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1440,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/2VWlYtKXBQwCOw2DaVTQIRcpVBG.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2560
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1440,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/yezjoNVgyptqCp8QcM0EJJauRIE.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2560
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1440,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/Agoyall3XHCrEKZVKtCGFdjBE4E.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2560
+      },
+      {
+        "aspect_ratio": 1.779,
+        "height": 1439,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/8jBogLaMpWZ27RmpEmRJafm2f0c.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2560
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1440,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/7Vxl3anyrB76qaOVxmHLPFayE23.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2560
+      },
+      {
+        "aspect_ratio": 1.777,
+        "height": 844,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/2cjr77sIpPCu3M1WJarVwefwdII.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1500
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1152,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/coQj8XdkZx2ujuWaz0cP2NQAhbL.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2048
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1152,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/qsH63Bq6mHcSv0nPDH0nPJStPor.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2048
+      },
+      {
+        "aspect_ratio": 1.777,
+        "height": 1464,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/ylEka6dxmXVGXt69rtvRvIzGX79.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2602
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1152,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/6NR6pBiuBim8FVZkThkllOwi1Fc.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2048
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1152,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/rzmbKejXET1txd75BkTPdeZmoEd.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2048
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1152,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/aLAZLm4Zx4S6mdBdMn2mztbEVbA.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2048
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1152,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/vtjYPfTMm381q3sCEs600UftQi2.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2048
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1152,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/iVzg5uPB18oK5q4nC44416lKyDd.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2048
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1152,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/oEynOynShmVPoq7R3zvw5ZKZACb.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2048
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1152,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/qEer1w0aE2TMu38dA9M11c9lYov.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2048
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.659,
+        "height": 2098,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/8vlFkqGeVtatvPdwpAEzGv7ikdp.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1383
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/2dWakSD1OCMqA7EkPSMtFh2gqLe.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/bhaqzip9GnVCM65YyMteQ6Zqv7S.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "CA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "fr",
+            "note": "Semaine de la critique de Montréal",
+            "release_date": "2026-01-12T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-09-04T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "International Film Festival Rotterdam",
+            "release_date": "2026-02-03T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "TAURON New Horizons International Film Festival",
+            "release_date": "2026-07-26T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "rBBW7cHAoRQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "6968e60cb8d00b5338e56aac",
+        "published_at": "2025-12-19T19:48:14.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer. CAUCHEMAR CONSEIL (Nightmare's Advice). A film by Renaud Després-Larose and Ana Tapia Rousiouk.",
+        "key": "1142650323",
+        "site": "Vimeo",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "6966553956c2b67dadcc989d",
+        "published_at": "2025-12-02T23:47:49.000Z"
+      }
+    ]
+  }
+}

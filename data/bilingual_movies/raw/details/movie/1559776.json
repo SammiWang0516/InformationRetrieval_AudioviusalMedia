@@ -1,0 +1,654 @@
+{
+  "adult": false,
+  "backdrop_path": "/9ElCuDZI5hHBh1uLKpyt1robldc.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 1559776,
+  "imdb_id": "tt38637477",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The A List: 15 Stories from Asian and Pacific Diasporas",
+  "overview": "Sandra Oh, Sen. Tammy Duckworth, Kumail Nanjiani, Amanda Nguyen, Connie Chung, and beyond: their worlds may be disparate, but they’ve all, in their unique ways, navigated what it means to be Asian in relation to their American identities. While their success has been fraught with racism, they share their stories of losses and wins.",
+  "popularity": 0.8489,
+  "poster_path": "/38ppjtixad3xK2diPaRGg71ZBNB.jpg",
+  "production_companies": [
+    {
+      "id": 14914,
+      "logo_path": "/1RZBWz53SpHUTLpRcM8BGv2plIP.png",
+      "name": "HBO Documentary Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 28606,
+      "logo_path": null,
+      "name": "Perfect Day Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-05-14",
+  "revenue": 0,
+  "runtime": 84,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "The A List: 15 Stories from Asian and Pacific Diasporas",
+  "video": false,
+  "vote_average": 10.0,
+  "vote_count": 2,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 25540,
+        "known_for_department": "Acting",
+        "name": "Sandra Oh",
+        "original_name": "Sandra Oh",
+        "popularity": 1.6112,
+        "profile_path": "/zU8vjebHxcP60ESEL5Ok68KWZvj.jpg",
+        "cast_id": 11,
+        "character": "Self",
+        "credit_id": "69defb1e1e5c763d3b2d930f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6178140,
+        "known_for_department": "Acting",
+        "name": "Yia Vang",
+        "original_name": "Yia Vang",
+        "popularity": 0.0879,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Self",
+        "credit_id": "69f2b1366b40ed39c7d7304b",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2675985,
+        "known_for_department": "Acting",
+        "name": "Amanda Nguyen",
+        "original_name": "Amanda Nguyen",
+        "popularity": 0.1967,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Self",
+        "credit_id": "69f2aa411e7ed73b2e9a66c6",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3721039,
+        "known_for_department": "Sound",
+        "name": "DJ Rekha",
+        "original_name": "DJ Rekha",
+        "popularity": 0.0595,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Self",
+        "credit_id": "69f2aa51a509de07547a26ea",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 96149,
+        "known_for_department": "Acting",
+        "name": "Connie Chung",
+        "original_name": "Connie Chung",
+        "popularity": 0.404,
+        "profile_path": "/nlxI93q8LIRVaIOdHlo4JUwdlV.jpg",
+        "cast_id": 14,
+        "character": "Self",
+        "credit_id": "69defb411687dbde56f93b02",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3603261,
+        "known_for_department": "Acting",
+        "name": "Schuyler Bailar",
+        "original_name": "Schuyler Bailar",
+        "popularity": 0.109,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Self",
+        "credit_id": "69f2aa37a509de07547a26e3",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 466505,
+        "known_for_department": "Acting",
+        "name": "Kumail Nanjiani",
+        "original_name": "Kumail Nanjiani",
+        "popularity": 2.0004,
+        "profile_path": "/9EyrK1Cv7ey1h1GgmsVAOn45w6G.jpg",
+        "cast_id": 12,
+        "character": "Self",
+        "credit_id": "69defb27f20d29ca3ef93ab1",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6178072,
+        "known_for_department": "Acting",
+        "name": "Madelyn Yu",
+        "original_name": "Madelyn Yu",
+        "popularity": 0.1262,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Self",
+        "credit_id": "69f2aa28a509de07547a26df",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6178132,
+        "known_for_department": "Acting",
+        "name": "Haroon Mokhtarzada",
+        "original_name": "Haroon Mokhtarzada",
+        "popularity": 0.0794,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Self",
+        "credit_id": "69f2b0df125ea96439d73065",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3022535,
+        "known_for_department": "Acting",
+        "name": "Tammy Duckworth",
+        "original_name": "Tammy Duckworth",
+        "popularity": 0.2514,
+        "profile_path": "/4tnRc8SKI23WvnynUAMLNQD6EGy.jpg",
+        "cast_id": 13,
+        "character": "Seif",
+        "credit_id": "69defb31c83ba591d52d9300",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1564920,
+        "known_for_department": "Acting",
+        "name": "Bowen Yang",
+        "original_name": "Bowen Yang",
+        "popularity": 1.0267,
+        "profile_path": "/qzjyaEe7jjLaKSmzQ2dmtcjyCpe.jpg",
+        "cast_id": 15,
+        "character": "Self",
+        "credit_id": "69f24495fdacf49162101dbb",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6178144,
+        "known_for_department": "Acting",
+        "name": "Manny Crisostomo;",
+        "original_name": "Manny Crisostomo;",
+        "popularity": 0.0659,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Self",
+        "credit_id": "69f2b1647f0f9ae7e7b6bf93",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6178145,
+        "known_for_department": "Acting",
+        "name": "Nergis Mavalvala",
+        "original_name": "Nergis Mavalvala",
+        "popularity": 0.0632,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "Self",
+        "credit_id": "69f2b1739b2539490f209a3b",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6178146,
+        "known_for_department": "Acting",
+        "name": "Kathy Masaoka",
+        "original_name": "Kathy Masaoka",
+        "popularity": 0.0639,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "Self",
+        "credit_id": "69f2b17be0d5602e88deae70",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5192241,
+        "known_for_department": "Acting",
+        "name": "Cliff Kapono",
+        "original_name": "Cliff Kapono",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "Self",
+        "credit_id": "69f2aa493d651be400deae72",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1810672,
+        "known_for_department": "Directing",
+        "name": "Eugene Yi",
+        "original_name": "Eugene Yi",
+        "popularity": 0.0896,
+        "profile_path": null,
+        "credit_id": "68e7c918eea49f59374a979a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 218054,
+        "known_for_department": "Production",
+        "name": "Nancy Abraham",
+        "original_name": "Nancy Abraham",
+        "popularity": 0.4098,
+        "profile_path": "/wxBYHp7biBMW2Dtrry1ajdo6XyH.jpg",
+        "credit_id": "68e7c929c78d52b5dde6a757",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 945162,
+        "known_for_department": "Production",
+        "name": "Lisa Heller",
+        "original_name": "Lisa Heller",
+        "popularity": 0.5365,
+        "profile_path": "/5UQABpvdcyD1hymHzrZoN6lNvq4.jpg",
+        "credit_id": "68e7c93025c349579a41de6a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 143296,
+        "known_for_department": "Directing",
+        "name": "Timothy Greenfield-Sanders",
+        "original_name": "Timothy Greenfield-Sanders",
+        "popularity": 0.3098,
+        "profile_path": "/jwkTwUETWAubkvWMg3X9e0hMLGG.jpg",
+        "credit_id": "68e7c93d74eee2f60f4a966b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2861147,
+        "known_for_department": "Production",
+        "name": "Tina Nguyen",
+        "original_name": "Tina Nguyen",
+        "popularity": 0.2134,
+        "profile_path": null,
+        "credit_id": "68e7c9493a728a24324a9613",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1810672,
+        "known_for_department": "Directing",
+        "name": "Eugene Yi",
+        "original_name": "Eugene Yi",
+        "popularity": 0.0896,
+        "profile_path": null,
+        "credit_id": "68e7c94f6cedbc7c474a98e9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1113717,
+        "known_for_department": "Production",
+        "name": "Chad Thompson",
+        "original_name": "Chad Thompson",
+        "popularity": 0.0559,
+        "profile_path": null,
+        "credit_id": "68e7c965ab23f18ccb73db91",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1099920,
+        "known_for_department": "Editing",
+        "name": "Johanna Giebelhaus",
+        "original_name": "Johanna Giebelhaus",
+        "popularity": 0.0667,
+        "profile_path": null,
+        "credit_id": "68e7c97a7de6320d66e6a6d8",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1406454,
+        "known_for_department": "Camera",
+        "name": "Nausheen Dadabhoy",
+        "original_name": "Nausheen Dadabhoy",
+        "popularity": 0.2962,
+        "profile_path": null,
+        "credit_id": "69f2b1953dbc9f027cd7302e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6178153,
+        "known_for_department": "Production",
+        "name": "Jada Yuan",
+        "original_name": "Jada Yuan",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69f2b1ce9e888a2dd89a6620",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1483716,
+        "known_for_department": "Production",
+        "name": "Jean Tsien",
+        "original_name": "錢孝貞",
+        "popularity": 0.8061,
+        "profile_path": "/abqgbKRwcLsRj3RPKnyQJsIIliD.jpg",
+        "credit_id": "6a09200a46a67c9e707a8c74",
+        "department": "Editing",
+        "job": "Consulting Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Sandra Oh, Sen. Tammy Duckworth, Kumail Nanjiani, Amanda Nguyen, Connie Chung, and beyond: their worlds may be disparate, but they’ve all, in their unique ways, navigated what it means to be Asian in relation to their American identities. While their success has been fraught with racism, they share their stories of losses and wins.",
+          "runtime": 84,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "Des acteurs, des militants, des sportifs et des personnalités d'origine asiatique, participent à une série d'entretiens en toute intimité.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "RO",
+        "iso_639_1": "ro",
+        "name": "Română",
+        "english_name": "Romanian",
+        "data": {
+          "homepage": "",
+          "overview": "Actori, activiști, atleți și americani AAPI influenți din toate categoriile sociale participă la o serie de interviuri intime.",
+          "runtime": 85,
+          "tagline": "",
+          "title": "Lista selectă: 15 povești din diaspora asiatică și cea a insularilor din pacific"
+        }
+      },
+      {
+        "iso_3166_1": "IL",
+        "iso_639_1": "he",
+        "name": "עִבְרִית",
+        "english_name": "Hebrew",
+        "data": {
+          "homepage": "",
+          "overview": "סרט תיעודי לציון חודש המורשת של הקהילות האסיאתיות-אמריקאיות, הוואי ותושבי איי האוקיינוס השקט. הבמאי זוכה פרס האמי יוג'ין יי מביא חמישה עשר סיפורים אישיים של אנשים מרקעים שונים, מסלבריטאים בינלאומיים ועד אנשים מן השורה, החולקים את חוויותיהם סביב שאלות של זהות ושייכות באמריקה. ראיונות אינטימיים עם דמויות כמו השחקנית סנדרה או, השחקן והקומיקאי קומייל ננג'יאני, הקומיקאי בואן יאנג, שדרנית הטלוויזיה קוני צ'אנג והסנאטורית תמי דאקוורת'.",
+          "runtime": 85,
+          "tagline": "",
+          "title": "רשימת המצטיינים: 15 סיפורים מהפזורה של אסיה והאוקיינוס ​​השקט"
+        }
+      },
+      {
+        "iso_3166_1": "NL",
+        "iso_639_1": "nl",
+        "name": "Nederlands",
+        "english_name": "Dutch",
+        "data": {
+          "homepage": "",
+          "overview": "Sandra Oh, senator Tammy Duckworth, Kumail Nanjiani, Amanda Nguyen, Connie Chung en vele anderen: hun werelden mogen dan verschillend zijn, ze hebben allemaal op hun eigen unieke manier hun weg gevonden in wat het betekent om Aziatisch te zijn in relatie tot hun Amerikaanse identiteit. Hoewel hun succes gepaard is gegaan met racisme, delen ze hun verhalen over verliezen en overwinningen.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "LT",
+        "iso_639_1": "lt",
+        "name": "Lietuvių",
+        "english_name": "Lithuanian",
+        "data": {
+          "homepage": "",
+          "overview": "Sandra Oh, senatorė Tammy Duckworth, Kumailas Nanjianis, Amanda Nguyen, Connie Chung ir kiti: jų pasauliai gali būti skirtingi, tačiau jie visi savaip atskleidžia, ką reiškia būti azijiečiu, derinant tai su amerikietiška tapatybe. Nors jų kelyje į sėkmę netrūko rasizmo, jie dalijasi savo pralaimėjimų ir pergalių istorijomis.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "A sąrašas: 15 Azijos ir Ramiojo vandenyno šalių diasporų istorijų"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "The A List",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt38637477",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/9ElCuDZI5hHBh1uLKpyt1robldc.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/flw6JNrAg57ZYLbvYLGrBmEhHFu.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/2UMEolYxiBybm6UYFyeH4oMYy6I.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 720,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/c9aT3viVWqvjiWIX3Hdpx1EdQMp.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1280
+      }
+    ],
+    "logos": [
+      {
+        "aspect_ratio": 3.327,
+        "height": 300,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/y2iRcosuvvvCetRVdwl6VHJ1dWJ.png",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 998
+      }
+    ],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/38ppjtixad3xK2diPaRGg71ZBNB.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/fJVn0mEc8f6AN92gnGYWQ0oJvNF.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "RO",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-05-14T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "DOC NYC",
+            "release_date": "2025-11-17T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "HBO Max",
+            "release_date": "2026-05-13T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "HBO",
+            "release_date": "2026-05-13T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Official Trailer",
+        "key": "N6Zsu7F5gFM",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "69f2a9f046231d17297a272f",
+        "published_at": "2026-04-29T17:00:51.000Z"
+      }
+    ]
+  }
+}

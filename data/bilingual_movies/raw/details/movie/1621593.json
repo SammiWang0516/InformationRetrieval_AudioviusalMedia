@@ -1,0 +1,488 @@
+{
+  "adult": false,
+  "backdrop_path": "/66UqtKfomKInYHJW3Y4Lzj2yWcw.jpg",
+  "belongs_to_collection": null,
+  "budget": 1400,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1621593,
+  "imdb_id": "tt39401959",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Doppelgänger",
+  "overview": "",
+  "popularity": 0.7157,
+  "poster_path": "/lEvh3UnjPlPiX0LR96QiqmsrTGm.jpg",
+  "production_companies": [
+    {
+      "id": 132914,
+      "logo_path": null,
+      "name": "YAQ Distribución",
+      "origin_country": ""
+    },
+    {
+      "id": 251696,
+      "logo_path": null,
+      "name": "Catalonia Film School",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2026-03-06",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Doppelgänger",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5957558,
+        "known_for_department": "Acting",
+        "name": "Alba Villalobos",
+        "original_name": "Alba Villalobos",
+        "popularity": 0.0416,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Sofía",
+        "credit_id": "69736a0875de313db8aee0a9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4676559,
+        "known_for_department": "Acting",
+        "name": "Pep Linares",
+        "original_name": "Pep Linares",
+        "popularity": 0.0723,
+        "profile_path": "/dS0YQfhX4iIjZ2LFovaEJmsXDnV.jpg",
+        "cast_id": 31,
+        "character": "Borja",
+        "credit_id": "69736a212884cd3841aee1d7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3962351,
+        "known_for_department": "Acting",
+        "name": "Teo Carrión Conesa",
+        "original_name": "Teo Carrión Conesa",
+        "popularity": 0.1926,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Miguel",
+        "credit_id": "69736a6c75de313db8aee0b1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1110726,
+        "known_for_department": "Acting",
+        "name": "Nacho Loriente",
+        "original_name": "Nacho Loriente",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Psiquiatra",
+        "credit_id": "69736b86cd8a6e2c0637b69f",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5957495,
+        "known_for_department": "Directing",
+        "name": "Daniel Herrero",
+        "original_name": "Daniel Herrero",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6973621d6d1f52d59eaedff2",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5957512,
+        "known_for_department": "Production",
+        "name": "Diego Lucas Gil",
+        "original_name": "Diego Lucas Gil",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6973632ed6b2b8b091dca6a7",
+        "department": "Production",
+        "job": "Production Director"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5957522,
+        "known_for_department": "Production",
+        "name": "Julia Medina",
+        "original_name": "Julia Medina",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "697363b7b6d9ddc4a3893de1",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5957525,
+        "known_for_department": "Production",
+        "name": "Yasmina Bau",
+        "original_name": "Yasmina Bau",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "697363e5508746a054dca69e",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5957526,
+        "known_for_department": "Camera",
+        "name": "Toni Lois",
+        "original_name": "Toni Lois",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "697363feefdad681e2e3d821",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5957528,
+        "known_for_department": "Directing",
+        "name": "Gema Eunice",
+        "original_name": "Gema Eunice",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "697364568366659d4138075f",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5957534,
+        "known_for_department": "Camera",
+        "name": "Joan Belmonte",
+        "original_name": "Joan Belmonte",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "69736520eaaaee1654aee130",
+        "department": "Camera",
+        "job": "Focus Puller"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5943711,
+        "known_for_department": "Camera",
+        "name": "Pau Nef",
+        "original_name": "Pau Nef",
+        "popularity": 0.0359,
+        "profile_path": null,
+        "credit_id": "697365b69abd90b1ec9d08a7",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5943687,
+        "known_for_department": "Directing",
+        "name": "Alex García Molina",
+        "original_name": "Alex García Molina",
+        "popularity": 0.0439,
+        "profile_path": "/oH4mstZgdtRVc2uwKhxS9u825Ha.jpg",
+        "credit_id": "69736700d47b0412889d079d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5957543,
+        "known_for_department": "Editing",
+        "name": "Alex Garcia Molina",
+        "original_name": "Alex Garcia Molina",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6973674f8cf9191d9513d117",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5957545,
+        "known_for_department": "Writing",
+        "name": "Alex Garcia Molina",
+        "original_name": "Alex Garcia Molina",
+        "popularity": 0.0729,
+        "profile_path": null,
+        "credit_id": "6973676bf6e80b56f613cfe5",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5943713,
+        "known_for_department": "Lighting",
+        "name": "Daniel Perla",
+        "original_name": "Daniel Perla",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "697367931fd0f146dd38073a",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5943709,
+        "known_for_department": "Lighting",
+        "name": "Ruben Hiruelo",
+        "original_name": "Ruben Hiruelo",
+        "popularity": 0.08,
+        "profile_path": null,
+        "credit_id": "697367b591cdad1073942bc2",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5957547,
+        "known_for_department": "Lighting",
+        "name": "Martí Ripoll",
+        "original_name": "Martí Ripoll",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "697367d7967aac5e8d37b94a",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5957548,
+        "known_for_department": "Camera",
+        "name": "Nil Chica",
+        "original_name": "Nil Chica",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "697367fcb4c5608ec6e3d661",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5957549,
+        "known_for_department": "Sound",
+        "name": "Yago Sempere",
+        "original_name": "Yago Sempere",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "6973681b91cdad1073942bdf",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5957550,
+        "known_for_department": "Sound",
+        "name": "Marc Corretger",
+        "original_name": "Marc Corretger",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6973683f792b11b328893e48",
+        "department": "Sound",
+        "job": "Sound Assistant"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5957551,
+        "known_for_department": "Sound",
+        "name": "Nel Rossy",
+        "original_name": "Nel Rossy",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "6973686d221f1ecafcdca615",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5957552,
+        "known_for_department": "Editing",
+        "name": "Joan Belmonte",
+        "original_name": "Joan Belmonte",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "697368858cf9191d9513d123",
+        "department": "Editing",
+        "job": "Color Grading"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5957554,
+        "known_for_department": "Sound",
+        "name": "Oscar Miguel Ajenjo",
+        "original_name": "Oscar Miguel Ajenjo",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "697368e1ab41bc3e8837b85a",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5957557,
+        "known_for_department": "Art",
+        "name": "Ana Andújar",
+        "original_name": "Ana Andújar",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "69736938f2cd777d53942a8b",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5943677,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Mireia Hugué i Ortega",
+        "original_name": "Mireia Hugué i Ortega",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6973698893dbbe290437b85b",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 5168810,
+        "known_for_department": "Crew",
+        "name": "Lucía Balastegui",
+        "original_name": "Lucía Balastegui",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "697369bc2884cd3841aee1c9",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Una mujer atrapada en su modo de vida, avanza incesantemente hacía el colapso mental. Cuida de un hijo al que no ama y está casada con un hombre al que apenas ve. Una noche un intruso invade su hogar con intención de liberarla de sus ataduras y dar rienda suelta a sus más oscuros deseos.",
+          "runtime": 18,
+          "tagline": "¿Estás seguro de que el único tú eres tú?",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt39401959",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "doppelganger_shortfilm",
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "Official selection on (Short.Sweet.Film Festival)",
+            "release_date": "2026-03-06T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

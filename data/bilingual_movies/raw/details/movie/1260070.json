@@ -1,0 +1,616 @@
+{
+  "adult": false,
+  "backdrop_path": "/o3jYq22aCOXxWvp1qnvEFW8E59B.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1260070,
+  "imdb_id": "tt32755660",
+  "origin_country": [
+    "BR",
+    "UY"
+  ],
+  "original_language": "pt",
+  "original_title": "A Procura de Martina",
+  "overview": "Martina, who has Alzheimer's, has been searching for her grandson for over three decades. Discovering he is in Brazil, her long and solitary journey becomes an intense struggle against time and oblivion.",
+  "popularity": 0.9567,
+  "poster_path": "/5Knp16HlsPxGIJYv2xoWLB42Frd.jpg",
+  "production_companies": [
+    {
+      "id": 125712,
+      "logo_path": "/ing3Rq9EP0NCXVJd4j0QKV15gMN.png",
+      "name": "Kromaki",
+      "origin_country": "BR"
+    },
+    {
+      "id": 33758,
+      "logo_path": null,
+      "name": "Ipanema Filmes",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    },
+    {
+      "iso_3166_1": "UY",
+      "name": "Uruguay"
+    }
+  ],
+  "release_date": "2025-05-29",
+  "revenue": 0,
+  "runtime": 90,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Martina's Search",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 4,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 18499,
+        "known_for_department": "Acting",
+        "name": "Mercedes Morán",
+        "original_name": "Mercedes Morán",
+        "popularity": 0.4241,
+        "profile_path": "/2r5QQeumzXWoSma6RQrLjiNhHdu.jpg",
+        "cast_id": 4,
+        "character": "Martina",
+        "credit_id": "65f59d80e039f101310268e5",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 584336,
+        "known_for_department": "Acting",
+        "name": "Adriana Aizemberg",
+        "original_name": "Adriana Aizemberg",
+        "popularity": 0.2567,
+        "profile_path": "/wfP3Q1xW5nmLP7e7mUqxRm4HulM.jpg",
+        "cast_id": 21,
+        "character": "Norma",
+        "credit_id": "686d67c0c74a5042c81040ee",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1028517,
+        "known_for_department": "Acting",
+        "name": "Cristina Banegas",
+        "original_name": "Cristina Banegas",
+        "popularity": 0.2563,
+        "profile_path": "/8emCBHR63qIZlS7KusOOf8CeSGM.jpg",
+        "cast_id": 22,
+        "character": "Rosa",
+        "credit_id": "686d67c9e56c47a84c6e8a20",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1356080,
+        "known_for_department": "Acting",
+        "name": "Luciana Paes",
+        "original_name": "Luciana Paes",
+        "popularity": 0.6462,
+        "profile_path": "/1Xwwci6AcdTzdLbikwhTkax73EX.jpg",
+        "cast_id": 7,
+        "character": "Jéssica",
+        "credit_id": "65f59db1156cc7017e62288a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 592668,
+        "known_for_department": "Acting",
+        "name": "Carla Ribas",
+        "original_name": "Carla Ribas",
+        "popularity": 0.325,
+        "profile_path": "/zAzOowHTNI4cEDISLqUrDYEEkHR.jpg",
+        "cast_id": 6,
+        "character": "Hilda",
+        "credit_id": "65f59da03fe160017dc6142a",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1714274,
+        "known_for_department": "Acting",
+        "name": "Carolina Virguez",
+        "original_name": "Carolina Virguez",
+        "popularity": 0.1908,
+        "profile_path": "/rw0c8kXYgNstj1AHIulkrHqzP2T.jpg",
+        "cast_id": 23,
+        "character": "Olga",
+        "credit_id": "6962dea1d07bd71014d14ec4",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1311705,
+        "known_for_department": "Acting",
+        "name": "Julia Bernat",
+        "original_name": "Julia Bernat",
+        "popularity": 0.1995,
+        "profile_path": "/hpneYlDAuuaxbbWCeuu3Q9Ccmcc.jpg",
+        "cast_id": 24,
+        "character": "Solange",
+        "credit_id": "6962deaa5ba4d96396171cd0",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 929296,
+        "known_for_department": "Acting",
+        "name": "Fernando Eiras",
+        "original_name": "Fernando Eiras",
+        "popularity": 0.2666,
+        "profile_path": "/u4Nb5oMoye59UDfobfKEY03kjRq.jpg",
+        "cast_id": 8,
+        "character": "Santino",
+        "credit_id": "65f59dc00f2fbd017dc1fcca",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3378460,
+        "known_for_department": "Acting",
+        "name": "Nina Tomsic",
+        "original_name": "Nina Tomsic",
+        "popularity": 0.1818,
+        "profile_path": "/cMq7WNTQwMpsxgtHTxggGbe90A2.jpg",
+        "cast_id": 25,
+        "character": "Lourdes",
+        "credit_id": "6962dec9441bbb8dccb551cf",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1618477,
+        "known_for_department": "Acting",
+        "name": "Lucio Hernández",
+        "original_name": "Lucio Hernández",
+        "popularity": 0.118,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Dr. Carlos",
+        "credit_id": "6962deda49d4de0eca364daa",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1694067,
+        "known_for_department": "Acting",
+        "name": "Stella Rabello",
+        "original_name": "Stella Rabello",
+        "popularity": 0.1605,
+        "profile_path": "/rCsvzTQLE4cPEb6pjFgo9UeZFsA.jpg",
+        "cast_id": 27,
+        "character": "Vizinha Ricardo",
+        "credit_id": "6962dee9a2c20d3a48f40b63",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1350353,
+        "known_for_department": "Acting",
+        "name": "Gabriela Freire",
+        "original_name": "Gabriela Freire",
+        "popularity": 0.7116,
+        "profile_path": "/zF1JqCZNmUbRnGMwUFsL2vFX1cy.jpg",
+        "cast_id": 28,
+        "character": "Professora de Hidroginástica",
+        "credit_id": "6962defdecc6f8afbbbd3b42",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1758107,
+        "known_for_department": "Acting",
+        "name": "André Dale",
+        "original_name": "André Dale",
+        "popularity": 0.1008,
+        "profile_path": "/tf8mBRXaQKvhquv9WiAgQ9PVqDV.jpg",
+        "cast_id": 29,
+        "character": "Entregador de bolo",
+        "credit_id": "6962df0ea361b0647c364d6a",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1381157,
+        "known_for_department": "Writing",
+        "name": "Gabriela Amaral Almeida",
+        "original_name": "Gabriela Amaral Almeida",
+        "popularity": 0.3232,
+        "profile_path": "/kYYzWmGiqCgYAOlBvuPzF20NLxI.jpg",
+        "credit_id": "65f59ceed4d5090164ab1a77",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1366815,
+        "known_for_department": "Directing",
+        "name": "Márcia Faria",
+        "original_name": "Márcia Faria",
+        "popularity": 0.2439,
+        "profile_path": "/c3Vmcd3gvo5sgsr6iKXDJYjx8AY.jpg",
+        "credit_id": "65f59cca0f2fbd0131c03c64",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1366815,
+        "known_for_department": "Directing",
+        "name": "Márcia Faria",
+        "original_name": "Márcia Faria",
+        "popularity": 0.2439,
+        "profile_path": "/c3Vmcd3gvo5sgsr6iKXDJYjx8AY.jpg",
+        "credit_id": "65f59cfdaede590163beb48e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1354569,
+        "known_for_department": "Camera",
+        "name": "Léo Bittencourt",
+        "original_name": "Léo Bittencourt",
+        "popularity": 0.4217,
+        "profile_path": "/fmEFVuQ6DOdz5UuN8B1yKM6HFLv.jpg",
+        "credit_id": "671e7bff1ea33928297d9a3c",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1283784,
+        "known_for_department": "Editing",
+        "name": "Eva Randolph",
+        "original_name": "Eva Randolph",
+        "popularity": 0.1924,
+        "profile_path": null,
+        "credit_id": "671e7c0a1ea33928297d9a46",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3190441,
+        "known_for_department": "Sound",
+        "name": "Manuel Scavone",
+        "original_name": "Manuel Scavone",
+        "popularity": 0.1482,
+        "profile_path": null,
+        "credit_id": "671e7c12769107d77b4821e9",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2384623,
+        "known_for_department": "Sound",
+        "name": "Nicolás Rodríguez",
+        "original_name": "Nicolás Rodríguez",
+        "popularity": 0.1972,
+        "profile_path": null,
+        "credit_id": "671e7c1e6d6b705dc871cb83",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1016218,
+        "known_for_department": "Sound",
+        "name": "Ricardo Cutz",
+        "original_name": "Ricardo Cutz",
+        "popularity": 0.4869,
+        "profile_path": "/jJrOZiJBTwTQ9kZwhTCFpIQ8AiZ.jpg",
+        "credit_id": "671e7c29769107d77b4821f2",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3190441,
+        "known_for_department": "Sound",
+        "name": "Manuel Scavone",
+        "original_name": "Manuel Scavone",
+        "popularity": 0.1482,
+        "profile_path": null,
+        "credit_id": "671e7c3634c0fabd681cfdcb",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2384623,
+        "known_for_department": "Sound",
+        "name": "Nicolás Rodríguez",
+        "original_name": "Nicolás Rodríguez",
+        "popularity": 0.1972,
+        "profile_path": null,
+        "credit_id": "671e7c424542e371fe0af740",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5026069,
+        "known_for_department": "Sound",
+        "name": "Diego Rodríguez Mieres",
+        "original_name": "Diego Rodríguez Mieres",
+        "popularity": 0.2785,
+        "profile_path": null,
+        "credit_id": "671e7cb834c0fabd681cfe0d",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5026072,
+        "known_for_department": "Art",
+        "name": "Diogo Costa",
+        "original_name": "Diogo Costa",
+        "popularity": 0.3237,
+        "profile_path": null,
+        "credit_id": "671e7cd327bd57d91f630809",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2148810,
+        "known_for_department": "Art",
+        "name": "Alice Carvalho",
+        "original_name": "Alice Carvalho",
+        "popularity": 0.1337,
+        "profile_path": null,
+        "credit_id": "671e7ce434c0fabd681cfe27",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1809556,
+        "known_for_department": "Production",
+        "name": "Rodrigo Letier",
+        "original_name": "Rodrigo Letier",
+        "popularity": 0.0738,
+        "profile_path": null,
+        "credit_id": "671e7cf634c0fabd681cfe57",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1366815,
+        "known_for_department": "Directing",
+        "name": "Márcia Faria",
+        "original_name": "Márcia Faria",
+        "popularity": 0.2439,
+        "profile_path": "/c3Vmcd3gvo5sgsr6iKXDJYjx8AY.jpg",
+        "credit_id": "671e7d0827bd57d91f63084a",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "BR",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "homepage": "https://kromaki.com/producoes/a-procura-de-martina/",
+          "overview": "Martina é uma viúva argentina que procura há mais de 30 anos pelo neto, nascido em cativeiro durante a ditadura militar. A necessidade de encontrá- lo se torna ainda mais urgente ao receber o diagnóstico de Alzheimer. Quando Martina descobre que o neto pode estar no Brasil, ela embarca em uma jornada em que passado e presente se misturam, transformando essa busca em uma luta contra o esquecimento.",
+          "runtime": 90,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Martina, who has Alzheimer's, has been searching for her grandson for over three decades. Discovering he is in Brazil, her long and solitary journey becomes an intense struggle against time and oblivion.",
+          "runtime": 90,
+          "tagline": "",
+          "title": "Martina's Search"
+        }
+      },
+      {
+        "iso_3166_1": "PL",
+        "iso_639_1": "pl",
+        "name": "Polski",
+        "english_name": "Polish",
+        "data": {
+          "homepage": "",
+          "overview": "Martina jest argentyńską wdową, która od ponad 30 lat poszukuje swojego wnuka, urodzonego w niewoli w czasie dyktatury wojskowej. Potrzeba jego odnalezienia staje się jeszcze pilniejsza, gdy dowiaduje się, że cierpi na chorobę Alzheimera. Kiedy Martina dowiaduje się, że jej wnuk może przebywać w Brazylii, wyrusza w podróż, w której przeszłość miesza się z teraźniejszością, zmieniając poszukiwania w walkę z zapomnieniem.",
+          "runtime": 87,
+          "tagline": "",
+          "title": "A Procura de Martina"
+        }
+      },
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Martina es una viuda argentina que lleva más de treinta años buscando a su nieto, nacido en cautiverio durante la dictadura militar. La necesidad de encontrarlo se vuelve aún más urgente cuando Martina recibe el diagnóstico de Alzheimer. Al descubrir que su nieto podría estar en Brasil, Martina emprende un viaje en el que pasado y presente se mezclan, transformando su búsqueda en una lucha contra el olvido.",
+          "runtime": 90,
+          "tagline": "",
+          "title": "La búsqueda de Martina"
+        }
+      },
+      {
+        "iso_3166_1": "MX",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Martina es una viuda argentina que lleva más de treinta años buscando a su nieto, nacido en cautiverio durante la dictadura militar. La necesidad de encontrarlo se vuelve aún más urgente cuando Martina recibe el diagnóstico de Alzheimer. Al descubrir que su nieto podría estar en Brasil, Martina emprende un viaje en el que pasado y presente se mezclan, transformando su búsqueda en una lucha contra el olvido.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "La búsqueda de Martina"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt32755660",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/o3jYq22aCOXxWvp1qnvEFW8E59B.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      }
+    ],
+    "logos": [
+      {
+        "aspect_ratio": 3.573,
+        "height": 225,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/vwDGA4hvue29msUgPBXq6axqXBK.png",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 804
+      }
+    ],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-05-29T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Rio de Janeiro International Film Festival",
+            "release_date": "2024-10-04T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "L",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "São Paulo International Film Festival",
+            "release_date": "2024-10-26T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "A PROCURA DE MARTINA (2024) - Trailer Oficial",
+        "key": "mlZKmh20CMc",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Trailer",
+        "official": false,
+        "id": "671e8b20a4ac8a432c5cb3d7",
+        "published_at": "2024-10-27T18:46:56.000Z"
+      }
+    ]
+  }
+}

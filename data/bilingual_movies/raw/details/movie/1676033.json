@@ -1,0 +1,348 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 1676033,
+  "imdb_id": "tt49410335",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Namak",
+  "overview": "Alice, her annoying brother, Nishit and her drunk grandmother race against time to celebrate her mother’s birthday.  As Alice scrambles to get the cake, their lives unfold in real time captured by Nishit who vlogs the evening on an old camcorder.",
+  "popularity": 1.0094,
+  "poster_path": "/8FSoxCYSqBJ6tKf7v0APBuAqnSh.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2026-05-12",
+  "revenue": 0,
+  "runtime": 16,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Salt",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 897996,
+        "known_for_department": "Acting",
+        "name": "Girija Oak",
+        "original_name": "गिरिजा ओक",
+        "popularity": 0.7394,
+        "profile_path": "/f10HPTExCVQ8mZXShctpWPsxxaw.jpg",
+        "cast_id": 1,
+        "character": "Preeti",
+        "credit_id": "69e36fbfdd9e01908a7c854e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1128415,
+        "known_for_department": "Acting",
+        "name": "Lehar Khan",
+        "original_name": "Lehar Khan",
+        "popularity": 0.4306,
+        "profile_path": "/qkGtsYbXbdppzNLTsqhBpKiDeme.jpg",
+        "cast_id": 2,
+        "character": "Alice",
+        "credit_id": "69e36fd39bafb4200d26e826",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4795929,
+        "known_for_department": "Acting",
+        "name": "Ayush Ulagadde",
+        "original_name": "Ayush Ulagadde",
+        "popularity": 0.126,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Nishit",
+        "credit_id": "69e36feb1d7fee7abdadf01c",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6150795,
+        "known_for_department": "Acting",
+        "name": "Madhuri Kanhere",
+        "original_name": "Madhuri Kanhere",
+        "popularity": 0.1815,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Kamala",
+        "credit_id": "69e371eb7f06035e49adef10",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2489113,
+        "known_for_department": "Acting",
+        "name": "Ayushi Gupta",
+        "original_name": "Ayushi Gupta",
+        "popularity": 0.3646,
+        "profile_path": "/2kkR02oI1cha0D1c6J4DY4jn2tf.jpg",
+        "credit_id": "69e3703bede430543a81929f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5599588,
+        "known_for_department": "Acting",
+        "name": "Satvik Soni",
+        "original_name": "Satvik Soni",
+        "popularity": 0.0783,
+        "profile_path": null,
+        "credit_id": "69e3706680cb3ef94f395b3c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2707161,
+        "known_for_department": "Acting",
+        "name": "Aishwarya Chaudhary",
+        "original_name": "Aishwarya Chaudhary",
+        "popularity": 0.0769,
+        "profile_path": null,
+        "credit_id": "69e37086ae3b23d3118191b2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2489113,
+        "known_for_department": "Acting",
+        "name": "Ayushi Gupta",
+        "original_name": "Ayushi Gupta",
+        "popularity": 0.3646,
+        "profile_path": "/2kkR02oI1cha0D1c6J4DY4jn2tf.jpg",
+        "credit_id": "69e3709ca937178250adf01e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6150787,
+        "known_for_department": "Camera",
+        "name": "Ishani Das",
+        "original_name": "Ishani Das",
+        "popularity": 0.0376,
+        "profile_path": null,
+        "credit_id": "69e370bf63496b87670d14c7",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2261560,
+        "known_for_department": "Sound",
+        "name": "Ateesh Chattopadhyay",
+        "original_name": "Ateesh Chattopadhyay",
+        "popularity": 0.0799,
+        "profile_path": null,
+        "credit_id": "69e370e3eae8a4cb687c84aa",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2489113,
+        "known_for_department": "Acting",
+        "name": "Ayushi Gupta",
+        "original_name": "Ayushi Gupta",
+        "popularity": 0.3646,
+        "profile_path": "/2kkR02oI1cha0D1c6J4DY4jn2tf.jpg",
+        "credit_id": "69e371043c7a430ef724fe3c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6150791,
+        "known_for_department": "Art",
+        "name": "Samiyah Saud",
+        "original_name": "Samiyah Saud",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "69e3713098d454d95624fd3f",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3098267,
+        "known_for_department": "Acting",
+        "name": "Astha Arora",
+        "original_name": "Astha Arora",
+        "popularity": 0.431,
+        "profile_path": null,
+        "credit_id": "69e371677f06035e49adeefd",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5490232,
+        "known_for_department": "Production",
+        "name": "Deepak Agarwal",
+        "original_name": "Deepak Agarwal",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "69e3717fa21bc3bae5bee1bb",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3553327,
+        "known_for_department": "Directing",
+        "name": "Aarav Ramnani",
+        "original_name": "Aarav Ramnani",
+        "popularity": 0.1197,
+        "profile_path": "/77OfYMrlvEcHAxc92ehncSIPxhw.jpg",
+        "credit_id": "69e371ba8a57abe4ff26e976",
+        "department": "Editing",
+        "job": "Color Grading"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2489113,
+        "known_for_department": "Acting",
+        "name": "Ayushi Gupta",
+        "original_name": "Ayushi Gupta",
+        "popularity": 0.3646,
+        "profile_path": "/2kkR02oI1cha0D1c6J4DY4jn2tf.jpg",
+        "credit_id": "69e371cc23f9da712b395b94",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 6089,
+        "name": "freedom"
+      },
+      {
+        "id": 176096,
+        "name": "generational"
+      },
+      {
+        "id": 372585,
+        "name": "women spaces"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Alice, her annoying brother, Nishit and her drunk grandmother race against time to celebrate her mother’s birthday.  As Alice scrambles to get the cake, their lives unfold in real time captured by Nishit who vlogs the evening on an old camcorder.",
+          "runtime": 16,
+          "tagline": "",
+          "title": "Salt"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt49410335",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "Namak_thefilm",
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/8FSoxCYSqBJ6tKf7v0APBuAqnSh.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "IN",
+        "release_dates": [
+          {
+            "certification": "U",
+            "descriptors": [],
+            "iso_639_1": "hi",
+            "note": "",
+            "release_date": "2026-05-12T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

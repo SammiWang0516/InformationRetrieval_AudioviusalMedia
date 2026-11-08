@@ -1,0 +1,952 @@
+{
+  "adult": false,
+  "backdrop_path": "/vipEf3axGHDSi8tKS8ZW2qMP75.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1805075,
+  "imdb_id": "tt46667221",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "en",
+  "original_title": "Red Devil",
+  "overview": "",
+  "popularity": 0.9518,
+  "poster_path": "/hcFGFSv9laDRGqBrRF3fa8eqJKW.jpg",
+  "production_companies": [
+    {
+      "id": 259007,
+      "logo_path": null,
+      "name": "Outpost 31 Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 204364,
+      "logo_path": null,
+      "name": "Producciones Dosmentes",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2026-10-11",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Red Devil",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2088920,
+        "known_for_department": "Acting",
+        "name": "Irina Bravo",
+        "original_name": "Irina Bravo",
+        "popularity": 0.6317,
+        "profile_path": "/oqF3owmFA8y16acBJn8ft4FJnJp.jpg",
+        "cast_id": 1,
+        "character": "Sonya",
+        "credit_id": "6adb2953129e635184519d2e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6569904,
+        "known_for_department": "Art",
+        "name": "Àngel Rodríguez",
+        "original_name": "Àngel Rodríguez",
+        "popularity": 0.516,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "The Man-Eater",
+        "credit_id": "6adb300c88b3e69f15d6768c",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1783146,
+        "known_for_department": "Acting",
+        "name": "Inge Ladd",
+        "original_name": "Inge Ladd",
+        "popularity": 0.553,
+        "profile_path": "/2dM7bk6nAKPzLLOlYs2EBoeVMIm.jpg",
+        "cast_id": 2,
+        "character": "Witch",
+        "credit_id": "6adb29621abc25eb41519ecb",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 104040,
+        "known_for_department": "Acting",
+        "name": "Andrew Tarbet",
+        "original_name": "Andrew Tarbet",
+        "popularity": 0.2801,
+        "profile_path": "/oB4sFLcJ1QRXLbOvcwxhHrZBir2.jpg",
+        "cast_id": 3,
+        "character": "Knight",
+        "credit_id": "6adb29d149bccfa62a309886",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6569922,
+        "known_for_department": "Acting",
+        "name": "Carmen Bustos",
+        "original_name": "Carmen Bustos",
+        "popularity": 0.6316,
+        "profile_path": "/vIItw0WmEhElo6xTJRJ0OsIuUW9.jpg",
+        "cast_id": 41,
+        "character": "Little Sonya",
+        "credit_id": "6adb3033100e372f2b257e4d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6569925,
+        "known_for_department": "Acting",
+        "name": "Mariona Buj Escolà",
+        "original_name": "Mariona Buj Escolà",
+        "popularity": 0.3018,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "Roxelana",
+        "credit_id": "6adb306649bccfa62a309931",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6058612,
+        "known_for_department": "Acting",
+        "name": "Jasmina G. Pizarro",
+        "original_name": "Jasmina G. Pizarro",
+        "popularity": 0.1697,
+        "profile_path": null,
+        "cast_id": 43,
+        "character": "Mother",
+        "credit_id": "6adb30753138bb70ddb0ea1e",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6569929,
+        "known_for_department": "Acting",
+        "name": "Albert Collado Gili",
+        "original_name": "Albert Collado Gili",
+        "popularity": 0.6492,
+        "profile_path": null,
+        "cast_id": 44,
+        "character": "Father",
+        "credit_id": "6adb3090a028255bb1257e3e",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5735473,
+        "known_for_department": "Crew",
+        "name": "Sheila Quevedo",
+        "original_name": "Sheila Quevedo",
+        "popularity": 0.3221,
+        "profile_path": "/ia2ELLeH9JSOwRFDB9eAzDOJQ3S.jpg",
+        "cast_id": 55,
+        "character": "Spider woman #1",
+        "credit_id": "6adb32311abc25eb41519fb2",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5849367,
+        "known_for_department": "Crew",
+        "name": "Eva Torrella",
+        "original_name": "Eva Torrella",
+        "popularity": 0.167,
+        "profile_path": "/33oVEoDVTgRd5wF4VaVfu3LX6AU.jpg",
+        "cast_id": 56,
+        "character": "Spider woman #2",
+        "credit_id": "6adb324488b3e69f15d676ad",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1614903,
+        "known_for_department": "Crew",
+        "name": "Gabriel Campoy",
+        "original_name": "Gabriel Campoy",
+        "popularity": 0.2041,
+        "profile_path": null,
+        "credit_id": "6adb2a200b30605c29216153",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2452671,
+        "known_for_department": "Directing",
+        "name": "Guillem Lafoz",
+        "original_name": "Guillem Lafoz",
+        "popularity": 0.3778,
+        "profile_path": "/2vM51rfczuse0RXwjaX1Rj72exj.jpg",
+        "credit_id": "6adb2a300885d2e8a32161a2",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1614903,
+        "known_for_department": "Crew",
+        "name": "Gabriel Campoy",
+        "original_name": "Gabriel Campoy",
+        "popularity": 0.2041,
+        "profile_path": null,
+        "credit_id": "6adb2a3db22254f68a519e08",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1805378,
+        "known_for_department": "Editing",
+        "name": "Gerard Vila Nebot",
+        "original_name": "Gerard Vila Nebot",
+        "popularity": 0.2244,
+        "profile_path": "/pJ4tkDChuyBTdlrjcqxpJ36lUlF.jpg",
+        "credit_id": "6adb2a54a928b1f4c2b0e08e",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2017000,
+        "known_for_department": "Sound",
+        "name": "Joan Vilà",
+        "original_name": "Joan Vilà",
+        "popularity": 0.559,
+        "profile_path": "/wMmhhM6W1CYHYzrkPiqFLuG53hK.jpg",
+        "credit_id": "6adb2a812e2b9dd666d6785d",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2736926,
+        "known_for_department": "Sound",
+        "name": "Eloy Rodríguez",
+        "original_name": "Eloy Rodríguez",
+        "popularity": 0.2156,
+        "profile_path": "/oqxDtkssVjzfzKRtiuaQl81s46i.jpg",
+        "credit_id": "6adb2acd4b723a53373098eb",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6569856,
+        "known_for_department": "Sound",
+        "name": "Cosma Nuzzolo",
+        "original_name": "Cosma Nuzzolo",
+        "popularity": 0.1426,
+        "profile_path": null,
+        "credit_id": "6adb2ae80cd6c5b28b257c33",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 145008,
+        "known_for_department": "Sound",
+        "name": "Roberto Migone",
+        "original_name": "Roberto Migone",
+        "popularity": 0.2132,
+        "profile_path": null,
+        "credit_id": "6adb2b21d678ed88ecb0e16b",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2736926,
+        "known_for_department": "Sound",
+        "name": "Eloy Rodríguez",
+        "original_name": "Eloy Rodríguez",
+        "popularity": 0.2156,
+        "profile_path": "/oqxDtkssVjzfzKRtiuaQl81s46i.jpg",
+        "credit_id": "6adb2b2d96d14db2d8519e70",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1614903,
+        "known_for_department": "Crew",
+        "name": "Gabriel Campoy",
+        "original_name": "Gabriel Campoy",
+        "popularity": 0.2041,
+        "profile_path": null,
+        "credit_id": "6adb2b4dd678ed88ecb0e179",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1614903,
+        "known_for_department": "Crew",
+        "name": "Gabriel Campoy",
+        "original_name": "Gabriel Campoy",
+        "popularity": 0.2041,
+        "profile_path": null,
+        "credit_id": "6adb2b743fb9ed3c5a519e26",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2452671,
+        "known_for_department": "Directing",
+        "name": "Guillem Lafoz",
+        "original_name": "Guillem Lafoz",
+        "popularity": 0.3778,
+        "profile_path": "/2vM51rfczuse0RXwjaX1Rj72exj.jpg",
+        "credit_id": "6adb2b823138bb70ddb0e980",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3783428,
+        "known_for_department": "Production",
+        "name": "Carles Isern",
+        "original_name": "Carles Isern",
+        "popularity": 0.104,
+        "profile_path": null,
+        "credit_id": "6adb2beb959ffa6908257e8f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2430456,
+        "known_for_department": "Directing",
+        "name": "Anna Casals",
+        "original_name": "Anna Casals",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6adb2c485af2c7fc4721627f",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2070089,
+        "known_for_department": "Art",
+        "name": "Joseph Díaz",
+        "original_name": "Joseph Díaz",
+        "popularity": 0.1247,
+        "profile_path": null,
+        "credit_id": "6adb2c745f8a4cca9c30996e",
+        "department": "Visual Effects",
+        "job": "VFX Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4262864,
+        "known_for_department": "Crew",
+        "name": "Mouly Molist",
+        "original_name": "Mouly Molist",
+        "popularity": 0.0932,
+        "profile_path": null,
+        "credit_id": "6adb2cbf959ffa6908257ec7",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2070089,
+        "known_for_department": "Art",
+        "name": "Joseph Díaz",
+        "original_name": "Joseph Díaz",
+        "popularity": 0.1247,
+        "profile_path": null,
+        "credit_id": "6adb2cd95c0b39dee0519f85",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2430456,
+        "known_for_department": "Directing",
+        "name": "Anna Casals",
+        "original_name": "Anna Casals",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6adb2cec0885d2e8a32161db",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6569882,
+        "known_for_department": "Production",
+        "name": "Cesc Obradors",
+        "original_name": "Cesc Obradors",
+        "popularity": 0.1426,
+        "profile_path": null,
+        "credit_id": "6adb2d06c24639749a519f01",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6569887,
+        "known_for_department": "Lighting",
+        "name": "Albert Xavier Segarra Subirats",
+        "original_name": "Albert Xavier Segarra Subirats",
+        "popularity": 0.1426,
+        "profile_path": null,
+        "credit_id": "6adb2d50959ffa6908257ee8",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1614903,
+        "known_for_department": "Crew",
+        "name": "Gabriel Campoy",
+        "original_name": "Gabriel Campoy",
+        "popularity": 0.2041,
+        "profile_path": null,
+        "credit_id": "6adb2d9e4b723a533730994d",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2452671,
+        "known_for_department": "Directing",
+        "name": "Guillem Lafoz",
+        "original_name": "Guillem Lafoz",
+        "popularity": 0.3778,
+        "profile_path": "/2vM51rfczuse0RXwjaX1Rj72exj.jpg",
+        "credit_id": "6adb2daa24096980a7257ef3",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6569898,
+        "known_for_department": "Camera",
+        "name": "Josep Malo",
+        "original_name": "Josep Malo",
+        "popularity": 0.162,
+        "profile_path": null,
+        "credit_id": "6adb2dc1fed0142234257e58",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6153751,
+        "known_for_department": "Camera",
+        "name": "Pau Morey",
+        "original_name": "Pau Morey",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6adb2dff6bf65e2dd73098c6",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6569856,
+        "known_for_department": "Sound",
+        "name": "Cosma Nuzzolo",
+        "original_name": "Cosma Nuzzolo",
+        "popularity": 0.1426,
+        "profile_path": null,
+        "credit_id": "6adb2e3c0b30605c292161a9",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6569903,
+        "known_for_department": "Sound",
+        "name": "Juantxi Fernández",
+        "original_name": "Juantxi Fernández",
+        "popularity": 0.1426,
+        "profile_path": null,
+        "credit_id": "6adb2e5c621b4f990e519f6d",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6569904,
+        "known_for_department": "Art",
+        "name": "Àngel Rodríguez",
+        "original_name": "Àngel Rodríguez",
+        "popularity": 0.516,
+        "profile_path": null,
+        "credit_id": "6adb2e89a028255bb1257e0b",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6569906,
+        "known_for_department": "Art",
+        "name": "Jordi Rodríguez",
+        "original_name": "Jordi Rodríguez",
+        "popularity": 0.1426,
+        "profile_path": null,
+        "credit_id": "6adb2eb58135584fa4d67530",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6569908,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Maria Gaona González",
+        "original_name": "Maria Gaona González",
+        "popularity": 0.1038,
+        "profile_path": null,
+        "credit_id": "6adb2ee2d0366ff2343099a5",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6569910,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Paula Palau",
+        "original_name": "Paula Palau",
+        "popularity": 0.1108,
+        "profile_path": null,
+        "credit_id": "6adb2efd5c0b39dee0519fb0",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6569914,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Júlia Bartomeus Mostajo",
+        "original_name": "Júlia Bartomeus Mostajo",
+        "popularity": 0.1232,
+        "profile_path": null,
+        "credit_id": "6adb2f37b22254f68a519e4f",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6569915,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sara Assarar Alcalá",
+        "original_name": "Sara Assarar Alcalá",
+        "popularity": 0.162,
+        "profile_path": null,
+        "credit_id": "6adb2f4afed0142234257e89",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6569917,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Txelo Lobato",
+        "original_name": "Txelo Lobato",
+        "popularity": 0.1815,
+        "profile_path": null,
+        "credit_id": "6adb2f6a3fb9ed3c5a519e6d",
+        "department": "Costume & Make-Up",
+        "job": "Costume Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6569917,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Txelo Lobato",
+        "original_name": "Txelo Lobato",
+        "popularity": 0.1815,
+        "profile_path": null,
+        "credit_id": "6adb2f7a3fb9ed3c5a519e70",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6569904,
+        "known_for_department": "Art",
+        "name": "Àngel Rodríguez",
+        "original_name": "Àngel Rodríguez",
+        "popularity": 0.516,
+        "profile_path": null,
+        "credit_id": "6adb2fbb0cd6c5b28b257cb3",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6569906,
+        "known_for_department": "Art",
+        "name": "Jordi Rodríguez",
+        "original_name": "Jordi Rodríguez",
+        "popularity": 0.1426,
+        "profile_path": null,
+        "credit_id": "6adb2fe13e4bf52fbc309926",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1748601,
+        "known_for_department": "Crew",
+        "name": "Sergi Subirà",
+        "original_name": "Sergi Subirà",
+        "popularity": 0.2561,
+        "profile_path": "/pAWEDZ0yr0VjJoRIkYU2GMvUDvz.jpg",
+        "credit_id": "6adb30cbdf90a8148dd67631",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2249498,
+        "known_for_department": "Crew",
+        "name": "Marc Padró",
+        "original_name": "Marc Padró",
+        "popularity": 0.4987,
+        "profile_path": "/56xV9KJwIL0qOOZjuZQrIPh9mzV.jpg",
+        "credit_id": "6adb30d6762c9c36c8b0e1ed",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5735473,
+        "known_for_department": "Crew",
+        "name": "Sheila Quevedo",
+        "original_name": "Sheila Quevedo",
+        "popularity": 0.3221,
+        "profile_path": "/ia2ELLeH9JSOwRFDB9eAzDOJQ3S.jpg",
+        "credit_id": "6adb31073e4bf52fbc309954",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2249498,
+        "known_for_department": "Crew",
+        "name": "Marc Padró",
+        "original_name": "Marc Padró",
+        "popularity": 0.4987,
+        "profile_path": "/56xV9KJwIL0qOOZjuZQrIPh9mzV.jpg",
+        "credit_id": "6adb312924096980a7257f49",
+        "department": "Crew",
+        "job": "Fight Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1748601,
+        "known_for_department": "Crew",
+        "name": "Sergi Subirà",
+        "original_name": "Sergi Subirà",
+        "popularity": 0.2561,
+        "profile_path": "/pAWEDZ0yr0VjJoRIkYU2GMvUDvz.jpg",
+        "credit_id": "6adb31365f8a4cca9c3099f7",
+        "department": "Crew",
+        "job": "Fight Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2295778,
+        "known_for_department": "Editing",
+        "name": "Ignasi González",
+        "original_name": "Ignasi González",
+        "popularity": 0.1706,
+        "profile_path": "/34eCGoTDyukAMNclZ0mgv6XKju3.jpg",
+        "credit_id": "6adb315cd0366ff2343099d9",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2452671,
+        "known_for_department": "Directing",
+        "name": "Guillem Lafoz",
+        "original_name": "Guillem Lafoz",
+        "popularity": 0.3778,
+        "profile_path": "/2vM51rfczuse0RXwjaX1Rj72exj.jpg",
+        "credit_id": "6adb316efed0142234257eb2",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2070089,
+        "known_for_department": "Art",
+        "name": "Joseph Díaz",
+        "original_name": "Joseph Díaz",
+        "popularity": 0.1247,
+        "profile_path": null,
+        "credit_id": "6adb31915af2c7fc4721632f",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6569935,
+        "known_for_department": "Visual Effects",
+        "name": "Eudald Peracaula i Moner",
+        "original_name": "Eudald Peracaula i Moner",
+        "popularity": 0.162,
+        "profile_path": null,
+        "credit_id": "6adb31b0a928b1f4c2b0e119",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2452671,
+        "known_for_department": "Directing",
+        "name": "Guillem Lafoz",
+        "original_name": "Guillem Lafoz",
+        "popularity": 0.3778,
+        "profile_path": "/2vM51rfczuse0RXwjaX1Rj72exj.jpg",
+        "credit_id": "6adb31cd24096980a7257f59",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 250495,
+        "name": "sitges festival"
+      },
+      {
+        "id": 322968,
+        "name": "sitges"
+      },
+      {
+        "id": 372263,
+        "name": "medieval fantasy"
+      },
+      {
+        "id": 386758,
+        "name": "red sonya"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "En plena invasión otomana de Europa, Sonya, una joven guerrera pelirroja, emprende un brutal viaje de venganza para encontrar a El Caníbal, el guerrero que mató a su familia y esclavizó a su hermana.",
+          "runtime": 19,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt46667221",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "reddevilshortfilm",
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1272,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/vipEf3axGHDSi8tKS8ZW2qMP75.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2261
+      },
+      {
+        "aspect_ratio": 1.779,
+        "height": 1400,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/rooTkytEsPaDpdpbeXxjrQlViF5.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2490
+      },
+      {
+        "aspect_ratio": 1.779,
+        "height": 1400,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/kkS84i2bLwcX0moXaHzGS4sw30j.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2490
+      },
+      {
+        "aspect_ratio": 1.779,
+        "height": 1400,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/uREjGhyNwH2044tsEMl4Wq3TK9q.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2490
+      },
+      {
+        "aspect_ratio": 1.779,
+        "height": 1400,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/e4zghC45AYKCdGtSqrfFnDeDlIa.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2490
+      },
+      {
+        "aspect_ratio": 1.779,
+        "height": 1400,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/eR9Kw0HCGG4my7m085qSkP7jFXQ.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2490
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.714,
+        "height": 1984,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/hcFGFSv9laDRGqBrRF3fa8eqJKW.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1417
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "Festival de Sitges 2026",
+            "release_date": "2026-10-11T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

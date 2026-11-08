@@ -1,0 +1,390 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 1900,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1713196,
+  "imdb_id": null,
+  "origin_country": [
+    "RU"
+  ],
+  "original_language": "ru",
+  "original_title": "Судьба",
+  "overview": "",
+  "popularity": 1.1504,
+  "poster_path": "/7S5fTpR5vnZblZn3TKFeWWYswzY.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "RU",
+      "name": "Russia"
+    }
+  ],
+  "release_date": "2026-06-10",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Судьба",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6280823,
+        "known_for_department": "Acting",
+        "name": "Кирилл Колодочка",
+        "original_name": "Кирилл Колодочка",
+        "popularity": 0.0974,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Молодой Человек (Киллер)",
+        "credit_id": "6a2bfac05a411973d3c3a1b8",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6280827,
+        "known_for_department": "Acting",
+        "name": "Сергей Буров",
+        "original_name": "Сергей Буров",
+        "popularity": 0.3914,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Петрович (Киллер)",
+        "credit_id": "6a2bfbfe0258d3bf0534c519",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6280828,
+        "known_for_department": "Acting",
+        "name": "Мария Галкина",
+        "original_name": "Мария Галкина",
+        "popularity": 0.2573,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Женщина (Жертва)",
+        "credit_id": "6a2bfc15d10761fbc734c4d4",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3382878,
+        "known_for_department": "Acting",
+        "name": "Yevgeni Chumak",
+        "original_name": "Евгений Чумак",
+        "popularity": 0.3895,
+        "profile_path": "/2lJENL0UfD2eOQCcYdUOpO4A3Cv.jpg",
+        "cast_id": 4,
+        "character": "Мужчина (Жертва)",
+        "credit_id": "6a2bfc266758b4df9fc3a2b9",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 6280832,
+        "known_for_department": "Directing",
+        "name": "Роман Кузьмицкий",
+        "original_name": "Роман Кузьмицкий",
+        "popularity": 0.2683,
+        "profile_path": null,
+        "credit_id": "6a2bfca1a711d778b6e3baf3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 6280834,
+        "known_for_department": "Production",
+        "name": "Виктория Оклей",
+        "original_name": "Виктория Оклей",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a2bfce00e0c3354d9e3bd95",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 6280836,
+        "known_for_department": "Production",
+        "name": "Роман Кузьмицкий",
+        "original_name": "Роман Кузьмицкий",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a2bfcf9d33208013416b883",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": true,
+        "gender": 2,
+        "id": 5348382,
+        "known_for_department": "Camera",
+        "name": "Fedor Belomestnov",
+        "original_name": "Фёдор Беломестнов",
+        "popularity": 0.0701,
+        "profile_path": null,
+        "credit_id": "6a2bfd17895b35cbd2ec3d74",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 6280839,
+        "known_for_department": "Art",
+        "name": "Тамара Корнюшкина",
+        "original_name": "Тамара Корнюшкина",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "6a2bfd43895b35cbd2ec3d8b",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 6280840,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Тамара Корнюшкина",
+        "original_name": "Тамара Корнюшкина",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a2bfd61cd0adf6180ec3daf",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 6280841,
+        "known_for_department": "Sound",
+        "name": "Софья Кибок",
+        "original_name": "Софья Кибок",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "6a2bfd90ebbc2ef28fc3a234",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 6280842,
+        "known_for_department": "Sound",
+        "name": "Кирилл Колодоча",
+        "original_name": "Кирилл Колодоча",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a2bfdbb5930ca42e1e3bcef",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6280845,
+        "known_for_department": "Sound",
+        "name": "Konstantin Zakharov",
+        "original_name": "Константин Захаров",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "6a2bfddea255faf96db877c1",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 6280849,
+        "known_for_department": "Lighting",
+        "name": "Михаил Топилин",
+        "original_name": "Михаил Топилин",
+        "popularity": 0.0378,
+        "profile_path": null,
+        "credit_id": "6a2bfe289ea4c6dc8db87632",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 6280846,
+        "known_for_department": "Lighting",
+        "name": "Всеволод Киселев",
+        "original_name": "Всеволод Киселев",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a2bfe4c5a411973d3c3a238",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 6280850,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Дарья Соловьева",
+        "original_name": "Дарья Соловьева",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a2bfe668d6abb5d25e3ba5d",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": true,
+        "gender": 1,
+        "id": 5348378,
+        "known_for_department": "Directing",
+        "name": "Yulia Suchkova",
+        "original_name": "Юлия Сучкова",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "credit_id": "6a2bfe8c6758b4df9fc3a2e8",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 6280853,
+        "known_for_department": "Editing",
+        "name": "Всеволод Киселев",
+        "original_name": "Всеволод Киселев",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a2bfeafc759cab4f0c3a185",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": true,
+        "gender": 0,
+        "id": 6280854,
+        "known_for_department": "Editing",
+        "name": "Роман Кузьмицкий",
+        "original_name": "Роман Кузьмицкий",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a2bfec4b60ff1d91134c61a",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 356622,
+        "name": "киллер"
+      },
+      {
+        "id": 377038,
+        "name": "криминал"
+      },
+      {
+        "id": 377039,
+        "name": "короткометражка"
+      },
+      {
+        "id": 377040,
+        "name": "судьба"
+      },
+      {
+        "id": 377041,
+        "name": "фильм"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "RU",
+        "iso_639_1": "ru",
+        "name": "Pусский",
+        "english_name": "Russian",
+        "data": {
+          "homepage": "",
+          "overview": "Как узнать, есть судьба или нет? Все ли предопределено в жизни человека? И может ли такая мелочь, как подбрасывание монетки, повлиять на ее ход? Это решают выяснить Киллеры, поставив на кон жизнь своих жертв в глухом лесу.",
+          "runtime": 14,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Fate",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "18+",
+            "descriptors": [],
+            "iso_639_1": "ru",
+            "note": "",
+            "release_date": "2026-06-10T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

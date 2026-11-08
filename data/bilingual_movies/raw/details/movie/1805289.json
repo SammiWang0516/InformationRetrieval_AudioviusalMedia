@@ -1,0 +1,534 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1805289,
+  "imdb_id": null,
+  "origin_country": [
+    "AU"
+  ],
+  "original_language": "en",
+  "original_title": "Dead Net",
+  "overview": "A promising young tennis player finds her dreams threatened when she is targeted by a mysterious figure who is out for her blood.",
+  "popularity": 1.5582,
+  "poster_path": "/qzAcW3Ts4AozlotDN2C4AUtn4VJ.jpg",
+  "production_companies": [
+    {
+      "id": 132606,
+      "logo_path": "/8qUTlLfxUDEsMsKY4UgXBthTNis.png",
+      "name": "Deakin University",
+      "origin_country": "AU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    }
+  ],
+  "release_date": "2026-11-08",
+  "revenue": 0,
+  "runtime": 9,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Play the game. Pray it’s not your last.",
+  "title": "Dead Net",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6591579,
+        "known_for_department": "Acting",
+        "name": "Olivia Fynmore-Green",
+        "original_name": "Olivia Fynmore-Green",
+        "popularity": 0.1104,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Sammy",
+        "credit_id": "6ae6e4424b3a867ad8f1ab32",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5710520,
+        "known_for_department": "Acting",
+        "name": "Ricardo Raimundo",
+        "original_name": "Ricardo Raimundo",
+        "popularity": 0.1851,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Shadowy Figure",
+        "credit_id": "6ae6e4884b3a867ad8f1ab40",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5688103,
+        "known_for_department": "Acting",
+        "name": "Joe Dias",
+        "original_name": "Joe Dias",
+        "popularity": 0.3605,
+        "profile_path": "/95QOtIBqz6ahiDMnSEb8HWtykqK.jpg",
+        "cast_id": 7,
+        "character": "Coach Joe",
+        "credit_id": "6adc3167a715071178859396",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6591580,
+        "known_for_department": "Acting",
+        "name": "Susan-Jane Hatton",
+        "original_name": "Susan-Jane Hatton",
+        "popularity": 0.1259,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "Susan",
+        "credit_id": "6ae6e4aa058eb2fff7c8d1e9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6591582,
+        "known_for_department": "Acting",
+        "name": "Chole Dalla-Rosa",
+        "original_name": "Chole Dalla-Rosa",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "Emily",
+        "credit_id": "6ae6e4bf126d684293a6c5ee",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5046513,
+        "known_for_department": "Editing",
+        "name": "Keira Weatherley",
+        "original_name": "Keira Weatherley",
+        "popularity": 0.0551,
+        "profile_path": null,
+        "credit_id": "6adc30941798d29f57b65c6e",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5046509,
+        "known_for_department": "Writing",
+        "name": "Lucy Underhill",
+        "original_name": "Lucy Underhill",
+        "popularity": 0.0705,
+        "profile_path": null,
+        "credit_id": "6adc30b0cd3b472471b65ce8",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5933772,
+        "known_for_department": "Art",
+        "name": "Angelica Daniels",
+        "original_name": "Angelica Daniels",
+        "popularity": 0.111,
+        "profile_path": null,
+        "credit_id": "6adc30c4a2e9031e79859384",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6564872,
+        "known_for_department": "Sound",
+        "name": "Lachlan Rowley",
+        "original_name": "Lachlan Rowley",
+        "popularity": 0.1328,
+        "profile_path": null,
+        "credit_id": "6adc30d7990cb446e73ecad6",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6571690,
+        "known_for_department": "Editing",
+        "name": "Ashton Evans",
+        "original_name": "Ashton Evans",
+        "popularity": 0.0359,
+        "profile_path": null,
+        "credit_id": "6adc31057869f19cce859341",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4415657,
+        "known_for_department": "Acting",
+        "name": "Joshua Chiha",
+        "original_name": "Joshua Chiha",
+        "popularity": 0.062,
+        "profile_path": null,
+        "credit_id": "6adc312dabaff153277d3535",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5046509,
+        "known_for_department": "Writing",
+        "name": "Lucy Underhill",
+        "original_name": "Lucy Underhill",
+        "popularity": 0.0705,
+        "profile_path": null,
+        "credit_id": "6adc3185d059b09b093ecadb",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1861507,
+        "known_for_department": "Crew",
+        "name": "Graham Jahne",
+        "original_name": "Graham Jahne",
+        "popularity": 0.3532,
+        "profile_path": null,
+        "credit_id": "6add94c5f43b291ab49a930a",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1878158,
+        "known_for_department": "Sound",
+        "name": "Mark D'Angelo",
+        "original_name": "Mark D'Angelo",
+        "popularity": 0.1301,
+        "profile_path": null,
+        "credit_id": "6add9532b3a8491d83d82165",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5046503,
+        "known_for_department": "Production",
+        "name": "Sarah Herzina",
+        "original_name": "Sarah Herzina",
+        "popularity": 0.1078,
+        "profile_path": null,
+        "credit_id": "6ae20ed1998cf0bda2b31ade",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4417236,
+        "known_for_department": "Acting",
+        "name": "Liam Stewart",
+        "original_name": "Liam Stewart",
+        "popularity": 0.1225,
+        "profile_path": null,
+        "credit_id": "6ae214ce8432540ab2a81abb",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5933758,
+        "known_for_department": "Production",
+        "name": "Ethan Anderson",
+        "original_name": "Ethan Anderson",
+        "popularity": 0.0609,
+        "profile_path": null,
+        "credit_id": "6ae6d90153139f832ba6c70e",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5710526,
+        "known_for_department": "Directing",
+        "name": "Felix Brown",
+        "original_name": "Felix Brown",
+        "popularity": 0.0782,
+        "profile_path": null,
+        "credit_id": "6ae6d94678b4ed11028ab556",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5046540,
+        "known_for_department": "Editing",
+        "name": "Ethan Chuah",
+        "original_name": "Ethan Chuah",
+        "popularity": 0.1418,
+        "profile_path": null,
+        "credit_id": "6ae6e504205a95e074a6c736",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5710520,
+        "known_for_department": "Acting",
+        "name": "Ricardo Raimundo",
+        "original_name": "Ricardo Raimundo",
+        "popularity": 0.1851,
+        "profile_path": null,
+        "credit_id": "6ae6e52531b26813430810a4",
+        "department": "Lighting",
+        "job": "Best Boy Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5046508,
+        "known_for_department": "Directing",
+        "name": "Sabrina Tan",
+        "original_name": "Sabrina Tan",
+        "popularity": 0.1865,
+        "profile_path": "/w1h73DkhFyOLZOZx867NnusvULP.jpg",
+        "credit_id": "6ae8346e058eb2fff7c8f1d3",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5780544,
+        "known_for_department": "Sound",
+        "name": "Max Peeters",
+        "original_name": "Max Peeters",
+        "popularity": 0.0835,
+        "profile_path": null,
+        "credit_id": "6ae8350733706bdde2baff8b",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6594074,
+        "known_for_department": "Camera",
+        "name": "Ryan Stewart",
+        "original_name": "Ryan Stewart",
+        "popularity": 0.0129,
+        "profile_path": null,
+        "credit_id": "6ae835d9e453232c4bb87199",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5780544,
+        "known_for_department": "Sound",
+        "name": "Max Peeters",
+        "original_name": "Max Peeters",
+        "popularity": 0.0835,
+        "profile_path": null,
+        "credit_id": "6ae835e91c24281482c8ea71",
+        "department": "Camera",
+        "job": "Third Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5046513,
+        "known_for_department": "Editing",
+        "name": "Keira Weatherley",
+        "original_name": "Keira Weatherley",
+        "popularity": 0.0551,
+        "profile_path": null,
+        "credit_id": "6ae8362a711d991b7d082756",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6594076,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Clarissa Johnson",
+        "original_name": "Clarissa Johnson",
+        "popularity": 0.0129,
+        "profile_path": null,
+        "credit_id": "6ae8363cc487d1f8d1bb01b9",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6594077,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Taya Swallow",
+        "original_name": "Taya Swallow",
+        "popularity": 0.0129,
+        "profile_path": null,
+        "credit_id": "6ae83649e453232c4bb871aa",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5933772,
+        "known_for_department": "Art",
+        "name": "Angelica Daniels",
+        "original_name": "Angelica Daniels",
+        "popularity": 0.111,
+        "profile_path": null,
+        "credit_id": "6ae8367ae19469a66bc8e991",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6571690,
+        "known_for_department": "Editing",
+        "name": "Ashton Evans",
+        "original_name": "Ashton Evans",
+        "popularity": 0.0359,
+        "profile_path": null,
+        "credit_id": "6ae836abd2f989c7e9a6e798",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4415657,
+        "known_for_department": "Acting",
+        "name": "Joshua Chiha",
+        "original_name": "Joshua Chiha",
+        "popularity": 0.062,
+        "profile_path": null,
+        "credit_id": "6ae836d6e19469a66bc8e994",
+        "department": "Crew",
+        "job": "Title Graphics"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5933761,
+        "known_for_department": "Art",
+        "name": "Riley King",
+        "original_name": "Riley King",
+        "popularity": 0.0698,
+        "profile_path": null,
+        "credit_id": "6ae838e2a1f3a32635c8e6ba",
+        "department": "Art",
+        "job": "Art Direction"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "A promising young tennis player finds her dreams threatened when she is targeted by a mysterious figure who is out for her blood.",
+          "runtime": 9,
+          "tagline": "Play the game. Pray it’s not your last.",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/qzAcW3Ts4AozlotDN2C4AUtn4VJ.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AU",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "The Astor Theatre, Melbourne, Victoria",
+            "release_date": "2026-11-08T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

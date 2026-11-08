@@ -1,0 +1,503 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 2000,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://7minutes.mostafaabotaha.com/",
+  "id": 1600593,
+  "imdb_id": "tt38895456",
+  "origin_country": [
+    "EG"
+  ],
+  "original_language": "ar",
+  "original_title": "٧ دقايق",
+  "overview": "\"When time suddenly stops for seven minutes, a man is forced to confront a journey he never expected - one that will change everything.\"",
+  "popularity": 0.3326,
+  "poster_path": "/b5uwgR9v9i8z1KXjyouox9GN9qd.jpg",
+  "production_companies": [
+    {
+      "id": 283635,
+      "logo_path": null,
+      "name": "Mostafa Abotaha (individual)",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "EG",
+      "name": "Egypt"
+    }
+  ],
+  "release_date": "2026-10-12",
+  "revenue": 0,
+  "runtime": 14,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "العربية"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "7 Minutes",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5885821,
+        "known_for_department": "Acting",
+        "name": "Mostafa Abotaha",
+        "original_name": "Mostafa Abotaha",
+        "popularity": 0.1557,
+        "profile_path": "/aMLzJvg9nwAhGsWn20kyiluAx0P.jpg",
+        "cast_id": 1,
+        "character": "Mazen",
+        "credit_id": "6944890dcc88e5d2d981152b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5885824,
+        "known_for_department": "Acting",
+        "name": "Shrouk Wafeek",
+        "original_name": "Shrouk Wafeek",
+        "popularity": 0.0317,
+        "profile_path": "/rh3wt1VbBsr6FXhxLGPW7J2uMSa.jpg",
+        "cast_id": 4,
+        "character": "Mazen's Fiancée",
+        "credit_id": "6944894eda1253e05907235f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5885823,
+        "known_for_department": "Acting",
+        "name": "Feby Nosehy",
+        "original_name": "Feby Nosehy",
+        "popularity": 0.0342,
+        "profile_path": "/oKN9NmKIHAoPNpaMZN93w5hMJ3p.jpg",
+        "cast_id": 3,
+        "character": "Mazen's Mother",
+        "credit_id": "694489383714ad501c8cd547",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5885822,
+        "known_for_department": "Acting",
+        "name": "Ahmed Ragab",
+        "original_name": "Ahmed Ragab",
+        "popularity": 0.0615,
+        "profile_path": "/drXpCTPaw6plV2WYpCeWKdqokQd.jpg",
+        "cast_id": 2,
+        "character": "Doctor",
+        "credit_id": "694489217422142406b1bb01",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5885826,
+        "known_for_department": "Acting",
+        "name": "Youana Ehab",
+        "original_name": "Youana Ehab",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Nurse",
+        "credit_id": "69448960416d0f0d388ea9b5",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6130967,
+        "known_for_department": "Acting",
+        "name": "Hussein El Adawy",
+        "original_name": "Hussein El Adawy",
+        "popularity": 0.0736,
+        "profile_path": "/6uUrvPm0ADVZ1HnoLxElOy2RYb5.jpg",
+        "cast_id": 8,
+        "character": "Mazen's Father",
+        "credit_id": "69d84558add574ac2f19184b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6130969,
+        "known_for_department": "Acting",
+        "name": "Marouska Ehab",
+        "original_name": "Marouska Ehab",
+        "popularity": 0.0511,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Laila",
+        "credit_id": "69d8457badd574ac2f191854",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6130970,
+        "known_for_department": "Acting",
+        "name": "Hamza Ahmed",
+        "original_name": "Hamza Ahmed",
+        "popularity": 0.0577,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Hazem",
+        "credit_id": "69d84588c3057ce74e87ba39",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6130971,
+        "known_for_department": "Acting",
+        "name": "Mohamed Ezzo",
+        "original_name": "Mohamed Ezzo",
+        "popularity": 0.0397,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Assistant Doctor",
+        "credit_id": "69d8459c9c4a3ed2e17f241e",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5885827,
+        "known_for_department": "Directing",
+        "name": "Tarek Elwy",
+        "original_name": "Tarek Elwy",
+        "popularity": 0.0317,
+        "profile_path": "/7jvsl4MqxcdEQskV7kRFIXJ9nS9.jpg",
+        "credit_id": "69448986c07abdfe791544a3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5885821,
+        "known_for_department": "Acting",
+        "name": "Mostafa Abotaha",
+        "original_name": "Mostafa Abotaha",
+        "popularity": 0.1557,
+        "profile_path": "/aMLzJvg9nwAhGsWn20kyiluAx0P.jpg",
+        "credit_id": "69448997244c5cf7e115448f",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6130981,
+        "known_for_department": "Camera",
+        "name": "Seif Gawad",
+        "original_name": "Seif Gawad",
+        "popularity": 0.0514,
+        "profile_path": "/nQbLQZAog0brCNbh4H5eeWw4o5x.jpg",
+        "credit_id": "69d84693c96533f76887b995",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6130982,
+        "known_for_department": "Camera",
+        "name": "Amir Nader",
+        "original_name": "Amir Nader",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69d846bf3004b2061a0dbc47",
+        "department": "Camera",
+        "job": "Focus Puller"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5885821,
+        "known_for_department": "Acting",
+        "name": "Mostafa Abotaha",
+        "original_name": "Mostafa Abotaha",
+        "popularity": 0.1557,
+        "profile_path": "/aMLzJvg9nwAhGsWn20kyiluAx0P.jpg",
+        "credit_id": "69d846e53004b2061a0dbc4d",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6130984,
+        "known_for_department": "Editing",
+        "name": "Shaza Ahmed",
+        "original_name": "Shaza Ahmed",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69d846f1aa9ed9fa997f22d2",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5885821,
+        "known_for_department": "Acting",
+        "name": "Mostafa Abotaha",
+        "original_name": "Mostafa Abotaha",
+        "popularity": 0.1557,
+        "profile_path": "/aMLzJvg9nwAhGsWn20kyiluAx0P.jpg",
+        "credit_id": "69d84739b99ce9328f5d1ed5",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6130990,
+        "known_for_department": "Directing",
+        "name": "Mariam Mohamed Hamam",
+        "original_name": "Mariam Mohamed Hamam",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69d847e558da29ecc07f23de",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6130992,
+        "known_for_department": "Directing",
+        "name": "Amr Ahmed Maher",
+        "original_name": "Amr Ahmed Maher",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "69d847fc92fdc443bb1234bd",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6130998,
+        "known_for_department": "Directing",
+        "name": "Mohamed Mliek",
+        "original_name": "Mohamed Mliek",
+        "popularity": 0.0295,
+        "profile_path": "/djEoREwxe7Ce998c6Rlr7jVyV7F.jpg",
+        "credit_id": "69d848b4fc4186a18a0dbc84",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6131000,
+        "known_for_department": "Art",
+        "name": "Pempo Hossam",
+        "original_name": "Pempo Hossam",
+        "popularity": 0.032,
+        "profile_path": "/bK9JjWpd7Jji9BmPvHsE8NaQcd5.jpg",
+        "credit_id": "69d848f570d11648b8bfeef4",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6131001,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Rasha Lateef",
+        "original_name": "Rasha Lateef",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69d84955e399a6c30612718b",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5885821,
+        "known_for_department": "Acting",
+        "name": "Mostafa Abotaha",
+        "original_name": "Mostafa Abotaha",
+        "popularity": 0.1557,
+        "profile_path": "/aMLzJvg9nwAhGsWn20kyiluAx0P.jpg",
+        "credit_id": "6aa8d6aaa35e94393345208a",
+        "department": "Visual Effects",
+        "job": "VFX Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5885821,
+        "known_for_department": "Acting",
+        "name": "Mostafa Abotaha",
+        "original_name": "Mostafa Abotaha",
+        "popularity": 0.1557,
+        "profile_path": "/aMLzJvg9nwAhGsWn20kyiluAx0P.jpg",
+        "credit_id": "6aeced42675d09de4840bd29",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 363176,
+        "name": "7 minutes"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "http://7minutes.mostafaabotaha.com/",
+          "overview": "\"When time suddenly stops for seven minutes, a man is forced to confront a journey he never expected - one that will change everything.\"",
+          "runtime": 14,
+          "tagline": "",
+          "title": "7 Minutes"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt38895456",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": "7minutes.movie",
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.75,
+        "height": 1560,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/b5uwgR9v9i8z1KXjyouox9GN9qd.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1170
+      },
+      {
+        "aspect_ratio": 0.75,
+        "height": 1560,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/8ZzEBgQ0IcX262PKHdQ2SspQjYC.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1170
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-10-12T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-06-29T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "7 Minutes | New Trailer",
+        "key": "Wbz4V4EO4pc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "6aa8d151b70863b339bf9491",
+        "published_at": "2026-06-23T15:51:59.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "7 Minutes | Official Trailer",
+        "key": "PhGMY2G572Y",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Trailer",
+        "official": false,
+        "id": "69d849eca5695de3e844a36f",
+        "published_at": "2026-03-31T13:00:04.000Z"
+      },
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "7 Minutes | Official Teaser",
+        "key": "sFsFByGKgfM",
+        "site": "YouTube",
+        "size": 2160,
+        "type": "Teaser",
+        "official": false,
+        "id": "69d849d7a69b52b87ebfee55",
+        "published_at": "2026-01-24T12:11:20.000Z"
+      }
+    ]
+  }
+}

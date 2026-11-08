@@ -1,0 +1,645 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1799591,
+  "imdb_id": null,
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_title": "Quemadura de luna",
+  "overview": "",
+  "popularity": 0.6865,
+  "poster_path": "/zgawQiL0MbWG8fmFxlkyRnrfR8q.jpg",
+  "production_companies": [
+    {
+      "id": 314592,
+      "logo_path": null,
+      "name": "Las Malas",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2026-10-18",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Quemadura de luna",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6555000,
+        "known_for_department": "Acting",
+        "name": "Hikari",
+        "original_name": "Hikari",
+        "popularity": 0.0639,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Valeria",
+        "credit_id": "6ad2f54b2fa10cf86ed8189f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6555002,
+        "known_for_department": "Acting",
+        "name": "Dakaria",
+        "original_name": "Dakaria",
+        "popularity": 0.1277,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Luisa",
+        "credit_id": "6ad2f55eb0a1e2c1f6d8183d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6555003,
+        "known_for_department": "Acting",
+        "name": "Oscar Doval",
+        "original_name": "Oscar Doval",
+        "popularity": 0.4527,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Julio",
+        "credit_id": "6ad2f5741e2def6740b3fc90",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6555004,
+        "known_for_department": "Acting",
+        "name": "Mariana Rendón",
+        "original_name": "Mariana Rendón",
+        "popularity": 0.0969,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Vanessa",
+        "credit_id": "6ad2f58be953b778a80d74cf",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5533713,
+        "known_for_department": "Directing",
+        "name": "Diego Sosa",
+        "original_name": "Diego Sosa",
+        "popularity": 0.1038,
+        "profile_path": null,
+        "credit_id": "6ad2f5b22fa10cf86ed818a6",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2235881,
+        "known_for_department": "Acting",
+        "name": "Diego Sosa",
+        "original_name": "Diego Sosa",
+        "popularity": 0.1086,
+        "profile_path": null,
+        "credit_id": "6ad2f5bde1235242700d742d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5533713,
+        "known_for_department": "Directing",
+        "name": "Diego Sosa",
+        "original_name": "Diego Sosa",
+        "popularity": 0.1038,
+        "profile_path": null,
+        "credit_id": "6ad2f5c9d84e5cc0a61d2715",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5533714,
+        "known_for_department": "Production",
+        "name": "Paula Reyes",
+        "original_name": "Paula Reyes",
+        "popularity": 0.1893,
+        "profile_path": null,
+        "credit_id": "6ad2f5e0f650533bfe0d7570",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4648685,
+        "known_for_department": "Production",
+        "name": "Leonardo Marín Núñez",
+        "original_name": "Leonardo Marín Núñez",
+        "popularity": 0.609,
+        "profile_path": null,
+        "credit_id": "6ad2f5f3d7f33efba3c63a6d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5533713,
+        "known_for_department": "Directing",
+        "name": "Diego Sosa",
+        "original_name": "Diego Sosa",
+        "popularity": 0.1038,
+        "profile_path": null,
+        "credit_id": "6ad2f6046277b810d8b3f982",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5533715,
+        "known_for_department": "Crew",
+        "name": "Paola Díaz de la Vega",
+        "original_name": "Paola Díaz de la Vega",
+        "popularity": 0.1408,
+        "profile_path": "/aXnWRGyDhvfrej0QreKfioehUpR.jpg",
+        "credit_id": "6ad2f615018b8ef660a5c42a",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5657005,
+        "known_for_department": "Camera",
+        "name": "Saturno Solís",
+        "original_name": "Saturno Solís",
+        "popularity": 0.0869,
+        "profile_path": null,
+        "credit_id": "6ad2f64008e0eb1277d8186a",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5657007,
+        "known_for_department": "Art",
+        "name": "Mariana Barberena",
+        "original_name": "Mariana Barberena",
+        "popularity": 0.0822,
+        "profile_path": null,
+        "credit_id": "6ad2f661234128718e0d74d4",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6555010,
+        "known_for_department": "Production",
+        "name": "Sandra Zamora",
+        "original_name": "Sandra Zamora",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6ad2f68c1a1b599f9cc63a8e",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4884767,
+        "known_for_department": "Sound",
+        "name": "Mario A. Juárez",
+        "original_name": "Mario A. Juárez",
+        "popularity": 0.0729,
+        "profile_path": "/rZeUHOgIr8AfFTyyXEl2u3zQGE5.jpg",
+        "credit_id": "6ad2f69db2a8a640b8a5c526",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6555018,
+        "known_for_department": "Sound",
+        "name": "Arturo Galán",
+        "original_name": "Arturo Galán",
+        "popularity": 0.0513,
+        "profile_path": null,
+        "credit_id": "6ad2f7baf650533bfe0d7596",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4420608,
+        "known_for_department": "Editing",
+        "name": "Alejandro Cervantes",
+        "original_name": "Alejandro Cervantes",
+        "popularity": 0.3742,
+        "profile_path": null,
+        "credit_id": "6ad2f7cd601dda91cba5c420",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5533717,
+        "known_for_department": "Sound",
+        "name": "Karen Cruz",
+        "original_name": "Karen Cruz",
+        "popularity": 0.114,
+        "profile_path": null,
+        "credit_id": "6ad2f7dd38b2e5a46b1d2b1d",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5695973,
+        "known_for_department": "Art",
+        "name": "Val Hernández",
+        "original_name": "Val Hernández",
+        "popularity": 0.1113,
+        "profile_path": null,
+        "credit_id": "6ad2f7f28fbc9ee719c63a7c",
+        "department": "Costume & Make-Up",
+        "job": "Dresser"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6483915,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Luciana Galarza",
+        "original_name": "Luciana Galarza",
+        "popularity": 0.052,
+        "profile_path": null,
+        "credit_id": "6ad2f80ed7f33efba3c63a76",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5695973,
+        "known_for_department": "Art",
+        "name": "Val Hernández",
+        "original_name": "Val Hernández",
+        "popularity": 0.1113,
+        "profile_path": null,
+        "credit_id": "6ad2f827f1af4c2a88b3fa42",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6143682,
+        "known_for_department": "Camera",
+        "name": "Aldo Salazar",
+        "original_name": "Aldo Salazar",
+        "popularity": 0.1785,
+        "profile_path": null,
+        "credit_id": "6ad2f8354ae2da643ac63857",
+        "department": "Crew",
+        "job": "Script"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6555023,
+        "known_for_department": "Camera",
+        "name": "Karla Yarek",
+        "original_name": "Karla Yarek",
+        "popularity": 0.0461,
+        "profile_path": null,
+        "credit_id": "6ad2f84eb2a8a640b8a5c53d",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6555025,
+        "known_for_department": "Production",
+        "name": "Brisa Torralva",
+        "original_name": "Brisa Torralva",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6ad2f86ed84e5cc0a61d2735",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6555026,
+        "known_for_department": "Production",
+        "name": "Mariana Lugo",
+        "original_name": "Mariana Lugo",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6ad2f8794ae2da643ac63862",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6555027,
+        "known_for_department": "Production",
+        "name": "Paloma Castro",
+        "original_name": "Paloma Castro",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6ad2f886fc6413a6b91d2c54",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5710984,
+        "known_for_department": "Production",
+        "name": "Demian Cárcamo",
+        "original_name": "Demian Cárcamo",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6ad2f8961979b3c3d4d8186d",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4394544,
+        "known_for_department": "Directing",
+        "name": "Yasmin Andrade",
+        "original_name": "Yasmin Andrade",
+        "popularity": 0.0387,
+        "profile_path": null,
+        "credit_id": "6ad2f89f1e2def6740b3fcb4",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6483906,
+        "known_for_department": "Directing",
+        "name": "Ivanna Valentina",
+        "original_name": "Ivanna Valentina",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "credit_id": "6ad2f8b9941472827d0d74e8",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6555034,
+        "known_for_department": "Camera",
+        "name": "Nicolás Rodríguez",
+        "original_name": "Nicolás Rodríguez",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6ad2f8e2f424eae639c639c9",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6555036,
+        "known_for_department": "Camera",
+        "name": "Emiliano Estrada",
+        "original_name": "Emiliano Estrada",
+        "popularity": 0.052,
+        "profile_path": null,
+        "credit_id": "6ad2f8fcdb5df95fbe1d28bd",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6034671,
+        "known_for_department": "Lighting",
+        "name": "Sergio Elizalde",
+        "original_name": "Sergio Elizalde",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6ad2f90cd57b18136bd8183a",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4123545,
+        "known_for_department": "Lighting",
+        "name": "Miguel Zamora",
+        "original_name": "Miguel Zamora",
+        "popularity": 0.0589,
+        "profile_path": null,
+        "credit_id": "6ad2f925f650533bfe0d75b3",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6555042,
+        "known_for_department": "Production",
+        "name": "Lorenzo L. Desoche",
+        "original_name": "Lorenzo L. Desoche",
+        "popularity": 0.0545,
+        "profile_path": null,
+        "credit_id": "6ad2f93da8c87983520d7713",
+        "department": "Production",
+        "job": "Data Management Technician"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4544307,
+        "known_for_department": "Camera",
+        "name": "Reno Salazar",
+        "original_name": "Reno Salazar",
+        "popularity": 0.0372,
+        "profile_path": "/pDhQ61zl9QM5xwd1ZFApIkS5EjW.jpg",
+        "credit_id": "6ad2f95adb5df95fbe1d28c1",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6555044,
+        "known_for_department": "Art",
+        "name": "Orel Bravo Torres",
+        "original_name": "Orel Bravo Torres",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6ad2f96cf1af4c2a88b3fa6d",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6555047,
+        "known_for_department": "Crew",
+        "name": "Cristina Ortiz",
+        "original_name": "Cristina Ortiz",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6ad2f97fb689ef1a69a5c4d6",
+        "department": "Crew",
+        "job": "Catering"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6555025,
+        "known_for_department": "Production",
+        "name": "Brisa Torralva",
+        "original_name": "Brisa Torralva",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6ad2f9941a1b599f9cc63aa8",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5710984,
+        "known_for_department": "Production",
+        "name": "Demian Cárcamo",
+        "original_name": "Demian Cárcamo",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6ad2f9a5b2a8a640b8a5c54c",
+        "department": "Crew",
+        "job": "Transportation Captain"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4884767,
+        "known_for_department": "Sound",
+        "name": "Mario A. Juárez",
+        "original_name": "Mario A. Juárez",
+        "popularity": 0.0729,
+        "profile_path": "/rZeUHOgIr8AfFTyyXEl2u3zQGE5.jpg",
+        "credit_id": "6ad2fa271e2def6740b3fcd9",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "MX",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Después de que su novio deja de contestarle, Valeria llama a su conflictiva amiga Luisa, y juntas inician una búsqueda para exigirle una explicación. Tras darse cuenta de que él mantiene una doble vida, la amistad entre ellas se pone en riesgo, ya que Valeria no ha sido completamente honesta con Luisa.",
+          "runtime": 19,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/zgawQiL0MbWG8fmFxlkyRnrfR8q.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "MX",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "Festival Internacional de Cine de Morelia ",
+            "release_date": "2026-10-18T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

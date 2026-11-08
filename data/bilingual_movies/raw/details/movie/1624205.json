@@ -1,0 +1,963 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "",
+  "id": 1624205,
+  "imdb_id": null,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_title": "Kakxop Pahok: As Crianças Cegas",
+  "overview": "The men of the village went hunting. A long time passed… and they did not return. The women of the village exchanged their children among themselves, so as not to be without husbands, and began to live a new life. However, one day the men returned… Spoken in their language and illustrated by the Maxakali people of Minas Gerais, Kakxop pahok is based on a traditional story of the Maxakali people (Tikmû´ûn). It forms the Hãmnõgnõy Trilogy of indigenous animations with Konãgxeka: the Maxakali flood (2016) and Mãtãnãg, the enchanted one (2019).",
+  "popularity": 0.8229,
+  "poster_path": "/v2y3zVqNmx7sbgbI5NkmoVFE2M3.jpg",
+  "production_companies": [
+    {
+      "id": 146962,
+      "logo_path": null,
+      "name": "Pajé Filmes",
+      "origin_country": "BR"
+    },
+    {
+      "id": 287507,
+      "logo_path": null,
+      "name": "Etama Produções",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "release_date": "2026-01-27",
+  "revenue": 0,
+  "runtime": 17,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "Kakxop Pahok: As Crianças Cegas",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5967544,
+        "known_for_department": "Acting",
+        "name": "Agnaldo Maxakali",
+        "original_name": "Agnaldo Maxakali",
+        "popularity": 0.1507,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "(voice)",
+        "credit_id": "6979920b1cd52b2b5def388a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2691431,
+        "known_for_department": "Crew",
+        "name": "Alexandre Maxakali",
+        "original_name": "Alexandre Maxakali",
+        "popularity": 0.1337,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Menino de Um Olho Só / Primeiro Homem (voice)",
+        "credit_id": "697992193fe6861ef882e34d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5967545,
+        "known_for_department": "Acting",
+        "name": "Delcida Maxakali",
+        "original_name": "Delcida Maxakali",
+        "popularity": 0.1509,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "(voice)",
+        "credit_id": "6979922ff38b8f6d542b1c24",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5967546,
+        "known_for_department": "Acting",
+        "name": "Dimas Maxakali",
+        "original_name": "Dimas Maxakali",
+        "popularity": 0.0611,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "(voice)",
+        "credit_id": "69799279e05deec31346173e",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5967548,
+        "known_for_department": "Acting",
+        "name": "Ilton Maxakal",
+        "original_name": "Ilton Maxakal",
+        "popularity": 0.0616,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "(voice)",
+        "credit_id": "697992ab084e1ce438692143",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2691430,
+        "known_for_department": "Directing",
+        "name": "Isael Maxakali",
+        "original_name": "Isael Maxakali",
+        "popularity": 0.3165,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Rei dos Peixes / Segundo Homem (voice)",
+        "credit_id": "697992bb5e1341edf2692258",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6366551,
+        "known_for_department": "Acting",
+        "name": "Julinha Maxakali",
+        "original_name": "Julinha Maxakali",
+        "popularity": 0.1114,
+        "profile_path": null,
+        "cast_id": 47,
+        "character": "Primeira Mulher (voice)",
+        "credit_id": "6a62c051705ec34f3d0e6c76",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5967550,
+        "known_for_department": "Acting",
+        "name": "Jurema Maxakali",
+        "original_name": "Jurema Maxakali",
+        "popularity": 0.0928,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "(voice)",
+        "credit_id": "697992c9cd0be420e9692204",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5967552,
+        "known_for_department": "Acting",
+        "name": "Oscar Maxakali",
+        "original_name": "Oscar Maxakali",
+        "popularity": 0.2235,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "(voice)",
+        "credit_id": "697992d917449f0a8ccdb9de",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5967553,
+        "known_for_department": "Acting",
+        "name": "Rolando Maxakali",
+        "original_name": "Rolando Maxakali",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "(voice)",
+        "credit_id": "697992ea8bfb18bc0cccac20",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2691429,
+        "known_for_department": "Directing",
+        "name": "Sueli Maxakali",
+        "original_name": "Sueli Maxakali",
+        "popularity": 0.1108,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Segunda Mulher (voice)",
+        "credit_id": "697992ffa10514a180ef3937",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5967555,
+        "known_for_department": "Acting",
+        "name": "Voninho Maxakali",
+        "original_name": "Voninho Maxakali",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "(voice)",
+        "credit_id": "6979931408b2e74fd914e6f1",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2691432,
+        "known_for_department": "Crew",
+        "name": "Cassiano Maxakali",
+        "original_name": "Cassiano Maxakali",
+        "popularity": 0.1283,
+        "profile_path": null,
+        "credit_id": "6979933345ae3543b2cdbaf3",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2531262,
+        "known_for_department": "Directing",
+        "name": "Charles Bicalho",
+        "original_name": "Charles Bicalho",
+        "popularity": 0.2335,
+        "profile_path": null,
+        "credit_id": "697993434e63d1beef82e40e",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2531262,
+        "known_for_department": "Directing",
+        "name": "Charles Bicalho",
+        "original_name": "Charles Bicalho",
+        "popularity": 0.2335,
+        "profile_path": null,
+        "credit_id": "697995ba74db1fabfe14e66c",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2854175,
+        "known_for_department": "Editing",
+        "name": "Jackson Abacatu",
+        "original_name": "Jackson Abacatu",
+        "popularity": 0.0999,
+        "profile_path": null,
+        "credit_id": "697995cfd088e7326e2b1bb0",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2531262,
+        "known_for_department": "Directing",
+        "name": "Charles Bicalho",
+        "original_name": "Charles Bicalho",
+        "popularity": 0.2335,
+        "profile_path": null,
+        "credit_id": "6a62bd68185bf6892f0e6cc1",
+        "department": "Production",
+        "job": "Researcher"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2531262,
+        "known_for_department": "Directing",
+        "name": "Charles Bicalho",
+        "original_name": "Charles Bicalho",
+        "popularity": 0.2335,
+        "profile_path": null,
+        "credit_id": "6a62bd705a85713d4775a5af",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5967545,
+        "known_for_department": "Acting",
+        "name": "Delcida Maxakali",
+        "original_name": "Delcida Maxakali",
+        "popularity": 0.1509,
+        "profile_path": null,
+        "credit_id": "6a62bd8be3ea6b457bfe3925",
+        "department": "Production",
+        "job": "Researcher"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5967545,
+        "known_for_department": "Acting",
+        "name": "Delcida Maxakali",
+        "original_name": "Delcida Maxakali",
+        "popularity": 0.1509,
+        "profile_path": null,
+        "credit_id": "6a62bd93185bf6892f0e6cce",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2854170,
+        "known_for_department": "Production",
+        "name": "Marcos Henrique Coelho",
+        "original_name": "Marcos Henrique Coelho",
+        "popularity": 0.1614,
+        "profile_path": null,
+        "credit_id": "6a62bdea280f39a2be0e6c2c",
+        "department": "Production",
+        "job": "Researcher"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2854170,
+        "known_for_department": "Production",
+        "name": "Marcos Henrique Coelho",
+        "original_name": "Marcos Henrique Coelho",
+        "popularity": 0.1614,
+        "profile_path": null,
+        "credit_id": "6a62bdf1bc1bcd8b8d04f5e5",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2691430,
+        "known_for_department": "Directing",
+        "name": "Isael Maxakali",
+        "original_name": "Isael Maxakali",
+        "popularity": 0.3165,
+        "profile_path": null,
+        "credit_id": "6a62be098c0b3c30a23a6799",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2691430,
+        "known_for_department": "Directing",
+        "name": "Isael Maxakali",
+        "original_name": "Isael Maxakali",
+        "popularity": 0.3165,
+        "profile_path": null,
+        "credit_id": "6a62be2443dbc56a9c1b0335",
+        "department": "Production",
+        "job": "Researcher"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2691429,
+        "known_for_department": "Directing",
+        "name": "Sueli Maxakali",
+        "original_name": "Sueli Maxakali",
+        "popularity": 0.1108,
+        "profile_path": null,
+        "credit_id": "6a62be324bac35d8f375a595",
+        "department": "Production",
+        "job": "Researcher"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2691429,
+        "known_for_department": "Directing",
+        "name": "Sueli Maxakali",
+        "original_name": "Sueli Maxakali",
+        "popularity": 0.1108,
+        "profile_path": null,
+        "credit_id": "6a62be39f7c15455a738931a",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2531262,
+        "known_for_department": "Directing",
+        "name": "Charles Bicalho",
+        "original_name": "Charles Bicalho",
+        "popularity": 0.2335,
+        "profile_path": null,
+        "credit_id": "6a62be5e4bac35d8f375a59d",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2531262,
+        "known_for_department": "Directing",
+        "name": "Charles Bicalho",
+        "original_name": "Charles Bicalho",
+        "popularity": 0.2335,
+        "profile_path": null,
+        "credit_id": "6a62be757633a497aba3cf33",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6366542,
+        "known_for_department": "Production",
+        "name": "Cláudia Alves",
+        "original_name": "Cláudia Alves",
+        "popularity": 0.1082,
+        "profile_path": null,
+        "credit_id": "6a62bf6a919f438bf21b0220",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2854175,
+        "known_for_department": "Editing",
+        "name": "Jackson Abacatu",
+        "original_name": "Jackson Abacatu",
+        "popularity": 0.0999,
+        "profile_path": null,
+        "credit_id": "6a62bf840f05c6a165025eab",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2691430,
+        "known_for_department": "Directing",
+        "name": "Isael Maxakali",
+        "original_name": "Isael Maxakali",
+        "popularity": 0.3165,
+        "profile_path": null,
+        "credit_id": "6a62bfa2776e3ba33f04f627",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2854170,
+        "known_for_department": "Production",
+        "name": "Marcos Henrique Coelho",
+        "original_name": "Marcos Henrique Coelho",
+        "popularity": 0.1614,
+        "profile_path": null,
+        "credit_id": "6a62bfaf033285803b025d54",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2691429,
+        "known_for_department": "Directing",
+        "name": "Sueli Maxakali",
+        "original_name": "Sueli Maxakali",
+        "popularity": 0.1108,
+        "profile_path": null,
+        "credit_id": "6a62bfc035c2ee6cf50e6c81",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2531262,
+        "known_for_department": "Directing",
+        "name": "Charles Bicalho",
+        "original_name": "Charles Bicalho",
+        "popularity": 0.2335,
+        "profile_path": null,
+        "credit_id": "6a62bfd811aad66b463892d2",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2854175,
+        "known_for_department": "Editing",
+        "name": "Jackson Abacatu",
+        "original_name": "Jackson Abacatu",
+        "popularity": 0.0999,
+        "profile_path": null,
+        "credit_id": "6a62bfe6517dff735004f686",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5967566,
+        "known_for_department": "Sound",
+        "name": "Guilherme Bahia",
+        "original_name": "Guilherme Bahia",
+        "popularity": 0.0365,
+        "profile_path": null,
+        "credit_id": "6a62c0bc13d28dcdc1fe38c2",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5967566,
+        "known_for_department": "Sound",
+        "name": "Guilherme Bahia",
+        "original_name": "Guilherme Bahia",
+        "popularity": 0.0365,
+        "profile_path": null,
+        "credit_id": "6a62c0c435c2ee6cf50e6c94",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2854175,
+        "known_for_department": "Editing",
+        "name": "Jackson Abacatu",
+        "original_name": "Jackson Abacatu",
+        "popularity": 0.0999,
+        "profile_path": null,
+        "credit_id": "6a62c0de35c2ee6cf50e6c9c",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6366560,
+        "known_for_department": "Art",
+        "name": "Jade Dias Lana",
+        "original_name": "Jade Dias Lana",
+        "popularity": 0.0675,
+        "profile_path": null,
+        "credit_id": "6a62c114280f39a2be0e6cb7",
+        "department": "Art",
+        "job": "Opening Title Sequence"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2854175,
+        "known_for_department": "Editing",
+        "name": "Jackson Abacatu",
+        "original_name": "Jackson Abacatu",
+        "popularity": 0.0999,
+        "profile_path": null,
+        "credit_id": "6a62c12d280f39a2be0e6cc2",
+        "department": "Art",
+        "job": "Storyboard Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5967544,
+        "known_for_department": "Acting",
+        "name": "Agnaldo Maxakali",
+        "original_name": "Agnaldo Maxakali",
+        "popularity": 0.1507,
+        "profile_path": null,
+        "credit_id": "6a62c161517dff735004f692",
+        "department": "Sound",
+        "job": "Vocals"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2691431,
+        "known_for_department": "Crew",
+        "name": "Alexandre Maxakali",
+        "original_name": "Alexandre Maxakali",
+        "popularity": 0.1337,
+        "profile_path": null,
+        "credit_id": "6a62c171db029e1431389304",
+        "department": "Sound",
+        "job": "Vocals"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5967545,
+        "known_for_department": "Acting",
+        "name": "Delcida Maxakali",
+        "original_name": "Delcida Maxakali",
+        "popularity": 0.1509,
+        "profile_path": null,
+        "credit_id": "6a62c17da6309a2548fe37e3",
+        "department": "Sound",
+        "job": "Vocals"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5967546,
+        "known_for_department": "Acting",
+        "name": "Dimas Maxakali",
+        "original_name": "Dimas Maxakali",
+        "popularity": 0.0611,
+        "profile_path": null,
+        "credit_id": "6a62c186f611ab7cbc025dc4",
+        "department": "Sound",
+        "job": "Vocals"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5967548,
+        "known_for_department": "Acting",
+        "name": "Ilton Maxakal",
+        "original_name": "Ilton Maxakal",
+        "popularity": 0.0616,
+        "profile_path": null,
+        "credit_id": "6a62c18f4cc11edb713a67ef",
+        "department": "Sound",
+        "job": "Vocals"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2691430,
+        "known_for_department": "Directing",
+        "name": "Isael Maxakali",
+        "original_name": "Isael Maxakali",
+        "popularity": 0.3165,
+        "profile_path": null,
+        "credit_id": "6a62c19bf7c15455a7389364",
+        "department": "Sound",
+        "job": "Vocals"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5967550,
+        "known_for_department": "Acting",
+        "name": "Jurema Maxakali",
+        "original_name": "Jurema Maxakali",
+        "popularity": 0.0928,
+        "profile_path": null,
+        "credit_id": "6a62c1a8185bf6892f0e6ced",
+        "department": "Sound",
+        "job": "Vocals"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5967552,
+        "known_for_department": "Acting",
+        "name": "Oscar Maxakali",
+        "original_name": "Oscar Maxakali",
+        "popularity": 0.2235,
+        "profile_path": null,
+        "credit_id": "6a62c1b1021264a6cbfe38b7",
+        "department": "Sound",
+        "job": "Vocals"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5967553,
+        "known_for_department": "Acting",
+        "name": "Rolando Maxakali",
+        "original_name": "Rolando Maxakali",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a62c1bde3ea6b457bfe3970",
+        "department": "Sound",
+        "job": "Vocals"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2691429,
+        "known_for_department": "Directing",
+        "name": "Sueli Maxakali",
+        "original_name": "Sueli Maxakali",
+        "popularity": 0.1108,
+        "profile_path": null,
+        "credit_id": "6a62c1ca35c2ee6cf50e6ca1",
+        "department": "Sound",
+        "job": "Vocals"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5967555,
+        "known_for_department": "Acting",
+        "name": "Voninho Maxakali",
+        "original_name": "Voninho Maxakali",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "6a62c1d4f7c15455a738936b",
+        "department": "Sound",
+        "job": "Vocals"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2531262,
+        "known_for_department": "Directing",
+        "name": "Charles Bicalho",
+        "original_name": "Charles Bicalho",
+        "popularity": 0.2335,
+        "profile_path": null,
+        "credit_id": "6a62c247c1f4676b9f3a6835",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2854175,
+        "known_for_department": "Editing",
+        "name": "Jackson Abacatu",
+        "original_name": "Jackson Abacatu",
+        "popularity": 0.0999,
+        "profile_path": null,
+        "credit_id": "6a62c25a4833ba028b389475",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2531262,
+        "known_for_department": "Directing",
+        "name": "Charles Bicalho",
+        "original_name": "Charles Bicalho",
+        "popularity": 0.2335,
+        "profile_path": null,
+        "credit_id": "6a62c2787633a497aba3cf94",
+        "department": "Production",
+        "job": "Post Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6366569,
+        "known_for_department": "Art",
+        "name": "Agnes Alves Bicalho",
+        "original_name": "Agnes Alves Bicalho",
+        "popularity": 0.0976,
+        "profile_path": null,
+        "credit_id": "6a62c2a6b4498cda3e04f653",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6366570,
+        "known_for_department": "Art",
+        "name": "Camila Victoria Velasco Massat",
+        "original_name": "Camila Victoria Velasco Massat",
+        "popularity": 0.049,
+        "profile_path": null,
+        "credit_id": "6a62c2c54bac35d8f375a5fe",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2531262,
+        "known_for_department": "Directing",
+        "name": "Charles Bicalho",
+        "original_name": "Charles Bicalho",
+        "popularity": 0.2335,
+        "profile_path": null,
+        "credit_id": "6a62c2cf517dff735004f6a9",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2691430,
+        "known_for_department": "Directing",
+        "name": "Isael Maxakali",
+        "original_name": "Isael Maxakali",
+        "popularity": 0.3165,
+        "profile_path": null,
+        "credit_id": "6a62c2d935c2ee6cf50e6cc6",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2854175,
+        "known_for_department": "Editing",
+        "name": "Jackson Abacatu",
+        "original_name": "Jackson Abacatu",
+        "popularity": 0.0999,
+        "profile_path": null,
+        "credit_id": "6a62c2e4c1f4676b9f3a683b",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5967546,
+        "known_for_department": "Acting",
+        "name": "Dimas Maxakali",
+        "original_name": "Dimas Maxakali",
+        "popularity": 0.0611,
+        "profile_path": null,
+        "credit_id": "6a62c2ef11aad66b463892fb",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6366573,
+        "known_for_department": "Crew",
+        "name": "Eliana Maxakali",
+        "original_name": "Eliana Maxakali",
+        "popularity": 0.0533,
+        "profile_path": null,
+        "credit_id": "6a62c2ff021264a6cbfe38c6",
+        "department": "Crew",
+        "job": "Thanks"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 325371,
+        "name": "indigenous cinema"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "The men of the village went hunting. A long time passed… and they did not return. The women of the village exchanged their children among themselves, so as not to be without husbands, and began to live a new life. However, one day the men returned… Spoken in their language and illustrated by the Maxakali people of Minas Gerais, Kakxop pahok is based on a traditional story of the Maxakali people (Tikmû´ûn). It forms the Hãmnõgnõy Trilogy of indigenous animations with Konãgxeka: the Maxakali flood (2016) and Mãtãnãg, the enchanted one (2019).",
+          "runtime": 17,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "BR",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "homepage": "",
+          "overview": "Os homens da aldeia foram caçar. Muito tempo se passou... e eles não retornaram. As mulheres da aldeia trocaram seus filhos entre si, para não ficarem sem maridos, e passaram a viver uma nova vida. Porém, um dia os homens voltaram... Falado em seu idioma e ilustrado pelos Maxakali de Minas Gerais, Kakxop Pahok se baseia em história tradicional do povo Maxakali (Tikmû´ûn). E forma a Trilogia Hãmnõgnõy de animações indígenas com Konãgxeka: O Dilúvio Maxakali (2016) e Mãtãnãg, a Encantada (2019).",
+          "runtime": 17,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Festival Ecrã",
+            "release_date": "2026-07-03T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "12",
+            "descriptors": [
+              "Nudity",
+              "Sexual Content",
+              "Extreme Violence"
+            ],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-01-27T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "Trailer de Kakxop Pahok: as crianças cegas",
+        "key": "eqfcpzxYcfo",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "69799737b1a2f3c9762b1be2",
+        "published_at": "2025-07-15T18:52:10.000Z"
+      }
+    ]
+  }
+}

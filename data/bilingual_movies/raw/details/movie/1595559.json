@@ -1,0 +1,622 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 1595559,
+  "imdb_id": null,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_title": "O Retorno da Macabra Biblioteca do Dr. Lucchetti",
+  "overview": "Vonetta, Helen, and Clayton are back! Inspired by the work of Rubens Francisco Lucchetti, master of Brazilian comics and pulp fiction, these shadowy anti-heroes will have to face new challenges and even the devil himself.",
+  "popularity": 1.183,
+  "poster_path": "/x6I9nhCApC7OlEbz1WCuEcE1iEq.jpg",
+  "production_companies": [
+    {
+      "id": 119048,
+      "logo_path": null,
+      "name": "Vigor Mortis",
+      "origin_country": "BR"
+    },
+    {
+      "id": 126043,
+      "logo_path": "/ftCu2qcbnKpkeTrk2eG5KMLxegH.png",
+      "name": "Infinita Produções",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "release_date": "2025-11-05",
+  "revenue": 0,
+  "runtime": 53,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "O Retorno da Macabra Biblioteca do Dr. Lucchetti",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2146712,
+        "known_for_department": "Acting",
+        "name": "Caroline Roehrig",
+        "original_name": "Caroline Roehrig",
+        "popularity": 0.1996,
+        "profile_path": "/20LpHRvyyqNbCw01ROxPGui02cf.jpg",
+        "cast_id": 5,
+        "character": "Vonetta",
+        "credit_id": "69381abe4aeaa403b4069d61",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2595668,
+        "known_for_department": "Acting",
+        "name": "Ed Canedo",
+        "original_name": "Ed Canedo",
+        "popularity": 0.1443,
+        "profile_path": "/frxXs8CfsiJkBjWfwz4fT0xuozc.jpg",
+        "cast_id": 6,
+        "character": "Clayton",
+        "credit_id": "69381adc79b1f575bf6384cc",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1873825,
+        "known_for_department": "Acting",
+        "name": "Michelle Rodrigues",
+        "original_name": "Michelle Rodrigues",
+        "popularity": 0.1744,
+        "profile_path": "/4CSW5dehlpiuUOaipTg0ztUQNdK.jpg",
+        "cast_id": 7,
+        "character": "Helen",
+        "credit_id": "69381aedd51e6f7242f8744f",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2595672,
+        "known_for_department": "Acting",
+        "name": "Kenni Rogers",
+        "original_name": "Kenni Rogers",
+        "popularity": 0.1566,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Zola",
+        "credit_id": "69381b001f54758d577fc6d7",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3402654,
+        "known_for_department": "Acting",
+        "name": "Rubia Romani",
+        "original_name": "Rubia Romani",
+        "popularity": 0.3416,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "Stella Zorn",
+        "credit_id": "69381b12f3257dedbb638492",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5866701,
+        "known_for_department": "Acting",
+        "name": "Ângela Stadler",
+        "original_name": "Ângela Stadler",
+        "popularity": 0.2405,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Lúcifer",
+        "credit_id": "69381b32af52cb496d3cea6a",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4119261,
+        "known_for_department": "Acting",
+        "name": "Natalie Fronczak",
+        "original_name": "Natalie Fronczak",
+        "popularity": 0.1487,
+        "profile_path": "/zCT87R1qzvGKryusRNZioH5V3EB.jpg",
+        "cast_id": 11,
+        "character": "Luisa",
+        "credit_id": "69381b4619628eb583069c51",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2595758,
+        "known_for_department": "Production",
+        "name": "Paulo Rosa",
+        "original_name": "Paulo Rosa",
+        "popularity": 0.1053,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Drácula / Waldoff",
+        "credit_id": "69381b5ed129fa415a6383ce",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2324996,
+        "known_for_department": "Acting",
+        "name": "Wagner Corrêa",
+        "original_name": "Wagner Corrêa",
+        "popularity": 0.4751,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Delegado Talvane",
+        "credit_id": "69381b782b327176daf7ce15",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5866707,
+        "known_for_department": "Acting",
+        "name": "Desi Davoglio",
+        "original_name": "Desi Davoglio",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Corretora de Amsterdam",
+        "credit_id": "69381bb029867e7355f7cd89",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3384985,
+        "known_for_department": "Acting",
+        "name": "Leandro Oliveira",
+        "original_name": "Leandro Oliveira",
+        "popularity": 0.0526,
+        "profile_path": null,
+        "cast_id": 15,
+        "character": "Policial Juninho / Vítima do jovem vampiro",
+        "credit_id": "69381c3d05c5e584d2eb21ae",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5866713,
+        "known_for_department": "Acting",
+        "name": "Ana Cardon",
+        "original_name": "Ana Cardon",
+        "popularity": 0.0372,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "Policial Marta",
+        "credit_id": "69381c52044f585e8aeb1be3",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5866715,
+        "known_for_department": "Acting",
+        "name": "Rafael Cavalcanti",
+        "original_name": "Rafael Cavalcanti",
+        "popularity": 0.032,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "O Jovem Vampiro",
+        "credit_id": "69381c89e4b3c5dae87fc9fd",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1187059,
+        "known_for_department": "Directing",
+        "name": "Paulo Biscaia Filho",
+        "original_name": "Paulo Biscaia Filho",
+        "popularity": 0.3772,
+        "profile_path": "/t3nhIMMVuDPes6sHWZq6thXc6T9.jpg",
+        "credit_id": "69381a3a815e5cfd743ce971",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1187059,
+        "known_for_department": "Directing",
+        "name": "Paulo Biscaia Filho",
+        "original_name": "Paulo Biscaia Filho",
+        "popularity": 0.3772,
+        "profile_path": "/t3nhIMMVuDPes6sHWZq6thXc6T9.jpg",
+        "credit_id": "69381a4213d20d58e5638562",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1187059,
+        "known_for_department": "Directing",
+        "name": "Paulo Biscaia Filho",
+        "original_name": "Paulo Biscaia Filho",
+        "popularity": 0.3772,
+        "profile_path": "/t3nhIMMVuDPes6sHWZq6thXc6T9.jpg",
+        "credit_id": "69381a49caae28ba8a3ce996",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 100660,
+        "known_for_department": "Writing",
+        "name": "Rubens Francisco Lucchetti",
+        "original_name": "Rubens Francisco Lucchetti",
+        "popularity": 0.286,
+        "profile_path": "/isBkqurNZuz2k18lFxvfQ80EwUp.jpg",
+        "credit_id": "69381a99465ab4f343eb1a44",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2146712,
+        "known_for_department": "Acting",
+        "name": "Caroline Roehrig",
+        "original_name": "Caroline Roehrig",
+        "popularity": 0.1996,
+        "profile_path": "/20LpHRvyyqNbCw01ROxPGui02cf.jpg",
+        "credit_id": "69381ca71863489cb2069cb7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3460707,
+        "known_for_department": "Acting",
+        "name": "Daniele Mariano",
+        "original_name": "Daniele Mariano",
+        "popularity": 0.4953,
+        "profile_path": null,
+        "credit_id": "69381cc4fba8170955f87583",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3384985,
+        "known_for_department": "Acting",
+        "name": "Leandro Oliveira",
+        "original_name": "Leandro Oliveira",
+        "popularity": 0.0526,
+        "profile_path": null,
+        "credit_id": "69381cd6de637bb39a638470",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5866725,
+        "known_for_department": "Production",
+        "name": "Mariana van Bylt",
+        "original_name": "Mariana van Bylt",
+        "popularity": 0.0736,
+        "profile_path": null,
+        "credit_id": "69381d44b31ea256673ce9c0",
+        "department": "Production",
+        "job": "Production Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5866728,
+        "known_for_department": "Camera",
+        "name": "João Ferian",
+        "original_name": "João Ferian",
+        "popularity": 0.0675,
+        "profile_path": null,
+        "credit_id": "69381d69fc17c6feec63888a",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5866732,
+        "known_for_department": "Art",
+        "name": "Tati Machnicki",
+        "original_name": "Tati Machnicki",
+        "popularity": 0.2066,
+        "profile_path": null,
+        "credit_id": "69381d914aeaa403b4069d80",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4076495,
+        "known_for_department": "Art",
+        "name": "Lara Maria",
+        "original_name": "Lara Maria",
+        "popularity": 0.0952,
+        "profile_path": null,
+        "credit_id": "69381e0dbc71ec2d9ef7cfd0",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2480673,
+        "known_for_department": "Directing",
+        "name": "Amanda Bonfim",
+        "original_name": "Amanda Bonfim",
+        "popularity": 0.1156,
+        "profile_path": null,
+        "credit_id": "69381e1ecd238b08aceb1c90",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1866075,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Carol Suss",
+        "original_name": "Carol Suss",
+        "popularity": 0.139,
+        "profile_path": null,
+        "credit_id": "69381e7578446420e0eb1ba9",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5866742,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Bia Castilho",
+        "original_name": "Bia Castilho",
+        "popularity": 0.1287,
+        "profile_path": null,
+        "credit_id": "69381e8313d20d58e56385b6",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4326891,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Mayara Nassar",
+        "original_name": "Mayara Nassar",
+        "popularity": 0.0953,
+        "profile_path": null,
+        "credit_id": "69381e954aeaa403b4069d87",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4119261,
+        "known_for_department": "Acting",
+        "name": "Natalie Fronczak",
+        "original_name": "Natalie Fronczak",
+        "popularity": 0.1487,
+        "profile_path": "/zCT87R1qzvGKryusRNZioH5V3EB.jpg",
+        "credit_id": "69381ea71396fd0a59af0143",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1187059,
+        "known_for_department": "Directing",
+        "name": "Paulo Biscaia Filho",
+        "original_name": "Paulo Biscaia Filho",
+        "popularity": 0.3772,
+        "profile_path": "/t3nhIMMVuDPes6sHWZq6thXc6T9.jpg",
+        "credit_id": "69381ec5ba37638a48eb1cd6",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2219061,
+        "known_for_department": "Crew",
+        "name": "Demian Garcia",
+        "original_name": "Demian Garcia",
+        "popularity": 0.2667,
+        "profile_path": null,
+        "credit_id": "69381ed505c5e584d2eb21d0",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2324936,
+        "known_for_department": "Sound",
+        "name": "Carmen Agulham",
+        "original_name": "Carmen Agulham",
+        "popularity": 0.0746,
+        "profile_path": null,
+        "credit_id": "69381eeeba37638a48eb1cde",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2219061,
+        "known_for_department": "Crew",
+        "name": "Demian Garcia",
+        "original_name": "Demian Garcia",
+        "popularity": 0.2667,
+        "profile_path": null,
+        "credit_id": "69381f0327877a4d6e7fc7b5",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2459731,
+        "known_for_department": "Camera",
+        "name": "Rafael Neri",
+        "original_name": "Rafael Neri",
+        "popularity": 0.0622,
+        "profile_path": null,
+        "credit_id": "69381f23339d82f485f875be",
+        "department": "Art",
+        "job": "Assistant Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3384985,
+        "known_for_department": "Acting",
+        "name": "Leandro Oliveira",
+        "original_name": "Leandro Oliveira",
+        "popularity": 0.0526,
+        "profile_path": null,
+        "credit_id": "69381f52e40a0cf0a56384ce",
+        "department": "Production",
+        "job": "Producer's Assistant"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "BR",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "homepage": "",
+          "overview": "O Conde Vlad Drácula recebe de Helen Zola a notícia de que corre perigo.  A descoberta do Anel de Salomão pode modificar toda a ordem das criaturas das sombras.  Vonetta e Clayton, agora caçadores de nazistas, se deparam com um fantasma do passado.",
+          "runtime": 60,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Vonetta, Helen, and Clayton are back! Inspired by the work of Rubens Francisco Lucchetti, master of Brazilian comics and pulp fiction, these shadowy anti-heroes will have to face new challenges and even the devil himself.",
+          "runtime": 53,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "pt",
+            "note": "Djanho Fantástico",
+            "release_date": "2025-11-05T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "pt",
+            "note": "Youtube",
+            "release_date": "2025-11-06T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

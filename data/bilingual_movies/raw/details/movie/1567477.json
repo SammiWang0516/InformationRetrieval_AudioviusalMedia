@@ -1,0 +1,535 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 1567477,
+  "imdb_id": null,
+  "origin_country": [
+    "AR"
+  ],
+  "original_language": "es",
+  "original_title": "El hombre que vivió con miedo",
+  "overview": "In 1975, in the city of Rosario, Pablo Reinstein was kidnapped and murdered by a gang of amateur criminals made up of Miguel Cazón, Hugo Risiglione, and Luis González. All three were arrested, charged, and sentenced to prison. Years later, upon their release, Cazón and Risiglione were murdered in the same way they had Reinstein. Little was known about González after his release. Although various versions circulated, his fate remains shrouded in mystery.",
+  "popularity": 1.6195,
+  "poster_path": "/13YfSFk8PXRDyU0ZOeWUPOVnrec.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    }
+  ],
+  "release_date": "2025-11-12",
+  "revenue": 0,
+  "runtime": 84,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The man that lived with fear",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4012443,
+        "known_for_department": "Acting",
+        "name": "Javier Bonatti",
+        "original_name": "Javier Bonatti",
+        "popularity": 0.1978,
+        "profile_path": "/9hv9RXHu6bZegH84fxXMSuzzk0w.jpg",
+        "cast_id": 1,
+        "character": "",
+        "credit_id": "68fa369f7e41e4906cf29d9d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4047081,
+        "known_for_department": "Acting",
+        "name": "Sebastián Santa Cruz",
+        "original_name": "Sebastián Santa Cruz",
+        "popularity": 0.6415,
+        "profile_path": "/irRgVXlFl3FBj5jyYkFM2d0ZPMJ.jpg",
+        "cast_id": 2,
+        "character": "",
+        "credit_id": "68fa36a57e41e4906cf29da1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5479439,
+        "known_for_department": "Acting",
+        "name": "Mariano Rubiolo",
+        "original_name": "Mariano Rubiolo",
+        "popularity": 0.2141,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "",
+        "credit_id": "68fa36ad836df033d6128050",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5767825,
+        "known_for_department": "Acting",
+        "name": "Florencia Sanfilippo",
+        "original_name": "Florencia Sanfilippo",
+        "popularity": 0.2331,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "68fa36b52560643cf5dd9444",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5767827,
+        "known_for_department": "Acting",
+        "name": "Elías Maillot",
+        "original_name": "Elías Maillot",
+        "popularity": 0.0748,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "68fa36be92722a38d846707c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3991904,
+        "known_for_department": "Acting",
+        "name": "Sergio Cangiano",
+        "original_name": "Sergio Cangiano",
+        "popularity": 0.368,
+        "profile_path": "/o5NnV9jLCAvrybXFIrNrua0dl6n.jpg",
+        "cast_id": 23,
+        "character": "",
+        "credit_id": "69002a90f95776b5e893932b",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5466723,
+        "known_for_department": "Acting",
+        "name": "Marcos Martinez",
+        "original_name": "Marcos Martinez",
+        "popularity": 0.2253,
+        "profile_path": null,
+        "cast_id": 24,
+        "character": "",
+        "credit_id": "69002a991abe9b90089391c6",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5609387,
+        "known_for_department": "Acting",
+        "name": "José Pablo Viso",
+        "original_name": "José Pablo Viso",
+        "popularity": 0.4722,
+        "profile_path": null,
+        "cast_id": 25,
+        "character": "",
+        "credit_id": "69002ab19d2ad5dd9ebbf937",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5525944,
+        "known_for_department": "Acting",
+        "name": "Sergio Stillo",
+        "original_name": "Sergio Stillo",
+        "popularity": 0.1718,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "",
+        "credit_id": "69002abb0be636983aa6369d",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2438082,
+        "known_for_department": "Acting",
+        "name": "Ruy Gatti",
+        "original_name": "Ruy Gatti",
+        "popularity": 0.7352,
+        "profile_path": "/275rqmVQZ5F5FjOV4qfIXKL0sRP.jpg",
+        "cast_id": 27,
+        "character": "",
+        "credit_id": "69002acdd93802f8c4a3153b",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4707720,
+        "known_for_department": "Acting",
+        "name": "Martina Ambrosini",
+        "original_name": "Martina Ambrosini",
+        "popularity": 0.0595,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "",
+        "credit_id": "69002b0cb1ff17b4cf4e9029",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4223705,
+        "known_for_department": "Acting",
+        "name": "Lola Maglier",
+        "original_name": "Lola Maglier",
+        "popularity": 0.1316,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "",
+        "credit_id": "69002b18ef26b30f944e901a",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2225613,
+        "known_for_department": "Acting",
+        "name": "Claudio Paz",
+        "original_name": "Claudio Paz",
+        "popularity": 0.2076,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "",
+        "credit_id": "69002b221296e64ea43bffd8",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3796130,
+        "known_for_department": "Editing",
+        "name": "Baltasar Albrecht",
+        "original_name": "Baltasar Albrecht",
+        "popularity": 0.2167,
+        "profile_path": "/jUcpHmEClegZuPgalGcuECUfkEp.jpg",
+        "credit_id": "68fa36cba84ffee7121281b6",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3796130,
+        "known_for_department": "Editing",
+        "name": "Baltasar Albrecht",
+        "original_name": "Baltasar Albrecht",
+        "popularity": 0.2167,
+        "profile_path": "/jUcpHmEClegZuPgalGcuECUfkEp.jpg",
+        "credit_id": "68fa36d34615cd1e38466fab",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3796130,
+        "known_for_department": "Editing",
+        "name": "Baltasar Albrecht",
+        "original_name": "Baltasar Albrecht",
+        "popularity": 0.2167,
+        "profile_path": "/jUcpHmEClegZuPgalGcuECUfkEp.jpg",
+        "credit_id": "68fa36db6a5fcdd056417a02",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3796130,
+        "known_for_department": "Editing",
+        "name": "Baltasar Albrecht",
+        "original_name": "Baltasar Albrecht",
+        "popularity": 0.2167,
+        "profile_path": "/jUcpHmEClegZuPgalGcuECUfkEp.jpg",
+        "credit_id": "68fa36e29a659037f06b1df8",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3796130,
+        "known_for_department": "Editing",
+        "name": "Baltasar Albrecht",
+        "original_name": "Baltasar Albrecht",
+        "popularity": 0.2167,
+        "profile_path": "/jUcpHmEClegZuPgalGcuECUfkEp.jpg",
+        "credit_id": "68fa36ebf310ea7542f29e29",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3421004,
+        "known_for_department": "Directing",
+        "name": "Gastón del Porto",
+        "original_name": "Gastón del Porto",
+        "popularity": 0.5133,
+        "profile_path": "/ktfZR3dMjC0UYsDIaSFAXjIoEy.jpg",
+        "credit_id": "68fa36f5c37ed986944670ff",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3421004,
+        "known_for_department": "Directing",
+        "name": "Gastón del Porto",
+        "original_name": "Gastón del Porto",
+        "popularity": 0.5133,
+        "profile_path": "/ktfZR3dMjC0UYsDIaSFAXjIoEy.jpg",
+        "credit_id": "68fa36feeebcc49a028532c1",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3421004,
+        "known_for_department": "Directing",
+        "name": "Gastón del Porto",
+        "original_name": "Gastón del Porto",
+        "popularity": 0.5133,
+        "profile_path": "/ktfZR3dMjC0UYsDIaSFAXjIoEy.jpg",
+        "credit_id": "68fa370546a1ba8c4e417ad4",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3421004,
+        "known_for_department": "Directing",
+        "name": "Gastón del Porto",
+        "original_name": "Gastón del Porto",
+        "popularity": 0.5133,
+        "profile_path": "/ktfZR3dMjC0UYsDIaSFAXjIoEy.jpg",
+        "credit_id": "68fa370c27a2c714d4e2d2da",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3421004,
+        "known_for_department": "Directing",
+        "name": "Gastón del Porto",
+        "original_name": "Gastón del Porto",
+        "popularity": 0.5133,
+        "profile_path": "/ktfZR3dMjC0UYsDIaSFAXjIoEy.jpg",
+        "credit_id": "68fa3713b18f96382e417ac6",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5488874,
+        "known_for_department": "Production",
+        "name": "Laura Rubio Alfonso",
+        "original_name": "Laura Rubio Alfonso",
+        "popularity": 0.1789,
+        "profile_path": null,
+        "credit_id": "68fa37290dce7070ec85329f",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3796111,
+        "known_for_department": "Sound",
+        "name": "Ariel Gaspoz",
+        "original_name": "Ariel Gaspoz",
+        "popularity": 0.1652,
+        "profile_path": "/9PTQgXs5KBQZqxWa9cdR7Cvh7FF.jpg",
+        "credit_id": "68fa3734a81534d94c85332a",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3851146,
+        "known_for_department": "Acting",
+        "name": "Tomás Del Porto",
+        "original_name": "Tomás Del Porto",
+        "popularity": 0.5289,
+        "profile_path": "/zIWVIdx5eNW8aN2ZwUYCYS8Pvbs.jpg",
+        "credit_id": "68fa3740a84ffee7121281bf",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5778416,
+        "known_for_department": "Camera",
+        "name": "Beto Alloati",
+        "original_name": "Beto Alloati",
+        "popularity": 0.1233,
+        "profile_path": null,
+        "credit_id": "690029d285c21e21063bff76",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4139783,
+        "known_for_department": "Art",
+        "name": "María Victoria Ficceto",
+        "original_name": "María Victoria Ficceto",
+        "popularity": 0.1126,
+        "profile_path": null,
+        "credit_id": "690029e301111bb7cada031b",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3796168,
+        "known_for_department": "Production",
+        "name": "Fabricio Barale",
+        "original_name": "Fabricio Barale",
+        "popularity": 0.1245,
+        "profile_path": null,
+        "credit_id": "690029f0b8ca44be77276494",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3554650,
+        "known_for_department": "Directing",
+        "name": "Andrés Vernetti",
+        "original_name": "Andrés Vernetti",
+        "popularity": 0.1031,
+        "profile_path": null,
+        "credit_id": "69002a000db63dc321fb74ca",
+        "department": "Production",
+        "job": "Production Manager"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "In 1975, in the city of Rosario, Pablo Reinstein was kidnapped and murdered by a gang of amateur criminals made up of Miguel Cazón, Hugo Risiglione, and Luis González. All three were arrested, charged, and sentenced to prison. Years later, upon their release, Cazón and Risiglione were murdered in the same way they had Reinstein. Little was known about González after his release. Although various versions circulated, his fate remains shrouded in mystery.",
+          "runtime": 84,
+          "tagline": "",
+          "title": "The man that lived with fear"
+        }
+      },
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.75,
+        "height": 800,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/13YfSFk8PXRDyU0ZOeWUPOVnrec.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 600
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "Festival Internacional de Mar del Plata",
+            "release_date": "2025-11-12T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

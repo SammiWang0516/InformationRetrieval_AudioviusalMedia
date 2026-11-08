@@ -1,0 +1,699 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 1000,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1644593,
+  "imdb_id": "tt43536670",
+  "origin_country": [
+    "UA"
+  ],
+  "original_language": "uk",
+  "original_title": "Кармен",
+  "overview": "An obsessed director, filming a modern adaptation of \"Carmen,\" falls in love with the lead actress and gradually blurs the line between cinema and reality, turning the set into an arena of jealousy and self-destruction.",
+  "popularity": 0.9473,
+  "poster_path": "/bqfAMYN6TA8VFalaNbZi3eu8Mqq.jpg",
+  "production_companies": [
+    {
+      "id": 266450,
+      "logo_path": "/qmz0MdRxZyuU7nOoVZc9tnYus0M.png",
+      "name": "Dmytro Tomashpolskyi's workshop \"Centaurs\"",
+      "origin_country": "UA"
+    },
+    {
+      "id": 140155,
+      "logo_path": "/sK1dKpuXxuK5oXHbTCOzMWXDCcP.png",
+      "name": "Kyiv National I. K. Karpenko-Karyi Theatre, Cinema and Television University",
+      "origin_country": "UA"
+    },
+    {
+      "id": 292913,
+      "logo_path": null,
+      "name": "Educational and practical complex \"Karpen Co\"",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "UA",
+      "name": "Ukraine"
+    }
+  ],
+  "release_date": "2026-06-07",
+  "revenue": 0,
+  "runtime": 10,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Ukrainian",
+      "iso_639_1": "uk",
+      "name": "Український"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Carmen",
+  "video": false,
+  "vote_average": 10.0,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5500381,
+        "known_for_department": "Directing",
+        "name": "Zakhar Shestiaiev",
+        "original_name": "Захар Шестяєв",
+        "popularity": 0.284,
+        "profile_path": "/frWBpeIc0JqlNLhnhFro7aXRRct.jpg",
+        "cast_id": 1,
+        "character": "Director",
+        "credit_id": "69a44c0dd5210ae2d9e2b819",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5500407,
+        "known_for_department": "Art",
+        "name": "Caroline Singh",
+        "original_name": "Caroline Singh",
+        "popularity": 0.1448,
+        "profile_path": "/loxdw5236K922GQWMhnY6tbGcYI.jpg",
+        "cast_id": 2,
+        "character": "Carmen",
+        "credit_id": "69a44c21adcd896775a7a025",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5552279,
+        "known_for_department": "Directing",
+        "name": "Artem Shteynle",
+        "original_name": "Artem Shteynle",
+        "popularity": 0.3897,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Director of Photography",
+        "credit_id": "69a9cceae8ac8b8f8ae23ab0",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4203564,
+        "known_for_department": "Acting",
+        "name": "Ivan Melnikov",
+        "original_name": "Иван Мельников",
+        "popularity": 0.4086,
+        "profile_path": "/aZihomN9usdsORDQotPuZnf7Wvy.jpg",
+        "cast_id": 21,
+        "character": "Choreographer",
+        "credit_id": "69a9cd7449fdd2894b1a94e9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6088993,
+        "known_for_department": "Acting",
+        "name": "Bogdan Golovko",
+        "original_name": "Bogdan Golovko",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "cast_id": 42,
+        "character": "Gaffer",
+        "credit_id": "69c004e1c021d4536415ea6b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6083124,
+        "known_for_department": "Acting",
+        "name": "Ivan Ustinov",
+        "original_name": "Ivan Ustinov",
+        "popularity": 0.1232,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Escamillo",
+        "credit_id": "69bc579fc173874bf52c91df",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4099807,
+        "known_for_department": "Acting",
+        "name": "Vladyslav Volynets",
+        "original_name": "Vladyslav Volynets",
+        "popularity": 0.4965,
+        "profile_path": "/zzhsO9gp8AtgVjkeHX3xqGpth9j.jpg",
+        "cast_id": 23,
+        "character": "Producer",
+        "credit_id": "69a9ce42d54f9ccd1a2f6bc7",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6083135,
+        "known_for_department": "Acting",
+        "name": "Kateryna Yatsyshena",
+        "original_name": "Kateryna Yatsyshena",
+        "popularity": 0.2979,
+        "profile_path": null,
+        "cast_id": 35,
+        "character": "Actress",
+        "credit_id": "69bc58a9e41d352284a98b8f",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6083141,
+        "known_for_department": "Acting",
+        "name": "Hanna Fedovorova",
+        "original_name": "Hanna Fedovorova",
+        "popularity": 0.1821,
+        "profile_path": null,
+        "cast_id": 37,
+        "character": "Actress",
+        "credit_id": "69bc58ddcbdcdc729500f653",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6083169,
+        "known_for_department": "Acting",
+        "name": "Angelina Malinytska",
+        "original_name": "Angelina Malinytska",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 39,
+        "character": "Actress",
+        "credit_id": "69bc5cdc41127de15d57ddf4",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5614318,
+        "known_for_department": "Directing",
+        "name": "Yevhen Shemet",
+        "original_name": "Yevhen Shemet",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 43,
+        "character": "1AD",
+        "credit_id": "69c2ed7280fbdfd79b0d9ad9",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5576198,
+        "known_for_department": "Acting",
+        "name": "Heorhii Pliiev",
+        "original_name": "Heorhii Pliiev",
+        "popularity": 0.0372,
+        "profile_path": "/ndXVXf3aj7qOJw6uFnEs86plXNk.jpg",
+        "cast_id": 44,
+        "character": "Gaffer",
+        "credit_id": "69c2ed853f556793f60d9aec",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5500375,
+        "known_for_department": "Acting",
+        "name": "Milena Pasichnyk",
+        "original_name": "Milena Pasichnyk",
+        "popularity": 0.058,
+        "profile_path": "/pRQCCiqOCeFZg0sMhMvkOm7KlEI.jpg",
+        "cast_id": 45,
+        "character": "Helper",
+        "credit_id": "69c2ed9ae465796d6ed787d4",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5500407,
+        "known_for_department": "Art",
+        "name": "Caroline Singh",
+        "original_name": "Caroline Singh",
+        "popularity": 0.1448,
+        "profile_path": "/loxdw5236K922GQWMhnY6tbGcYI.jpg",
+        "credit_id": "69a44c393e043893b1de92ff",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5500407,
+        "known_for_department": "Art",
+        "name": "Caroline Singh",
+        "original_name": "Caroline Singh",
+        "popularity": 0.1448,
+        "profile_path": "/loxdw5236K922GQWMhnY6tbGcYI.jpg",
+        "credit_id": "69a44c46d038be4d8ba79e3f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5500407,
+        "known_for_department": "Art",
+        "name": "Caroline Singh",
+        "original_name": "Caroline Singh",
+        "popularity": 0.1448,
+        "profile_path": "/loxdw5236K922GQWMhnY6tbGcYI.jpg",
+        "credit_id": "69a44c5fa5cae8b639ff645d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5500407,
+        "known_for_department": "Art",
+        "name": "Caroline Singh",
+        "original_name": "Caroline Singh",
+        "popularity": 0.1448,
+        "profile_path": "/loxdw5236K922GQWMhnY6tbGcYI.jpg",
+        "credit_id": "69a44c6cbf28e3ccf641887d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 148059,
+        "known_for_department": "Writing",
+        "name": "Prosper Mérimée",
+        "original_name": "Prosper Mérimée",
+        "popularity": 0.648,
+        "profile_path": null,
+        "credit_id": "69a44c845418741dacc4b50c",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5500407,
+        "known_for_department": "Art",
+        "name": "Caroline Singh",
+        "original_name": "Caroline Singh",
+        "popularity": 0.1448,
+        "profile_path": "/loxdw5236K922GQWMhnY6tbGcYI.jpg",
+        "credit_id": "69a44c9fdadbcf2a0fa79ef5",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5500381,
+        "known_for_department": "Directing",
+        "name": "Zakhar Shestiaiev",
+        "original_name": "Захар Шестяєв",
+        "popularity": 0.284,
+        "profile_path": "/frWBpeIc0JqlNLhnhFro7aXRRct.jpg",
+        "credit_id": "69a44cad5ab4f96526de908f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5500381,
+        "known_for_department": "Directing",
+        "name": "Zakhar Shestiaiev",
+        "original_name": "Захар Шестяєв",
+        "popularity": 0.284,
+        "profile_path": "/frWBpeIc0JqlNLhnhFro7aXRRct.jpg",
+        "credit_id": "69a44cccd038be4d8ba79e46",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6042474,
+        "known_for_department": "Camera",
+        "name": "Maksym Solodzhuk",
+        "original_name": "Maksym Solodzhuk",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69a44cdfabd8f73a11ccd52b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5500399,
+        "known_for_department": "Directing",
+        "name": "Olha Savchenko",
+        "original_name": "Olha Savchenko",
+        "popularity": 0.1532,
+        "profile_path": "/thWLvco1e5p9Mq7ugfvfdrhq5TJ.jpg",
+        "credit_id": "69a44ceb9c477d77b7c4b664",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5500397,
+        "known_for_department": "Production",
+        "name": "Anna Korshun",
+        "original_name": "Anna Korshun",
+        "popularity": 0.1875,
+        "profile_path": "/6NJZ3JQFKeL2QUNOpMOsGUa7i4P.jpg",
+        "credit_id": "69a44cf7abd8f73a11ccd531",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5500375,
+        "known_for_department": "Acting",
+        "name": "Milena Pasichnyk",
+        "original_name": "Milena Pasichnyk",
+        "popularity": 0.058,
+        "profile_path": "/pRQCCiqOCeFZg0sMhMvkOm7KlEI.jpg",
+        "credit_id": "69a44d038b06250f43c17823",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5803727,
+        "known_for_department": "Production",
+        "name": "Ivanna Butnyak",
+        "original_name": "Ivanna Butnyak",
+        "popularity": 0.0602,
+        "profile_path": "/p6wqkbhzWje6H6M6BZ32CAbscPQ.jpg",
+        "credit_id": "69a44d10090cfc1edeccd26b",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4203564,
+        "known_for_department": "Acting",
+        "name": "Ivan Melnikov",
+        "original_name": "Иван Мельников",
+        "popularity": 0.4086,
+        "profile_path": "/aZihomN9usdsORDQotPuZnf7Wvy.jpg",
+        "credit_id": "69a44d8d4f46e0b383e2b7fb",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5899848,
+        "known_for_department": "Art",
+        "name": "Oleksandr Kvita",
+        "original_name": "Oleksandr Kvita",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69bc552841127de15d57ddb9",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5576198,
+        "known_for_department": "Acting",
+        "name": "Heorhii Pliiev",
+        "original_name": "Heorhii Pliiev",
+        "popularity": 0.0372,
+        "profile_path": "/ndXVXf3aj7qOJw6uFnEs86plXNk.jpg",
+        "credit_id": "69bc553a798a53ea652ca03a",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5552279,
+        "known_for_department": "Directing",
+        "name": "Artem Shteynle",
+        "original_name": "Artem Shteynle",
+        "popularity": 0.3897,
+        "profile_path": null,
+        "credit_id": "69bc554dde4745b3d3052c49",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6049845,
+        "known_for_department": "Acting",
+        "name": "Tomas-Heorh Arktoiskyi",
+        "original_name": "Tomas-Heorh Arktoiskyi",
+        "popularity": 0.1436,
+        "profile_path": null,
+        "credit_id": "69bc556241127de15d57ddc8",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5899838,
+        "known_for_department": "Production",
+        "name": "Elizabeth Alekseeva",
+        "original_name": "Elizabeth Alekseeva",
+        "popularity": 0.0354,
+        "profile_path": null,
+        "credit_id": "69bc5633bd8d96593c3b9e68",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5899823,
+        "known_for_department": "Acting",
+        "name": "Danylo Kolesnyk",
+        "original_name": "Danylo Kolesnyk",
+        "popularity": 0.2601,
+        "profile_path": null,
+        "credit_id": "69bc565659fd3bdf98a989f0",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6083125,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Anna Vashchenko",
+        "original_name": "Anna Vashchenko",
+        "popularity": 0.046,
+        "profile_path": null,
+        "credit_id": "69bc57cc33a569034ba98b86",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5839175,
+        "known_for_department": "Production",
+        "name": "Kateryna Serhieieva",
+        "original_name": "Kateryna Serhieieva",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "69bc57fb8bf27b1a9c23dc05",
+        "department": "Art",
+        "job": "Assistant Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6083128,
+        "known_for_department": "Art",
+        "name": "Julia Tymoshkina",
+        "original_name": "Julia Tymoshkina",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69bc58171f2e6c3b3ee13666",
+        "department": "Art",
+        "job": "Assistant Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6071727,
+        "known_for_department": "Art",
+        "name": "Yelyzaveta Ihnatieva",
+        "original_name": "Yelyzaveta Ihnatieva",
+        "popularity": 0.0548,
+        "profile_path": null,
+        "credit_id": "69bc583c9564e3536be136b4",
+        "department": "Art",
+        "job": "Assistant Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6083155,
+        "known_for_department": "Art",
+        "name": "Baku",
+        "original_name": "Baku",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69bc5aaed53b9ae3de3b9fe0",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6083199,
+        "known_for_department": "Art",
+        "name": "Valeria Bulatova",
+        "original_name": "Valeria Bulatova",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69bc616ce9787f15ad3ba01b",
+        "department": "Art",
+        "job": "Assistant Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6083202,
+        "known_for_department": "Art",
+        "name": "Elmira Hanbarova",
+        "original_name": "Elmira Hanbarova",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69bc61875182526aca57e037",
+        "department": "Art",
+        "job": "Assistant Production Design"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "An obsessed director, filming a modern adaptation of \"Carmen,\" falls in love with the lead actress and gradually blurs the line between cinema and reality, turning the set into an arena of jealousy and self-destruction.",
+          "runtime": 10,
+          "tagline": "",
+          "title": "Carmen"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt43536670",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.666,
+        "height": 1202,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/bqfAMYN6TA8VFalaNbZi3eu8Mqq.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 801
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "UA",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "uk",
+            "note": "Dmytro Tomashpolskyi's course \"Centaurs\" screenings",
+            "release_date": "2026-06-07T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "uk",
+            "note": "\"1000 minutes of student films\" special screenings",
+            "release_date": "2026-07-24T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "uk",
+            "note": "Molodist Kyiv International Film Festival ",
+            "release_date": "2026-10-27T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

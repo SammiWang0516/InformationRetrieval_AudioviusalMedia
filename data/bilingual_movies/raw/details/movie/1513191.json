@@ -1,0 +1,214 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1513191,
+  "imdb_id": null,
+  "origin_country": [
+    "UY"
+  ],
+  "original_language": "es",
+  "original_title": "Título",
+  "overview": "",
+  "popularity": 1.0551,
+  "poster_path": "/ekh8BFD1FiJshPR7T8oHMAD2dfk.jpg",
+  "production_companies": [
+    {
+      "id": 267979,
+      "logo_path": null,
+      "name": "Tuma",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "UY",
+      "name": "Uruguay"
+    }
+  ],
+  "release_date": "2025-02-01",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Título",
+  "video": false,
+  "vote_average": 5.0,
+  "vote_count": 1,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5531753,
+        "known_for_department": "Acting",
+        "name": "Álvaro Slepac",
+        "original_name": "Álvaro Slepac",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Personaje 3",
+        "credit_id": "68753347361259ee538e820a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5563833,
+        "known_for_department": "Acting",
+        "name": "Rocío Castro",
+        "original_name": "Rocío Castro",
+        "popularity": 0.5753,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Personaje 2",
+        "credit_id": "6875335a27e57e5d1c8e81f0",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5552466,
+        "known_for_department": "Directing",
+        "name": "Mateo Alves Paz",
+        "original_name": "Mateo Alves Paz",
+        "popularity": 0.1789,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Personaje 1",
+        "credit_id": "68753374ee94318831baa3be",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5531753,
+        "known_for_department": "Acting",
+        "name": "Álvaro Slepac",
+        "original_name": "Álvaro Slepac",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "6875338ad926c1ee818e8200",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5531753,
+        "known_for_department": "Acting",
+        "name": "Álvaro Slepac",
+        "original_name": "Álvaro Slepac",
+        "popularity": 0.0453,
+        "profile_path": null,
+        "credit_id": "6875339781208093abf91b0b",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5552522,
+        "known_for_department": "Editing",
+        "name": "Florencia Slepac",
+        "original_name": "Florencia Slepac",
+        "popularity": 0.2645,
+        "profile_path": null,
+        "credit_id": "687533a950424883588e4ce1",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 193400,
+        "name": "teen drama"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "(Sinopsis de Títiulo)",
+          "runtime": 1,
+          "tagline": "TAGLINE",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "UY",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "es",
+            "note": "Youtube",
+            "release_date": "2025-02-01T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

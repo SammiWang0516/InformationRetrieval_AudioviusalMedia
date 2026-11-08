@@ -1,0 +1,198 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 1599762,
+  "imdb_id": null,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Peter",
+  "overview": "A morning visit to Peter, the day begins.",
+  "popularity": 0.839,
+  "poster_path": "/xNV8T6hyNkb0NW0CoxxrSRt4EJ2.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2025-01-01",
+  "revenue": 0,
+  "runtime": 7,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Peter",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5882815,
+        "known_for_department": "Acting",
+        "name": "Peter",
+        "original_name": "Peter",
+        "popularity": 0.0708,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "himself",
+        "credit_id": "6942b25947f541e983d73a67",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1295176,
+        "known_for_department": "Directing",
+        "name": "Jan Soldat",
+        "original_name": "Jan Soldat",
+        "popularity": 0.2242,
+        "profile_path": null,
+        "credit_id": "6942b217f6ca9a81a52dbeab",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1295176,
+        "known_for_department": "Directing",
+        "name": "Jan Soldat",
+        "original_name": "Jan Soldat",
+        "popularity": 0.2242,
+        "profile_path": null,
+        "credit_id": "6942b22d47f541e983d73a49",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1295176,
+        "known_for_department": "Directing",
+        "name": "Jan Soldat",
+        "original_name": "Jan Soldat",
+        "popularity": 0.2242,
+        "profile_path": null,
+        "credit_id": "6942b23c03803a19eb2610e3",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1895248,
+        "known_for_department": "Sound",
+        "name": "Lorenz Fischer",
+        "original_name": "Lorenz Fischer",
+        "popularity": 0.3244,
+        "profile_path": "/l2tkWloz4xY08AajLeeOTNjHa10.jpg",
+        "credit_id": "6942b2493d338a3f35260fdd",
+        "department": "Sound",
+        "job": "Sound"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "http://jansoldat.com/",
+          "overview": "Ein vormittäglicher Besuch bei Peter, der Tag beginnt.",
+          "runtime": 7,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "A morning visit to Peter, the day begins.",
+          "runtime": 7,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 757,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/xNV8T6hyNkb0NW0CoxxrSRt4EJ2.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 505
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-01-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

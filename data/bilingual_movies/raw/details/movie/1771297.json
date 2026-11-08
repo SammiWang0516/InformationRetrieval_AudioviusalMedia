@@ -1,0 +1,593 @@
+{
+  "adult": false,
+  "backdrop_path": "/uxDGn6n2YPOVkp8MT552fO1WPWd.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1771297,
+  "imdb_id": null,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Der Astronaut",
+  "overview": "After Valentina’s father returns from a space mission, he is unrecognizable.  She tries everything to restore their old relationship.",
+  "popularity": 0.7807,
+  "poster_path": "/uCGGNNsztOQvfRthJH72SGdNtPz.jpg",
+  "production_companies": [
+    {
+      "id": 310871,
+      "logo_path": null,
+      "name": "Kanon Film",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2026-09-27",
+  "revenue": 0,
+  "runtime": 19,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Astronaut",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2143078,
+        "known_for_department": "Acting",
+        "name": "Erik Rastetter",
+        "original_name": "Erik Rastetter",
+        "popularity": 0.2799,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Tom",
+        "credit_id": "6aa9ae25dc1d72524d4f1034",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6481085,
+        "known_for_department": "Acting",
+        "name": "Ellen Weber",
+        "original_name": "Ellen Weber",
+        "popularity": 0.1722,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Valentina",
+        "credit_id": "6aa9aebfb95fa0c90e0da76a",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6481086,
+        "known_for_department": "Acting",
+        "name": "Jule Kessler",
+        "original_name": "Jule Kessler",
+        "popularity": 0.2515,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Eva",
+        "credit_id": "6aa9aee1afeba4125d6da253",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6481112,
+        "known_for_department": "Acting",
+        "name": "Milou Dutschke",
+        "original_name": "Milou Dutschke",
+        "popularity": 0.1522,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Stimme Valentina (jung)",
+        "credit_id": "6aa9b1cd9594888a0fe7b48f",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6217396,
+        "known_for_department": "Acting",
+        "name": "Bastian Leucht",
+        "original_name": "Bastian Leucht",
+        "popularity": 0.1154,
+        "profile_path": null,
+        "credit_id": "6aa9ae896f58bda1a76da265",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6217398,
+        "known_for_department": "Acting",
+        "name": "Lars Leucht",
+        "original_name": "Lars Leucht",
+        "popularity": 0.0915,
+        "profile_path": "/tpCDhvvnhiTT02g9hsQThOOAw5a.jpg",
+        "credit_id": "6aa9ae95ffbb849c944f1089",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6217396,
+        "known_for_department": "Acting",
+        "name": "Bastian Leucht",
+        "original_name": "Bastian Leucht",
+        "popularity": 0.1154,
+        "profile_path": null,
+        "credit_id": "6aa9ae9ffc4bf40520ce073f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6217398,
+        "known_for_department": "Acting",
+        "name": "Lars Leucht",
+        "original_name": "Lars Leucht",
+        "popularity": 0.0915,
+        "profile_path": "/tpCDhvvnhiTT02g9hsQThOOAw5a.jpg",
+        "credit_id": "6aa9aeb01d2d401ffcce078f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6217404,
+        "known_for_department": "Directing",
+        "name": "Adam Abo Fayad",
+        "original_name": "Adam Abo Fayad",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6aa9aeff19eb0fdb1957727c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6481087,
+        "known_for_department": "Camera",
+        "name": "Lea von Reitzenstein",
+        "original_name": "Lea von Reitzenstein",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6aa9af3f69195535c957727f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6481089,
+        "known_for_department": "Editing",
+        "name": "Mukabu Mwangi Hutter",
+        "original_name": "Mukabu Mwangi Hutter",
+        "popularity": 0.0383,
+        "profile_path": null,
+        "credit_id": "6aa9af55c8c2004802d820ba",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6481090,
+        "known_for_department": "Directing",
+        "name": "Philine Schütte",
+        "original_name": "Philine Schütte",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "6aa9af72c70d8e8a777fc91a",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4419391,
+        "known_for_department": "Camera",
+        "name": "Berenike Eder",
+        "original_name": "Berenike Eder",
+        "popularity": 0.0749,
+        "profile_path": null,
+        "credit_id": "6aa9af8b1bee05f8ada12479",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6237417,
+        "known_for_department": "Camera",
+        "name": "Linn Fußner",
+        "original_name": "Linn Fußner",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6aa9afa04ae7f0150ef3b207",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6481092,
+        "known_for_department": "Directing",
+        "name": "Viktoria Kling",
+        "original_name": "Viktoria Kling",
+        "popularity": 0.0641,
+        "profile_path": null,
+        "credit_id": "6aa9afb414dd8aba86f3b1ec",
+        "department": "Directing",
+        "job": "Continuity"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6481093,
+        "known_for_department": "Art",
+        "name": "Markella Samartzidou",
+        "original_name": "Markella Samartzidou",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "6aa9afe0b95fa0c90e0da776",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6217406,
+        "known_for_department": "Art",
+        "name": "Pinar Karahan",
+        "original_name": "Pinar Karahan",
+        "popularity": 0.0548,
+        "profile_path": null,
+        "credit_id": "6aa9aff2b31880650cce0790",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6481095,
+        "known_for_department": "Art",
+        "name": "Franziska Semella",
+        "original_name": "Franziska Semella",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "6aa9b0015daf08c8a17fc80b",
+        "department": "Art",
+        "job": "Props"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6481096,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Selina Jochim",
+        "original_name": "Selina Jochim",
+        "popularity": 0.0408,
+        "profile_path": null,
+        "credit_id": "6aa9b012b9c2cc1844e7b4ae",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6481097,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Madleen Maier",
+        "original_name": "Madleen Maier",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "6aa9b02a6150a1395795bcaf",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6481099,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Christina Honcharenko",
+        "original_name": "Christina Honcharenko",
+        "popularity": 0.0376,
+        "profile_path": null,
+        "credit_id": "6aa9b03a789605933395bc51",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Master"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5152969,
+        "known_for_department": "Lighting",
+        "name": "Florian Wurtz",
+        "original_name": "Florian Wurtz",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6aa9b04e26d9ce19d97fc84e",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3777315,
+        "known_for_department": "Lighting",
+        "name": "Jan Hierscher",
+        "original_name": "Jan Hierscher",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "credit_id": "6aa9b05db31880650cce0798",
+        "department": "Lighting",
+        "job": "Best Boy Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6481100,
+        "known_for_department": "Lighting",
+        "name": "Louis Kellerbauer",
+        "original_name": "Louis Kellerbauer",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "6aa9b06fd1e9f932cecd6dd5",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4260291,
+        "known_for_department": "Sound",
+        "name": "Tobias Weis",
+        "original_name": "Tobias Weis",
+        "popularity": 0.0839,
+        "profile_path": null,
+        "credit_id": "6aa9b07f866a4627cdcfde1b",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5772904,
+        "known_for_department": "Sound",
+        "name": "Marius Zeeb",
+        "original_name": "Marius Zeeb",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6aa9b08e6e15e2eb5bd820c2",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5772904,
+        "known_for_department": "Sound",
+        "name": "Marius Zeeb",
+        "original_name": "Marius Zeeb",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6aa9b09dff89a3de1395bc44",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5866537,
+        "known_for_department": "Sound",
+        "name": "Max Weise",
+        "original_name": "Max Weise",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6aa9b0cbb31880650cce07a2",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6217400,
+        "known_for_department": "Camera",
+        "name": "Nigel Freund",
+        "original_name": "Nigel Freund",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6aa9b0d919eb0fdb19577285",
+        "department": "Editing",
+        "job": "Color Grading"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6481103,
+        "known_for_department": "Crew",
+        "name": "Dominik Kriechbaumer",
+        "original_name": "Dominik Kriechbaumer",
+        "popularity": 0.0431,
+        "profile_path": null,
+        "credit_id": "6aa9b0fbe2b51107e657725c",
+        "department": "Crew",
+        "job": "Set Runner"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6481104,
+        "known_for_department": "Crew",
+        "name": "Moritz Drienko",
+        "original_name": "Moritz Drienko",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6aa9b1064a4d9a0ba10da75b",
+        "department": "Crew",
+        "job": "Set Runner"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6481105,
+        "known_for_department": "Crew",
+        "name": "Eva Matz",
+        "original_name": "Eva Matz",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6aa9b117fa266591520da768",
+        "department": "Crew",
+        "job": "Set Runner"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6481119,
+        "known_for_department": "Production",
+        "name": "Murad Atshan",
+        "original_name": "Murad Atshan",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6abe014ee08f8685b6e9acc9",
+        "department": "Production",
+        "job": "Co-Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 14626,
+        "name": "astronaut"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "",
+          "overview": "Nachdem Valentinas Vater Tom von einer Raummission zurückkommt, ist er nicht mehr wiederzuerkennen.  Sie versucht alles, um das alte Verhältnis zu ihm herzustellen.",
+          "runtime": 19,
+          "tagline": "Mein Papa ist Astronaut, manchmal muss er deswegen für eine Weile weg.",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "After Valentina’s father returns from a space mission, he is unrecognizable.  She tries everything to restore their old relationship.",
+          "runtime": 19,
+          "tagline": "",
+          "title": "The Astronaut"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "The Astronaut",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.68,
+        "height": 1871,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/uCGGNNsztOQvfRthJH72SGdNtPz.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1273
+      },
+      {
+        "aspect_ratio": 0.693,
+        "height": 1934,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/tKD167ZyZifIWtwyiVj1QXdVdSz.jpg",
+        "vote_average": 0.0,
+        "vote_count": 1,
+        "width": 1340
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "de",
+            "note": "",
+            "release_date": "2026-09-27T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

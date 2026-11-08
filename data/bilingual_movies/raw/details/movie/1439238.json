@@ -1,0 +1,688 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1439238,
+  "imdb_id": "tt35888480",
+  "origin_country": [
+    "NL"
+  ],
+  "original_language": "nl",
+  "original_title": "Dwaalspoor",
+  "overview": "Police officers Kim and Jeroen are dispatched to a report from an elderly couple. What should have been an ordinary shift spirals into a nightmare as the duo stumbles upon a discovery that forces them to confront their fears and beliefs.",
+  "popularity": 0.9996,
+  "poster_path": "/j1uBgbEWTq7VY0EeOL0HzbUFWVx.jpg",
+  "production_companies": [
+    {
+      "id": 254458,
+      "logo_path": null,
+      "name": "Think Free Films",
+      "origin_country": ""
+    },
+    {
+      "id": 218162,
+      "logo_path": null,
+      "name": "Bloodrave",
+      "origin_country": "NL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "release_date": "2025-11-18",
+  "revenue": 0,
+  "runtime": 14,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Astray",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2175940,
+        "known_for_department": "Acting",
+        "name": "Liza Macedo dos Santos",
+        "original_name": "Liza Macedo dos Santos",
+        "popularity": 0.5195,
+        "profile_path": "/lkB9iyBt84PwrtWwJi8opZWgRQ4.jpg",
+        "cast_id": 1,
+        "character": "Kim van Beveren",
+        "credit_id": "67bc8b482492f40370466d86",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5119013,
+        "known_for_department": "Acting",
+        "name": "Hidde de Visser",
+        "original_name": "Hidde de Visser",
+        "popularity": 0.1098,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Jeroen Koonings",
+        "credit_id": "67bc8b63ab8fd8a268bea9a7",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3866704,
+        "known_for_department": "Acting",
+        "name": "Yolanda van Gemert",
+        "original_name": "Yolanda van Gemert",
+        "popularity": 0.1051,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Clarissa van Zittaert",
+        "credit_id": "67bc8b7da4bf1c1928bf1325",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2867393,
+        "known_for_department": "Acting",
+        "name": "Hugo Alexander van Riet",
+        "original_name": "Hugo Alexander van Riet",
+        "popularity": 0.2261,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Bert van Zittaert",
+        "credit_id": "67bc8beba4bf1c1928bf136e",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5783982,
+        "known_for_department": "Acting",
+        "name": "Ammes Brandenburg",
+        "original_name": "Ammes Brandenburg",
+        "popularity": 0.4167,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "69034c35731f9382b4eab9df",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2910102,
+        "known_for_department": "Directing",
+        "name": "Nicholas Kaiden",
+        "original_name": "Nicholas Kaiden",
+        "popularity": 0.1037,
+        "profile_path": "/pHSI6uAHL7jKvg87y3Ccr28Da8F.jpg",
+        "credit_id": "67bc8c132492f40370466dc5",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5119013,
+        "known_for_department": "Acting",
+        "name": "Hidde de Visser",
+        "original_name": "Hidde de Visser",
+        "popularity": 0.1098,
+        "profile_path": null,
+        "credit_id": "67bc8c23038b75a09b0a6656",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4368661,
+        "known_for_department": "Camera",
+        "name": "Jurre Vos",
+        "original_name": "Jurre Vos",
+        "popularity": 0.0774,
+        "profile_path": "/4Xs2WuhkR4kewtjTF6P2urXWjbf.jpg",
+        "credit_id": "67bc8c50ab8fd8a268beaa51",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2020561,
+        "known_for_department": "Directing",
+        "name": "Tim Koomen",
+        "original_name": "Tim Koomen",
+        "popularity": 0.0431,
+        "profile_path": "/cgikjT3Fwn4zMKpZfuxnnVTLQMB.jpg",
+        "credit_id": "69034c706cb1c1a6526e8965",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5525650,
+        "known_for_department": "Writing",
+        "name": "Maud Coense",
+        "original_name": "Maud Coense",
+        "popularity": 0.0889,
+        "profile_path": null,
+        "credit_id": "69034c90d8c420300c9e0634",
+        "department": "Directing",
+        "job": "Continuity"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5336230,
+        "known_for_department": "Directing",
+        "name": "Djannah Dz",
+        "original_name": "Djannah Dz",
+        "popularity": 0.0763,
+        "profile_path": null,
+        "credit_id": "69034caa7daa51d5294eeb07",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5783986,
+        "known_for_department": "Production",
+        "name": "Lily Schalkwijk",
+        "original_name": "Lily Schalkwijk",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69034cc2ea77b0fe50eaba69",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5783987,
+        "known_for_department": "Production",
+        "name": "Jessy Kuzelj",
+        "original_name": "Jessy Kuzelj",
+        "popularity": 0.0379,
+        "profile_path": null,
+        "credit_id": "69034cd4935a8b47e634cca9",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3821362,
+        "known_for_department": "Acting",
+        "name": "Ruth Juursema",
+        "original_name": "Ruth Juursema",
+        "popularity": 0.2103,
+        "profile_path": "/xEBaywk0gJTc6IQCQe7tL4X79hD.jpg",
+        "credit_id": "69034ce4eb4f16f83c34ccce",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4645727,
+        "known_for_department": "Acting",
+        "name": "Francesca van Neuren",
+        "original_name": "Francesca van Neuren",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "69034cf656f7a7010ceaba40",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4478657,
+        "known_for_department": "Acting",
+        "name": "Buddy Boerkoel",
+        "original_name": "Buddy Boerkoel",
+        "popularity": 0.1325,
+        "profile_path": null,
+        "credit_id": "69034d03e9356019a6db7348",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5786080,
+        "known_for_department": "Production",
+        "name": "Jordi Peirats",
+        "original_name": "Jordi Peirats",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "690464a04dab8dd93ab8f83b",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5786082,
+        "known_for_department": "Production",
+        "name": "Dyno Fanoy",
+        "original_name": "Dyno Fanoy",
+        "popularity": 0.06,
+        "profile_path": null,
+        "credit_id": "690464b0c9e03067f746310e",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4477509,
+        "known_for_department": "Camera",
+        "name": "Michelle van der Plas",
+        "original_name": "Michelle van der Plas",
+        "popularity": 0.1533,
+        "profile_path": null,
+        "credit_id": "690464d1c9a0319556dd786a",
+        "department": "Camera",
+        "job": "Focus Puller"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4111385,
+        "known_for_department": "Lighting",
+        "name": "Stijn Nuvemann",
+        "original_name": "Stijn Nuvemann",
+        "popularity": 0.0744,
+        "profile_path": null,
+        "credit_id": "690464e2272237eafe4c79a2",
+        "department": "Crew",
+        "job": "Lighting Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2141701,
+        "known_for_department": "Lighting",
+        "name": "Jaron Joosten",
+        "original_name": "Jaron Joosten",
+        "popularity": 0.1141,
+        "profile_path": null,
+        "credit_id": "690464f271ddcd6db3dd777d",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2337835,
+        "known_for_department": "Lighting",
+        "name": "Lieneke Veen",
+        "original_name": "Lieneke Veen",
+        "popularity": 0.057,
+        "profile_path": null,
+        "credit_id": "690465006b9e5ac6bd4c7989",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5786090,
+        "known_for_department": "Camera",
+        "name": "Gideon Post",
+        "original_name": "Gideon Post",
+        "popularity": 0.2014,
+        "profile_path": null,
+        "credit_id": "6904651631e4358f4108089f",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4974652,
+        "known_for_department": "Camera",
+        "name": "Roan Poldermans",
+        "original_name": "Roan Poldermans",
+        "popularity": 0.0473,
+        "profile_path": null,
+        "credit_id": "69046525a59b14879f59754e",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3964842,
+        "known_for_department": "Lighting",
+        "name": "Christopher Mulder",
+        "original_name": "Christopher Mulder",
+        "popularity": 0.0699,
+        "profile_path": "/wEHAq00nBGnIupmLCPHNXaOiFij.jpg",
+        "credit_id": "6904653d4d4d7dc9aa597554",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5289753,
+        "known_for_department": "Lighting",
+        "name": "Tesla Bain",
+        "original_name": "Tesla Bain",
+        "popularity": 0.0545,
+        "profile_path": null,
+        "credit_id": "69046552678be7690aaa7327",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5786091,
+        "known_for_department": "Lighting",
+        "name": "Wessel Hartog",
+        "original_name": "Wessel Hartog",
+        "popularity": 0.051,
+        "profile_path": null,
+        "credit_id": "69046564c8fbe205e9463182",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5786115,
+        "known_for_department": "Art",
+        "name": "Priscilla Tervoert",
+        "original_name": "Priscilla Tervoert",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6904674008f8da6b684c7956",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5786117,
+        "known_for_department": "Production",
+        "name": "Natasha Campi",
+        "original_name": "Natasha Campi",
+        "popularity": 0.039,
+        "profile_path": null,
+        "credit_id": "69046758cdbd4da36daa7345",
+        "department": "Production",
+        "job": "Art Department Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5677029,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Marika Martino",
+        "original_name": "Marika Martino",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "6904678ce652daef7a4c7994",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5786119,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Tirza Emers",
+        "original_name": "Tirza Emers",
+        "popularity": 0.0425,
+        "profile_path": null,
+        "credit_id": "6904679cc9a0319556dd7880",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4161730,
+        "known_for_department": "Art",
+        "name": "Eva de Winter",
+        "original_name": "Eva de Winter",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "credit_id": "690467af974ad7a5e5080915",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2123839,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Robin van Dam",
+        "original_name": "Robin van Dam",
+        "popularity": 0.3874,
+        "profile_path": null,
+        "credit_id": "690467bff5c0a7b3f64630c3",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5651373,
+        "known_for_department": "Visual Effects",
+        "name": "May Therat",
+        "original_name": "May Therat",
+        "popularity": 0.0254,
+        "profile_path": "/iE5QR0M6JRqZ9o46peJddhGn3jJ.jpg",
+        "credit_id": "690467e0298307ba03aa735a",
+        "department": "Costume & Make-Up",
+        "job": "Wardrobe Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5677030,
+        "known_for_department": "Sound",
+        "name": "Sabin Badea",
+        "original_name": "Sabin Badea",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "690468ab2016221e4a2fdc9a",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3824427,
+        "known_for_department": "Editing",
+        "name": "Luke Linssen",
+        "original_name": "Luke Linssen",
+        "popularity": 0.1562,
+        "profile_path": null,
+        "credit_id": "690468f072dfbeea4ee120ab",
+        "department": "Editing",
+        "job": "Color Grading"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4372341,
+        "known_for_department": "Visual Effects",
+        "name": "Kilian van der Avoird",
+        "original_name": "Kilian van der Avoird",
+        "popularity": 0.0501,
+        "profile_path": "/lGB1TZ0dIhAlPWIfSyX1xdzDO3m.jpg",
+        "credit_id": "69046900e186fa1feaaa72d6",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3856933,
+        "known_for_department": "Directing",
+        "name": "Niek de Jongh",
+        "original_name": "Niek de Jongh",
+        "popularity": 0.0444,
+        "profile_path": null,
+        "credit_id": "690469334c98c7e154597559",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4146548,
+        "known_for_department": "Sound",
+        "name": "Gijsbert Ambachtsheer",
+        "original_name": "Gijsbert Ambachtsheer",
+        "popularity": 0.0934,
+        "profile_path": null,
+        "credit_id": "6904698d7351fd02b7597533",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1503557,
+        "known_for_department": "Directing",
+        "name": "David-Jan Bronsgeest",
+        "original_name": "David-Jan Bronsgeest",
+        "popularity": 0.3457,
+        "profile_path": null,
+        "credit_id": "6950e2931ae704f54d7c6df3",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 40931,
+        "name": "witchcraft"
+      },
+      {
+        "id": 163053,
+        "name": "found footage"
+      },
+      {
+        "id": 315058,
+        "name": "horror"
+      },
+      {
+        "id": 323114,
+        "name": "crime"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Police officers Kim and Jeroen are dispatched to a report from an elderly couple. What should have been an ordinary shift spirals into a nightmare as the duo stumbles upon a discovery that forces them to confront their fears and beliefs.",
+          "runtime": 14,
+          "tagline": "",
+          "title": "Astray"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Astray",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt35888480",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/j1uBgbEWTq7VY0EeOL0HzbUFWVx.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-11-18T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

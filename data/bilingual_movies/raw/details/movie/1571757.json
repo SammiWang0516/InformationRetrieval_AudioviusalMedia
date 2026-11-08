@@ -1,0 +1,531 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1571757,
+  "imdb_id": null,
+  "origin_country": [
+    "PL"
+  ],
+  "original_language": "pl",
+  "original_title": "Nieprzystosowanie",
+  "overview": "",
+  "popularity": 0.8726,
+  "poster_path": "/z7jgWUkpNYLgQDwlXoKOudBr7vS.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    }
+  ],
+  "release_date": "2025-10-24",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Nieprzystosowanie",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5342352,
+        "known_for_department": "Acting",
+        "name": "Maja Kalbarczyk",
+        "original_name": "Maja Kalbarczyk",
+        "popularity": 0.2502,
+        "profile_path": "/8metIcui9LtfZQLoUbcxuY6aIpZ.jpg",
+        "cast_id": 30,
+        "character": "Hania",
+        "credit_id": "6987413278e13fd08a5ca3d7",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4411615,
+        "known_for_department": "Acting",
+        "name": "Adam Walkiewicz",
+        "original_name": "Adam Walkiewicz",
+        "popularity": 0.1741,
+        "profile_path": "/rcXDDGoE8aXlWSgPUAVtPCwrKtH.jpg",
+        "cast_id": 26,
+        "character": "Andrzej",
+        "credit_id": "6903c31612d47407854eedd4",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5779576,
+        "known_for_department": "Acting",
+        "name": "Marcin Makara",
+        "original_name": "Marcin Makara",
+        "popularity": 0.0979,
+        "profile_path": "/44WMgrNslqIJU0IHQlHPcoIutV6.jpg",
+        "cast_id": 27,
+        "character": "Ojciec",
+        "credit_id": "6903c3216ffaa4604cfa9fd3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5785071,
+        "known_for_department": "Acting",
+        "name": "Maryla Ciepłucha",
+        "original_name": "Maryla Ciepłucha",
+        "popularity": 0.0431,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Matka",
+        "credit_id": "6903c3650dcf4adb79ec9e53",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5776906,
+        "known_for_department": "Acting",
+        "name": "Katarzyna Janek",
+        "original_name": "Katarzyna Janek",
+        "popularity": 0.0548,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Ciotka",
+        "credit_id": "69874182b9c6e050108c8a1b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5992664,
+        "known_for_department": "Acting",
+        "name": "Oliwia Owczarek",
+        "original_name": "Oliwia Owczarek",
+        "popularity": 0.1434,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "",
+        "credit_id": "698741a8913bd896b1f808ff",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5779575,
+        "known_for_department": "Acting",
+        "name": "Nadia Zakrzewska",
+        "original_name": "Nadia Zakrzewska",
+        "popularity": 0.3001,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Kuzynka Andrzeja",
+        "credit_id": "6903c341f26f6a7cc834ce43",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5703073,
+        "known_for_department": "Lighting",
+        "name": "Łukasz Wachowski",
+        "original_name": "Łukasz Wachowski",
+        "popularity": 0.045,
+        "profile_path": null,
+        "credit_id": "6903c096063e7c9ee8faa031",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5035414,
+        "known_for_department": "Directing",
+        "name": "Zofia Marcinkowska",
+        "original_name": "Zofia Marcinkowska",
+        "popularity": 0.045,
+        "profile_path": "/Aw2UuCfgvS2yFm5fMhyIbHvzslg.jpg",
+        "credit_id": "6903c0a7de7b68a5eddb7529",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5589185,
+        "known_for_department": "Production",
+        "name": "Weronika Hass",
+        "original_name": "Weronika Hass",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "6903c0b6eeb56cf22c34cf05",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5785023,
+        "known_for_department": "Writing",
+        "name": "Dagmara Borkowska",
+        "original_name": "Dagmara Borkowska",
+        "popularity": 0.182,
+        "profile_path": null,
+        "credit_id": "6903c0d9f26f6a7cc834ce27",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5785023,
+        "known_for_department": "Writing",
+        "name": "Dagmara Borkowska",
+        "original_name": "Dagmara Borkowska",
+        "popularity": 0.182,
+        "profile_path": null,
+        "credit_id": "6903c0f0d8b2d8740e196b1e",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4988583,
+        "known_for_department": "Writing",
+        "name": "Jakub Wedeł",
+        "original_name": "Jakub Wedeł",
+        "popularity": 0.0639,
+        "profile_path": null,
+        "credit_id": "6903c1046e8aa44e964eecb4",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4398478,
+        "known_for_department": "Camera",
+        "name": "Arkadiusz Koziorowski",
+        "original_name": "Arkadiusz Koziorowski",
+        "popularity": 0.1638,
+        "profile_path": null,
+        "credit_id": "6903c11cf8e9912be8ec9e67",
+        "department": "Lighting",
+        "job": "Assistant Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5589160,
+        "known_for_department": "Art",
+        "name": "Maya Szymankiewicz",
+        "original_name": "Maya Szymankiewicz",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6903c131d76793c4b06b3371",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5589175,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Laura Szpręga",
+        "original_name": "Laura Szpręga",
+        "popularity": 0.039,
+        "profile_path": null,
+        "credit_id": "6903c13e3ef24e085bec9e4d",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5589194,
+        "known_for_department": "Camera",
+        "name": "Paweł Cuper",
+        "original_name": "Paweł Cuper",
+        "popularity": 0.0882,
+        "profile_path": null,
+        "credit_id": "6903c1504e77c6e51134cf57",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4398476,
+        "known_for_department": "Camera",
+        "name": "Emilia Czajewska",
+        "original_name": "Emilia Czajewska",
+        "popularity": 0.1207,
+        "profile_path": null,
+        "credit_id": "6903c16f183841db70196bcf",
+        "department": "Camera",
+        "job": "Focus Puller"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5734354,
+        "known_for_department": "Editing",
+        "name": "Izabela Ziomek",
+        "original_name": "Izabela Ziomek",
+        "popularity": 0.0422,
+        "profile_path": null,
+        "credit_id": "6903c17a715364745973656c",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5035399,
+        "known_for_department": "Crew",
+        "name": "Julia Oćwieja",
+        "original_name": "Julia Oćwieja",
+        "popularity": 0.1363,
+        "profile_path": null,
+        "credit_id": "6903c1872aec8c0ddfb9b93f",
+        "department": "Camera",
+        "job": "BTS Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4800911,
+        "known_for_department": "Production",
+        "name": "Weronika Bławat",
+        "original_name": "Weronika Bławat",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6903c1a1f26f6a7cc834ce39",
+        "department": "Crew",
+        "job": "Set Runner"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4800925,
+        "known_for_department": "Sound",
+        "name": "Zuzanna Kołakowska",
+        "original_name": "Zuzanna Kołakowska",
+        "popularity": 0.0912,
+        "profile_path": null,
+        "credit_id": "6903c1bb4e77c6e51134cf66",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5589139,
+        "known_for_department": "Production",
+        "name": "Agnieszka Kowalczyk",
+        "original_name": "Agnieszka Kowalczyk",
+        "popularity": 0.0408,
+        "profile_path": null,
+        "credit_id": "6903c1cc17ba9137b9196ab0",
+        "department": "Crew",
+        "job": "Set Runner"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5775645,
+        "known_for_department": "Lighting",
+        "name": "Oliwia Domańska",
+        "original_name": "Oliwia Domańska",
+        "popularity": 0.0354,
+        "profile_path": null,
+        "credit_id": "6903c1f62aec8c0ddfb9b94d",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5775653,
+        "known_for_department": "Directing",
+        "name": "Martyna Bednarczyk",
+        "original_name": "Martyna Bednarczyk",
+        "popularity": 0.0779,
+        "profile_path": null,
+        "credit_id": "6903c20bdcb9fe9168196a7c",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5785046,
+        "known_for_department": "Production",
+        "name": "Amelia Skuras",
+        "original_name": "Amelia Skuras",
+        "popularity": 0.0613,
+        "profile_path": null,
+        "credit_id": "6903c22a43442168e5196ba6",
+        "department": "Crew",
+        "job": "Script"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4274237,
+        "known_for_department": "Directing",
+        "name": "Yurii Boiko",
+        "original_name": "Yurii Boiko",
+        "popularity": 0.0394,
+        "profile_path": "/l5SzlQhJkOlZspmhxdppHmR6zMQ.jpg",
+        "credit_id": "6903c244688b79c353b9b8bd",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5785052,
+        "known_for_department": "Production",
+        "name": "Hanna Florkowska",
+        "original_name": "Hanna Florkowska",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "credit_id": "6903c2642ad6feac32b9b907",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5461800,
+        "known_for_department": "Production",
+        "name": "Hanna Wowerka",
+        "original_name": "Hanna Wowerka",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6903c2ae2b5b876bbcfaa01c",
+        "department": "Lighting",
+        "job": "Assistant Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5589221,
+        "known_for_department": "Crew",
+        "name": "Karolina Barzowska",
+        "original_name": "Karolina Barzowska",
+        "popularity": 0.0462,
+        "profile_path": null,
+        "credit_id": "6903c2bf0dcf4adb79ec9e42",
+        "department": "Crew",
+        "job": "Script"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5035409,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Barbara Żurowicz",
+        "original_name": "Barbara Żurowicz",
+        "popularity": 0.0865,
+        "profile_path": null,
+        "credit_id": "6903c2d5917bcc8518ec9ee8",
+        "department": "Lighting",
+        "job": "Assistant Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5992668,
+        "known_for_department": "Production",
+        "name": "Magdalena Budźko",
+        "original_name": "Magdalena Budźko",
+        "popularity": 0.0525,
+        "profile_path": null,
+        "credit_id": "69874237d8c893b7628c8a6f",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "PL",
+        "iso_639_1": "pl",
+        "name": "Polski",
+        "english_name": "Polish",
+        "data": {
+          "homepage": "",
+          "overview": "Hania przygotowuje się do poznania rodziców swojego chłopaka Andrzeja. Wszystko wydaje się być idealnie zaplanowane, do momentu, kiedy Andrzej znika z domu rodzinnego, pozostawiając Hanię samą na polu bitwy. Kolacja zapoznawcza przemienia się w wycieńczająca, groteskową walkę o przetrwanie.",
+          "runtime": 19,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "PL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "pl",
+            "note": "",
+            "release_date": "2025-10-24T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

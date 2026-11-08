@@ -1,0 +1,603 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1740871,
+  "imdb_id": "tt38650528",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Falliti",
+  "overview": "",
+  "popularity": 0.7931,
+  "poster_path": "/d69EjCzQdFIKR2Mbj6IMitBEBS3.jpg",
+  "production_companies": [
+    {
+      "id": 91946,
+      "logo_path": "/1uFfeKaa08sIxqM4Wq9DyhnsARL.png",
+      "name": "Kimerafilm",
+      "origin_country": "IT"
+    },
+    {
+      "id": 211877,
+      "logo_path": null,
+      "name": "Scuola D'Arte Cinematografica Gian Maria Volonté",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2025-09-23",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Falliti",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5016974,
+        "known_for_department": "Acting",
+        "name": "Sofia Conti",
+        "original_name": "Sofia Conti",
+        "popularity": 0.117,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "Greta",
+        "credit_id": "6a6c4b104b66fe5451aa24f4",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6380979,
+        "known_for_department": "Acting",
+        "name": "Giulia D'Italia",
+        "original_name": "Giulia D'Italia",
+        "popularity": 0.1817,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Anna",
+        "credit_id": "6a6c4b1cdb07d6ad8922ba26",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6380981,
+        "known_for_department": "Acting",
+        "name": "Alice D'Orsogna",
+        "original_name": "Alice D'Orsogna",
+        "popularity": 0.1786,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "Ragazza motorino",
+        "credit_id": "6a6c4b2a6f81abfc1b77169d",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6119794,
+        "known_for_department": "Acting",
+        "name": "Davide Donin",
+        "original_name": "Davide Donin",
+        "popularity": 0.0977,
+        "profile_path": "/6J4pLXD5EpUpPoOjhUojnqI2UVg.jpg",
+        "cast_id": 32,
+        "character": "Alan",
+        "credit_id": "6a6c4b32291adce9bd6312ad",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5899520,
+        "known_for_department": "Acting",
+        "name": "Tommaso Linzalone",
+        "original_name": "Tommaso Linzalone",
+        "popularity": 0.1356,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "Federico",
+        "credit_id": "6a6c4b3cde6a7cabb8d5d3c6",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5002335,
+        "known_for_department": "Acting",
+        "name": "Alessandro Mauthe",
+        "original_name": "Alessandro Mauthe",
+        "popularity": 0.1134,
+        "profile_path": null,
+        "cast_id": 34,
+        "character": "Ragazzo motorino",
+        "credit_id": "6a6c4b4a8111654d31771546",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3927925,
+        "known_for_department": "Directing",
+        "name": "Pietro Macaione",
+        "original_name": "Pietro Macaione",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6a6c496670743838dd65e537",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3927925,
+        "known_for_department": "Directing",
+        "name": "Pietro Macaione",
+        "original_name": "Pietro Macaione",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6a6c496b41c40e29f165e525",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6322184,
+        "known_for_department": "Writing",
+        "name": "Aurelio Vatteroni",
+        "original_name": "Aurelio Vatteroni",
+        "popularity": 0.1913,
+        "profile_path": null,
+        "credit_id": "6a6c49760cc9d3b4911ff792",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2371140,
+        "known_for_department": "Directing",
+        "name": "Simone Isola",
+        "original_name": "Simone Isola",
+        "popularity": 0.2488,
+        "profile_path": null,
+        "credit_id": "6a6c498421322e9d18771674",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4916537,
+        "known_for_department": "Production",
+        "name": "Vittoria Bertoldi",
+        "original_name": "Vittoria Bertoldi",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "6a6c498f510fcd23c76312b9",
+        "department": "Production",
+        "job": "Coordinating Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1632059,
+        "known_for_department": "Acting",
+        "name": "Beatrice Pasta",
+        "original_name": "Beatrice Pasta",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a6c49978aa67aefab22bb27",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6380971,
+        "known_for_department": "Crew",
+        "name": "Flavio Le Fosse",
+        "original_name": "Flavio Le Fosse",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "6a6c49a6cb0c2401296b4e0f",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6310139,
+        "known_for_department": "Camera",
+        "name": "Ilaria Mauri",
+        "original_name": "Ilaria Mauri",
+        "popularity": 0.0526,
+        "profile_path": null,
+        "credit_id": "6a6c49ae73e908c51965e2dc",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6380972,
+        "known_for_department": "Editing",
+        "name": "Luca Benassi",
+        "original_name": "Luca Benassi",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "6a6c49bf9997a19dcaaa23a4",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6380974,
+        "known_for_department": "Production",
+        "name": "Giuliano De Vecchi",
+        "original_name": "Giuliano De Vecchi",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a6c49e49aba5b8e327717ab",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6310150,
+        "known_for_department": "Art",
+        "name": "Nicolò Marziantonio",
+        "original_name": "Nicolò Marziantonio",
+        "popularity": 0.0704,
+        "profile_path": null,
+        "credit_id": "6a6c49f09aba5b8e327717ae",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6085437,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Virginia Giminiani",
+        "original_name": "Virginia Giminiani",
+        "popularity": 0.059,
+        "profile_path": null,
+        "credit_id": "6a6c49f8f6a67904714dfeea",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4213821,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Francesca Iacoponi",
+        "original_name": "Francesca Iacoponi",
+        "popularity": 0.0376,
+        "profile_path": null,
+        "credit_id": "6a6c4a06614d1d2b4e6b4ad7",
+        "department": "Costume & Make-Up",
+        "job": "Hair Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3262069,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Fosca Giulia Tempera",
+        "original_name": "Fosca Giulia Tempera",
+        "popularity": 0.0606,
+        "profile_path": null,
+        "credit_id": "6a6c4a0f6f1bf123136312f9",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6380975,
+        "known_for_department": "Directing",
+        "name": "Fabrizio Giovanardi",
+        "original_name": "Fabrizio Giovanardi",
+        "popularity": 0.0279,
+        "profile_path": null,
+        "credit_id": "6a6c4a1fe3baee02641ff7d6",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6380977,
+        "known_for_department": "Sound",
+        "name": "Samuel Mingarelli",
+        "original_name": "Samuel Mingarelli",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "6a6c4a64614d1d2b4e6b4ae2",
+        "department": "Sound",
+        "job": "Sound Effects Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5853696,
+        "known_for_department": "Sound",
+        "name": "Luca Panettieri",
+        "original_name": "Luca Panettieri",
+        "popularity": 0.1118,
+        "profile_path": null,
+        "credit_id": "6a6c4a6edc8e560f6165e384",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4936283,
+        "known_for_department": "Sound",
+        "name": "Giovanni Silenti",
+        "original_name": "Giovanni Silenti",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a6c4a77a740e223256312dc",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1396723,
+        "known_for_department": "Sound",
+        "name": "Federico Tummolo",
+        "original_name": "Federico Tummolo",
+        "popularity": 0.1362,
+        "profile_path": null,
+        "credit_id": "6a6c4a8eb0247ae358aa2387",
+        "department": "Sound",
+        "job": "Recording Supervision"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6322208,
+        "known_for_department": "Visual Effects",
+        "name": "Kyle Di Maio",
+        "original_name": "Kyle Di Maio",
+        "popularity": 0.1269,
+        "profile_path": null,
+        "credit_id": "6a6c4a9f77b820e7ca1ff936",
+        "department": "Visual Effects",
+        "job": "Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2635743,
+        "known_for_department": "Camera",
+        "name": "Sandra Bidoli",
+        "original_name": "Sandra Bidoli",
+        "popularity": 0.081,
+        "profile_path": null,
+        "credit_id": "6a6c4aaab3c4d3df651ff887",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3082309,
+        "known_for_department": "Camera",
+        "name": "Filippo Mariano",
+        "original_name": "Filippo Mariano",
+        "popularity": 0.5134,
+        "profile_path": null,
+        "credit_id": "6a6c4ab419b6632bf54e0016",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5739935,
+        "known_for_department": "Camera",
+        "name": "Alessandro Massaroni",
+        "original_name": "Alessandro Massaroni",
+        "popularity": 0.0372,
+        "profile_path": null,
+        "credit_id": "6a6c4ac470743838dd65e545",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5739936,
+        "known_for_department": "Camera",
+        "name": "Carlo Salsilli",
+        "original_name": "Carlo Salsilli",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "6a6c4acea8b2bb266263143b",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4460724,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Beatrice Anastasi",
+        "original_name": "Beatrice Anastasi",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "6a6c4ad9ea52e9ed1f6b4d4f",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5281179,
+        "known_for_department": "Editing",
+        "name": "Gloria D'Ascanio",
+        "original_name": "Gloria D'Ascanio",
+        "popularity": 0.0488,
+        "profile_path": null,
+        "credit_id": "6a6c4ae392226baa9e22bb13",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5281179,
+        "known_for_department": "Editing",
+        "name": "Gloria D'Ascanio",
+        "original_name": "Gloria D'Ascanio",
+        "popularity": 0.0488,
+        "profile_path": null,
+        "credit_id": "6a6c4aeeb3c4d3df651ff88b",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1927894,
+        "known_for_department": "Editing",
+        "name": "Ivan Tozzi",
+        "original_name": "Ivan Tozzi",
+        "popularity": 0.1275,
+        "profile_path": null,
+        "credit_id": "6a6c4afbb4b81461961ffcf5",
+        "department": "Editing",
+        "job": "Colorist"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 9957,
+        "name": "loneliness"
+      },
+      {
+        "id": 263548,
+        "name": "short film"
+      },
+      {
+        "id": 362633,
+        "name": "court métrage"
+      },
+      {
+        "id": 367172,
+        "name": "short movie"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "Quelques nuits avant une importante audition, l'acteur en herbe Federico est contraint d'accueillir sa sœur Anna, venue spécialement de Gênes pour lui raconter quelque chose d'important. Mais il n'y a pas de place pour la communication, surtout quand Alan, le colocataire de Federico, force tout le monde à se lancer dans une aventure nocturne romantique pour arrêter la jeune fille qui s'apprête à partir... Au milieu des poursuites, des évasions et des querelles, les deux frères seront confrontés à leurs propres frustrations et insuffisances. Mais au moins, ils ne seront plus seuls.",
+          "runtime": 15,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt38650528",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "fr",
+            "note": "France3",
+            "release_date": "2026-06-30T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "it",
+            "note": "Castiglione del Cinema",
+            "release_date": "2025-09-23T00:00:00.000Z",
+            "type": 2
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

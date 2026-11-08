@@ -1,0 +1,403 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 28000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1682319,
+  "imdb_id": "tt42054145",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Sohnemann",
+  "overview": "An incompetent grifter tries to rob an elderly woman with dementia, but an unexpected mother-son relationship develops.",
+  "popularity": 0.5458,
+  "poster_path": "/mv3ow7rvBBpadCrl8RmlHWk0kGG.jpg",
+  "production_companies": [
+    {
+      "id": 296,
+      "logo_path": "/oPCnyumoJtIedjQoQin6zSSHkv8.png",
+      "name": "Filmakademie Baden-Württemberg",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2026-10-22",
+  "revenue": 0,
+  "runtime": 19,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Here Comes the Son",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3416754,
+        "known_for_department": "Acting",
+        "name": "Gregor Knop",
+        "original_name": "Gregor Knop",
+        "popularity": 0.1328,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Marco",
+        "credit_id": "69ee0c48ab25fda2266b1ea1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4783968,
+        "known_for_department": "Acting",
+        "name": "Michaela Behal",
+        "original_name": "Michaela Behal",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Edna",
+        "credit_id": "69ee0c5509d9b6a36bb4f137",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6169159,
+        "known_for_department": "Acting",
+        "name": "Anna-Carolina Stuckart",
+        "original_name": "Anna-Carolina Stuckart",
+        "popularity": 0.2729,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Ulrike",
+        "credit_id": "69ee0c69afbf1b3c870291a3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2682286,
+        "known_for_department": "Writing",
+        "name": "Jona Schloßer",
+        "original_name": "Jona Schloßer",
+        "popularity": 0.0793,
+        "profile_path": "/dG7zabG0nSS3xarYdho218nZC7S.jpg",
+        "cast_id": 4,
+        "character": "Pflegekraft",
+        "credit_id": "69ee0c76afbf1b3c870291a8",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5352627,
+        "known_for_department": "Acting",
+        "name": "Anton Egbers",
+        "original_name": "Anton Egbers",
+        "popularity": 0.1553,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Konrad",
+        "credit_id": "69ee0c82dbbc3b362ab4f0a0",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4345683,
+        "known_for_department": "Directing",
+        "name": "Leander Behal",
+        "original_name": "Leander Behal",
+        "popularity": 0.075,
+        "profile_path": "/9JNrmiJfJsIYxfSsDQh47CnJq7b.jpg",
+        "credit_id": "69ee0c95a1813eb63c15109c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4502889,
+        "known_for_department": "Writing",
+        "name": "Jan Lamprecht",
+        "original_name": "Jan Lamprecht",
+        "popularity": 0.1046,
+        "profile_path": null,
+        "credit_id": "69ee0c9f49d38c9361d48fc1",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4007018,
+        "known_for_department": "Lighting",
+        "name": "Leon Golz",
+        "original_name": "Leon Golz",
+        "popularity": 0.1776,
+        "profile_path": null,
+        "credit_id": "69ee0cc8914645f04a150fb0",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3391718,
+        "known_for_department": "Lighting",
+        "name": "Philipp Rode",
+        "original_name": "Philipp Rode",
+        "popularity": 0.403,
+        "profile_path": null,
+        "credit_id": "69ee0cda3f4ee4585617d667",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3673079,
+        "known_for_department": "Production",
+        "name": "Nicola Herrmann",
+        "original_name": "Nicola Herrmann",
+        "popularity": 0.0793,
+        "profile_path": null,
+        "credit_id": "69ee0cec476ac3cd16dc8540",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5593872,
+        "known_for_department": "Production",
+        "name": "Kai Kraus",
+        "original_name": "Kai Kraus",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "69ee0cf84fb9de29b928dc14",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5698881,
+        "known_for_department": "Production",
+        "name": "Lukas Richter",
+        "original_name": "Lukas Richter",
+        "popularity": 0.0657,
+        "profile_path": null,
+        "credit_id": "69ee0d0b3f4ee4585617d66a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6169172,
+        "known_for_department": "Production",
+        "name": "Sylvia Englberger",
+        "original_name": "Sylvia Englberger",
+        "popularity": 0.0643,
+        "profile_path": null,
+        "credit_id": "69ee0d2541d08e492f6b1d55",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4345683,
+        "known_for_department": "Directing",
+        "name": "Leander Behal",
+        "original_name": "Leander Behal",
+        "popularity": 0.075,
+        "profile_path": "/9JNrmiJfJsIYxfSsDQh47CnJq7b.jpg",
+        "credit_id": "69ee0d6758ebaacdf428ded9",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4502889,
+        "known_for_department": "Writing",
+        "name": "Jan Lamprecht",
+        "original_name": "Jan Lamprecht",
+        "popularity": 0.1046,
+        "profile_path": null,
+        "credit_id": "69ee0d775f057e4e78d492d6",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6169176,
+        "known_for_department": "Art",
+        "name": "Nina Heinrich",
+        "original_name": "Nina Heinrich",
+        "popularity": 0.0937,
+        "profile_path": null,
+        "credit_id": "69ee0d91389879991a0295c6",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4007005,
+        "known_for_department": "Editing",
+        "name": "Sarah Hofmann",
+        "original_name": "Sarah Hofmann",
+        "popularity": 0.0925,
+        "profile_path": null,
+        "credit_id": "69ee0da369347e95dd6b1e2e",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4974080,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Maxine Kränzler",
+        "original_name": "Maxine Kränzler",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "69ee0dbabf2b03e7adb4efba",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5510047,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Lucia Marie Schütz",
+        "original_name": "Lucia Marie Schütz",
+        "popularity": 0.1588,
+        "profile_path": null,
+        "credit_id": "69ee0de6d51f75eca893679a",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6169186,
+        "known_for_department": "Sound",
+        "name": "Christos Drouzas",
+        "original_name": "Christos Drouzas",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "69ee0e1dbdcf0e39de150d87",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3602786,
+        "known_for_department": "Sound",
+        "name": "Antonin Senge",
+        "original_name": "Antonin Senge",
+        "popularity": 0.0924,
+        "profile_path": null,
+        "credit_id": "69ee0e34bd990e84d6b4f221",
+        "department": "Sound",
+        "job": "Sound Designer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "An incompetent grifter tries to rob an elderly woman with dementia, but an unexpected mother-son relationship develops.",
+          "runtime": 19,
+          "tagline": "",
+          "title": "Here Comes the Son"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt42054145",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.706,
+        "height": 1400,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/mv3ow7rvBBpadCrl8RmlHWk0kGG.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 989
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "DE",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Hof International Film Festival",
+            "release_date": "2026-10-22T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

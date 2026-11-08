@@ -1,0 +1,796 @@
+{
+  "adult": false,
+  "backdrop_path": "/kJqZKV7am9s17AnOJudFdNvuzVL.jpg",
+  "belongs_to_collection": null,
+  "budget": 1000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1638148,
+  "imdb_id": "tt41666523",
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_title": "Noite Azul",
+  "overview": "On Christmas Eve, Alexandre, a lonely young man burdened by his own emotional defenses, invites Guilherme—a male escort who has just been kicked out of his home—to stay at his house. As the hours pass, the ordinary night transforms into a deep dive into the vulnerabilities, fears, and desires of both, showcasing the hesitant and contradictory construction of an inescapable connection that remains uncertain: whether it is love, friendship, or simply the recognition of two mirrored lonely souls.",
+  "popularity": 2.3788,
+  "poster_path": "/ama20OUc7TjQFST4t8l3eFbQZN2.jpg",
+  "production_companies": [
+    {
+      "id": 222845,
+      "logo_path": "/5VTPLrO13kNxnOyiW4BiCjnyhhq.png",
+      "name": "Anemoia Filmes",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2026-02-26",
+  "revenue": 0,
+  "runtime": 91,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A sentimentally melodramatic anti-romance.",
+  "title": "Blue Night",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3619339,
+        "known_for_department": "Acting",
+        "name": "Arthur Machado",
+        "original_name": "Arthur Oliveira",
+        "popularity": 0.0595,
+        "profile_path": "/crf3D6Gq5yfwDIMiNSbgwfZPxHh.jpg",
+        "cast_id": 1,
+        "character": "Alexandre",
+        "credit_id": "6996a80a6fe03d49bc3c9000",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4500304,
+        "known_for_department": "Writing",
+        "name": "Lucas León",
+        "original_name": "Lucas Leonam",
+        "popularity": 0.2128,
+        "profile_path": "/f8tgkScZS9peCaMK3PDS2jqcPrL.jpg",
+        "cast_id": 2,
+        "character": "Guilherme",
+        "credit_id": "6996a817d9d38d18dcc85380",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6017556,
+        "known_for_department": "Acting",
+        "name": "Telma Tapajós",
+        "original_name": "Telma Tapajós",
+        "popularity": 0.2314,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Mãe de Guilherme",
+        "credit_id": "6996a82a1e836ba8eec853ee",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6017557,
+        "known_for_department": "Acting",
+        "name": "Camila Assis",
+        "original_name": "Camila Assis",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Mãe de Alexandre",
+        "credit_id": "6996a8360da21052713df2e7",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3619337,
+        "known_for_department": "Directing",
+        "name": "Kalel Pessôa",
+        "original_name": "Kalel Pessôa",
+        "popularity": 0.2329,
+        "profile_path": null,
+        "credit_id": "6996a846a58c50b0194a9475",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3619337,
+        "known_for_department": "Directing",
+        "name": "Kalel Pessôa",
+        "original_name": "Kalel Pessôa",
+        "popularity": 0.2329,
+        "profile_path": null,
+        "credit_id": "6996a84d863a981b3c3df31d",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3619337,
+        "known_for_department": "Directing",
+        "name": "Kalel Pessôa",
+        "original_name": "Kalel Pessôa",
+        "popularity": 0.2329,
+        "profile_path": null,
+        "credit_id": "6996a856416c09288a3df38a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3619337,
+        "known_for_department": "Directing",
+        "name": "Kalel Pessôa",
+        "original_name": "Kalel Pessôa",
+        "popularity": 0.2329,
+        "profile_path": null,
+        "credit_id": "6996a85e9aabbbca2584ff47",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3619337,
+        "known_for_department": "Directing",
+        "name": "Kalel Pessôa",
+        "original_name": "Kalel Pessôa",
+        "popularity": 0.2329,
+        "profile_path": null,
+        "credit_id": "6996a874308541e7344a9490",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3619337,
+        "known_for_department": "Directing",
+        "name": "Kalel Pessôa",
+        "original_name": "Kalel Pessôa",
+        "popularity": 0.2329,
+        "profile_path": null,
+        "credit_id": "6996a87f38dc42c0c13c8fbc",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3619337,
+        "known_for_department": "Directing",
+        "name": "Kalel Pessôa",
+        "original_name": "Kalel Pessôa",
+        "popularity": 0.2329,
+        "profile_path": null,
+        "credit_id": "6996a88d9ba04913d33c8f8d",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3619337,
+        "known_for_department": "Directing",
+        "name": "Kalel Pessôa",
+        "original_name": "Kalel Pessôa",
+        "popularity": 0.2329,
+        "profile_path": null,
+        "credit_id": "6996a895eb06744e38c8541c",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4500304,
+        "known_for_department": "Writing",
+        "name": "Lucas León",
+        "original_name": "Lucas Leonam",
+        "popularity": 0.2128,
+        "profile_path": "/f8tgkScZS9peCaMK3PDS2jqcPrL.jpg",
+        "credit_id": "6996a8a1bbd9363eec4a94ea",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5084713,
+        "known_for_department": "Directing",
+        "name": "Roger Roberto",
+        "original_name": "Roger Roberto",
+        "popularity": 0.1175,
+        "profile_path": null,
+        "credit_id": "6996a8c418e82e4f816f64bd",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4857644,
+        "known_for_department": "Art",
+        "name": "Cecília dos Anjos",
+        "original_name": "Cecília dos Anjos",
+        "popularity": 0.2752,
+        "profile_path": "/8HD0eaT0xgztt2u5aOc8fgpB1WB.jpg",
+        "credit_id": "6996a8cf0da21052713df2ef",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4281029,
+        "known_for_department": "Camera",
+        "name": "Pedro Iam Moraes",
+        "original_name": "Pedro Iam Moraes",
+        "popularity": 0.8436,
+        "profile_path": "/yI8Kypa6PzeY5EP4QJOzFPAeW8b.jpg",
+        "credit_id": "6996a8e1a58c50b0194a947c",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5084577,
+        "known_for_department": "Directing",
+        "name": "Tainá Lobato",
+        "original_name": "Tainá Lobato",
+        "popularity": 0.118,
+        "profile_path": "/wKfXI18FbE5yAv0CEblPZ1gtYcK.jpg",
+        "credit_id": "6996a910308541e7344a949f",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5088729,
+        "known_for_department": "Directing",
+        "name": "Victor Hugo Castro",
+        "original_name": "Victor Hugo Castro",
+        "popularity": 0.5636,
+        "profile_path": "/kQBkyKo1UeuTUSfOH5UAcwlj2qz.jpg",
+        "credit_id": "6996a924b43d84eb821b07ee",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 223230,
+        "known_for_department": "Writing",
+        "name": "Fyodor Dostoevsky",
+        "original_name": "Фёдор Достоевский",
+        "popularity": 1.0449,
+        "profile_path": "/hMm3y5n60KNvLB5F14oCfo8imSK.jpg",
+        "credit_id": "6996a93673b9ada6724a9442",
+        "department": "Writing",
+        "job": "Original Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4857632,
+        "known_for_department": "Production",
+        "name": "Raphael Mendes",
+        "original_name": "Raphael Mendes",
+        "popularity": 0.1557,
+        "profile_path": "/5eQwgXyECB7ZAnboJ0xuuH9FSJt.jpg",
+        "credit_id": "6996a9ad308541e7344a94af",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4857644,
+        "known_for_department": "Art",
+        "name": "Cecília dos Anjos",
+        "original_name": "Cecília dos Anjos",
+        "popularity": 0.2752,
+        "profile_path": "/8HD0eaT0xgztt2u5aOc8fgpB1WB.jpg",
+        "credit_id": "6996a9bdb6e99bc9acc85418",
+        "department": "Crew",
+        "job": "Catering"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5088761,
+        "known_for_department": "Production",
+        "name": "Kevin Liam",
+        "original_name": "Kevin Liam",
+        "popularity": 0.4763,
+        "profile_path": "/dBzkAH9Xbh48DiMRFsbVD49uH3y.jpg",
+        "credit_id": "6996a9dc38dc42c0c13c8fc3",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5084577,
+        "known_for_department": "Directing",
+        "name": "Tainá Lobato",
+        "original_name": "Tainá Lobato",
+        "popularity": 0.118,
+        "profile_path": "/wKfXI18FbE5yAv0CEblPZ1gtYcK.jpg",
+        "credit_id": "6996a9e34d8da673d76f64e0",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5995256,
+        "known_for_department": "Production",
+        "name": "Davy Araújo",
+        "original_name": "Davy Araújo",
+        "popularity": 0.1295,
+        "profile_path": null,
+        "credit_id": "6996a9f838dc42c0c13c8fc6",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4281029,
+        "known_for_department": "Camera",
+        "name": "Pedro Iam Moraes",
+        "original_name": "Pedro Iam Moraes",
+        "popularity": 0.8436,
+        "profile_path": "/yI8Kypa6PzeY5EP4QJOzFPAeW8b.jpg",
+        "credit_id": "6996aa04c837c6dbbb3c90a7",
+        "department": "Crew",
+        "job": "Driver"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6017560,
+        "known_for_department": "Camera",
+        "name": "Pedro Yan Rodrigues",
+        "original_name": "Pedro Yan Rodrigues",
+        "popularity": 0.098,
+        "profile_path": null,
+        "credit_id": "6996aa22d6aee734773c8f7c",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5084577,
+        "known_for_department": "Directing",
+        "name": "Tainá Lobato",
+        "original_name": "Tainá Lobato",
+        "popularity": 0.118,
+        "profile_path": "/wKfXI18FbE5yAv0CEblPZ1gtYcK.jpg",
+        "credit_id": "6996aa4456ca1284fcc853ab",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5088729,
+        "known_for_department": "Directing",
+        "name": "Victor Hugo Castro",
+        "original_name": "Victor Hugo Castro",
+        "popularity": 0.5636,
+        "profile_path": "/kQBkyKo1UeuTUSfOH5UAcwlj2qz.jpg",
+        "credit_id": "6996aa5704d9864d18863723",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3619337,
+        "known_for_department": "Directing",
+        "name": "Kalel Pessôa",
+        "original_name": "Kalel Pessôa",
+        "popularity": 0.2329,
+        "profile_path": null,
+        "credit_id": "6996aa60fb7789276c6f64ba",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6017560,
+        "known_for_department": "Camera",
+        "name": "Pedro Yan Rodrigues",
+        "original_name": "Pedro Yan Rodrigues",
+        "popularity": 0.098,
+        "profile_path": null,
+        "credit_id": "6996aa6bd6aee734773c8f80",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5084577,
+        "known_for_department": "Directing",
+        "name": "Tainá Lobato",
+        "original_name": "Tainá Lobato",
+        "popularity": 0.118,
+        "profile_path": "/wKfXI18FbE5yAv0CEblPZ1gtYcK.jpg",
+        "credit_id": "6996aa75a1f934a02c1b09f5",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5084632,
+        "known_for_department": "Art",
+        "name": "Levi Barra",
+        "original_name": "Levi Barra",
+        "popularity": 0.0849,
+        "profile_path": null,
+        "credit_id": "6996aa82918f9da4ef287249",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3619337,
+        "known_for_department": "Directing",
+        "name": "Kalel Pessôa",
+        "original_name": "Kalel Pessôa",
+        "popularity": 0.2329,
+        "profile_path": null,
+        "credit_id": "6996aaa10abcf1755d3df216",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3619337,
+        "known_for_department": "Directing",
+        "name": "Kalel Pessôa",
+        "original_name": "Kalel Pessôa",
+        "popularity": 0.2329,
+        "profile_path": null,
+        "credit_id": "6996aacb233cc35521c85337",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5415385,
+        "known_for_department": "Acting",
+        "name": "Rosângela Pessôa",
+        "original_name": "Rosângela Pessôa",
+        "popularity": 0.1135,
+        "profile_path": null,
+        "credit_id": "6996aae2918f9da4ef287250",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5084724,
+        "known_for_department": "Sound",
+        "name": "Luiza Jordan",
+        "original_name": "Luiza Jordan",
+        "popularity": 0.0787,
+        "profile_path": null,
+        "credit_id": "6996aafd01a5cd7d4d1b06b2",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6017560,
+        "known_for_department": "Camera",
+        "name": "Pedro Yan Rodrigues",
+        "original_name": "Pedro Yan Rodrigues",
+        "popularity": 0.098,
+        "profile_path": null,
+        "credit_id": "6996ab2856ca1284fcc853b5",
+        "department": "Sound",
+        "job": "Sound Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4578516,
+        "known_for_department": "Directing",
+        "name": "Lucas Parijós",
+        "original_name": "Lucas Chefe",
+        "popularity": 0.1677,
+        "profile_path": "/7eEKka1Gmrr0Wc9C0lasyIcvy9m.jpg",
+        "credit_id": "6996ab3958eabfd84e2893a3",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3619337,
+        "known_for_department": "Directing",
+        "name": "Kalel Pessôa",
+        "original_name": "Kalel Pessôa",
+        "popularity": 0.2329,
+        "profile_path": null,
+        "credit_id": "699f5590f3f52338d4f201d6",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 814,
+        "name": "talking"
+      },
+      {
+        "id": 493,
+        "name": "poem"
+      },
+      {
+        "id": 2800,
+        "name": "psychology"
+      },
+      {
+        "id": 4232,
+        "name": "melancholy"
+      },
+      {
+        "id": 9840,
+        "name": "romance"
+      },
+      {
+        "id": 15073,
+        "name": "blue"
+      },
+      {
+        "id": 18396,
+        "name": "catholic"
+      },
+      {
+        "id": 173990,
+        "name": "dostoevsky"
+      },
+      {
+        "id": 175949,
+        "name": "catholic guilt"
+      },
+      {
+        "id": 192831,
+        "name": "human behavior"
+      },
+      {
+        "id": 228988,
+        "name": "slow cinema"
+      },
+      {
+        "id": 230479,
+        "name": "lies"
+      },
+      {
+        "id": 230564,
+        "name": "spoken word poem"
+      },
+      {
+        "id": 240305,
+        "name": "gay romance"
+      },
+      {
+        "id": 257073,
+        "name": "meandering"
+      },
+      {
+        "id": 260365,
+        "name": "christmas eve"
+      },
+      {
+        "id": 262497,
+        "name": "repressed gay"
+      },
+      {
+        "id": 265777,
+        "name": "gay relationship"
+      },
+      {
+        "id": 268054,
+        "name": "night"
+      },
+      {
+        "id": 271599,
+        "name": "anti-romance"
+      },
+      {
+        "id": 277551,
+        "name": "slow burn"
+      },
+      {
+        "id": 281237,
+        "name": "independent film"
+      },
+      {
+        "id": 300642,
+        "name": "queer cinema"
+      },
+      {
+        "id": 305732,
+        "name": "sentimentality"
+      },
+      {
+        "id": 309029,
+        "name": "psychological drama"
+      },
+      {
+        "id": 319319,
+        "name": "sentimental"
+      },
+      {
+        "id": 324058,
+        "name": "gay couple"
+      },
+      {
+        "id": 325783,
+        "name": "cliché"
+      },
+      {
+        "id": 331634,
+        "name": "hands"
+      },
+      {
+        "id": 332049,
+        "name": "queer love"
+      },
+      {
+        "id": 337238,
+        "name": "queer loneliness"
+      },
+      {
+        "id": 337701,
+        "name": "gay men"
+      },
+      {
+        "id": 344293,
+        "name": "queer media"
+      },
+      {
+        "id": 344837,
+        "name": "christmas drama"
+      },
+      {
+        "id": 351030,
+        "name": "emotional tension"
+      },
+      {
+        "id": 363345,
+        "name": "gay"
+      },
+      {
+        "id": 376322,
+        "name": "tinted film"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "On Christmas Eve, Alexandre, a lonely young man burdened by his own emotional defenses, invites Guilherme—a male escort who has just been kicked out of his home—to stay at his house. As the hours pass, the ordinary night transforms into a deep dive into the vulnerabilities, fears, and desires of both, showcasing the hesitant and contradictory construction of an inescapable connection that remains uncertain: whether it is love, friendship, or simply the recognition of two mirrored lonely souls.",
+          "runtime": 91,
+          "tagline": "A sentimentally melodramatic anti-romance.",
+          "title": "Blue Night"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt41666523",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/kJqZKV7am9s17AnOJudFdNvuzVL.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/ama20OUc7TjQFST4t8l3eFbQZN2.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "BR",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2026-02-26T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

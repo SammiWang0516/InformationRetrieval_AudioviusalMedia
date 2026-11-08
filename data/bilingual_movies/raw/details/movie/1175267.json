@@ -1,0 +1,910 @@
+{
+  "adult": false,
+  "backdrop_path": "/bJXAzL3kzlnChhn13l1rVyse51H.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1175267,
+  "imdb_id": "tt35319926",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "La Pie voleuse",
+  "overview": "Maria, who's not as young as she used to be and who helps people older than her, is living from hand to mouth. She can't quite accept her precarious situation and steals a few euros here and there from all those lovely people she looks after with such devotion, and who adore her for it… But after an accusation of abuse of a vulnerable person, Maria winds up in police custody.",
+  "popularity": 0.8753,
+  "poster_path": "/lvNpUwVOlj9hoY0JiH5b5OHh9SJ.jpg",
+  "production_companies": [
+    {
+      "id": 207,
+      "logo_path": "/uskenzq65wJe0cT0D8StQI3hJnO.png",
+      "name": "Agat Films & Cie / Ex Nihilo",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2025-01-29",
+  "revenue": 0,
+  "runtime": 101,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "When a grandmother's love for her grandson pushes her over the line.",
+  "title": "The Thieving Magpie",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 100,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 72590,
+        "known_for_department": "Acting",
+        "name": "Ariane Ascaride",
+        "original_name": "Ariane Ascaride",
+        "popularity": 0.4834,
+        "profile_path": "/fSiJ0k87UrIYymLD7G82OXjSfTk.jpg",
+        "cast_id": 3,
+        "character": "Maria",
+        "credit_id": "64fa1f5d5f2b8d00fef65db9",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 28463,
+        "known_for_department": "Acting",
+        "name": "Jean-Pierre Darroussin",
+        "original_name": "Jean-Pierre Darroussin",
+        "popularity": 0.686,
+        "profile_path": "/bFIJ3bdn5bjx3r5Tm4VPjlaxwfr.jpg",
+        "cast_id": 4,
+        "character": "M. Moreau",
+        "credit_id": "64fa1f65e0ca7f00ae3cbc0d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72591,
+        "known_for_department": "Acting",
+        "name": "Gérard Meylan",
+        "original_name": "Gérard Meylan",
+        "popularity": 0.3291,
+        "profile_path": "/qwHsmy6ar0tcqyqxOpFsRAAb8yR.jpg",
+        "cast_id": 5,
+        "character": "Bruno",
+        "credit_id": "6517d76493bd6900c4dec7f3",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 121530,
+        "known_for_department": "Acting",
+        "name": "Grégoire Leprince-Ringuet",
+        "original_name": "Grégoire Leprince-Ringuet",
+        "popularity": 0.318,
+        "profile_path": "/kHwmtt3MCGCzh0DQplCwsdjwHGd.jpg",
+        "cast_id": 6,
+        "character": "Laurent",
+        "credit_id": "6517d769d4653709df43fd2d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2409322,
+        "known_for_department": "Acting",
+        "name": "Marilou Aussilloux",
+        "original_name": "Marilou Aussilloux",
+        "popularity": 0.395,
+        "profile_path": "/47fpWxN0lBI2ihWlUynNwYNOLl8.jpg",
+        "cast_id": 7,
+        "character": "Jennifer",
+        "credit_id": "6517d77eea84c700ca074bb7",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6549,
+        "known_for_department": "Acting",
+        "name": "Lola Naymark",
+        "original_name": "Lola Naymark",
+        "popularity": 0.5052,
+        "profile_path": "/g7TlfkbfwM82bDj6U0HwaZ2ZyrR.jpg",
+        "cast_id": 12,
+        "character": "Audrey",
+        "credit_id": "67570f8a8b2cc2788b11e486",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 97084,
+        "known_for_department": "Acting",
+        "name": "Robinson Stévenin",
+        "original_name": "Robinson Stévenin",
+        "popularity": 0.208,
+        "profile_path": "/xSEWH2Yu8NHxJU6jT99fsMwDzAv.jpg",
+        "cast_id": 13,
+        "character": "Kévin",
+        "credit_id": "67570f956f37f6e89adc832a",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5108717,
+        "known_for_department": "Acting",
+        "name": "Thorvald Sondergaard",
+        "original_name": "Thorvald Sondergaard",
+        "popularity": 0.048,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "Nicolas",
+        "credit_id": "67570fa4431108aa23d134cb",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1742231,
+        "known_for_department": "Acting",
+        "name": "Sophie Payan",
+        "original_name": "Sophie Payan",
+        "popularity": 0.2098,
+        "profile_path": "/rqJtww80EkfGbT4722O7Qa9gfIH.jpg",
+        "cast_id": 24,
+        "character": "La juge",
+        "credit_id": "679e30a828bb97ddd39541b2",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5069,
+        "known_for_department": "Directing",
+        "name": "Robert Guédiguian",
+        "original_name": "Robert Guédiguian",
+        "popularity": 0.5382,
+        "profile_path": "/kH9GB4sO5QhWaBKGct2qvwHTd1l.jpg",
+        "credit_id": "64fa1f3cffc9de0138eb5498",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1436095,
+        "known_for_department": "Production",
+        "name": "Marc Bordure",
+        "original_name": "Marc Bordure",
+        "popularity": 0.3566,
+        "profile_path": null,
+        "credit_id": "6517d79a9d592c0142607332",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5069,
+        "known_for_department": "Directing",
+        "name": "Robert Guédiguian",
+        "original_name": "Robert Guédiguian",
+        "popularity": 0.5382,
+        "profile_path": "/kH9GB4sO5QhWaBKGct2qvwHTd1l.jpg",
+        "credit_id": "6517d7a99d592c00c8c29597",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17393,
+        "known_for_department": "Camera",
+        "name": "Pierre Milon",
+        "original_name": "Pierre Milon",
+        "popularity": 0.2367,
+        "profile_path": "/hufdXiN3JX1yM1WGcoPkbcPm8Ic.jpg",
+        "credit_id": "6517d7b6a199a600c49dab78",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3962283,
+        "known_for_department": "Sound",
+        "name": "Michel Petrossian",
+        "original_name": "Michel Petrossian",
+        "popularity": 0.1963,
+        "profile_path": null,
+        "credit_id": "6769603b57f6a67c855ceb7a",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2204737,
+        "known_for_department": "Directing",
+        "name": "Ferdinand Verhaeghe",
+        "original_name": "Ferdinand Verhaeghe",
+        "popularity": 0.0628,
+        "profile_path": null,
+        "credit_id": "6769604f57f6a67c855ceb8f",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72587,
+        "known_for_department": "Editing",
+        "name": "Bernard Sasia",
+        "original_name": "Bernard Sasia",
+        "popularity": 0.4173,
+        "profile_path": null,
+        "credit_id": "67696058c9de94d7370b0dfe",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5073,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Anne-Marie Giacalone",
+        "original_name": "Anne-Marie Giacalone",
+        "popularity": 0.133,
+        "profile_path": null,
+        "credit_id": "67696061c7f17205d10b0fe2",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2744284,
+        "known_for_department": "Art",
+        "name": "David Vinez",
+        "original_name": "David Vinez",
+        "popularity": 0.0469,
+        "profile_path": null,
+        "credit_id": "6769606f6178fcbbeac4e7e4",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1590620,
+        "known_for_department": "Production",
+        "name": "Bruno Ghariani",
+        "original_name": "Bruno Ghariani",
+        "popularity": 0.1027,
+        "profile_path": null,
+        "credit_id": "6769607cc7f17205d10b0ff2",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5076,
+        "known_for_department": "Sound",
+        "name": "Laurent Lafran",
+        "original_name": "Laurent Lafran",
+        "popularity": 0.214,
+        "profile_path": null,
+        "credit_id": "67696087c7f17205d10b0ff7",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1707168,
+        "known_for_department": "Sound",
+        "name": "Jean-Marc Schick",
+        "original_name": "Jean-Marc Schick",
+        "popularity": 0.4616,
+        "profile_path": null,
+        "credit_id": "67696093c9de94d7370b0e0d",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1954754,
+        "known_for_department": "Sound",
+        "name": "Bruno Reiland",
+        "original_name": "Bruno Reiland",
+        "popularity": 0.1911,
+        "profile_path": null,
+        "credit_id": "6769609ec9de94d7370b0e10",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1553772,
+        "known_for_department": "Sound",
+        "name": "Aymeric Dupas",
+        "original_name": "Aymeric Dupas",
+        "popularity": 0.0788,
+        "profile_path": null,
+        "credit_id": "679e315a7b4153a3b9954fce",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5218034,
+        "known_for_department": "Camera",
+        "name": "Olivia Costes",
+        "original_name": "Olivia Costes",
+        "popularity": 0.0295,
+        "profile_path": null,
+        "credit_id": "679e31a07b4153a3b9954ffe",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3797496,
+        "known_for_department": "Camera",
+        "name": "Matteo Severi",
+        "original_name": "Matteo Severi",
+        "popularity": 0.0404,
+        "profile_path": null,
+        "credit_id": "679e31bb04cb6f41b9cb4314",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5069,
+        "known_for_department": "Directing",
+        "name": "Robert Guédiguian",
+        "original_name": "Robert Guédiguian",
+        "popularity": 0.5382,
+        "profile_path": "/kH9GB4sO5QhWaBKGct2qvwHTd1l.jpg",
+        "credit_id": "69dddeaa524dadd12db65bec",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1376846,
+        "known_for_department": "Writing",
+        "name": "Serge Valletti",
+        "original_name": "Serge Valletti",
+        "popularity": 0.186,
+        "profile_path": "/uQrCWpPmBxe6khAdG3CM8SdcDYk.jpg",
+        "credit_id": "69dddeb7d78afc14d59b8e73",
+        "department": "Writing",
+        "job": "Screenplay"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "https://diaphana.fr/film/la-pie-voleuse/",
+          "overview": "Maria n’est plus toute jeune et aide des personnes plus âgées qu’elle. Tirant le diable par la queue, elle ne se résout pas à sa précaire condition et, par-ci par-là, vole quelques euros à tous ces braves gens dont elle s’occupe avec une dévotion extrême... et qui, pour cela, l’adorent... Pourtant une plainte pour abus de faiblesse conduira Maria en garde à vue...",
+          "runtime": 101,
+          "tagline": "Quand l'amour d'une grand-mère pour son petit-fils la pousse à franchir les limites.",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Maria, who's not as young as she used to be and who helps people older than her, is living from hand to mouth. She can't quite accept her precarious situation and steals a few euros here and there from all those lovely people she looks after with such devotion, and who adore her for it… But after an accusation of abuse of a vulnerable person, Maria winds up in police custody.",
+          "runtime": 101,
+          "tagline": "When a grandmother's love for her grandson pushes her over the line.",
+          "title": "The Thieving Magpie"
+        }
+      },
+      {
+        "iso_3166_1": "IT",
+        "iso_639_1": "it",
+        "name": "Italiano",
+        "english_name": "Italian",
+        "data": {
+          "homepage": "",
+          "overview": "Maria ormai ha una certa età, ma continua ad aiutare le persone più anziane di lei. Nonostante tutti gli sforzi e l'impegno, Maria comunque fatica a far quadrare i conti e, ogni tanto, ruba qualche euro ai vecchietti coraggiosi di cui si prende cura con tanta devozione, per la quale tutti i suoi clienti la adorano. Tuttavia, una denuncia anonima per circonvenzione di incapace porterà Maria a essere presa in custodia dalla polizia.",
+          "runtime": 101,
+          "tagline": "Tutto brilla a Marsiglia. Anche la più piccola bugia...",
+          "title": "La gazza ladra"
+        }
+      },
+      {
+        "iso_3166_1": "NL",
+        "iso_639_1": "nl",
+        "name": "Nederlands",
+        "english_name": "Dutch",
+        "data": {
+          "homepage": "",
+          "overview": "Maria werkt als thuishulp voor ouderen, maar ondanks haar harde werk heeft ze moeite om de eindjes aan elkaar te knopen. Haar grote droom is om haar kleinzoon een groot pianist te zien worden. Om zijn pianolessen te kunnen betalen, steelt ze hier en daar kleine bedragen van de mensen voor wie ze met liefde en toewijding zorgt. Tot op een dag een aanklacht tegen haar wordt ingediend, en ze niet langer voor haar vaste cliënten mag zorgen…",
+          "runtime": 101,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "DE",
+        "iso_639_1": "de",
+        "name": "Deutsch",
+        "english_name": "German",
+        "data": {
+          "homepage": "",
+          "overview": "Maria arbeitet als Haushaltshilfe für ältere Menschen und träumt davon, dass ihr Enkel eines Tages ein großer Pianist wird. Um das Klavier zu finanzieren, stiehlt sie gelegentlich kleine Geldbeträge von den Menschen, die sie mit Hingabe betreut. Doch eines Tages wird sie des Missbrauchs schutzbedürftiger Erwachsener angeklagt…",
+          "runtime": 101,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "PL",
+        "iso_639_1": "pl",
+        "name": "Polski",
+        "english_name": "Polish",
+        "data": {
+          "homepage": "",
+          "overview": "Maria (Ariane Ascaride), kobieta po sześćdziesiątce, pomaga ludziom starszym od siebie. Z trudem wiążąc koniec z końcem, nie potrafi zaakceptować swojej niepewnej sytuacji i tu i ówdzie kradnie kilka euro wszystkim dobrym ludziom, którymi opiekuje się z największym oddaniem i którzy ją za to wielbią. Ale skarga na nadużycie słabości wywróci wszystko do góry nogami...",
+          "runtime": 101,
+          "tagline": "",
+          "title": "La pie voleuse"
+        }
+      },
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "María trabaja como ayudante a domicilio para personas mayores. Su sueño es ver a su nieto convertirse en un gran pianista. Para pagar el piano, roba, aquí y allá, pequeñas sumas de dinero a las personas que cuida con devoción.",
+          "runtime": 101,
+          "tagline": "",
+          "title": "Mi querida ladrona"
+        }
+      },
+      {
+        "iso_3166_1": "HK",
+        "iso_639_1": "zh",
+        "name": "普通话",
+        "english_name": "Mandarin",
+        "data": {
+          "homepage": "",
+          "overview": "漸步入晚年的 Maria 生活在法國南部一座小鎮,喜愛古典音樂和生蠔,兼職鐘點,專門服務殘疾長者。助人為樂的她深得長者信賴,與他們親密如家人。Maria 一直深信孫仔是鋼琴天才,可惜經濟條件有限,沒有餘錢安排專人私家授課。不甘心的她於是決定在長者家中偷取零錢,打算積少成多支持孫仔的夢想。一世好人是否就此晚節不保?紮根馬賽的名導 Robert Guédiguian 夥拍凱撒影后妻子Ariane Ascaride,攜手呈獻法式倫理溫馨小品。",
+          "runtime": 0,
+          "tagline": "",
+          "title": "落格天使"
+        }
+      },
+      {
+        "iso_3166_1": "IL",
+        "iso_639_1": "he",
+        "name": "עִבְרִית",
+        "english_name": "Hebrew",
+        "data": {
+          "homepage": "",
+          "overview": "מריה עובדת כמטפלת ועוזרת לאנשים הזקוקים לכך. היא מגיעה אליהם ביתה, עושה עבורם קניות, דואגת לצרכיהם ובעיקר מפיגה את בדידותם. היא עובדת סביב השעון, תמיד עם חיוך על הפנים, על מנת לממן את שיעורי הפסנתר של הנכד שלה שיש לו כישרון יוצא דופן. אבל את כל הכסף שהיא מרוויחה, בעלה מפסיד בהימורים. בלית ברירה, מריה מחליטה לגנוב פה ושם כסף מהמטופלים שלה כדי להמשיך לממן את השיעורים ולדאוג לעתיד נכדה. כשהבן של אחד המטופלים שלה מגלה את הגניבה, העתיד שלה ושל כל משפחתה נמצא בסכנה. כשאיום בתביעה מרחף מעל ראשה, מריה תצטרך להוכיח את טוב ליבה וטוהר כוונותיה לכל הסובבים אותה.",
+          "runtime": 101,
+          "tagline": "",
+          "title": "גניבות קטנות"
+        }
+      },
+      {
+        "iso_3166_1": "FI",
+        "iso_639_1": "fi",
+        "name": "suomi",
+        "english_name": "Finnish",
+        "data": {
+          "homepage": "",
+          "overview": "Vanhusten kodinhoitaja Maria on kaikkien suosikki, kotikortteleiden auttava enkeli.  Toisaalta, laskujen kanssa on tiukkaa. Mies viihtyy korttipöydän ääressä ja tyttärenpojan pianotunnit ovat kalliita. Vanhusten asioita hoitaessaan Maria pistää aluksi omaan taskuunsa setelin tai kaksi, sitten enemmän. Tyttärenpoika tarvitsee kalliimman opettajan. Satunnaisten seteleiden seuraksi tarvitaan pian isompia shekkejä…",
+          "runtime": 101,
+          "tagline": "",
+          "title": "Varasteleva varpunen"
+        }
+      },
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "ca",
+        "name": "Català",
+        "english_name": "Catalan",
+        "data": {
+          "homepage": "",
+          "overview": "La Maria treballa com a ajudant a domicili per a gent gran. El seu somni és veure el seu net convertir-se en un gran pianista. Per pagar el piano, roba, aquí i allà, petites sumes de diners a les persones que cuida amb devoció.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "SE",
+        "iso_639_1": "sv",
+        "name": "svenska",
+        "english_name": "Swedish",
+        "data": {
+          "homepage": "",
+          "overview": "Maria tar hand om äldre i Marseille med ömhet och värme – men bakom den godhjärtade fasaden döljer sig små handlingar som hotar att slå tillbaka. När hennes försök att klara sig genom att stjäla lite i taget avslöjas, ställs hon inför rättvisan och sina egna gränser.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Min kära tjuv"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "IT",
+        "title": "La gazza ladra",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "US",
+        "title": "The Thieving Magpie",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "HK",
+        "title": "Stealing Angel",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "CA",
+        "title": "The Thieving Magpie",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "AU",
+        "title": "The Thieving Magpie",
+        "type": ""
+      },
+      {
+        "iso_3166_1": "GB",
+        "title": "The Thieving Magpie",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt35319926",
+    "wikidata_id": "Q131829575",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1440,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/bJXAzL3kzlnChhn13l1rVyse51H.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 2560
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/42C4iqJ61FFtS5F6N68R7i7ggFn.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/czMTVyCsdoWhzsnusbbDupMzYXX.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/lNKLBpNZlcXCdR5FshGDb7KF1Tz.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/fLcw1fNTRkV3vlY56Z23g6IbxIE.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/5jSRpsJQPlbMtgizpa3AzRln0fr.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/rRRRPhbaPz4CT0Fxq01dmW0dLxP.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/dMnEV7a1h0YmN8Pgfwas0di6BnO.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/ikCTsAXaY0YDpaUIFhbIIBEWR4v.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/9xew0Rs9ACm2Jim2mcqgNjpv5xP.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/zThPrACB52irSm63RpWLmDG59Pn.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1080,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/pXgkN3DLV3aYsauGeugYaaFFyWq.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1920
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.75,
+        "height": 800,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/cR24Gu2BMDIdYHcVFuqfQJ4otUN.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 600
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "ES",
+        "release_dates": [
+          {
+            "certification": "12",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-07-25T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FI",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-08-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-01-29T00:00:00.000Z",
+            "type": 3
+          },
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Canal+",
+            "release_date": "2025-08-12T00:00:00.000Z",
+            "type": 4
+          },
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Canal+",
+            "release_date": "2025-08-12T00:00:00.000Z",
+            "type": 6
+          },
+          {
+            "certification": "TP",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Ciné+ Festival",
+            "release_date": "2026-11-07T00:00:00.000Z",
+            "type": 6
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "HK",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "European Union Film Festival",
+            "release_date": "2025-03-22T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IL",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-06-12T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "IT",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Rome Film Fest",
+            "release_date": "2024-10-17T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-04-17T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "NL",
+        "release_dates": [
+          {
+            "certification": "AL",
+            "descriptors": [
+              "Coarse Language"
+            ],
+            "iso_639_1": "",
+            "note": "",
+            "release_date": "2025-07-31T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "LA PIE VOLEUSE - Bande-annonce",
+        "key": "758HN4VamcQ",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "678922df06809ab236ad2cb6",
+        "published_at": "2024-12-23T10:52:11.000Z"
+      }
+    ]
+  }
+}

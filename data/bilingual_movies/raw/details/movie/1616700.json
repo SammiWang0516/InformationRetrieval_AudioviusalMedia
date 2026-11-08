@@ -1,0 +1,962 @@
+{
+  "adult": false,
+  "backdrop_path": "/k0dOXFzSwM7qqCWlCJeE7GoHbRn.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/82040162",
+  "id": 1616700,
+  "imdb_id": "tt39338773",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Mo Gilligan: In the Moment",
+  "overview": "Mo Gilligan takes on Hollywood — and lives to tell the tale. In this lively special, the Londoner dishes on fame, family and being British in America.",
+  "popularity": 1.3469,
+  "poster_path": "/4Q1E0rQlYfxiWByxvespMMk8TJc.jpg",
+  "production_companies": [
+    {
+      "id": 208837,
+      "logo_path": null,
+      "name": "Lucky 17",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2026-02-03",
+  "revenue": 0,
+  "runtime": 62,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Mo Gilligan: In the Moment",
+  "video": false,
+  "vote_average": 7.2,
+  "vote_count": 5,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2185015,
+        "known_for_department": "Acting",
+        "name": "Mo Gilligan",
+        "original_name": "Mo Gilligan",
+        "popularity": 0.4567,
+        "profile_path": "/b66tPXwjJ5ZsrJyU2Ww29Uci7tQ.jpg",
+        "cast_id": 1,
+        "character": "Self",
+        "credit_id": "6968bf031af4644f0b01a5e2",
+        "order": 0
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2185015,
+        "known_for_department": "Acting",
+        "name": "Mo Gilligan",
+        "original_name": "Mo Gilligan",
+        "popularity": 0.4567,
+        "profile_path": "/b66tPXwjJ5ZsrJyU2Ww29Uci7tQ.jpg",
+        "credit_id": "69847c3907d331ee909d1964",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2185015,
+        "known_for_department": "Acting",
+        "name": "Mo Gilligan",
+        "original_name": "Mo Gilligan",
+        "popularity": 0.4567,
+        "profile_path": "/b66tPXwjJ5ZsrJyU2Ww29Uci7tQ.jpg",
+        "credit_id": "69847c508fed5e7f3a1a2577",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5987897,
+        "known_for_department": "Production",
+        "name": "David Geli",
+        "original_name": "David Geli",
+        "popularity": 0.061,
+        "profile_path": null,
+        "credit_id": "69847c775999bbe9fb9994b9",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5987900,
+        "known_for_department": "Production",
+        "name": "Pollyanna McGirr",
+        "original_name": "Pollyanna McGirr",
+        "popularity": 0.0746,
+        "profile_path": null,
+        "credit_id": "69847c961beee8a6c9912eb3",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1537535,
+        "known_for_department": "Directing",
+        "name": "Chris Howe",
+        "original_name": "Chris Howe",
+        "popularity": 0.1554,
+        "profile_path": null,
+        "credit_id": "69847caa115ddaf9199994a7",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4114726,
+        "known_for_department": "Production",
+        "name": "Emma Carter",
+        "original_name": "Emma Carter",
+        "popularity": 0.1298,
+        "profile_path": null,
+        "credit_id": "69847cd05b2a6dc15874ab11",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2058460,
+        "known_for_department": "Camera",
+        "name": "Tristam Cones",
+        "original_name": "Tristam Cones",
+        "popularity": 0.071,
+        "profile_path": null,
+        "credit_id": "69847ce18fed5e7f3a1a2586",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5987905,
+        "known_for_department": "Lighting",
+        "name": "Oli Richards",
+        "original_name": "Oli Richards",
+        "popularity": 0.0447,
+        "profile_path": null,
+        "credit_id": "69847cf38fed5e7f3a1a2592",
+        "department": "Lighting",
+        "job": "Lighting Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2299238,
+        "known_for_department": "Editing",
+        "name": "Gwyn Jones",
+        "original_name": "Gwyn Jones",
+        "popularity": 0.1277,
+        "profile_path": null,
+        "credit_id": "69847d0255a3a69f569d1990",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3406256,
+        "known_for_department": "Sound",
+        "name": "Ollie Nesham",
+        "original_name": "Ollie Nesham",
+        "popularity": 0.0644,
+        "profile_path": null,
+        "credit_id": "69847d33be2da6ac933634d8",
+        "department": "Sound",
+        "job": "Sound Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3113841,
+        "known_for_department": "Camera",
+        "name": "Richard Shaw",
+        "original_name": "Richard Shaw",
+        "popularity": 0.1232,
+        "profile_path": null,
+        "credit_id": "69847d4f73afc2dcd71a2785",
+        "department": "Camera",
+        "job": "Camera Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5987915,
+        "known_for_department": "Camera",
+        "name": "Charlie Bryant",
+        "original_name": "Charlie Bryant",
+        "popularity": 0.1195,
+        "profile_path": null,
+        "credit_id": "69847d70c138d624704f6798",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5987917,
+        "known_for_department": "Camera",
+        "name": "Jamie Caroll",
+        "original_name": "Jamie Caroll",
+        "popularity": 0.032,
+        "profile_path": null,
+        "credit_id": "69847d929e7401b10c6e7603",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3370879,
+        "known_for_department": "Camera",
+        "name": "Mark Cruickshank",
+        "original_name": "Mark Cruickshank",
+        "popularity": 0.0607,
+        "profile_path": "/4Ost7JBHYCQg5yiaPGpqWOqmULw.jpg",
+        "credit_id": "69847ddfcadaa293676e76aa",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1400239,
+        "known_for_department": "Camera",
+        "name": "Simon Kennedy",
+        "original_name": "Simon Kennedy",
+        "popularity": 0.0826,
+        "profile_path": null,
+        "credit_id": "69847df5a4908d7aa91a248f",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2948617,
+        "known_for_department": "Camera",
+        "name": "Alice Sephton",
+        "original_name": "Alice Sephton",
+        "popularity": 0.0848,
+        "profile_path": null,
+        "credit_id": "69847e06a4908d7aa91a249d",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4043958,
+        "known_for_department": "Camera",
+        "name": "Nick Wheeler",
+        "original_name": "Nick Wheeler",
+        "popularity": 0.0472,
+        "profile_path": null,
+        "credit_id": "69847e18a4908d7aa91a24a3",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2842512,
+        "known_for_department": "Camera",
+        "name": "Curtis Dunne",
+        "original_name": "Curtis Dunne",
+        "popularity": 0.3504,
+        "profile_path": null,
+        "credit_id": "69847e3906ce432a831a2609",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4434515,
+        "known_for_department": "Camera",
+        "name": "Chris Robertson",
+        "original_name": "Chris Robertson",
+        "popularity": 0.0783,
+        "profile_path": null,
+        "credit_id": "69847e4cd9be0465409994bb",
+        "department": "Camera",
+        "job": "Focus Puller"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5987926,
+        "known_for_department": "Camera",
+        "name": "Alex Agopian",
+        "original_name": "Alex Agopian",
+        "popularity": 0.0576,
+        "profile_path": null,
+        "credit_id": "69847e6900f6b0ad109d1962",
+        "department": "Camera",
+        "job": "Camera Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5987927,
+        "known_for_department": "Camera",
+        "name": "Duncan Ayres",
+        "original_name": "Duncan Ayres",
+        "popularity": 0.0696,
+        "profile_path": null,
+        "credit_id": "69847e76a7ba4b0bad6ee9eb",
+        "department": "Camera",
+        "job": "Camera Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5987930,
+        "known_for_department": "Camera",
+        "name": "Becca Lincoln",
+        "original_name": "Becca Lincoln",
+        "popularity": 0.1119,
+        "profile_path": null,
+        "credit_id": "69847e82feeee2a47b912dfd",
+        "department": "Camera",
+        "job": "Camera Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5987931,
+        "known_for_department": "Camera",
+        "name": "Emile Pronk",
+        "original_name": "Emile Pronk",
+        "popularity": 0.0359,
+        "profile_path": null,
+        "credit_id": "69847e915999bbe9fb9994d3",
+        "department": "Camera",
+        "job": "Camera Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5202579,
+        "known_for_department": "Camera",
+        "name": "Joe Thompson",
+        "original_name": "Joe Thompson",
+        "popularity": 0.3096,
+        "profile_path": null,
+        "credit_id": "69847ea39250ea634b1a23f8",
+        "department": "Camera",
+        "job": "Camera Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4814344,
+        "known_for_department": "Acting",
+        "name": "Paul Evans",
+        "original_name": "Paul Evans",
+        "popularity": 0.1419,
+        "profile_path": null,
+        "credit_id": "69847ec9f0960f4c029d1953",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2339228,
+        "known_for_department": "Acting",
+        "name": "David Ajao",
+        "original_name": "David Ajao",
+        "popularity": 0.219,
+        "profile_path": "/uVjPOmV08tuI9syhTo8GGxrSKoU.jpg",
+        "credit_id": "69847eee565cb042b8999391",
+        "department": "Crew",
+        "job": "Additional Writing"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5987937,
+        "known_for_department": "Sound",
+        "name": "Mark Crown",
+        "original_name": "Mark Crown",
+        "popularity": 0.0413,
+        "profile_path": null,
+        "credit_id": "69847f12c43a59b9a94f685f",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3623417,
+        "known_for_department": "Crew",
+        "name": "Mitch Jones",
+        "original_name": "Mitch Jones",
+        "popularity": 0.1567,
+        "profile_path": null,
+        "credit_id": "69847f1dd96af61e8b1a25c4",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5987939,
+        "known_for_department": "Sound",
+        "name": "Beanie Bhebhe",
+        "original_name": "Beanie Bhebhe",
+        "popularity": 0.0864,
+        "profile_path": null,
+        "credit_id": "69847f2bbe2da6ac933634f8",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5987942,
+        "known_for_department": "Sound",
+        "name": "Jamiel Blake",
+        "original_name": "Jamiel Blake",
+        "popularity": 0.0376,
+        "profile_path": null,
+        "credit_id": "69847f39565cb042b899939e",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5987944,
+        "known_for_department": "Sound",
+        "name": "Tauren Antoine-Chagar",
+        "original_name": "Tauren Antoine-Chagar",
+        "popularity": 0.1262,
+        "profile_path": null,
+        "credit_id": "69847f488902ed3a8c3635ba",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5987945,
+        "known_for_department": "Sound",
+        "name": "Joe Staddart",
+        "original_name": "Joe Staddart",
+        "popularity": 0.055,
+        "profile_path": null,
+        "credit_id": "69847f528902ed3a8c3635c4",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5987946,
+        "known_for_department": "Crew",
+        "name": "Max Cheshire",
+        "original_name": "Max Cheshire",
+        "popularity": 0.0636,
+        "profile_path": null,
+        "credit_id": "69847f70aec909b3bc6eebe8",
+        "department": "Crew",
+        "job": "Video Assist Operator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1411121,
+        "known_for_department": "Art",
+        "name": "Jenny Ray",
+        "original_name": "Jenny Ray",
+        "popularity": 0.1849,
+        "profile_path": null,
+        "credit_id": "69847f82f0960f4c029d195a",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5987949,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Claire De-Graft",
+        "original_name": "Claire De-Graft",
+        "popularity": 0.0633,
+        "profile_path": null,
+        "credit_id": "69847f9d59b03e4cb24f68da",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5987953,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Stefan Richards",
+        "original_name": "Stefan Richards",
+        "popularity": 0.0601,
+        "profile_path": null,
+        "credit_id": "69847fb80d219cfdfa6eec21",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2337299,
+        "known_for_department": "Production",
+        "name": "Ray Böhm",
+        "original_name": "Ray Böhm",
+        "popularity": 0.0866,
+        "profile_path": null,
+        "credit_id": "69847fd28902ed3a8c3635da",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1957216,
+        "known_for_department": "Production",
+        "name": "Amy Kemp",
+        "original_name": "Amy Kemp",
+        "popularity": 0.0871,
+        "profile_path": null,
+        "credit_id": "69847fd924662d0c1e3635f1",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2089662,
+        "known_for_department": "Acting",
+        "name": "Freddie Stewart",
+        "original_name": "Freddie Stewart",
+        "popularity": 0.0555,
+        "profile_path": null,
+        "credit_id": "69847fe4481b1792aa4f6915",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5987958,
+        "known_for_department": "Production",
+        "name": "Robbie Patterson",
+        "original_name": "Robbie Patterson",
+        "popularity": 0.0641,
+        "profile_path": null,
+        "credit_id": "69847fffda5552f83d6eec6f",
+        "department": "Production",
+        "job": "Post Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5987959,
+        "known_for_department": "Production",
+        "name": "Hannah Ryan",
+        "original_name": "Hannah Ryan",
+        "popularity": 0.1036,
+        "profile_path": null,
+        "credit_id": "69848012cadaa293676e76b5",
+        "department": "Production",
+        "job": "Post Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 930055,
+        "known_for_department": "Editing",
+        "name": "Joe Stabb",
+        "original_name": "Joe Stabb",
+        "popularity": 0.1585,
+        "profile_path": null,
+        "credit_id": "6984802096563c84ec9992c4",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2151391,
+        "known_for_department": "Editing",
+        "name": "David Sexton",
+        "original_name": "David Sexton",
+        "popularity": 0.1268,
+        "profile_path": null,
+        "credit_id": "6984802ce5abe7a6646e776e",
+        "department": "Editing",
+        "job": "Online Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1975513,
+        "known_for_department": "Sound",
+        "name": "Gavin Allingham",
+        "original_name": "Gavin Allingham",
+        "popularity": 0.0935,
+        "profile_path": null,
+        "credit_id": "6984803b5e1c67ac6674ad0b",
+        "department": "Crew",
+        "job": "Mix Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2770455,
+        "known_for_department": "Camera",
+        "name": "Dave Evans",
+        "original_name": "Dave Evans",
+        "popularity": 0.1043,
+        "profile_path": null,
+        "credit_id": "6a28a15bacfb9fb933fc36fb",
+        "department": "Camera",
+        "job": "Camera Operator"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 9716,
+        "name": "stand-up comedy"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "https://www.netflix.com/title/82040162",
+          "overview": "Mo Gilligan takes on Hollywood — and lives to tell the tale. In this lively special, the Londoner dishes on fame, family and being British in America.",
+          "runtime": 62,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "MX",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Mo Gilligan conquista Hollywood… y vive para contarlo. En este divertido especial, el londinense habla sobre la fama, la familia y ser británico en Estados Unidos.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "KR",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말",
+        "english_name": "Korean",
+        "data": {
+          "homepage": "",
+          "overview": "할리우드에 도전한 모 길리건이 들려주는 생생한 이야기. 생동감 넘치는 스페셜 무대에서, 런던 출신인 그가 명성과 가족, 미국에서 영국인으로 사는 삶을 유쾌하게 풀어놓는다.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "모 길리건: 지금 이 순간"
+        }
+      },
+      {
+        "iso_3166_1": "ES",
+        "iso_639_1": "es",
+        "name": "Español",
+        "english_name": "Spanish",
+        "data": {
+          "homepage": "",
+          "overview": "Mo Gilligan conquista Hollywood… y vive para contarlo. En este divertido especial, el londinense habla sobre la fama, la familia y ser británico en Estados Unidos.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "BR",
+        "iso_639_1": "pt",
+        "name": "Português",
+        "english_name": "Portuguese",
+        "data": {
+          "homepage": "https://www.netflix.com/br/title/82040162",
+          "overview": "Mo Gilligan chega a Hollywood e conta sua história. Neste especial, o moço de Londres abre o jogo e fala sobre fama, família e como é ser britânico nos Estados Unidos.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "CN",
+        "iso_639_1": "zh",
+        "name": "普通话",
+        "english_name": "Mandarin",
+        "data": {
+          "homepage": "",
+          "overview": "曾获 BAFTA 英国电影学院奖的喜剧明星莫·吉利根（Mo Gilligan）带着他迄今为止最大规模的全球巡演回归。在这部名为《活在当下》的特辑中，莫以其标志性的高能量表演风格和独特的肢体幽默，点燃了舞台。这一次，他将目光投向了全球，从令人捧腹的旅行奇遇、复杂的现代人际关系，到成名后的种种荒诞经历，莫用他敏锐的观察力解构了生活中的每一个当下时刻。无论是在家乡伦敦还是在大洋彼岸，他的笑话总能引起跨文化的共鸣。",
+          "runtime": 0,
+          "tagline": "",
+          "title": "莫·吉利根：活在当下"
+        }
+      },
+      {
+        "iso_3166_1": "TH",
+        "iso_639_1": "th",
+        "name": "ภาษาไทย",
+        "english_name": "Thai",
+        "data": {
+          "homepage": "",
+          "overview": "ในสแตนด์อัพคอมเมดี้สุดฮาเฮครั้งนี้ ชาวลอนดอนอย่างโม กิลลิแกน บุกไปฮอลลีวูดและรอดชีวิตกลับมาแฉให้โลกรู้ ทั้งเรื่องชื่อเสียง ครอบครัว และการเป็นคนอังกฤษในอเมริกา",
+          "runtime": 0,
+          "tagline": "",
+          "title": "โม กิลลิแกน: อยู่กับปัจจุบัน"
+        }
+      },
+      {
+        "iso_3166_1": "IL",
+        "iso_639_1": "he",
+        "name": "עִבְרִית",
+        "english_name": "Hebrew",
+        "data": {
+          "homepage": "",
+          "overview": "ספיישל סטנד-אפ שלישי בנטפליקס לקומיקאי הבריטי זוכה שלושת פרסי הבאפט\"א, שהוקלט בלונדון בפני 17 אלף צופים. גיליגן מספר הפעם על החוויה של בריטי בהוליווד, תהילה ומשפחה.",
+          "runtime": 62,
+          "tagline": "",
+          "title": "מו גיליגן: לחיות את הרגע"
+        }
+      },
+      {
+        "iso_3166_1": "UA",
+        "iso_639_1": "uk",
+        "name": "Український",
+        "english_name": "Ukrainian",
+        "data": {
+          "homepage": "",
+          "overview": "Мо Ґілліґан захоплює Голлівуд… і виживає, щоб розповісти свою історію. У жвавому спецвипуску лондонець обговорює славу, родину й життя британця в Америці.",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Мо Ґілліґан: Відчути момент"
+        }
+      },
+      {
+        "iso_3166_1": "SE",
+        "iso_639_1": "sv",
+        "name": "svenska",
+        "english_name": "Swedish",
+        "data": {
+          "homepage": "",
+          "overview": "Mo Gilligan tar sig an Hollywood – och lever för att berätta historien. I denna livliga special berättar Londonbon om berömmelse, familj och att vara brittisk i Amerika.",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "HK",
+        "iso_639_1": "zh",
+        "name": "普通话",
+        "english_name": "Mandarin",
+        "data": {
+          "homepage": "",
+          "overview": "莫吉利根勇闖好萊塢，而且還全身而退。這位倫敦客在這部活力十足的特輯暢談成名、家庭，以及身為英國人在美國的種種體驗。",
+          "runtime": 62,
+          "tagline": "",
+          "title": "Mo Gilligan：笑在當下"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "US",
+        "title": "Mo Gilligan: In The Moment",
+        "type": "How it shows on Netflix!"
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt39338773",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 1152,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/k0dOXFzSwM7qqCWlCJeE7GoHbRn.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2048
+      },
+      {
+        "aspect_ratio": 1.778,
+        "height": 1152,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/tV7d5jqNbNE6ihLnjCEF7OM4AFz.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2048
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 750,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/4Q1E0rQlYfxiWByxvespMMk8TJc.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 500
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 750,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/jGzBVL9BDMGEU7P1QbQ2JknTPyM.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 500
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "AR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-02-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "GB",
+        "release_dates": [
+          {
+            "certification": "18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-02-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "KR",
+        "release_dates": [
+          {
+            "certification": "19",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-02-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "SG",
+        "release_dates": [
+          {
+            "certification": "M18",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-02-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      },
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "R",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Netflix",
+            "release_date": "2026-02-03T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "en",
+        "iso_3166_1": "US",
+        "name": "It only takes one 🎤 #MoGilligan",
+        "key": "HUCZJlsEGPk",
+        "site": "YouTube",
+        "size": 720,
+        "type": "Clip",
+        "official": true,
+        "id": "698480f585aca7945c1a267f",
+        "published_at": "2026-02-04T13:00:37.000Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,577 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1669519,
+  "imdb_id": "tt42237958",
+  "origin_country": [
+    "BD"
+  ],
+  "original_language": "bn",
+  "original_title": "মানুষটিকে দেখ",
+  "overview": "The first film made in Bangladesh about Cerebral Palsy.",
+  "popularity": 0.879,
+  "poster_path": "/k2UuIO1k4JJEEM8E1Vaw3vum1kx.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "BD",
+      "name": "Bangladesh"
+    }
+  ],
+  "release_date": "2026-05-01",
+  "revenue": 0,
+  "runtime": 149,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "বাংলা"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "See the Person",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6180690,
+        "known_for_department": "Acting",
+        "name": "Rashna Sharmin Camey",
+        "original_name": "Rashna Sharmin Camey",
+        "popularity": 0.2054,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "",
+        "credit_id": "69f40fa5d93c54b8d8f9fbce",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6180691,
+        "known_for_department": "Acting",
+        "name": "Tahmid Arefin Haque",
+        "original_name": "Tahmid Arefin Haque",
+        "popularity": 0.1515,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "69f40fb6fcac3f15bc57e188",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6180693,
+        "known_for_department": "Acting",
+        "name": "Riad Hossain",
+        "original_name": "Riad Hossain",
+        "popularity": 0.4549,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "69f4101323e593207357e12b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 994354,
+        "known_for_department": "Acting",
+        "name": "Tariq Anam Khan",
+        "original_name": "Tariq Anam Khan",
+        "popularity": 0.8006,
+        "profile_path": "/hHKkmaNQtvSV3cNeBpm9wHcTn55.jpg",
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "69f410211aa9a3ed1bf7dfe9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 985117,
+        "known_for_department": "Acting",
+        "name": "Mamunur Rashid",
+        "original_name": "Mamunur Rashid",
+        "popularity": 0.2063,
+        "profile_path": "/vX1qznTb67f3bJa3RZ6mO7aLWlu.jpg",
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "69f4104deccfa075972372b3",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2130011,
+        "known_for_department": "Acting",
+        "name": "Rahmat Ali",
+        "original_name": "Rahmat Ali",
+        "popularity": 0.4237,
+        "profile_path": null,
+        "cast_id": 9,
+        "character": "",
+        "credit_id": "69f41056670664108e23732c",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1628423,
+        "known_for_department": "Acting",
+        "name": "Gazi Rakayet",
+        "original_name": "Gazi Rakayet",
+        "popularity": 0.513,
+        "profile_path": "/wUJfkHRcFgv2bvZd1g4VdmtDSW2.jpg",
+        "cast_id": 10,
+        "character": "",
+        "credit_id": "69f4105d90bf55898c816543",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 984989,
+        "known_for_department": "Acting",
+        "name": "Shatabdi Wadud",
+        "original_name": "Shatabdi Wadud",
+        "popularity": 0.4583,
+        "profile_path": "/uezypVSHHDNoi3joJyukjwMhBZK.jpg",
+        "cast_id": 11,
+        "character": "",
+        "credit_id": "69f41066ecb38232f9e7cf0a",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3334368,
+        "known_for_department": "Acting",
+        "name": "Shormy Mala",
+        "original_name": "Shormy Mala",
+        "popularity": 0.2223,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "69f4109bcf40a315cbf9fa7c",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3406121,
+        "known_for_department": "Acting",
+        "name": "Lara Lotus",
+        "original_name": "Lara Lotus",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "",
+        "credit_id": "69f410a820bd7a9abcf7df9f",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2037360,
+        "known_for_department": "Acting",
+        "name": "Quazi Nawshaba Ahmed",
+        "original_name": "Quazi Nawshaba Ahmed",
+        "popularity": 0.1996,
+        "profile_path": "/8yza4B1o1LVEwoTj9ceZf5TOKI7.jpg",
+        "cast_id": 14,
+        "character": "",
+        "credit_id": "69f410b158f5c02f06f9f9cf",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3095924,
+        "known_for_department": "Acting",
+        "name": "Mili Basher",
+        "original_name": "Mili Bashar",
+        "popularity": 0.3937,
+        "profile_path": "/4Dpij30zSojOceXminylbuWcQVW.jpg",
+        "cast_id": 15,
+        "character": "",
+        "credit_id": "69f410bb65973144b3f7dfea",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2427574,
+        "known_for_department": "Acting",
+        "name": "Ehsanur Rahman",
+        "original_name": "Ehsanur Rahman",
+        "popularity": 0.0993,
+        "profile_path": null,
+        "cast_id": 16,
+        "character": "",
+        "credit_id": "69f410c37632e9c03bf9fa79",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3378461,
+        "known_for_department": "Acting",
+        "name": "Rajib Salehin",
+        "original_name": "Rajib Salehin",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 17,
+        "character": "",
+        "credit_id": "69f410cc51a70aa7dcbd0e34",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1780300,
+        "known_for_department": "Acting",
+        "name": "Iqbal Hossain",
+        "original_name": "Iqbal Hossain",
+        "popularity": 0.2834,
+        "profile_path": null,
+        "cast_id": 18,
+        "character": "",
+        "credit_id": "69f410d7fa0df6a3d6f7df2d",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3014315,
+        "known_for_department": "Acting",
+        "name": "Anondo Khaled",
+        "original_name": "Anondo Khaled",
+        "popularity": 0.1341,
+        "profile_path": "/tQcRIVPtNWcc0zkMPCjFHa7XPHb.jpg",
+        "cast_id": 19,
+        "character": "",
+        "credit_id": "69f410e1a18e48d255fbd73f",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3220278,
+        "known_for_department": "Acting",
+        "name": "Hosne Ara",
+        "original_name": "Hosne Ara",
+        "popularity": 0.1579,
+        "profile_path": null,
+        "cast_id": 27,
+        "character": "",
+        "credit_id": "69f55a77ea7d3faaaad4a929",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6183130,
+        "known_for_department": "Acting",
+        "name": "Adnan Bangali",
+        "original_name": "Adnan Bangali",
+        "popularity": 0.049,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "",
+        "credit_id": "69f55a885357a60a8d36946d",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6183131,
+        "known_for_department": "Acting",
+        "name": "Mir Barkat",
+        "original_name": "Mir Barkat",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 29,
+        "character": "",
+        "credit_id": "69f55a9b8cf0f137a3c25ec3",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6183134,
+        "known_for_department": "Acting",
+        "name": "Nomita Das",
+        "original_name": "Nomita Das",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "",
+        "credit_id": "69f55abd78de8e45f02a4163",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5644765,
+        "known_for_department": "Acting",
+        "name": "Mrinal Dutta",
+        "original_name": "Mrinal Dutta",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "cast_id": 31,
+        "character": "",
+        "credit_id": "69f55aed066fbb1033c25ea4",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6180705,
+        "known_for_department": "Production",
+        "name": "Humayun Farid",
+        "original_name": "Humayun Farid",
+        "popularity": 0.043,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "",
+        "credit_id": "69f55badd9c8a70cffa1c6ac",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2278904,
+        "known_for_department": "Acting",
+        "name": "Anik Khan",
+        "original_name": "Anik Khan",
+        "popularity": 0.1123,
+        "profile_path": null,
+        "cast_id": 33,
+        "character": "",
+        "credit_id": "69f55bc7bcd3a72660369508",
+        "order": 22
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1628423,
+        "known_for_department": "Acting",
+        "name": "Gazi Rakayet",
+        "original_name": "Gazi Rakayet",
+        "popularity": 0.513,
+        "profile_path": "/wUJfkHRcFgv2bvZd1g4VdmtDSW2.jpg",
+        "credit_id": "69dcebf925e7c501eab653ac",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1743174,
+        "known_for_department": "Camera",
+        "name": "Sheikh Rajibul Islam",
+        "original_name": "Sheikh Rajibul Islam",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "69dcec6aba5eb92b049b8802",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2254963,
+        "known_for_department": "Art",
+        "name": "Uttam Guha",
+        "original_name": "Uttam Guha",
+        "popularity": 0.1293,
+        "profile_path": null,
+        "credit_id": "69dcec85879d27732770b138",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6180702,
+        "known_for_department": "Writing",
+        "name": "Elspeth Waldie",
+        "original_name": "Elspeth Waldie",
+        "popularity": 0.1436,
+        "profile_path": null,
+        "credit_id": "69f410fccf40a315cbf9fa87",
+        "department": "Writing",
+        "job": "Original Story"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6180702,
+        "known_for_department": "Writing",
+        "name": "Elspeth Waldie",
+        "original_name": "Elspeth Waldie",
+        "popularity": 0.1436,
+        "profile_path": null,
+        "credit_id": "69f4113058f5c02f06f9f9e0",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6180702,
+        "known_for_department": "Writing",
+        "name": "Elspeth Waldie",
+        "original_name": "Elspeth Waldie",
+        "popularity": 0.1436,
+        "profile_path": null,
+        "credit_id": "69f41148b9ad214e9af7dfe5",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6180705,
+        "known_for_department": "Production",
+        "name": "Humayun Farid",
+        "original_name": "Humayun Farid",
+        "popularity": 0.043,
+        "profile_path": null,
+        "credit_id": "69f41161a2b999f8abe7ce97",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1042151,
+        "known_for_department": "Writing",
+        "name": "Kabir Bakul",
+        "original_name": "Kabir Bakul",
+        "popularity": 0.0763,
+        "profile_path": null,
+        "credit_id": "69f411750de3418d92d58894",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1042151,
+        "known_for_department": "Writing",
+        "name": "Kabir Bakul",
+        "original_name": "Kabir Bakul",
+        "popularity": 0.0763,
+        "profile_path": null,
+        "credit_id": "69f4117fc52b67772cd5886f",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1752848,
+        "known_for_department": "Sound",
+        "name": "Syed Shabab Ali Arzoo",
+        "original_name": "Syed Shabab Ali Arzoo",
+        "popularity": 0.2052,
+        "profile_path": null,
+        "credit_id": "69f4119c98920f891bf7df5f",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "The first film made in Bangladesh about Cerebral Palsy.",
+          "runtime": 149,
+          "tagline": "",
+          "title": "See the Person"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": [
+      {
+        "iso_3166_1": "BD",
+        "title": "Manushtike Dekho",
+        "type": ""
+      }
+    ]
+  },
+  "external_ids": {
+    "imdb_id": "tt42237958",
+    "wikidata_id": "Q139969539",
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 2457,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/k2UuIO1k4JJEEM8E1Vaw3vum1kx.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 1638
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "BD",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "bn",
+            "note": "",
+            "release_date": "2026-05-01T00:00:00.000Z",
+            "type": 3
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

@@ -1,0 +1,441 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 30000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 1365862,
+  "imdb_id": "tt32243366",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Disco",
+  "overview": "Fourteen year old JoJo has a sleepwalking episode that leaves her haunted and determined to solve its mystery.",
+  "popularity": 0.916,
+  "poster_path": "/5lqoRMTdQBTFNkw4hDVIJsunaVO.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-03-22",
+  "revenue": 0,
+  "runtime": 14,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Disco",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4979203,
+        "known_for_department": "Acting",
+        "name": "Serena Parrish",
+        "original_name": "Serena Parrish",
+        "popularity": 0.2508,
+        "profile_path": null,
+        "cast_id": 19,
+        "character": "JoJo",
+        "credit_id": "66fefdfee84eeb35a0f7ee1d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4739307,
+        "known_for_department": "Acting",
+        "name": "Sadie Lipomanis",
+        "original_name": "Sadie Lipomanis",
+        "popularity": 0.0376,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Nat",
+        "credit_id": "66fefe0ae84eeb35a0f7ee22",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4532467,
+        "known_for_department": "Acting",
+        "name": "Braden Misiaszek",
+        "original_name": "Braden Misiaszek",
+        "popularity": 0.1715,
+        "profile_path": null,
+        "cast_id": 21,
+        "character": "Joey",
+        "credit_id": "66fefe177830c1301e7c9ccf",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4972549,
+        "known_for_department": "Acting",
+        "name": "Keely Bochicchio Sipos",
+        "original_name": "Keely Bochicchio Sipos",
+        "popularity": 0.0589,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Girl #1",
+        "credit_id": "66fefe23e84eeb35a0f7ee2d",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4317436,
+        "known_for_department": "Directing",
+        "name": "Molly Longwell",
+        "original_name": "Molly Longwell",
+        "popularity": 0.1029,
+        "profile_path": "/287oPoLQvigHtQNGaXclip3VLIm.jpg",
+        "credit_id": "66fefc64e48014914684f929",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4317436,
+        "known_for_department": "Directing",
+        "name": "Molly Longwell",
+        "original_name": "Molly Longwell",
+        "popularity": 0.1029,
+        "profile_path": "/287oPoLQvigHtQNGaXclip3VLIm.jpg",
+        "credit_id": "66fefc6c9ebea19006f7ee7d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4155858,
+        "known_for_department": "Directing",
+        "name": "Sophia Conger",
+        "original_name": "Sophia Conger",
+        "popularity": 0.1953,
+        "profile_path": null,
+        "credit_id": "66fefc967830c1301e7c9c84",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2643271,
+        "known_for_department": "Lighting",
+        "name": "Gary Flugge",
+        "original_name": "Gary Flugge",
+        "popularity": 0.0558,
+        "profile_path": null,
+        "credit_id": "66fefcb1e48014914684f949",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4979195,
+        "known_for_department": "Production",
+        "name": "Steph Rizler",
+        "original_name": "Steph Rizler",
+        "popularity": 0.0685,
+        "profile_path": null,
+        "credit_id": "66fefcd7e84eeb35a0f7eda2",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4979197,
+        "known_for_department": "Sound",
+        "name": "Evan Dibbs",
+        "original_name": "Evan Dibbs",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "66fefce4f878adfed085027f",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2266850,
+        "known_for_department": "Directing",
+        "name": "Sophia Feuer",
+        "original_name": "Sophia Feuer",
+        "popularity": 0.2983,
+        "profile_path": null,
+        "credit_id": "66fefcf2f878adfed0850288",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4317438,
+        "known_for_department": "Editing",
+        "name": "Tair Shachar",
+        "original_name": "Tair Shachar",
+        "popularity": 0.0761,
+        "profile_path": null,
+        "credit_id": "66fefd03925fdf925b7ca4c1",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2476187,
+        "known_for_department": "Production",
+        "name": "Briana Dunlay",
+        "original_name": "Briana Dunlay",
+        "popularity": 0.1652,
+        "profile_path": null,
+        "credit_id": "66fefd1967c6fb09fff7e7b3",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3729846,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Nicole Barley",
+        "original_name": "Nicole Barley",
+        "popularity": 0.0925,
+        "profile_path": null,
+        "credit_id": "66fefd2de84eeb35a0f7edb8",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4972549,
+        "known_for_department": "Acting",
+        "name": "Keely Bochicchio Sipos",
+        "original_name": "Keely Bochicchio Sipos",
+        "popularity": 0.0589,
+        "profile_path": null,
+        "credit_id": "66fefd47e84eeb35a0f7edc7",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2105470,
+        "known_for_department": "Directing",
+        "name": "Cameron Morton",
+        "original_name": "Cameron Morton",
+        "popularity": 0.12,
+        "profile_path": null,
+        "credit_id": "66fefd72f878adfed08502a8",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4979200,
+        "known_for_department": "Sound",
+        "name": "Ana Gonzabay",
+        "original_name": "Ana Gonzabay",
+        "popularity": 0.0473,
+        "profile_path": null,
+        "credit_id": "66fefd8c925fdf925b7ca4ff",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3277967,
+        "known_for_department": "Sound",
+        "name": "Jack Liden",
+        "original_name": "Jack Liden",
+        "popularity": 0.2249,
+        "profile_path": null,
+        "credit_id": "66fefda767c6fb09fff7e7e6",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3277967,
+        "known_for_department": "Sound",
+        "name": "Jack Liden",
+        "original_name": "Jack Liden",
+        "popularity": 0.2249,
+        "profile_path": null,
+        "credit_id": "66fefdc067c6fb09fff7e7f8",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4685150,
+        "known_for_department": "Editing",
+        "name": "Kevin Deming",
+        "original_name": "Kevin Deming",
+        "popularity": 0.062,
+        "profile_path": null,
+        "credit_id": "66fefdd4e84eeb35a0f7ee07",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2750836,
+        "known_for_department": "Camera",
+        "name": "Nabil Elbehri",
+        "original_name": "Nabil Elbehri",
+        "popularity": 0.1887,
+        "profile_path": null,
+        "credit_id": "66fefde4925fdf925b7ca520",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 447,
+        "name": "post-traumatic stress disorder (ptsd)"
+      },
+      {
+        "id": 3875,
+        "name": "barn"
+      },
+      {
+        "id": 6733,
+        "name": "bullying"
+      },
+      {
+        "id": 14768,
+        "name": "single mother"
+      },
+      {
+        "id": 156799,
+        "name": "vermont"
+      },
+      {
+        "id": 160247,
+        "name": "grade school"
+      },
+      {
+        "id": 162846,
+        "name": "ghost"
+      },
+      {
+        "id": 190327,
+        "name": "sexual assault"
+      },
+      {
+        "id": 251619,
+        "name": "rural"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Fourteen year old JoJo has a sleepwalking episode that leaves her haunted and determined to solve its mystery.",
+          "runtime": 14,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt32243366",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.762,
+        "height": 1439,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/5lqoRMTdQBTFNkw4hDVIJsunaVO.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1097
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Boston Underground Film Festival",
+            "release_date": "2026-03-22T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

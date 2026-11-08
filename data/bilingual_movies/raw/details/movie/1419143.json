@@ -1,0 +1,329 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1419143,
+  "imdb_id": null,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Hang-Up",
+  "overview": "Maddie enters a phone carrier store to replace her phone number but the decision to delete her history proves to be a challenge.",
+  "popularity": 1.1305,
+  "poster_path": "/c8FkUTCU6LbFghWtFWhRtcSwQUo.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2025-09-19",
+  "revenue": 0,
+  "runtime": 5,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Hang-Up",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5185868,
+        "known_for_department": "Acting",
+        "name": "Frida Villeda",
+        "original_name": "Frida Villeda",
+        "popularity": 0.208,
+        "profile_path": "/vD0FchkNb9owrTcfvYbXujrdn9w.jpg",
+        "cast_id": 1,
+        "character": "Maddie",
+        "credit_id": "678a903c09c31daea49773a0",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4800755,
+        "known_for_department": "Acting",
+        "name": "Janessa Acuña",
+        "original_name": "Janessa Acuña",
+        "popularity": 0.4022,
+        "profile_path": "/3ikJvPGjq2n9iNfxZv46VVqXUKe.jpg",
+        "cast_id": 2,
+        "character": "Jenn",
+        "credit_id": "678a90ad45f296f6011d7748",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4805408,
+        "known_for_department": "Acting",
+        "name": "Steven Ronggur",
+        "original_name": "Steven Ronggur",
+        "popularity": 0.1486,
+        "profile_path": "/aXQRHCyVnPzbH9msPJiwF0X6Wxu.jpg",
+        "cast_id": 3,
+        "character": "Ben",
+        "credit_id": "678a90c994d95839f3ad6bce",
+        "order": 2
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2569814,
+        "known_for_department": "Directing",
+        "name": "Hannah Notsch",
+        "original_name": "Hannah Notsch",
+        "popularity": 0.1388,
+        "profile_path": "/dOuR4xBsWdFsIRbQbCqqLqW1Ifc.jpg",
+        "credit_id": "678a90e093f742cc29ad1dbc",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4136707,
+        "known_for_department": "Production",
+        "name": "Karla P. Gonzalez",
+        "original_name": "Karla P. Gonzalez",
+        "popularity": 0.1204,
+        "profile_path": "/ekYOInu2WWjvItxuzsLy4ncxrpm.jpg",
+        "credit_id": "678a90fc94d95839f3ad6bed",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4379625,
+        "known_for_department": "Directing",
+        "name": "Andrew Tepper",
+        "original_name": "Andrew Tepper",
+        "popularity": 0.3372,
+        "profile_path": "/ULA8rOOeeGKX5igDrkuvA3GzQs.jpg",
+        "credit_id": "678a911429071c36ac977c99",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4379631,
+        "known_for_department": "Camera",
+        "name": "Jordan Pringle",
+        "original_name": "Jordan Pringle",
+        "popularity": 0.1462,
+        "profile_path": "/nmco8prt8gw33DTXpufmMQJQJ3H.jpg",
+        "credit_id": "678a911fa64feb16c91d9113",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4698300,
+        "known_for_department": "Lighting",
+        "name": "Emma Plum",
+        "original_name": "Emma Plum",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "678a913722f810f7f9976ca5",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4379623,
+        "known_for_department": "Directing",
+        "name": "Duy Đỗ",
+        "original_name": "Duy Đỗ",
+        "popularity": 0.1441,
+        "profile_path": "/45F0efBe0ALRF8YWWSCAw99CpO4.jpg",
+        "credit_id": "678a9143dbfe50aa3d1d2ac3",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4604886,
+        "known_for_department": "Camera",
+        "name": "Naomi Lin",
+        "original_name": "Naomi Lin",
+        "popularity": 0.0338,
+        "profile_path": "/wc5ZmriKSeSFAFCTjnAQkWNxKPI.jpg",
+        "credit_id": "678a915f94d95839f3ad6c39",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4698304,
+        "known_for_department": "Production",
+        "name": "Audrey Samaniego",
+        "original_name": "Audrey Samaniego",
+        "popularity": 0.113,
+        "profile_path": null,
+        "credit_id": "678a919329071c36ac977d45",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4698304,
+        "known_for_department": "Production",
+        "name": "Audrey Samaniego",
+        "original_name": "Audrey Samaniego",
+        "popularity": 0.113,
+        "profile_path": null,
+        "credit_id": "678a92b809c31daea497741c",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4141899,
+        "known_for_department": "Production",
+        "name": "Monica Sandoval",
+        "original_name": "Monica Sandoval",
+        "popularity": 0.277,
+        "profile_path": "/c7lTJTklfGR8OLUAgWUN7yd01uq.jpg",
+        "credit_id": "678a92cc09c31daea4977426",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4800774,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jenn Abbott",
+        "original_name": "Jenn Abbott",
+        "popularity": 0.0686,
+        "profile_path": null,
+        "credit_id": "678a932345f296f6011d7880",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5185902,
+        "known_for_department": "Lighting",
+        "name": "Edgar Carrillo",
+        "original_name": "Edgar Carrillo",
+        "popularity": 0.0819,
+        "profile_path": null,
+        "credit_id": "678a93c8263409661d1d1c14",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5185904,
+        "known_for_department": "Camera",
+        "name": "Olivia Vargo",
+        "original_name": "Olivia Vargo",
+        "popularity": 0.095,
+        "profile_path": null,
+        "credit_id": "678a93e7c2470fc60bad15cb",
+        "department": "Camera",
+        "job": "BTS Photographer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Maddie enters a phone carrier store to replace her phone number but the decision to delete her history proves to be a challenge.",
+          "runtime": 5,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/c8FkUTCU6LbFghWtFWhRtcSwQUo.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2025-09-19T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

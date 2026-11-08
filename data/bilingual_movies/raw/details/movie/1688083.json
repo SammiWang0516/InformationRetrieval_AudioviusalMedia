@@ -1,0 +1,679 @@
+{
+  "adult": false,
+  "backdrop_path": "/dt0VMGal0ITyzMu11cdqCn6ZKGQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 7000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 1688083,
+  "imdb_id": "tt42274221",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Broken Rice",
+  "overview": "An international student far away from home finding comfort in broken rice.",
+  "popularity": 0.8511,
+  "poster_path": "/y0J1wRc5CNNaUKscKJh3W4pZfEG.jpg",
+  "production_companies": [
+    {
+      "id": 297436,
+      "logo_path": null,
+      "name": "Canary Cinema Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2026-05-05",
+  "revenue": 0,
+  "runtime": 23,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Vietnamese",
+      "iso_639_1": "vi",
+      "name": "Tiếng Việt"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Broken Rice",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6189088,
+        "known_for_department": "Acting",
+        "name": "Nhu Doan",
+        "original_name": "Nhu Doan",
+        "popularity": 0.086,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Kim",
+        "credit_id": "69f8d03d7265b998fae9ff05",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6189090,
+        "known_for_department": "Acting",
+        "name": "Steven Duong",
+        "original_name": "Steven Duong",
+        "popularity": 0.0306,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Tony",
+        "credit_id": "69f8d049302059cddbfabbe9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6189092,
+        "known_for_department": "Acting",
+        "name": "Pham Hong Thanh",
+        "original_name": "Pham Hong Thanh",
+        "popularity": 0.1762,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Mai",
+        "credit_id": "69f8d059fd0874e663e9ff18",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6189093,
+        "known_for_department": "Acting",
+        "name": "Le Tien Dung",
+        "original_name": "Le Tien Dung",
+        "popularity": 0.0475,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Nam",
+        "credit_id": "69f8d067316f37b98c95be78",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2955110,
+        "known_for_department": "Acting",
+        "name": "Keith Nussbaum",
+        "original_name": "Keith Nussbaum",
+        "popularity": 0.1838,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Professor Peterson",
+        "credit_id": "69f8d07c7265b998fae9ff09",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5019835,
+        "known_for_department": "Directing",
+        "name": "Paul Vo Le",
+        "original_name": "Paul Vo Le",
+        "popularity": 0.3441,
+        "profile_path": "/pIgZrs44FQ1VaOFvNisRS2Ekx2w.jpg",
+        "credit_id": "69f8d0959bc8ac02d09ddcf0",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4347638,
+        "known_for_department": "Directing",
+        "name": "Vicky Chen",
+        "original_name": "Vicky Chen",
+        "popularity": 0.1745,
+        "profile_path": null,
+        "credit_id": "69f8d0ad288458ea5fde4e71",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4347638,
+        "known_for_department": "Directing",
+        "name": "Vicky Chen",
+        "original_name": "Vicky Chen",
+        "popularity": 0.1745,
+        "profile_path": null,
+        "credit_id": "69f8d0c17c743e6481df5753",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5042792,
+        "known_for_department": "Art",
+        "name": "Marissa Kohler",
+        "original_name": "Marissa Kohler",
+        "popularity": 0.0762,
+        "profile_path": null,
+        "credit_id": "69f8d0e4f4d6e0a61bde4e68",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5042792,
+        "known_for_department": "Art",
+        "name": "Marissa Kohler",
+        "original_name": "Marissa Kohler",
+        "popularity": 0.0762,
+        "profile_path": null,
+        "credit_id": "69f8d104d4555f50df9ddd19",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6148380,
+        "known_for_department": "Camera",
+        "name": "Sam Sowerby",
+        "original_name": "Sam Sowerby",
+        "popularity": 0.0748,
+        "profile_path": null,
+        "credit_id": "69f91ccce3648e927c3b45cb",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5019835,
+        "known_for_department": "Directing",
+        "name": "Paul Vo Le",
+        "original_name": "Paul Vo Le",
+        "popularity": 0.3441,
+        "profile_path": "/pIgZrs44FQ1VaOFvNisRS2Ekx2w.jpg",
+        "credit_id": "69f91cf45e72239bf0d2c84d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6189567,
+        "known_for_department": "Production",
+        "name": "Brandon Paz",
+        "original_name": "Brandon Paz",
+        "popularity": 0.1187,
+        "profile_path": null,
+        "credit_id": "69f91e2c81ec21032fdf58a0",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6189568,
+        "known_for_department": "Production",
+        "name": "Angel DiSalvo",
+        "original_name": "Angel DiSalvo",
+        "popularity": 0.0639,
+        "profile_path": null,
+        "credit_id": "69f91e3e5e851f4ff2ea0031",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6189570,
+        "known_for_department": "Directing",
+        "name": "Christian Butler",
+        "original_name": "Christian Butler",
+        "popularity": 0.0553,
+        "profile_path": null,
+        "credit_id": "69f91e5b459ec17c4adf5945",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3661828,
+        "known_for_department": "Camera",
+        "name": "Ana Cristina Tavarez",
+        "original_name": "Ana Cristina Tavarez",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69f91e84316f37b98c95c032",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5019801,
+        "known_for_department": "Directing",
+        "name": "Sadie Ramirez",
+        "original_name": "Sadie Ramirez",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69f91e9b4a6d898d5495bfb3",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6189574,
+        "known_for_department": "Camera",
+        "name": "Carlos Mendoza",
+        "original_name": "Carlos Mendoza",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "69f91ebeffbf3ea30695c041",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5267641,
+        "known_for_department": "Camera",
+        "name": "Adrian Croissant",
+        "original_name": "Adrian Croissant",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69f91ecd7a2ed217d4bf8ab0",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6189575,
+        "known_for_department": "Camera",
+        "name": "Andrew High",
+        "original_name": "Andrew High",
+        "popularity": 0.2054,
+        "profile_path": null,
+        "credit_id": "69f91eea1d943bc763bf8b23",
+        "department": "Camera",
+        "job": "Camera Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4013644,
+        "known_for_department": "Art",
+        "name": "August Chisholm",
+        "original_name": "August Chisholm",
+        "popularity": 0.0648,
+        "profile_path": null,
+        "credit_id": "69f91f049398ce6051de4fdb",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6189578,
+        "known_for_department": "Crew",
+        "name": "Evelyn Cheung",
+        "original_name": "Evelyn Cheung",
+        "popularity": 0.1057,
+        "profile_path": null,
+        "credit_id": "69f91f1c0fa85626f995c058",
+        "department": "Crew",
+        "job": "Prop Maker"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6189580,
+        "known_for_department": "Art",
+        "name": "Austin Berry",
+        "original_name": "Austin Berry",
+        "popularity": 0.0628,
+        "profile_path": null,
+        "credit_id": "69f91f50ffbf3ea30695c05a",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4504038,
+        "known_for_department": "Lighting",
+        "name": "Jorge Martinez",
+        "original_name": "Jorge Martinez",
+        "popularity": 0.3699,
+        "profile_path": null,
+        "credit_id": "69f91f6a39ac326b61d2c8e9",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3661827,
+        "known_for_department": "Camera",
+        "name": "Brendan Bickel",
+        "original_name": "Brendan Bickel",
+        "popularity": 0.1308,
+        "profile_path": null,
+        "credit_id": "69f91f80b2dbc24e1fd2c87e",
+        "department": "Lighting",
+        "job": "Best Boy Electric"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5118132,
+        "known_for_department": "Lighting",
+        "name": "Lucas X Howland",
+        "original_name": "Lucas X Howland",
+        "popularity": 0.0304,
+        "profile_path": null,
+        "credit_id": "69f91fa0d04f95ac6981adb8",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5020138,
+        "known_for_department": "Camera",
+        "name": "Stephen Crony",
+        "original_name": "Stephen Crony",
+        "popularity": 0.163,
+        "profile_path": null,
+        "credit_id": "69f91fafe3648e927c3b45d2",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5267664,
+        "known_for_department": "Camera",
+        "name": "Lyle Schmitz",
+        "original_name": "Lyle Schmitz",
+        "popularity": 0.1237,
+        "profile_path": null,
+        "credit_id": "69f91fc5fe1b12c822d2c821",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5118134,
+        "known_for_department": "Camera",
+        "name": "Alex Cambridge",
+        "original_name": "Alex Cambridge",
+        "popularity": 0.2103,
+        "profile_path": null,
+        "credit_id": "69f91fddb999d26e3d95bfe9",
+        "department": "Camera",
+        "job": "Best Boy Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4442921,
+        "known_for_department": "Camera",
+        "name": "Ethan Coutts",
+        "original_name": "Ethan Coutts",
+        "popularity": 0.0317,
+        "profile_path": null,
+        "credit_id": "69f9203091fea26556de4fdb",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6148379,
+        "known_for_department": "Lighting",
+        "name": "Gabe Avalos",
+        "original_name": "Gabe Avalos",
+        "popularity": 0.0705,
+        "profile_path": null,
+        "credit_id": "69f920649398ce6051de4fed",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3192658,
+        "known_for_department": "Camera",
+        "name": "Harsh Jaswal",
+        "original_name": "Harsh Jaswal",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69f920723a2e8f7f8ade4fd0",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6189591,
+        "known_for_department": "Editing",
+        "name": "Emily Brandt",
+        "original_name": "Emily Brandt",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "69f92095cb996e368f3b4620",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5019835,
+        "known_for_department": "Directing",
+        "name": "Paul Vo Le",
+        "original_name": "Paul Vo Le",
+        "popularity": 0.3441,
+        "profile_path": "/pIgZrs44FQ1VaOFvNisRS2Ekx2w.jpg",
+        "credit_id": "69f920a2288458ea5fde501c",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5019835,
+        "known_for_department": "Directing",
+        "name": "Paul Vo Le",
+        "original_name": "Paul Vo Le",
+        "popularity": 0.3441,
+        "profile_path": "/pIgZrs44FQ1VaOFvNisRS2Ekx2w.jpg",
+        "credit_id": "69f920c406e4528a6adf58d9",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4706727,
+        "known_for_department": "Sound",
+        "name": "V. Knight",
+        "original_name": "V. Knight",
+        "popularity": 0.1636,
+        "profile_path": null,
+        "credit_id": "69f920d52850efccf53b462e",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5052185,
+        "known_for_department": "Sound",
+        "name": "Keimon Hamilton",
+        "original_name": "Keimon Hamilton",
+        "popularity": 0.0359,
+        "profile_path": null,
+        "credit_id": "69f920e6288458ea5fde5022",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5019812,
+        "known_for_department": "Camera",
+        "name": "Aaron Lasek",
+        "original_name": "Aaron Lasek",
+        "popularity": 0.0965,
+        "profile_path": null,
+        "credit_id": "69f920f7d04f95ac6981adf3",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6189594,
+        "known_for_department": "Production",
+        "name": "Vo Ngoc Thien Thanh",
+        "original_name": "Vo Ngoc Thien Thanh",
+        "popularity": 0.0893,
+        "profile_path": null,
+        "credit_id": "69f9212c3a2e8f7f8ade4fe8",
+        "department": "Production",
+        "job": "Delegated Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6189594,
+        "known_for_department": "Production",
+        "name": "Vo Ngoc Thien Thanh",
+        "original_name": "Vo Ngoc Thien Thanh",
+        "popularity": 0.0893,
+        "profile_path": null,
+        "credit_id": "69f9217278fa48f85c81ae17",
+        "department": "Sound",
+        "job": "Additional Sound Re-Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5019835,
+        "known_for_department": "Directing",
+        "name": "Paul Vo Le",
+        "original_name": "Paul Vo Le",
+        "popularity": 0.3441,
+        "profile_path": "/pIgZrs44FQ1VaOFvNisRS2Ekx2w.jpg",
+        "credit_id": "69f922c37265b998faea0172",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "An international student far away from home finding comfort in broken rice.",
+          "runtime": 23,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt42274221",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [
+      {
+        "aspect_ratio": 1.778,
+        "height": 2160,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/dt0VMGal0ITyzMu11cdqCn6ZKGQ.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 3840
+      }
+    ],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/y0J1wRc5CNNaUKscKJh3W4pZfEG.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2026-05-05T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

@@ -1,0 +1,433 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1694116,
+  "imdb_id": "tt42739341",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "L'amie en commun",
+  "overview": "In life, there are only two kinds of moments: meetings and breakups. This is the story of a breakup and two meetings. Or maybe the other way around.",
+  "popularity": 0.8532,
+  "poster_path": "/cnWuiwetxWODMh3bNvPxP2erm9r.jpg",
+  "production_companies": [
+    {
+      "id": 190298,
+      "logo_path": "/dBAgX11tUlrlNdum87Xy4iYqHfb.png",
+      "name": "Les Films du Sursaut",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2026-06-06",
+  "revenue": 0,
+  "runtime": 23,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "L'amie en commun",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2355138,
+        "known_for_department": "Acting",
+        "name": "Céleste Brunnquell",
+        "original_name": "Céleste Brunnquell",
+        "popularity": 0.4124,
+        "profile_path": "/cFupALXnIkDOOJPjqq0Vm1XJNp2.jpg",
+        "cast_id": 1,
+        "character": "Arlequin",
+        "credit_id": "6a049bd0042c4ec8f00b693d",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2240167,
+        "known_for_department": "Acting",
+        "name": "Mathieu Perotto",
+        "original_name": "Mathieu Perotto",
+        "popularity": 0.2081,
+        "profile_path": "/gQJXvDulNKsrJduNcIHD5iRw8g.jpg",
+        "cast_id": 2,
+        "character": "Paul",
+        "credit_id": "6a049bdefbc8d2d3775e631d",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3147599,
+        "known_for_department": "Acting",
+        "name": "Arcadi Radeff",
+        "original_name": "Arcadi Radeff",
+        "popularity": 0.4055,
+        "profile_path": "/5e8phMITmDTHRbdF3KaB46x6pOl.jpg",
+        "cast_id": 3,
+        "character": "Pierre",
+        "credit_id": "6a049beb8392dc55e85e62f7",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2903737,
+        "known_for_department": "Acting",
+        "name": "Michael Zindel",
+        "original_name": "Michael Zindel",
+        "popularity": 0.1791,
+        "profile_path": "/b1rbIVnewjse5UPRKi4asjsvHQO.jpg",
+        "cast_id": 4,
+        "character": "Capuchon",
+        "credit_id": "6a049bfae8641b2478ce85a6",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6569837,
+        "known_for_department": "Acting",
+        "name": "Alexandre Barcellona",
+        "original_name": "Alexandre Barcellona",
+        "popularity": 0.1174,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Nestor",
+        "credit_id": "6adb271ba028255bb1257d92",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2933356,
+        "known_for_department": "Acting",
+        "name": "Anouk Villemin",
+        "original_name": "Anouk Villemin",
+        "popularity": 0.7146,
+        "profile_path": "/gmG0Ngm2lJDy0lIu1BOdsp8m3LW.jpg",
+        "cast_id": 12,
+        "character": "Colette",
+        "credit_id": "6adb2766a928b1f4c2b0e04b",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4334272,
+        "known_for_department": "Directing",
+        "name": "Louis Douillez",
+        "original_name": "Louis Douillez",
+        "popularity": 0.2838,
+        "profile_path": null,
+        "credit_id": "6a049c1706b0a66eba91b01d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3807151,
+        "known_for_department": "Camera",
+        "name": "Sacha Lévêque",
+        "original_name": "Sacha Lévêque",
+        "popularity": 0.1513,
+        "profile_path": null,
+        "credit_id": "6a049c2afbc8d2d3775e6333",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2314087,
+        "known_for_department": "Directing",
+        "name": "Maxence Tasserit",
+        "original_name": "Maxence Tasserit",
+        "popularity": 0.3047,
+        "profile_path": null,
+        "credit_id": "6a049c45decccd6cbeca9e93",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4334272,
+        "known_for_department": "Directing",
+        "name": "Louis Douillez",
+        "original_name": "Louis Douillez",
+        "popularity": 0.2838,
+        "profile_path": null,
+        "credit_id": "6a049d5f1d1fbed4ad0b695d",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2391814,
+        "known_for_department": "Production",
+        "name": "Dorothée Levesque",
+        "original_name": "Dorothée Levesque",
+        "popularity": 0.4344,
+        "profile_path": null,
+        "credit_id": "6adb278e9295aef785b0e137",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4371408,
+        "known_for_department": "Acting",
+        "name": "Thomas Bari",
+        "original_name": "Thomas Bari",
+        "popularity": 0.088,
+        "profile_path": null,
+        "credit_id": "6adb27d90850326beb216043",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3463989,
+        "known_for_department": "Sound",
+        "name": "Adrien Cannepin",
+        "original_name": "Adrien Cannepin",
+        "popularity": 0.233,
+        "profile_path": null,
+        "credit_id": "6adb27f7c24639749a519e4e",
+        "department": "Sound",
+        "job": "Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4475414,
+        "known_for_department": "Sound",
+        "name": "Barttolo Labescau",
+        "original_name": "Barttolo Labescau",
+        "popularity": 0.1779,
+        "profile_path": null,
+        "credit_id": "6adb280a0cd6c5b28b257c04",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4475411,
+        "known_for_department": "Sound",
+        "name": "Line Multari",
+        "original_name": "Line Multari",
+        "popularity": 0.2594,
+        "profile_path": null,
+        "credit_id": "6adb281619279a0a5f309925",
+        "department": "Sound",
+        "job": "Sound Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4972761,
+        "known_for_department": "Production",
+        "name": "Clémence Touzet",
+        "original_name": "Clémence Touzet",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6adb282b0cd6c5b28b257c07",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4475415,
+        "known_for_department": "Crew",
+        "name": "Julie Robert",
+        "original_name": "Julie Robert",
+        "popularity": 0.1016,
+        "profile_path": null,
+        "credit_id": "6addd5df315bf80058e1c972",
+        "department": "Directing",
+        "job": "Script Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5438862,
+        "known_for_department": "Art",
+        "name": "Léa Lemarchand",
+        "original_name": "Léa Lemarchand",
+        "popularity": 0.1961,
+        "profile_path": null,
+        "credit_id": "6addd5fe77dd8071019a97b1",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4310338,
+        "known_for_department": "Writing",
+        "name": "Zéphir Blanc",
+        "original_name": "Zéphir Blanc",
+        "popularity": 0.0436,
+        "profile_path": null,
+        "credit_id": "6addd61eb3a8491d83d826ac",
+        "department": "Production",
+        "job": "Production Coordinator"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "FR",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "Dans la vie, il n’y a que deux types de scènes : les rencontres et les ruptures. C’est l’histoire d’une rupture et de deux rencontres. Ou peut-être l’inverse.",
+          "runtime": 23,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "CA",
+        "iso_639_1": "fr",
+        "name": "Français",
+        "english_name": "French",
+        "data": {
+          "homepage": "",
+          "overview": "",
+          "runtime": 0,
+          "tagline": "",
+          "title": ""
+        }
+      },
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "In life, there are only two kinds of moments: meetings and breakups. This is the story of a breakup and two meetings. Or maybe the other way around.",
+          "runtime": 23,
+          "tagline": "",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": "tt42739341",
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.666,
+        "height": 2500,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/cnWuiwetxWODMh3bNvPxP2erm9r.jpg",
+        "vote_average": 3.334,
+        "vote_count": 1,
+        "width": 1665
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1500,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/aCOtPXX75pBijFWBVTnlYiwWsvj.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1000
+      },
+      {
+        "aspect_ratio": 0.666,
+        "height": 2000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/509rp1DNHE28WTACoMfnrnMKqM0.jpg",
+        "vote_average": 0.166,
+        "vote_count": 1,
+        "width": 1333
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "FR",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Grand Angle - Festival Côté Court, Pantin",
+            "release_date": "2026-06-06T00:00:00.000Z",
+            "type": 1
+          },
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "",
+            "note": "Cabourg Film Festival",
+            "release_date": "2026-06-12T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

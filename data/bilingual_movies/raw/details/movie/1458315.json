@@ -1,0 +1,382 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 4250,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1458315,
+  "imdb_id": null,
+  "origin_country": [
+    "RU"
+  ],
+  "original_language": "ru",
+  "original_title": "Лудоман",
+  "overview": "Prokhor is a roulette player. His life becomes uncertain after debt collectors knock on his door.",
+  "popularity": 1.2996,
+  "poster_path": "/tcoEEx55OdCRdZrCWkMQrceuyDp.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "RU",
+      "name": "Russia"
+    }
+  ],
+  "release_date": "2025-04-04",
+  "revenue": 0,
+  "runtime": 25,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "All or nothing",
+  "title": "The Ludoman",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5345428,
+        "known_for_department": "Acting",
+        "name": "Alexey Ignashin",
+        "original_name": "Alexey Ignashin",
+        "popularity": 0.1831,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Prokhor",
+        "credit_id": "67edc6eb4909e25b07a78e3a",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5345429,
+        "known_for_department": "Acting",
+        "name": "Ivan Alekseev",
+        "original_name": "Иван Алексеев",
+        "popularity": 0.1887,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Collector Konstantin",
+        "credit_id": "67edc72d1d1ccf5f4f628aa2",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4531901,
+        "known_for_department": "Acting",
+        "name": "Emil Gas",
+        "original_name": "Эмиль Гас",
+        "popularity": 0.3789,
+        "profile_path": "/uxSmn6JxrkobhFM25ZVAJZxDD8b.jpg",
+        "cast_id": 3,
+        "character": "Sasha",
+        "credit_id": "67edc7634909e25b07a78e6b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5345430,
+        "known_for_department": "Acting",
+        "name": "Daria Parmenenkova",
+        "original_name": "Daria Parmenenkova",
+        "popularity": 0.0511,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Masha",
+        "credit_id": "67edc7994909e25b07a78e89",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5345431,
+        "known_for_department": "Acting",
+        "name": "Artur Kulakov",
+        "original_name": "Artur Kulakov",
+        "popularity": 0.0976,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Collector Valera",
+        "credit_id": "67edc7becf06190cbae178e0",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2008186,
+        "known_for_department": "Acting",
+        "name": "Aleksandr Alyoshkin",
+        "original_name": "Александр Алёшкин",
+        "popularity": 0.7148,
+        "profile_path": "/pVK92dWDCTa8H4pJdAr6KNPUx2J.jpg",
+        "cast_id": 6,
+        "character": "The Producer",
+        "credit_id": "67edc7ef4909e25b07a78ea9",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4412678,
+        "known_for_department": "Directing",
+        "name": "Dmitry Simbirtsev",
+        "original_name": "Дмитрий Симбирцев",
+        "popularity": 0.2284,
+        "profile_path": null,
+        "credit_id": "67edc80815f6ba86f1e17602",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4412678,
+        "known_for_department": "Directing",
+        "name": "Dmitry Simbirtsev",
+        "original_name": "Дмитрий Симбирцев",
+        "popularity": 0.2284,
+        "profile_path": null,
+        "credit_id": "67edc8261d1ccf5f4f628aca",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4412678,
+        "known_for_department": "Directing",
+        "name": "Dmitry Simbirtsev",
+        "original_name": "Дмитрий Симбирцев",
+        "popularity": 0.2284,
+        "profile_path": null,
+        "credit_id": "67edc83803540cf8e562879d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4412682,
+        "known_for_department": "Camera",
+        "name": "Ylya Arzinowsky",
+        "original_name": "Ylya Arzinowsky",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67edc8615f3bd7242e62898e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4629563,
+        "known_for_department": "Production",
+        "name": "Sofia Zubinova",
+        "original_name": "Sofia Zubinova",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67edc873cf06190cbae17920",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4412680,
+        "known_for_department": "Production",
+        "name": "Andrey Startsev",
+        "original_name": "Andrey Startsev",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67edc88254f595bb55a78cbf",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5345435,
+        "known_for_department": "Sound",
+        "name": "Pavel Tsvetkov",
+        "original_name": "Pavel Tsvetkov",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67edc8a64909e25b07a78ec4",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5345436,
+        "known_for_department": "Art",
+        "name": "Zoya Melikhova",
+        "original_name": "Zoya Melikhova",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67edc8cd9c68504cf2628c42",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2182643,
+        "known_for_department": "Sound",
+        "name": "Kirill Parastaev",
+        "original_name": "Кирилл Парастаев",
+        "popularity": 0.2033,
+        "profile_path": null,
+        "credit_id": "67edcbbe1d1ccf5f4f628b48",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4460682,
+        "known_for_department": "Directing",
+        "name": "Egor Mashkov",
+        "original_name": "Egor Mashkov",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "67edcc3415f6ba86f1e1777f",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4629573,
+        "known_for_department": "Editing",
+        "name": "Daniil Komarov",
+        "original_name": "Daniil Komarov",
+        "popularity": 0.0548,
+        "profile_path": null,
+        "credit_id": "67edcc4b1d1ccf5f4f628b5f",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5345457,
+        "known_for_department": "Visual Effects",
+        "name": "Vasya Moskalchuk",
+        "original_name": "Вася Маскальчук",
+        "popularity": 0.0313,
+        "profile_path": null,
+        "credit_id": "67edcc6b5f3bd7242e628ac1",
+        "department": "Visual Effects",
+        "job": "VFX Artist"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 6433,
+        "name": "roulette"
+      },
+      {
+        "id": 33406,
+        "name": "roulette wheel"
+      },
+      {
+        "id": 155841,
+        "name": "gambler"
+      },
+      {
+        "id": 328752,
+        "name": "ludopatía"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Prokhor is a roulette player. His life becomes uncertain after debt collectors knock on his door.",
+          "runtime": 25,
+          "tagline": "All or nothing",
+          "title": "The Ludoman"
+        }
+      },
+      {
+        "iso_3166_1": "RU",
+        "iso_639_1": "ru",
+        "name": "Pусский",
+        "english_name": "Russian",
+        "data": {
+          "homepage": "",
+          "overview": "Прохор - заядлый игрок в рулетку. Его жизнь становится неопределенной после того, как к нему постучались коллекторы...",
+          "runtime": 0,
+          "tagline": "",
+          "title": "Лудоман"
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": []
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "RU",
+        "release_dates": [
+          {
+            "certification": "16+",
+            "descriptors": [],
+            "iso_639_1": "ru",
+            "note": "",
+            "release_date": "2025-04-04T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

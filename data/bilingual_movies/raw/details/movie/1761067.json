@@ -1,0 +1,651 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 500,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://celicofilmproductions.com",
+  "id": 1761067,
+  "imdb_id": null,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Melody of the Damned",
+  "overview": "Two siblings accidentally summon a group of musical demons who take over their late grandmother's attic to put on a variety show.",
+  "popularity": 0.8136,
+  "poster_path": "/4dOirMKzhuwIvXvcvYSbKVEMWdf.jpg",
+  "production_companies": [
+    {
+      "id": 262829,
+      "logo_path": null,
+      "name": "Celico Film Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 73427,
+      "logo_path": null,
+      "name": "Camelot Studios",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-09-04",
+  "revenue": 0,
+  "runtime": 14,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It is a sin to not join in!",
+  "title": "Melody of the Damned",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6453634,
+        "known_for_department": "Acting",
+        "name": "Liam Alfield",
+        "original_name": "Liam Alfield",
+        "popularity": 0.1029,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Canto",
+        "credit_id": "6a98d9dbda633c744b972e21",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6453635,
+        "known_for_department": "Acting",
+        "name": "Parker Rhodes",
+        "original_name": "Parker Rhodes",
+        "popularity": 0.0338,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Harper",
+        "credit_id": "6a98d9e9e7627b0352ca2880",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5449821,
+        "known_for_department": "Directing",
+        "name": "Alex Celico",
+        "original_name": "Alex Celico",
+        "popularity": 0.4188,
+        "profile_path": "/55epSMRJ0rRrnN89KwF4qGfqy06.jpg",
+        "cast_id": 3,
+        "character": "Cosmo (Puppeteer)",
+        "credit_id": "6a98da031aa04626f061f284",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6349450,
+        "known_for_department": "Directing",
+        "name": "Darius Caceres",
+        "original_name": "Darius Caceres",
+        "popularity": 0.0982,
+        "profile_path": "/33S2X0v0qT8KnpnBRhkO3JLfxnj.jpg",
+        "cast_id": 4,
+        "character": "Sylvester",
+        "credit_id": "6a98da25916baf588b61f281",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5449826,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Hannah Contardo",
+        "original_name": "Hannah Contardo",
+        "popularity": 0.3251,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Ham",
+        "credit_id": "6a98da40ccb11f40c1725439",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6453636,
+        "known_for_department": "Acting",
+        "name": "Mason Lopez",
+        "original_name": "Mason Lopez",
+        "popularity": 0.1343,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Santana",
+        "credit_id": "6a98da84f1861cf9d0e1225e",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6029159,
+        "known_for_department": "Directing",
+        "name": "Sam Conrady",
+        "original_name": "Sam Conrady",
+        "popularity": 0.1099,
+        "profile_path": "/8Ugt47orbyoLrw4UGdwOM06U3v0.jpg",
+        "cast_id": 7,
+        "character": "Harper's Demon",
+        "credit_id": "6a98da97081b2411fbca287b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6394996,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ayden Martins",
+        "original_name": "Ayden Martins",
+        "popularity": 0.1852,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Demon",
+        "credit_id": "6a98dab2f9279ea094af020d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6349507,
+        "known_for_department": "Camera",
+        "name": "Jeffrey Lopriore",
+        "original_name": "Jeffrey Lopriore",
+        "popularity": 0.1151,
+        "profile_path": "/fD26P0WD63yz1h4U8QNtCIo2grU.jpg",
+        "cast_id": 9,
+        "character": "Announcer (Voice)",
+        "credit_id": "6a98dad7531277b319972dfb",
+        "order": 8
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5449821,
+        "known_for_department": "Directing",
+        "name": "Alex Celico",
+        "original_name": "Alex Celico",
+        "popularity": 0.4188,
+        "profile_path": "/55epSMRJ0rRrnN89KwF4qGfqy06.jpg",
+        "credit_id": "6a98db36c6846cf14fe7a4d8",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6394868,
+        "known_for_department": "Acting",
+        "name": "Konstantina Platsidakis",
+        "original_name": "Konstantina Platsidakis",
+        "popularity": 0.1187,
+        "profile_path": null,
+        "credit_id": "6a98db6a2229ffff50af0232",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6349450,
+        "known_for_department": "Directing",
+        "name": "Darius Caceres",
+        "original_name": "Darius Caceres",
+        "popularity": 0.0982,
+        "profile_path": "/33S2X0v0qT8KnpnBRhkO3JLfxnj.jpg",
+        "credit_id": "6a98dc35eee3230f39e12268",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6349449,
+        "known_for_department": "Acting",
+        "name": "Lilly Allen",
+        "original_name": "Lilly Allen",
+        "popularity": 0.2017,
+        "profile_path": "/a2jSv6GmURqumwTBBM8VCcnRS7o.jpg",
+        "credit_id": "6a98dc67ec0fb74f97e7a4cd",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5259331,
+        "known_for_department": "Camera",
+        "name": "Madison Lawing",
+        "original_name": "Madison Lawing",
+        "popularity": 0.0337,
+        "profile_path": "/w2s7PzGNeq2SfpsiotCIfY0mB9Z.jpg",
+        "credit_id": "6a98dc812d763903e5c1b3fe",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6394993,
+        "known_for_department": "Camera",
+        "name": "Rylee Adams",
+        "original_name": "Rylee Adams",
+        "popularity": 0.0254,
+        "profile_path": null,
+        "credit_id": "6a98dc914b72665556972dcc",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5449826,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Hannah Contardo",
+        "original_name": "Hannah Contardo",
+        "popularity": 0.3251,
+        "profile_path": null,
+        "credit_id": "6a98dcd04b4bb807887253fe",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5719712,
+        "known_for_department": "Acting",
+        "name": "Skyla Metro",
+        "original_name": "Skyla Metro",
+        "popularity": 0.0852,
+        "profile_path": null,
+        "credit_id": "6a98dcf1a63f37b112f3eeb8",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6394969,
+        "known_for_department": "Acting",
+        "name": "Hak Kay",
+        "original_name": "Hak Kay",
+        "popularity": 0.0354,
+        "profile_path": null,
+        "credit_id": "6a98dcfb9e6e11a1ff58b7a0",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6026256,
+        "known_for_department": "Sound",
+        "name": "Chip Bowdoin",
+        "original_name": "Chip Bowdoin",
+        "popularity": 0.0485,
+        "profile_path": null,
+        "credit_id": "6a98dd1abc76c722f5c1b438",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5719688,
+        "known_for_department": "Acting",
+        "name": "Ruby Costa",
+        "original_name": "Ruby Costa",
+        "popularity": 0.5628,
+        "profile_path": null,
+        "credit_id": "6a98dd34d2d84bde9969183b",
+        "department": "Crew",
+        "job": "Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6349507,
+        "known_for_department": "Camera",
+        "name": "Jeffrey Lopriore",
+        "original_name": "Jeffrey Lopriore",
+        "popularity": 0.1151,
+        "profile_path": "/fD26P0WD63yz1h4U8QNtCIo2grU.jpg",
+        "credit_id": "6a98ddd9241acdfe0158b7c9",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6349507,
+        "known_for_department": "Camera",
+        "name": "Jeffrey Lopriore",
+        "original_name": "Jeffrey Lopriore",
+        "popularity": 0.1151,
+        "profile_path": "/fD26P0WD63yz1h4U8QNtCIo2grU.jpg",
+        "credit_id": "6a98dde9da633c744b972e35",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6026255,
+        "known_for_department": "Acting",
+        "name": "Noah Goulet",
+        "original_name": "Noah Goulet",
+        "popularity": 0.0611,
+        "profile_path": null,
+        "credit_id": "6a98de39846865744a9dbfb6",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5449824,
+        "known_for_department": "Camera",
+        "name": "Gavin Lapan Carpenter",
+        "original_name": "Gavin Lapan Carpenter",
+        "popularity": 0.1364,
+        "profile_path": "/cJ1QGalhedSozX7KJ5QhdyFhBCN.jpg",
+        "credit_id": "6a98de4958772674c7af01fc",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6394992,
+        "known_for_department": "Camera",
+        "name": "Lucas Nicini",
+        "original_name": "Lucas Nicini",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "6a98de5b99cca9a141c1b40d",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6394992,
+        "known_for_department": "Camera",
+        "name": "Lucas Nicini",
+        "original_name": "Lucas Nicini",
+        "popularity": 0.0448,
+        "profile_path": null,
+        "credit_id": "6a98de6cf1861cf9d0e1227b",
+        "department": "Camera",
+        "job": "BTS Videographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5405585,
+        "known_for_department": "Production",
+        "name": "Peyton Luiz",
+        "original_name": "Peyton Luiz",
+        "popularity": 0.1354,
+        "profile_path": "/7KWF02nEtsViOwgV3NpMixrXBlO.jpg",
+        "credit_id": "6a98deb658772674c7af0207",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6349449,
+        "known_for_department": "Acting",
+        "name": "Lilly Allen",
+        "original_name": "Lilly Allen",
+        "popularity": 0.2017,
+        "profile_path": "/a2jSv6GmURqumwTBBM8VCcnRS7o.jpg",
+        "credit_id": "6a98dee7384560c28e58b7e8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6029159,
+        "known_for_department": "Directing",
+        "name": "Sam Conrady",
+        "original_name": "Sam Conrady",
+        "popularity": 0.1099,
+        "profile_path": "/8Ugt47orbyoLrw4UGdwOM06U3v0.jpg",
+        "credit_id": "6a98defd7885cc4d6e9dbfdc",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6349507,
+        "known_for_department": "Camera",
+        "name": "Jeffrey Lopriore",
+        "original_name": "Jeffrey Lopriore",
+        "popularity": 0.1151,
+        "profile_path": "/fD26P0WD63yz1h4U8QNtCIo2grU.jpg",
+        "credit_id": "6a98df0fedfbb55e79972de9",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5449821,
+        "known_for_department": "Directing",
+        "name": "Alex Celico",
+        "original_name": "Alex Celico",
+        "popularity": 0.4188,
+        "profile_path": "/55epSMRJ0rRrnN89KwF4qGfqy06.jpg",
+        "credit_id": "6a98df1b904797f288e12255",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6029159,
+        "known_for_department": "Directing",
+        "name": "Sam Conrady",
+        "original_name": "Sam Conrady",
+        "popularity": 0.1099,
+        "profile_path": "/8Ugt47orbyoLrw4UGdwOM06U3v0.jpg",
+        "credit_id": "6a98df288952ab5c0458b7f8",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5449821,
+        "known_for_department": "Directing",
+        "name": "Alex Celico",
+        "original_name": "Alex Celico",
+        "popularity": 0.4188,
+        "profile_path": "/55epSMRJ0rRrnN89KwF4qGfqy06.jpg",
+        "credit_id": "6a98df41f60058ea6ff3eebd",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6349504,
+        "known_for_department": "Editing",
+        "name": "Elias Frawley Gendron",
+        "original_name": "Elias Frawley Gendron",
+        "popularity": 0.0345,
+        "profile_path": "/xAJpMMtMQjjPQH9btf7zAz7F8FD.jpg",
+        "credit_id": "6a98df5ab28adbcc7158b7d7",
+        "department": "Crew",
+        "job": "Pyrotechnician"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5449821,
+        "known_for_department": "Directing",
+        "name": "Alex Celico",
+        "original_name": "Alex Celico",
+        "popularity": 0.4188,
+        "profile_path": "/55epSMRJ0rRrnN89KwF4qGfqy06.jpg",
+        "credit_id": "6a98e03d6484c53c22725427",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5263102,
+        "known_for_department": "Directing",
+        "name": "Tyler Lahousse",
+        "original_name": "Tyler Lahousse",
+        "popularity": 0.1276,
+        "profile_path": "/tSXo8bot2pr1rqK1FDE0qGoZ5Hx.jpg",
+        "credit_id": "6a9ab37a165d1f6415428c32",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5263957,
+        "known_for_department": "Production",
+        "name": "Brandon Conley",
+        "original_name": "Brandon Conley",
+        "popularity": 0.1229,
+        "profile_path": "/24xFREnBBjhqAgH0vf4x0FrmuPI.jpg",
+        "credit_id": "6a9ab391cad19a89f67d696a",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 10292,
+        "name": "gore"
+      },
+      {
+        "id": 4344,
+        "name": "musical"
+      },
+      {
+        "id": 6300,
+        "name": "puppet"
+      },
+      {
+        "id": 194610,
+        "name": "variety show"
+      },
+      {
+        "id": 303628,
+        "name": "muppets"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "http://celicofilmproductions.com",
+          "overview": "Two siblings accidentally summon a group of musical demons who take over their late grandmother's attic to put on a variety show.",
+          "runtime": 14,
+          "tagline": "It is a sin to not join in!",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": null,
+        "iso_639_1": null,
+        "file_path": "/4dOirMKzhuwIvXvcvYSbKVEMWdf.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2026-09-04T00:00:00.000Z",
+            "type": 4
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}

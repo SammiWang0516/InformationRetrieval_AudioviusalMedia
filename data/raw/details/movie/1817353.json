@@ -1,0 +1,576 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1817353,
+  "imdb_id": null,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Egg Hunt",
+  "overview": "Suspicion takes hold of parents and children alike when cryptic surprises are discovered during an Easter egg hunt.",
+  "popularity": 0.1526,
+  "poster_path": "/k3nii19cjbzeljrHGF28qgaP1ip.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-10-31",
+  "revenue": 0,
+  "runtime": 4,
+  "softcore": false,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "What will you find?",
+  "title": "Egg Hunt",
+  "video": false,
+  "vote_average": 0.0,
+  "vote_count": 0,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6600157,
+        "known_for_department": "Acting",
+        "name": "Marcus Bales",
+        "original_name": "Marcus Bales",
+        "popularity": 0.0194,
+        "profile_path": null,
+        "cast_id": 1,
+        "character": "Bunny Hat Man",
+        "credit_id": "6aebb09a526f4a37bd703983",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6600158,
+        "known_for_department": "Acting",
+        "name": "Calvin Klein",
+        "original_name": "Calvin Klein",
+        "popularity": 0.0194,
+        "profile_path": null,
+        "cast_id": 2,
+        "character": "Father",
+        "credit_id": "6aebb0d8be346b59fd2a942f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6600161,
+        "known_for_department": "Acting",
+        "name": "Danny Spicer",
+        "original_name": "Danny Spicer",
+        "popularity": 0.0194,
+        "profile_path": null,
+        "cast_id": 3,
+        "character": "Johnny",
+        "credit_id": "6aebb11e220833927a034a1e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6600163,
+        "known_for_department": "Acting",
+        "name": "Jennifer Baffour",
+        "original_name": "Jennifer Baffour",
+        "popularity": 0.0194,
+        "profile_path": null,
+        "cast_id": 4,
+        "character": "Mother",
+        "credit_id": "6aebb140f44a8f1d7c70398b",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6600164,
+        "known_for_department": "Acting",
+        "name": "Alani Cotton",
+        "original_name": "Alani Cotton",
+        "popularity": 0.0194,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Jan",
+        "credit_id": "6aebb159be346b59fd2a944c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6600165,
+        "known_for_department": "Acting",
+        "name": "Mark Onyshko",
+        "original_name": "Mark Onyshko",
+        "popularity": 0.0194,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Small Child",
+        "credit_id": "6aebb16fd460975317dd4515",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6600166,
+        "known_for_department": "Acting",
+        "name": "Lucy Isles",
+        "original_name": "Lucy Isles",
+        "popularity": 0.0194,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Girl at Egg Hunt",
+        "credit_id": "6aebb19f704a0f0b0edd4524",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6600167,
+        "known_for_department": "Acting",
+        "name": "Aaliyah Kissick",
+        "original_name": "Aaliyah Kissick",
+        "popularity": 0.0194,
+        "profile_path": null,
+        "cast_id": 8,
+        "character": "Mom at Egg Hunt",
+        "credit_id": "6aebb1c0002bc0645fff09a5",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6600169,
+        "known_for_department": "Directing",
+        "name": "Riley Miracle",
+        "original_name": "Riley Miracle",
+        "popularity": 0.0517,
+        "profile_path": "/lROTdM5oVBuygJaWeQrsMUFrGT2.jpg",
+        "credit_id": "6aebb1e757f44b53152a9439",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6600169,
+        "known_for_department": "Directing",
+        "name": "Riley Miracle",
+        "original_name": "Riley Miracle",
+        "popularity": 0.0517,
+        "profile_path": "/lROTdM5oVBuygJaWeQrsMUFrGT2.jpg",
+        "credit_id": "6aebb1f90a7396d673034a32",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6600172,
+        "known_for_department": "Directing",
+        "name": "Abby Thomas",
+        "original_name": "Abby Thomas",
+        "popularity": 0.0194,
+        "profile_path": null,
+        "credit_id": "6aebb22e0d7d3368505ea2c2",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6600173,
+        "known_for_department": "Production",
+        "name": "Jianna Venturina",
+        "original_name": "Jianna Venturina",
+        "popularity": 0.0194,
+        "profile_path": null,
+        "credit_id": "6aebb255f27e5fbe89703a28",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6600169,
+        "known_for_department": "Directing",
+        "name": "Riley Miracle",
+        "original_name": "Riley Miracle",
+        "popularity": 0.0517,
+        "profile_path": "/lROTdM5oVBuygJaWeQrsMUFrGT2.jpg",
+        "credit_id": "6aebb2625462aef06e9b842c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6600178,
+        "known_for_department": "Camera",
+        "name": "Troy Elliott",
+        "original_name": "Troy Elliott",
+        "popularity": 0.0194,
+        "profile_path": null,
+        "credit_id": "6aebb28ab88d16e2fcff09b5",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6600182,
+        "known_for_department": "Lighting",
+        "name": "Nathan Allgeier",
+        "original_name": "Nathan Allgeier",
+        "popularity": 0.0194,
+        "profile_path": null,
+        "credit_id": "6aebb2b522368af51e7039d7",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6600169,
+        "known_for_department": "Directing",
+        "name": "Riley Miracle",
+        "original_name": "Riley Miracle",
+        "popularity": 0.0517,
+        "profile_path": "/lROTdM5oVBuygJaWeQrsMUFrGT2.jpg",
+        "credit_id": "6aebb2cba913c607f35ea2c6",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6600185,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Joann Miracle",
+        "original_name": "Joann Miracle",
+        "popularity": 0.0194,
+        "profile_path": null,
+        "credit_id": "6aebb2dfe3329c38347039b8",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6600169,
+        "known_for_department": "Directing",
+        "name": "Riley Miracle",
+        "original_name": "Riley Miracle",
+        "popularity": 0.0517,
+        "profile_path": "/lROTdM5oVBuygJaWeQrsMUFrGT2.jpg",
+        "credit_id": "6aebb2eff27e5fbe89703a60",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6600182,
+        "known_for_department": "Lighting",
+        "name": "Nathan Allgeier",
+        "original_name": "Nathan Allgeier",
+        "popularity": 0.0194,
+        "profile_path": null,
+        "credit_id": "6aebb2fb5062c0997f5ea2c3",
+        "department": "Crew",
+        "job": "Special Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5421453,
+        "known_for_department": "Sound",
+        "name": "Cole Welcher",
+        "original_name": "Cole Welcher",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6aebb314b8240a50792a9414",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5768242,
+        "known_for_department": "Lighting",
+        "name": "Dylan Huska",
+        "original_name": "Dylan Huska",
+        "popularity": 0.0812,
+        "profile_path": null,
+        "credit_id": "6aebb33152cecb51f2dd452d",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5768242,
+        "known_for_department": "Lighting",
+        "name": "Dylan Huska",
+        "original_name": "Dylan Huska",
+        "popularity": 0.0812,
+        "profile_path": null,
+        "credit_id": "6aebb33de7b8d12723ff0a27",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6600169,
+        "known_for_department": "Directing",
+        "name": "Riley Miracle",
+        "original_name": "Riley Miracle",
+        "popularity": 0.0517,
+        "profile_path": "/lROTdM5oVBuygJaWeQrsMUFrGT2.jpg",
+        "credit_id": "6aebb35623d7686dfa2a9445",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6600169,
+        "known_for_department": "Directing",
+        "name": "Riley Miracle",
+        "original_name": "Riley Miracle",
+        "popularity": 0.0517,
+        "profile_path": "/lROTdM5oVBuygJaWeQrsMUFrGT2.jpg",
+        "credit_id": "6aebb36257f44b53152a946c",
+        "department": "Production",
+        "job": "Location Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6600185,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Joann Miracle",
+        "original_name": "Joann Miracle",
+        "popularity": 0.0194,
+        "profile_path": null,
+        "credit_id": "6aebb37457f44b53152a946f",
+        "department": "Crew",
+        "job": "Craft Service"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5443217,
+        "known_for_department": "Camera",
+        "name": "Lakshya Sawhney",
+        "original_name": "Lakshya Sawhney",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6aebb38e04a19282f66fac6b",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5443217,
+        "known_for_department": "Camera",
+        "name": "Lakshya Sawhney",
+        "original_name": "Lakshya Sawhney",
+        "popularity": 0.0591,
+        "profile_path": null,
+        "credit_id": "6aebb3b7a913c607f35ea2dd",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6530894,
+        "known_for_department": "Camera",
+        "name": "Ethan Alexander Pascual",
+        "original_name": "Ethan Alexander Pascual",
+        "popularity": 0.0657,
+        "profile_path": null,
+        "credit_id": "6aebb3cdf27e5fbe89703a75",
+        "department": "Camera",
+        "job": "Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6600198,
+        "known_for_department": "Crew",
+        "name": "Bryon Miracle",
+        "original_name": "Bryon Miracle",
+        "popularity": 0.0194,
+        "profile_path": null,
+        "credit_id": "6aebb3e77fedee21766fac58",
+        "department": "Crew",
+        "job": "Drone Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5768242,
+        "known_for_department": "Lighting",
+        "name": "Dylan Huska",
+        "original_name": "Dylan Huska",
+        "popularity": 0.0812,
+        "profile_path": null,
+        "credit_id": "6aebb401fb253f0b255ea2c0",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5765720,
+        "known_for_department": "Camera",
+        "name": "Kaleb Ervin",
+        "original_name": "Kaleb Ervin",
+        "popularity": 0.0655,
+        "profile_path": null,
+        "credit_id": "6aebb4176fdfb8f5136fac5f",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5768242,
+        "known_for_department": "Lighting",
+        "name": "Dylan Huska",
+        "original_name": "Dylan Huska",
+        "popularity": 0.0812,
+        "profile_path": null,
+        "credit_id": "6aebb424a6409766fcff09ff",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6600172,
+        "known_for_department": "Directing",
+        "name": "Abby Thomas",
+        "original_name": "Abby Thomas",
+        "popularity": 0.0194,
+        "profile_path": null,
+        "credit_id": "6aebb4355062c0997f5ea2ef",
+        "department": "Art",
+        "job": "Set Dresser"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6600198,
+        "known_for_department": "Crew",
+        "name": "Bryon Miracle",
+        "original_name": "Bryon Miracle",
+        "popularity": 0.0194,
+        "profile_path": null,
+        "credit_id": "6aebb44b65c511c255dd4573",
+        "department": "Crew",
+        "job": "Special Effects Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6600201,
+        "known_for_department": "Camera",
+        "name": "Mary Richards",
+        "original_name": "Mary Richards",
+        "popularity": 0.0194,
+        "profile_path": null,
+        "credit_id": "6aebb45fb8240a50792a9440",
+        "department": "Camera",
+        "job": "Still Photographer"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": []
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "name": "English",
+        "english_name": "English",
+        "data": {
+          "homepage": "",
+          "overview": "Suspicion takes hold of parents and children alike when cryptic surprises are discovered during an Easter egg hunt.",
+          "runtime": 4,
+          "tagline": "What will you find?",
+          "title": ""
+        }
+      }
+    ]
+  },
+  "alternative_titles": {
+    "titles": []
+  },
+  "external_ids": {
+    "imdb_id": null,
+    "wikidata_id": null,
+    "facebook_id": null,
+    "instagram_id": null,
+    "twitter_id": null
+  },
+  "images": {
+    "backdrops": [],
+    "logos": [],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_3166_1": "US",
+        "iso_639_1": "en",
+        "file_path": "/k3nii19cjbzeljrHGF28qgaP1ip.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "release_dates": {
+    "results": [
+      {
+        "iso_3166_1": "US",
+        "release_dates": [
+          {
+            "certification": "NR",
+            "descriptors": [],
+            "iso_639_1": "en",
+            "note": "",
+            "release_date": "2026-10-31T00:00:00.000Z",
+            "type": 1
+          }
+        ]
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  }
+}
