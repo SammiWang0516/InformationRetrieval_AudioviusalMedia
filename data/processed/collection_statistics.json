@@ -1,70 +1,148 @@
 {
-  "input_accepted_entries": 20,
-  "documents_written": 20,
+  "input_accepted_entries": 5000,
+  "documents_written": 5000,
   "documents_excluded": 0,
   "cast_limit": 10,
-  "release_year_min": 2026,
+  "release_year_min": 2024,
   "release_year_max": 2026,
   "coverage": {
     "poster": {
-      "count": 20,
-      "percentage": 100.0
+      "count": 4997,
+      "percentage": 99.9
     },
     "backdrop": {
-      "count": 20,
-      "percentage": 100.0
+      "count": 4932,
+      "percentage": 98.6
     },
     "keywords": {
-      "count": 20,
-      "percentage": 100.0
+      "count": 3573,
+      "percentage": 71.5
     },
     "cast": {
-      "count": 20,
-      "percentage": 100.0
+      "count": 4935,
+      "percentage": 98.7
     },
     "directors": {
-      "count": 20,
-      "percentage": 100.0
+      "count": 4961,
+      "percentage": 99.2
     },
     "writers": {
-      "count": 20,
-      "percentage": 100.0
+      "count": 4572,
+      "percentage": 91.4
     },
     "zh-CN": {
-      "count": 20,
-      "percentage": 100.0
+      "count": 4574,
+      "percentage": 91.5
     },
     "zh-TW": {
-      "count": 16,
-      "percentage": 80.0
+      "count": 2855,
+      "percentage": 57.1
     },
     "animation": {
-      "count": 1,
-      "percentage": 5.0
+      "count": 389,
+      "percentage": 7.8
     }
   },
   "top_genres": {
-    "Action": 9,
-    "Thriller": 9,
-    "Adventure": 7,
-    "Horror": 7,
-    "Science Fiction": 5,
-    "Fantasy": 5,
-    "Mystery": 3,
-    "Drama": 3,
-    "War": 2,
-    "Animation": 1,
-    "Romance": 1,
-    "Comedy": 1,
-    "Crime": 1
+    "Drama": 2150,
+    "Comedy": 1287,
+    "Thriller": 1175,
+    "Action": 895,
+    "Horror": 823,
+    "Romance": 638,
+    "Crime": 557,
+    "Documentary": 423,
+    "Fantasy": 394,
+    "Adventure": 391,
+    "Animation": 389,
+    "Science Fiction": 360,
+    "Mystery": 353,
+    "Family": 306,
+    "Music": 220,
+    "History": 208,
+    "TV Movie": 133,
+    "War": 121,
+    "Western": 42
   },
   "original_languages": {
-    "en": 12,
-    "es": 4,
-    "ko": 1,
-    "ja": 1,
-    "de": 1,
-    "hi": 1
+    "en": 2393,
+    "ja": 346,
+    "fr": 277,
+    "zh": 276,
+    "es": 224,
+    "ko": 164,
+    "tl": 113,
+    "hi": 110,
+    "de": 101,
+    "id": 96,
+    "pt": 68,
+    "th": 66,
+    "it": 65,
+    "ta": 63,
+    "te": 63,
+    "cn": 58,
+    "ml": 40,
+    "tr": 40,
+    "ru": 36,
+    "vi": 34,
+    "ar": 31,
+    "pl": 28,
+    "sv": 25,
+    "no": 24,
+    "da": 22,
+    "nl": 22,
+    "ms": 19,
+    "fi": 13,
+    "cs": 13,
+    "xx": 11,
+    "ro": 10,
+    "uk": 10,
+    "hu": 9,
+    "ca": 8,
+    "el": 8,
+    "fa": 8,
+    "et": 7,
+    "kn": 6,
+    "ka": 6,
+    "bn": 5,
+    "lt": 5,
+    "ne": 4,
+    "sq": 4,
+    "he": 4,
+    "bg": 4,
+    "mn": 4,
+    "zu": 4,
+    "is": 4,
+    "af": 3,
+    "mr": 3,
+    "lv": 3,
+    "my": 3,
+    "ga": 3,
+    "sk": 3,
+    "sr": 3,
+    "si": 2,
+    "pa": 2,
+    "sl": 2,
+    "mk": 2,
+    "hr": 2,
+    "ps": 1,
+    "ku": 1,
+    "nn": 1,
+    "mt": 1,
+    "ur": 1,
+    "sw": 1,
+    "bs": 1,
+    "bo": 1,
+    "eu": 1,
+    "gl": 1,
+    "ky": 1,
+    "gd": 1,
+    "km": 1,
+    "gu": 1,
+    "ht": 1,
+    "qu": 1,
+    "az": 1,
+    "kk": 1
   },
   "exclusion_reasons": {}
 }
