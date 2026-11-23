@@ -3,10 +3,13 @@
 This script never generates or invents relevance labels. It skips queries until
 all candidate rows for that query have a human score from 1 to 5.
 Metrics are calculated with pooled judgments, not full-corpus relevance.
+
+MRR@10 is reported for known-item queries only. It is computed against each
+query's target_doc_id, so only the movie the query writer had in mind counts
+as a hit, regardless of how similar movies were labelled.
 """
 import argparse
 import csv
-from html import parser
 import math
 import random
 from collections import defaultdict
@@ -51,6 +54,42 @@ def evaluate_ranking(ranking: list[str], labels: dict[str, int]) -> dict:
     ideal_dcg = dcg_at_10(ideal_labels)
     ndcg_at_10 = dcg_at_10(retrieved_labels) / ideal_dcg if ideal_dcg else 0.0
     return {"pooled_AP_at_10": ap_at_10, "pooled_nDCG_at_10": ndcg_at_10}
+
+
+def reciprocal_rank_at_10(ranking: list[str], target_doc_id: str) -> float:
+    """Return 1/rank of the target document in the top 10, or 0 if absent."""
+    for rank, doc_id in enumerate(ranking[:10], start=1):
+        if doc_id == target_doc_id:
+            return 1.0 / rank
+    return 0.0
+
+
+def mean(values: list[float]) -> float:
+    """Return the arithmetic mean, or 0 for an empty list."""
+    return sum(values) / len(values) if values else 0.0
+
+
+def print_summary(results: list[dict], label: str) -> None:
+    """Print mean metrics per method for one group of result rows."""
+    for method in ("BM25", "Random"):
+        subset = [row for row in results if row["method"] == method]
+        if not subset:
+            continue
+        mean_ap = mean([float(row["pooled_AP_at_10"]) for row in subset])
+        mean_ndcg = mean([float(row["pooled_nDCG_at_10"]) for row in subset])
+        reciprocal_ranks = [
+            float(row["RR_at_10"]) for row in subset if row["RR_at_10"] != ""
+        ]
+        mrr_text = (
+            f", MRR@10={mean(reciprocal_ranks):.4f} "
+            f"({len(reciprocal_ranks)} known-item)"
+            if reciprocal_ranks else ""
+        )
+        print(
+            f"  {label:<22} {method:<6} n={len(subset):<3} "
+            f"pooled MAP@10={mean_ap:.4f}, pooled nDCG@10={mean_ndcg:.4f}"
+            f"{mrr_text}"
+        )
 
 
 def main() -> None:
@@ -114,6 +153,11 @@ def main() -> None:
                     f"Candidate pool is missing {method} results for {query_id}: {missing[:5]}"
                 )
             metric = evaluate_ranking(ranking, labels)
+            target_doc_id = query.get("target_doc_id", "").strip()
+            reciprocal_rank = (
+                f"{reciprocal_rank_at_10(ranking, target_doc_id):.6f}"
+                if query["type"] == "known-item" and target_doc_id else ""
+            )
             results.append({
                 "query_id": query_id,
                 "language": query["language"],
@@ -121,6 +165,7 @@ def main() -> None:
                 "method": method,
                 "pooled_AP_at_10": f'{metric["pooled_AP_at_10"]:.6f}',
                 "pooled_nDCG_at_10": f'{metric["pooled_nDCG_at_10"]:.6f}',
+                "RR_at_10": reciprocal_rank,
                 "judged_documents": len(labels),
             })
 
@@ -132,11 +177,18 @@ def main() -> None:
         writer.writerows(results)
 
     # Compare methods only on the same set of fully judged queries.
-    for method in ("BM25", "Random"):
-        subset = [row for row in results if row["method"] == method]
-        mean_ap = sum(float(row["pooled_AP_at_10"]) for row in subset) / len(subset)
-        mean_ndcg = sum(float(row["pooled_nDCG_at_10"]) for row in subset) / len(subset)
-        print(f"{method}: pooled MAP@10={mean_ap:.4f}, pooled nDCG@10={mean_ndcg:.4f}")
+    print("\nOverall:")
+    print_summary(results, "all queries")
+
+    # Break results down so the language gap is not hidden by the average.
+    print("\nBy language and query type:")
+    groups = sorted({(row["language"], row["type"]) for row in results})
+    for language, query_type in groups:
+        group_rows = [
+            row for row in results
+            if row["language"] == language and row["type"] == query_type
+        ]
+        print_summary(group_rows, f"{language} / {query_type}")
 
     print(f"Results saved: {output}")
     if len(completed) < len(queries):
