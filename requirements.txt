@@ -1,2 +1,12 @@
 requests==2.34.2
 python-dotenv==1.2.3
+
+# Translated-query BM25 and multilingual dense retrieval.
+# On CPU-only machines, install torch first with:
+#   python -m pip install torch --index-url https://download.pytorch.org/whl/cpu
+torch==2.15.0
+transformers==5.24.0
+sentence-transformers==6.3.0
+sentencepiece==0.2.3
+sacremoses==0.2.0
+numpy==2.5.5
