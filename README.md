@@ -1,6 +1,8 @@
 # Multilingual Audiovisual Media Retrieval
 
-This project studies retrieval of movies and television series when the query and document are written in different languages, and when the query is an image rather than text. Documents are indexed in English. We plan to compare lexical retrieval, translated-query retrieval, and multilingual semantic retrieval, all scored with the same queries, relevance labels, and evaluation script.
+This project studies cross-lingual retrieval of English media metadata from multilingual queries: a user describes a movie in Chinese or English (Spanish planned), and the system searches an English-only catalog. Image queries are also in scope. We compare lexical retrieval, translated-query retrieval, and multilingual semantic retrieval, all scored with the same queries, relevance labels, and evaluation script.
+
+The index deliberately stays English. Indexing the stored Chinese translations would turn the task into same-language retrieval and remove the cross-lingual problem, so each method instead changes how the query reaches the English index.
 
 ## Current Scope
 
@@ -36,18 +38,21 @@ flowchart LR
     G --> H["Random and BM25<br/>baselines"]
     H --> I["nDCG@10, MAP@10,<br/>MRR@10 results"]
     I --> J["Checkpoint 1<br/>November 9, 2026"]
-    J --> K["Multilingual<br/>retrieval"]
+    J --> K["Translated-query<br/>BM25"]
+    J --> M["Multilingual<br/>dense retrieval"]
+    K --> N["Hybrid<br/>retrieval"]
+    M --> N
     J --> L["Image<br/>retrieval"]
 
     classDef completed fill:#d9ead3,stroke:#38761d,stroke-width:2px,color:#000000;
     classDef checkpoint fill:#fff2cc,stroke:#bf9000,stroke-width:2px,color:#000000;
     classDef planned fill:#eeeeee,stroke:#999999,stroke-width:1px,stroke-dasharray:4 3,color:#000000;
-    class A,B,C,D,E,F,R,G,H,I completed;
+    class A,B,C,D,E,F,R,G,H,I,K,M completed;
     class J checkpoint;
-    class K,L planned;
+    class N,L planned;
 ```
 
-Green blocks are implemented and tested; grey dashed blocks are planned. The collection contains 5,000 movies released 2024–2026, and the baselines have been evaluated on all 40 queries.
+Green blocks are implemented and tested; grey dashed blocks are planned. The collection contains 5,000 movies released 2024–2026. The baselines, translated-query BM25, and multilingual dense retrieval have been evaluated on all 40 queries.
 
 Raw candidate metadata is retained even when a movie does not pass the bilingual filter. This allows the collection process to be audited and resumed without requesting the same details again.
 
@@ -66,13 +71,19 @@ The preprocessing script performs the following steps:
 
 Chinese translations are stored for query preparation and a future interface, but they are not added to `retrieval_text`. This keeps the retrieval task Chinese query to English document.
 
+A small number of documents still contain Chinese characters in `retrieval_text` (67 of 5,000). These come from TMDB's English data itself, which leaves some cast, writer, and keyword values for Chinese-language films unromanized. They are rare and only match a query containing the exact name.
+
 ## Setup
 
-Install the Python dependencies:
+Create a virtual environment and install the Python dependencies. On a machine without a GPU, install the CPU build of PyTorch first:
 
 ```powershell
-python -m pip install -r requirements.txt
+python -m venv .venv
+.venv\Scripts\python -m pip install torch --index-url https://download.pytorch.org/whl/cpu
+.venv\Scripts\python -m pip install -r requirements.txt
 ```
+
+Run the scripts with `.venv\Scripts\python`. The translation and embedding models download from Hugging Face on first use. Encoding the collection needs several GB of free memory.
 
 Create a `.env` file in the project folder:
 
@@ -130,14 +141,26 @@ project_proposal/
     │   ├── documents.jsonl
     │   ├── collection_statistics.json
     │   └── excluded_documents.jsonl
-    └── evaluation/
-        └── checkpoint/
-            ├── queries_40_bilingual.csv       # 20 English/Chinese query pairs
-            ├── human_relevance_judgments.csv  # 50 judged documents per query
-            └── baseline_results.csv           # Per-query metrics for each method
+    ├── evaluation/
+    │   ├── checkpoint/
+    │   │   ├── queries_40_bilingual.csv       # 20 English/Chinese query pairs
+    │   │   ├── queries_translated.csv         # Machine-translated English version of each query
+    │   │   ├── human_relevance_judgments.csv  # 50 judged documents per query
+    │   │   └── baseline_results.csv           # Per-query metrics for BM25 and Random
+    │   └── results/
+    │       └── method_comparison.csv          # Per-query metrics for all methods
+    └── indexes/                               # Cached document vectors (gitignored)
 ```
 
-The retrieval and evaluation scripts sit alongside the collection scripts in the project folder: `baseline_retrieval.py`, `prepare_evaluation.py`, and `evaluate_checkpoint.py`.
+The retrieval and evaluation scripts sit alongside the collection scripts in the project folder:
+
+| Script | Purpose |
+|---|---|
+| `baseline_retrieval.py` | BM25 and Random baselines |
+| `translate_queries.py` | Translates non-English queries into English |
+| `dense_retrieval.py` | Multilingual dense retrieval |
+| `evaluate_checkpoint.py` | Scores any combination of methods |
+| `prepare_evaluation.py` | Example of building the judging pool |
 
 `accepted_movies.json` is an index of qualifying records. The complete metadata remains under `raw/details/movie/`. Image paths and video references are stored as metadata, but the associated media files are not downloaded during this stage.
 
@@ -183,13 +206,54 @@ Search from the command line:
 python baseline_retrieval.py --query "a robot stranded on an island" --method bm25 --top_k 10
 ```
 
+## Cross-Lingual Methods
+
+Both methods leave the English index unchanged and differ only in how the query reaches it.
+
+### Translated-query BM25
+
+`translate_queries.py` translates each Chinese query into English with the offline MarianMT model `Helsinki-NLP/opus-mt-zh-en` and saves the result to `queries_translated.csv`. English queries are copied unchanged. Translating once and saving keeps evaluation fast and reproducible, and the translations can be inspected. At search time the saved English text is run through the existing BM25 index.
+
+```powershell
+.venv\Scripts\python translate_queries.py
+```
+
+### Multilingual dense retrieval
+
+`dense_retrieval.py` uses `intfloat/multilingual-e5-base`, which maps text in about 100 languages into one shared 768-dimensional vector space. Each document is encoded once with the prefix `passage: ` and cached in `data/indexes/`. A query is encoded with the prefix `query: `, and documents are ranked by cosine similarity. The Chinese query is never translated.
+
+Two document text modes are available:
+
+| Mode | Fields embedded |
+|---|---|
+| `full` | The same `retrieval_text` that BM25 indexes, including cast, director, and writer names |
+| `plot` (default) | Title, overview, tagline, genres, and keywords only |
+
+The model averages its token vectors into one document vector, so every field dilutes the others. In `full` mode the name lists make up a large share of each vector and carry a strong language signal: Chinese queries returned Chinese-language films 68% of the time, although they make up 7% of the collection. The `plot` mode reduced this to 38% and improved accuracy in both languages. Its trade-off is that queries about people, such as "movies directed by Christopher Nolan", cannot match through names.
+
+```powershell
+.venv\Scripts\python dense_retrieval.py --query "一個機器人困在荒島上" --text_mode plot
+```
+
 ## Running the Evaluation
+
+Score the original baselines:
 
 ```powershell
 python evaluate_checkpoint.py
 ```
 
-The script evaluates only queries whose 50 candidates are all labelled, writes per-query metrics to `baseline_results.csv`, and prints means overall and by language and query type.
+Compare all methods:
+
+```powershell
+.venv\Scripts\python evaluate_checkpoint.py `
+  --methods bm25,random,bm25_translated,dense_full,dense_plot `
+  --out data/evaluation/results/method_comparison.csv
+```
+
+The script evaluates only queries whose 50 candidates are all labelled, writes per-query metrics to the output file, and prints means overall and by language and query type.
+
+New methods retrieve documents outside the judged pool. Unjudged documents are scored as not relevant, which is standard for pooled evaluation, and the `judged_at_10` column records how many of each top 10 were labelled. When it is low, nDCG@10 and MAP@10 underestimate that method. MRR@10 is unaffected because it checks only the known target.
 
 | Metric | Queries | What it measures |
 |---|---|---|
@@ -210,19 +274,41 @@ MRR@10 uses only `target_doc_id`. Similar movies that were labelled 4 or 5 do no
 | All 40 queries | BM25 | 0.403 | 0.280 | 0.475 |
 | All 40 queries | Random | 0.012 | 0.003 | 0.000 |
 
-BM25 works well for English queries and returns nothing useful for Chinese queries. The index contains only English text, and the tokenizer treats a run of Chinese characters as a single token, so Chinese queries share no terms with any document. Closing this gap is the purpose of the multilingual methods below. Report the per-language rows alongside the overall figures, because the overall mean hides the gap.
+BM25 works well for English queries and returns nothing for Chinese queries. The index contains only English text, and the tokenizer treats a run of Chinese characters as a single token, so Chinese queries share no terms with any document. Closing this gap is the purpose of the cross-lingual methods. Report the per-language rows alongside the overall figures, because the overall mean hides the gap.
+
+## Method Comparison Results
+
+All five methods on the same 40 queries. Known-item rows use MRR@10; exploratory rows use nDCG@10.
+
+| Queries | BM25 | BM25 + translation | Dense (full) | Dense (plot) | Random |
+|---|---|---|---|---|---|
+| English known-item (MRR@10) | 0.950 | 0.950 | 0.731 | 0.900 | 0.000 |
+| Chinese known-item (MRR@10) | 0.000 | **0.920** | 0.249 | 0.670 | 0.000 |
+| English exploratory (nDCG@10) | 0.752 | 0.752 | 0.230* | 0.301* | 0.014 |
+| Chinese exploratory (nDCG@10) | 0.000 | **0.483** | 0.090* | 0.145* | 0.024 |
+
+\* Fewer than 4 of each top 10 were judged, so these values underestimate the method.
+
+English rows are identical for BM25 and BM25 + translation because English queries are not translated.
+
+Findings so far:
+
+- **Translated-query BM25 is the strongest method.** It ranks 9 of 10 Chinese known-item targets first, close to English performance, and shows no language bias.
+- **Dense retrieval works without translation but trails it.** With plot-only text it ranks 6 of 10 Chinese targets first and 8 of 10 in the top 10. Its two clear failures, *Anora* (rank 39) and *A Minecraft Movie* (rank 23), depend on specific cultural or wording cues.
+- **Document text matters for dense retrieval.** Removing person names raised Chinese known-item MRR from 0.25 to 0.67 and English from 0.73 to 0.90.
+- **A language bias remains.** Chinese queries still return Chinese-language films 38% of the time with plot-only dense retrieval, against 6% for translated-query BM25.
+- **The exploratory comparison is unresolved.** Dense results are mostly unjudged, so labels are needed before drawing conclusions.
+- **Each group has only 10 queries,** so one query moves MRR by up to 0.1. Large differences are reliable; differences under about 0.1 are not.
 
 ## Next Steps
 
 Each new method plugs into the same evaluation: it takes a query, returns a top-10 list, and is scored by `evaluate_checkpoint.py` with the existing labels.
 
-1. **Translated-query BM25:** translate each Chinese query into English, then run the existing BM25 index.
-2. **Multilingual semantic retrieval:** embed queries and documents with a multilingual model so Chinese and English text share one vector space, then rank by similarity.
-3. **Hybrid retrieval:** combine BM25 and semantic scores.
+1. **Hybrid retrieval:** combine translated-query BM25 and dense scores. The two methods fail in different ways, and the hybrid also restores name matching that plot-only dense retrieval drops.
+2. **Judge new results:** label the dense method's unjudged top-10 documents so exploratory scores become reliable.
+3. **Reduce the remaining language bias:** try dropping non-English keywords from plot text, or a stronger model such as BGE-M3.
 4. **Image retrieval:** download backdrop and poster images, index them with an image–text model such as CLIP, and create a small set of image queries.
 5. **More queries:** expand the evaluation set, including Spanish queries, once the pipeline is stable.
-
-New retrieved documents that are not in the judged pool will need labels before they can be scored.
 
 ## Planned Collection Extension
 
