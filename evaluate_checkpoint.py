@@ -28,7 +28,8 @@ METHOD_NAMES = {
     "bm25": "BM25",
     "random": "Random",
     "bm25_translated": "BM25+MT",
-    "dense": "Dense",
+    "dense_full": "Dense-full",
+    "dense_plot": "Dense-plot",
 }
 
 # A missing label means "not judged"; it is scored like the lowest label (gain 0).
@@ -143,11 +144,14 @@ def build_rankers(method_keys: list[str], documents: dict, args) -> dict:
                 d for d, _ in bm25.query(translated[query["query_id"]], 10)
             ]
 
-        elif key == "dense":
+        elif key in ("dense_full", "dense_plot"):
             from dense_retrieval import DenseRetriever
 
-            dense = DenseRetriever(documents, args.dense_model)
-            rankers[key] = lambda query: [d for d, _ in dense.query(query["query"], 10)]
+            text_mode = key.removeprefix("dense_")
+            dense = DenseRetriever(documents, args.dense_model, text_mode)
+            rankers[key] = lambda query, dense=dense: [
+                d for d, _ in dense.query(query["query"], 10)
+            ]
 
         else:
             raise ValueError(f"Unknown method '{key}'. Choose from {list(METHOD_NAMES)}")

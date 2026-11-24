@@ -5,8 +5,16 @@ English documents into one vector space. Documents are ranked by cosine
 similarity to the query. The index stays English: a Chinese query is matched
 directly against English text, with no translation step.
 
+Two document text modes are supported:
+
+- "full": the same retrieval_text that BM25 indexes, including cast, director,
+  and writer names.
+- "plot": title, overview, tagline, genres, and keywords only. Person names are
+  left out because long name lists made Chinese queries favour Chinese-language
+  films by language rather than by plot.
+
 The document vectors are cached under data/indexes/ so the collection is
-encoded only once per model.
+encoded only once per model and text mode.
 """
 import argparse
 import json
@@ -19,9 +27,43 @@ from baseline_retrieval import load_documents
 DEFAULT_MODEL = "intfloat/multilingual-e5-base"
 
 
+TEXT_MODES = ("full", "plot")
+
+
 def is_e5_model(model_name: str) -> bool:
     """Return True for E5 models, which expect 'query: '/'passage: ' prefixes."""
     return "e5" in model_name.lower()
+
+
+def build_plot_text(document: dict) -> str:
+    """Combine the descriptive English fields, leaving out person names."""
+    sections = [document.get("title_en", "")]
+    if document.get("overview_en"):
+        sections.append(document["overview_en"])
+    if document.get("tagline_en"):
+        sections.append(document["tagline_en"])
+    if document.get("genres"):
+        sections.append("Genres: " + ", ".join(document["genres"]))
+    if document.get("keywords"):
+        sections.append("Keywords: " + ", ".join(document["keywords"]))
+
+    sentences = []
+    for section in sections:
+        sentence = section.strip()
+        if sentence and not sentence.endswith((".", "!", "?")):
+            sentence += "."
+        if sentence:
+            sentences.append(sentence)
+    return " ".join(sentences)
+
+
+def document_text(document: dict, text_mode: str) -> str:
+    """Return the text to embed for one document in the chosen mode."""
+    if text_mode == "full":
+        return document.get("retrieval_text", "")
+    if text_mode == "plot":
+        return build_plot_text(document)
+    raise ValueError(f"Unknown text mode '{text_mode}'. Choose from {TEXT_MODES}")
 
 
 class DenseRetriever:
@@ -31,20 +73,24 @@ class DenseRetriever:
         self,
         documents: dict,
         model_name: str = DEFAULT_MODEL,
+        text_mode: str = "plot",
         cache_dir: str = "data/indexes",
         batch_size: int = 8,
     ):
         from sentence_transformers import SentenceTransformer
 
+        if text_mode not in TEXT_MODES:
+            raise ValueError(f"Unknown text mode '{text_mode}'. Choose from {TEXT_MODES}")
         self.model_name = model_name
+        self.text_mode = text_mode
         self.model = SentenceTransformer(model_name)
         self.model.max_seq_length = 512
         self.doc_ids = sorted(documents)
         self.doc_vectors = self._load_or_encode(documents, cache_dir, batch_size)
 
     def _cache_paths(self, cache_dir: str) -> tuple[Path, Path]:
-        """Return the vector and ID file paths for this model."""
-        safe_name = self.model_name.replace("/", "__")
+        """Return the vector and ID file paths for this model and text mode."""
+        safe_name = f"{self.model_name.replace('/', '__')}_{self.text_mode}"
         folder = Path(cache_dir)
         return folder / f"dense_{safe_name}.npy", folder / f"dense_{safe_name}_ids.json"
 
@@ -59,12 +105,16 @@ class DenseRetriever:
                 return np.load(vector_path)
             print("Cached vectors do not match the current collection; re-encoding.")
 
-        # Embed the same English retrieval_text that BM25 indexes, so the
-        # comparison between methods uses identical document content.
         prefix = "passage: " if is_e5_model(self.model_name) else ""
-        texts = [prefix + documents[doc_id].get("retrieval_text", "") for doc_id in self.doc_ids]
+        texts = [
+            prefix + document_text(documents[doc_id], self.text_mode)
+            for doc_id in self.doc_ids
+        ]
 
-        print(f"Encoding {len(texts)} documents with {self.model_name} ...")
+        print(
+            f"Encoding {len(texts)} documents with {self.model_name} "
+            f"(text mode: {self.text_mode}) ..."
+        )
         vectors = self.model.encode(
             texts,
             batch_size=batch_size,
@@ -101,13 +151,14 @@ def main() -> None:
     parser.add_argument("--data", default="data/processed/documents.jsonl")
     parser.add_argument("--query", required=True, help="Search query in any language")
     parser.add_argument("--model", default=DEFAULT_MODEL)
+    parser.add_argument("--text_mode", choices=TEXT_MODES, default="plot")
     parser.add_argument("--top_k", type=int, default=10)
     args = parser.parse_args()
 
     documents = load_documents(args.data)
-    retriever = DenseRetriever(documents, args.model)
+    retriever = DenseRetriever(documents, args.model, args.text_mode)
 
-    print(f"\nModel: {args.model}\nQuery: {args.query}\n")
+    print(f"\nModel: {args.model} ({args.text_mode} text)\nQuery: {args.query}\n")
     for rank, (doc_id, score) in enumerate(retriever.query(args.query, args.top_k), start=1):
         title = documents[doc_id].get("title_en", "Unknown")
         print(f"{rank}. {title} [{doc_id}] | Cosine: {score:.4f}")
